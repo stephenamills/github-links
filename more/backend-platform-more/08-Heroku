@@ -1,0 +1,254 @@
+https://github.com/heroku/cli # Heroku CLI
+
+https://github.com/heroku/node-js-getting-started # Getting Started with Node.js on Heroku.
+https://github.com/heroku/python-getting-started # Getting Started with Python on Heroku.
+https://github.com/heroku/java-getting-started # Getting Started with Java on Heroku.
+https://github.com/heroku/php-getting-started # Getting Started with PHP on Heroku.
+https://github.com/heroku/go-getting-started # Getting Started with Go on Heroku.
+https://github.com/heroku/ruby-getting-started # Getting Started with Ruby on Heroku.
+https://github.com/heroku/gradle-getting-started # Getting Started with Java (Gradle) on Heroku.
+https://github.com/heroku/scala-getting-started # Getting Started with Scala / Play on Heroku.
+https://github.com/heroku/dotnet-getting-started #
+
+https://github.com/heroku/heroku-buildpack-nodejs # Heroku's buildpack for Node.js applications.
+https://github.com/heroku/heroku-buildpack-go # Heroku Go Buildpack
+https://github.com/heroku/heroku-buildpack-python # Heroku's buildpack for Python applications.
+https://github.com/heroku/heroku-buildpack-ruby # Heroku's buildpack for Ruby applications.
+https://github.com/heroku/heroku-buildpack-php # Heroku's buildpack for PHP applications.
+https://github.com/heroku/heroku-buildpack-nginx # Run NGINX in a Heroku app
+https://github.com/heroku/heroku-buildpack-java # Heroku's buildpack for Java applications.
+https://github.com/heroku/heroku-buildpack-apt # Buildpack that installs APT based dependencies
+https://github.com/heroku/heroku-buildpack-scala # Heroku's buildpack for Scala applications.
+https://github.com/heroku/heroku-buildpack-google-chrome # Run (headless) Google Chrome on Heroku
+https://github.com/heroku/heroku-buildpack-pgbouncer # Run pgbouncer in a dyno along with your application
+https://github.com/heroku/heroku-buildpack-clojure # Heroku's buildpack for Clojure applications.
+https://github.com/heroku/heroku-buildpack-gradle # Heroku's buildpack for Gradle applications.
+https://github.com/heroku/heroku-buildpack-multi-procfile # Everyone gets a Procfile!
+https://github.com/heroku/heroku-buildpack-jvm-common # Heroku's OpenJDK buildpack. A component of the Java, Scala, and Clojure buildpacks.
+https://github.com/heroku/heroku-buildpack-redis # An stunnel buildpack for Redis
+https://github.com/heroku/heroku-buildpack-cli #
+https://github.com/heroku/heroku-buildpack-awscli #
+https://github.com/heroku/salesforce-cli-buildpack # A buildpack that installs the Salesforce DX CLI in Heroku
+https://github.com/heroku/heroku-geo-buildpack #
+https://github.com/heroku/hatchet # A tool for testing buildpacks
+https://github.com/heroku/heroku-buildpack-ci-postgresql # An experimental buildpack to provide Postgresql running inside CI dynos
+https://github.com/heroku/buildpacks-nodejs # Heroku's Cloud Native Buildpacks for Node.js applications.
+https://github.com/heroku/cnb-shim # This is a shim to run old buildpacks as Cloud Native Buildpacks
+https://github.com/heroku/heroku-buildpack-ssh-key # Add an ssh key to your build
+https://github.com/heroku/heroku-buildpack-activestorage-preview # Official Heroku Rails 5.2 Active Storage Previews Buildpack
+https://github.com/heroku/heroku-buildpack-locale # Install language packs
+https://github.com/heroku/heroku-buildpack-inline # Yo dawg, I heard you like buildpacks.
+https://github.com/heroku/buildpacks-jvm # Heroku's Cloud Native Buildpacks for JVM applications.
+https://github.com/heroku/cnb-builder-images # Recipes for building Heroku's Cloud Native Buildpacks builder images
+https://github.com/heroku/heroku-buildpack-chrome-for-testing # Heroku Buildpack that installs Chrome for Testing
+https://github.com/heroku/heroku-buildpack-ci-redis # An experimental buildpack to provide Redis running inside CI dynos
+https://github.com/heroku/buildpacks-ruby # Heroku's Cloud Native Buildpack for Ruby applications.
+https://github.com/heroku/heroku-buildpack-github-netrc # Heroku buildpack to access private Github repos over HTTPS without storing user/pass in your files.
+https://github.com/heroku/libcnb.rs # A framework for writing Cloud Native Buildpacks in Rust
+https://github.com/heroku/heroku-buildpack-metrics #
+https://github.com/heroku/buildpacks-procfile # Heroku's Procfile Cloud Native Buildpack.
+https://github.com/heroku/buildpacks-python # Heroku's Cloud Native Buildpack for Python applications.
+https://github.com/heroku/heroku-buildpack-imagemagick-policy #
+https://github.com/heroku/docker-heroku-ruby-builder # Docker setup for building binaries for Heroku's Ruby Buildpack
+https://github.com/heroku/heroku-buildpack-sprettur # Run your tests in a Heroku dyno
+https://github.com/heroku/buildpacks-go # Heroku's Cloud Native Buildpack for Go applications.
+https://github.com/heroku/buildpacks # Heroku Cloud Native Buildpacks
+https://github.com/heroku/buildpacks-php # Heroku's Cloud Native Buildpack for PHP applications.
+https://github.com/heroku/heroku-buildpack-l2met-shuttle #
+https://github.com/heroku/exec-buildpack #
+https://github.com/heroku/heroku-buildpack-yara #
+https://github.com/heroku/null-buildpack #
+https://github.com/heroku/heroku-buildpack-secret-buddy # Secretbuddy Buildpack
+https://github.com/heroku/docker-heroku-jruby-builder # Docker setup for building JRuby packages for Heroku's Ruby Buildpack
+https://github.com/heroku/buildpacks-dotnet # Heroku's Cloud Native Buildpack for .NET applications.
+https://github.com/heroku/heroku-buildpack-no # A buildpack to block builds being performed for an app
+https://github.com/heroku/buildpack-registry.js # Node.js/TypeScript library for interfacing with the Heroku Buildpack Registry
+https://github.com/heroku/heroku-buildpack-pgbouncer-testing #
+https://github.com/heroku/heroku-buildpack-secret-buddy-exports #
+https://github.com/heroku/heroku-buildpack-heroku-integration-service-mesh # This buildpack installs Heroku Integration Service Mesh in a Heroku app.
+
+https://github.com/heroku/platform-api # Ruby HTTP client for the Heroku API
+https://github.com/heroku/heroku-builds # Builds API CLI plugin
+https://github.com/heroku/heroku-go # Heroku Platform API Go Client
+https://github.com/heroku/node-heroku-client # A wrapper around the Heroku API for Node.js
+https://github.com/heroku/heroku-api-plugin # Heroku API plugin for Heroku Toolbelt
+https://github.com/heroku/typescript-api-schema #
+https://github.com/heroku/api-maintenance-sim # Simulate Platform API in maintenance
+
+https://github.com/heroku/base-images # Recipes for building the base images for Heroku's stacks
+https://github.com/heroku/terraform-provider-heroku # Terraform Heroku provider
+https://github.com/heroku/alpinehelloworld # An Alpine-based Docker example
+https://github.com/heroku/rails_stdout_logging # Logs to stdout so you don't have to
+https://github.com/heroku/heroku-guardian # Validate baseline security configurations for your Heroku deployments.
+https://github.com/heroku/heroku-jupyterlab # An example of running JupyterLab on Heroku, with Amazon S3.
+https://github.com/heroku/java-workbook # Learn Java on Heroku
+https://github.com/heroku/template-java-spring-hibernate #
+https://github.com/heroku/heroku-slugs # CLI Plugin to manage downloading of slugs
+https://github.com/heroku/log-iss # logplex HTTP input to TCP forwarder
+https://github.com/heroku/elbping # Small tool to ping the nodes that make up an Amazon Elastic Load Balancer
+https://github.com/heroku/heroku-connect-plugin # CLI plugin for Heroku Connect (experimental)
+https://github.com/heroku/flow-demo # Simple Express app to demo Heroku Flow
+https://github.com/heroku/devcenter-grails #
+https://github.com/heroku/heroku-kafka-demo-ruby # A simple demo app to show off Heroku Kafka from Ruby
+https://github.com/heroku/webhooks-demo #
+https://github.com/heroku/devcenter-webapp-runner #
+https://github.com/heroku/canal_lock # Erlang lock manager for concurrently variable resource numbers
+https://github.com/heroku/heroku-kafka-jsplugin # Heroku Kafka CLI Plugin
+https://github.com/heroku/cnb-shim # This is a shim to run old buildpacks as Cloud Native Buildpacks
+https://github.com/heroku/heroku_crashdumps # Configures crash dump output location
+https://github.com/heroku/homebrew-brew #
+https://github.com/heroku/api-maintenance-sim # Simulate Platform API in maintenance
+https://github.com/heroku/template-java-jaxrs # Template app for Java JAX-RS
+https://github.com/heroku/tak # Tak: SSL Certificate Pinning in Erlang.
+https://github.com/heroku/heroku-buildpack-ssh-key # Add an ssh key to your build
+https://github.com/heroku/force.rb #
+https://github.com/heroku/heroku-buildpack-chrome-for-testing # Heroku Buildpack that installs Chrome for Testing
+https://github.com/heroku/edump # Erlang Crashdump Analysis Library
+https://github.com/heroku/ectr # Erlang ETS Counter Table library
+https://github.com/heroku/heroku-buildpack-awscli #
+https://github.com/heroku/rack-timing # Such timestamps for your Rails app rack stack. wow
+https://github.com/heroku/react-malibu # React components for using the Malibu SVG spritesheet
+https://github.com/heroku/heroku-kafka-demo-go # A simple demo app to demonstrate Apache Kafka on Heroku using Go
+https://github.com/heroku/urinception # Data URIs over HTTP
+https://github.com/heroku/sudo-sandwich # Example Heroku add-on built with Rails
+https://github.com/heroku/http-call #
+https://github.com/heroku/react-flux-starter # Example React/Flux project based on Heroku Connect
+https://github.com/heroku/app-innovation # Heroku App Innovation Workshop
+https://github.com/heroku/devcenter-jetty-runner #
+https://github.com/heroku/heroku-buildpack-locale # Install language packs
+https://github.com/heroku/function-migration # This guide and repo is an example of how Salesforce Functions may be ported to Herok
+u Apps. https://github.com/heroku/kanshi # Postgres surveillance
+https://github.com/heroku/template-java-embedded-jetty #
+https://github.com/heroku/gpgenv # Read env vars from gpg-encrypted files
+https://github.com/heroku/heroku-cli-addons-admin # Heroku CLI plugin to help Heroku add-on providers integrate their services with
+Heroku https://github.com/heroku/node-heroku-bouncer # easy Heroku OAuth authentication for express
+https://github.com/heroku/uri # Erlang URI Handling Library
+https://github.com/heroku/create-render-4r # Express.js middleware to render a React+Router+Redux+Radium app
+https://github.com/heroku/heroku-buildpack-ci-postgresql # An experimental buildpack to provide Postgresql running inside CI dynos
+https://github.com/heroku/sseasy # SSE middleware for connect
+https://github.com/heroku/devcenter-java-worker #
+https://github.com/heroku/active_storage_with_previews_example # Demo for article https://blog.heroku.com/rails-active-storage
+https://github.com/heroku/heroku-buildpack-inline # Yo dawg, I heard you like buildpacks.
+https://github.com/heroku/agentmon # Secret dyno metrics agent mon. He's giving you the numbers...
+https://github.com/heroku/buildpacks-go # Heroku's Cloud Native Buildpack for Go applications.
+https://github.com/heroku/pliny-sidekiq # Pliny <3 Sidekiq
+https://github.com/heroku/devcenter-redis-java # Java portion of the Devcenter article on Redis
+https://github.com/heroku/configvar # Manage configuration values loaded from the environment.
+https://github.com/heroku/heroku-buildpack-github-netrc # Heroku buildpack to access private Github repos over HTTPS without storin
+g user/pass in your files. https://github.com/heroku/buildpacks-php # Heroku's Cloud Native Buildpack for PHP applications.
+https://github.com/heroku/minitel # a telex client
+https://github.com/heroku/django-heroku-connect # Heroku Connect client Django app
+https://github.com/heroku/plugin-java #
+https://github.com/heroku/on-heroku-chrome-extension # Shows a Heroku logo on the address bar if a web site is running on Heroku
+https://github.com/heroku/salesforce-utils # Utilities for using the Salesforce.com SOAP API and loading test data.
+https://github.com/heroku/template-java-play # Template app for Play! Framework
+https://github.com/heroku/devcenter-cli # CLI to interact with Dev Center
+https://github.com/heroku/buildpacks-jvm # Heroku's Cloud Native Buildpacks for JVM applications.
+https://github.com/heroku/force.js #
+https://github.com/heroku/shareheroku-java #
+https://github.com/heroku/rack-latency #
+https://github.com/heroku/salesforce_id_formatter # Convert 18-char Salesforce IDs to 15-char ones, and vice versa
+https://github.com/heroku/heroku-kafka-demo-java # A simple demo app to demonstrate Apache Kafka on Heroku using Java
+https://github.com/heroku/kafka-twitter-fanout # Part of a data processing pipeline example using Apache Kafka on Heroku
+https://github.com/heroku/jsforce-connection # Create an instantly reliable jsforce connection
+https://github.com/heroku/buildpacks-procfile # Heroku's Procfile Cloud Native Buildpack.
+https://github.com/heroku/heroku-buildpack-metrics #
+https://github.com/heroku/configerator # Simple Ruby module for implementing environment based configuration, following the 12facto
+r pattern. https://github.com/heroku/ensou # Sass styles for (Ruby) Heroku apps
+https://github.com/heroku/heroku-cli-diff # Diff two apps with the Heroku CLI
+https://github.com/heroku/docker-heroku-ruby-builder # Docker setup for building binaries for Heroku's Ruby Buildpack
+https://github.com/heroku/heroku-proxy # proxy middleware to the Heroku API for express
+https://github.com/heroku/kafka-twitter-aggregate # Part of a data processing pipeline example using Apache Kafka on Heroku
+https://github.com/heroku/lager_elogfmt_formatter # A lager formatter for logfmt and structured logs
+https://github.com/heroku/slog # Structured Logging Helpers for Go
+https://github.com/heroku/pvs-node # This example app has moved
+https://github.com/heroku/table-flip # Check whether there's data in your database before doing something potentially stupid
+https://github.com/heroku/heroku-addon-attachments # plugin to provide addon attachments functionality
+https://github.com/heroku/create-render-4r-example # Example Universal Web App: React.js running on the server and in browsers.
+https://github.com/heroku/kafka-twitter-relatedwords # Part of a data processing pipeline example using Apache Kafka on Heroku
+https://github.com/heroku/heroku-cli-color #
+https://github.com/heroku/salesforce_model # Abstract ActiveRecord subclass for accessing Heroku Connect sync tables
+https://github.com/heroku/heroku-buildpack-ci-redis # An experimental buildpack to provide Redis running inside CI dynos
+https://github.com/heroku/so_stub_very_test # sostubverytestmuchexconwow
+https://github.com/heroku/rails_on_heroku #
+https://github.com/heroku/heroku-bamboo-plugin # A plugin for interacting with Heroku during Atlassian Bamboo builds
+https://github.com/heroku/quick-fix # FIX eCommerce home page optimized for deployment workflow demos
+https://github.com/heroku/relish # Release manager
+https://github.com/heroku/l2meter # L2met-friendly log formatter
+https://github.com/heroku/pliny-librato # Librato metrics reporter for Pliny::Metrics
+https://github.com/heroku/webhooks-docs # Documentation for Heroku Partner Webhooks (Alpha)
+https://github.com/heroku/update-node-build-script # A one-time migration tool to help you get your builds running on Heroku with a
+single command https://github.com/heroku/midjan # Midjan provides a way to have a chain of modules to run, go back in the chain and rerun it from
+a a certain point. https://github.com/heroku/color #
+https://github.com/heroku/minitel-go # A telex client for Go
+https://github.com/heroku/rack-ignore_forwarded_host # Ignores X-Forwarded-Host header to prevent malicious redirects
+https://github.com/heroku/favicon # Heroku's favicon
+https://github.com/heroku/bounceback # connect to private spaces heroku postgres databases from peered vpcs
+https://github.com/heroku/heroku-data-privatelink-cli #
+https://github.com/heroku/languages-github-actions # GitHub Actions and reusable workflow used by the Languages Team
+https://github.com/heroku/devcenter-ios-search-client # iOS client code for "Building Full-Text Search on iOS with Postgres and Sin
+atra" https://github.com/heroku/buildpacks-dotnet # Heroku's Cloud Native Buildpack for .NET applications.
+https://github.com/heroku/xfrtuc # Ruby client for Transferatu
+https://github.com/heroku/tq # TOML query
+https://github.com/heroku/terraform-route53-to-route53-forward # Creates zones and NS records to forward from a parent zone to the
+new child, in Route 53.
+https://github.com/heroku/draincat # Like netcat but for Heroku logs
+https://github.com/heroku/jruby-getting-started # Getting Started with JRuby (Microsoft Windows) on Heroku.
+https://github.com/heroku/hkdefault # default plugin for hk
+https://github.com/heroku/heroku-ps-exec #
+https://github.com/heroku/exec-buildpack #
+https://github.com/heroku/heroku-rediscloud-plugin-example # Example Heroku CLI Plugin
+https://github.com/heroku/javasample-play-redis #
+https://github.com/heroku/app-manifest # A Ruby library for parsing app.json manifests
+https://github.com/heroku/vcard #
+https://github.com/heroku/javasample-redis #
+https://github.com/heroku/heroku-CVE-2013-0333 #
+https://github.com/heroku/heroku-exec-util #
+https://github.com/heroku/starboard-docs-template # A template for Starboard's document store
+https://github.com/heroku/heroku-buildpack-no # A buildpack to block builds being performed for an app
+https://github.com/heroku/json2envdir # JSON to envdir compatible file structure
+https://github.com/heroku/circle-orbs #
+https://github.com/heroku/typescript-api-schema #
+https://github.com/heroku/fuzzy-rotary-phone # A hack
+https://github.com/heroku/ember-trace # Generate Graphviz dataflow graphs for your Ember app [EXPERIMENTAL] (archive it?)
+https://github.com/heroku/logplex_client # Erlang Logplex Client
+https://github.com/heroku/heroku-cli-notifications #
+https://github.com/heroku/csa-demo-connect-node # NodeJS Heroku Connect Sample
+https://github.com/heroku/spark-singularity # Experiment with Spark Machine Learning; run in a single Heroku dyno
+https://github.com/heroku/dreamhouse-disco # Interactive jukebox app to demo Heroku basics
+https://github.com/heroku/heroku-buildpack-yara #
+https://github.com/heroku/sparoku-drain # Heroku Log drain that emits stats about your dynos to a Spark Core device running Sparoku
+Status https://github.com/heroku/fuji.js # A javascript implementation of Fuji, a universal header for Heroku sites
+https://github.com/heroku/heroku-CVE-2013-0269 # Inspect all of your Heroku apps for vulnerable versions of the JSON gem
+https://github.com/heroku/cli-engine-example #
+https://github.com/heroku/refocus-ruby # Ruby client for Refocus (https://github.com/salesforce/refocus)
+https://github.com/heroku/miniterl # A Telex client for Erlang.
+https://github.com/heroku/docker-splunk-nginx-defaults # Splunk default.yml Nginx container populated by AWS Secrets Manager
+https://github.com/heroku/node-function-invoker #
+https://github.com/heroku/booth-videos # https://booth-videos.herokuapp.com/
+https://github.com/heroku/logplex-cli # Logplex client written in Go
+https://github.com/heroku/erequest_id # Create Request IDs.
+https://github.com/heroku/heroku-buildpack-l2met-shuttle #
+https://github.com/heroku/heroku-privatelink-example # An example of setting up Heroku Postgres via PrivateLink
+https://github.com/heroku/uuid_properties #
+https://github.com/heroku/git_hub_integration # A gem used to get an Octokit client configured with a GitHub App bot-token
+https://github.com/heroku/heroku-CVE-2013-0156 # Inspect all of your heroku apps to see if they are running a vulnerable version of
+Rails  
+ https://github.com/heroku/cli-plugin-integration-tests #
+https://github.com/heroku/heroku-integration-service-mesh #
+https://github.com/heroku/huban-workflow # GitHub Issues-based Kanban Workflow Example
+https://github.com/heroku/heroku-buildpack-sprettur # Run your tests in a Heroku dyno
+https://github.com/heroku/webhooks-deployhooks-adapter # This app is intended as an example to aid on the migration from Deploy Hoo
+ks to App Webhooks  
+https://github.com/heroku/kafka-message-waterfall # A simple app that streams Kafka messages down a web page.
+https://github.com/heroku/data-driven-demo #
+https://github.com/heroku/template-app-bootstrap # The markup and CSS for template apps
+https://github.com/heroku/itchy-glossary # A collection of Heroku-centric words
+https://github.com/heroku/design-exercise #
+https://github.com/heroku/null-buildpack #
+https://github.com/heroku/krum # Basic Elixir client-library for Telex
+https://github.com/heroku/scala-play-sample #
+https://github.com/heroku/template-java-spring-sfdc #
+https://github.com/heroku/rails2blog # example of a blog written in rails2
+https://github.com/heroku/terraform-dyn-to-route53-forward # Terraform module to forward a DNS requests for a subdomain from dyn to
+route53

@@ -1,12 +1,4 @@
 Writing
-https://flatironschool.com
-https://frontendmasters.com
-
-https://cloud.google.com
-https://hashicorp.com
-https://oracle.com
-https://redhat.com
-
 https://acm.org
 https://dzone.com
 https://infoq.com
@@ -16,9 +8,15 @@ https://oreilly.com
 
 https://jetbrains.com
 
---
-Backblaze
+https://flatironschool.com
+https://frontendmasters.com
 
+https://cloud.google.com
+https://hashicorp.com
+https://oracle.com
+https://redhat.com
+
+--
 Railway
 
 Heroku
@@ -54,6 +52,37 @@ VXLAN
 Wireguard
 
 --
+Rails projects
+https://github.com/brandonfang/lilnotion # Notion (React)
+https://github.com/taisiat/caro # Turo (React)
+https://github.com/justalever/tweeter # Twitter
+https://github.com/planetscale/tweeter-public # Twitter
+https://github.com/adamvenord17/rutube # YouTube (React)
+https://github.com/tbeddy/tremolonimbus # SoundCloud (React)
+https://github.com/braisoncrece/airbnb-clone # Airbnb
+https://github.com/carly-schaaf/adventurebnb # Airbnb
+https://github.com/m8825/villow # Zillow
+https://github.com/ceci007/dribbble-clone # Dribble
+https://github.com/youyoumu/discord-clone # Discord
+https://github.com/lafeber/fullcalendar-hotwire # Google Calendar
+https://github.com/hopsoft/chatter
+https://github.com/john-hamnavoe/rails-trello-clone # Trello
+https://github.com/marcoroth/boxdrop # Dropbox
+https://github.com/kaycbas/rocket # Pocket
+https://github.com/fractaledmind/hottable # AirTable
+https://github.com/chriscavs/mead # Medium (React)
+https://github.com/lifeiscontent/realworld # Medium (React)
+https://github.com/steveninouye/iBuy # Ebay (React)
+https://github.com/rustam-tolipov/instagram-clone-rails # Instagram
+https://github.com/truongnmt/instagram-clone # Instagram
+https://github.com/ghoshnirmalya/linkedin-clone-rails-backend # LinkedIn
+https://github.com/alexawesomecode/facebook-clone-project # Facebook
+https://github.com/crespire/rails_railsbook # Facebook
+https://github.com/corsego/corsego # Udemy
+https://github.com/corsego/119-trello-drag-drop-save # Trello
+https://github.com/hopegipson/spotify_clone # Spotify
+https://github.com/zkural1/alljourneys # AllTrails
+
 Appwrite
 
 Supabase
@@ -63,7 +92,6 @@ Mock APIs
 OpenAPI
 
 https://github.com/paloaltonetworks/docusaurus-openapi-docs # 🦝 OpenAPI plugin for generating API reference docs in Docusaurus v3.
-
 
 Bug Bounty
 

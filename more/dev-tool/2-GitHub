@@ -1,3 +1,10 @@
+https://github.com/cli/cli # GitHub’s official command line tool
+https://github.com/github/rest-api-description # An OpenAPI description for GitHub's REST API
+
+https://github.com/githubtraining/training-manual # Home of the words in the GitHub Training Manual and teaching scripts.
+https://github.com/github/training-kit # Open source courseware for Git and GitHub
+https://github.com/github/github-for-startups-hq # GitHub for Startups HQ
+
 https://github.com/skills/introduction-to-github # Get started using GitHub in less than an hour.
 https://github.com/skills/github-pages # Create a site or blog from your GitHub repositories with GitHub Pages.
 https://github.com/skills/communicate-using-markdown # Organize ideas and collaborate using Markdown, a lightweight language for text formatting.
@@ -21,9 +28,100 @@ https://github.com/skills/template-template # A template to make course template
 https://github.com/skills/write-javascript-actions # Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow.
 https://github.com/skills/deploy-to-azure # Create two deployment workflows using GitHub Actions and Microsoft Azure.
 https://github.com/skills/secure-repository-supply-chain # Secure your supply chain, understand dependencies in your environment
-https://github.com/skills/introduction-to-secret-scanning # Enable secret scanning to identify plain-text credentials and prevent them from being written to your repository
+https://github.com/skills/introduction-to-secret-scanning # Enable secret scanning to identify plain-text credentials
 https://github.com/skills/action-update-step # Action step: Update the course repository when the learner completes a step. <<Not a course>>
 https://github.com/skills/configure-codeql-language-matrix # Learn how to simplify your code scanning workflows with CodeQL language matrices
 https://github.com/skills/action-check-file # Action: Check file for expected changes. <<Not a course>>
 
-https://github.com/githubtraining/training-manual # Home of the words in the GitHub Training Manual and teaching scripts.
+https://github.com/github/haikus-for-codespaces #
+https://github.com/github/codespaces-blank #
+https://github.com/github/codespaces-jupyter # Explore machine learning and data science with Codespaces
+https://github.com/github/codespaces-react #
+https://github.com/github/codespaces-nextjs #
+https://github.com/github/codespaces-flask #
+https://github.com/github/dotnet-codespaces #
+https://github.com/github/codespaces-django #
+https://github.com/github/codespaces-rails #
+https://github.com/github/codespaces-express #
+https://github.com/github/codespaces-preact #
+https://github.com/github/codespaces-host-images # Codespaces Host Images
+https://github.com/github/copilot-codespaces-demo # Welcome to the Copilot + Codespaces Demo Experience!
+https://github.com/github/codespaces-codeql # Get to know more about the concepts of CodeQL by trying our simple tutorials.
+https://github.com/github/codespaces-models #
+https://github.com/github/codespaces-jetbrains-feedback # Feedback on the Codespaces integration with JetBrains IDEs
+
+https://github.com/github/codeql # CodeQL: the libraries and queries that power security researchers around the world
+https://github.com/github/securitylab # Resources related to GitHub Security Lab
+https://github.com/github/codeql-action # Actions for running CodeQL analysis
+https://github.com/github/vscode-codeql # An extension for Visual Studio Code that adds rich language support for CodeQL
+https://github.com/github/vscode-codeql-starter # Starter workspace to use with the CodeQL extension for Visual Studio Code.
+https://github.com/github/codeql-cli-binaries # Binaries for the CodeQL CLI
+https://github.com/github/codeql-coding-standards # This repository contains CodeQL queries and libraries which support various Coding Standards.
+https://github.com/github/ghas-jira-integration # Synchronize GitHub Code Scanning alerts to Jira issues
+https://github.com/github/codeql-action-sync-tool # A tool for syncing the CodeQL Action from GitHub.com to GitHub Enterprise Server, including copying the CodeQL bundle.
+https://github.com/github/codespaces-codeql # Get to know more about the concepts of CodeQL by trying our simple tutorials.
+https://github.com/github/gh-codeql # GitHub CLI extension for working with CodeQL
+https://github.com/github/codeql-variant-analysis-action #
+https://github.com/github/codeql-ctf-go-return # Extension project for the Go and Don't Return CodeQL CTF
+
+https://github.com/github/gh-actions-importer # Automate the migration to GitHub Actions
+https://github.com/github/codeql-action # Actions for running CodeQL analysis
+https://github.com/github/dependabot-action # Runs Dependabot Updates via GitHub Actions.
+https://github.com/github/issue-labeler # Automatically label issues
+https://github.com/github/ossar-action # Run multiple open source security static analysis tools
+https://github.com/github/actions-oidc-debugger # Show OIDC claims in GitHub Actions.
+https://github.com/github/webpack-bundlesize-compare-action # Output bundlesize comparison tables for pull requests
+https://github.com/github/actions-oidc-gateway-example # Use the Actions OIDC token to proxy into a private network
+https://github.com/github/octoforce-actions # A lightweight open-source Salesforce CI/CD template built on the GitHub Actions platform.
+https://github.com/github/update-project-action # Update an item on a GitHub Projects (beta) board based on a workflow dispatch (or other) event's input.
+https://github.com/github/branch-deploy # Enabling Branch Deployments through IssueOps with GitHub Actions
+https://github.com/github/local-action # Run and debug a GitHub Action locally
+https://github.com/github/codeql-variant-analysis-action #
+https://github.com/github/lock # Lock Action to support deployment locking for the branch-deploy Action
+https://github.com/github/command # IssueOps commands in GitHub Actions
+https://github.com/github/combine-prs # Combine multiple PRs into a single one
+https://github.com/github/licensed-ci # Update and check cached licenses in a GitHub Actions workflow
+https://github.com/github/cleanowners # A GitHub Action to suggest removal of non-organization members from CODEOWNERS files
+https://github.com/github/contributors # Given an organization or repository, produces information about the contributors over the specified time period.
+https://github.com/github/setup-licensed # Setup your GitHub Actions workflow with a specific version of github/licensed
+https://github.com/github/evergreen # GitHub Action to enable automated security updates and open a issue/PR in repos that don't have a dependabot.yaml file
+
+https://github.com/github/platform-samples # A public place for all platform sample projects.
+
+https://github.com/github/roadmap # GitHub public roadmap
+https://github.com/github/opensource.guide # 📚 Community guides for open source creators
+https://github.com/github/choosealicense.com # A site to provide non-judgmental guidance on choosing a license for your open source project
+https://github.com/github/site-policy # Collaborative development on GitHub's site policies, procedures, and guidelines
+https://github.com/github/how-engineering-communicates # A community version of the "common API" for how the GitHub Engineering organization communicates
+
+https://github.com/github/gitignore # A collection of useful .gitignore templates
+https://github.com/github/docs # The open-source repo for docs.github.com
+https://github.com/github/advisory-database # Security vulnerability database inclusive of CVEs and GitHub originated security advisories
+https://github.com/github/catalyst # Catalyst is a set of patterns and techniques for developing components within a complex application.
+https://github.com/github/backup-utils # GitHub Enterprise Backup Utilities
+https://github.com/github/opensourcefriday # 🚲 Contribute to the open source community every Friday
+https://github.com/github/.github # Community health files for the @GitHub organization
+https://github.com/github/github-ds # A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection
+https://github.com/github/email_reply_parser # Small library to parse plain text email content
+https://github.com/github/freno # freno: cooperative, highly available throttler service
+https://github.com/github/safe-settings #
+https://github.com/github/vscode-github-actions # GitHub Actions extension for VS Code
+https://github.com/github/issue-metrics # Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
+https://github.com/github/hackathons # Tips, Tricks, and Resources for running your hackathon.
+https://github.com/github/gh-gei # Migration CLI for GitHub to GitHub migrations
+https://github.com/github/eslint-plugin-github # An opinionated collection of ESLint rules used by GitHub.
+https://github.com/github/github-ldap # LDAP client for humans. Part of GitHub Enterprise.
+https://github.com/github/pages-health-check # Checks your GitHub Pages site for common DNS configuration issues
+https://github.com/github/markdownlint-github # An opinionated collection of markdownlint rules used by GitHub.
+https://github.com/github/actions-learning-pathway # Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.
+https://github.com/github/forgoodfirstissue # Find your first issue for good to contribute to
+https://github.com/github/gh-migration-analyzer #
+https://github.com/github/chatops-controller # A rails plugin to make creating chatops easy
+https://github.com/github/ghec-audit-log-cli # Query the GitHub Audit Log for your organization to send it over to other services like Elastic, Splunk or Sentinel
+https://github.com/github/pets-workshop # Workshop and getting started content for organizations using GitHub for Startups
+https://github.com/github/copilot-survey-engine # Engine for prompting users to take a survey about Copilot
+https://github.com/github/prettier-config # Prettier config used at GitHub
+https://github.com/github/copilot-hack # Open form hack for GitHub Copilot
+https://github.com/github/skills-based-volunteering-public # Template for setting up a Skills-Based Volunteering Program
+https://github.com/github/gh-ado2gh # Migration CLI for Azure DevOps to GitHub migrations
+https://github.com/github/gh-ost-ci-env # CI environment for gh-ost testing

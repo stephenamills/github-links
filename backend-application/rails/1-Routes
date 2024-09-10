@@ -1,5 +1,6 @@
-https://github.com/rails/rails # Action Pack, Active Record
+https://github.com/rails/rails # Web-application framework that includes everything needed to create database-backed web applications
 
+Routes
 https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-readme # routes
 https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-lab #
 https://github.com/learn-co-curriculum/phase-3-rails-url-helpers-readme # route helper
@@ -23,6 +24,7 @@ https://github.com/learn-co-curriculum/phase-3-modification-nested-routes-lab
 https://github.com/learn-co-curriculum/phrg-sinatra-dynamic-routes-codealong #
 https://github.com/learn-co-curriculum/phrg-rails-generators-readme#resource-generators # resource generator
 
+Rack
 https://github.com/rack/rack # A Ruby web server interface
 https://github.com/cyu/rack-cors
 https://github.com/rack/rack-attack
@@ -45,33 +47,3 @@ https://github.com/learn-co-curriculum/phase-4-cors # Rack CORS intro
 
 https://github.com/learn-co-curriculum/phase-3-todo-app-rack-react # Todo app - React and Rack
 https://github.com/learn-co-curriculum/lecture-crud-with-rack-react # React and Rack
-
-https://github.com/brandonfang/lilnotion # Notion (React)
-https://github.com/taisiat/caro # Turo (React)
-https://github.com/justalever/tweeter # Twitter
-https://github.com/planetscale/tweeter-public # Twitter
-https://github.com/adamvenord17/rutube # YouTube (React)
-https://github.com/tbeddy/tremolonimbus # SoundCloud (React)
-https://github.com/braisoncrece/airbnb-clone # Airbnb
-https://github.com/carly-schaaf/adventurebnb # Airbnb
-https://github.com/m8825/villow # Zillow
-https://github.com/ceci007/dribbble-clone # Dribble
-https://github.com/youyoumu/discord-clone # Discord
-https://github.com/lafeber/fullcalendar-hotwire # Google Calendar
-https://github.com/hopsoft/chatter
-https://github.com/john-hamnavoe/rails-trello-clone # Trello
-https://github.com/marcoroth/boxdrop # Dropbox
-https://github.com/kaycbas/rocket # Pocket
-https://github.com/fractaledmind/hottable # AirTable
-https://github.com/chriscavs/mead # Medium (React)
-https://github.com/lifeiscontent/realworld # Medium (React)
-https://github.com/steveninouye/iBuy # Ebay (React)
-https://github.com/rustam-tolipov/instagram-clone-rails # Instagram
-https://github.com/truongnmt/instagram-clone # Instagram
-https://github.com/ghoshnirmalya/linkedin-clone-rails-backend # LinkedIn
-https://github.com/alexawesomecode/facebook-clone-project # Facebook
-https://github.com/crespire/rails_railsbook # Facebook
-https://github.com/corsego/corsego # Udemy
-https://github.com/corsego/119-trello-drag-drop-save # Trello
-https://github.com/hopegipson/spotify_clone # Spotify
-https://github.com/zkural1/alljourneys # AllTrails
