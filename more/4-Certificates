@@ -1,0 +1,8 @@
+Certbot
+https://github.com/certbot/certbot # Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server 
+https://github.com/certbot/certbot-docker #
+
+https://github.com/cloudflare/certbot-dns-cloudflare #
+https://github.com/cloudflare/privacy-gateway-server-go
+
+https://github.com/michaelpporter/ansible-role-certbot-cloudflare # Ansible Role for setting up Wildcard certs with certbot and Cloudflare dns plugin

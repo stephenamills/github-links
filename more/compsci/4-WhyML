@@ -1,0 +1,15 @@
+WhyML
+https://github.com/backtracking/program-proofs-with-why3 # Program Proofs book
+https://github.com/raphaelrieuhelft/closestpair # closest pair problem (divide-and-conquer algorithm)
+https://github.com/1f604/why3-hoare-total # linear search, verbose
+https://github.com/sir-onze/formal-verification # binary tree
+https://github.com/rdharrison2/why3_models # sorting, etc.
+https://github.com/Ekdohibs/why3-toposort # topological sort
+https://github.com/haslab/why3do/ # leader selection, Paxos, networks and locks etc.
+https://github.com/jpenuchot/fiil-program-verification
+https://github.com/jspdium/counter-refinement
+https://github.com/desfreng/robdd-in-why3/
+https://github.com/paulpatault/convex-hull
+https://github.com/creusot-rs/creusot # Rust
+https://github.com/zhang-xiyue/evm-why3
+https://github.com/xldenis/why3-tools

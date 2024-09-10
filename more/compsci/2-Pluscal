@@ -1,0 +1,88 @@
+PlusCal
+https://github.com/tlaplus/examples # official examples
+https://github.com/johnstrunk/tla-kcp-storage # Kubernetes storage clusters
+https://github.com/YuichiTanikane/HelloPlusCal/ # bank payments
+https://github.com/jeremy-miller/tlaplus-pluscal # basic bank transfer
+https://github.com/cwi-swat/tla-ci # bank
+https://github.com/kf6009/bankaccount # bank
+https://github.com/loyolachicagocode/hanoi-pluscal # Hanoi
+https://github.com/1729david/tictactoeinpluscal # Tic Tac Toe
+https://github.com/programmatix/exploringtlaplus/ # binary search
+https://github.com/kf6009/study-rooms # library room use
+https://github.com/ajdavis/tla-plus # client to Amazon KMS
+https://github.com/flakas/tla-experiments # network throttling
+https://github.com/jb567/tla-go-back-n # TCP three-way handshake etc.
+https://github.com/quux00/pluscal-examples # alternating bit protocol, commit, fifo, etc.
+https://github.com/alexander-mipt/formal-verification # queue
+https://github.com/tbagrel1/mvsi/ # absolutely horrible code but has bubble sort
+https://github.com/nano-o/MultiPaxos # Paxos
+https://github.com/haraldng/omnipaxos-tla # Omni Paxos
+https://github.com/tbg/tlaplay # Paxos register
+https://github.com/lorin/raft-pluscal # Raft
+https://github.com/jdangerx/raft # Raft
+https://github.com/jl3953/pluscalspecs # Chain Replication with Apportioned Queries (CRAQ)
+https://github.com/sridhargopinath/pluscal/ # quorum, database commit, mutex
+https://github.com/oscarcosta/crdt-tla # conflict-free replicated data types
+https://github.com/aminajandoubi/extending-the-mqtt-specification-in-pluscal-2 # MQTT
+https://github.com/heyglasses/pluscal-examples # commit, etc.
+https://github.com/quux00/pluscal-examples # commit, etc.
+https://github.com/belaban/pluscal # commit, etc.
+https://github.com/muratdem/pluscal-examples/ # commit, etc.
+https://github.com/haoweiz/2-phase-commit-protocol-model # commit
+https://github.com/ja030019/2-phase-commit-protocol # commit
+https://github.com/skhoroshavin/tla_playground # a few basic network primitives
+https://github.com/haoweiz/synchronized-round-consensus-algorithm # round consensus
+https://github.com/polikow/bully_election # leader/bully selection
+https://github.com/kf6009/boundedbuffer # bounded buffer
+https://github.com/zunairazaman2021/pluscal-algorithms-progress # concurrency examples
+https://github.com/ac259/ben-or/ # binary consensus
+https://github.com/lakshmichaitanyach/ben-or-in-tla-pluscal # binary consensus
+https://github.com/ameenkhan07/ben-or-pluscal # binary consensus
+https://github.com/Gulfam92/DistributedSystems-Algorithms-ModelChecking
+https://github.com/rdevavrat/ben-or-distributed-consensus-algorithm
+https://github.com/ausimnull/edhotstuff # consensus
+https://github.com/balopat/tla-specs # process numbers
+https://github.com/tejaakasapu/termination-state-detection-in-distributed-system
+https://github.com/meabhinavshukla/hybridvectorclock
+https://github.com/filecoin-project/tla-f3
+https://github.com/duerrfk/skp # mutual exclusion
+https://github.com/abhishek-dalvi410/coffee-bean-problem # coffee bean problem lol
+https://github.com/drferg/tla-explorations # coffee bean again
+https://github.com/darkodi/tla-examples # a few examples
+https://github.com/trundle/pluscal/
+https://github.com/koyamasohei/algorithm_spec
+https://github.com/crytic/whipstaff # consensus
+https://github.com/rohitvish30/cse-586-termination-detection-with-pluscal
+https://github.com/abhishek-dalvi410/termination-detection
+https://github.com/oscarcosta/vector-clocks # vector clock
+https://github.com/rberenguel/tla_lightning/ # actors
+https://github.com/tlaplus/pluscalcheatsheet # cheat sheet
+https://github.com/rovaughn/pluscal-bug # has no description
+https://github.com/growler/saint-highload-2021-talk/ # meh examples
+https://github.com/orsinium-labs/simple-tla/ # convenience functions
+https://github.com/osoco/pluscal-overview # thin language overview
+https://github.com/rix0rrr/pluscal-debugger # web-based visualizer for PlusCal
+
+https://github.com/josehu07/learn-tla # study material - all runnable in VS Code
+https://github.com/salmans/pluscal-workshop/ # workshop - conflict-free replicated data types, maze
+https://github.com/apress/practical-tla-plus/ # Hillel Wayne book
+
+https://github.com/lorin/lsm-tree-tla # TLA+ - log-structured merge tree
+https://github.com/langmartin/nomad-tla # Nomad
+https://github.com/onosproject/tlaplus-monitor # live Kubernetes checking with TLA+
+https://github.com/johnstrunk/tla-kubernetes # Kube API
+https://github.com/tlaplus/drtlaplus # Raft, Paxos, Cosmos DB consistency guarantees, TiDB transactions, global snapshots, termination detection
+https://github.com/bbengfort/formal-models # Raft modified
+https://github.com/vadimplh/arrival # Clickhouse
+https://github.com/BoeVonLipwig/Go-Back-N-TLA- # Go-Back-N data transfer
+https://github.com/onosproject/onos-tlaplus
+https://github.com/sanjosh/tlaplus
+https://github.com/kmsalem/carousel-tla
+https://github.com/mbellotti/pytla
+https://github.com/raydog99/pluscal # a ton of consensus approaches
+https://github.com/fernandezpablo85/practical-tla # Hillel Wayne book but in pure TLA+
+https://github.com/kpy3/tla-samples/ # wolf goat cabbage
+https://github.com/kf6009/carpark # parking lot
+https://github.com/hengxin/tlaplus-pluscal-utils
+https://github.com/tlaplus/communitymodules
+https://github.com/toastedcornflakes/tla-git-support # commits a TLA+ file without including the PlusCal translation

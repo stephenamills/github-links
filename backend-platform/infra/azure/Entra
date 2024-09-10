@@ -1,0 +1,135 @@
+https://github.com/azuread/microsoft-authentication-cli # A command line utility for Azure authentication.
+
+https://github.com/microsoftlearning/sc-5008-configure-and-manage-entitlement-with-microsoft-entra-id #
+https://github.com/microsoftlearning/az-1008-administer-active-directory-domain-services #
+https://github.com/microsoftlearning/sc-300-identity-and-access-administrator #
+
+https://github.com/azure-samples/active-directory-verifiable-credentials-dotnet # Sample of using Entra Verified ID's to issue and consume verifiable credentials.
+https://github.com/azure-samples/active-directory-verifiable-credentials-node # Sample of using Entra Verified ID's to issue and consume verifiable credentials.
+https://github.com/azure-samples/active-directory-verifiable-credentials-python # Sample of using Entra Verified ID's to issue and consume verifiable credentials.
+https://github.com/azure-samples/active-directory-verifiable-credentials-java # Sample of using Entra Verified ID's to issue and consume verifiable credentials.
+
+https://github.com/azure-samples/openai-chat-app-entra-auth-builtin # Chat application that integrates Microsoft Entra ID for user authentication.
+https://github.com/azure-samples/openai-chat-app-entra-auth-local # A simple chat application that integrates Microsoft Entra ID for user authentication.
+https://github.com/azure-samples/azure-postgres-pgvector-python # Deploy an Azure PostgreSQL server with Entra authentication and use it from Python.
+https://github.com/azure-samples/langfuse-on-azure # An easy way to deploy the Langfuse observability platform to Azure Container Apps with Entra authentication.
+https://github.com/azure-samples/express-entraexternalid-cerbos # Integrate Cerbos with an Express server using Microsoft Entra External ID for authentication.
+
+https://github.com/azure-samples/active-directory-lab-hybrid-adfs # Create a full AD/CA/ADFS/WAP lab environment with Azure AD Connect installed
+https://github.com/azure-samples/azure-ad-b2c-page-templates # Template content for Azure AD B2C
+https://github.com/azure-samples/active-directory-dotnet-native-aspnetcore-v2 # Call a ASP.NET Core Web API from a WPF application using Azure AD v2.0
+https://github.com/azure-samples/active-directory-b2c-custom-policy-starterpack # Azure AD B2C now allows uploading of a Custom Policy
+https://github.com/azure-samples/active-directory-b2c-dotnet-webapp-and-webapi # .NET web application that calls a .NET web API, both secured using Azure AD B2C
+https://github.com/azure-samples/ms-identity-python-webapi-azurefunctions # Python Azure Function Web API secured by Azure AD
+https://github.com/azure-samples/azure-ad-conditional-access-apis # Use Conditional Access Graph APIs to manage policies like code. Automate approvals
+https://github.com/azure-samples/service-fabric-aad-helpers # Service Fabric scripts for various Azure AD tasks
+https://github.com/azure-samples/storage-dotnet-azure-ad-msal # Sample code demonstrating how to call Azure storage using AAD authentication
+https://github.com/azure-samples/azure-ad-workload-identity # Use Azure AD workload identity for Kubernetes in an application running on Azure Kubernetes Service.
+https://github.com/azure-samples/active-directory-b2c-javascript-nodejs-webapi # A small Node.js Web API for Azure AD B2C
+https://github.com/azure-samples/ms-identity-mobile-apple-swift-objc # An iOS sample in Swift that authenticates Microsoft Account and Azure AD users
+https://github.com/azure-samples/active-directory-b2c-ios-swift-native-msal # An iOS sample in Swift that authenticates Azure AD B2C users and calls an API using OAuth
+https://github.com/azure-samples/active-directory-ios # An iOS application that authenticates Azure AD users and calls a web API using OAuth 2.0 access tokens.
+https://github.com/azure-samples/azure-cosmos-db-partition-key-advisor # Partition Key advisor for Azure Cosmos DB
+https://github.com/azure-samples/ms-identity-aspnet-webapi-onbehalfof # Web API calling a downstream API on behalf of the user using the Microsoft identity platform
+https://github.com/azure-samples/aks-openai-terraform # Chatbot deployed on Azure Kubernetes Service (AKS) cluster Azure OpenAI Service using Terraform
+https://github.com/azure-samples/ms-identity-dotnetcore-ca-auth-context-app # Sample demonstrating Azure AD Conditional Access Authentication Context
+https://github.com/azure-samples/active-directory-dotnet-admin-restricted-scopes-v2 # An ASP.NET MVC application that uses Azure AD to collect admin consent
+https://github.com/azure-samples/active-directory-b2c-dotnet-desktop # Sample showing how a Windows desktop .NET (WPF) application can sign in a user using Azure AD B2C
+https://github.com/azure-samples/active-directory-b2c-msal-node-sign-in-sign-out-webapp # MSAL-node web app for signing in and out using Azure AD B2C
+https://github.com/azure-samples/aks-openai # chatbot deployed on Azure Kubernetes Service (AKS) cluster Azure OpenAI Service using Bicep
+https://github.com/azure-samples/active-directory-b2c-node-sign-up-user-flow-captcha # Use a captcha service during sign-up with Azure AD B2C
+https://github.com/azure-samples/active-directory-dotnetcore-devicecodeflow-v2 # .NET Core console application letting a user acquire a token for the Microsoft Graph
+https://github.com/azure-samples/eventgrid-viewer-blazor # Blazor application to view Azure EventGrid messages in realtime using ASP.Net Core Blazor & SignalR.
+https://github.com/azure-samples/azure-workload-identity-nodejs-aks-terraform # Use Azure AD workload identity to access Azure services from your Kubernetes cluster https://github.com/azure-samples/active-directory-b2c-ios-appauth-ropc # iOS sample demonstrating how to sign into Azure AD B2C using ROPC
+https://github.com/azure-samples/activedirectory-b2c-MSGraph-PolicyAndKeysets # Access Azure AD B2C Custom Policies and Key Containers in your tenant
+https://github.com/azure-samples/active-directory-dotnet-web-single-sign-out # A web application that shows how to perform single sign out from all Azure AD apps
+https://github.com/azure-samples/azure-ad-workload-identity-mi # Use Azure AD workload managed identity in an application running on Azure Kubernetes Service.
+https://github.com/azure-samples/b2b-to-ad-sync # sample script that allows organizations to sync B2B guest accounts from Azure AD as shadow account in on-prem AD.
+https://github.com/azure-samples/active-directory-b2c-android-appauth-ropc # An Android sample that demonstrates how to use AppAuth to sign into Azure AD B2C using ROPC
+https://github.com/azure-samples/active-directory-b2c-graph-trustframework-policy # This Windows console app demonstrates how to call trustFrameworkPolicy operations
+https://github.com/azure-samples/azure-fastapi-postgres-addon-aca # Web app using Python FastAPI backend, set up for deployment to Azure Container Apps with PostgreSQL
+https://github.com/azure-samples/azure-django-postgres-addon-aca # Web app using Python Django backend, set up for deployment to Azure Container Apps with PostgreSQL
+https://github.com/azure-samples/aks-keda-addon-workload-identity # Deploy an Azure Function Service Bus trigger using KEDA Add-on for AKS for scaling
+https://github.com/azure-samples/fastapi-appservice-ad-authz # Authorization sample implementation using fastAPI and Azure AD
+https://github.com/azure-samples/cross-tenant-communication-Using-Azure-Service-Bus # This PoC contains a sample solution for handling cross-tenant communication
+https://github.com/azure-samples/azure-flask-postgres-addon-aca # Web app using Python Flask backend, set up for deployment to Azure Container Apps with PostgreSQL
+https://github.com/azure-samples/active-directory-dotnet-external-identities-idology-identity-verification # Use IDology identity proofing for Azure AD External Identity
+https://github.com/azure-samples/oidc-client-app-service # A sample Node.js application deployed to Azure App Service using ACR, authenticating users with Azure AD OIDC
+https://github.com/azure-samples/remove-unmanaged-guests # App that can run to identify and reset the invitations of guest users who are from unmanaged Azure AD tenants.
+https://github.com/azure-samples/azuread-database # azure databases with Azure AD integration connection samples
+https://github.com/azure-samples/b2ballowdenylist-to-XTAP # Migrate Azure AD domains from External Collaboration Settings to Cross Tenant Access Settings.
+https://github.com/azure-samples/active-directory-b2c-node-sign-up-user-flow-arkose # Arkose Lab's fraud and abuse protection in Azure AD B2C sign-up
+
+https://github.com/azureadquickstarts/appmodelv2-webapp-openidconnect-dotnet # ASP.NET Web Server - OpenID Connect v2 Endpoint Sample
+https://github.com/azureadquickstarts/appmodelv2-nativeclient-dotnet # A Windows Desktop (WPF) application calling an ASP.NET Web API protected by the Azure AD v2.0
+https://github.com/azureadquickstarts/b2c-webapp-openidconnect-dotnet-susi # ASP.NET web application that shows how to use a sign-up or sign-in policy in Azure AD B2C.
+https://github.com/officedev/msteams-tabs-sso-sample-nodejs # Microsoft Teams sample app for tabs Azure AD SSO in Node.js
+
+https://github.com/azuread/microsoft-authentication-library-for-js # Microsoft Authentication Library (MSAL) for JS
+https://github.com/azuread/microsoft-authentication-library-for-dotnet # Microsoft Authentication Library (MSAL) for .NET
+https://github.com/azuread/microsoft-authentication-library-for-python # Authenticate to Microsoft Entra ID using Python.
+https://github.com/azuread/microsoft-authentication-library-for-java # Microsoft Authentication Library (MSAL) for Java
+https://github.com/azuread/microsoft-authentication-library-for-objc # Microsoft Authentication Library (MSAL) for iOS and macOS
+https://github.com/azuread/microsoft-authentication-library-for-go # Acquire security tokens to call protected APIs using industry standard OAuth2 and OpenID Connect.
+https://github.com/azuread/microsoft-authentication-library-for-android # Microsoft Authentication Library (MSAL) for Android
+https://github.com/azuread/microsoft-authentication-library-common-for-android # Active Directory Authentication Library and Microsoft Authentication Library
+https://github.com/azuread/microsoft-authentication-library-common-for-objc # Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library
+https://github.com/azuread/microsoft-authentication-extensions-for-python # Microsoft Authentication Library extensions (MSAL EX) provides a persistence API
+https://github.com/azuread/azure-activedirectory-library-for-objc # OAuth2, Web API integration with user level consent, and two factor authentication support.
+https://github.com/azuread/azure-activedirectory-library-for-android # Add support for Work Accounts to your application
+
+https://github.com/azuread/azureadassessment # Tooling for assessing an Azure AD tenant state and configuration
+https://github.com/azuread/scimreferencecode # Reference code to build an SCIM endpoint to automate provisioning
+https://github.com/azuread/identityprotectiontools # Sample PowerShell module and scripts for managing Azure AD Identity Protection service
+https://github.com/azuread/apple-sso-tools # Apple Enterprise SSO troubleshooting script
+https://github.com/azuread/azure-activedirectory-powershell # This is a repo for Azure AD PowerShell scrips and samples
+https://github.com/azuread/entra-id-inbound-provisioning # Samples, scripts and resources to help you get started with Microsoft Entra API-driven inbound provisioning
+https://github.com/azuread/azure-activedirectory-powershell-for-admins #
+https://github.com/azuread/azuread-governance-Assessment # Scripts to run an AAD Governance Assessment
+https://github.com/azuread/mscloudidutils # Sample PowerShell logic for interacting with Azure Active Directory identity and resources
+https://github.com/azuread/cross-tenant-synchronization #
+https://github.com/azuread/declaredaccess # Simplify the use of identity by moving from imperative programming models to declarative programming models.
+https://github.com/azuread/microsoft-authentication-extensions-for-go # Secure cross-platform token cache for MSAL public client apps
+
+https://github.com/azure/azure-docs-powershell-azuread # Cmdlets reference help docs for Powershell Azure AD
+https://github.com/azure/azure-workload-identity # Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources
+https://github.com/azure/azuread-byoa-provisioning-samples # Samples to use the Microsoft.SystemForCrossDomainIdentityManagement libraries with BYOA for provisioning
+https://github.com/azure/azuread-app-docs # The Azure Active Directory > Enterprise Applications section of the Azure mgmt portal
+https://github.com/azure/azuread-appsecretManager # Azure AD App Secret Manager automates the rotation of your Azure web sites secrets with user approval
+https://github.com/azure/template-runbook-using-managed-identity-to-access-azuread # Associate managed identities with runbooks.
+https://github.com/azure/terraform-azurerm-avm-ptn-hci-ad-provisioner #
+
+https://github.com/azure-ad-b2c/samples # Azure AD B2C custom policy solutions and samples.
+https://github.com/azure-ad-b2c/user-migration # Azure AD B2C User Journeys to perform User Migration from Legacy Identity Providers.
+https://github.com/azure-ad-b2c/vscode-extension # Azure AD B2C VS code extension
+https://github.com/azure-ad-b2c/siem # Create and publish reports, alerts, and dashboards based on Azure AD B2C logs.
+https://github.com/azure-ad-b2c/woodgrove-groceries-demo # Woodgrove Groceries Azure AD B2C Demo
+https://github.com/azure-ad-b2c/custom-policy-manager # An application for making CRUD operations against Azure AD B2C Custom Policies
+https://github.com/azure-ad-b2c/unit-tests # Azure AD B2C custom policies unit tests
+https://github.com/azure-ad-b2c/scripts # Sample scripts related to Azure AD B2C
+https://github.com/azure-ad-b2c/saml-sp # Azure AD B2C SAML Service Provider
+https://github.com/azure-ad-b2c/rest-api # Azure AD B2C integration with REST API services
+https://github.com/azure-ad-b2c/api-connector-samples # Repository of samples for scenarios enabled by API connectors for Azure AD B2C 'built-in' user flows.
+https://github.com/azure-ad-b2c/deploy-trustframework-policy # A GitHub Action for deploying TrustFramework policies using the Microsoft Graph
+https://github.com/azure-ad-b2c/apps # Azure AD B2C application integration samples.
+https://github.com/azure-ad-b2c/partner-integrations # This repo contains samples which provide end to end integration between Azure AD and partner solutions.
+https://github.com/azure-ad-b2c/saml-sp-tester #
+https://github.com/azure-ad-b2c/id_token_hint # Azure AD B2C using id_token_hint
+https://github.com/azure-ad-b2c/sign-in-with-iframe #
+https://github.com/azure-ad-b2c/deploy-trustframework-keyset-secret # A GitHub Action for deploying TrustFramework KeySet secret using the Microsoft Graph
+https://github.com/azure-ad-b2c/azureadb2ccommunity.io # Azure AD B2C Community Website
+https://github.com/azure-ad-b2c/integration-demo-ipification #
+https://github.com/azure-ad-b2c/id-token-builder # A sample ASP.NET application which generates ID tokens and hosts the necessary metadata endpoints
+https://github.com/azure-ad-b2c/gaining-expertise-with-azure-ad-b2c #
+https://github.com/azure-ad-b2c/load-tests # Azure AD B2C load test samples
+https://github.com/azure-ad-b2c/integration-demo-pass #
+https://github.com/azure-ad-b2c/my-idp #
+https://github.com/azure-ad-b2c/token-validation #
+https://github.com/azure-ad-b2c/deploy-trustframework-keyset-certificate # A GitHub Action for deploying TrustFramework KeySet certificates using the Microsoft Graph
+
+https://github.com/microsoft/entraexporter # PowerShell module to export a local copy of an Entra (Azure AD) tenant configuration.
+https://github.com/microsoft/entraidgovernance-training # Microsoft Entra ID Governance Training and Learning Resources
+https://github.com/microsoft/msentraidprotectionguidance # MS Entra ID Protection Guidance
+https://github.com/microsoft/vscode-ms-entra # Seamlessly add authentication into applications for Customer Identity and Access Management scenarios.
+https://github.com/microsoft/globalsecureaccess-training # Guides for Entra Internet Access and Entra Private Access.
+https://github.com/microsoft/entrasuite-training # Repository dedicated to Entra Suite

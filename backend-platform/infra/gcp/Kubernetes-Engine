@@ -1,0 +1,48 @@
+https://github.com/googlecloudplatform/microservices-demo # Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+https://github.com/googlecloudplatform/kubernetes-engine-samples # Sample applications for Google Kubernetes Engine (GKE)
+https://github.com/googlecloudplatform/continuous-deployment-on-kubernetes # Get up and running with Jenkins on Google Kubernetes Engine
+https://github.com/googlecloudplatform/bank-of-anthos # Retail banking sample application showcasing Kubernetes and Google Cloud
+https://github.com/googlecloudplatform/distributed-load-testing-using-kubernetes # Distributed load testing using Kubernetes on Google Container Engine
+https://github.com/googlecloudplatform/k8s-config-connector # GCP Config Connector, a Kubernetes add-on for managing GCP resources
+https://github.com/googlecloudplatform/cloud-code-samples # Code templates to make working with Kubernetes feel like editing and debugging local code.
+https://github.com/googlecloudplatform/container-engine-accelerators # Collection of tools and examples for managing Accelerated workloads in Kubernetes Engine
+https://github.com/googlecloudplatform/gke-policy-library # Google Kubernetes Engine Policy Library
+https://github.com/googlecloudplatform/k8s-cluster-bundle # The Cluster Bundle: Declarative Kubernetes Cluster Management
+https://github.com/googlecloudplatform/anthos-service-mesh-packages # Packaged configuration for setting up a Kubernetes cluster with Anthos Service Mesh features enabled
+https://github.com/googlecloudplatform/gke-managed-certs # Managed Certificates for Kubernetes clusters using GCLB
+https://github.com/googlecloudplatform/kubernetes-engine-customize-fluentd #
+https://github.com/googlecloudplatform/gke-poc-toolkit # 📦 Demo generator for Google Kubernetes Engine!
+https://github.com/googlecloudplatform/k8s-cloud-provider # Support code for implementing a Kubernetes cloud provider for Google Cloud Platform
+https://github.com/googlecloudplatform/ai-on-gke # AI on GKE is a collection of examples, best practices, and prebuilt solutions to help build, deploy, and scale AI https://github.com/googlecloudplatform/gke-istio-gce-demo # Leverage Kubernetes Engine and Google Compute Engine to explore how Istio can manage services
+https://github.com/googlecloudplatform/gke-network-policy-demo # This guide demonstrates how to improve the security of your Kubernetes Engine
+https://github.com/googlecloudplatform/gke-networking-demos # Best practices for establishing network links between Kubernetes Engine clusters
+https://github.com/googlecloudplatform/gke-istio-shared # This is the shared project for two Kubernetes Engine demos
+https://github.com/googlecloudplatform/gke-migration-to-containers # This demo provides a basic walkthrough of migrating a stateless application to a container
+https://github.com/googlecloudplatform/terraform-ecommerce-microservices-on-gke # Deploys a web-based ecommerce app into a multi-cluster Google Kubernetes Engine setup.
+https://github.com/googlecloudplatform/cloud-sql-proxy-operator # A Kubernetes Operator to automatically configure secure connections to Cloud SQL
+https://github.com/googlecloudplatform/prometheus-engine # Google Cloud Managed Service for Prometheus libraries and manifests.
+https://github.com/googlecloudplatform/gke-istio-vpn-demo # This project demonstrates how Istio's mesh expansion feature can be used to link services accross a VPN.https://github.com/googlecloudplatform/solutions-gke-init-daemonsets-tutorial # How to use DaemonSets to automatically bootstrap Kubernetes Engine nodes
+https://github.com/googlecloudplatform/terraformer # CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+https://github.com/googlecloudplatform/anthos-appconfig # A Kubernetes controller to simplify the management of applications
+https://github.com/googlecloudplatform/kubernetes-engine-windows-tools #
+https://github.com/googlecloudplatform/terraform-example-java-dynamic-point-of-sale # Deploys a dynamic Java webapp into a Google Kubernetes Engine cluster.
+https://github.com/googlecloudplatform/secrets-store-csi-driver-provider-gcp # Google Secret Manager provider for the Secret Store CSI Driver.
+https://github.com/googlecloudplatform/gke-enterprise-demo # This demo aims to show what a fully-featured project running in Kubernetes Engine looks like.
+https://github.com/googlecloudplatform/gke-logging-sinks-demo # This project describes the steps required to deploy a sample application to Kubernetes Engine
+https://github.com/googlecloudplatform/mllp # The Minimal Lower Layer Protocol adapter is a component that runs on GKE  
+https://github.com/googlecloudplatform/k8s-cloudkms-plugin # K8s KMS Plugin for Google CloudKMS
+https://github.com/googlecloudplatform/gke-security-scenarios-demo # Best practices for improving the security of containerized applications deployed to GKE
+https://github.com/googlecloudplatform/gke-application-security-demo # Best practices for improving the security of containerized applications deployed to GKE
+https://github.com/googlecloudplatform/gke-rbac-demo # This project covers two use cases for RBAC within a Kubernetes Engine cluster.
+https://github.com/googlecloudplatform/gke-tracing-demo # This project introduces you to Stackdriver's tracing feature, and provides a distributed tracing example
+https://github.com/googlecloudplatform/elcarro-oracle-operator # El Carro is a new project that offers a way to run Oracle databases in Kubernetes
+https://github.com/googlecloudplatform/gke-vault-demo # This demo builds two GKE Clusters and guides you through using secrets in Vault
+https://github.com/googlecloudplatform/gke-datadog-demo # This project demonstrates using Datadog to monitor a Kubernetes Engine cluster
+https://github.com/googlecloudplatform/gke-rolling-updates-demo # Different upgrade procedures best suited for clusters containing stateless and stateful workloads
+https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo Megatron Large Language Model (LLM) using NeMo Framework on Google Kubernetes Engine
+https://github.com/googlecloudplatform/gke-ip-address-management # An application to help with IP Address Management (IPAM) for Google Kubernetes Engine (GKE) clusters. https://github.com/googlecloudplatform/gke-istio-telemetry-demo # This project demonstrates how to use an Istio service mesh with monitoring tools in a GKE cluster
+https://github.com/googlecloudplatform/gatekeeper-securitycenter # Report OPA Gatekeeper audit violations in Security Command Center.
+https://github.com/googlecloudplatform/terraform-google-anthos-vm # Creates VMs on Anthos Bare Metal clusters
+https://github.com/googlecloudplatform/gke-pubsub-websocket-adapter # Consume Pub/Sub over Websockets
+https://github.com/googlecloudplatform/reliable-app-platforms # A MVP of a platform for delivering reliable applications on Google Cloud
+https://github.com/googlecloudplatform/kubeflow-gke-docs # Documentation for Kubeflow on Google Cloud

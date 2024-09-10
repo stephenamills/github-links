@@ -1,0 +1,34 @@
+https://github.com/moby/moby
+https://github.com/moby/swarmkit
+
+https://github.com/dockersamples/example-voting-app # Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+https://github.com/dockersamples/docker-swarm-visualizer # A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
+https://github.com/docker-archive/swarm-microservice-demo-v1 # Swarm Web App Demo Cluster: Voting App
+
+https://github.com/ajeetraina/docker101 # Visit https://dockerlabs.collabnix.com
+https://github.com/eon01/dockercheatsheet # 🐋 Docker Cheat Sheet 🐋
+https://github.com/tiangolo/dockerswarm.rocks # Docker Swarm mode rocks! Ideas, tools and recipes
+https://github.com/vfarcic/docker-swarm #
+https://github.com/bretfisher/awesome-swarm # All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)
+https://github.com/jpetazzo/container.training # Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
+https://github.com/g0t4/docker-swarm-mode-getting-started # Repository for my Pluralsight course Getting Started with Docker Swarm Mode
+https://github.com/piroddi/dockerswarmaws # Docker Swarm - A journey to the cloud
+https://github.com/marcelo-ochoa/oci-swarm-cluster # A Docker Swarm Cluster deployed as terraform scripts at Oracle OCI
+https://github.com/sixeyed/docker-networking-workshop # Workshop covering networking features in Docker swarm mode and Kubernetes in Docker EE
+https://github.com/devopsplayground/hands-on-with-container-orchestration-using-docker-swarm-and-kubernetes #
+https://github.com/jakubhajek/traefik-swarm-mastery # Traefik 2.x with Swarm
+https://github.com/naresh240/docker-swarm-depoly #
+https://github.com/utrains/utrains_docker_swarm # implementation and deployment of the voting application with Docker Swarm
+https://github.com/aerospike/aerospike-docker-swarm #
+https://github.com/presstofan/shinyproxy-docker-swarm-demo # A template for deploying R Shiny apps with ShinyProxy in Docker Swarm mode
+https://github.com/bitlogic/hello-docker # Docker 101 workshop
+https://github.com/mlabouardy/alexa-swarm # Deploy a Docker Swarm cluster on AWS :cloud: using Amazon Echo
+https://github.com/vfarcic/docker-swarm-networking #
+https://github.com/pgarbe/containers_on_aws # Some practical examples how to run containers on AWS. Docker Swarm (mode), Docker for AWS and ECS.
+https://github.com/doublez13/docker-swarm-example-setup # Guide for setting up a basic Docker Swarm cluster.
+https://github.com/foxylion/docker-swarm-ingress # A minimalistic approach to allow routing into a Docker Swarm based on the public hostnames.
+https://github.com/sw360cab/websockets-scaling # A tutorial to scale Websockets both via Docker Swarm and Kubernetes
+https://github.com/mogensen/docker-swarm-meetup # Exercises that walks a new developer through setting up and using docker swarm for the first time.
+https://github.com/grahamhoyes/django-docker-swarm-example # An example project for deploying Django on Docker Swarm
+https://github.com/capside/docker-swarm-mode-workshop #
+https://github.com/ddewaele/nifi.cluster.docker.swarm #

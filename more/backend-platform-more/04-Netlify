@@ -1,0 +1,154 @@
+https://github.com/netlify/cli # Netlify command line interface
+https://github.com/netlify/open-api # Open API specification of Netlify's API
+
+https://github.com/netlify/compose-workshop-2023 # Netlify Compose 2023 Workshop: Using core Netlify features to create your first composable project
+https://github.com/netlify/workshop_compose-s3-demo #
+https://github.com/netlify/workshop_dynamic-cms-connector #
+https://github.com/netlify/netlify-workshop #
+
+https://github.com/netlify-templates/nextjs-blog-theme # Next.js and Tailwind blog starter.
+https://github.com/netlify-templates/kpop-stack # Remix app with Netlify, Tailwind, and TypeScript
+https://github.com/netlify-templates/gatsby-ecommerce-theme # Gatsby-based starter theme with e-commerce styled components
+https://github.com/netlify-templates/next-netlify-starter # Next and Netlify
+https://github.com/netlify-templates/astro-toolbox # Netlify ❤️ Astro: use Netlify features with Astro.
+https://github.com/netlify-templates/astro-quickstart # Bare-bones Astro template
+https://github.com/netlify-templates/nextjs-toolbox # Netlify ❤️ Next.js: use Netlify features with Next.js.
+https://github.com/netlify-templates/hugo-quickstart # Bare-bones Hugo template
+https://github.com/netlify-templates/next-platform-starter # Next.js 14, Tailwind, daisyUI, and Netlify Core Primitives
+https://github.com/netlify-templates/nuxt-toolbox # Netlify ❤️ Nuxt.js: use Netlify features with Nuxt.
+https://github.com/netlify-templates/angular-quickstart # Bare-bones Angular template
+https://github.com/netlify-templates/astro-platform-starter # Astro.js, Tailwind, daisyUI, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).
+https://github.com/netlify-templates/solid-quickstart # Solid quickstart template
+https://github.com/netlify-templates/content-ops-starter # Flexible content model, component library, visual editing and Git Content Source.
+https://github.com/netlify-templates/astro-sanity-starter # Astro and Sanity starter with visual editing.
+https://github.com/netlify-templates/auto-annotated-portfolio # Portfolio website built with Next.js, Tailwind and Netlify Create with Git Content Source.
+https://github.com/netlify-templates/ts-mui-nextjs-starter # Netlify Create project that includes support for MUI
+https://github.com/netlify-templates/nextjs-contentful-starter # Next.js and Contentful with visual editing.
+https://github.com/netlify-templates/angular-starter # Angular 18 on Netlify
+https://github.com/netlify-templates/react-based-templates # Sites, stores, and apps in React-based frameworks like Next.js and create-react-app.
+
+https://github.com/netlify/netlify-pnpm-workspace # Astro
+https://github.com/netlify/netlify-yarn-berry-workspaces #
+https://github.com/netlify/examples # A collection of examples and demonstrations to help people building the web with Netlify
+https://github.com/netlify/astro-db-demo # Astro DB Demo
+https://github.com/netlify/demo-restaurant-astro-contentful #
+https://github.com/netlify/email-astro-resend-example # Send emails with Astro using Resend
+https://github.com/netlify/astro-cache #
+https://github.com/netlify/astro-documentation-starter # 💫 Get started with Astro and Starlight on Netlify to build out your own documentation site.
+https://github.com/netlify/astro-blog-image-example # An example of implementing an image uploader in Astro
+https://github.com/netlify/status-message-astro-example # Show dynamic status messages using Astro
+https://github.com/netlify/astro-bookshelf #
+https://github.com/netlify/demo-restaurant-sites-data # Collecting and specifying data sources for reference restaurant sites
+
+https://github.com/netlify/create-react-app-lambda # React
+https://github.com/netlify/netlify-identity-widget # A zero config, framework free Netlify Identity widget
+https://github.com/netlify/react-server-components-demo # Minimal implementation on server components via Netlify functions
+https://github.com/netlify/full-react-server-demo #
+https://github.com/netlify/forms-detection #
+https://github.com/netlify/compose-workshop-2023 # Netlify Compose 2023 Workshop: Using core Netlify features to create your first composable project
+https://github.com/netlify/dev-demo-example #
+https://github.com/netlify/netlify-yarn-berry-workspaces #
+https://github.com/netlify/netlify-pnpm-workspace #
+https://github.com/netlify/example-vite-react-clerk # An exmaple site to accompnay a guide on using Clerk for auth with Vite and React
+https://github.com/netlify/astro-db-demo # Astro DB Demo
+https://github.com/netlify/workshop_compose-s3-demo #
+https://github.com/netlify/workshop_dynamic-cms-connector #
+
+https://github.com/netlify/next-runtime # The Next.js Runtime allows Next.js to run on Netlify with zero configuration
+https://github.com/netlify/next-on-netlify-demo # Demo of a Next.js app with Server-Side Rendering on Netlify
+https://github.com/netlify/next-edge-middleware #
+https://github.com/netlify/next-react-server-components #
+https://github.com/netlify/next-background-api-route # Run a Next.js API route in the background for up to 15 minutes on Netlify.
+https://github.com/netlify/netlify-pnpm-workspace #
+https://github.com/netlify/netlify-yarn-berry-workspaces #
+https://github.com/netlify/netlify-workshop #
+https://github.com/netlify/identity-planetscale-nextjs-example # An example of a Netlify site using Netlify Identity, the PlanetScale integration and Next.js
+https://github.com/netlify/next-scheduled-bg-function-migration #
+
+https://github.com/netlify/build # Netlify Build (node process) runs the build command, Build Plugins and bundles Netlify Functions.
+https://github.com/netlify/plugins # Netlify plugins directory.
+https://github.com/netlify/netlify-plugin-lighthouse # Netlify Plugin to run Lighthouse on each build
+https://github.com/netlify/netlify-plugin-gatsby # A build plugin to integrate Gatsby seamlessly with Netlify
+https://github.com/netlify/build-plugin-template # Template repository to create new Netlify Build plugins.
+https://github.com/netlify/gatsby-plugin-netlify # Gatsby plugin. Automatically generates a \_headers file and a \_redirects file at the root of the public folder
+https://github.com/netlify/netlify-plugin-secrets-manager # Inject Secrets into the Netlify build Process
+https://github.com/netlify/vite-plugin-netlify-edge # Netlify Edge Function support for Vite
+https://github.com/netlify/netlify-plugin-identity-sso # UNOFFICIAL - allows easily adding SSO access control to a Netlify site
+https://github.com/netlify/plugin-csp-nonce # Build plugin to use a nonce for the script-src directive of your site's Content Security Policy.
+https://github.com/netlify/submit-build-plugin-action #
+https://github.com/netlify/tailwindcss-first-line # Tailwind plugin for the :first-line CSS pseudo-element
+https://github.com/netlify/netlify-test-plugins #
+https://github.com/netlify/netlify-plugin-netlify-graph #
+https://github.com/netlify/netlify-plugin-cargo-auth-cloudsmith # Sets up cargo authentication for Cloudsmith crate registries
+
+https://github.com/netlify-labs/netlify-plugin-sitemap # Automatically generate sitemaps on build
+https://github.com/netlify-labs/netlify-plugin-notifier # Build plugin to send SMS, email, & webhook notifications
+https://github.com/netlify-labs/netlify-plugin-twiliosms # An extremely simple plugin that texts you when your site is done building
+https://github.com/netlify-labs/ts-lambda-plugin #
+
+https://github.com/netlify-labs/headless-wp-nuxt # 🏔 Headless WordPress JAMstack template
+https://github.com/netlify-labs/vanilla-html-example # vanilla-html-example for people to clone
+https://github.com/netlify-labs/nuxt-static-example #
+https://github.com/netlify-labs/netlify-desktop #
+https://github.com/netlify-labs/secure-forms # Example of using VGS add-on for secure redacted form inputs
+https://github.com/netlify-labs/netlify-nextjs # Function builder for serverless nextjs on netlify
+https://github.com/netlify-labs/netlify-ssr-via-functions # netlify-ssr-via-functions
+https://github.com/netlify-labs/deploy-create-react-app # deploy-create-react-app
+https://github.com/netlify-labs/netlify-build-mongodb-atlas # Provisions and makes available MongoDB Atlas databases.
+https://github.com/netlify-labs/repro-zisi-file-resolution # Reproduction of zip/ship file resolution bug
+https://github.com/netlify-labs/netlify-functions-stripe-demo # how to use stripe with netlify functions
+https://github.com/netlify-labs/moneytronics #
+https://github.com/netlify-labs/jamstack-template #
+
+https://github.com/netlify-labs/cache-control-and-swr #
+https://github.com/netlify-labs/cache-tags-and-purge-api #
+https://github.com/netlify-labs/cache-key-variations # Demo site for Netlify's cache-variations feature
+https://github.com/netlify-labs/remix-edge-api-caching # Demo of remix edge rendering with Netlify and API caching
+
+https://github.com/netlify/functions.netlify.com # Tutorials, examples, workshops and a playground for serverless with Netlify Functions
+https://github.com/netlify/go-functions-example #
+https://github.com/netlify/edge-functions-examples # Explore a library of reference examples for learning about Edge Functions on Netlify.
+https://github.com/netlify/functions # JavaScript and TypeScript utilities for Netlify Functions.
+https://github.com/netlify/netlify-lambda # Helps building and serving lambda functions locally and in CI environments
+https://github.com/netlify/explorers-up-and-running-with-serverless-functions # Free resource for learning how to use serverless functions!
+https://github.com/netlify/rust-functions-example # Deploy Rust lambda functions on Netlify
+https://github.com/netlify/example-hello-world-functions # A site to show a hello world example of using Netlify Functions
+https://github.com/netlify/react-server-components-demo # Minimal implementation on server components via Netlify functions
+https://github.com/netlify/function-deploy-test #
+https://github.com/netlify/build # Netlify Build (node process) runs the build command, Build Plugins and bundles Netlify Functions.
+https://github.com/netlify/edge-bundler # Intelligently prepare Netlify Edge Functions for deployment
+https://github.com/netlify/vite-plugin-netlify-edge # Netlify Edge Function support for Vite
+https://github.com/netlify/large-functions-test #
+https://github.com/netlify/esi-edge-function #
+https://github.com/netlify/next-scheduled-bg-function-migration #
+https://github.com/netlify/dynamic-og-images-example # Generate dynamic OpenGraph images using Netlify Edge Functions
+https://github.com/netlify/sdk-sf-injection-integration # Examples of an integration that injects functions into a site
+https://github.com/netlify/block-content-with-sdk-ef-integration # Inject edge functions into the user's site with the Netlify SDK
+https://github.com/netlify/netlifind # Return geolocation information for the client's IP.
+
+https://github.com/netlify/demo-restaurant-astro-contentful #
+https://github.com/netlify/contentfull-belly-styles #
+https://github.com/netlify/contentful-unified-connector-temp # contentful-unified-connector-temp
+https://github.com/netlify/demo-restaurant-nuxt-contentful #
+https://github.com/netlify/demo-restaurant-data-contentful #
+
+https://github.com/netlify/prerender # Automatically rendering JS-driven pages for crawlers and social sharing
+https://github.com/netlify/netlify-playground #
+https://github.com/netlify/million-devs # Microsite for the 1 Million Developers announcement.
+https://github.com/netlify/netlify-statuskit # Netlify StatusKit is a template to deploy your own Status pages on Netlify.
+https://github.com/netlify/classnames-template-literals # Small utility to format long classnames with template literals
+https://github.com/netlify/matterday.netlify.com # A site that asks us what we could do with more time.
+https://github.com/netlify/petsofnetlify # pets of netlifiers
+https://github.com/netlify/eslint-config-node # ESLint, Prettier and Editorconfig shared by Netlify's Node.js projects
+https://github.com/netlify/mailme # MailMe sends mails with stylish templates
+https://github.com/netlify/delta-action # A GitHub Action for capturing benchmark data and tracking its variation against a baseline
+https://github.com/netlify/example-every-color # An example site which uses Netlify's On-Demand Builders to generate millions of color reference pages
+https://github.com/netlify/planetscale-webinar #
+https://github.com/netlify/netlify-feature-tour #
+https://github.com/netlify/dusty-domains # Dusty Domains event - December 2021
+https://github.com/netlify/create-netlify # Create a new Netlify site
+https://github.com/netlify/cse-interview-project #
+https://github.com/netlify/netlify-drop-demo-landing-page # Demo landing page for Netlify Drop
+https://github.com/netlify/onegraph-salesforce-package #
+https://github.com/netlify/terraform-provider-netlify #
+https://github.com/netlify/terraform-aws-dms # Terraform module which creates AWS DMS (Database Migration Service) resources

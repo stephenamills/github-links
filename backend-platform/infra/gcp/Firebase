@@ -1,0 +1,137 @@
+https://github.com/firebase/functions-samples # Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
+https://github.com/firebase/quickstart-js # Firebase Quickstart Samples for Web
+https://github.com/firebase/firebase-js-sdk # Firebase Javascript SDK
+https://github.com/firebase/firebaseui-web # FirebaseUI is an open-source JavaScript library that provides simple, customizable UI bindings on top of Firebase SDKs
+https://github.com/firebase/firebase-tools # The Firebase Command Line Tools
+https://github.com/firebase/firebaseui-web-react # React Wrapper for firebaseUI Web
+https://github.com/firebase/extensions # Official Firebase extensions
+https://github.com/firebase/friendlyeats-web
+https://github.com/firebase/quickstart-testing # Samples demonstrating how to test your Firebase app
+https://github.com/firebase/emulators-codelab #
+https://github.com/firebase/snippets-rules # security rules
+https://github.com/firebase/firestore-bundle-builder #
+https://github.com/firebase/quickstart-android # Firebase Quickstart Samples for Android
+https://github.com/firebase/flutterfire # 🔥 A collection of Firebase plugins for Flutter apps.
+https://github.com/firebase/firebase-ios-sdk # Firebase SDK for Apple App Development
+https://github.com/firebase/firebaseui-android # Optimized UI components for Firebase
+https://github.com/firebase/quickstart-ios # Firebase Quickstart Samples for iOS
+https://github.com/firebase/firebase-android-sdk # Firebase Android SDK
+https://github.com/firebase/codelab-friendlychat-web # The source for the Firebase codelab for building a cross-platform chat app
+https://github.com/firebase/firebase-admin-node # Firebase Admin Node.js SDK
+https://github.com/firebase/firebaseui-ios # iOS UI bindings for Firebase.
+https://github.com/firebase/geofire-js # GeoFire for JavaScript - Realtime location queries with Firebase
+https://github.com/firebase/firebase-admin-go # Firebase Admin Go SDK
+https://github.com/firebase/superstatic # Superstatic: a static file server for fancy apps.
+https://github.com/firebase/firebase-functions # Firebase SDK for Cloud Functions
+https://github.com/firebase/firebase-admin-python # Firebase Admin Python SDK
+https://github.com/firebase/quickstart-nodejs
+https://github.com/firebase/quickstart-unity # Firebase Quickstart Samples for Unity
+https://github.com/firebase/snippets-android # Android snippets for firebase.google.com
+https://github.com/firebase/snippets-web # Web snippets for firebase.google.com
+https://github.com/firebase/firebase-admin-java # Firebase Admin Java SDK
+https://github.com/firebase/geofire-objc # GeoFire for Objective-C - Realtime location queries with Firebase
+https://github.com/firebase/snippets-node # Node.js snippets for firebase.google.com
+https://github.com/firebase/firebase-admin-dotnet # Firebase Admin .NET SDK
+https://github.com/firebase/firebase-cpp-sdk # Firebase C++ SDK
+https://github.com/firebase/firebase-tools-ui # A local-first UI for Firebase Emulator Suite.
+https://github.com/firebase/friendlyeats-android # Cloud Firestore Android codelab
+https://github.com/firebase/codelab-friendlychat-android # Firebase FriendlyChat codelab
+https://github.com/firebase/quickstart-java # Quickstart samples for Firebase Java Admin SDK
+https://github.com/firebase/firebase-functions-test #
+https://github.com/firebase/quickstart-cpp # Firebase Quickstart Samples for C++
+https://github.com/firebase/firebase-unity-sdk # The Firebase SDK for Unity
+https://github.com/firebase/fastlane-plugin-firebase_app_distribution # fastlane plugin for Firebase App Distribution.
+https://github.com/firebase/quickstart-flutter #
+https://github.com/firebase/geofire-android # GeoFire for Android apps
+https://github.com/firebase/firebase-functions-python #
+https://github.com/firebase/snippets-ios # iOS snippets used in firebase.google.com
+https://github.com/firebase/friendlyeats-ios #
+https://github.com/firebase/firebaseopensource.com # Source for firebase open source site
+https://github.com/firebase/quickstart-python #
+https://github.com/firebase/firebaseui-flutter #
+https://github.com/firebase/codelab-friendlychat-ios #
+https://github.com/firebase/snippets-flutter #
+https://github.com/firebase/oss-bot # Robot friend for open source repositories
+https://github.com/firebase/level-up-with-firebase #
+https://github.com/firebase/snippets-java # Java snippets for firebase.google.com
+https://github.com/firebase/snippets-cpp # C++ snippets for firebase.google.com
+https://github.com/firebase/appquality-codelab-ios # Firebase iOS App Quality Codelab
+https://github.com/firebase/firebase-release-dashboard #
+
+https://github.com/firebase/genkit # Integrate, test, and deploy sophisticated AI features
+https://github.com/firebaseextended/codelab-ai-genkit-rag #
+https://github.com/firebaseextended/ai-extensions-codelab #
+https://github.com/firebaseextended/compass-ai-travel-planning-sample-flutter # Travel demo built in Flutter using Firebase Data Connect and Firebase Genkit
+
+https://github.com/firebaseextended/firepad # Collaborative Text Editor Powered by Firebase
+https://github.com/firebaseextended/reactfire # Hooks, Context Providers, and Components that make it easy to interact with Firebase.
+https://github.com/firebaseextended/angularfire # AngularJS bindings for Firebase
+https://github.com/firebaseextended/firechat # Real-time Chat powered by Firebase
+https://github.com/firebaseextended/firebase-arduino # Arduino samples for Firebase.
+https://github.com/firebaseextended/bolt # Bolt Compiler (Firebase Security and Modeling)
+https://github.com/firebaseextended/firebase-queue #
+https://github.com/firebaseextended/action-hosting-deploy # Automatically deploy shareable previews for your Firebase Hosting sites
+https://github.com/firebaseextended/emberfire # The officially supported adapter for using Firebase with Ember
+https://github.com/firebaseextended/polymerfire # Polymer Web Components for Firebase
+https://github.com/firebaseextended/flutterfire_desktop # An early-stage, experimental pure-Dart implementation of Firebase SDKs.
+https://github.com/firebaseextended/mlkit-custom-image-classifier # Easily collect data and train image classification models.
+https://github.com/firebaseextended/firebase-import # Node module for importing large data into Firebase.
+https://github.com/firebaseextended/custom-auth-samples # Samples showcasing how to sign in Firebase using additional Identity Providers
+https://github.com/firebaseextended/firebase-framework-tools # Experimental addon to the Firebase CLI to add web framework support
+https://github.com/firebaseextended/firechat-ios # An example chat application built using the Firebase iOS SDK
+https://github.com/firebaseextended/experimental-extensions # 🧪 A laboratory for new extensions created by Firebase
+https://github.com/firebaseextended/make-it-so-android #
+https://github.com/firebaseextended/protobuf-rules-gen # Protoc plugin that validates data in Cloud Firestore
+https://github.com/firebaseextended/karas-coffee #
+https://github.com/firebaseextended/rxfire #
+https://github.com/firebaseextended/unity-solutions # Use Firebase tools to incorporate common features into your games!
+https://github.com/firebaseextended/firebase-video-samples # Sample code for some of the videos on the Firebase YouTube channel.
+https://github.com/firebaseextended/user-data-protection # Generalizable examples of protecting user data in Firebase Applications
+https://github.com/firebaseextended/expense-tracker #
+https://github.com/firebaseextended/mlkit-material-ios # Build an end-to-end user experience with Google ML Kit APIs
+https://github.com/firebaseextended/tubeSock # A WebSocket client library implemented in Java
+https://github.com/firebaseextended/firebase-auth-service-worker-sessions #
+https://github.com/firebaseextended/codelab-friendlyeats-flutter # FlutterFire Firestore codelab. Develop a cross platform restaurant recommendation app with Flutter.
+https://github.com/firebaseextended/auth-without-play-services # Demonstrates how to implement Firebase Auth on devices without Google Play services
+https://github.com/firebaseextended/user-privacy # Sample of general purpose functions for user data deletion and export
+https://github.com/firebaseextended/analytics-webview #
+https://github.com/firebaseextended/cocos2dx-cpp-sample # Firebase Cocos2d-x samples
+https://github.com/firebaseextended/firestore-codelab-extended-swift #
+https://github.com/firebaseextended/firestoreodm-flutter #
+https://github.com/firebaseextended/parse-migration-tools #
+https://github.com/firebaseextended/firepad-demo # http://demo.firepad.io/ sources
+https://github.com/firebaseextended/firestore-nlp-extension #
+https://github.com/firebaseextended/palm-chatbot-angular #
+https://github.com/firebaseextended/compass-travel-planning-sample #
+https://github.com/firebaseextended/codelab-contentrecommendation-android #
+https://github.com/firebaseextended/firebase-auth-migration-helpers #
+https://github.com/firebaseextended/codelab-measure-android-view-performance #
+https://github.com/firebaseextended/firebase-js-sdk-performance-dashboard # Firebase JS SDK Performance Dashboard
+https://github.com/firebaseextended/firebase_fcm_flutter #
+https://github.com/firebaseextended/cmake-way-for-firebase #
+https://github.com/firebaseextended/codelab-fcm-and-fiam #
+https://github.com/firebaseextended/crashlytics-migration-android #
+https://github.com/firebaseextended/angularfire-expert-led-class #
+https://github.com/firebaseextended/fcm-external-prober #
+https://github.com/firebaseextended/codelab-rules #
+https://github.com/firebaseextended/crashlytics-migration-ios #
+https://github.com/firebaseextended/firebase-console-performance-dashboard #
+https://github.com/firebaseextended/vertexai-sdk-test-data #
+https://github.com/firebaseextended/codelab-actions-firestore #
+https://github.com/firebaseextended/ai-extensions-codelab #
+https://github.com/firebaseextended/codelab-appdistribution-android #
+https://github.com/firebaseextended/poem-from-image #
+https://github.com/firebaseextended/codelab-gemini-api-extensions #
+https://github.com/firebaseextended/firebase-apple-sdk-triage # collection of "skeleton" apps for quickly reproducing issues from the firebase-ios-sdk.
+https://github.com/firebaseextended/firebase-functions-go #
+https://github.com/firebaseextended/changelog #
+https://github.com/firebaseextended/github-actions #
+https://github.com/firebaseextended/codelab-digitclassifier-ios #
+https://github.com/firebaseextended/codelab-feature-rollout-performance # Firebase Performance Monitoring Codelab
+https://github.com/firebaseextended/codelab-modular-sdk #
+https://github.com/firebaseextended/make-it-so-angular #
+https://github.com/firebaseextended/codelab-firestore-vectorsearch-ios #
+https://github.com/firebaseextended/functions-to-extensions-codelab #
+https://github.com/firebaseextended/firestore-leaderboards-codelab #
+https://github.com/firebaseextended/useobservable #
+https://github.com/firebaseextended/cross-device-controller #

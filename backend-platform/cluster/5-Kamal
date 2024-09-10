@@ -1,0 +1,28 @@
+https://github.com/basecamp/kamal # Deploy web apps anywhere.
+https://github.com/basecamp/kamal-skiff # Deploy static sites using nginx + SSI with Kamal
+
+https://github.com/guillaumebriday/kamal-ansible-manager # Manage and optimize your servers automatically for Kamal with Ansible
+https://github.com/luizkowalski/terraform-hetzner # Set up two (or more) servers on Hetzner Cloud
+https://github.com/geetfun/deployed # Mountable deployment engine for Ruby on Rails using Kamal
+https://github.com/abratashov/kamal-blog # Exemplar Rails project with Kamal deployment
+https://github.com/shipyrd/shipyrd # The deployment dashboard for Kamal
+https://github.com/lewispb/kamal-prometheus-example # An example Rails app demonstrating using Prometheus metrics with Kamal
+https://github.com/cardmagic/kamalx # enhances the user experience of the kamal deploy tool
+https://github.com/deanout/kamal_video # Deploy a Rails app with Kamal, Rails 7.1, esbuild and tailwind.
+https://github.com/ashwin47/kamal.directory # A directory of kamal deploy.yml config files
+https://github.com/consist-sh/kamal-single-server # Consistfile suitable for a single server setup to run Kamal
+https://github.com/codergeek121/kamal-stacks # production ready kamal deployment templates
+https://github.com/anthonynsimon/awesome-kamal # Awesome list of all things Kamal
+https://github.com/rzilient-club/kamal-makefile # Kamal make file to gather most used kamal command lines
+https://github.com/deepakmahakale/kamal_wiki # Unofficial kamal wiki
+https://github.com/ghillert/kamal-demo # Demo project illustrating the use of Kamal for deployments of Spring Boot applications to Cloud VMs
+https://github.com/fluentci-io/kamal-plugin # CI/CD Plugin for kamal
+
+https://github.com/tannakartikey/rails_71_mrsk_deploy # Rails 7.1
+https://github.com/nagariahussain/pocket_mrsk # Pocketbase MRSK deploy
+https://github.com/knightoftheoldcode/rails-mrsk-sqlite # rails-mrsk-sqlite
+https://github.com/kalashnikovisme/wall # The sample app for MRSK deploy testing
+https://github.com/dekubu/panamax # panamax is mrsk on lxd-kit instead of ssh-kit
+https://github.com/trugamr/trying-mrsk #
+https://github.com/tonysm/mrsk-laravel-demo #
+https://github.com/teggr/deploy4j # deploy app to digital ocean

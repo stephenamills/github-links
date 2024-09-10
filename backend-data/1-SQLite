@@ -1,0 +1,51 @@
+https://dbdb.io/db/sqlite
+
+https://github.com/sqlite/sqlite # SQL database engine
+
+https://github.com/learn-co-curriculum/python-p3-setting-up-sqlite
+https://github.com/learn-co-curriculum/python-p3-writing-db-commands-to-a-file
+https://github.com/learn-co-curriculum/dsc-intro-to-sqlite
+https://github.com/learn-co-curriculum/sql-v3-database-basics
+https://github.com/learn-co-curriculum/python-p3-database-basics # alter table
+https://github.com/learn-co-curriculum/ds_course1_week1_module1_sqlselectlab
+https://github.com/learn-co-curriculum/ds_course1_week1_module2_sqlqueries
+https://github.com/learn-co-curriculum/ds_course1_week1_module3_sqltables
+https://github.com/learn-co-curriculum/ds_course1_week1_module4_sqlpandas
+https://github.com/learn-co-curriculum/dsc-sql-summative-lab
+https://github.com/learn-co-curriculum/python-p3-sql-queries
+https://github.com/learn-co-curriculum/python-p3-sql-crud
+
+https://github.com/lerocha/chinook-database # Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
+https://github.com/tthibo/sql-tutorial # A Gentle Introduction to SQL Using SQLite
+https://github.com/render-examples/strapi-sqlite # Deploy Strapi with SQLite on Render
+https://github.com/aaemnnosttv/wp-sqlite-db # A single file drop-in for using a SQLite database with WordPress. Based on the original SQLite Integration plugin.
+https://github.com/expo/examples/ # Example projects of how to use Expo APIs
+https://github.com/geshan/nodejs-sqlite # Node.js and SQLIte example for a blog post
+https://github.com/ptyadana/sql-data-analysis-and-visualization-projects # SQL data analysis & visualization projects
+https://github.com/remix-run/indie-stack # The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
+
+https://github.com/harelba/q # q - Run SQL directly on delimited files and multi-file sqlite databases
+https://github.com/dbcli/litecli # CLI for SQLite Databases with auto-completion and syntax highlighting
+
+https://github.com/dogsheep/github-to-sqlite # Save data from GitHub to a SQLite database
+https://github.com/cldellow/sqlite-parquet-vtable # A SQLite vtable extension to read Parquet files
+https://github.com/phiresky/sql.js-httpvfs # Hosting read-only SQLite databases on static file hosters like Github Pages
+https://github.com/proofrock/ws4sqlite # Query sqlite via json+http
+
+https://github.com/inloop/sqlite-viewer # View SQLite file online
+https://github.com/lana-k/sqliteviz # Instant offline SQL-powered data visualisation in your browser
+https://github.com/asg017/sqlite-vec # A vector search SQLite extension that runs anywhere!
+https://github.com/techouse/sqlite3-to-mysql # Transfer data from SQLite to MySQL
+https://github.com/thombashi/sqlitebiter # Convert data formats such as CSV a SQLite database file.
+https://github.com/avinassh/fast-sqlite3-inserts # Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
+https://github.com/nalgeon/redka # Redis re-implemented with SQLite
+https://github.com/nalgeon/sqlean # The ultimate set of SQLite extensions
+https://github.com/simonw/csvs-to-sqlite # Convert CSV files into a SQLite database
+https://github.com/tengla/sqlite3-to-mysql # Make an Sqlite3 export MySQL readable.
+https://github.com/aergoio/litetree # SQLite with Branches
+https://github.com/nalgeon/sqlime # Online SQLite playground
+https://github.com/dpapathanasiou/simple-graph # This is a simple graph database in SQLite, inspired by "SQLite as a document database"
+https://github.com/k3s-io/kine # Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
+https://github.com/WordPress/sqlite-database-integration # Feature Plugin to add SQLite support to WordPress. Under Development.
+https://github.com/shuebener/sqlitecompare # Utility for comparing two SQLite database files for both structure and data
+https://github.com/stokry/wp-sqlite # WordPress running on an SQLite database

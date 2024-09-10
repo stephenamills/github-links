@@ -1,0 +1,453 @@
+https://github.com/pulumi/pulumi # Pulumi - Infrastructure as Code in any programming language 🚀
+
+https://github.com/pulumi/examples # Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+https://github.com/pulumi/pulumi-kubernetes # A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters
+https://github.com/pulumi/kubespy # Tools for observing Kubernetes resources in real time, powered by Pulumi.
+https://github.com/pulumi/pulumi-kubernetes-operator # A Kubernetes Operator that automates the deployment of Pulumi Stacks
+https://github.com/pulumi/pulumi-kubernetesx # Kubernetes for Everyone
+https://github.com/pulumi/kubernetes-guides # Crosswalk Playbooks and Code for Teams to Manage Kubernetes in Production
+https://github.com/pulumi/crd2pulumi # Generate typed CustomResources from a Kubernetes CustomResourceDefinition
+https://github.com/pulumi/kube2pulumi # Upgrade your Kubernetes YAML to a modern language
+https://github.com/pulumi/pulumi-kubernetes-cert-manager # A Pulumi Kubernetes CertManager component
+https://github.com/pulumi/pulumi-kubernetes-ingress-nginx # A Pulumi NGINX Ingress Controller component
+https://github.com/pulumi/actions-example-gke-rails # Deploys a Dockerized Rails app to Kubernetes on Google, using GitHub Actions and Pulumi
+https://github.com/pulumi/cert-manager-examples # Examples of deploying cert-manager on Kubernetes with Venafi and LetsEncrypt issuers
+https://github.com/pulumi/pulumi-kubernetes-coredns # A Pulumi Kubernetes CoreDNS component
+https://github.com/pulumi/pulumi-converter-kubernetes # A Pulumi converter plugin to convert kubernetes manifests to Pulumi languages.
+https://github.com/pulumi/pulumi-kubernetes-crds # Typed CustomResources for Kubernetes Operators
+https://github.com/pulumi/guestbook # Guestbook application example on Kubernetes using Pulumi
+
+https://github.com/pulumi/examples # Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+https://github.com/pulumi/pulumi-gcp # A Google Cloud Platform (GCP) Pulumi resource package, providing multi-language access to GCP
+https://github.com/pulumi/pulumi-gcp-global-cloudrun # A way of creating a global CloudRun Service using Pulumi
+https://github.com/pulumi/pulumi-google-native #
+https://github.com/pulumi/actions-example-gke-rails # Deploys a Dockerized Rails app to Kubernetes on Google, using GitHub Actions and Pulumi
+https://github.com/pulumi/pulumi-import-google-cloud-account-scraper # Proof of concept using the Google Cloud SDK to generate JSON for Pulumi import
+https://github.com/pulumi/google-anthos-demo # Demo code for creating GKE Anthos Configuration Management CRD
+https://github.com/pulumi/pulumi-google-project-factory # Component for creating opinionated Google Cloud Platform projects
+https://github.com/pulumi/pulumi-google-cloud-static-website #
+https://github.com/pulumi/pulumi-synced-folder # Sync a local folder to Amazon S3, Azure Blob Storage, or Google Cloud Storage.
+
+https://github.com/pulumi/pulumi-azure # A Microsoft Azure Pulumi resource package, providing multi-language access to Azure
+https://github.com/pulumi/examples # Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+https://github.com/pulumi/pulumi-azure-native # Azure Native Provider
+https://github.com/pulumi/pulumi-azuread # A Microsoft Azure Active Directory (Azure AD) Pulumi resource package, providing multi-language access to Azure AD
+https://github.com/pulumi/pulumi-az-pipelines-task # Azure Pipelines task extension for running Pulumi apps.
+https://github.com/pulumi/pulumi-azuredevops # An AzureDevOps Pulumi resource package, providing multi-language access to AzureDevOps
+https://github.com/pulumi/pulumi-azure-native-sdk # Go SDK for the azure-native provider.
+https://github.com/pulumi/pulumi-azure-quickstart-compute #
+https://github.com/pulumi/pulumi-azure-quickstart-acr-geo-replication # Azure Container Registry Geo Replication
+https://github.com/pulumi/azure-deployment-environments #
+https://github.com/pulumi/pulumi-azure-justrun #
+https://github.com/pulumi/pulumi-azure-static-website #
+https://github.com/pulumi/azure-aks-with-spot-ocean # Demo infrastructure and application to show interaction of Spot Ocean AKS with Azure AKS
+https://github.com/pulumi/pulumi-synced-folder # A Pulumi component that synchronizes a local folder to Amazon S3, Azure Blob Storage, or Google Cloud Storage.
+
+https://github.com/pulumi/pulumi-aws # An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+https://github.com/pulumi/pulumi-awsx # AWS infrastructure best practices in component form!
+https://github.com/pulumi/examples # Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+https://github.com/pulumi/pulumi-aws-native # AWS Native Provider for Pulumi
+https://github.com/pulumi/pulumi-policy-aws # A policy pack of rules to enforce AWS best practices for security, reliability, cost, and more!
+https://github.com/pulumi/pulumi-eks # A Pulumi component for easily creating and managing an Amazon EKS Cluster
+https://github.com/pulumi/pulumi-aws-apigateway #
+https://github.com/pulumi/pulumi-aws-static-website #
+https://github.com/pulumi/pulumi-aws-iam # A Pulumi Multi Language Component for working with AWS IAM resources.
+https://github.com/pulumi/pulumi-synced-folder # A Pulumi component that synchronizes a local folder to Amazon S3, Azure Blob Storage, or Google Cloud Storage.
+https://github.com/pulumi/pulumi-import-aws-account-scraper # Example of using boto3 to generate JSON for pulumi import
+https://github.com/pulumi/aws-workshop # AWSWorkshop.io base workshop
+https://github.com/pulumi/pulumi-aws-quickstart-vpc # Temporary repository to hold the roadmap and early code for the AWS Quickstart VPC
+https://github.com/pulumi/aws-hub-and-spoke-with-inspection-vpc # Hub and spoke network architecture in AWS
+https://github.com/pulumi/pulumi-aws-quickstart-aurora-postgres # AWS Quickstart for Postgres architecture
+https://github.com/pulumi/pulumi-aws-quickstart-redshift #
+https://github.com/pulumi/aws-lambda-default-account-management # Lambda function deployed via Pulumi to ensure that the Default AWS VPCs exist in a region
+https://github.com/pulumi/aws-proton-workshop-templates # AWS Proton templates for use with pulumi/workshops/aws-proton
+https://github.com/pulumi/aws-tf-fork-patch # Tool for patching the AWS TF fork
+https://github.com/pulumi/pulumi-lambda-builders # Pulumi AWS Lambda Builders Component Library
+
+https://github.com/pulumi/pulumi-oci # An Oracle Cloud (OCI) Pulumi resource package, providing multi-language access to OCI
+
+https://github.com/pulumi/actions # Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
+https://github.com/pulumi/pulumi-ai #
+https://github.com/pulumi/automation-api-examples # Examples for the Pulumi Automation API
+https://github.com/pulumi/esc # Pulumi ESC (Environments, Secrets, and Configuration) for cloud applications and infrastructure.
+https://github.com/pulumi/pulumi-terraform-bridge # A library allowing Terraform providers to be bridged into Pulumi.
+https://github.com/pulumi/pulumi-eks # A Pulumi component for easily creating and managing an Amazon EKS Cluster
+https://github.com/pulumi/pulumi-cloud # A highly productive multi-cloud framework for containers, serverless, and data
+https://github.com/pulumi/docs # All things Pulumi docs!
+https://github.com/pulumi/pulumi-terraform # A resource package that allows Pulumi programs to use Terraform state
+https://github.com/pulumi/templates # Templates used by `pulumi new`
+https://github.com/pulumi/pulumi-cloudflare # Pulumi's Cloudflare package, providing multi-language infrastructure as code for Cloudflare
+https://github.com/pulumi/infrastructure-as-code-workshop # Infrastructure as Code Workshop
+https://github.com/pulumi/workshops # A definitive place to store all the Pulumi workshops
+https://github.com/pulumi/pulumi-digitalocean # A DigitalOcean Pulumi resource package, providing multi-language access to DigitalOcean
+https://github.com/pulumi/pulumi-docker # A Docker Pulumi resource package, providing multi-language access to Docker resources and building images.
+https://github.com/pulumi/pulumi-tf-provider-boilerplate # Boilerplate code for Terraform provider-backed Pulumi packages
+https://github.com/pulumi/pulumi-java # Java support for Pulumi
+https://github.com/pulumi/pulumi-alicloud # An AliCloud Pulumi resource package, providing multi-language access to AliCloud
+https://github.com/pulumi/pulumi-command #
+https://github.com/pulumi/pulumi-hcloud # A Hetzner Cloud Pulumi resource package, providing multi-language access to Hetzner Cloud
+https://github.com/pulumi/pulumi-cdk # Pulumi/CDK Interop Library
+https://github.com/pulumi/pulumi-github # A Pulumi package to facilitate interacting with GitHub
+https://github.com/pulumi/pulumi-provider-boilerplate # Boilerplate showing how to create a native Pulumi provider
+https://github.com/pulumi/pulumi-vsphere # A Pulumi resource package for VMWare VSphere, providing multi-language access to vCenter Server and ESXi
+https://github.com/pulumi/pulumi-openstack # An OpenStack Pulumi resource package, providing multi-language access to OpenStack
+https://github.com/pulumi/setup-pulumi # GitHub Action to install the Pulumi CLI
+https://github.com/pulumi/pulumi-self-hosted-installers # Repository for getting started with self-hosted Pulumi Service.
+https://github.com/pulumi/pulumi-yaml # YAML language provider for Pulumi
+https://github.com/pulumi/pulumi-random # A Pulumi provider that safely enables randomness for resources
+https://github.com/pulumi/pulumi-keycloak # A KeyCloak Pulumi resource package, providing multi-language access to KeyCloak
+https://github.com/pulumi/pulumi-policy # Pulumi's Policy as Code SDK, CrossGuard. Define infrastructure checks in code
+https://github.com/pulumi/pulumi-go-provider # A framework for building Go Providers for Pulumi
+https://github.com/pulumi/pulumictl # A swiss army knife for Pulumi development
+https://github.com/pulumi/pulumi-oci # An Oracle Cloud (OCI) Pulumi resource package, providing multi-language access to OCI
+https://github.com/pulumi/pulumi-postgresql # A Postgresql Pulumi resource package
+https://github.com/pulumi/pulumi-linode # Linode resource provider for Pulumi
+https://github.com/pulumi/registry # The global index of everything you can do with Pulumi.
+https://github.com/pulumi/pulumi-libvirt #
+https://github.com/pulumi/pulumi-vault # A Vault Pulumi resource package, providing multi-language access to HashiCorp Vault
+https://github.com/pulumi/pulumi-gitlab # A GitLab Pulumi resource package, providing multi-language access to GitLab
+https://github.com/pulumi/pulumi-component-provider-ts-boilerplate #
+https://github.com/pulumi/pulumi-dotnet # .NET support for Pulumi
+https://github.com/pulumi/pulumi-auth0 # An auth0Pulumi resource package, providing multi-language access to Auth0
+https://github.com/pulumi/pulumi-lsp # A LSP server for Pulumi YAML
+https://github.com/pulumi/circleci # CircleCI Orbs for CI/CD using Pulumi.
+https://github.com/pulumi/pulumi-component-provider-py-boilerplate # Demonstrates building a multi-lang Pulumi component provider in Python
+https://github.com/pulumi/pulumi-datadog # An Datadog Pulumi resource package, providing multi-language access to Datadog
+https://github.com/pulumi/halloumi #
+https://github.com/pulumi/pulumi-mongodbatlas # A MongoDB Atlas Pulumi resource package, providing multi-language access to MongoDB Atlas
+https://github.com/pulumi/pulumi-snowflake #
+https://github.com/pulumi/compliance-policies # A library of policies for Pulumi's Policy as Code
+https://github.com/pulumi/pulumi-kafka # A Kafka Pulumi resource package, providing multi-language access to Kafka
+https://github.com/pulumi/pulumi-component-provider-go-boilerplate #
+https://github.com/pulumi/pulumi-backstage-plugin # Pulumi plugin for Backstage
+https://github.com/pulumi/pulumi-newrelic # An New Relic Pulumi resource package, providing multi-language access to New Relic
+https://github.com/pulumi/pulumi-docker-containers # Definitions for official Pulumi Docker images.
+https://github.com/pulumi/pulumi-databricks #
+https://github.com/pulumi/pulumitv # Projects and examples related to Pulumi TV
+https://github.com/pulumi/pulumi-tailscale #
+https://github.com/pulumi/eks-blueprint #
+https://github.com/pulumi/pulumi-pulumiservice #
+https://github.com/pulumi/pulumi-policy-opa # A bridge enabling Pulumi CrossGuard to run OPA rules
+https://github.com/pulumi/pulumi-aiven # An Aiven Pulumi resource package, providing multi-language access to Aiven
+https://github.com/pulumi/actions-pulumify # Pulumify - A GitHub Action to continuously deploy static website previews
+https://github.com/pulumi/devcontainer # Pulumi build and development artifacts
+https://github.com/pulumi/pulumi-tls # A Pulumi provider for TLS resource management
+https://github.com/pulumi/pulumi-nomad #
+https://github.com/pulumi/tf12-vs-pulumi # A collection of HCL2 examples, rewritten to Pulumi
+https://github.com/pulumi/tutorial-pulumi-fundamentals #
+https://github.com/pulumi/introduction-to-pulumi # An interactive workshop to get started with Pulumi
+https://github.com/pulumi/pulumi-cloud-requests # Welcome to the public issue tracker for Pulumi Cloud (app.pulumi.com)! Feature requests and bug reports welcome!
+https://github.com/pulumi/pulumi-okta # An Okta Pulumi resource package, providing multi-language access to Okta
+https://github.com/pulumi/eslint-plugin-pulumi #
+https://github.com/pulumi/pulumi-consul # A Consul Pulumi resource package, providing multi-language access to HashiCorp Consul
+https://github.com/pulumi/ci-mgmt # Configuration for all things CI
+https://github.com/pulumi/scripts # Common scripts used across all Pulumi repositories
+https://github.com/pulumi/watchutil-rs #
+https://github.com/pulumi/travisqueue # Sequence Travis builds per branch
+https://github.com/pulumi/pulumi-converter-terraform #
+https://github.com/pulumi/pulumi-rancher2 # A Rancher2 Pulumi resource package, providing multi-language access to Rancher2
+https://github.com/pulumi/pulumi-fastly # An Fastly Pulumi resource package, providing multi-language access to Fastly
+https://github.com/pulumi/pulumi-pagerduty # A PagerDuty Pulumi resource package, providing multi-language access to PagerDuty
+https://github.com/pulumi/pulumi-rabbitmq # A RabbitMQ Pulumi resource package, providing multi-language access to RabbitMQ
+https://github.com/pulumi/deploy-demos #
+https://github.com/pulumi/pulumi-confluentcloud # A Confluent Pulumi resource package, providing multi-language access to Confluent
+https://github.com/pulumi/pulumi-cloudinit # Pulumi provider for rendering CloudInit config in multiple-languages
+https://github.com/pulumi/fullstack-pulumi-mern-digitalocean # A template repository that uses Pulumi to deploy a MERN application on the DigitalOcean App Platform.
+https://github.com/pulumi/pulumi-civo # A Civo Pulumi resource package, providing multi-language access to Civo
+https://github.com/pulumi/pulumi-artifactory # Pulumi provider for Artifactory
+https://github.com/pulumi/get.pulumi.com # The infrastructure behind https://get.pulumi.com.
+https://github.com/pulumi/auth-actions # Simplify Pulumi authentication without having to configure secrets for your workflows.
+https://github.com/pulumi/pulumi-f5bigip # A Pulumi resource provider for managing F5 BigIP resources
+https://github.com/pulumi/pulumi-kong # A Kong Pulumi resource package, providing multi-language access to Kong
+https://github.com/pulumi/training # Artifacts for Pulumi training sessions
+https://github.com/pulumi/pulumi-repl # Create cloud infrastructure and explore pulumi in an interactive NodeJS REPL
+https://github.com/pulumi/upgrade-provider # A tool to automate provider upgrades on your local machine
+https://github.com/pulumi/spinnaker-preconfigured-job-plugin # A Spinnaker plugin for running a pre-configured job in your Spinnaker instance to run Pulumi apps
+https://github.com/pulumi/pulumi-akamai # A Akamai Pulumi resource package, providing multi-language access to Akamai
+https://github.com/pulumi/pulumi-spotinst # A Spotinst Pulumi resource package, providing multi-language access to Spotinst
+https://github.com/pulumi/ci-workflow-templates # A repository for workflow templates for various CI/CD systems.
+https://github.com/pulumi/schema-tools # Tools to analyze Pulumi schemas
+https://github.com/pulumi/pulumi-converter-bicep # A Pulumi converter plugin to convert Bicep code to Pulumi languages
+https://github.com/pulumi/pulumi-str # Cross language string manipulation functions
+https://github.com/pulumi/pulumi-dnsimple # A DNSimple Pulumi resource package, providing multi-language access to DNSimple
+https://github.com/pulumi/providertest # Incubating facilities for testing Pulumi providers
+https://github.com/pulumi/pulumi-cloud-import # Import infrastructure managed outside of Pulumi IaC into Pulumi Insights
+https://github.com/pulumi/pulumi-trace-tool # CLI tool for parsing files produced by `pulumi --tracing file:./up.trace`
+https://github.com/pulumi/pulumi-rke # An RKE pulumi resource package, providing multi language access to RKE
+https://github.com/pulumi/pulumi-ec # Pulumi provider for the Elasticsearch Service and Elastic Cloud Enterprise
+https://github.com/pulumi/pulumi-slack # Pulumi provider for Slack
+https://github.com/pulumi/tutorials # Pulumi tutorials
+https://github.com/pulumi/platypack #
+https://github.com/pulumi/pulumi-minio #
+https://github.com/pulumi/cloud-ready-checks # Readiness (await) logic for cloud resources
+https://github.com/pulumi/pulumi-harness # A Pulumi provider for Harness
+https://github.com/pulumi/team-edition-for-open-source # Want to use the Pulumi service for your Open Source project?
+https://github.com/pulumi/pulumi-package-publisher # A composite action for publishing Pulumi packages
+https://github.com/pulumi/pulumi-winget # This repository contains the scripts required to update the Pulumi package on Windows Package Manager (winget)
+https://github.com/pulumi/pulumi-mysql # A MySQL Pulumi resource package
+https://github.com/pulumi/pulumi-opsgenie #
+https://github.com/pulumi/pulumi-cloudamqp # A CloudAMQP Pulumi resource package, providing multi-language access to CloudAMQP
+https://github.com/pulumi/apps # Installable applications built with Pulumi that can be used with `pulumi new` or `pulumi up`
+https://github.com/pulumi/pulumi-docker-build # A Pulumi native provider for Docker
+https://github.com/pulumi/pulumi-splunk #
+https://github.com/pulumi/templates-policy # Templates for Policy Packs.
+https://github.com/pulumi/facet # A web component library and design system for Pulumi.
+https://github.com/pulumi/pulumi-schema-explode # Exploding large schemas into smaller files
+https://github.com/pulumi/esc-sdk #
+https://github.com/pulumi/pulumi-converter-arm #
+https://github.com/pulumi/pulumi-sumologic #
+https://github.com/pulumi/pulumi-signalfx # A SignalFX Pulumi resource package, providing multi-language access to SignalFX
+https://github.com/pulumi/pulumi-local #
+https://github.com/pulumi/tap-codecov # Import data from Codecov
+https://github.com/pulumi/pulumi-mailgun # A Mailgun Pulumi resource package, providing multi-language access to Mailgun
+https://github.com/pulumi/pulumi-go-helmbase # A base for creating strongly typed Pulumi Helm Chart components
+https://github.com/pulumi/blog-lambda-streaming-response #
+https://github.com/pulumi/pulumi-auto-deploy-old # automatically deploy dependent stacks
+https://github.com/pulumi/pulumi-demo-native # Demo repo for messing around on a stream, hi everyone!
+https://github.com/pulumi/pulumi-build-container # A Docker image containing all Pulumi build dependencies
+https://github.com/pulumi/pulumi-std # Standard library functions implemented as a native Pulumi provider to be consumed from all Pulumi supported languages
+https://github.com/pulumi/spinnaker-plugins-repository # A Halyard-compatible repository for Spinnaker plugins built and maintained by Pulumi.
+https://github.com/pulumi/demo-kubecrash-2022 #
+https://github.com/pulumi/serverless-app-test-luke #
+https://github.com/pulumi/action-release-by-pr-label # A github action for managing releases based on labels applied to PRs
+https://github.com/pulumi/pulumi-upgrade-provider-action # A composite action for upgrading bridged providers.
+https://github.com/pulumi/splitschema # Efficient and human-friendly schema serialisation
+https://github.com/pulumi/pulumi-metabase #
+https://github.com/pulumi/.github # Community health and other GitHub files for the Pulumi org
+https://github.com/pulumi/pulumi-nodejs-dynamic # Dynamic resource provider and SDK for nodejs
+https://github.com/pulumi/pulumi-wavefront # A Wavefront Pulumi resource package, providing multi-language access to Wavefront
+https://github.com/pulumi/pulumi-tls-self-signed-cert #
+https://github.com/pulumi/publish-go-binary-action # PREVIEW: Build and publish multi-platform binaries via GitHub Actions
+https://github.com/pulumi/pulumi-archive #
+https://github.com/pulumi/pulumi-external #
+https://github.com/pulumi/nooutput #
+https://github.com/pulumi/go-change #
+https://github.com/pulumi/publish-go-sdk-action # GitHub action for publishing a Go SDK to a tag via pushing a new commit with the specified source files.
+https://github.com/pulumi/pulumi-venafi # A Venafi Pulumi resource package, providing multi-language access to Venafi
+https://github.com/pulumi/pulumi-epsagon # Epsagon integration with Pulumi
+https://github.com/pulumi/pulumi-auto-deploy # Automatic dependent stack updates via Pulumi Deployments
+https://github.com/pulumi/license-check-action #
+https://github.com/pulumi/pulumi-onelogin #
+https://github.com/pulumi/tap-launchdarkly # Tap to import targeting data from LaunchDarkly
+https://github.com/pulumi/appdash # A usable mirror of https://github.com/sourcegraph/appdash
+https://github.com/pulumi/pulumi-ns1 # A NS1 Pulumi resource package, providing multi-language access to NS1
+https://github.com/pulumi/pulumi-terraform-provider # Use any Terraform provider with Pulumi
+https://github.com/pulumi/terraform # Fork of Terraform
+https://github.com/pulumi/build-automation # Automation to keep Github Actions workflows up to date for Pulumi & third-party repositories
+https://github.com/pulumi/komal-test #
+https://github.com/pulumi/pulumi-http #
+https://github.com/pulumi/git-status-check-action #
+https://github.com/pulumi/goteststats # Compute simple stats out of `go test -json x` files
+https://github.com/pulumi/pulumi-pascal #
+https://github.com/pulumi/python-concurrency-experiments #
+https://github.com/pulumi/gha-testing-repo #
+https://github.com/pulumi/my-new-project #
+https://github.com/pulumi/pulumi-chocolatey # Nuspec files for managing binaries relating to Pulumi
+https://github.com/pulumi/pulumi-package #
+https://github.com/pulumi/terraform-diff-reader #
+https://github.com/pulumi/codeship-example # A small example of using CodeShip with Pulumi for CI/CD.
+https://github.com/pulumi/blog-lambda-snapshots #
+https://github.com/pulumi/pulumi-xyz # This is a test bridged provider.
+https://github.com/pulumi/licenseclassifier-delete-me #
+https://github.com/pulumi/pulumi-cloud-bootstrap #
+https://github.com/pulumi/pulumi-converter-constructor-syntax # Converter plugin that generates constructor syntax for resources
+https://github.com/pulumi/jfrog-webinar # JFrog Webinar
+https://github.com/pulumi/basic-example #
+https://github.com/pulumi/qcon-workshop # QCon London Workshop
+https://github.com/pulumi/blog-snowflake-elt-python # Temporary home for a Pulumi example w/Snowflake
+https://github.com/pulumi/provider-version-action # Calculates a Pulumi provider build version
+https://github.com/pulumi/pulumi-policy-snyk # A Pulumi policy pack that used Snyk to find vulnerabilities in Docker images
+https://github.com/pulumi/pulumi-developer-docs # Pulumi developer documentation
+https://github.com/pulumi/verify-provider-release # GitHub action to verify that a published provider is usable
+https://github.com/pulumi/pulumi-continuous-policy # Perform assertions on Resource Search and Property Search query results to validate your entire cloud account  
+https://github.com/pulumi/glob-action # GitHub action for glob based file operations
+https://github.com/pulumi/pulumi-scm # Strata Cloud Manager provider
+https://github.com/pulumi/terraform-plugin-sdk # Fork of Terraform Plugin SDK
+https://github.com/pulumi/pulumi-junipermist #
+https://github.com/pulumi/go-dependency-testdata # Some modules that can be used by pulumi/pulumi to test Go dependency resoloution
+https://github.com/pulumi/pulumi-null #
+https://github.com/pulumi/pulumi-ise #
+https://github.com/pulumi/pulumi-sdwan #
+https://github.com/pulumi/test-repo # A test repo for automation api
+https://github.com/pulumi/pulumi-meraki #
+https://github.com/pulumi/pulumi-dbtcloud #
+https://github.com/pulumi/frontend-working-group # Home to all code and artifacts relating to Pulumi's Frontend Working Group
+https://github.com/pulumi/pulumi-hubspot # A prototype for managing HubSpot configurations and assets in a Pulumi program
+https://github.com/pulumi/action-test-provider-downstream # GitHub Action for testing effects of changes in the Pulumi-Terraform Bridge in downstream repositories.
+https://github.com/pulumi/lukeawstest #
+https://github.com/pulumi/customer-managed-deployment-agent # Customer managed agent for https://www.pulumi.com/docs/pulumi-cloud/deployments/
+
+https://github.com/semaphoreui/semaphore # Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
+https://github.com/pulumi/pulumi-hugo # A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi.
+https://github.com/creatorsgarten/configuration # Pulumi
+https://github.com/pulumiverse/awesome-pulumi # Curated list of resources on Pulumi
+https://github.com/pulumi/tf2pulumi # A tool to convert Terraform projects to Pulumi
+https://github.com/jaxxstorm/pulumi-examples #
+https://github.com/muhlba91/pulumi-proxmoxve # A Pulumi provider for creating and managing Proxmox VE resources
+https://github.com/jen20/pulumi-aws-vpc # Good-Practice AWS VPC Component for Pulumi
+https://github.com/pulumiverse/pulumi-talos # Pulumi provider for Talos
+https://github.com/aporia-ai/mlplatform-workshop # 🍫 Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more
+https://github.com/pulumiverse/pulumi-scaleway # Pulumi provider for Scaleway
+https://github.com/pinecone-io/aws-reference-architecture-pulumi # Pinecone AWS Reference Architecture
+https://github.com/vitobotta/pulumi-kubernetes-deployments #
+https://github.com/localstack/pulumi-local # Thin wrapper script to use Pulumi with LocalStack
+https://github.com/pulumiverse/pulumi-grafana # Pulumi provider for Grafana
+https://github.com/jonashackt/pulumi-python-aws-ansible # Example of using Pulumi locally & with TravisCI to create Infrastructure on AWS
+https://github.com/pulumi/circleci # CircleCI Orbs for CI/CD using Pulumi.
+https://github.com/MaterializeInc/pulumi-docker-buildkit # Pulumi provider for Docker using Buildkit
+https://github.com/UnoSD/Pulumi.FSharp.Extensions # F# computational expressions to reduce boilerplate in Pulumi code
+https://github.com/iann0036/former2 # Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
+https://github.com/komalali/self-service-platyform # Build your own IaC platform with Pulumi's Automation API.
+https://github.com/tencentcloudstack/pulumi-tencentcloud # A TencentCloud Pulumi resource package, providing multi-language access to TencentCloud
+https://github.com/mikhailshilkov/azure-serverless-workshop # Azure Serverless Workshop with Pulumi
+https://github.com/spacelift-io/spacectl # Spacelift client and CLI
+https://github.com/checkly/pulumi-checkly # Pulumi provider for the Checkly monitoring service
+https://github.com/aws-samples/aws-modernization-with-pulumi #
+https://github.com/gofireflyio/aiac # Artificial Intelligence Infrastructure-as-Code Generator.
+https://github.com/ever-co/ever-gauzy-pulumi # Deploy and Manage Ever® Gauzy™ Platform on Clouds with Pulumi
+https://github.com/ovh/pulumi-ovh # Pulumi provider for OVHcloud
+https://github.com/sevenwestmedia-labs/pulumi # Collection of Pulumi modules we have built
+https://github.com/prepor/github-pulumi #
+https://github.com/nginxinc/kic-reference-architectures # MARA: Modern Application Reference Architecture
+https://github.com/ryan4yin/pulumi-proxmox # A Pulumi Provider which adds support for Proxmox solutions.
+https://github.com/timbohiatt/gke-at-scale-pulumi # Deploy Multiple GKE Clusters behind a Google Cloud Global Load Balancer with Pulumi
+https://github.com/jaxxstorm/pulumi-azurenative-workshop #
+https://github.com/pulumi/pulumi-azure-nextgen # Next generation Microsoft Azure provider for Pulumi, providing multi-language access to Azure
+https://github.com/mikhailshilkov/schema-tools # Tools to analyze Pulumi schemas
+https://github.com/pulumiverse/kubernetes-sdks #
+https://github.com/ddunkin/pulumi-docker #
+https://github.com/jaxxstorm/pulumi-automationapi-workshop #
+https://github.com/pulumiverse/pulumi-sentry # Pulumi provider for Sentry.io
+https://github.com/pulumiverse/infra # IaC for all infrastructure required by Pulumiverse
+https://github.com/jacopotagliabue/paas-data-ingestion # Ingesting data with Pulumi, AWS lambdas and Snowflake in a scalable, fully replayable manner
+https://github.com/huaweicloud/pulumi-huaweicloud #
+https://github.com/dirien/pulumi-fly # Pulumi provider for Fly.io
+https://github.com/ermetic-research/cnappgoat-scenarios # This repository provides a comprehensive collection of Pulumi scenarios utilized by cnappgoat
+https://github.com/davidfowl/AspirePulumi # A demo showing pulumi and aspire
+https://github.com/ringods/pulumi-resource # Pulumi Resource Type for Concourse
+https://github.com/bjerkio/pulumi-appsync-modules # GraphQL Modules, but for AppSync and Pulumi 🌟
+https://github.com/jaxxstorm/pulumi-gcp-workshop #
+https://github.com/pulumiverse/pulumi-unifi # Pulumi provider for Unifi network gear
+https://github.com/pulumi/pulumi-yandex #
+https://github.com/datapunkz/orb-pulumi-gcp # This repos is a demo app for Pulumi python and GCP
+https://github.com/joeduffy/pulumi-architectures # Modern cloud architectures written in Pulumi
+https://github.com/tusharshahrs/pulumi-homelab # pulumi examples
+https://github.com/tmeckel/pulumi-tf-provider-cookiecutter # A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge
+https://github.com/jonathanbaraldi/devopsforlife-terraform-to-pulumi #
+https://github.com/scottslowe/learning-tools # A collection of tools and files for learning new technologies
+https://github.com/bincyber/pitfall # Pulumi Integration Testing Framework
+https://github.com/kaiquelupo/twilio-pulumi-provider # Twilio Dynamic Provider for Pulumi
+https://github.com/port-labs/pulumi-port # Pulumi Port provider
+https://github.com/rlmckenney/cst8918-w24-a03-weather-pulumi #
+https://github.com/pulumi/pulumi-packet # A Pulumi provider for Packet
+https://github.com/pulumiverse/pulumi-vercel #
+https://github.com/pulumiverse/pulumi-dynatrace # Pulumi provider for Dynatrace
+https://github.com/astipkovits/pulumi-aviatrix # Aviatrix Pulumi provider
+https://github.com/pgavlin/pulumi.vim # Vim files for working with Pulumi
+https://github.com/Twingate-Labs/pulumi-twingate # Twingate Pulumi provider
+https://github.com/pulumiverse/pulumi-buildkite # A Pulumi provider for interacting with the Buildkite CI/CD service
+https://github.com/sevenwestmedia-labs/pulumi-components # A collection of higher level Pulumi components / resources
+https://github.com/modern-energy/pulumi-cljs # Small wrapper library making it easier to use Pulumi via ClojureScript
+https://github.com/Dev-Thought/pulumi-npm # An NPM executable package for Pulumis CLI.
+https://github.com/demiban/pulumi-localstack-lambda-example # Example project for deploying aws serverless lambda to localstack with pulumi.
+https://github.com/PotionApps/potionx # Full-stack Elixir and Vue framework with GraphQL and Pulumi
+https://github.com/lbrlabs/pulumi-lbrlabs-eks # A multi language batteries included EKS cluster
+https://github.com/pulumi/pulumi-aws-serverless # Easy serverless programming for AWS
+https://github.com/upstash/pulumi-upstash #
+https://github.com/pulumiverse/terraform-provider-pulumi # A Terraform Provider to consume Pulumi Cloud outputs
+https://github.com/aws-samples/preventive-security-controls-in-pulumi-iac-pipeline # Sample code with security policies in Pulumi CrossGuard
+https://github.com/cake-contrib/Cake.Pulumi #
+https://github.com/lakindu2002/pulumi-aws-pdf-generator # A Pulumi Application that uses AWS Serverless to Generate PDFs
+https://github.com/codefresh-contrib/pulumi-sample-app # Using Pulumi deployments via Codefresh
+https://github.com/pulumi/pulumi-query # Write SQL-like queries over JavaScript data structures
+https://github.com/usrbinkat/pulumi-kubernetes # surprise
+https://github.com/runpod/pulumi-runpod-native #
+https://github.com/jaxxstorm/pulumi-nginx-demo # Deploying the nginxinc ingress controller and application
+https://github.com/sigstore/github-sync # Pulumi GitHub Sync for sigstore
+https://github.com/ihcsim/pulumi-azure # A Pulumi program to provision Azure resources
+https://github.com/brumhard/pulumi-k3s # Native Pulumi provider for k3s :rocket:
+https://github.com/AaronFriel/pulumi-wordle #
+https://github.com/SimCubeLtd/pulumi-onepassword #
+https://github.com/equinix-labs/pulumi-equinix-kubernetes-cluster # Pulumi & Terraform modules for deploying Kubernetes with kubeadm and cloud-init
+https://github.com/pellizzetti/pulumi-vault-on-gke # Run @hashicorp Vault on Google Kubernetes Engine (GKE) with @pulumi
+https://github.com/codedevote/devspace2022-pulumi #
+https://github.com/soufantech/pulumi-aws-contrib #
+https://github.com/decodingml/llm-twin-course # End-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices
+https://github.com/Mati365/nomad-cheap-cluster # Cheap Nomad + Vault + Consul + Pulumi + Traefik + Ansible IaC cloud cluster live example
+https://github.com/phoenixnap/pulumi-pnap # Pulumi provider for provisioning and managing Bare Metal Cloud resources
+https://github.com/metral/pulumi-nginx # Deploy NGINX in k8s using pulumi
+https://github.com/pulumiverse/pulumi-esxi-native # VMWare ESXi provider to provision VMs directly on an ESXi hypervisor without a need for vCenter or vSphere.
+https://github.com/klothoplatform/klotho # Klotho - write AWS applications at lightning speed
+https://github.com/frezbo/pulumi-provider-kind # Pulumi provider for KIND
+https://github.com/ArjanCodes/2022-pulumi #
+https://github.com/oun/pulumi-flux # Pulumi provider for FluxCD
+https://github.com/cmatskas/pulumiWithAAD #
+https://github.com/MaterializeInc/pulumi-honeycomb # Honeycomb provider for pulumi
+https://github.com/equinix/pulumi-equinix # An Equinix Pulumi resource package, providing multi-language access to Equinix
+https://github.com/pinecone-io/pulumi-pinecone # Pinecone Pulumi Provider
+https://github.com/dirien/pulumi-azapi # Pulumi provider for Azure API Management
+https://github.com/unplatform-io/pulumi-commercetools # A Commercetools Pulumi resource package, bridges to the commercetools Terraform provider
+https://github.com/EventStore/pulumi-eventstorecloud # Pulumi provider for Event Store Cloud
+https://github.com/adamgoose/tsk # Quickly connect to your Kubernetes Cluster with Tailscale
+https://github.com/pulumi/arm2pulumi # Tool to convert Azure ARM templates to Pulumi code
+https://github.com/nitrictech/pulumi-supabase # A pulumi resource provider for the Supabase managment API
+https://github.com/jasonsmithio/ai-gke-pulumi-demo #
+https://github.com/mikhailshilkov/pulumi-temporal-workflow # Examples of Temporal workflows that manage cloud resources with Pulumi automation
+https://github.com/metral/cncf-gke-pulumi # GKE cluster with Istio (service mesh), Knative Serving & Eventing (serverless), Berglas (KMS), Strimzi (Kafka)
+https://github.com/My-Azure-Projects/azure-pulumi # Provides a docker image that can interact with Azure via Pulumi
+https://github.com/juniorb2ss/laravel-pulumi-eks # :mage: :building_construction: A magic way to deploy Laravel using Pulumi, EKS and ECR. :tada:
+https://github.com/pulumi/pulumi-confluent # A Confluent Cloud Pulumi resource package, providing multi-language access to Confluent Cloud
+https://github.com/mastoj/pulumi-automation-demo # Sample demo to show case Pulumi Automation API in a nextjs project
+https://github.com/dirien/pulumi-exoscale-workshop # Pulumi Exoscale Workshop
+https://github.com/ydkn/pulumi-k0s # Native Pulumi provider for k0s/k0sctl
+https://github.com/pulumiverse/pulumi-doppler # Pulumi provider for Doppler
+https://github.com/ever-co/ever-demand-pulumi # Deploy and Manage Ever® Demand™ Platform on Clouds with Pulumi
+https://github.com/cloud-toolkit/cloud-toolkit-aws # The Cloud Toolkit AWS provider for Pulumi lets you deploy well-architected solutions in AWS.
+https://github.com/pulumiverse/pulumi-time # Pulumi Time provider used to interact with time-based resources.
+https://github.com/aitomatic/melody # Multilayer Infrastructure Orchestration with Pulumi and Prefect
+https://github.com/ssbostan/jenkins-stack-kubernetes # Scripts and manifests to deploy complete Jenkins on Kubernetes
+https://github.com/pulumiverse/pulumi-zitadel # Pulumi provider for Zitadel
+https://github.com/pulumiverse/pulumi-concourse # Pulumi provider for Concourse
+https://github.com/marcus-sa/pulumi-kubernetes-istio # PKI - Istio resources for Pulumi Kubernetes
+https://github.com/FOXHOUND0x/YouSuckAtCloudLabs # A structured pulumi mono-repo that follows the various azure certification objectives.
+https://github.com/oracle-devrel/pulumi-python-oci-oke # pulumi-python-oci-oke
+https://github.com/jaxxstorm/pulumi-component-workshop #
+https://github.com/pulumi/pulumi-iopipe # IOPipe integration with Pulumi
+https://github.com/MitchellGerdisch/pulumi-work #
+https://github.com/pulumiverse/pulumi-cockroach # Pulumi provider for Cockroach DB
+https://github.com/pulumi/pulumi-terraform-template # Pulumi Terraform template provider
+https://github.com/sacloud/pulumi-sakuracloud # A SAKURA Cloud Pulumi resource package, providing multi-language access to SakuraCloud
+https://github.com/cnunciato/pulumi-strapi # An example that deploys Strapi headless CMS as a containerized web app on AWS with Pulumi.
+https://github.com/David-VTUK/pulumi-rancher-demos #
+https://github.com/dirien/pulumi-production-ready-kubernetes # How To Build A Production Ready Kubernetes Cluster With Pulumi
+https://github.com/dirien/pulumi-aiven-openfaas # Running OpenFaas Pro on Linode K8s (feat. Aiven and Pulumi)
+https://github.com/JustinGrote/PulumiPowershellTest # Attempted Proof of Concept to Run the new Pulumi dotnet provider in Powershell
+https://github.com/Lepozepo/umble # Pulumi AWS Constructs for Apollo/React
+https://github.com/cockroachdb/pulumi-poc # Demo of simple control plane built on top of Pulumi.
+https://github.com/ctfer-io/pulumi-ctfd # Let's code your CTF(d)
+https://github.com/gu-tum-gun-aeng/med4all-infra # Med4all infrastructure project using Pulumi for AWS
+https://github.com/pulumiverse/pulumi-vra # Learn how to make a Pulumi provider and make one for VRA.
+https://github.com/pulumiverse/pulumi-acme # Pulumi provider for ACME
+https://github.com/prepor/setup-pulumi #
+https://github.com/iiglesiasg/elastic-pulumi # Kubernetes: deploy full elasticstack + an application workload for apm and distributed tracing monitoring
+https://github.com/vincentbernat/pulumi-vultr # Pulumi provider for Vultr (based on the Terraform one), not official
+https://github.com/evgenyb/iac-meetup # Code used at Infrastructure As Code Oslo Meetup events
+https://github.com/pulumiverse/pulumi-gandi # Pulumi provider for Gandi domains / cloud
+https://github.com/leezen/pulumi-replicatedbucket #
+https://github.com/dirien/pulumi-oci # Terraform Oracle Cloud Infrastructure provider
+https://github.com/asizikov/pulumi-azure # Pulumi managed infrastructure project for Azure
+https://github.com/pulumiverse/pulumi-exoscale # Pulumi provider for Exoscale
+https://github.com/kaiquelupo/twilio-pulumi-provider-example # twilio-pulumi-provider package to describe your Twilio Project as code
+https://github.com/pulumiverse/terraform-migration-guide # Terraform to Pulumi migration guide
+https://github.com/briancaffey/pulumi-aws-django # A Pulumi package for deploying Django applications to AWS using ECS Fargate and other managed services
+https://github.com/tlinhart/pulumi-aws-tags # Pulumi package that helps manage tags for AWS resources
+https://github.com/lreimer/continuous-k6k8s # Continuous K6 load tests on K8s.
+https://github.com/jkodroff/aws-dns-subdomain-delegation # Demo using Pulumi to delegate subdomains to separate AWS accounts.
+https://github.com/pulumiverse/.github # This repository documents the community model of Pulumiverse. All community related aspects are consolidated here.
+https://github.com/astronomer/apache-airflow-providers-pulumi #
+https://github.com/dirien/pulumi-vultr # Pulumi provider for Vultr
+https://github.com/pulumiverse/pulumi-matchbox # Pulumi provider for the Matchbox iPXE server
+https://github.com/amichel/pulumi-github-action # forked from pulumi/action to support stack output
+https://github.com/1Password/pulumi-onepassword # Pulumi provider for 1Password.
+https://github.com/hadoan/abp-microservice-eks-pulumi # Deploy abp.io microservice sample to AKS by Pulumi
+https://github.com/pulumi/pulumi-openfaas # An OpenFaaS Pulumi resource package, providing multi-language access to OpenFaaS

@@ -1,0 +1,88 @@
+https://github.com/cloudinary/cloudinary_npm # Cloudinary NPM for node.js integration
+https://github.com/cloudinary/cloudinary-react # React components that utilize Cloudinary functionality
+https://github.com/cloudinary/responsive_breakpoints_generator #
+https://github.com/cloudinary/cloudinary_gem # Cloudinary gem for Ruby on Rails integration
+https://github.com/cloudinary/cloudinary_php # PHP extension for Cloudinary
+https://github.com/cloudinary/cloudinary_js # Cloudinary JavaScript library
+https://github.com/cloudinary/cloudinary_angular # Cloudinary Angular client library
+https://github.com/cloudinary/pycloudinary # Python package for cloudinary
+https://github.com/cloudinary/cloudinary_ios # Cloudinary iOS SDK
+https://github.com/cloudinary/fuif # Free Universal Image Format
+https://github.com/cloudinary/ssimulacra2 # SSIMULACRA 2. Perceptual metric.
+https://github.com/cloudinary/cloudinarydotnet # Cloudinary DotNet library
+https://github.com/cloudinary/cloudinary-vue # Cloudinary components library for Vue.js application, for image and video optimization.
+https://github.com/cloudinary/ssimulacra #
+https://github.com/cloudinary/cloudinary-video-player # Cloudinary Video Player
+https://github.com/cloudinary/cloudinary_android # Android client for integrating with Cloudinary
+https://github.com/cloudinary/js-url-gen # Cloudinary's base javascript library, including URL generation.
+https://github.com/cloudinary/frontend-frameworks # Cloudinary javascript frontend frameworks SDKs, including Shared HTML layer, Angular, React and Vue SDKs
+https://github.com/cloudinary/cloudinary-go # Cloudinary Golang package
+https://github.com/cloudinary/cloudinary_wordpress # Cloudinary's WordPress plugin
+https://github.com/cloudinary/cloudinary_pubnub_demo # Demo for uploading images to Cloudinary and sharing them in real-time using PubNub
+https://github.com/cloudinary/cloudinary-svelte # Cloudinary components library for Svelte  
+https://github.com/cloudinary/cloudinary-cli # A command line interface for Cloudinary's APIs
+https://github.com/cloudinary/cloudinary_magento # Magento extension. Upload product images to the cloud and manipulate them to match your graphic design
+https://github.com/cloudinary/cloudinary_magento2 # Magento 2 extension. Upload product images to the cloud and manipulate them to match your graphic design
+https://github.com/cloudinary/cloudinary-react-native #
+https://github.com/cloudinary/cloudinary_sap_commerce # Cloudinary's SAP Commerce Extension
+https://github.com/cloudinary/cloudinary_kotlin # Cloudinary Kotlin SDK library
+https://github.com/cloudinary/android-demo #
+https://github.com/cloudinary/web-speed-test-server # Page Speed Image Performance Analysis (Server)
+https://github.com/cloudinary/cloudinary_dart #
+https://github.com/cloudinary/web-speed-test-client # Page Speed Image Performance Analysis
+https://github.com/cloudinary/cloudinary_sfcc_pagedesigner # Cloudinary Salesforce PageDesigner Integration
+https://github.com/cloudinary/cloudinary_flutter #
+https://github.com/cloudinary/cloudinary-js-streaming # Cloudinary Live Streaming Javascript SDK
+https://github.com/cloudinary/cloudinary_tinymce # TinyMCE plugin for adding and manipulating images from Cloudinary's cloud-based media library
+https://github.com/cloudinary/php-transformation-builder-sdk # Cloudinary PHP Transformation Builder SDK
+https://github.com/cloudinary/mailinary # scrape and email web pages on schedule or on demand
+https://github.com/cloudinary/cloudinary_sfcc_site_cartridge # Salesforce Commerce Cloud integration
+https://github.com/cloudinary/product-customization-sample-app #
+https://github.com/cloudinary/js-transformation-builder-sdk #
+https://github.com/cloudinary/media-management-js #
+https://github.com/cloudinary/cloudinary-ios-sample-app # Cloudinary iOS sample application
+https://github.com/cloudinary/vue-cli-plugin-cloudinary # Plugin of Cloudinary Vue SDK for Vue CLI
+https://github.com/cloudinary/cloudinary_cake_php # Cloudinary CakePHP module
+https://github.com/cloudinary/cloudinary-video-analytics #
+https://github.com/cloudinary/imagemagick_blog # Complementary source code to Cloudinary's ImageMagick blog post
+https://github.com/cloudinary/cloudinary_commercetools # Cloudinary demo for Commercetools
+https://github.com/cloudinary/media-editing-java #
+https://github.com/cloudinary/media-editing-api-php # Cloudinary Media Editing API PHP SDK
+https://github.com/cloudinary/live-streaming-demo # Demo of live video streaming using video streaming sdk
+https://github.com/cloudinary/media-editing-js #
+https://github.com/cloudinary/account-provisioning-php # Cloudinary Account Provisioning PHP SDK
+https://github.com/cloudinary/cloudinary_commercetools_mach # The MACH integration for Cloudinary and Commercetools
+https://github.com/cloudinary/permissions-php # Cloudinary Account Permissions PHP SDK
+https://github.com/cloudinary/js-url-builder #
+https://github.com/cloudinary/public-gh-packages-demo #
+https://github.com/cloudinary/dl_salicon_exercise # an example application
+https://github.com/cloudinary/media-delivery-api-php # Cloudinary Media Delivery API PHP SDK
+https://github.com/cloudinary/media-management-php # Cloudinary Media Management PHP SDK
+https://github.com/cloudinary/analysis-php # Analyze any external asset and return details based on the type of analysis requested.
+https://github.com/cloudinary/video-player-demo #
+https://github.com/cloudinary/console-cool # Offer a tutorial to users through the browser's console
+https://github.com/cloudinary/kotlin-transformation-builder-sdk #
+https://github.com/cloudinary/cloudinary_php_v2_samples # Cloudinary - Basic PHP SDK v2 Tag Samples
+https://github.com/cloudinary/sdk-samples # A repository samples for the various Cloudinary SDKs
+https://github.com/cloudinary/cld-migrate-remote-assets-in-bulk #
+https://github.com/cloudinary/cloudinary_sfcc_pwa-kit # SalesForce Commerce Cloud Composable Storefront
+https://github.com/cloudinary/cloudinary-video-player-profiles # Default profiles for VP
+https://github.com/cloudinary/php-url-builder #
+https://github.com/cloudinary/media-editing-php # Cloudinary Media Editing PHP SDK
+https://github.com/cloudinary/cld-handson-asset-migration-single #
+https://github.com/cloudinary/kotlin-url-builder #
+https://github.com/cloudinary/sdk-generation-scripts #
+
+https://github.com/cloudinary-community/cloudinary-laravel # Laravel SDK for Cloudinary
+https://github.com/cloudinary-community/next-cloudinary # ⚡️ High-performance image delivery and uploading at scale in Next.js powered by Cloudinary.
+https://github.com/cloudinary-community/imgto.xyz # Image optimizer powered by Next.js & Cloudinary
+https://github.com/cloudinary-community/photocrate # Photo library and interactive editor built with Next.js & Cloudinary
+https://github.com/cloudinary-community/cloudinary-examples # Easy Cloudinary integration examples for boosting web performance.
+https://github.com/cloudinary-community/gatsby-transformer-cloudinary # Use Cloudinary images with gatsby-image for high performance and total control!
+https://github.com/cloudinary-community/netlify-plugin-cloudinary # Supercharge images on your Netlify site with Cloudinary!
+https://github.com/cloudinary-community/gatsby-source-cloudinary # Source media from your Cloudinary account 📥 🖼
+https://github.com/cloudinary-community/svelte-cloudinary # ⚡️ High-performance image delivery and uploading at scale in Svelte powered by Cloudinary.
+https://github.com/cloudinary-community/imagecarbon # 🌱 Calculate the carbon footprint of your website images
+https://github.com/cloudinary-community/cloudinary-util #
+https://github.com/cloudinary-community/gridsome-plugin-cloudinary # Cloudinary plugins for Gridsome
+https://github.com/cloudinary-community/laravel-demo-app #

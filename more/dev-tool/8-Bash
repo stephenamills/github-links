@@ -1,0 +1,283 @@
+https://github.com/dylanaraps/pure-bash-bible # 📖 A collection of pure bash alternatives to external processes.
+https://github.com/alexanderepstein/bash-snippets # A collection of small bash scripts for heavy terminal users
+https://github.com/onceupon/Bash-Oneliner # A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+https://github.com/kvz/bash3boilerplate # Templates to write better Bash scripts
+https://github.com/ruanyf/simple-bash-scripts # A collection of simple Bash scripts
+https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge # In this repository, the DevOps community can take on a thrilling and distinctive challenge. In just seven days, parti
+cipants will undertake a journey to become experts in Bash scripting. with each day's assignment becoming progressively more complex. https://github.com/sstephenson/bats # Bash Automated Testing System
+https://github.com/scop/bash-completion # Programmable completion functions for bash
+https://github.com/huyng/bashmarks # Directory bookmarks for the shell
+https://github.com/HariSekhon/DevOps-Bash-tools # 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, Git
+Lab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..  
+https://github.com/bats-core/bats-core # Bash Automated Testing System
+https://github.com/cfenollosa/bashblog # A single Bash script to create blogs. Download, run, write, done!
+https://github.com/niieani/bash-oo-framework # Bash Infinity is a modern standard library / framework / boilerplate for Bash
+https://github.com/avleen/bashttpd # A web server written in bash
+https://github.com/fideloper/Vaprobash # Vagrant Provisioning Bash Scripts
+https://github.com/Bashfuscator/Bashfuscator # A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
+https://github.com/mathiasbynens/dotfiles # :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+https://github.com/hebruce110/BashShell # BashShell
+https://github.com/exercism/bash # Exercism exercises in Bash.
+https://github.com/glamp/bashplotlib # plotting in the terminal
+https://github.com/trinib/Linux-Bash-Commands # :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
+https://github.com/BashSupport/BashSupport # Bash and shell script language support for JetBrains IDEs. Please refer to www.bashsupport.com/news/bashsupport-pro-1.3/ for the reasons.
+https://github.com/wulabing/V2Ray_ws-tls_bash_onekey #
+https://github.com/semaphoreui/semaphore # Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
+https://github.com/nvm-sh/nvm # Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+https://github.com/RehanSaeed/Bash-Cheat-Sheet # A cheat sheet for bash commands.
+https://github.com/progrium/bashstyle # Let's do Bash right!
+https://github.com/DannyBen/bashly # Bash command line framework and CLI generator
+https://github.com/riobard/bash-powerline # Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
+https://github.com/p8952/bocker # Docker implemented in around 100 lines of bash
+https://github.com/bash-my-aws/bash-my-aws # Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
+https://github.com/metal3d/bashsimplecurses # A simple curses library made in bash to draw terminal interfaces
+https://github.com/gruntwork-io/bash-commons # A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
+https://github.com/stephenturner/oneliners # Useful bash one-liners for bioinformatics.
+https://github.com/hannob/bashcheck # test script for shellshocker and related vulnerabilities
+https://github.com/sandervanvugt/bash-scripting # files for my bash-scripting course on Safari Live
+https://github.com/basho/basho_bench # A load-generation and testing tool for basically whatever you can write a returning Erlang function for.
+https://github.com/LinkedInLearning/learning-bash-scripting-3212393 # This is a LinkedIn Learning repo for Learning Bash Scripting.
+https://github.com/redcode-labs/Bashark # Bash post exploitation toolkit
+https://github.com/lhunath/bash.academy # The http://bash.academy website
+https://github.com/mrzool/bash-sensible # An attempt at saner Bash defaults
+https://github.com/takluyver/bash_kernel # A bash kernel for IPython
+https://github.com/bash-lsp/bash-language-server # A language server for Bash
+https://github.com/erikfrey/bashreduce # mapreduce in bash
+https://github.com/twolfson/sexy-bash-prompt # Bash prompt with colors, git statuses, and git branches.
+https://github.com/basherpm/basher # A package manager for shell scripts.
+https://github.com/ralish/bash-script-template # A best practices Bash script template with several useful functions
+https://github.com/fsaintjacques/semver-tool # semver bash implementation
+https://github.com/hadolint/hadolint # Dockerfile linter, validate inline bash, written in Haskell
+https://github.com/idank/bashlex # Python parser for bash
+https://github.com/dylanaraps/neofetch # 🖼️ A command-line system information tool written in bash 3.2+
+https://github.com/hello-yunshu/Xray_bash_onekey # Xray+Nginx 包含 VLESS WebSocket/gPRC+TLS / XTLS+TCP 协议的一键安装脚本
+https://github.com/prey/prey-bash-client # DEPRECATED - Project no longer supported, please consider using https://github.com/prey/prey-node-client instead
+https://github.com/paulirish/dotfiles # paul's fish, bash, git, etc config files. good stuff.
+https://github.com/juven/maven-bash-completion # Maven Bash Auto Completion
+https://github.com/charmbracelet/gum # A tool for glamorous shell scripts 🎀
+https://github.com/anordal/shellharden # The corrective bash syntax highlighter
+https://github.com/basho/basho_docs # Basho Products Documentation
+https://github.com/xwmx/bash-boilerplate # A collection of Bash scripts for creating safe and useful command line programs.
+https://github.com/jonmosco/kube-ps1 # Kubernetes prompt info for bash and zsh
+https://github.com/rcaloras/bash-preexec # ⚡ preexec and precmd functions for Bash just like Zsh.
+https://github.com/rcaloras/bashhub-client # :cloud: Bash history in the cloud. Indexed and searchable.
+https://github.com/codecov/codecov-bash # Global coverage report uploader for Codecov
+https://github.com/logicopslab/BashScripting # One stop solution to start your career in Bash Scripting or Shell Programming
+https://github.com/jasperes/bash-yaml # Read a yaml file and create variables in bash
+https://github.com/guodongxiaren/Bash # Linux 下 Bash 脚本编程学习记录
+https://github.com/PowerShell/PSReadLine # A bash inspired readline implementation for PowerShell
+https://github.com/NarendraPAutomationEngineer/BashShellScriptingTutorials # Automation with Bash Shell Scripting Tutorials
+https://github.com/tacksoo/bash_basics # Bash scripting basics for my students
+https://github.com/bpkg/bpkg # Lightweight bash package manager
+https://github.com/tfutils/tfenv # Terraform version manager
+https://github.com/wagoodman/bashful # Use a yaml file to stitch together commands and bash snippits and run them with a bit of style. Why? Because your bash script should be quiet and shy-like
+(...and not such a loud mouth). https://github.com/themattrix/bash-concurrent # Bash function to run tasks in parallel and display pretty output as they complete.
+https://github.com/jmcantrell/bashful # A collection of modules to simplify writing bash scripts.
+https://github.com/sergiolepore/ChristBASHTree # Just a Christmas tree
+https://github.com/SpotX-Official/SpotX-Bash # SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
+https://github.com/vk496/linset # Evil Twin Attack Bash script
+https://github.com/DingGuodong/LinuxBashShellScriptForOps # Linux Bash Shell Script and Python Script For Ops and Devops
+https://github.com/anti-ddos/Anti-DDOS # 🔒 Anti DDOS | Bash Script Project 🔒
+https://github.com/topkecleon/telegram-bot-bash # Telegram bot written in bash
+https://github.com/hkbakke/bash-insulter # Insults the user when typing wrong command
+https://github.com/dominictarr/JSON.sh # a pipeable JSON parser written in Bash
+https://github.com/posener/complete # bash completion written in go + bash completion for go command
+https://github.com/wrye-bash/wrye-bash # A swiss army knife for modding Bethesda games.
+https://github.com/fliptheweb/bash-shortcuts-cheat-sheet # Useful shortcuts for bash/zsh
+https://github.com/PacktPublishing/Complete-Bash-Shell-Scripting- # Code Repository for Complete Bash Shell Scripting; Published by Packt
+https://github.com/arialdomartini/oh-my-git # An opinionated git prompt for bash and zsh
+https://github.com/ryanb/dotfiles # config files for zsh, bash, completions, gem, git, irb, rails
+https://github.com/coderofsalvation/kanban.bash # commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shells
+cript https://github.com/andsens/homeshick # git dotfiles synchronizer written in bash
+https://github.com/Neo23x0/Fenrir # Simple Bash IOC Scanner
+https://github.com/ironhack-labs/lab-bash #
+https://github.com/bahamas10/bash-style-guide # A style guide for writing safe, predictable, and portable bash scripts (not sh!)
+https://github.com/samlaudev/ConfigurationFiles # configuration files, such as repo (download android source file)、.git-completion.bash(git autocomplete bash)
+https://github.com/bigbluebutton/bbb-install # BASH script to install BigBlueButton in 30 minutes.
+https://github.com/akinomyoga/ble.sh # Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
+https://github.com/zackargyle/react-bash # A configurable/extendable bash terminal React component
+https://github.com/linux-noah/noah # Bash on Ubuntu on macOS
+https://github.com/ShivamKumarJha/android_tools # Bash scripts for ROM development stuff.
+https://github.com/ComplianceAsCode/content # Security automation content in SCAP, Bash, Ansible, and other formats
+https://github.com/gkrizek/bash-lambda-layer # Run Bash scripts in AWS Lambda via Layers
+https://github.com/rkirti/bashrc # Simple but cute and helpful bash settings
+https://github.com/bobthecow/git-flow-completion # Bash, Zsh and fish completion support for git-flow.
+https://github.com/ninjaaron/replacing-bash-scripting-with-python # Guide on using using python for administrative scripting
+https://github.com/jlevy/the-art-of-command-line # Master the command line, in one page
+https://github.com/ingydotnet/git-subrepo #
+https://github.com/pgrange/bash_unit # bash unit testing enterprise edition framework for professionals
+https://github.com/mislav/dotfiles # bash, zsh, git, tmux, personal toolbox
+https://github.com/liquidprompt/liquidprompt # A full-featured & carefully designed adaptive prompt for Bash & Zsh
+https://github.com/mridgers/clink # Bash's powerful command line editing in cmd.exe
+https://github.com/xillwillx/BashBunny # Hak5 BashBunny Payloads
+https://github.com/dylanaraps/fff # 📁 A simple file manager written in bash.
+https://github.com/jneen/balls # Bash on Balls
+https://github.com/Adikso/BashBot # BashBot is a Discord bot that allows terminal access via chat
+https://github.com/ImAnyOne/SSR-Bash-Python # ShadowsoksR 多用户管理脚本，轻松添加修改，删除用户。
+https://github.com/gitGNU/gnu_bash #
+https://github.com/vossenjp/bashcookbook-examples # Example code from O'Reilly's bash Cookbook
+https://github.com/dlab-berkeley/Bash-Git # D-Lab's 3 hour introduction to basic Bash commands and using version control with Git and Github.
+https://github.com/aviaryan/utility-bash-scripts # 🤓 Useful bash scripts to do automatable tasks with a single command
+https://github.com/buildkite/bash-example # An example repository you can use as a test project with Buildkite
+https://github.com/hak5/bashbunny-wiki # The official Wiki for the Bash Bunny
+https://github.com/cloudflare/semver_bash # Semantic Versioning in Bash
+https://github.com/taviso/ctypes.sh # A foreign function interface for bash.
+https://github.com/dzove855/Bash-web-server # A purely bash web server, no socat, netcat, etc...
+https://github.com/cyberspacedk/BASH-Commands # Шпаргалка основных команд Git Bash, терминала OSX, терминала linux.
+https://github.com/NisreenFarhoud/Bash-Cheatsheet #
+https://github.com/TellinaTool/nl2bash # Generating bash command from natural language https://arxiv.org/abs/1802.08979
+https://github.com/vishnubob/wait-for-it # Pure bash script to test and wait on the availability of a TCP host and port
+https://github.com/docker-library/bashbrew # Canonical build tool for the official images
+https://github.com/fkalis/bash-onedrive-upload # Upload files to onedrive via linux command line
+https://github.com/grondilu/bitcoin-bash-tools # Set of bitcoin-related bash functions
+https://github.com/jayant2014/Bash-Scripting # This repository is for Udemy Bash Scripting course.
+https://github.com/kkkgo/dnspod-ddns-with-bashshell # The Dnspod DDNS with BashShell
+https://github.com/v1s1t0r1sh3r3/airgeddon # This is a multi-use bash script for Linux systems to audit wireless networks.
+https://github.com/mvdan/sh # A shell parser, formatter, and interpreter with bash support; includes shfmt
+https://github.com/bing0o/bash_scripting # bash scripting thing!
+https://github.com/matejak/argbash # Bash argument parsing code generator
+https://github.com/Dheerajmadhukar/4-ZERO-3 # 403/401 Bypass Methods + Bash Automation + Your Support ;)
+https://github.com/merces/bashacks # A set of functions to increase productivity while hacking with Bash
+https://github.com/PatrolServer/bashscanner # A fast way to scan your server for outdated software and potential exploits.
+https://github.com/markgandolfo/git-bash-completion # Git Bash Completion
+https://github.com/SubtleScope/bash-ransomware # Simple Bash Rasomware for use in Cyber Exercises
+https://github.com/batsh-dev-team/Batsh # A language that compiles to Bash and Windows Batch
+https://github.com/xnng/my-git-bash # my git bash config
+https://github.com/CaseyLabs/aws-ec2-ebs-automatic-snapshot-bash # Bash script for Automatic EBS Snapshots and Cleanup on Amazon Web Services (AWS). Created by CaseyLabs.
+https://github.com/rauchg/wifi-password # Get the password of the wifi you're on (bash)
+https://github.com/liungkejin/Bash-Games # LINUX 终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用 Bash shell 编写)
+https://github.com/caquino/redis-bash # REDIS-BASH - Bash library to access Redis
+https://github.com/progrium/go-basher # Library for writing hybrid Go and Bash programs
+https://github.com/CecilWesterhof/BashLibrary # A library with useful Bash functions
+https://github.com/speedenator/agnoster-bash # Agnoster Theme for Bash
+https://github.com/marcinbunsch/bash_koans # Bash Koans
+https://github.com/ryanoasis/public-bash-scripts # Bash Scripts that I can share publicly
+https://github.com/alexcouper/bash # Run bash commands from python
+https://github.com/necolas/dotfiles # OS X dotfiles: bash, git, vim, etc.
+https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese # 《Bash 脚本进阶指南》第十次修订本中文版
+https://github.com/gradle/gradle-completion # Gradle tab completion for bash and zsh
+https://github.com/yifengyou/bash # bash 编程语言
+https://github.com/lehmannro/assert.sh # bash unit testing framework
+https://github.com/todiadiyatmo/bash-backup-rotation-script # Bash backup rotation script for your files / website
+https://github.com/rubykube/module-bash # Bash Module
+https://github.com/romkatv/gitstatus # Git status for Bash and Zsh prompt
+https://github.com/Lordwill1/alx-system_engineering-devops # Bash Project
+https://github.com/rothgar/bashScheduler # Kubernetes scheduler written in less than 100 lines of bash :grimacing: :laughing:
+https://github.com/tree-sitter/tree-sitter-bash # Bash grammar for tree-sitter
+https://github.com/theinfosecguy/QuickXSS # Automating XSS using Bash
+https://github.com/imomaliev/tmux-bash-completion # Tmux bash completion
+https://github.com/janosgyerik/bashoneliners # A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborat
+ive system, user friendly, with functions to contribute one-liners, request one-liners, search, rss feed, commenting, Open ID login. Open-source project, using Django, Python, jQuery, HTML5, Bootstrap from Twitter. https://github.com/dundalek/closh # Bash-like shell based on Clojure
+https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate #
+https://github.com/fabriziocucci/git-bash-for-mac # Git Bash for Mac
+https://github.com/RaymiiOrg/bash-http-monitoring # HTTP(s) monitoring webpage via shell script
+https://github.com/adamwiggins/rush # Ruby replacement for bash+ssh
+https://github.com/fire1ce/DDNS-Cloudflare-Bash # Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN). Clou
+dflare's options proxy and TTL configurable via the parameters. https://github.com/aliaskov/bashscripts #
+https://github.com/A-BenMao/pure-bash-bible-zh_CN # 📖 一个纯 bash 实现外部命令的脚本集合（中文版）【翻译自 pure-bash-bible 仓库】
+https://github.com/CommandLineHeroes/clh-bash # Arcade game to show your Command Line Hero skills! The game challenges you to enter as many valid commands as you can in 60 seconds!
+https://github.com/anbud/DroidDucky # SImple duckyscript interpreter in Bash.
+https://github.com/Red5d/pushbullet-bash # Bash interface to the PushBullet API
+https://github.com/GinjaChris/pentmenu # A bash script for recon and DOS attacks
+https://github.com/tests-always-included/mo # Mustache templates in pure bash
+https://github.com/htr-tech/bash2mp4 # Video Downloader for Termux .
+https://github.com/hetzneronline/installimage # Bash scripts to universally deploy various distributions
+https://github.com/chadbraunduin/markdown.bash # A Markdown interpreter using only traditional Unix tools
+https://github.com/chrisant996/clink # Bash's powerful command line editing in cmd.exe
+https://github.com/rauchg/spot # Tiny file search utility (bash)
+https://github.com/jamielinux/bashmount # Tool to mount and unmount removable media from the command-line
+https://github.com/cyberark/bash-lib # Library for bash utility methods and tools
+https://github.com/kkkgo/CloudXNS-DDNS-with-BashShell # The CloudXNS DDNS with BashShell
+https://github.com/amber-lang/amber # 💎 Amber the programming language compiled to bash
+https://github.com/crashub/bash # Bash interpreter for the JVM
+https://github.com/yulewang/cloudflare-api-v4-ddns # Cloudflare API v4 Dynamic DNS Update in Bash
+https://github.com/zhangguanzhang/bash # :sunglasses:记录我写的 bash shell
+https://github.com/sigoden/argc # A Bash CLI framework, also a Bash command runner.
+https://github.com/rudimeier/bash_ini_parser # simple INI file parser
+https://github.com/edc/bass # Make Bash utilities usable in Fish shell
+https://github.com/xta/HalloweenBash # Custom Bash Profile Generator
+https://github.com/rand0m1ze/ezsploit # Linux bash script automation for metasploit
+https://github.com/pterodactyl-installer/pterodactyl-installer # :bird: Unofficial installation scripts for Pterodactyl Panel
+https://github.com/aks/bash-lib # Library of bash scripts
+https://github.com/OMGZui/bash-step-to-step # 👀 bash 命令和语法--带你升级打 boss
+https://github.com/cybersecurityops/cyber-ops-with-bash # Script repository for the book Cybersecurity Ops with bash
+https://github.com/pkrumins/bash-redirections-cheat-sheet # Bash redirections cheat sheet
+https://github.com/tobor88/Bash # Collection of bash scripts I wrote to make my life easier or test myself that you may find useful.
+https://github.com/kristopolous/TickTick # JSON in your Bash scripts
+https://github.com/tlatsas/bash-spinner # Display a small progress spinner in bash while running your commands
+https://github.com/andrewjkerr/security-cheatsheets # 🔒 A collection of cheatsheets for various infosec tools and topics.
+https://github.com/cloudsec/brootkit # Lightweight rootkit implemented by bash shell scripts v0.10
+https://github.com/jabbalaci/Bash-Utils # Miscellaneous small utils, mainly for the Bash shell.
+https://github.com/Soroushnk/Astro # a bash script to help you bypass GFW
+https://github.com/RoverWire/virtualhost # Bash Script to easy create or delete apache virtual hosts on ubuntu
+https://github.com/labbots/google-drive-upload # Bash scripts to upload files to google drive
+https://github.com/mertcangokgoz/UsefulBashScripts # A repository of useful bash script commands
+https://github.com/TypedDevs/bashunit # A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
+https://github.com/v2fly/fhs-install-v2ray # Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
+https://github.com/mitsuhiko/dotfiles # My dotfiles (vim / bash etc.)
+https://github.com/fredpalmer/log4bash # log4bash is an attempt to have better logging for Bash scripts (i.e. make logging in Bash suck less).
+https://github.com/a2nk/G-cloud # Free Bash Script RDP & SSH
+https://github.com/lavoiesl/bash-templater # Very simple templating system that replace {{VAR}} by $VAR environment value, supports defines
+https://github.com/mig1984/bashible # Simple bash DSL framework for writing shell scripts safe and agile.
+https://github.com/krother/bash_tutorial # Exercises for learning the bash command line.
+https://github.com/openstack/bashate # Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
+https://github.com/iamtrazy/bash-xray-script # This is an auto-script for Ubuntu install Xray-Core with xray-whatever configs
+https://github.com/ssbostan/devops-bash-scripts # The completest repository of BASH scripts for DevOps engineers
+https://github.com/zerobyte-id-bak/Bashter # Web Crawler, Scanner, and Analyzer Framework (Shell-Script based)
+https://github.com/vzaicev/bash #
+https://github.com/icy/bash-coding-style # A Bash coding style
+https://github.com/google/zx # A tool for writing better scripts
+https://github.com/LucHermitte/Bash-scripts # Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
+https://github.com/pforret/bashew # bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing
+https://github.com/vorpaljs/bash-parser # Parses bash into an AST
+https://github.com/azet/community_bash_style_guide # Community Bash Style Guide: writing useful and modern bash scripts, seriously.
+https://github.com/juan-rod/Intro-101-Commands # bash commands
+https://github.com/cryptomarauder/TrackUrl # A Bash/JS Script For Tracking Locations
+https://github.com/daffainfo/bash-bounty # Random Tools for Bug Bounty
+https://github.com/vercel-community/bash # 🐚 Bash Runtime for ▲ Vercel serverless functions
+https://github.com/Mr-MIBonk/M.I.B._More-Incredible-Bash # M.I.B. - More Incredible Bash - The Army knife for Harman MIB 2.x aka MHI2(Q) units
+https://github.com/st42/termux-sudo # A bash script that provides sudo for Termux
+https://github.com/albfan/bash-ini-parser #
+https://github.com/chris-marsh/pureline # A Pure Bash Powerline PS1 Command Prompt
+https://github.com/labbots/bash-utility # Bash library which provides utility functions and helpers for functional programming in Bash.
+https://github.com/ProbiusOfficial/bashFuck # exec BashCommand with only ! # $ ' ( ) < \ { } just 10 charset used in Bypass or CTF
+https://github.com/matschaffer/profile # My Bash profile
+https://github.com/bing0o/SubEnum # bash script for Subdomain Enumeration
+https://github.com/caippx/bash # 一些自己写（chao）的 jio 本
+https://github.com/szermatt/emacs-bash-completion # Add programmable bash completion to Emacs shell-mode
+https://github.com/create-dmg/create-dmg # A shell script to build fancy DMGs
+https://github.com/dolevf/Black-Hat-Bash # The Black Hat Bash book repository
+https://github.com/masonr/yet-another-bench-script # YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+https://github.com/rbenv/rbenv # Manage your app's Ruby environment
+https://github.com/nerdgeneration/www.sh # Web framework in Bash
+https://github.com/kura/vagrant-bash-completion # Add autocomplete for Vagrant to bash completion
+https://github.com/openshift-evangelists/oc-cluster-wrapper # oc cluster up bash wrapper
+https://github.com/Scriptim/bash-prompt-generator # Customize your Bash Prompt by setting the PS1 variable.
+https://github.com/jonzobrist/Bash-Admin-Scripts # Collection of my open source bash scripts BSD license
+https://github.com/robxu9/bash-static # Because we need exercises in minimalism.
+https://github.com/djeada/Bash-Scripts # A collection of Bash scripts for automating routine tasks and streamlining your workflow.
+https://github.com/netflix/denominator # Portably control DNS clouds using java or bash
+https://github.com/hopeseekr/BashScripts # My own personal bash scripts that revolutionize my life!!
+https://github.com/wikiwi/s3-bash4 # Bash Commands for S3 using AWS Signature Version 4
+https://github.com/wschlich/bashinator # Bashinator: Bash Shell Script Framework
+https://github.com/ydns/bash-updater # YDNS Bash Updater Script
+https://github.com/lmc999/RegionRestrictionCheck # A bash script to check the status of your IP on various geo-restricted services.
+https://github.com/pollev/bash_progress_bar # APT like progress bar
+https://github.com/ianmiell/introduction-to-bash # Resources for the O'Reilly Course 'Introduction to Bash'
+https://github.com/johanhaleby/kubetail # Bash script to tail Kubernetes logs from multiple pods at the same time
+https://github.com/quericy/one-key-ikev2-vpn # A bash script base on Centos or Ubuntu help you to create IKEV2/L2TP vpn.
+https://github.com/nicksherron/bashhub-server # Private cloud shell history. Open source server for bashhub https://github.com/rcaloras/bashhub-client
+https://github.com/soulseekah/bash-utils # A collection of pocket-size bash script utilities
+https://github.com/ssledz/bash-fun # Functional programming in bash
+https://github.com/SkypLabs/bsfl # Bash Shell Function Library
+https://github.com/gregkh/bti # bash twitter ididocy
+https://github.com/coursehero/slacktee # slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
+https://github.com/crazyhottommy/bioinformatics-one-liners # Bioinformatics one liners from Ming Tang
+https://github.com/frameable/aviary.sh # Minimal distributed configuration management in bash
+https://github.com/nhoffman/argparse-bash # Use python's argparse module in shell scripts
+https://github.com/slomkowski/bash-full-of-colors # Advanced .bashrc and .bash_profile coming together with colorful output.
+https://github.com/sandervanvugt/cool-bash #
+https://github.com/aecolley/client_bash # Client Bash library for talking to the Prometheus pushgateway
+https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script # Reconky is an great Content Discovery bash script for bug bounty hunters which automate lot of task and organized in the well man
+nered form which help them to look forward. https://github.com/jpetrucciani/bash.py # An inline Bash script runner, for Python.
+https://github.com/rtomayko/git-sh # A customized bash environment suitable for git work.

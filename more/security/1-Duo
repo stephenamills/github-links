@@ -1,0 +1,24 @@
+https://github.com/duosecurity/duo_unix # Duo two-factor authentication for Unix systems
+
+https://github.com/duosecurity/duo_client_python # Python library for interacting with the Duo Auth, Admin, and Accounts APIs
+https://github.com/duosecurity/duo_client_java #
+
+https://github.com/duosecurity/duo_api_golang #
+https://github.com/duosecurity/duo_api_php #
+https://github.com/duosecurity/duo_api_swift # Duo Security API Client for Swift
+https://github.com/duosecurity/libduo # Duo two-factor authentication API in C
+https://github.com/duosecurity/duo_api_nodejs #
+https://github.com/duosecurity/duo_api_ruby #
+
+https://github.com/duosecurity/duo_universal_python # Duo OIDC-based two-factor authentication for Python web applications
+https://github.com/duosecurity/duo_universal_php # Duo OIDC-based two-factor authentication for PHP web applications
+https://github.com/duosecurity/duo_universal_nodejs # Duo OIDC-based two-factor authentication for NodeJS web applications
+https://github.com/duosecurity/duo_universal_golang # Duo OIDC-based two-factor authentication for Go web applications
+https://github.com/duosecurity/duo_universal_wordpress # Duo two-factor authentication plugin for Wordpress with the Duo Universal Prompt.
+https://github.com/duosecurity/duo_universal_oam # Duo two-factor authentication plugin for Oracle Access Manager with the Duo Universal Prompt.
+
+https://github.com/duosecurity/duo_openvpn # Duo two-factor authentication for OpenVPN.
+https://github.com/duosecurity/duo_openvpn_as #
+
+https://github.com/duosecurity/duo_log_sync #
+https://github.com/duosecurity/duo_hmac_python # Python library that implements the Duo API authentication algorithm

@@ -1,0 +1,367 @@
+https://github.com/hashicorp/terraform # Terraform enables you to safely and predictably create, change, and improve infrastructure.
+https://github.com/hashicorp/terraform-cdk # Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
+
+https://github.com/hashicorp/learn-terraform #
+https://github.com/hashicorp/learn-terraform-github-actions #
+https://github.com/hashicorp/learn-terraform-provision-eks-cluster #
+https://github.com/hashicorp/learn-terraform-circleci # Supplemental repository for Learn content on CircleCI
+https://github.com/hashicorp/learn-terraform-enforce-policies #
+https://github.com/hashicorp/learn-terraform-aft-account-request #
+https://github.com/hashicorp/learn-terraform-aft-account-customizations #
+https://github.com/hashicorp/learn-terraform-aft-global-customizations #
+https://github.com/hashicorp/learn-terraform-provision-gke-cluster #
+https://github.com/hashicorp/learn-terraform-aft-account-provisioning-customizations #
+https://github.com/hashicorp/learn-terraform-modules # Companion module to the Advanced Modules track on learn.hashicorp.com
+https://github.com/hashicorp/learn-terraform-provisioning # Companion code repository for learning to provision Terraform instances with Packer & cloud-init
+https://github.com/hashicorp/learn-terraform-no-code-provisioning #
+https://github.com/hashicorp/learn-terraform-provision-aks-cluster #
+https://github.com/hashicorp/learn-terraform-pipelines-consul #
+https://github.com/hashicorp/learn-terraform-pipelines-vault #
+https://github.com/hashicorp/learn-terraform-lambda-api-gateway #
+https://github.com/hashicorp/learn-terraform-versions #
+https://github.com/hashicorp/learn-terraform-run-triggers-network #
+https://github.com/hashicorp/learn-terraform-variables #
+https://github.com/hashicorp/learn-terraform-modules-create #
+https://github.com/hashicorp/learn-terraform-resources #
+https://github.com/hashicorp/learn-terraform-pipelines-k8s #
+https://github.com/hashicorp/learn-terraform-aws-control-tower-aft #
+https://github.com/hashicorp/learn-terraform-cost-estimation #
+https://github.com/hashicorp/learn-terraform-import # Learn how to import existing configuration into Terraform
+https://github.com/hashicorp/learn-terraform-rds #
+https://github.com/hashicorp/learn-terraform-run-triggers-application #
+https://github.com/hashicorp/learn-terraform-code-organization #
+https://github.com/hashicorp/learn-terraform-count-foreach #
+https://github.com/hashicorp/learn-terraform-modules-use #
+https://github.com/hashicorp/learn-terraform-advanced-deployments #
+https://github.com/hashicorp/learn-terraform-init #
+https://github.com/hashicorp/learn-terraform-provider-versioning #
+https://github.com/hashicorp/learn-terraform-preview-environment #
+https://github.com/hashicorp/learn-terraform-outputs #
+https://github.com/hashicorp/learn-terraform-deploy-nginx-kubernetes-provider # Deploy and expose a NGINX service using the Terraform Kubernetes Provider
+https://github.com/hashicorp/learn-terraform-hashicups-provider # Companion repo to HashiCups Learn Guide
+https://github.com/hashicorp/learn-terraform-helm #
+https://github.com/hashicorp/learn-terraform-locals #
+https://github.com/hashicorp/learn-terraform-sensitive-variables #
+https://github.com/hashicorp/learn-terraform-github-user-teams #
+https://github.com/hashicorp/learn-terraform-cloud-agents #
+https://github.com/hashicorp/learn-terraform-vsphere #
+https://github.com/hashicorp/learn-terraform-functions #
+https://github.com/hashicorp/learn-terraform-spotify # Create a playlist on Spotify by writing it as a Terraform configuration
+https://github.com/hashicorp/learn-terraform-preview-environment-shared #
+https://github.com/hashicorp/learn-terraform-state #
+https://github.com/hashicorp/learn-terraform-drift-and-opa #
+https://github.com/hashicorp/learn-terraform-troubleshooting #
+https://github.com/hashicorp/learn-terraform-cdktf-applications #
+https://github.com/hashicorp/learn-terraform-expressions #
+https://github.com/hashicorp/learn-terraform-data-sources-app #
+https://github.com/hashicorp/learn-terraform-for-each #
+https://github.com/hashicorp/learn-consul-terraform # Terraform quick starts for Consul features.
+https://github.com/hashicorp/learn-terraform-move #
+https://github.com/hashicorp/learn-terraform-cloud-run-tasks-snyk #
+https://github.com/hashicorp/learn-terraform-drift-management #
+https://github.com/hashicorp/learn-terraform-resource-targeting #
+https://github.com/hashicorp/learn-terraform-module-object-attributes #
+https://github.com/hashicorp/learn-terraform-refresh #
+https://github.com/hashicorp/learn-terraform-plan #
+https://github.com/hashicorp/learn-terraform-count #
+https://github.com/hashicorp/learn-terraform-tfe-provider-run-triggers #
+https://github.com/hashicorp/learn-terraform-datadog-local #
+https://github.com/hashicorp/learn-terraform-sentinel #
+https://github.com/hashicorp/learn-terraform-dependencies #
+https://github.com/hashicorp/learn-terraform-validation-enforcement #
+https://github.com/hashicorp/learn-terraform-lifecycle-management #
+https://github.com/hashicorp/learn-terraform-conditions #
+https://github.com/hashicorp/learn-terraform-apply #
+https://github.com/hashicorp/learn-terraform-console #
+https://github.com/hashicorp/learn-terraform-variable-sets #
+https://github.com/hashicorp/learn-terraform-monorepo #
+https://github.com/hashicorp/learn-terraform-datadog #
+https://github.com/hashicorp/learn-terraform-organize-configuration # Source files for a workshop about Terraform source file organization
+https://github.com/hashicorp/learn-terraform-private-module-registry #
+https://github.com/hashicorp/learn-terraform-snow-sgc #
+https://github.com/hashicorp/learn-hcp-vault-replication-terraform # Vault tutorial assets used to for the Deploy HCP Vault Performance Replication with Terraform tutorial.
+https://github.com/hashicorp/learn-manage-codified-hcp-vault-terraform # HCP Vault tutorial assets used to for the HCP Vault Operations With Terraform tutorial from HashiConf EU 2022.
+https://github.com/hashicorp/workshop-puzzles # Bite-sized Terraform Challenges on Your Local Workstation
+
+https://github.com/hashicorp-education/learn-terraform-github-actions #
+https://github.com/hashicorp-education/learn-terraform-dynamic-credentials #
+https://github.com/hashicorp-education/terraform-github-static-app #
+https://github.com/hashicorp-education/learn-terraform-test #
+https://github.com/hashicorp-education/terraform-aws-route53-subdomain #
+https://github.com/hashicorp-education/learn-terraform-drift-and-opa #
+https://github.com/hashicorp-education/learn-terraform-sentinel #
+https://github.com/hashicorp-education/learn-vault-raft # Terraform configuration and scripts used by Vault tutorials covering Raft storage
+https://github.com/hashicorp-education/learn-terraform-drift-detection #
+https://github.com/hashicorp-education/learn-terraform-confluent-provider #
+https://github.com/hashicorp-education/learn-terraform-checks #
+https://github.com/hashicorp-education/terraform-aws-s3-website #
+https://github.com/hashicorp-education/learn-terraform-cloudflare-static-website #
+https://github.com/hashicorp-education/learn-terraform-azure-scale-sets # Manage Azure Virtual Machine Scale Sets with Terraform
+https://github.com/hashicorp-education/learn-terraform-dynamic-credentials-no-code #
+https://github.com/hashicorp-education/learn-terraform-vault-backed-dynamic-credentials #
+https://github.com/hashicorp-education/learn-consul-cts # A repository to help learn Consul-Terraform-Sync
+https://github.com/hashicorp-education/hcp-terraform-provider-example #
+https://github.com/hashicorp-education/learn-terraform-hcp-vault #
+https://github.com/hashicorp-education/learn-vault-agent-caching # Terraform files to demonstrate Vault Agent Caching feature
+https://github.com/hashicorp-education/learn-vault-foundations # Used by the "How to use the Vault Terraform Provider" tutorial.
+https://github.com/hashicorp-education/learn-nomad-workload-identity-federation # Using HashiCorp Nomad with Google Cloud Platform's Federated Identity
+
+https://github.com/hashicorp/terraform-provider-google # Terraform Provider for Google Cloud Platform
+https://github.com/hashicorp/terraform-provider-google-beta # Terraform Provider for Google Cloud Platform (Beta)
+https://github.com/hashicorp/terraform-provider-googleworkspace # Terraform Provider for Google Workspace
+
+https://github.com/hashicorp/terraform-google-terraform-enterprise-hvd # A Terraform module for provisioning and installing Terraform Enterprise on Google Compute Engine
+https://github.com/hashicorp/terraform-google-terraform-enterprise-gke-hvd # A Terraform module for provisioning and installing Terraform Enterprise on Google GKE
+https://github.com/hashicorp/terraform-google-vault-enterprise-hvd # A Terraform module for provisioning and installing Vault Enterprise on Google Compute Engine
+https://github.com/hashicorp/terraform-google-terraform-enterprise # A Terraform module for deploying Terraform Enterprise on GCP.
+
+https://github.com/hashicorp/terraform-getting-started-gcp-cloud-shell # Getting Started Guide for Terraform and Google Cloud Platform using a Google Cloud Shell tutorial
+https://github.com/hashicorp/terraform-google-consul # A Terraform Module for how to run Consul on Google Cloud using Terraform and Packer
+https://github.com/hashicorp/terraform-google-terraform-enterprise # A Terraform module for deploying Terraform Enterprise on GCP.
+https://github.com/hashicorp/terraform-gcp-vault-ent-starter # A Terraform Module for provisioning an Enterprise Vault cluster (using integrated storage)
+https://github.com/hashicorp/learn-terraform-multicloud-vpn #
+https://github.com/hashicorp/policy-library-gcp-networking-terraform # Sentinel policies for Google Cloud Platform networking infrastructure.
+https://github.com/hashicorp/policy-library-gcp-compute-terraform # Sentinel policies for compute infrastructure on Google Cloud Platform.
+https://github.com/hashicorp/policy-library-gcp-databases-terraform # Sentinel policies for databases on Google Cloud Platform.
+https://github.com/hashicorp/policy-library-gcp-storage-terraform # Sentinel policies for storage infrastructure on Google Cloud Platform.
+
+https://github.com/hashicorp/terraform-aws-terraform-enterprise-hvd # A Terraform module for provisioning and installing Terraform Enterprise on AWS EC2
+https://github.com/hashicorp/terraform-aws-terraform-enterprise-eks-hvd # A Terraform module for provisioning and installing Terraform Enterprise on AWS EKS
+https://github.com/hashicorp/terraform-aws-vault-enterprise-hvd # A Terraform module for provisioning and installing Vault Enterprise on AWS EC2
+
+https://github.com/hashicorp/terraform-provider-aws # The AWS Provider enables Terraform to manage AWS resources.
+https://github.com/hashicorp/terraform-provider-awscc # Terraform AWS Cloud Control provider
+
+https://github.com/hashicorp/learn-terraform-aws-control-tower-aft #
+https://github.com/hashicorp/learn-terraform-inject-secrets-aws-vault #
+https://github.com/hashicorp/learn-terraform-aws-asg #
+https://github.com/hashicorp/learn-terraform-iam-policy #
+https://github.com/hashicorp/learn-terraform-data-sources-vpc #
+https://github.com/hashicorp/learn-terraform-aws-assume-role-iam #
+https://github.com/hashicorp/learn-terraform-aws-assume-role-ec2 #
+https://github.com/hashicorp/learn-terraform-s3-remote-state # Companion repository for "Migrate from Remote S3 Backend to Terraform Cloud" Learn tutorial
+https://github.com/hashicorp/learn-terraform-migrate-s3-tfc # Companion repository for "Migrate from Remote S3 Backend to Terraform Cloud" Learn tutorial
+https://github.com/hashicorp/learn-terraform-aws-cloud-control #
+https://github.com/hashicorp/learn-terraform-aws-default-tags #
+https://github.com/hashicorp/learn-terraform-aws-dynamodb-scale #
+https://github.com/hashicorp/learn-terraform-rds-upgrade #
+
+https://github.com/hashicorp-modules/hashistack-aws # Nomad, Vault and Consul server on a single ASG
+https://github.com/hashicorp-modules/consul-aws #
+https://github.com/hashicorp-modules/ssh-keypair-aws # Terraform config for an AWS SSH key pair
+https://github.com/hashicorp-modules/network-aws # Terraform config for a standard AWS network
+https://github.com/hashicorp-modules/vault-aws #
+https://github.com/hashicorp-modules/consul-auto-join-instance-role-aws #
+https://github.com/hashicorp-modules/nomad-lb-aws #
+https://github.com/hashicorp-modules/nomad-aws #
+https://github.com/hashicorp-modules/consul-server-ports-aws #
+https://github.com/hashicorp-modules/consul-client-ports-aws #
+https://github.com/hashicorp-modules/nomad-server-ports-aws #
+https://github.com/hashicorp-modules/vault-lb-aws #
+https://github.com/hashicorp-modules/vault-server-ports-aws #
+https://github.com/hashicorp-modules/nomad-spark-ports-aws #
+https://github.com/hashicorp-modules/nomad-client-ports-aws #
+https://github.com/hashicorp-modules/consul-lb-aws #
+https://github.com/hashicorp-modules/terraform-tfe-workspace # Module for getting started with TFE workspaces.
+
+https://github.com/hashicorp/terraform-aws-terraform-enterprise # A Terraform module for deploying Terraform Enterprise on AWS.
+https://github.com/hashicorp/terraform-aws-consul-ecs # Consul Service Mesh on AWS ECS (Elastic Container Service)
+https://github.com/hashicorp/terraform-aws-nomad-starter # Terraform Module for Provisioning Nomad on AWS
+https://github.com/hashicorp/policy-library-aws-networking-terraform # Sentinel policies for Amazon Web Services networking infrastructure.
+https://github.com/hashicorp/terraform-aws-hcp-consul # Terraform module for HCP Consul on AWS
+https://github.com/hashicorp/terraform-aws-hashicorp-vault-eks-addon # HashiCorp Vault Add-on for AWS EKS
+https://github.com/hashicorp/terraform-aws-consul-lambda # This repository holds the Go code and Terraform module used for deploying Lambda registrator.
+https://github.com/hashicorp/terraform-aws-ecs-advanced-microservice # A Terraform No Code module which bootstraps application infrastructure to deploy to AWS ECS.
+https://github.com/hashicorp/terraform-aws-waypoint-ecs # Terraform module which creates the AWS infrastructure that the Hashicorp Waypoint ECS platform plugin requires
+https://github.com/hashicorp/terraform-aws-hashicorp-consul-eks-addon # HashiCorp Consul Add-on for AWS EKS
+https://github.com/hashicorp/terraform-aws-module-installer-acctest # A placeholder Terraform module for acceptance tests of Terraform's module installer
+https://github.com/hashicorp/terraform-aws-webapp-networking #
+https://github.com/hashicorp/terraform-aws-awx #
+https://github.com/hashicorp/terraform-aws-example-microservice-ecs-allenvs #
+
+https://github.com/hashicorp-modules/hashistack-lb-azure #
+
+https://github.com/hashicorp/terraform-provider-azurerm # Terraform provider for Azure Resource Manager
+https://github.com/hashicorp/terraform-provider-azuread # Terraform provider for Azure Active Directory
+
+https://github.com/hashicorp/terraform-azurerm-terraform-enterprise # A Terraform module for deploying Terraform Enterprise on Azure.
+https://github.com/hashicorp/terraform-azurerm-consul # A Terraform Module for how to run Consul on AzureRM using Terraform and Packer
+https://github.com/hashicorp/terraform-azurerm-vault # A Terraform Module for how to run Vault on AzureRM using Terraform and Packer
+https://github.com/hashicorp/terraform-provider-azurestack # Terraform provider for Azure Stack
+
+https://github.com/hashicorp/terraform-azurerm-terraform-enterprise-hvd # A Terraform module for provisioning and installing Terraform Enterprise on Azure virtual machines
+https://github.com/hashicorp/terraform-azurerm-terraform-enterprise-aks-hvd # A Terraform module for provisioning and installing Terraform Enterprise on Azure AKS
+https://github.com/hashicorp/terraform-azurerm-vault-enterprise-hvd # A Terraform module for provisioning and installing Vault Enterprise on Azure virtual machines
+
+https://github.com/hashicorp/learn-terraform-azure #
+https://github.com/hashicorp/learn-terraform-azure-ad #
+https://github.com/hashicorp/learn-terraform-microsoft-caf-enterprise-scale #
+https://github.com/hashicorp/terraform-azure-labs # Terraform Azure Labs
+https://github.com/hashicorp/hashicat-azure # Sample app for Terraform workshops
+
+https://github.com/hashicorp-modules/hashistack-azure #
+
+https://github.com/hashicorp/terraform-quake-azure # Example repo to run a Quake client and server on Azure and Azure Container Service with Terraform
+https://github.com/hashicorp/terraform-azurerm-hcp-consul # Terraform module for HCP Consul on Azure
+https://github.com/hashicorp/policy-library-azure-storage-terraform # Sentinel policies for Azure storage infrastructure.
+https://github.com/hashicorp/policy-library-azure-compute-terraform # Sentinel policies for Azure compute infrastructure.
+https://github.com/hashicorp/policy-library-azure-networking-terraform # Sentinel policies for Azure networking infrastructure.
+https://github.com/hashicorp/policy-library-azure-databases-terraform # Sentinel policies to establish secure Terraform configuration of Azure databases.
+
+https://github.com/hashicorp/terraform-azurerm-vault # A Terraform Module for how to run Vault on AzureRM using Terraform and Packer
+https://github.com/hashicorp/terraform-azurerm-consul # A Terraform Module for how to run Consul on AzureRM using Terraform and Packer
+https://github.com/hashicorp/terraform-azurerm-nomad # A Terraform Module for how to run Nomad on AzureRM using Terraform and Packer
+https://github.com/hashicorp/azure-pipelines-extension-terraform # Azure DevOps Pipeline Extension for Terraform
+https://github.com/hashicorp/terraform-azure-vault-ent-starter # A Terraform Module for provisioning an Enterprise Vault cluster (using integrated storage)
+https://github.com/hashicorp/terraform-azure-vault-starter # A Terraform Module for provisioning an OSS Vault cluster (using integrated storage)
+https://github.com/hashicorp/terraform-azurerm-hcp-consul # Terraform module for HCP Consul on Azure
+
+https://github.com/hashicorp/go-oracle-terraform # Terraform-Only Go SDK for Oracle Cloud Infrastructure Classic
+
+https://github.com/hashicorp/learn-terraform-cloudflare-static-website #
+
+https://github.com/hashicorp/learn-terraform-digitalocean-droplet #
+
+https://github.com/hashicorp/learn-terraform-heroku # Learn Terraform Heroku tutorial configuraiton
+
+https://github.com/hashicorp/terraform-provider-kubernetes # Terraform Kubernetes provider
+https://github.com/hashicorp/terraform-provider-helm # Terraform Helm provider
+
+https://github.com/hashicorp/learn-terraform-provision-eks-cluster #
+https://github.com/hashicorp/learn-terraform-provision-gke-cluster #
+https://github.com/hashicorp/learn-terraform-multicloud-kubernetes #
+https://github.com/hashicorp/learn-terraform-deploy-nginx-kubernetes-provider # Deploy and expose a NGINX service using the Terraform Kubernetes Provider
+https://github.com/hashicorp/learn-terraform-provision-aks-cluster #
+https://github.com/hashicorp/learn-terraform-kubernetes-operator #
+https://github.com/hashicorp/learn-terraform-helm #
+https://github.com/hashicorp/learn-terraform-pipelines-k8s #
+https://github.com/hashicorp/learn-terraform-cdktf-applications #
+https://github.com/hashicorp/learn-vault-kubernetes # Terraform examples to provision a Kubernetes clusters for Vault tutorials use
+https://github.com/hashicorp/learn-terraform-datadog-local #
+https://github.com/hashicorp/learn-terraform-multicloud-kubernetes-eks #
+https://github.com/hashicorp/learn-terraform-k8s-crd-openfaas #
+https://github.com/hashicorp/learn-terraform-multicloud-kubernetes-aks #
+https://github.com/hashicorp/learn-terraform-multicloud-kubernetes-consul #
+https://github.com/hashicorp/learn-terraform-multicloud-kubernetes-counting-service #
+https://github.com/hashicorp/learn-terraform-enterprise-metrics-prometheus # Enterprise metrics prometheus learn tutorial
+
+https://github.com/hashicorp/terraform-k8s # Terraform Cloud Operator for Kubernetes
+https://github.com/hashicorp/hcp-terraform-operator # Kubernetes Operator allows managing HCP Terraform resources via Kubernetes Custom Resources.
+https://github.com/hashicorp/terraform-helm # Helm chart to install Terraform Cloud Operator and other associated components.
+https://github.com/hashicorp/terraform-aws-hashicorp-vault-eks-addon # HashiCorp Vault Add-on for AWS EKS
+https://github.com/hashicorp/cluster-api-provider-terraform-cloud # Kubernetes Cluster API Provider for Terraform Cloud
+https://github.com/hashicorp/terraform-plugin-codegen-kubernetes # Code generator for the Terraform Provider for Kubernetes
+https://github.com/hashicorp/terraform-enterprise-helm # The official repo for Terraform Enterprise helm charts
+https://github.com/hashicorp/microsoft-oss-conference # Terraform configuration and Kubernetes manifests used for Microsoft Canada OSS conference presentation.
+
+https://github.com/hashicorp-modules/tls-private-key #
+https://github.com/hashicorp-modules/tls-self-signed-cert #
+https://github.com/hashicorp-modules/terraform-tls-ssh-keypair-data # Terraform config for raw SSH key pair files
+
+https://github.com/hashicorp/terraform-provider-vault # Terraform Vault provider
+https://github.com/hashicorp/terraform-provider-vsphere # Terraform Provider for VMware vSphere
+https://github.com/hashicorp/terraform-provider-helm # Terraform Helm provider
+https://github.com/hashicorp/terraform-provider-tfe # Official HCP Terraform and Terraform Enterprise provider, maintained by HashiCorp. Provision HCP Terraform or Terraform Enterprise - with Terraform!
+https://github.com/hashicorp/terraform-provider-scaffolding-framework # Quick start repository for creating a Terraform provider using terraform-plugin-framework
+https://github.com/hashicorp/terraform-provider-http # Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
+https://github.com/hashicorp/terraform-provider-random # Utility provider that supports the use of randomness within Terraform configurations.
+https://github.com/hashicorp/terraform-provider-tls # Utility provider that works with Transport Layer Security keys and certificates.
+https://github.com/hashicorp/terraform-provider-consul # Terraform Consul provider
+https://github.com/hashicorp/terraform-provider-nomad # Terraform Nomad provider
+https://github.com/hashicorp/terraform-provider-local # Utility provider used to manage local resources, such as creating files.
+https://github.com/hashicorp/terraform-provider-null # Utility provider that provides constructs that intentionally do nothing, useful in various situations to help orchestrate tricky behavior or work around limitations.
+https://github.com/hashicorp/terraform-provider-ad # Active Directory provider for HashiCorp Terraform (experimental)
+https://github.com/hashicorp/terraform-provider-dns # Utility provider that supports DNS updates (RFC 2136) and can optionally be configured with secret key based transaction authentication (RFC 2845).
+https://github.com/hashicorp/terraform-provider-external # Utility provider that exists to provide an interface between Terraform and external programs
+https://github.com/hashicorp/terraform-provider-archive # Utility provider that provides a data source that can create zip archives for individual files or collections of files.
+https://github.com/hashicorp/terraform-provider-boundary # Manage Boundary's identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team.
+https://github.com/hashicorp/terraform-provider-hashicups # Terraform Provider HashiCups - Provider Plugin Framework example
+https://github.com/hashicorp/terraform-provider-hcp # Terraform provider for HashiCorp Cloud Platform.
+https://github.com/hashicorp/terraform-provider-time # Utility provider that provides Time-Based Resources
+https://github.com/hashicorp/terraform-provider-cloudinit # Utility provider that exposes the cloudinit_config data source which renders a multipart MIME configuration for use with cloud-init
+https://github.com/hashicorp/terraform-provider-corner # A Terraform provider of corner cases, used for testing Terraform and its SDK.
+https://github.com/hashicorp/terraform-provider-fakewebservices #
+https://github.com/hashicorp/terraform-provider-tfcoremock # Terraform mock provider - Used to configure and test Terraform configuration edge cases and output.
+https://github.com/hashicorp/terraform-provider-assert # Offers functions to validate and assert values within Terraform configurations, simplifying variable validation and custom conditions.
+https://github.com/hashicorp/terraform-provider-hcs # Terraform provider for HashiCorp Consul Service on Azure.
+https://github.com/hashicorp/terraform-provider-tfmigrate #
+https://github.com/hashicorp/ghaction-terraform-provider-release # Reusable GitHub Action Workflows for releasing HashiCorp, partner, and community Terraform Providers
+https://github.com/hashicorp/terraform-providers-devex # Terraform Provider Development Experience Team Repository
+
+https://github.com/hashicorp/terraform-plugin-sdk # Terraform Plugin SDK enables building plugins (providers) to manage any service providers or custom in-house solutions
+https://github.com/hashicorp/terraform-plugin-framework # A next-generation framework for building Terraform providers.
+https://github.com/hashicorp/terraform-plugin-docs # Generate and validate Terraform plugin/provider documentation.
+https://github.com/hashicorp/terraform-plugin-go # A low-level Go binding for the Terraform protocol for integrations to be built on top of.
+https://github.com/hashicorp/terraform-plugin-testing # Module for testing Terraform providers
+https://github.com/hashicorp/terraform-plugin-mux # A router for Terraform's RPC protocol.
+https://github.com/hashicorp/terraform-plugin-codegen-framework # Terraform Provider Code Generation Specification to Framework
+https://github.com/hashicorp/terraform-plugin-codegen-openapi # OpenAPI to Terraform Provider Code Generation Specification
+https://github.com/hashicorp/terraform-plugin-log # Module for logging from Terraform plugins.
+https://github.com/hashicorp/terraform-plugin-framework-validators # Common Use Case Validators for terraform-plugin-framework
+https://github.com/hashicorp/vault-plugin-secrets-terraform # Terraform Cloud Secrets Backend for Vault
+https://github.com/hashicorp/terraform-plugin-codegen-spec # Terraform Provider Code Generation Specification and Go Bindings
+https://github.com/hashicorp/terraform-plugin-framework-timetypes # Timestamp Custom Types for Terraform Plugin Framework
+https://github.com/hashicorp/terraform-plugin-framework-timeouts # Convenience functions and types for timeouts, for use with terraform-plugin-framework
+https://github.com/hashicorp/terraform-plugin-framework-nettypes # Networking Custom Types for Terraform Plugin Framework
+https://github.com/hashicorp/terraform-plugin-framework-jsontypes # JSON String Custom Types for Terraform Plugin Framework
+https://github.com/hashicorp/terraform-plugin-codegen-kubernetes # Code generator for the Terraform Provider for Kubernetes
+
+https://github.com/hashicorp/getting-started-terraform-consul-provider # Getting started with Terraform Consul Provider (bootstrapping workspace with consul dc, main.tf)
+https://github.com/hashicorp/field-demo-terraform-build-your-own-provider #
+https://github.com/hashicorp/tfc-guide-example # Example Terraform configuration
+https://github.com/hashicorp/terraform-guides # Example usage of HashiCorp Terraform
+https://github.com/hashicorp/tfc-getting-started # An example Terraform configuration for HCP Terraform
+https://github.com/hashicorp/terraform-sentinel-policies # Example Sentinel Policies for use with Terraform Cloud and Terraform Enterprise
+https://github.com/hashicorp/demo-terraform-101 # Before and after demo code for the Terraform Introduction training course
+https://github.com/hashicorp/private-terraform-enterprise #
+https://github.com/hashicorp/field-workshops-terraform # Slide decks and Instruqt code for Terraform Workshops
+https://github.com/hashicorp/terraform-elasticache-example # Example Terraform config for creating an Elasticache cluster
+https://github.com/hashicorp/terraform-demo-animal # Demo code as part of the HashiCorp Terraform Enterprise 201 course.
+https://github.com/hashicorp/terraform-dynamic-credentials-setup-examples # Example code for bootstrapping trust between Terraform Cloud and cloud providers
+https://github.com/hashicorp/f5-terraform-consul-sd-webinar #
+https://github.com/hashicorp/awesome-terraform-enterprise # 😎 An awesome list of Terraform Enterprise related projects, tools, and resources
+https://github.com/hashicorp/atlas-terraform-tutorial # Terraform configuration for the Atlas Terraform Tutorial
+https://github.com/hashicorp/tfe-policies-example # An example of using Sentinel policies in VCS in Terraform Enterprise
+https://github.com/hashicorp/se-terraform-vault-workshop # Training slides, Terraform code, and instructions for trainers
+https://github.com/hashicorp/sentinel-training-solution # Solutions for the Sentinel for Terraform workshop
+https://github.com/hashicorp/terraform-azure-labs # Terraform Azure Labs
+https://github.com/hashicorp/demo-terraform-201 # Demo code for the HashiCorp Terraform Enterprise 201 course. https://www.hashicorp.com/training
+https://github.com/hashicorp/learn-consul-terraform # Terraform quick starts for Consul features.
+https://github.com/hashicorp/learn-terramino # Terraform Demo App
+https://github.com/hashicorp/learn-state-migration # Companion repository for the "Migrate State to Terraform Cloud" guide on learn.hashicorp.com
+https://github.com/hashicorp/terraform-quake-azure # Example repo to run a Quake client and server on Azure and Azure Container Service with Terraform
+https://github.com/hashicorp/getting-started-terraform-consul-provider # Getting started with Terraform Consul Provider (bootstrapping workspace with consul dc, main.tf)
+https://github.com/hashicorp/terraform-governance-demos #
+https://github.com/hashicorp/learn-vault-codify # Vault tutorial assets used to codify the Vault configuration with Terraform
+https://github.com/hashicorp/se-demo-zero-trust-essentials_assets # Zero Trust Essentials Terraform code and other assets
+https://github.com/hashicorp/learn-vault-kubernetes # Terraform examples to provision a Kubernetes cluster for Vault tutorials use
+https://github.com/hashicorp/tf-cloud-webinar # Terraform Cloud Preview Webinar - August 28, 2019
+https://github.com/hashicorp/aviatrix-terraform-consul-webinar #
+
+https://github.com/hashicorp/terraform-github-actions # Terraform GitHub Actions
+https://github.com/hashicorp/setup-terraform # Sets up Terraform CLI in your GitHub Actions workflow.
+https://github.com/hashicorp/terraform-exec # Terraform CLI commands via Go.
+https://github.com/hashicorp/hashicat-gcp # HashiCat Meow World Terraform code for GCP
+https://github.com/hashicorp/terraform-foundational-policies-library # Sentinel is a language and framework for policy built to be embedded in existing software to enable fine-grained, logic-based policy decisions.
+https://github.com/hashicorp/terraform-config-inspect # A helper library for shallow inspection of Terraform configurations
+https://github.com/hashicorp/docker-hub-images # Automatic builds of container images for Docker Hub
+https://github.com/hashicorp/go-tfe # HCP Terraform/Enterprise API Client/SDK in Golang
+https://github.com/hashicorp/terraform-json # Helper types for the Terraform external data representation
+https://github.com/hashicorp/terraform-helm # Helm chart to install Terraform Cloud Operator and other associated components.
+https://github.com/hashicorp/terraform-cidr-subnets # A Terraform module for calculating subnet IP address prefixes
+https://github.com/hashicorp/consul-terraform-sync # Consul Terraform Sync is a service-oriented tool for managing network infrastructure near real-time.
+https://github.com/hashicorp/tfc-workflows-github # HCP Terraform starter workflows and github actions to automate Terraform Cloud CI/CD pipelines.
+https://github.com/hashicorp/terraform-schema # This library helps assembling a complete schema for decoding Terraform config
+https://github.com/hashicorp/terraform-cdk-action # The Terraform CDK GitHub Action allows you to run CDKTF as part of your CI/CD workflow
+https://github.com/hashicorp/tfc-workflows-tooling # Tooling to automate HCP Terraform API Runs
+https://github.com/hashicorp/pandora # A suite of single-purpose tools enabling automation for Terraform/Azure
+https://github.com/hashicorp/nomad-auto-join # Terraform config to automatically bootstrap a Nomad cluster
+https://github.com/hashicorp/c1m # Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M)
+https://github.com/hashicorp/terraform-template-dir # A template module for preparing static files and templates under a particular directory
+https://github.com/hashicorp/tfc-workflows-gitlab # Gitlab CI/CD templates for HCP Terraform
+https://github.com/hashicorp/terraform-random-tfe-utility # An open-source repository that houses modules that centralize logic for creating utilities
+https://github.com/hashicorp/terraform-registry-address # Library to represent, compare and parse Terraform Registry address
+https://github.com/hashicorp/terraform-svchost # A library for the representation of friendly hostnames
+https://github.com/hashicorp/go-terraform-address # Library for parsing tf addresses
+https://github.com/hashicorp/c2m # Nomad, Terraform, and Packer configurations for the 2 Million Container Challenge (C2M)
+https://github.com/hashicorp/enos # A tool for powering Software Quality as Code by writing Terraform-based quality requirement scenarios using a composable, modular, and declarative language

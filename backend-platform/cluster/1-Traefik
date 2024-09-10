@@ -1,0 +1,63 @@
+Traefik
+https://github.com/traefik/traefik # The Cloud Native Application Proxy
+
+https://github.com/traefik-workshops/traefik-workshop # Getting started with Traefik on Kubernetes. A few exercises that help you to start the journey with Traefik Proxy.
+https://github.com/traefik-workshops/traefik-gitops # Multi environment Traefik deployment with a GitOps Strategy
+https://github.com/traefik-workshops/traefik-workshop-2 # Advanced Load Balancing with Traefik
+https://github.com/traefik-workshops/k3s-and-traefik-proxy # Repository for the SUSE and Traefik Labs webinar on 2022-02-08
+https://github.com/traefik-workshops/traefik-2.6 # Traefik Proxy 2.6 demo
+https://github.com/traefik-workshops/hub-tutorials #
+https://github.com/traefik-workshops/planet-api # Basic example API based on FastAPI
+https://github.com/traefik-workshops/traefik-hub-gitops # Complete demo of Traefik Hub usage with FluxCD
+
+https://github.com/traefik-tech-blog/traefik-docker101 #
+https://github.com/traefik-tech-blog/traefik-sre-metrics # Capture Traefik Metrics for Apps on Kubernetes with Prometheus
+https://github.com/traefik-tech-blog/hashicorp-webinar # Simplifying Infrastructure and Networking Automation with HashiCorp and Traefik
+https://github.com/traefik-tech-blog/traefik-lb-expert-guide #
+https://github.com/traefik-tech-blog/traefik-http3 #
+https://github.com/traefik-tech-blog/k8s-gateway-api # How to use the new Kubernetes Service APIs with Traefik 2.4 and later
+https://github.com/traefik-tech-blog/traefik-sre-logging # Explore log visualization with Traefik and the Elastic Stack
+https://github.com/traefik-tech-blog/traefik-sre-tracing # Distributed Tracing with Traefik and Jaeger on Kubernetes
+https://github.com/traefik-tech-blog/traefik-k8s-tls #
+https://github.com/traefik-tech-blog/traefik-tor #
+https://github.com/traefik-tech-blog/azure-news-kast #
+https://github.com/traefik-tech-blog/traefik-k8s-deployment #
+https://github.com/traefik-tech-blog/sample-app-whoami # This is a simple echo application that displays header from the containers.
+https://github.com/traefik-tech-blog/traefik-traffic-middlewares # The Ultimate Guide to Managing Application Traffic Using Traefik Middlewares
+https://github.com/traefik/hub # Traefik Hub Tutorials
+
+https://github.com/56kcloud/traefik-training # Traefik Training course resources
+https://github.com/frigi83/traefik-examples # docker-compose configurations examples for traefik
+https://github.com/dotheevo/traefik-v2-examples # Traefik v2 guide by examples
+https://github.com/ibuetler/docker-keycloak-traefik-workshop # Docker with Keycloak and Traefik Workshop
+https://github.com/heziode/traefik-v2-https-ssl-localhost # A simple example on how to use Traefik on localhost with HTTPS
+https://github.com/jensknipper/traefik-examples # Minimalistic examples for Traefik reverse proxy and docker-compose. Locally executable for easy testing and adjusting
+https://github.com/asatrya/keycloak-traefik-tutorial # Tutorial how to use Keycloak for authentication and Traefik for API gateway in Microservices architecture
+https://github.com/codeaprendiz/learn_kubernetes # Learning Kubernetes
+https://github.com/containeroo/traefik-simple # A simple example for Traefik + Portainer.
+https://github.com/patrickeasters/traefik-k8s-tls-example #
+https://github.com/appsecco/opa-traefik-microservice-authz # A scenario using Open Policy Agent for microservices authorization in an API Gateway (Traefik).
+https://github.com/alexhyett/traefik-vs-nginx-docker # Examples showing how to use Traefik and Nginx for Reverse Proxy
+https://github.com/clarenceb/traefik-ingress-example # Demo using the Traefik ingress controller in AKS
+https://github.com/vikas027/traefik-demo-ecs # Use Traefik v1 as a reverse proxy for ECS Services.
+https://github.com/simonbecker1997/traefikcourse # Traefik course on Udemy
+https://github.com/geraldcroes/kubernetes-traefik-article #
+https://github.com/apress/traefik-api-gateway-microservices # 'Traefik API Gateway for Microservices' Apress book
+
+https://github.com/traefik/mesh # Traefik Mesh - Simpler Service Mesh
+https://github.com/traefik/mesh-helm-chart # Traefik Mesh - Helm Chart
+https://github.com/traefik/traefik-helm-chart # Traefik Proxy Helm Chart
+https://github.com/traefik/traefikee-helm-chart # This chart installs the Traefik Enterprise on a Kubernetes cluster, an optional subchart of Traefik Mesh is also bundled
+https://github.com/traefik/whoami # Tiny Go server that prints os information and HTTP request to output
+https://github.com/traefik/whoamitcp # Tiny Go server that prints os information and TCP request to output
+https://github.com/traefik/whoamiudp # Tiny Go webserver that prints os information and UDP request to output
+https://github.com/traefik/traefik-library-image # Used to build Official Docker image of Traefik Proxy
+https://github.com/traefik/plugindemo # Example plugin, for you to use as a reference for developing your own plugins
+https://github.com/traefik/plugindemowasm # Example wasm plugin, for you to use as a reference for developing your own plugins
+https://github.com/traefik/plugindemowasm-http-call # Example wasm plugin with http calls that you to use as a reference for developing your own
+https://github.com/traefik/pluginproviderdemo # Example provider plugin, for you to use as a reference for developing your own plugins
+https://github.com/traefik/plugin-rewritebody # Middleware plugin for Traefik that rewrites the HTTP response body
+https://github.com/traefik/plugin-simplecache # Simple cache plugin middleware caches responses on disk
+https://github.com/traefik/plugin-blockpath # Middleware plugin for Traefik that sends an HTTP 403 Forbidden response for an HTTP path  
+https://github.com/traefik/hub-static-analyzer-action # Github Action for Hub static analyzer
+https://github.com/traefik/hub-crds # Traefik Hub CRDs

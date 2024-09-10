@@ -1,0 +1,153 @@
+Access
+https://github.com/cloudflare/cloudflare-access-for-atlassian # Authenticate Atlasssian products when using Cloudflare Access
+https://github.com/cloudflare/workers-access-external-auth-example #
+https://github.com/cloudflare/pat-go # Private Access Tokens reference implementation
+https://github.com/cloudflare/worker-sentry # Sentry over Access for Worker
+https://github.com/cloudflare/authr # :key: a flexible and expressive approach to access-control
+https://github.com/cloudflare/cloudflare-access-for-sentry #
+https://github.com/cloudflare/msft-risky-user-ad-sync # isolates user access to applications using Cloudflare Zero Trust policies
+
+Certificates
+https://github.com/cloudflare/certmgr # Automated certificate management using a CFSSL CA.
+https://github.com/cloudflare/certinel # A sentry for zero-hit TLS certificate changes in Go
+https://github.com/cloudflare/cfrpki # Cloudflare's RPKI Toolbox
+https://github.com/cloudflare/ct-log # A low-cost Certificate Transparency log for deployment in the cloud.
+https://github.com/cloudflare/cfssl # CFSSL: Cloudflare's PKI and TLS toolkit
+https://github.com/cloudflare/origin-ca-issuer # cert-manager issuer for Origin CA
+https://github.com/cloudflare/cfssl_trust # CFSSL's CA trust store repository
+https://github.com/cloudflare/gokeyless # Keyless TLS Server Reference Implementation
+https://github.com/cloudflare/cf-terraforming # A command line utility to facilitate terraforming your existing Cloudflare resources.
+https://github.com/cloudflare/cfrpki # Cloudflare's RPKI Toolbox
+https://github.com/cloudflare/privacy-gateway-server-go # An Oblivious HTTP gateway
+https://github.com/cloudflare/lua-resty-logger-socket # Raw-socket-based Logger Library for Nginx (based on ngx_lua)
+https://github.com/cloudflare/stout # A reliable static website deploy tool
+https://github.com/cloudflare/sslsaas-examples # Cloudflare's SSL for SaaS examples in various programming languages.
+https://github.com/cloudflare/nginx-google-oauth # Lua module to add Google OAuth to nginx
+https://github.com/cloudflare/mitmengine # A MITM (monster-in-the-middle) detection tool. Used to build MALCOLM:
+https://github.com/cloudflare/pat-app #
+https://github.com/cloudflare/redoctober # Go server for two-man rule style file encryption and decryption.
+https://github.com/cloudflare/postgres-postgrest-cloudflared-example # Create a PostgreSQL database with a REST API, exposed to the internet securely with Cloudflare Tunnel
+https://github.com/cloudflare/mitm.watch #
+https://github.com/cloudflare/quiche # 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+https://github.com/cloudflare/ct-log # A low-cost Certificate Transparency log for deployment in the cloud.
+https://github.com/cloudflare/access-crl-worker-template # A worker that can be used for doing basic CRL checks. It assumes that the request has gone through Access MTLS.
+https://github.com/cloudflare/connection-coalescing-imc22 #
+https://github.com/cloudflare/gortr # The RPKI-to-Router server used at Cloudflare
+https://github.com/cloudflare/python-cloudflare-cli4 #
+https://github.com/cloudflare/sslconfig # Cloudflare's Internet facing SSL configuration
+
+DNS
+https://github.com/cloudflare/cloudflare-go # The official Go library for the Cloudflare API
+https://github.com/cloudflare/origin-ca-issuer # cert-manager issuer for Origin CA
+https://github.com/cloudflare/certbot-dns-cloudflare #
+https://github.com/cloudflare/gokeyless # Go implementation of the keyless protocol
+https://github.com/cloudflare/cfssl # CFSSL: Cloudflare's PKI and TLS toolkit
+https://github.com/cloudflare/cf-terraforming # A command line utility to facilitate terraforming your existing Cloudflare resources.
+https://github.com/cloudflare/zt-hostname-ip-list-sync # Synchronize DNS with Zero Trust IP Lists
+https://github.com/cloudflare/python-cloudflare-cli4 #
+https://github.com/cloudflare/networkquality-rs #
+
+Pages
+https://github.com/cloudflare/next-on-pages # CLI to build and develop Next.js apps for Cloudflare Pages
+https://github.com/cloudflare/pages-action #
+https://github.com/cloudflare/images.pages.dev #
+https://github.com/cloudflare/templates # A collection of starter templates and examples for Cloudflare Workers and Pages
+https://github.com/cloudflare/submit.pages.dev #
+https://github.com/cloudflare/pages-plugins #
+https://github.com/cloudflare/stripe.pages.dev #
+https://github.com/cloudflare/pages-stream-demo #
+https://github.com/cloudflare/collapsify # Collapsify inlines all the resources of a page into a single document
+https://github.com/cloudflare/pages-fns-with-wasm-demo #
+
+Tunnel
+https://github.com/cloudflare/cloudflared # Cloudflare Tunnel client (formerly Argo Tunnel)
+https://github.com/cloudflare/argo-tunnel-examples #
+https://github.com/cloudflare/cloudflare-ingress-controller # A Kubernetes ingress controller for Cloudflare's Argo Tunnels
+https://github.com/cloudflare/postgres-postgrest-cloudflared-example # Create a PostgreSQL database with a REST API, exposed to the internet securely with Cloudflare Tunnel
+https://github.com/cloudflare/worker-template-postgres # Reference demo and modified PostgreSQL driver to connect Cloudflare Workers to a relational database.
+https://github.com/cloudflare/worker-template-mysql # Reference demo and modified MySQL driver to connect Cloudflare Workers to a relational database.
+https://github.com/cloudflare/helm-charts #
+https://github.com/cloudflare/cf-terraforming # A command line utility to facilitate terraforming your existing Cloudflare resources.
+
+Workers
+https://github.com/cloudflare/workers-sdk # ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+https://github.com/cloudflare/workers-rs # Write Cloudflare Workers in 100% Rust via WebAssembly
+https://github.com/cloudflare/workers-graphql-server # 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
+https://github.com/cloudflare/workerd # The JavaScript / Wasm runtime that powers Cloudflare Workers
+https://github.com/cloudflare/miniflare # 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
+https://github.com/cloudflare/templates # A collection of starter templates and examples for Cloudflare Workers and Pages
+https://github.com/cloudflare/workers-chat-demo #
+https://github.com/cloudflare/workers-docs # 🌥👷‍♀️ The documentation site for Cloudflare Workers
+https://github.com/cloudflare/workers-types # TypeScript type definitions for authoring Cloudflare Workers.
+https://github.com/cloudflare/worker-typescript-template # ʕ •́؈•̀) TypeScript template for Cloudflare Workers
+https://github.com/cloudflare/wrangler-action # 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
+https://github.com/cloudflare/rustwasm-worker-template # A template for kick starting a Cloudflare Worker project using workers-rs. Write your Cloudflare Worker entirely in Rust!
+https://github.com/cloudflare/turnstile-demo-workers # A simple demo with a Turnstile-protected form, using Cloudflare Workers.
+https://github.com/cloudflare/python-worker-hello-world # Python hello world for Cloudflare Workers
+https://github.com/cloudflare/workers.cloudflare.com # The Cloudflare Workers website.
+https://github.com/cloudflare/workerskv.gui # (WIP) A cross-platform Desktop application for exploring Workers KV Namespace data
+https://github.com/cloudflare/serverless-cloudflare-workers # Serverless provider plugin for Cloudflare Workers
+https://github.com/cloudflare/workers-airtable-form # Example codebase showing how to handle form data using Cloudflare Workers serverless functions - sending the data to Airtable
+https://github.com/cloudflare/workers-web-experiments # Public web experiments by the Cloudflare Workers team
+https://github.com/cloudflare/doom-workers # Website and Message Router source code for the Multiplayer Doom on Cloudflare Workers tech demo
+https://github.com/cloudflare/puppeteer # Puppeteer Core fork that works with Cloudflare Browser Workers
+https://github.com/cloudflare/cloudflare-workers-wasm-demo #
+https://github.com/cloudflare/serverless-registry # A Docker registry backed by Workers and R2.
+https://github.com/cloudflare/websocket-template # Example template for working with the WebSocketPair API in Cloudflare Workers.
+https://github.com/cloudflare/workers-for-platforms-example # A great place for platforms to get started on Cloudflare Workers!
+https://github.com/cloudflare/worker-template # a template to kickstart your Cloudflare worker!
+https://github.com/cloudflare/workers-honeycomb-logger # A library to easily send request events and traces to https://honeycomb.io
+https://github.com/cloudflare/python-workers-examples #
+https://github.com/cloudflare/dmarc-email-worker # DMARC reports processor using Cloudflare Workers and Email Workers
+https://github.com/cloudflare/workers-wasi #
+https://github.com/cloudflare/saffron # The cron parser powering Cron Triggers on Cloudflare Workers
+https://github.com/cloudflare/workers-aws-template # Cloudflare Workers template for accessing AWS services such as DynamoDB and SQS
+https://github.com/cloudflare/deploy.workers.cloudflare.com # ✨ Deploy Cloudflare Workers applications with (almost) no-config, using GitHub Actions
+https://github.com/cloudflare/chatgpt-plugin # Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
+https://github.com/cloudflare/workers-graphql-gateway-example # GraphQL running on Cloudflare Workers
+https://github.com/cloudflare/ecommerce-bundles-workers-example #
+https://github.com/cloudflare/react-workers-template # Example project showing how to deploy your React application to Cloudflare Workers Sites
+https://github.com/cloudflare/workers-webpack-example # An example of building a Cloudflare Worker with Webpack
+https://github.com/cloudflare/workers-react-pwa-example #
+https://github.com/cloudflare/worker-template-postgres # Reference demo and modified PostgreSQL driver to connect Cloudflare Workers to a relational database.
+https://github.com/cloudflare/dart-worker-hello-world # Dart hello world for Cloudflare Workers
+https://github.com/cloudflare/lasso # A Worker that caches wrangler's binary dependencies, so you can install wrangler if NPM or GitHub are having a bad day.
+https://github.com/cloudflare/worker-template-mysql # Reference demo and modified MySQL driver to connect Cloudflare Workers to a relational database.
+https://github.com/cloudflare/workers-google-analytics # Middleware for Google Analytics tracking in Workers
+https://github.com/cloudflare/ai-utils # Developer toolkit that makes it simple to build with the Workers AI platform.
+https://github.com/cloudflare/scala-worker-hello-world # Scala hello world for Cloudflare Workers
+https://github.com/cloudflare/workers-access-external-auth-example #
+https://github.com/cloudflare/reason-worker-hello-world # Reason hello world for Cloudflare Workers
+https://github.com/cloudflare/securitytxt-worker # The worker that serves Cloudflare's security.txt!
+https://github.com/cloudflare/template-registry # A simple API via a Worker that serves all the template content
+https://github.com/cloudflare/worker-sentry # Sentry over Access for Worker
+https://github.com/cloudflare/workers-wonnx #
+https://github.com/cloudflare/binast-cf-worker # Serve BinAST via a Cloudflare Worker
+https://github.com/cloudflare/queues-web-crawler # A web crawler built with Cloudflare Queues, Browser Rendering, and Workers KV.
+https://github.com/cloudflare/wasm-coredump # Cloudflare Workers Wasm Coredump Service
+https://github.com/cloudflare/pubsub # A set of useful helper methods for writing functions to handle Cloudflare Pub/Sub messages (https://developers.cloudflare.com/pub-sub/)
+https://github.com/cloudflare/managed-component-to-cloudflare-worker # Deploy Managed Components as Cloudflare Workers and use them in Cloudflare Zaraz
+https://github.com/cloudflare/postgrest-worker-example # Example Workers function for interfacing with a PostgreSQL database, using PostgREST
+https://github.com/cloudflare/privacy-gateway-relay # A Oblivious HTTP ("OHTTP") Relay built on Cloudflare Workers.
+https://github.com/cloudflare/chanfana # OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!
+https://github.com/cloudflare/scala-worker-kv # Scala example of Workers KV
+https://github.com/cloudflare/service-worker-custom-build # Template for webpack-based custom build of a service worker
+https://github.com/cloudflare/access-crl-worker-template # A worker that can be used for doing basic CRL checks. It assumes that the request has gone through Access MTLS.
+https://github.com/cloudflare/pyodide-build-scripts # Automated build processes for Cloudflare Workers Pyodide distribution
+https://github.com/cloudflare/msft-risky-user-ad-sync # Deploys a Cloudflare Scheduled Worker which synchronises users flagged by Azure's Risky User API into Groups based on risk level
+https://github.com/cloudflare/terraform-provider-cloudflare # Cloudflare Terraform Provider
+https://github.com/cloudflare/cf-terraforming # A command line utility to facilitate terraforming your existing Cloudflare resources.
+
+https://github.com/gdtool/cloudflare-workers-blog # A Blog Powered By Cloudflare Workers and KV
+https://github.com/sh4yy/cloudflare-email # This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
+https://github.com/xytom/url-shorten-worker # A URL Shortener created using Cloudflare worker
+https://github.com/tbxark/chatgpt-telegram-workers # Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
+https://github.com/irazasyed/awesome-cloudflare # ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
+https://github.com/discord/cloudflare-sample-app # Example discord bot using Cloudflare Workers
+https://github.com/gr2m/cloudflare-worker-github-oauth-login # Use a Cloudflare worker for GitHub's OAuth login flow
+https://github.com/caddy-dns/cloudflare # Caddy module: dns.providers.cloudflare
+https://github.com/dhravya/cloudflare-saas-stack # Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you.
+https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment #
+https://github.com/spyboy-productions/cloakquest3r # Uncover the true IP address of websites safeguarded by Cloudflare & Others
+https://github.com/machou/cloudflare-block # Bash script that automatically activates Cloudflare's "I'm Under Attack!" mode if the server detects an attack.
+https://github.com/cloudflare/cloudflare-typescript # The official Typescript library for the Cloudflare API

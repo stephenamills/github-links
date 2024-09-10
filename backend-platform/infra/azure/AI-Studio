@@ -1,0 +1,12 @@
+https://github.com/Azure-Samples/azure-ai-studio-secure-bicep # Bicep modules to deploy an Azure AI Studio environment
+https://github.com/Azure-Samples/aistudio-python-quickstart-sample # Python sample for getting started using the Azure AI Studio with the SDK or CLI options
+https://github.com/Azure-Samples/aistudio-python-promptflow-sample # Sample for using the Azure AI Studio with the SDK or CLI options - and the PromptFlow framework.
+https://github.com/Azure-Samples/aistudio-python-langchain-sample # Sample for using the Azure AI Studio with the SDK or CLI options - and the LangChain framework.
+https://github.com/Azure-Samples/contoso-chat # Sample End2End process of creating RAG application with Prompt Flow and AI Studio.
+https://github.com/Azure-Samples/azd-aistudio-starter # Create an Azure AI Studio hub
+https://github.com/Azure-Samples/ai-studio-in-a-box # Azure AI Studio setup following Microsoft's best practices for security and access management
+https://github.com/Azure-Samples/ai-requests-template # A template for integrating with multiple destination models on Azure AI Studio using pure Rest APIs
+
+https://github.com/Azure/aistudio-copilot-sample # Sample quickstart repo for getting started building an enterprise chat copilot in Azure AI Studio
+https://github.com/Azure/slm-innovator-lab # SLM workshop led and developed by AI GBB. 
+ation-fine tuning-serving-LLMOps series of processes using Azure ML Studio and AI Studio, and will be able to expand the workload based on this.                                                  

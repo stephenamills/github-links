@@ -1,0 +1,56 @@
+https://github.com/linode/linode-cli # The official Linode command line interface.
+https://github.com/linode/manager # Single-page application designed as the primary frontend interface for interacting with the Linode API.
+https://github.com/linode/linode-api-docs # OpenAPI spec
+
+https://github.com/linode/apl-core # Application Platform for Linode Kubernetes Engine (or any other K8s)
+https://github.com/linode/docs # Linode guides and tutorials.
+https://github.com/linode/longview # Linode Longview Agent
+https://github.com/linode/terraform-provider-linode # Terraform Linode provider
+https://github.com/linode/linodego # Go client for Linode REST v4 API
+https://github.com/linode/linode_api4-python # Official Python bindings for the Linode API
+https://github.com/linode/linode-cloud-controller-manager # Kubernetes Cloud Controller Manager for Linode
+https://github.com/linode/linode-blockstorage-csi-driver # Container Storage Interface (CSI) Driver for Linode Block Storage
+https://github.com/linode/ansible_linode # Linode Ansible Collection
+https://github.com/linode/docker-volume-linode # Docker Volume driver for Linode Block Storage
+https://github.com/linode/docker-machine-driver-linode # Linode Driver Plugin for Docker Machine using Linode APIv4
+https://github.com/linode/beginners-guide-to-devops-tools #
+https://github.com/linode/cluster-api-provider-linode # A Cluster API implementation to create Kubernetes clusters for Linode (CAPL)
+https://github.com/linode/apl-tasks # Tasks needed by APL to glue all the pieces together
+https://github.com/linode/provider-ceph # Provider Ceph is a Crossplane provider capable of managing S3 Buckets on one or more Ceph clusters.
+https://github.com/linode/provider-linode # Provider Linode is a Crossplane provider for managing Linode Akamai Cloud Computing resources.
+https://github.com/linode/k8s-node-decorator # Add labels and annotations to your kubernetes nodes with this in cluster decorator
+https://github.com/linode/packer-plugin-linode # Packer plugin for Linode Builder
+https://github.com/linode/apl-clients # Factory to build and publish open API clients used in the apl-tasks repo
+https://github.com/linode/developers # developers-linode-com
+https://github.com/linode/kontainer-engine-driver-lke # Kontainer Engine Driver for Rancher Cluster Driver
+https://github.com/linode/rancher-ui-driver-linode # UI for Linode options when used as a Rancher Node Template
+https://github.com/linode/lelastic # elastic IP client
+https://github.com/linode/action-linode-cli # A GitHub Action for installing the Linode CLI
+https://github.com/linode/linode-k8s-e2e-tests # A collection of end-to-end test for Kubernetes running on Linode
+https://github.com/linode/velero-plugin # Verlero plugin that clones Linode CSI volumes for archival
+https://github.com/linode/agreements # Linode's Legal Agreements
+https://github.com/linode/apl-docs # Otomi documentation website
+https://github.com/linode/linode-hugo-theme #
+https://github.com/linode/linode-cosi-driver # A Kubernetes Container Object Storage Interface (COSI) Driver for Linode
+https://github.com/linode/go-metadata # A Go package for interacting with the Linode Metadata Service.
+https://github.com/linode/apl-charts # App Platform for LKE - Catalog Helm charts
+https://github.com/linode/capi-bootstrap # Cluster API self-managed cluster bootstrapping
+https://github.com/linode/arpproxy #
+https://github.com/linode/ndproxy #
+https://github.com/linode/design-language-system # Foundational design tokens in various formats help build a cohesive and consistent visual language
+https://github.com/linode/ansible-specdoc # A utility for dynamically generating Ansible Collection documentation.
+https://github.com/linode/lke-sintel-demo # Three manifest Nginx Ingress, Cert Manager, and External DNS demo on Linode Kubernetes Engine
+https://github.com/linode/dhcpd-unnumbered #
+https://github.com/linode/py-metadata # A Python package for interacting with the Linode Metadata Service.
+https://github.com/linode/docs-cloud-projects #
+https://github.com/linode/rad-unnumbered #
+https://github.com/linode/ansible-specdoc-example # An example Ansible Collection using ansible-specdoc.
+https://github.com/linode/konnectivity # repo containing helm charts for k8s konnectivity
+https://github.com/linode/linode-hackathons # A repository of code and resources resulting from Linode Hackathons
+https://github.com/linode/dhcpd6-unnumbered #
+https://github.com/linode/eslint-plugin-cloud-manager # Custom ESLint rules for Akamai's Cloud Manager
+https://github.com/linode/apl-example-app # Example distributed app composed of multiple containers
+https://github.com/linode/splunk-addon-linode # Linode Splunk Integration
+https://github.com/linode/TOD-test-report-uploader #
+https://github.com/linode/TOD-test-report-processor #
+https://github.com/linode/dx-e2e-test-scripts #

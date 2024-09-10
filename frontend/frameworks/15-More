@@ -1,0 +1,155 @@
+Documentation & Help Center
+https://github.com/fuma-nama/fumadocs # the best
+https://github.com/code-hike/examples # CODE HIKE IS THE BEST - has Fumadocs example
+https://github.com/basehub-ai/docs-template # still very good
+https://github.com/basehub-ai/help-center-template
+https://github.com/tailwindlabs/tailwindcss.com # very good
+https://github.com/mintlify/starter
+https://github.com/shadcn-ui/taxonomy # fastest documentation transitions
+https://github.com/hashicorp/terraform-docs-common
+https://github.com/redhat-documentation/peer-review
+
+GitHub Readme
+https://github.com/octokatherine/readme.so
+https://github.com/sindresorhus/css-in-readme-like-wat
+https://github.com/sindresorhus/github-markdown-css
+https://github.com/sindresorhus/ora # use of typography
+https://github.com/trimstray/the-book-of-secret-knowledge # decent typography with a dense long list of resources
+https://github.com/adrianhajdin/nike_landing_page # pretty badges
+https://github.com/brendandburns/designing-distributed-systems-labs # basic
+https://badgen.net # creates badges
+https://github.com/learn-co-curriculum/git-resources-readme
+https://github.com/github-linguist/linguist/vendor # supported syntax highlighting languages
+https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml # alternative language alias names
+
+Portfolios
+https://github.com/rafaelconde/rafaelconde # unique
+https://github.com/destefanis/gatsby-portfolio # great
+https://github.com/warronbebster/bwebsite
+https://github.com/feimosi/baguetteBox.js
+https://github.com/deoostfrees/Parvus
+https://github.com/mitul-s/typicalmitul.com
+
+Lightbox
+https://github.com/nextapps-de/spotlight # best performance
+https://github.com/dimsemenov/photoswipe # most popular but has a resolution quality loading delay
+https://github.com/charlestati/amplify # inline image zoom
+https://github.com/henrygd/bigger-picture
+https://github.com/sachinchoolur/lightGallery
+https://github.com/aautio/react-modal-image
+https://github.com/midzer/tobii
+https://github.com/appleple/SmartPhoto
+https://github.com/biati-digital/glightbox
+https://github.com/BetterTyped/react-zoom-pan-pinch
+https://github.com/banthagroup/fslightbox
+https://github.com/yifaneye/react-gallery-carousel
+https://github.com/nzbin/photoviewer
+
+Whiteboards
+https://github.com/tldraw/tldraw # perfect use in their docs of embedding on a website
+https://github.com/excalidraw/excalidraw
+https://github.com/jmjuanes/folio
+https://github.com/xyflow/xyflow # React Flow - has every professional figma feature maybe
+https://github.com/jackyzha0/cursor-chat # nice cursor chat feature like Figma
+https://github.com/gkuzin13/drawflux/
+https://github.com/adrianhajdin/figma_clone/ # by Adrian Hajdin - Figma
+https://github.com/kaifcoder/eraser_clone # Eraser
+https://github.com/DaviLacerda/figma-jam-clone/ # the actual simplest, maybe even elegant almost
+https://github.com/alexeyboiko/dgrmjs # seems simple
+https://github.com/dsnehasish74/white_board # the simplest
+https://github.com/smit3949/codeconnect-frontend/ # seems simple
+https://github.com/untitled-team-101/whiteboard # seems simple (I guess)
+https://github.com/cracker0dks/whiteboard/ # seems simple
+https://github.com/QuiiBz/ogstudio # only 76 commits so maybe simple
+https://github.com/geekreflex/xoord # not simple but kinda cool
+https://github.com/floyare/stickly # this is a great whiteboard design, nice proportions, button color, etc.
+https://github.com/gns3/gns3-web-ui
+https://github.com/pnetlab/pnetlab_main
+https://github.com/dainok/unetlab
+https://github.com/juniper/wistar
+https://github.com/3rd/tsdiagram
+https://github.com/markboard-io/markboard
+https://github.com/miroapp/app-examples
+https://github.com/rolandkrueger/git-whiteboard-app
+https://github.com/buchholztim/whitebird
+https://github.com/nextcloud/integration_whiteboard # pdf export
+https://github.com/spacedeck/spacedeck-open
+https://github.com/mostafazke/ng-whiteboard
+https://github.com/odiak/draw
+https://github.com/cjquines/qboard
+https://github.com/thesephist/draw
+https://github.com/uthsobcb/ongkon
+https://github.com/pkrasicki/syncpaint
+https://github.com/maxscharwath/describble
+https://github.com/dragonman225/jade
+https://github.com/yachen168/fabricjs-whiteboard
+https://github.com/wggb/whiteboard
+https://github.com/sindrel/excalidraw-converter
+https://github.com/swimmingkiim/react-image-editor
+https://github.com/jordansinger/figma-macos-swiftui-sample
+https://github.com/nbw/figmex
+https://github.com/alexandrtovmach/react-figma-plugin-ds
+https://github.com/Underhive/visual-react-editor
+
+Selenium
+
+Playwright
+
+Puppeteer
+
+ESlint
+https://github.com/raulmelo-articles/eslint-flat-config/
+https://github.com/whl1729/eslint-demo/
+
+https://github.com/Blazity/next-enterprise
+https://github.com/epicweb-dev/config
+https://github.com/wesbos/eslint-config-wesbos
+https://github.com/connorrose/dilettantes-guide-to-linting/
+https://github.com/cobiwave/my-settings/
+https://github.com/antfu/eslint-config
+https://github.com/albertobasalo/dotfiles/
+
+angular-eslint
+antfu-eslint-config
+biome
+dart
+eslint-config-airbnb
+eslint-config-eslint
+eslint-config-fbjs
+eslint-config-google
+eslint-config-hardcore
+eslint-config-next
+eslint-config-react-app
+eslint-config-standard
+eslint-config-wesbos
+eslint-config-wikimedia
+eslint-config-xo
+eslint-plugin-antfu
+eslint-plugin-astro
+eslint-plugin-github
+eslint-plugin-graphql
+eslint-plugin-html
+eslint-plugin-import
+eslint-plugin-jest
+eslint-plugin-jsx-a11y
+eslint-plugin-mdx
+eslint-plugin-perfectionist
+eslint-plugin-react
+eslint-plugin-react-hooks
+eslint-plugin-react-native
+eslint-plugin-react-redux
+eslint-plugin-simple--import-sort
+eslint-plugin-solid
+eslint-plugin-sonarjs
+eslint-plugin-storybook
+eslint-plugin-styled-components-a11y
+eslint-plugin-svelte
+eslint-plugin-unicorn
+eslint-plugin-vue
+eslint-plugin-vue-scoped-css
+graphql-eslint
+html-eslint
+shopify-eslint-plugin
+standard
+stylelint
+vercel-style-guide

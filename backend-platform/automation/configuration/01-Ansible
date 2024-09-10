@@ -1,0 +1,483 @@
+https://github.com/redhat-scholars/ansible-tutorial
+
+https://github.com/ansible/ansible # Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code de
+ployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. https://github.com/ansible/awx # AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pla
+tform. https://github.com/ansible/molecule # Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+https://github.com/ansible/ansible-lint # ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
+https://github.com/ansible/workshops # Training Course for Ansible Automation Platform
+https://github.com/ansible/awx-operator # An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖
+https://github.com/ansible/ansible-runner # A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image int
+erface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible. https://github.com/ansible/galaxy # Legacy Galaxy still available as read-only on https://old-galaxy.ansible.com - looking for the new galaxy -> https://github.com/ansible/galaxy_ng
+https://github.com/ansible/ansible-jupyter-kernel # Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
+https://github.com/ansible/ansible-navigator # A text-based user interface (TUI) for Ansible.
+https://github.com/ansible/test-playbooks # playbook-tests
+https://github.com/ansible/vscode-ansible # vscode/vscodium extension for providing Ansible auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamll
+int, molecule and ansible-test. https://github.com/ansible/ansible-builder # An Ansible execution environment builder
+https://github.com/ansible/event-driven-ansible # Ansible Collection for EDA
+https://github.com/ansible/galaxy_ng # Ansible Galaxy Server - Issues on https://forum.ansible.com Docs on https://galaxy-ng.readthedocs.io/
+https://github.com/ansible/terraform-provider-ansible # community terraform provider for ansible
+https://github.com/ansible/ansible-rulebook #
+https://github.com/ansible/product-demos #
+https://github.com/ansible/pytest-ansible # A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios t
+hrough a pytest fixture. https://github.com/ansible/receptor # Project Receptor is a flexible multi-service relayer with remote execution and orchestration capabilities linking controllers with executors across a mesh o
+f nodes. https://github.com/ansible/awx-ee # An Ansible execution environment for AWX project
+https://github.com/ansible/immutablish-deploys #
+https://github.com/ansible/proposals # Repository for sharing and tracking progress on enhancement proposals for Ansible.
+https://github.com/ansible/ansible-creator # The fastest way to generate all your ansible content!
+https://github.com/ansible/ansible-documentation # Ansible community documentation
+https://github.com/ansible/ansible-ui # The UIs for Ansible Projects such as AWX, EDA, and HUB.
+https://github.com/ansible/instruqt # Self-paced instruqt Training material
+https://github.com/ansible/ansible-hub-ui # Ansible Automation Hub UI
+https://github.com/ansible/eda-server # Event Driven Ansible for AAP
+https://github.com/ansible/ansible-dev-tools # Ansible automation developer tools
+https://github.com/ansible/pylibssh # Python bindings specific to Ansible use case for libssh https://www.libssh.org/
+https://github.com/ansible/autoscaling-blog # Companion playbooks to an article at http://www.ansible.com/blog/autoscaling-infrastructures
+https://github.com/ansible/galaxy_collection # Collection of modules and roles to configure Automation Hub
+https://github.com/ansible/tox-ansible # The tox-ansible plugin dynamically creates a full matrix of python interpreter and ansible-core version environments for running integration, sanity, and
+unit for an ansible collection both locally and in a Github action. tox virtual environments are leveraged for collection building, collection installation, dependency installation, and testing. https://github.com/ansible/ansible-baseline # A baseline playbook for testing Ansible performance
+https://github.com/ansible/awx-resource-operator #
+https://github.com/ansible/ansible.github.com # nothing to see here, this just makes ansible.github.com/io a redirect to the main project page
+https://github.com/ansible/eda-server-operator #
+https://github.com/ansible/ansible-risk-insight # Ansible Risk Insight (ARI) is the tool to evaluate the quality and risk of the ansible content.
+https://github.com/ansible/distro-test-containers # Distribution specific containers for Ansible integration testing.
+https://github.com/ansible/tower-example # Ansible Tower Example Playbooks
+https://github.com/ansible/awx-logos #
+https://github.com/ansible/ansible-dev-environment # Build and maintain a development environment including ansible collections and their python dependencies
+https://github.com/ansible/galaxy-importer # Galaxy content importer
+https://github.com/ansible/role-install-gcloud # Install Google Cloud SDK and Kubernetes kubectl CLI.
+https://github.com/ansible/ansible-sdk # The Ansible SDK
+https://github.com/ansible/ansible-zuul-jobs # Zuul job definitions for the Ansible tenant.
+https://github.com/ansible/azure-testing # Former home for Ansible Azure module testing. Testing is now part of the main Ansible repository.
+https://github.com/ansible/network-infra-playbooks # Playbooks and roles for installing and managing Ansible networking CI
+https://github.com/ansible/ansible-compat # A python package containing functions that help interacting with various versions of Ansible
+https://github.com/ansible/ansible-content-actions # Combine GitHub Actions to create a streamlined workflow for testing Ansible collection repositories on GitHub.
+https://github.com/ansible/docsite # Static HTML and assets for docs.ansible.com
+https://github.com/ansible/ansible-policy # ansible-policy is a prototype implementation which allows us to define and set constraints to the Ansible project in OPA Rego language.
+https://github.com/ansible/aap-docs # Asciidoc technical content for Ansible Automation Platform
+https://github.com/ansible/pinakes #
+https://github.com/ansible/terraform-provider-aap # Terraform Provider for Ansible Automation Platform
+https://github.com/ansible/team-devtools # Shared practices, workflows and decisions impacting Ansible devtools projects
+https://github.com/ansible/ecosystem-documentation # Task-oriented, cross-project documentation for the Ansible ecosystem
+https://github.com/ansible/logos # Ansible upstream logos
+https://github.com/ansible/receptor-collection #
+https://github.com/ansible/slides #
+https://github.com/ansible/zuul-config # Global configuration for Software Factory Zuul instance
+https://github.com/ansible/ansible-sign # The `ansible-sign` utility for signing and verifying Ansible project directory contents.
+https://github.com/ansible/default-test-container # Container used by ansible-test for distribution independent tests.
+https://github.com/ansible/network-ee # An Ansible execution environment for Ansible Network Collections
+https://github.com/ansible/django-ansible-base #
+https://github.com/ansible/ansible-lightspeed-demos #
+https://github.com/ansible/ansible-policybook-examples #
+https://github.com/ansible/galaxykit #
+https://github.com/ansible/http-test-container # HTTP server container for testing.
+https://github.com/ansible/ansible-ai-connect-service #
+https://github.com/ansible/cloudstack-test-container # CloudStack simulator container for testing.
+https://github.com/ansible/python-builder-image # A container image for building python projects
+https://github.com/ansible/mkdocs-ansible # Ansible MkDocs Theme based on Material
+https://github.com/ansible/ansible-publish-action # Publish Ansible collection to galaxy.ansible.com
+https://github.com/ansible/galaxy-operator # Galaxy-Operator
+https://github.com/ansible/ansible-core-test-container # Container used by ansible-core for distribution independent tests.
+https://github.com/ansible/anonymizer #
+https://github.com/ansible/containmint # Create multi-arch containers using native cloud builds.
+https://github.com/ansible/drools_jpy #
+https://github.com/ansible/metrics-utility # Standalone utility for https://github.com/ansible/awx/
+https://github.com/ansible/ansible-content-capture # Ansible Content Caputre is a tool for scanning Ansible contents and generating parsed object data. Topics Resources
+https://github.com/ansible/awx-plugins #
+https://github.com/ansible/ansible-automation-platform-billing #
+https://github.com/ansible/spare-tire # Infrastructure for building Python wheels for testing with packages lacking wheels on tested platforms.
+https://github.com/ansible/azure-pipelines-test-vm # Virtual machine image builder for running ansible-test on Azure Pipelines.
+https://github.com/ansible/aap_ocp_refarch #
+https://github.com/ansible/aap_refarch # Automation Platform Reference Architecture
+https://github.com/ansible/bedrock # Infrastructure for mirroring Docker Hub base images on quay.io using skopeo.
+https://github.com/ansible/openstack-ci # Collection of playbooks to deploy an OpenStack/Nodepool based CI
+https://github.com/ansible/pinakes-ui #
+https://github.com/ansible/ansible-workspace-env-reference-image # An OpenShift Dev Spaces image for Ansible.
+https://github.com/ansible/ansible-content-parser #
+https://github.com/ansible/ansible-collaborative #
+https://github.com/ansible/azure-aap-deployment-driver #
+https://github.com/ansible/validated-content-discussion # A place for review of validated content candidates and general discussion around validated content.
+https://github.com/ansible/ansible-collection-memsource # An Ansible collection to manage Memsource content
+https://github.com/ansible/base-test-container # Base container used by ansible-test for distribution independent tests.
+https://github.com/ansible/eda-partner-testing #
+https://github.com/ansible/aap-must-gather #
+https://github.com/ansible/acme-test-container # A container for integration testing ACME protocol modules.
+https://github.com/ansible/aap_migration # Reference Architectures supporting the migration between major AAP versions
+https://github.com/ansible/nios-test-container # A container for integration testing infoblox ddi nios modules.
+https://github.com/ansible/azure-pipelines-test-container # Container for running ansible-test on Azure Pipelines.
+https://github.com/ansible/servicenow-content-services-app # Native ServiceNow application for Ansible
+https://github.com/ansible/eda-awx-project-sample #
+https://github.com/ansible/issue-forms-demo-for-ansible # GitHub Issue preview form: this is a demo for https://github.com/ansible/ansible/pull/73751
+https://github.com/ansible/ansible-azp-tools # Tools for working with Ansible projects using Azure Pipelines.
+https://github.com/ansible/eda-sample-project #
+https://github.com/ansible/ansibotmini #
+https://github.com/ansible/zuul-test-repo # Fork of Ansible repo for testing Zuul CI system
+https://github.com/ansible/zuul-jobs #
+https://github.com/ansible/ansible-runner-test-container # Container used for ansible-runner tests.
+https://github.com/ansible/sonarcloud-public-test # Public repository for testing SonarCloud integration
+https://github.com/ansible/aws-ci-admin #
+https://github.com/ansible/docker-test-containers # Containers for use with Ansible module integration tests involving Docker.
+https://github.com/ansible/ansible-zen # Zen and the art of Ansible
+https://github.com/ansible/azure-pipelines-testing # Repository for testing Azure Pipelines.
+https://github.com/ansible/ansible-pypi-test-mirror # Scripts to manage the Ansible PyPI Test Mirror.
+https://github.com/ansible/gha-runner-scaler #
+https://github.com/ansible/ansible-contributor-metrics # The GUI provides a dashboard in terms of factual metrics system for the github projects managed by Ansible for content collections.
+https://github.com/ansible/ansible-test-utility-container # Container used by ansible-test for interacting with a container host.
+https://github.com/ansible/aapqa-test-content #
+https://github.com/ansible/cloud-content-ci-automation #
+https://github.com/ansible/servicenow-eda-services-app #
+https://github.com/ansible/aws-cfn-bootstrap #
+https://github.com/ansible/scratchpad # Pipeline for cleaning up intermediate container builds.
+https://github.com/ansible/gha-wsl2-playground #
+https://github.com/ansible/ansible-rhdh-templates #
+https://github.com/ansible/ansible-on-clouds-releases #
+https://github.com/ansible/.github # Shared GitHub Configuration
+https://github.com/ansible/test-ansible-release # This is not the repository you're looking for. It is only used to test Ansible release processes and tools.
+https://github.com/ansible/ansible.github.io # A github page for Ansible
+https://github.com/ansible/python-memsource # **Unofficial** Memsource API python bindings. This module aims to provide an easy programmatic way to interact with the Memsource API and make trans
+lation even simpler and more automated. https://github.com/ansible/ansible-builder-test-container # Container used for ansible-builder tests.
+https://github.com/ansible/pypi-test-container # A devpi-server to support pip installs for tests running under Python 2.6.
+
+https://github.com/ansible-collections/community.general # Ansible Community General Collection
+https://github.com/ansible-collections/ansible-consul # :satellite: Ansible role for Hashicorp Consul clusters
+https://github.com/ansible-collections/community.vmware # Ansible Collection for VMware
+https://github.com/ansible-collections/community.zabbix # Zabbix Ansible modules
+https://github.com/ansible-collections/amazon.aws # Ansible Collection for Amazon AWS
+https://github.com/ansible-collections/cisco.ios # Ansible Network Collection for Cisco IOS
+https://github.com/ansible-collections/azure # Development area for Azure Collections
+https://github.com/ansible-collections/ansible.windows # Windows core collection for Ansible
+https://github.com/ansible-collections/kubernetes.core # The collection includes a variety of Ansible content to help automate the management of applications in Kubernetes and OpenShift clusters
+, as well as the provisioning and maintenance of clusters themselves. https://github.com/ansible-collections/community.windows # Windows community collection for Ansible
+https://github.com/ansible-collections/community.docker # Community Docker Collection for Ansible: modules and plugins for working with Docker
+https://github.com/ansible-collections/community.aws # Ansible Collection for Community AWS
+https://github.com/ansible-collections/ansible.posix # Ansible Collection for Posix
+https://github.com/ansible-collections/ansible.netcommon # Ansible Network Collection for Common Code
+https://github.com/ansible-collections/community.digitalocean # This Ansible collection contains modules for assisting in the automation of the DigitalOcean cloud.
+https://github.com/ansible-collections/community.grafana # Grafana Collection for Ansible
+https://github.com/ansible-collections/vmware.vmware_rest # Ansible Collection for VMWare (REST modules)
+https://github.com/ansible-collections/community.network # Ansible Community Network Collection
+https://github.com/ansible-collections/cisco.nxos # Ansible Network Collection for Cisco NXOS
+https://github.com/ansible-collections/collection_template # A GitHub Template repo to use as the basis for future repos
+https://github.com/ansible-collections/community.mongodb # MongoDB Ansible Collection
+https://github.com/ansible-collections/community.postgresql # Manage PostgreSQL with Ansible
+https://github.com/ansible-collections/hetzner.hcloud # A collection to manage resources on Hetzner Cloud
+https://github.com/ansible-collections/google.cloud # GCP Ansible Collection https://galaxy.ansible.com/google/cloud
+https://github.com/ansible-collections/community.mysql # MySQL Ansible Collection
+https://github.com/ansible-collections/community.crypto # The community.crypto collection for Ansible.
+https://github.com/ansible-collections/community.routeros # Ansible modules for managing MikroTik RouterOS instances.
+https://github.com/ansible-collections/cloud.terraform # The collection automates the management and provisioning of infrastructure as code (IaC) using the Terraform CLI tool within Ansible play
+books and Execution Environment runtimes. https://github.com/ansible-collections/servicenow.itsm # Ansible Collection for ServiceNow ITSM
+https://github.com/ansible-collections/arista.eos # Ansible Network Collection for Arista EOS
+https://github.com/ansible-collections/junipernetworks.junos # Ansible Network Collection for Juniper JunOS
+https://github.com/ansible-collections/community.hashi_vault # Ansible collection for managing and working with HashiCorp Vault.
+https://github.com/ansible-collections/community.sops # Simple and flexible tool for managing secrets
+https://github.com/ansible-collections/ibm_zos_core # Red Hat Ansible Certified Content for IBM Z
+https://github.com/ansible-collections/ansible.utils # A collection of ansible utilities for the content creator.
+https://github.com/ansible-collections/cisco.iosxr # Ansible Network Collection for Cisco IOSXR
+https://github.com/ansible-collections/community.libvirt # Manage libvirt with Ansible
+https://github.com/ansible-collections/cisco.asa # Ansible Security Collection for Cisco ASA
+https://github.com/ansible-collections/netapp.ontap # Ansible collection to support NetApp ONTAP configuration.
+https://github.com/ansible-collections/dellemc.enterprise_sonic # Ansible Network Collection for Enterprise SONiC Distribution by Dell Technologies
+https://github.com/ansible-collections/microsoft.ad # Ansible collection for Active Directory management
+https://github.com/ansible-collections/dellemc.os10 #
+https://github.com/ansible-collections/community.rabbitmq # Manage RabbitMQ with Ansible
+https://github.com/ansible-collections/community.dns # Ansible modules and plugins for working with DNS
+https://github.com/ansible-collections/news-for-maintainers # Announcements of changes impacting collection contributors and maintainers
+https://github.com/ansible-collections/community.cassandra # Cassandra Ansible Collection
+https://github.com/ansible-collections/ibm.qradar # IBM QRadar Ansible Collection
+https://github.com/ansible-collections/community.elastic #
+https://github.com/ansible-collections/ibm.spectrum_virtualize # IBM Spectrum Virtualize
+https://github.com/ansible-collections/community.proxysql # ProxySQL Ansible Collection
+https://github.com/ansible-collections/community.ciscosmb # Ansible Galaxy module for Cisco SMB switches - SG300, SG500, SG350, SG550
+https://github.com/ansible-collections/ansible.scm # An ansible collection for prescriptive retrieval and publish using git
+https://github.com/ansible-collections/community.healthchecksio # This Ansible collection contains modules for assisting in the automation of the Healthchecks.io monitoring service.
+https://github.com/ansible-collections/ansible.network # Ansible Network Collection for network and IP utilities that are not specific to any platform or OS.
+https://github.com/ansible-collections/frr.frr # Ansible Collection for Free Range Routing (FRR)
+https://github.com/ansible-collections/community.cip # Ansible Collection to automate Programmable Logic Controllers over Common Industrial Protocol (CIP)
+https://github.com/ansible-collections/community.hrobot # Hetzner Robot Collection
+https://github.com/ansible-collections/cloud.common # Common files for the Cloud collections
+https://github.com/ansible-collections/openvswitch.openvswitch # Ansible Network Collection for Open vSwitch
+https://github.com/ansible-collections/ibm_zos_cics # The IBM z/OS CICS collection supports management of CICS resources and definitions in Ansible via the CMCI REST API provided by CICS.
+https://github.com/ansible-collections/ansible-inclusion # Requests to include new collections into the ansible package
+https://github.com/ansible-collections/amazon.cloud # Ansible Collection for Amazon AWS' Cloud Control API
+https://github.com/ansible-collections/community.internal_test_tools # Internal only, not for end users
+https://github.com/ansible-collections/splunk.es # Ansible Collection for Splunk Enterprise
+https://github.com/ansible-collections/ibm_zos_ims # IBM z/OS IMS Collection
+https://github.com/ansible-collections/mellanox.onyx # onyx
+https://github.com/ansible-collections/ansible.snmp #
+https://github.com/ansible-collections/community.yang # Ansible Community Collection to support Yang in network devices.
+https://github.com/ansible-collections/dellemc.os6 #
+https://github.com/ansible-collections/dellemc.os9 #
+https://github.com/ansible-collections/community.molecule # Ansible community.molecule is a very small collection that hosts filters used by molecule playbooks.
+https://github.com/ansible-collections/community.kubevirt # KubeVirt Collection of Ansible.
+https://github.com/ansible-collections/pravic # An experimental project intended to explore how Ansible could be used to manage cloud-based resources in a more declarative way.
+https://github.com/ansible-collections/ansible.yang # Ansible Supported Collection to support YANG in network devices.
+https://github.com/ansible-collections/community.sonic # Ansible Galaxy community module for SONiC NOS
+https://github.com/ansible-collections/ansible.security # Ansible Security Collection for security and are not specific to any security vendor.
+https://github.com/ansible-collections/vmware.vmware # Ansible VMWare Collection
+https://github.com/ansible-collections/community.google #
+https://github.com/ansible-collections/logicmonitor # Repo to house LogicMonitor Collection
+https://github.com/ansible-collections/community.sap #
+https://github.com/ansible-collections/community.clickhouse # Ansible Community ClickHouse Collection
+https://github.com/ansible-collections/community.fqcn_migration #
+https://github.com/ansible-collections/cloud-content-handbook # Handbook for the Ansible Cloud Content Team
+https://github.com/ansible-collections/cloud.roles # Collection of roles to help get started using Ansible with public clouds
+https://github.com/ansible-collections/trendmicro.deepsec # Ansible Collection for managing TrendMicro DeepSecurity Endpoint Security solutions.
+https://github.com/ansible-collections/community.vagrant # community.vagrant collection (to adopt the module from molecule-vagrant)
+https://github.com/ansible-collections/ibm_zos_sysauto # IBM System Automation Collection
+https://github.com/ansible-collections/skydive # Ansible Collection for Skydive network / protocols analyzer
+https://github.com/ansible-collections/community.proxmox #
+https://github.com/ansible-collections/netapp.storagegrid # Ansible collection to support NetApp StorageGrid configuration.
+https://github.com/ansible-collections/consoledot.edgemanagement # PoC Ansible Collection for Red Hat Edge Fleet Manager
+https://github.com/ansible-collections/ibm.ds8000 # IBM DS8000
+https://github.com/ansible-collections/ibm.cloud # Code and relative documentation for the IBM Cloud Collection
+https://github.com/ansible-collections/.github # Shared templates and docs
+https://github.com/ansible-collections/netapp.cloudmanager # Ansible collection to support NetApp Cloud Manager configuration, including CVO deployments.
+https://github.com/ansible-collections/netapp.aws # Ansible collection to support NetApp CVS configuration in AWS.
+https://github.com/ansible-collections/community.nextcloud # community.nextcloud
+https://github.com/ansible-collections/Datadog # Datadog Collection
+https://github.com/ansible-collections/ibm.csm #
+https://github.com/ansible-collections/ibm.storage_virtualize #
+https://github.com/ansible-collections/community.pacemaker # Collection focusing on modules to deploy and configure Pacemaker clusters.
+https://github.com/ansible-collections/community.cockroachdb #
+https://github.com/ansible-collections/community.osbuild # Collection to automate osbuild
+https://github.com/ansible-collections/community.asa # Ansible Community Collection for Cisco ASA
+https://github.com/ansible-collections/dellemc.sfss # Initial
+https://github.com/ansible-collections/edge.test_utils # Utilities for testing the Ansible Edge WG Content
+https://github.com/ansible-collections/netapp.azure # Ansible collection to support Azure NetApp Files configuration.
+https://github.com/ansible-collections/el_grandiose_module_promoter # Scripts handling module migration from one collection to another one
+https://github.com/ansible-collections/dellemc.sfs # Dell EMC OS10 SFS Ansible collections
+https://github.com/ansible-collections/automation-application #
+https://github.com/ansible-collections/edge.workload # Edge Workload Management Content
+https://github.com/ansible-collections/community.library_inventory_filtering # Library for inventory plugins in other collections that allows to filter hosts in a generic way.
+https://github.com/ansible-collections/ansible.drill # Ansible Collection for Instruqt IT Labs
+https://github.com/ansible-collections/community.ioscm # iosxe in controller mode
+https://github.com/ansible-collections/dellemc.sfm #
+https://github.com/ansible-collections/community.fortios #
+https://github.com/ansible-collections/community.arduino #
+https://github.com/ansible-collections/netapp.um_info # Ansible collection to support retrieving data from NetApp Unified Manager.
+
+https://github.com/ansible-community/ara # ARA Records Ansible and makes it easier to understand and troubleshoot.
+https://github.com/ansible-community/awesome-ansible # Awesome Ansible List
+https://github.com/ansible-community/ansible-bender # ansible-playbook + buildah = a sweet container image
+https://github.com/ansible-community/ansible-vault # :key: Ansible role for Hashicorp Vault
+https://github.com/ansible-community/ansible-nomad # :watch: Ansible role for Nomad
+https://github.com/ansible-community/ansible-build-data # Holds generated but persistent results from building the ansible community package
+https://github.com/ansible-community/molecule-plugins # Collection on molecule plugins
+https://github.com/ansible-community/antsibull # Tooling for building various things related to ansible
+https://github.com/ansible-community/antsibull-changelog # Changelog generator for ansible, ansible-base, and collections.
+https://github.com/ansible-community/contrib-scripts # (archived) Old Ansible inventory & vault scripts
+https://github.com/ansible-community/ansible.content_builder # A collection to scaffold Ansible plugins.
+https://github.com/ansible-community/ansible-london-meetup # Ansible Meetup for London, UK
+https://github.com/ansible-community/ara-collection # Collection of Ansible roles for ARA Records Ansible.
+https://github.com/ansible-community/molecule-hetznercloud # A molecule driver for Hetzner Cloud
+https://github.com/ansible-community/antsibull-docs # Tooling for building Ansible documentation
+https://github.com/ansible-community/ansible-test-gh-action # A composite GitHub Action encapsulating the GitHub Actions CI/CD workflows setup necessary for testing Ansible collection repositori
+es on GitHub https://github.com/ansible-community/awx-operator-helm #
+https://github.com/ansible-community/molecule-kubevirt # Molecule Kubevirt Driver
+https://github.com/ansible-community/sphinx_ansible_theme # A reusable Ansible Sphinx Theme
+https://github.com/ansible-community/community-website # Ansible Community website (WIP)
+https://github.com/ansible-community/images # Ansible container image definitions meant for ansible-test and Execution Environments
+https://github.com/ansible-community/ppa #
+https://github.com/ansible-community/role2collection # Tooling to assist in migrating to collections
+https://github.com/ansible-community/github-docs-build # GitHub actions and workflows for building Ansible collection documentation.
+https://github.com/ansible-community/ansible-badges # Ansible Badges will recognize contributors to the Ansible Project.
+https://github.com/ansible-community/antsibull-core # Library for tooling for building various things related to ansible
+https://github.com/ansible-community/antsibull-docs-parser # Python library for processing Ansible documentation markup
+https://github.com/ansible-community/ansible-pygments # Provides Pygments highlighter for Ansible output for use in Sphinx
+https://github.com/ansible-community/ara-infra # Infrastructure management for the ARA Records Ansible project.
+https://github.com/ansible-community/antsichaut # Antsichaut aims to automate the filling of a changelog.yaml used by antsibull-changelog
+https://github.com/ansible-community/stats-crawler # Primary indexer for the raw data used in the other stats reports and dashboards
+https://github.com/ansible-community/collection_bot # Fork of Ansibullbot for collections
+https://github.com/ansible-community/rss-feed-aggregator #
+https://github.com/ansible-community/project-template # A GitHub repository template for new Ansible projects
+https://github.com/ansible-community/antsibull-docs-ts # TypeScript library for processing Ansible documentation markup
+https://github.com/ansible-community/package-test-results # Coordination for Ansible package-wide testing
+https://github.com/ansible-community/ansible-kolkata-meetup # A repository to share content for the Ansible Kolkata Meetup group.
+https://github.com/ansible-community/github-action-build-collection # GitHub Action for building Ansible collections
+https://github.com/ansible-community/presentations # Repository for community presentations on Ansible projects
+https://github.com/ansible-community/ansible-montreal-meetup # Things for the Ansible Montreal meetups
+https://github.com/ansible-community/meetup # The Ansible Community Meetup toolkit
+https://github.com/ansible-community/nightly-builds # Nightly builds of ansible package.
+https://github.com/ansible-community/meetings # Repository for the logic that controls the Ansible community meetings ics
+https://github.com/ansible-community/ansible.im # Hacking on HTML for ansible.im
+https://github.com/ansible-community/stats-collections # RShiny app to display statistics for the Ansible Collections
+https://github.com/ansible-community/ansible-munich-meetup # A repository to share content for the Ansible München Meetup group.
+https://github.com/ansible-community/stats-data #
+https://github.com/ansible-community/icons # Ansible Community icons & icon generation workflow/files
+https://github.com/ansible-community/stats-container-meetups # Container for Podman/Docker to collect, analyse and report on our Meetups
+https://github.com/ansible-community/antsibull-docutils # Antsibull docutils helpers
+https://github.com/ansible-community/lightspeed-analysis-framework # A framework to analyse the user modification patterns after the acceptance of the suggestion.
+https://github.com/ansible-community/.github # (wip) shared config for probot based actions, like release-drafter
+https://github.com/ansible-community/stats-map # R-Shiny application to display the Ansible PR and Meetup map
+https://github.com/ansible-community/ansible-buenosaires-meetup # Ansible Buenos Aires Meetup
+https://github.com/ansible-community/onboarding # New project onboarding and documentation toolkit
+https://github.com/ansible-community/package-doc-builds # This repository contains HTML and other assets from package doc builds from the ansible/ansible-documentation source repository.
+https://github.com/ansible-community/antsibull-fileutils # File utility library for community Ansible tools
+https://github.com/ansible-community/ansible-calgary-meetup # The Ansible Calgary Meetup
+https://github.com/ansible-community/badge-granter # Flask app to grant Discourse badges at events
+https://github.com/ansible-community/eol-ansible # CI helpers for End of Life Ansible/ansible-base/ansible-core versions
+https://github.com/ansible-community/stats-container-github # Scripts to parse GitHub data and store it in a pin
+https://github.com/ansible-community/github-action-test-galaxy-import # GitHub Action for testing Galaxy import of an Ansible collection
+
+https://github.com/ansible-lockdown/RHEL8-CIS # Ansible role for Red Hat 8 CIS Baseline
+https://github.com/ansible-lockdown/RHEL8-STIG # Ansible role for Red Hat 8 STIG Baseline
+https://github.com/ansible-lockdown/RHEL8-CIS-Audit # Audit configurations for RHEL8 CIS - utilising goss
+https://github.com/ansible-lockdown/RHEL8-STIG-Audit # Audit control files for rhel8 stig - utilising goss
+
+https://github.com/ansible-lockdown/UBUNTU20-CIS # Ansible role for Ubuntu 2004 CIS Baseline
+https://github.com/ansible-lockdown/UBUNTU20-CIS-Audit # CIS Audit configurations for Ubuntu20.04LTS - utilising goss
+https://github.com/ansible-lockdown/UBUNTU20-STIG # STIG Baseline Ansible Role for Ubuntu 20
+
+https://github.com/ansible-lockdown/Windows-10-CIS # CIS Baseline Ansible Role for Windows 10 Enterprise
+https://github.com/ansible-lockdown/Windows-10-STIG # STIG Baseline Ansible Role for Windows 10
+https://github.com/ansible-lockdown/WinFWADV-STIG # STIG Remediation Role for Windows Firewall and Advanced Security
+https://github.com/ansible-lockdown/WinFWADV-STIG-Audit # STIG audit Role for Windows Firewall and Advanced Security
+https://github.com/ansible-lockdown/Windows-2012-Domain-Controller-STIG # Ansible role for the Windows 2012 Domain Controller STIG
+
+https://github.com/ansible-lockdown/Kubernetes1.6.1-CIS # CIS Baseline Ansible Role for Kubernetes 1.6.1
+https://github.com/ansible-lockdown/KUBERNETES-STIG #
+
+https://github.com/ansible-lockdown/POSTGRES-9-STIG # Ansible Role for the Postgresql 9.x DISA STIG
+https://github.com/ansible-lockdown/APACHE-2.4-CIS # CIS Baseline Ansible Role for Apache 2.4
+https://github.com/ansible-lockdown/APACHE-2.4-STIG # STIG Baseline Ansible Role for Apache 2.4
+https://github.com/ansible-lockdown/POSTGRES-12-CIS # Ansible Role for the Postgresql 12.x CIS
+https://github.com/ansible-lockdown/Benchmark-Generator # Benchmark Generator to create skeleton Ansible content from baseline XCCDF files.
+https://github.com/ansible-lockdown/ansible-terrapin-ssh # Playbook for linux hosts to scan and remediate the terrapin ssh bug
+https://github.com/ansible-lockdown/AZURE-CIS # Ansible role for Azure platform CIS baseline
+https://github.com/ansible-lockdown/AWS-FOUNDATIONS-CIS #
+https://github.com/ansible-lockdown/MPG-AL-READTHEDOCS # MindPoint Group Ansible Lockdown ReadTheDocs
+https://github.com/ansible-lockdown/TOMCAT-9-STIG # STIG Baseline Ansible Role for Tomcat 9
+https://github.com/ansible-lockdown/CISCO-IOS-L2S-STIG # STIG Baseline Ansible Role For Cisco IOS L2 Switch
+https://github.com/ansible-lockdown/CISCO-IOS-RTR-STIG #
+
+https://github.com/geerlingguy/ansible-for-devops # Ansible for DevOps examples.
+https://github.com/geerlingguy/ansible-role-docker # Ansible Role - Docker
+https://github.com/geerlingguy/ansible-role-mysql # Ansible Role - MySQL
+https://github.com/geerlingguy/mac-dev-playbook # Mac setup and configuration via Ansible.
+https://github.com/geerlingguy/ansible-role-nginx # Ansible Role - Nginx
+https://github.com/geerlingguy/ansible-role-jenkins # Ansible Role - Jenkins CI
+https://github.com/geerlingguy/ansible-role-php # Ansible Role - PHP
+https://github.com/geerlingguy/ansible-vagrant-examples # Ansible examples using Vagrant to deploy to local VMs.
+https://github.com/geerlingguy/ansible-for-kubernetes # Ansible and Kubernetes examples from Ansible for Kubernetes Book
+https://github.com/geerlingguy/ansible-role-postgresql # Ansible Role - PostgreSQL
+https://github.com/geerlingguy/ansible-role-java # Ansible Role - Java
+https://github.com/geerlingguy/ansible-role-ansible # Ansible Role - Ansible
+https://github.com/geerlingguy/ansible-role-kubernetes # Ansible Role - Kubernetes
+https://github.com/geerlingguy/ansible-role-security # Ansible Role - Security
+https://github.com/geerlingguy/ansible-role-ntp # Ansible Role - NTP
+https://github.com/geerlingguy/ansible-role-apache # Ansible Role - Apache 2.x.
+https://github.com/geerlingguy/ansible-role-certbot # Ansible Role - Certbot (for Let's Encrypt)
+https://github.com/geerlingguy/ansible-role-nodejs # Ansible Role - Node.js
+https://github.com/geerlingguy/ansible-role-redis # Ansible Role - Redis
+https://github.com/geerlingguy/ansible-role-elasticsearch # Ansible Role - Elasticsearch
+https://github.com/geerlingguy/ansible-role-logstash # Ansible Role - Logstash
+https://github.com/geerlingguy/ansible-role-haproxy # Ansible Role - HAProxy
+https://github.com/geerlingguy/ansible-role-kibana # Ansible Role - Kibana
+https://github.com/geerlingguy/ansible-role-nfs # Ansible Role - NFS
+https://github.com/geerlingguy/ansible-role-firewall # Ansible Role - iptables Firewall configuration.
+https://github.com/geerlingguy/ansible-role-git # Ansible Role - Git
+https://github.com/geerlingguy/ansible-role-ruby # Ansible Role - Ruby
+https://github.com/geerlingguy/ansible-role-solr # Ansible Role - Apache Solr
+https://github.com/geerlingguy/ansible-role-pip # Ansible Role - Pip (for Python)
+https://github.com/geerlingguy/ansible-role-swap # Ansible Role - Swap
+https://github.com/geerlingguy/ansible-role-filebeat # Ansible Role - Filebeat for ELK stack
+https://github.com/geerlingguy/ansible-role-supervisor # Ansible Role - Supervisor
+https://github.com/geerlingguy/ansible-collection-mac # Collection of macOS automation tools for Ansible.
+https://github.com/geerlingguy/ansible-role-dotfiles # Ansible Role - Easy and flexible dotfile installation.
+https://github.com/geerlingguy/ansible-role-repo-epel # Ansible Role - EPEL Repository for RHEL/CentOS
+https://github.com/geerlingguy/ansible-role-postfix # Ansible Role - Postfix
+https://github.com/geerlingguy/ansible-role-memcached # Ansible Role - Memcached
+https://github.com/geerlingguy/ansible-role-composer # Ansible Role - Composer PHP Dependency Manager
+https://github.com/geerlingguy/ansible-role-drupal # Ansible Role - Drupal
+https://github.com/geerlingguy/ansible-role-php-versions # Ansible Role - PHP Versions
+https://github.com/geerlingguy/ansible-for-devops-manuscript # Ansible for DevOps Manuscript
+https://github.com/geerlingguy/ansible-role-node_exporter # Ansible role - Node exporter
+https://github.com/geerlingguy/ansible-role-rabbitmq # Ansible Role - RabbitMQ
+https://github.com/geerlingguy/ansible-role-varnish # Ansible Role - Varnish HTTP accelerator
+https://github.com/geerlingguy/ansible-role-clamav # Ansible Role - ClamAV.
+https://github.com/geerlingguy/docker-centos7-ansible # CentOS 7 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-backup # Ansible Role - Backup for simple servers
+https://github.com/geerlingguy/ansible-role-samba # Ansible Role - Samba
+https://github.com/geerlingguy/ansible-role-php-xdebug # Ansible Role - PHP Xdebug
+https://github.com/geerlingguy/ansible-role-packer # Ansible Role - Packer
+https://github.com/geerlingguy/ansible-role-munin # Ansible Role - Munin
+https://github.com/geerlingguy/ansible-role-containerd # Ansible Role - containerd.io
+https://github.com/geerlingguy/docker-ubuntu1804-ansible # Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-drush # Ansible Role - Drush for Drupal
+https://github.com/geerlingguy/docker-ubuntu2004-ansible # Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-mailhog # Ansible Role - MailHog for catching and viewing emails
+https://github.com/geerlingguy/ansible-role-packer_rhel # Ansible Role - Packer RHEL/CentOS Configuration for Vagrant VirtualBox
+https://github.com/geerlingguy/ansible-role-php-mysql # Ansible Role - PHP MySQL support
+https://github.com/geerlingguy/docker-centos8-ansible # CentOS 8 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-repo-remi # Ansible Role - Remi RPM Repository for RHEL/CentOS
+https://github.com/geerlingguy/ansible-role-elasticsearch-curator # Ansible Role - Elasticsearch Curator
+https://github.com/geerlingguy/ansible-role-php-pecl # Ansible Role - PHP PECL extension
+https://github.com/geerlingguy/ansible-role-helm # Ansible role - Helm
+https://github.com/geerlingguy/ansible-role-munin-node # Ansible Role - Munin node
+https://github.com/geerlingguy/ansible-role-puppet # Ansible Role - Puppet
+https://github.com/geerlingguy/ansible-role-ssh-chroot-jail # Ansible Role - SSH chroot jail config
+https://github.com/geerlingguy/ansible-role-packer-debian # Ansible Role - Packer Debian/Ubuntu Configuration for Vagrant VirtualBox
+https://github.com/geerlingguy/ansible-role-passenger # Ansible Role - Passenger with Nginx
+https://github.com/geerlingguy/docker-ubuntu1604-ansible # Ubuntu 16.04 LTS (Xenial) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-github-users # Ansible Role - GitHub Users
+https://github.com/geerlingguy/ansible-role-k8s_manifests # Ansible Role - K8s Manifests
+https://github.com/geerlingguy/docker-debian10-ansible # Debian 10 (Buster) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-exim # Ansible Role - Exim
+https://github.com/geerlingguy/ansible-role-raspberry-pi # Configures a Raspberry Pi (running Raspbian).
+https://github.com/geerlingguy/docker-debian9-ansible # Debian 9 (Stretch) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-htpasswd # Ansible Role - htpasswd
+https://github.com/geerlingguy/ansible-role-php-redis # Ansible Role - PhpRedis
+https://github.com/geerlingguy/ansible-role-apache-php-fpm # Apache FastCGI support for PHP-FPM
+https://github.com/geerlingguy/molecule-playbook-testing # This is an example from the Ansible 101 livestream
+https://github.com/geerlingguy/docker-ubuntu2204-ansible # Ubuntu 22.04 LTS (Jammy Jellyfish) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-svn # Ansible Role - SVN
+https://github.com/geerlingguy/docker-rockylinux8-ansible # Rocky Linux 8 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-php-memcached # Ansible Role - PHP Memcached
+https://github.com/geerlingguy/ansible-requirements-updater # Update your requirements.yml with this grisly Ansible playbook.
+https://github.com/geerlingguy/docker-debian11-ansible # Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-collection-k8s # Collection of Kubernetes automation tools for Ansible
+https://github.com/geerlingguy/ansible-role-php-xhprof # Ansible Role - PHP XHProf
+https://github.com/geerlingguy/docker-ubi8-ansible # UBI 8 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-go # Ansible role - Go
+https://github.com/geerlingguy/ansible-role-daemonize # Ansible Role - Daemonize.
+https://github.com/geerlingguy/docker-debian8-ansible # Debian 8 (Jessie) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-test-vms # DEPRECATED - A Vagrant configuration to test Ansible roles against a variety of Linux distributions.
+https://github.com/geerlingguy/packer-boxes # Jeff Geerling's Packer build configurations for Vagrant boxes.
+https://github.com/geerlingguy/pi-dev-playbook # Raspberry Pi setup and configuration via Ansible.
+https://github.com/geerlingguy/drupal-container # Drupal container for running Drupal sites with Docker, built with Ansible.
+https://github.com/geerlingguy/ansible-role-sonar-runner # DEPRECATED Ansible Role - SonarQube Runner
+https://github.com/geerlingguy/docker-centos6-ansible # CentOS 6.x Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/docker-amazonlinux2-ansible # Amazon Linux 2 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/docker-rockylinux9-ansible # Rocky Linux 9 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-hdparm # Ansible Role - hdparm.
+https://github.com/geerlingguy/ansible.jeffgeerling.com # Jeff Geerling's Ansible content site
+https://github.com/geerlingguy/ansible-role-fathom # Ansible Role - Fathom
+https://github.com/geerlingguy/ansible-role-php-pear # Ansible Role - PHP PEAR library installation
+https://github.com/geerlingguy/docker-opensuseleap15-ansible # OpenSUSE Leap 15 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-php-pgsql # Ansible Role - PHP support for PostgreSQL.
+https://github.com/geerlingguy/docker-debian12-ansible # Debian 12 (Bookworm) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-awx-varnish-php-app # Varnish load balancer with two Apache/PHP backends for an AWX demo.
+https://github.com/geerlingguy/php-apache-container # PHP + Apache container for running PHP web apps with Docker, built with Ansible.
+https://github.com/geerlingguy/mariadb-operator # MariaDB operator for Kubernetes built with Ansible and the Operator SDK.
+https://github.com/geerlingguy/docker-amazonlinux2023-ansible # Amazon Linux 2023 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/drupal-operator # Drupal Operator for Kubernetes, built with Ansible and the Operator SDK.
+https://github.com/geerlingguy/drupal-pi # Drupal on Docker on a Raspberry Pi. Pi Dramble's little brother.
+https://github.com/geerlingguy/ansible-role-bad_judgement # Ansible Role - Bad Judgement
+https://github.com/geerlingguy/ansible-role-sanoid # Ansible Role - Sanoid
+https://github.com/geerlingguy/top500-benchmark # Automated Top500 benchmark for clusters or single nodes.
+https://github.com/geerlingguy/docker-fedora38-ansible # Fedora 38 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-role-svn2git # Ansible Role - Svn2Git (from KDE)
+https://github.com/geerlingguy/solr-container # Ansible Container project that manages the lifecycle of Apache Solr on Docker.
+https://github.com/geerlingguy/mcrouter-operator # Mcrouter operator for Kubernetes built with Ansible and the Operator SDK.
+https://github.com/geerlingguy/youtube-10k-pods # 10,000 Kubernetes Pods for 10,000 Subscribers
+https://github.com/geerlingguy/demo-rails-app # Demonstration Ruby on Rails app for Ansible for DevOps
+https://github.com/geerlingguy/demo-nodejs-api # Demonstration Node.js API application for Ansible for DevOps
+https://github.com/geerlingguy/drupalci-sonar-jenkins # DEPRECATED - Drupal CI environment with SonarQube and Jenkins for Drupal Core code analysis.
+https://github.com/geerlingguy/50k-k8s-jobs # 50,000 Kubernetes Jobs for 50,000 Subscribers
+https://github.com/geerlingguy/packer-ubuntu-1204 # DEPRECATED - Packer Example - Ubuntu 12.04 Vagrant Box using Ansible provisioner
+https://github.com/geerlingguy/docker-ubuntu2404-ansible # Ubuntu 24.04 LTS (Noble Numbat) Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/fathom-container # Fathom container for website analytics, built with Ansible.
+https://github.com/geerlingguy/docker-fedora40-ansible # Fedora 40 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/docker-fedora39-ansible # Fedora 39 Docker container for Ansible playbook and role testing.
+https://github.com/geerlingguy/ansible-content-testing # Testing repository for various bits of Ansible content in 2.10 transition.
+https://github.com/geerlingguy/backup-pi # Use a Raspberry Pi for backups.

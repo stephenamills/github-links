@@ -1,0 +1,233 @@
+https://github.com/superfly/flyctl # Command line tools for fly.io services
+https://github.com/superfly/fly-openapi-sdk # Generated API clients for the Fly machines API
+
+https://github.com/fly-apps/dockerfile-rails # Provides a Rails generator to produce Dockerfiles and related files.
+https://github.com/fly-apps/rails-example #
+https://github.com/fly-apps/rails-nix # Deploy Rails apps on Fly.io with Nix
+https://github.com/fly-apps/global-rails #
+https://github.com/fly-apps/rails-statics # Rails application to test the performance of Rails static assets
+https://github.com/fly-apps/rails-on-fly #
+https://github.com/fly-apps/view-component-playground # Various view components tried in Rails
+https://github.com/fly-apps/rails-machine-workers # A demonstration of how to use Fly Machines for "scale-to-0" ActiveJob background workers
+https://github.com/fly-apps/railsite # A formidable minimal-dependency Rails stack
+https://github.com/fly-apps/rails-dictaphone # A sample MDN Web Docs app that records audio snippets, with a Rails backend.
+https://github.com/fly-apps/rails-playground # A place to experiment with the latest, greatest Fly features on Rails
+https://github.com/fly-apps/expressive-resources # Explores how to better organize resources in Rails
+https://github.com/fly-apps/extension-provider # Sample Rails app implementing an OAuth client against Fly.io
+https://github.com/fly-apps/actioncable-tester # A Rails app for testing & diagnosing ActionCable deployments in production environments
+
+https://github.com/superfly/fly-rails # Rails support for Fly-io
+https://github.com/superfly/stimulus-live-elements # Live Element support for Rails via Stimulus
+https://github.com/superfly/anycable-rails # Run Anycable with Rails on Fly
+https://github.com/superfly/rails-session-middleware # A sample application showing our Rails 4+ Session Middleware in action!
+
+https://github.com/fly-apps/live_beats #
+https://github.com/fly-apps/tictac # Demonstration of building a clustered, distributed, multi-player, turn-based game server written in Elixir.
+https://github.com/fly-apps/postgres-ha # Postgres + Stolon for HA clusters as Fly apps.
+https://github.com/fly-apps/safe-ecto-migrations # Guide to Safe Ecto Migrations
+https://github.com/fly-apps/litefs-js # JavaScript utilities for working with LiteFS on Fly.io
+https://github.com/fly-apps/dockerfile-node # Dockerfile generator for Node.js
+https://github.com/fly-apps/postgres-flex # Postgres HA setup using repmgr
+https://github.com/fly-apps/redis-geo-cache # A global Redis cache
+https://github.com/fly-apps/bun # Bun JS app doing basically nothing
+https://github.com/fly-apps/redis # Launch a Redis server on Fly
+https://github.com/fly-apps/fly-run-this-function-on-another-machine # Example on how to spawn a Fly.io machine and run a function from there.
+https://github.com/fly-apps/hello-rust # Rust example app on Fly.io
+https://github.com/fly-apps/nats-cluster # Global messaging for apps that need to talk to each other.
+https://github.com/fly-apps/docker-daemon # A Docker daemon to run in Fly and access via a WireGuard peer.
+https://github.com/fly-apps/ollama-open-webui # Self-host a ChatGPT-style web interface for Ollama 🦙
+https://github.com/fly-apps/hello_elixir # An example for building and deploying an Elixir application to Fly using a Dockerfile
+https://github.com/fly-apps/tailscale-router #
+https://github.com/fly-apps/rds-connector # Trivial Terraform example for a WireGuard peer to RDS
+https://github.com/fly-apps/go-example # A minimal Go application for tutorials
+https://github.com/fly-apps/fly-laravel # Run your Laravel apps on Fly
+https://github.com/fly-apps/laravel-docker # Base Docker images for use with Laravel on Fly.io
+https://github.com/fly-apps/bumblebee-model-harness # Minimal Elixir application that can host AI models on Fly.io GPUs and make them available via WireGuard
+https://github.com/fly-apps/wps # World Page Speed
+https://github.com/fly-apps/smokescreen # An example of deploying Smokescreen on Fly.io
+https://github.com/fly-apps/litestream-base # A base Docker image for adding Litestream to apps
+https://github.com/fly-apps/python-hellofly-flask # A Pythonic version of the Hellofly example
+https://github.com/fly-apps/thumbnail_generator #
+https://github.com/fly-apps/supercronic # Run periodic jobs on Fly with supercronic
+https://github.com/fly-apps/node-demo # Fly.io Node.js demo
+https://github.com/fly-apps/pdf-appliance # Auto start machines that will generate PDFs for your application
+https://github.com/fly-apps/hello-fly-langchain # A minimal example of how to deploy LangChain to Fly.io using Flask
+https://github.com/fly-apps/wordpress-sqlite # Wordpress on SQLite
+https://github.com/fly-apps/vscode-remote #
+https://github.com/fly-apps/hellonode-builtin # A minimal Fly example Node application for use in tutorials
+https://github.com/fly-apps/cron-manager #
+https://github.com/fly-apps/privatenet # Examples around querying 6PN private networking on Fly
+https://github.com/fly-apps/self-host-ollama # A simple repo for deploying Ollama on Fly.io.
+https://github.com/fly-apps/hello-static # Create a static website with Fly - HTML from the example
+https://github.com/fly-apps/dockerfile-laravel #
+https://github.com/fly-apps/puppeteer-js-renderer # A service to render js for web scraping hosted on fly.io
+https://github.com/fly-apps/lambdo # Not quite a Lambda, almost as cool as a Lambo.
+https://github.com/fly-apps/fastify-functions # Example Fastify server
+https://github.com/fly-apps/ghost-litestream # Ghost + Litestream for global sqlite blogging
+https://github.com/fly-apps/nix-base # Nix overlays for supporting Nix deployments on Fly.io
+https://github.com/fly-apps/elixir_opentel_and_grafana # Project that goes with a Fly.io Phoenix Files article
+https://github.com/fly-apps/terraformed-machines # Example of Fly.io machines orchestration with Terraform and DNSimple
+https://github.com/fly-apps/fly-log-local # Store Fly app logs locally.
+https://github.com/fly-apps/whisper-example # Fly GPU Machines transcribing an mp3 file with Whisper
+https://github.com/fly-apps/ollama-demo # @jmorganca's ollama.ai demo app on Fly.io
+https://github.com/fly-apps/fooocus-demo # Fooocus is an image generating software, rethinking Stable Diffusion and Midjourney’s designs. Runs on Fly GPUs
+https://github.com/fly-apps/python_gpu_example # A setup with Jupyter for GPU-enabled ML tinkering
+https://github.com/fly-apps/hellodeno # A version of the Hellodeno example that uses flyctl's builtin deno builder
+https://github.com/fly-apps/fly-app-with-multiple-internal-ports # Example of how to deploy an app that has multiple ports listened to
+https://github.com/fly-apps/hello-flask # Example project demonstrating how to deploy a Flask app to Fly.io.
+https://github.com/fly-apps/not-midjourney-bot # Build your very own AI image-generating Discord bot on Fly GPUs
+https://github.com/fly-apps/postgres-importer #
+https://github.com/fly-apps/keydb # KeyDB server on Fly
+https://github.com/fly-apps/hello_elixir_sqlite # An example for building and deploying an Elixir application to Fly using a Dockerfile and SQLite!
+https://github.com/fly-apps/nodejs-planetscale-read-replicas # A sample Node.js app that uses a Planetscale database with additional read-only regions
+https://github.com/fly-apps/ssh-app # Run an SSH server to connect your privately networked Database apps to things like BI tools
+https://github.com/fly-apps/autoscale-to-zero-demo #
+https://github.com/fly-apps/hello-fly #
+https://github.com/fly-apps/live-elements-demo # Live Elements Demo
+https://github.com/fly-apps/rqlite #
+https://github.com/fly-apps/hello-create-react-app #
+https://github.com/fly-apps/hello-django # Example project demonstrating how to deploy a Django app to Fly.io.
+https://github.com/fly-apps/code-server-dev-environment #
+https://github.com/fly-apps/cog-sd3 # Run Stable Diffusion 3 Medium as a Replicate Cog on Fly.io
+https://github.com/fly-apps/how2make # Ever wanted to replicate an sandwich from what it looks like? Wych has your back!
+https://github.com/fly-apps/laravel-worker # Auto-scaled Laravel queue workers on Fly.io
+https://github.com/fly-apps/fly-nextjs-template # A Next.js template for deploying on Fly.io with continious deployment (auto-deploys) and review apps.
+https://github.com/fly-apps/buildkite-agent # Run a Buildkite agent on Fly with disk caching
+https://github.com/fly-apps/udp-echo- # Sample TCP/UDP Echo Service
+https://github.com/fly-apps/ComfyUI-demo #
+https://github.com/fly-apps/hello-remix # Sample Remix app setup for deployment on Fly.io
+https://github.com/fly-apps/tcp-echo # TCP echo service for testing things that TCP
+https://github.com/fly-apps/cog-whisper # Run OpenAI Whisper as a Cog model on Fly GPUs
+https://github.com/fly-apps/fly-laravel-litefs # Guide on deploying multiple instances of a Laravel Fly app
+https://github.com/fly-apps/replicache-websocket #
+https://github.com/fly-apps/dockerfile-django # Dockerfile generator for Django
+https://github.com/fly-apps/colab-gpu-runtime # Connect your Google Colaboratory to a runtime on Fly GPUs
+https://github.com/fly-apps/fly-lucky # Crystal Lucky Framework app for Fly.io deployment
+https://github.com/fly-apps/fly-autoscaler-temporal-example # An example of Fly.io autoscaling using Temporal
+https://github.com/fly-apps/postgres-standalone # Standalone Postgres on Fly
+https://github.com/fly-apps/localai-demo # LocalAI demo app on Fly.io
+https://github.com/fly-apps/node-dictaphone # A sample MDN Web Docs app that records audio snippets, with an Express/Tigris backend.
+https://github.com/fly-apps/fly-autoscaler-example # An example of the autoscaler with mock workers & a metrics generator.
+https://github.com/fly-apps/phoenix-recipe-sync-url-with-form #
+https://github.com/fly-apps/hello-fastapi # Example project demonstrating how to deploy a FastAPI app to Fly.io.
+https://github.com/fly-apps/open-pickle-jar # Demo app showing for delegating tasks on Fly.io machines.
+https://github.com/fly-apps/hello-django-postgres #
+https://github.com/fly-apps/livebook-with-auto-volume-extension-example #
+https://github.com/fly-apps/nix-builder # Tooling and Docker image for building on Fly with Nix
+https://github.com/fly-apps/hahooks-go # Incoming webhook handler example
+https://github.com/fly-apps/truefacts # A Postgres-backed REST API in Node.js
+https://github.com/fly-apps/litevfs-demo # LiteVFS demo on Fly and Vercel
+https://github.com/fly-apps/flycurl #
+https://github.com/fly-apps/fly-replay-js # An example VanillaJS app showing off `fly-replay`
+https://github.com/fly-apps/boomer # Lovers of boom unite
+https://github.com/fly-apps/systemd-test # Run systemd on Fly.io
+https://github.com/fly-apps/livebook-on-gpu-demo # Livebook running on Fly.io GPUs
+https://github.com/fly-apps/distributed-warp # App for running warp s3 tests across multiple Fly regions
+https://github.com/fly-apps/hello-django-fly # Example project demonstrating how to deploy a Django app to Fly.io.
+https://github.com/fly-apps/js-sqlite-in-tigris # Demo with SQLite DB stored in a Tigris bucket
+https://github.com/fly-apps/hello-gunicorn-flask #
+https://github.com/fly-apps/astro-streaming #
+https://github.com/fly-apps/phoenix-dictaphone # A sample MDN Web Docs app that records audio snippets, using Phoenix and Tigris.
+https://github.com/fly-apps/pulumi-provider-fly #
+https://github.com/fly-apps/hello-flask-poetry #
+https://github.com/fly-apps/nodegrpc # An example Node/gRPC client and server configured for the Fly Global Applications Platform
+https://github.com/fly-apps/helloruby-builtin # A short Ruby/Sinatra example used with the guide to deploying Ruby apps on Fly
+https://github.com/fly-apps/fly-iac-intro-tutorial #
+https://github.com/fly-apps/faster-whisper-demo # Faster Whisper demo Fly.io app
+https://github.com/fly-apps/hello-phoenix # A Phoenix Elixir sample app ready for deployment on Fly.io
+https://github.com/fly-apps/sandwich-chatbot #
+https://github.com/fly-apps/flycast-timeouts # Test Redis timeouts
+https://github.com/fly-apps/dockerfile-laravel-tigris-bucket-middleman # This application uploads standalone executables of dockerfile-laravel to a Tigris Bucket
+https://github.com/fly-apps/fly-autoscaler-multiapp-example # An example of the autoscaler scaling multiple apps in an organization.
+https://github.com/fly-apps/nats_cable #
+https://github.com/fly-apps/rack-env-test # Tiny backup to play around with a Rack::Request behind the Fly proxy
+https://github.com/fly-apps/sqlite-threading # Looking at sqlite threading issues
+https://github.com/fly-apps/basaran-demo # Hyperonym's Basaran demo app on Fly.io
+https://github.com/fly-apps/vllm-demo # @vllm-project vllm.ai demo app on Fly.io
+https://github.com/fly-apps/django-dictaphone # A sample MDN Web Docs app that records audio snippets, with an Django/Tigris backend.
+https://github.com/fly-apps/fly-launch-laravel-bases # Basic setup for different Laravel framework versions
+https://github.com/fly-apps/oban_example # Oban running in a global cluster with some read replicas too
+https://github.com/fly-apps/olric # Drop-in memory-only distributed caching with Redis API compatibility
+https://github.com/fly-apps/laravel-pulse-card-fly-metrics #
+https://github.com/fly-apps/udp-echo-app # UDP echo app
+https://github.com/fly-apps/hello-redwood # Example RedwoodJS app for deployment on Fly.io
+https://github.com/fly-apps/hello-django-4.2 #
+https://github.com/fly-apps/headless-steam # A demo app on how to run @Steam-headless on Fly.io GPU machines
+https://github.com/fly-apps/hello-streamlit #
+https://github.com/fly-apps/laravel-dictaphone # A sample MDN Web Docs app that records audio snippets, with a Laravel/Tigris backend.
+https://github.com/fly-apps/flame-for-javascript # A sample FLAME app in vanilla JavaScript
+https://github.com/fly-apps/fly-launch-laravel # For testing the `fly launch` command after cloning a Laravel repository
+https://github.com/fly-apps/go-example-tigris # A sample Go web app that showcases connection to a Tigris bucket using AWS SDK for Go.
+https://github.com/fly-apps/nginx-auth # A sample Fly app to place basic authentication in front of another app
+https://github.com/fly-apps/remix-actions-test # Actions test
+https://github.com/fly-apps/hello-vim-nano # A minimal app you can fly ssh console into just to play with
+https://github.com/fly-apps/log-hello # Small Go program to run on a Fly Machine. Prints a greeting to stdout, showing the Fly App name and the code for the region it's running in.
+https://github.com/fly-apps/fly-replay-proxy-example # Example of a "proxy" returning a fly-replay header to replay requests across your Fly infrastructure.
+https://github.com/fly-apps/nextjs-dictaphone # A sample MDN Web Docs app that records audio snippets, using Next.js and Tigris.
+
+https://github.com/superfly/litefs # FUSE-based file system for replicating SQLite databases across a cluster of machines
+https://github.com/superfly/fly # Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
+https://github.com/superfly/corrosion # Gossip-based service discovery (and more) for large distributed systems.
+https://github.com/superfly/fly-log-shipper # Ship logs from fly to other providers
+https://github.com/superfly/flyctl-actions # GitHub Action that wraps the flyctl
+https://github.com/superfly/init-snapshot # Fly
+https://github.com/superfly/litefs-example # An example of deploying LiteFS on Fly.io.
+https://github.com/superfly/fly_rpc_elixir # Makes it easier to build distributed Elixir applications on the Fly.io platform. Adds region awareness to an app
+https://github.com/superfly/litevfs # LiteFS VFS SQLite extension for serverless environments
+https://github.com/superfly/rchab # Fly.io Remote Builder (Remote Controlled Hot Air Balloon)
+https://github.com/superfly/elixir-hiring-project # This is a sample project we use to assess Elixir/Phoenix/LiveView skills
+https://github.com/superfly/fly-node # Node.js Express-compatible middleware for enhancing apps deployed on Fly.io
+https://github.com/superfly/dropspy # Go implementation of the venerable dropwatch utility
+https://github.com/superfly/tired-proxy # An http proxy that's just too tired and eventually shuts down
+https://github.com/superfly/fly-autoscaler # A metrics-based autoscaler for Fly.io
+https://github.com/superfly/bfaas # Bash functions-as-a-service
+https://github.com/superfly/burn # HTTP load testing tool
+https://github.com/superfly/fly-go # Go client for the Fly.io API
+https://github.com/superfly/onehostname # A Fly Edge Application for combining a bunch of different backends under one hostname
+https://github.com/superfly/gravitas #
+https://github.com/superfly/machine-proxy # PoC HTTP proxy for scale-to-zero apps via the Fly machines API
+https://github.com/superfly/fly-checks # Basic health-check framework
+https://github.com/superfly/image-processing #
+https://github.com/superfly/multi-cloud-haproxy #
+https://github.com/superfly/wordpress-image-optimizer #
+https://github.com/superfly/llm-describer # A simple image describer service using Ollama and PocketBase
+https://github.com/superfly/dns-help # Instructions for pointing a domain at your Fly edge application
+https://github.com/superfly/ghost-accelerator #
+https://github.com/superfly/litefs-node # A Node.js library for interacting with LiteFS.
+https://github.com/superfly/litefs-ruby # Ruby library for interacting with LiteFS.
+https://github.com/superfly/cee-dee-en # A basic CDN example using a Fly Edge App
+https://github.com/superfly/macaroon-elixir # Elixir library for attenuating Fly.io macaroons
+https://github.com/superfly/rust-templates #
+https://github.com/superfly/fly-heroku-buildpack # Heroku buildpack that automatically connects apps to Fly.io
+https://github.com/superfly/aws-lambda-express-example # A light-weight example of AWS Lambda, using Express.js and Claudia.js.
+https://github.com/superfly/fileserver # Simple and dockerized fasthttp-based fileserver
+https://github.com/superfly/lfsc-go # Go client for LiteFS Cloud
+https://github.com/superfly/csharp-example # Deploy an example C# app to Fly
+https://github.com/superfly/fly-docker-example # Demonstrates horizontal scaling with Docker/Nginx and Docker/Fly.
+https://github.com/superfly/domain-reseller-guide #
+https://github.com/superfly/cookiebot # Example macaroon discharge service
+https://github.com/superfly/glitch-custom-hostnames # Run any glitch app with a custom hostname
+https://github.com/superfly/tipe-react-edge # Rendering Tipe API responses with React on the edge
+https://github.com/superfly/ruby-example # Deploy an example Ruby app to Fly
+https://github.com/superfly/redis-cache-example #
+https://github.com/superfly/ab-test-example-app #
+https://github.com/superfly/api-versioning #
+https://github.com/superfly/pushpin-example # Pushpin on Fly
+https://github.com/superfly/go-example # Deploy an example Go app to Fly
+https://github.com/superfly/fly-on-deno #
+https://github.com/superfly/fsmap # Go module to list free block ranges on Linux filesystems by calling the `GETFSMAP` ioctl.
+https://github.com/superfly/fly-rust-axum-starter #
+https://github.com/superfly/responsive-images # Make images on any app responsive
+https://github.com/superfly/middleware #
+https://github.com/superfly/buildpacks # Buildpacks for Fly
+https://github.com/superfly/fly.docs # Auto generated docs for superfly/fly
+https://github.com/superfly/sinatra-example #
+https://github.com/superfly/tlstest #
+https://github.com/superfly/fly-mockdns # A DNS server with mock entries for testing Fly private networking in CI
+https://github.com/superfly/fly-postgres-healthcheck # An embeddable Go binary to run health checks against global Postgres replicas
+https://github.com/superfly/gpu-burn-app # A Fly app to stress GPU cards
+https://github.com/superfly/x15 # Sekrit test plane
+https://github.com/superfly/actioncable_redis-reconnect # A patch for ActionCable Redis that reconnects after it disconnects
+https://github.com/superfly/flyctl-dev # Repository for housing development releases of the Fly.io CLI
+https://github.com/superfly/aws-functions #
+https://github.com/superfly/fly-example-busted-pods #

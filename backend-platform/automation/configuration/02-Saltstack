@@ -1,0 +1,272 @@
+https://github.com/saltstack/salt # Software to automate the management and configuration of any infrastructure or application at scale.
+https://github.com/saltstack/salt-bootstrap # Generic Salt Bootstrap Script
+https://github.com/saltstack/pepper # A library and stand-alone CLI tools to access a salt-api instance
+https://github.com/saltstack/kitchen-salt # SaltStack provisioner for test-kitchen
+https://github.com/saltstack/salt-winrepo-ng # Jinja templated winrepo
+https://github.com/saltstack/libnacl # Python ctypes wrapper for libsodium
+https://github.com/saltstack/salt-ci-images # Salt states used to create AWS AMI's
+https://github.com/saltstack/pytest-helpers-namespace # PyTest Helpers Namespace
+https://github.com/saltstack/community # SaltStack Community
+https://github.com/saltstack/salt-windows-msi # Windows MSI installer build toolkit
+https://github.com/saltstack/salt-pylint # PyLint Plugins Used In SaltStack's Projects
+https://github.com/saltstack/relenv # Re-producible and Re-relocatable Python Environments
+https://github.com/saltstack/pytest-salt-factories # PyTest Salt Factories Plugin
+https://github.com/saltstack/salt-ext-modules-vmware # Salt Extension Modules for VMware
+https://github.com/saltstack/awesome-saltproject # A collaborative curated list of awesome Salt Project resources, tutorials and other salted stuff
+https://github.com/saltstack/salt-get-started # Content source files for the SaltStack Get Started Guide.
+https://github.com/saltstack/pytest-shell-utilities # Simple pytest(pytest.org) plugin which provides fixtures and code to help with running shell commands on tests
+https://github.com/saltstack/salt-describe # Automated infrastructure-as-code using Salt
+https://github.com/saltstack/salt-analytics-framework # Salt Analytics Framework
+https://github.com/saltstack/pip-tools-compile-impersonate # Pre-commit pip-compile wrapper capabable of "impersonating" platforms
+https://github.com/saltstack/istr # Case-insensitive string matching
+https://github.com/saltstack/pr-commands # Commands used on PRs
+https://github.com/saltstack/python-tools-scripts # Python Tools Scripts
+https://github.com/saltstack/salt-ci-containers # Containers Used In Salt's Test Suite
+https://github.com/saltstack/pytest-system-statistics # Pytest Plugin Which Reports System Usage Statistics
+https://github.com/saltstack/salt-jenkins-pipeline-libs # Salt Jenkins Pipeline Libraries
+https://github.com/saltstack/relenv-gdb-debug # Debug a running salt process
+https://github.com/saltstack/pytest-skip-markers # A Pytest plugin which implements a few useful skip markers
+https://github.com/saltstack/saltext-presentation # Presentation Test Extension
+https://github.com/saltstack/salt-extensions-index # Tools to generate an extension index with Salt and Python compatability information
+https://github.com/saltstack/salt-windows-nsis # Scripts for building a NullSoft Salt installer for Windows
+https://github.com/saltstack/salt-ext-heist # Salt Extension for Heist
+https://github.com/saltstack/salt-test-suite-ansible-playbooks # This repository is used for testing running ansible playbooks from SaltStack orchestration
+https://github.com/saltstack/pre-commit-remove-import-headers # Pre-commit hook which removes import header comments from python files
+https://github.com/saltstack/ppbt # Toolchains for building portable python interpreters and extensions
+https://github.com/saltstack/invoke-pre-commit # Pre-Commit Invoke mirror
+https://github.com/saltstack/great-module-migration #
+https://github.com/saltstack/soluble #
+https://github.com/saltstack/mirrors-nox # Pre-Commit Mirror For The Nox Project
+https://github.com/saltstack/salt-rewrite # A set of Bowler code to rewrite parts of Salt
+https://github.com/saltstack/saltbox # A easy way to get a salt environment
+https://github.com/saltstack/salt-test-pillar-gitfs # test pillar repo
+https://github.com/saltstack/salt-test-pillar-gitfs-2 #
+
+https://github.com/saltstack-formulas/kubernetes-formula # Salt formula to manage kubernetes
+
+https://github.com/saltstack-formulas/napalm-install-formula # Salt formula to install the necessary packages and system dependencies for NAPALM
+https://github.com/saltstack-formulas/napalm-ntp-formula # Formula to manage the NTP configuration on network devices, following the OpenConfig system YANG model
+https://github.com/saltstack-formulas/napalm-logging-formula # Formula to manage the logging configuration on network devices, following the OpenConfig YANG model
+https://github.com/saltstack-formulas/napalm-bgp-formula # Formula to manage the BGP configuration on network devices, following the OpenConfig YANG model
+https://github.com/saltstack-formulas/napalm-snmp-formula # Formulas to configure SNMP on network devices managed through NAPALM
+https://github.com/saltstack-formulas/napalm-lldp-formula # Formula to manage the LLDP configuration on network devices, following the OpenConfig YANG model
+https://github.com/saltstack-formulas/napalm-interfaces-formula # Formula to manage the interfaces configuration on network devices, following the OpenConfig YANG model
+https://github.com/saltstack-formulas/napalm-users-formula # Formula to manage the users configuration on network devices, following the OpenConfig system YANG model
+
+https://github.com/saltstack-formulas/salt-formula # Yes, Salt can Salt itself!
+https://github.com/saltstack-formulas/nginx-formula # Nginx Salt Formula
+https://github.com/saltstack-formulas/docker-formula # Install and set up Docker
+https://github.com/saltstack-formulas/template-formula # SaltStack formula template filled with dummy content
+https://github.com/saltstack-formulas/users-formula # Configure users via pillar
+https://github.com/saltstack-formulas/openssh-formula #
+https://github.com/saltstack-formulas/mysql-formula # Install the MySQL client and/or server
+https://github.com/saltstack-formulas/postgres-formula #
+https://github.com/saltstack-formulas/ec2-autoscale-reactor # Autonomous Minion Management via EC2 Autoscaler
+https://github.com/saltstack-formulas/php-formula #
+https://github.com/saltstack-formulas/zabbix-formula #
+https://github.com/saltstack-formulas/apache-formula # Set up and configure the Apache HTTP server
+https://github.com/saltstack-formulas/jenkins-formula #
+https://github.com/saltstack-formulas/django-formula #
+https://github.com/saltstack-formulas/sudoers-formula #
+https://github.com/saltstack-formulas/redis-formula # Redis state
+https://github.com/saltstack-formulas/fail2ban-formula #
+https://github.com/saltstack-formulas/os-hardening-formula #
+https://github.com/saltstack-formulas/hadoop-formula #
+https://github.com/saltstack-formulas/salt-cloud-reactor # Autonomous Minion Management via Salt Cloud
+https://github.com/saltstack-formulas/openvpn-formula # Setup and configure openvpn server and client.
+https://github.com/saltstack-formulas/hostsfile-formula # Use minion IDs to keep /etc/hosts and hostnames consistent for clusters without DNS
+https://github.com/saltstack-formulas/mongodb-formula #
+https://github.com/saltstack-formulas/iptables-formula #
+https://github.com/saltstack-formulas/bind-formula #
+https://github.com/saltstack-formulas/gitlab-formula #
+https://github.com/saltstack-formulas/haproxy-formula #
+https://github.com/saltstack-formulas/prometheus-formula # Manage a Prometheus installation
+https://github.com/saltstack-formulas/zookeeper-formula #
+https://github.com/saltstack-formulas/node-formula # Manage node.js with SaltStack
+https://github.com/saltstack-formulas/apt-formula #
+https://github.com/saltstack-formulas/postfix-formula #
+https://github.com/saltstack-formulas/epel-formula # Install the EPEL RPM and GPG key
+https://github.com/saltstack-formulas/sun-java-formula # Flexible provisioning for JDK and JRE tarballs
+https://github.com/saltstack-formulas/consul-formula # Formula to install and configure Hashicorp Consul
+https://github.com/saltstack-formulas/ntp-formula #
+https://github.com/saltstack-formulas/logstash-formula #
+https://github.com/saltstack-formulas/systemd-formula #
+https://github.com/saltstack-formulas/logrotate-formula #
+https://github.com/saltstack-formulas/openstack-standalone-formula # Single Server OpenStack
+https://github.com/saltstack-formulas/rabbitmq-formula #
+https://github.com/saltstack-formulas/lxd-formula #
+https://github.com/saltstack-formulas/elasticsearch-formula #
+https://github.com/saltstack-formulas/nagios-formula # nagios-formula
+https://github.com/saltstack-formulas/collectd-formula #
+https://github.com/saltstack-formulas/libvirt-formula #
+https://github.com/saltstack-formulas/icinga2-formula #
+https://github.com/saltstack-formulas/aptly-formula #
+https://github.com/saltstack-formulas/nfs-formula #
+https://github.com/saltstack-formulas/sysctl-formula # Saltstack sysctl formula,
+https://github.com/saltstack-formulas/snmp-formula #
+https://github.com/saltstack-formulas/samba-formula #
+https://github.com/saltstack-formulas/tomcat-formula #
+https://github.com/saltstack-formulas/graphite-formula #
+https://github.com/saltstack-formulas/vault-formula #
+https://github.com/saltstack-formulas/syslog-ng-formula #
+https://github.com/saltstack-formulas/memcached-formula #
+https://github.com/saltstack-formulas/ceph-formula #
+https://github.com/saltstack-formulas/vmware-tools-formula #
+https://github.com/saltstack-formulas/tinc-formula # tinc formula
+https://github.com/saltstack-formulas/keepalived-formula #
+https://github.com/saltstack-formulas/apt-cacher-formula #
+https://github.com/saltstack-formulas/resolver-formula #
+https://github.com/saltstack-formulas/java-formula #
+https://github.com/saltstack-formulas/openldap-formula #
+https://github.com/saltstack-formulas/packages-formula # A simple 'packages manager' formula, to install/remove packages without further ado.
+https://github.com/saltstack-formulas/squid-formula #
+https://github.com/saltstack-formulas/virtualenv-formula #
+https://github.com/saltstack-formulas/grafana-formula # Manage Grafana via Salt
+https://github.com/saltstack-formulas/tmux-formula #
+https://github.com/saltstack-formulas/uwsgi-formula # Salt formula to manage uwsgi
+https://github.com/saltstack-formulas/reverse-users-formula #
+https://github.com/saltstack-formulas/openvpn-client-formula # A saltstack formula for pushing keys and config to openvpn clients.
+https://github.com/saltstack-formulas/dnsmasq-formula #
+https://github.com/saltstack-formulas/dhcpd-formula #
+https://github.com/saltstack-formulas/python2-formula #
+https://github.com/saltstack-formulas/kafka-formula #
+https://github.com/saltstack-formulas/newrelic-formula #
+https://github.com/saltstack-formulas/piwik-formula #
+https://github.com/saltstack-formulas/screen-formula #
+https://github.com/saltstack-formulas/cloudstack-formula #
+https://github.com/saltstack-formulas/owncloud-formula #
+https://github.com/saltstack-formulas/backuptocloud-formula # http://docs.saltstack.com/topics/conventions/formulas.html
+https://github.com/saltstack-formulas/opendkim-formula # Salt-Stack formula for opendkim
+https://github.com/saltstack-formulas/munin-formula # Saltstack formula for munin and munin-node
+https://github.com/saltstack-formulas/nexus-formula # Provision Sonatype Nexus with Saltstack
+https://github.com/saltstack-formulas/wireguard-formula # Manages wireguard installations
+https://github.com/saltstack-formulas/powerdns-formula #
+https://github.com/saltstack-formulas/mounts-formula # SaltStack formula for managing mounts
+https://github.com/saltstack-formulas/varnish-formula #
+https://github.com/saltstack-formulas/dovecot-formula #
+https://github.com/saltstack-formulas/pip-formula #
+https://github.com/saltstack-formulas/crontab-formula # saltstack formula to manage crontab
+https://github.com/saltstack-formulas/eramba-formula #
+https://github.com/saltstack-formulas/bareos-formula # A Saltstack formula to install and configure Bareos  
+https://github.com/saltstack-formulas/reverse-grains-formula #
+https://github.com/saltstack-formulas/ad-formula # Join computer to an Active Directory
+https://github.com/saltstack-formulas/sysstat-formula #
+https://github.com/saltstack-formulas/mediawiki-formula # MediaWiki
+https://github.com/saltstack-formulas/linux-dev-formula # Development files for linux
+https://github.com/saltstack-formulas/moosefs-formula #
+https://github.com/saltstack-formulas/drupal-formula #
+https://github.com/saltstack-formulas/ruby-formula #
+https://github.com/saltstack-formulas/chef-formula #
+https://github.com/saltstack-formulas/proftpd-formula #
+https://github.com/saltstack-formulas/cassandra-formula #
+https://github.com/saltstack-formulas/opencrowbar-formula # Formulae for setting up OpenCrowbar
+https://github.com/saltstack-formulas/nano-formula #
+https://github.com/saltstack-formulas/packer-formula #
+https://github.com/saltstack-formulas/plex-formula # Salt formula: Plex Media Server
+https://github.com/saltstack-formulas/build-essential-formula # Required for various Debian packages
+https://github.com/saltstack-formulas/lua-formula #
+https://github.com/saltstack-formulas/rkhunter-formula # Rkhunter Salt Formula
+https://github.com/saltstack-formulas/opensds-formula # Integration with Open Software Defined Storage - Capri release - SuSE/CentOS/Ubuntu
+https://github.com/saltstack-formulas/rspamd-formula # Formula to manage and configure rspamd
+https://github.com/saltstack-formulas/ssh-formula #
+https://github.com/saltstack-formulas/maven-formula # A minimalistic way to install just the maven distribution without any dependencies
+https://github.com/saltstack-formulas/telegraf-formula #
+https://github.com/saltstack-formulas/metricbeat-formula # Formula for managing Metricbeat
+https://github.com/saltstack-formulas/oxidized-formula #
+https://github.com/saltstack-formulas/ec2-conf # Example Salt Cloud configuration for EC2
+https://github.com/saltstack-formulas/gitolite-formula #
+https://github.com/saltstack-formulas/dirvish-formula # Saltstack Formula to configure dirvish
+https://github.com/saltstack-formulas/suricata-formula # A saltstack formula to install suricata on RHEL or Ubuntu based systems
+https://github.com/saltstack-formulas/salt-docs-formula #
+https://github.com/saltstack-formulas/wso2-formula #
+https://github.com/saltstack-formulas/ddclient-formula #
+https://github.com/saltstack-formulas/vmware-conf # Example Salt Cloud configuration for VMware
+https://github.com/saltstack-formulas/accumulo-formula # Provision Apache Accumulo - a secure key-value store on top of Apache Hadoop and Zookeeper
+https://github.com/saltstack-formulas/nut-formula # A Saltstack formula to install and configure NUT (Network UPS Tools)
+https://github.com/saltstack-formulas/frr-formula # Salt formula to handle FRRouting
+https://github.com/saltstack-formulas/gerrit-formula #
+https://github.com/saltstack-formulas/ejabberd-formula #
+https://github.com/saltstack-formulas/riak-formula # Install and manage Riak
+https://github.com/saltstack-formulas/vscode-formula # Deploy Visual Studio Code on MacOS and GNU/Linux using Salt @ https://github.com/saltstack-formulas/vscode-formula
+https://github.com/saltstack-formulas/debootstrap-formula # Saltstack Formula to create chroots of Debian based distributions
+https://github.com/saltstack-formulas/keystone-formula #
+https://github.com/saltstack-formulas/svn-formula #
+https://github.com/saltstack-formulas/openntpd-formula # Manage openntpd (http://openntpd.org/) via salt
+https://github.com/saltstack-formulas/dehydrated-formula # Salt formula for the dehydrated ACME client
+https://github.com/saltstack-formulas/vagrant-formula # Salt formula: HashiCorp Vagrant
+https://github.com/saltstack-formulas/pam-ldap-formula #
+https://github.com/saltstack-formulas/airflow-formula # Apache Airflow flexible formula
+https://github.com/saltstack-formulas/perl-formula #
+https://github.com/saltstack-formulas/redmine-formula #
+https://github.com/saltstack-formulas/pacemaker-corosync-formula #
+https://github.com/saltstack-formulas/clamav-formula # saltstack clamav formula
+https://github.com/saltstack-formulas/emacs-formula #
+https://github.com/saltstack-formulas/gce-formula #
+https://github.com/saltstack-formulas/djbdns-formula #
+https://github.com/saltstack-formulas/smokeping-formula # http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html
+https://github.com/saltstack-formulas/haveged-formula # Salt formula to manage haveged
+https://github.com/saltstack-formulas/mercurial-formula #
+https://github.com/saltstack-formulas/charles-formula # Deploy Charles (proxy) on GNU/Linux and MacOS using Salt
+https://github.com/saltstack-formulas/avahi-formula #
+https://github.com/saltstack-formulas/xinetd-formula #
+https://github.com/saltstack-formulas/git-annex-formula #
+https://github.com/saltstack-formulas/puppet-formula # puppet-formula
+https://github.com/saltstack-formulas/sbuild-formula # Saltstack Formula to configure sbuild
+https://github.com/saltstack-formulas/sphinx-doc-formula #
+https://github.com/saltstack-formulas/dansguardian-formula #
+https://github.com/saltstack-formulas/latex-formula #
+https://github.com/saltstack-formulas/zendserver-formula #
+https://github.com/saltstack-formulas/plone-formula #
+https://github.com/saltstack-formulas/lighttpd-formula # Salt formula to manage lighttpd
+https://github.com/saltstack-formulas/emby-formula # Salt formula: Emby Server
+https://github.com/saltstack-formulas/gce-conf # Example Salt Cloud configuration for GCE
+https://github.com/saltstack-formulas/ssf-docker-images # Docker images for SaltStack formula testing
+https://github.com/saltstack-formulas/polycom-formula #
+https://github.com/saltstack-formulas/sqlplus-formula # Repo for Oracle sqlplus (branded InstantClient)
+https://github.com/saltstack-formulas/aegir-formula # Install and configure the Ægir Hosting System to manage Drupal sites
+https://github.com/saltstack-formulas/backupninja-formula # Configure backupninja using SaltStack Pillar
+https://github.com/saltstack-formulas/couchdb-formula # Salt-formula for couchdb
+https://github.com/saltstack-formulas/schroot-formula # Saltstack Formula to configure schroot
+https://github.com/saltstack-formulas/halite-formula #
+https://github.com/saltstack-formulas/erlang-formula #
+https://github.com/saltstack-formulas/sqldeveloper-formula #
+https://github.com/saltstack-formulas/lldpd-formula # Salt formula to configure Link Layer Discovery Protocol
+https://github.com/saltstack-formulas/thrift-formula #
+https://github.com/saltstack-formulas/remi-formula #
+https://github.com/saltstack-formulas/nscd-formula #
+https://github.com/saltstack-formulas/msdtc-formula #
+https://github.com/saltstack-formulas/rinetd-formula #
+https://github.com/saltstack-formulas/dbeaver-formula # Deploy DBeaver Community on GNU/Linux and MacOS
+https://github.com/saltstack-formulas/qpid-formula #
+https://github.com/saltstack-formulas/eclipse-formula #
+https://github.com/saltstack-formulas/jdbc-formula # jdbc-formula
+https://github.com/saltstack-formulas/canvas-formula # Production install of Canvas by Instructure
+https://github.com/saltstack-formulas/unbound-formula #
+https://github.com/saltstack-formulas/unitrends-agent-formula # formula for deploying the unitrends backup agent
+https://github.com/saltstack-formulas/workinggroup #
+https://github.com/saltstack-formulas/lxc-formula # Formula to manage Linux containers
+https://github.com/saltstack-formulas/nextcloud-formula # Mange Nextcloud Installations
+https://github.com/saltstack-formulas/yed-formula # Deploy yEd Graph Editor on MacOS and GNU/Linux with salt
+https://github.com/saltstack-formulas/rdp-formula #
+https://github.com/saltstack-formulas/jmxtrans-formula #
+https://github.com/saltstack-formulas/sugarcrm-formula # A saltstack formula to install and configure SugarCRm, a customer relationship management (CRM) system
+https://github.com/saltstack-formulas/aptmirror-formula # SaltStack formula for managing apt package mirrors
+https://github.com/saltstack-formulas/josm-formula # Deploy JSOM for OSM and OHM on GNU/Linux and MacOS using Salt
+https://github.com/saltstack-formulas/eucalyptus-formula # Set up and configure Eucalyptus Cloud
+https://github.com/saltstack-formulas/sogo-formula # Salt formula: SOGo
+https://github.com/saltstack-formulas/rng-tools-formula #
+https://github.com/saltstack-formulas/saltify-conf # Example Salt Cloud configuration for Saltify
+https://github.com/saltstack-formulas/nsd-formula # Manage NSD
+https://github.com/saltstack-formulas/twemproxy-formula #
+https://github.com/saltstack-formulas/boundary-formula # Install Boundary.com bprobe client
+https://github.com/saltstack-formulas/cherrypy-formula #
+https://github.com/saltstack-formulas/nifi-formula #
+https://github.com/saltstack-formulas/pam-mount-formula # Configure pam-mount volumes
+https://github.com/saltstack-formulas/pimpmylog-formula # A SaltStack formula to install and configure PimpMyLog, a web-based log viewer
+https://github.com/saltstack-formulas/gasmask-formula # Install GasMask on MacOS with Saltstack
+https://github.com/saltstack-formulas/mirrors-rst-lint #
+https://github.com/saltstack-formulas/caddy-formula # A formula to manage the caddy web server
+https://github.com/saltstack-formulas/carbon-relay-ng-formula # A saltstack formula to install and configure carbon-relay-ng
+https://github.com/saltstack-formulas/test-formula # **_Testing repo only -- do not fork -- liable to be rebased/deleted at any time_**
+https://github.com/saltstack-formulas/diaspora-formula # A saltstack formula to install and configure diaspora\*
+https://github.com/saltstack-formulas/rlang-formula # Deploy R on MacOS and GNU/Linux using Salt

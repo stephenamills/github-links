@@ -1,0 +1,118 @@
+https://github.com/alloytools/models # several technologies, eight puzzles, and much more
+https://github.com/kaiyuanw/mualloy # n queens, binary tree, linked list, farmer crossing river, halmos handshake
+https://github.com/mk12/zeldalloy # Zelda puzzles
+https://github.com/rytisgit/alloytest/ # five people ChatGPT riddle
+https://github.com/lorin/alloy-fish # who own the fish problem
+https://github.com/badboy/puzzles # puzzles
+https://github.com/rezaazimi1/sudoku-model-in-alloy # sudoku
+https://github.com/hosseink77/alloyproject2/ # sudoku
+
+https://github.com/leonidsh119/scheduller-model/ # scheduler
+https://github.com/sanchitmonga22/Software-Modeling/ # scheduler
+https://github.com/sal-sin/kafka-alloy/ # Kafka
+https://github.com/cisc422/alloy-sample-models # binary tree, lists, stacks, topological sort
+https://github.com/YoinkBird/alloy_learn/ # red black tree
+https://github.com/gracejiang16/bellmanford-adhoc # shortest path
+https://github.com/avanhatt/minimum-spanning-trees-alloy # minimum spanning tree of a graph
+https://github.com/paulwarnick21/prims-algorithm-alloy # minimum spanning tree of a graph
+http://www.doc.ic.ac.uk/project/examples/2007/271j/suprema_on_alloy/report.pdf # hashmap, seven bridges of konisberg
+https://github.com/jthemphill/permission-model # filesystem tree
+https://github.com/IagoAbal/darcs-alloy/ # version control
+https://github.com/vitorhugo13/feup-mfes/ # graph, stack
+
+https://github.com/devd/websecmodel # web security model
+https://github.com/vinahradau/misc/ # network ACL, role/discretionary/mandatory access control (RBAC, DAC, and MAC)
+https://github.com/iotauth/security_analysis/ # security analysis of Swarm Toolkit
+https://github.com/mohannadcse/iotcom # exploits
+https://github.com/nicoatuni/smart-contract-vuln # smart contract exploit
+https://github.com/ctrippel/checkmate # chip microarchitecture exploits
+
+https://github.com/dihfahsih1/distributed-social-network # social network
+https://github.com/vinahradau/misc # social network (members, friendships, posts, likes), barber paradox
+https://github.com/gabrielsvinha/dropbox-alloy # Dropbox
+https://github.com/huanhulan/alloy-exercises # Amazon S3
+https://github.com/gabrielsvinha/ghcli-formal-decription/ # Android client for GitHub
+https://github.com/taygumus/safe-streets/ # crowdsourced reporting website
+https://github.com/joaossmacedo/Formal-Methods/ # bug report website
+https://github.com/occiware/fclouds-framework/ # cloud APIs like for Google Cloud, interesting but machine-generated
+
+https://github.com/asvarga/alloy-algebra/ # groups, graphs
+https://github.com/fellenex/phrasestructure # linguistics x bar theory
+https://github.com/marcelo140/monopoly/ # Monopoly game
+https://github.com/rossgore/alloy-tutorial # Pacman game
+https://github.com/lorin/alloy-consistency # eventual consistency
+https://github.com/lorin/alloy-consistency-models # consistency models of transactional databases
+https://github.com/orm011/tablespec/ # database table
+https://github.com/bradford-smith94/alloy-raft # Raft (pretty simple)
+https://github.com/lorin/paxos-poec # Paxos
+https://github.com/soarescecilia/paxosalgorithms # Paxos
+https://github.com/thalesmg/2pc-alloy # commit
+https://github.com/bolt12/alloy-pastry-dht # DHT Pastry protocol
+https://github.com/pron/amazon-snapshot-spec # database isolation
+https://github.com/lorin/dns-alloy # DNS
+https://github.com/fredzqm/tcp-verification/ # TCP
+https://github.com/pastorsj/rdtprotocol/ # reliable data transfer protocol
+https://github.com/hazzargm/373-formal-methods-project # reliable data transfer protocol
+https://github.com/facumolina/ga-optodeclspecs # transpiles a programming language to Alloy
+https://github.com/dgpv/miniscript-alloy-spec # Bitcoin scripts
+https://github.com/J-Savela/tilpelabra/ # network (?)
+https://github.com/rodamber/ss/ # cars and rides (?)
+https://github.com/alvesmatheus/modelagem-logica # apartment (?)
+https://github.com/redacted-moose/csse373-project/
+https://github.com/geosef/csse373-project
+
+https://github.com/xbreu/automotive-system/ # safety-critical case study of car acceleration and lighting control systems, Alloy and Dafny
+https://github.com/mcharle/citelevators # elevators
+https://github.com/joivo/using-alloy/ # telecom business (?)
+https://github.com/sydneyhnguyen/cs340project/ # malloc in C
+https://github.com/vinahradau/finma/ # bank data regulation
+https://github.com/ist181045/qs1819-01-adventure # bank accounts (?)
+https://github.com/qducasse/wtp_alloy/ # water tank
+https://github.com/nadeshr/weak_atomics # circular buffer
+https://github.com/eggy115/alloy/ # mark sweep garbage collection
+https://github.com/kmcallister/gc-models # garbage collector
+https://github.com/sambacha/tlp-plus-alloy # dining philosophers
+https://github.com/jiriklepl/NTIN043/ # home
+https://github.com/leonidsh119/audacity-alloy-model/ # Audacity
+https://github.com/leonidsh119/audacity-layered-model # Audacity again
+https://github.com/kyessenov/poirot/
+https://github.com/vishucmu/models_structuralmodelling
+https://github.com/goens/pop-alloy/ # memory model
+https://github.com/team-counterpoint/tcmc-path # transitive closure
+https://github.com/lucagrammer/leonilocarnominotti/ # online store
+https://github.com/nicoatuni/smart-contract-vuln # smart contact exploit
+https://github.com/sabermirzaei/alloy-model-of-mca # consensus-based auction protocols
+https://github.com/hkhojasteh/canbus # serial bus
+https://github.com/wmeyer/smart-contract-validation # smart contract
+https://github.com/mohannadcse/alloyspecrepair # tries to fix an Alloy spec using GPT
+
+https://github.com/johnwickerson/memalloy
+https://github.com/nvlabs/litmustestgen
+https://github.com/dgpv/miniscript-alloy-spec
+https://github.com/kepae/alloy-coin
+https://github.com/mattdf/protocol-models/
+https://github.com/guilhermeolivsilva/alloy-mini-project # mailbox
+https://github.com/daniellustig/riscv-memory-model # RISC-V memory model
+https://github.com/stefanoschaliasos/zk-rollup-security # blockchain zero knowledge rollups
+https://github.com/vasil-sd/engineering-sw-hw-model-checking-letures/ # garbage collection
+https://github.com/5quintessential/fmalloyanalysis # no idea
+https://github.com/fala-cidadao/formal-specification/ # doesn't make sense but nice headings
+
+https://github.com/fstakem/alloy_book # Software Abstractions book
+https://github.com/msramalho/feup-mfes-summary # exercises about students and courses
+https://github.com/adautofbn/tut-o-ralloy/ # students and tutors
+https://github.com/xbreu/formal-methods # course exercises
+https://github.com/kencoba/alloy-introduction/ # brief introduction
+https://github.com/aliebayani/formalmethods-alloy/ # course exercises
+https://github.com/jineshkj/cis623_spfm/ # course exercises
+https://github.com/AndreaPrati98/alloy-exe/ # meh exercises
+https://github.com/parlarjb/finding_bugs_no_code # Strange Loop talk
+https://github.com/coreflexive/relmath # math relations book
+https://github.com/coreflexive/order # order theory
+https://github.com/coreflexive/algebra # lattice, algebra stuff
+https://github.com/bakaq/category_theory_alloy/ # category
+
+https://cs.wellesley.edu/~cs340/schedule/ # Wellesley course, has good Python analogies
+https://alloytools.org/tutorials/online/ # official tutorial
+http://www.din.uem.br/~ampolido/MetodosFormais/Notacao%20Z/Alloy/exec/alloy/docs/alloy-guide.html # clear terse tutorial from 2001, syntax is now invalid
+https://esb-dev.github.io/mat/alloy-cheatsheet.pdf # cheatsheet

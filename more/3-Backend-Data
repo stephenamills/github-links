@@ -1,0 +1,134 @@
+https://mad.firstmark.com # industries
+https://tag-runtime.cncf.io/wgs/cnaiwg/whitepapers # stack
+https://landscape.lfai.foundation # stack
+https://landscape.cncf.io/?group=cnai # stack
+https://hadoopecosystemtable.github.io # ecosystem
+
+https://dbdb.io # database pokedex
+
+Postgres & Citus
+
+Cassandra
+
+DynamoDB & Aerospike & Spanner & CockroachDB & YugabyteDB & TiDB
+
+Redis
+
+--
+Debezium
+https://github.com/redhat-scholars/debezium-tutorial
+
+Kafka
+https://github.com/redhat-scholars/debezium-tutorial
+https://github.com/redhat-scholars/cloud-native-business-automation
+
+Elasticsearch
+
+Clickhouse
+
+GraphQL
+
+Hasura
+
+Spark
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-mapreduce
+https://github.com/learn-co-curriculum/ds-spark-wordcount_with_mapreduce
+https://github.com/learn-co-curriculum/dsc-word-count-with-map-reduce-lab
+
+https://github.com/learn-co-curriculum/dsc-spark-introduction
+https://github.com/learn-co-curriculum/dsc-spark-basics
+https://github.com/learn-co-curriculum/dsc-lp-spark-intro
+https://github.com/learn-co-curriculum/ds-spark-rdds
+https://github.com/learn-co-curriculum/ds-spark-rdd_transform1
+https://github.com/learn-co-curriculum/ds-spark-rdd_transform2
+https://github.com/learn-co-curriculum/ds-spark-rdd_transform3
+https://github.com/learn-co-curriculum/ds-spark-recommendation_system
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-sql
+https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-v2-4
+https://github.com/learn-co-curriculum/dsc-spark-docker-installation
+https://github.com/learn-co-curriculum/dsc-sparkcontext
+https://github.com/learn-co-curriculum/dsc-sparkcontext-lab
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-datasets
+https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-lab
+https://github.com/learn-co-curriculum/dsc-spark-dataframes
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-creation
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-columns
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-rows
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-joining
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-cleaning
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-querying
+
+Hadoop
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-mapreduce
+https://github.com/learn-co-curriculum/dsc-hadoop-mapreduce-recap
+https://github.com/learn-co-curriculum/dc-ds-071519
+
+Data Build Tool
+
+BigQuery
+
+Snowflake
+
+Redshift
+
+Firebase
+
+--
+Visual Studio Code Chat
+https://github.com/lukvonstrom/copilot-verification # Chat extension - verifies Python code or creates tests using preconditions and postconditions
+https://github.com/phoevos/vscode-extension-verifier # verifies Python code or creates tests using preconditions and postconditions
+https://github.com/scottholden/copilotchatextensions # three examples
+https://github.com/jonlester/vscode-copilot-dev
+https://github.com/flaviodelgrosso/wikipedia-participant # Wikipedia
+https://github.com/harrybin/vscode-copilot-extension # GitHub issue
+https://github.com/microsoft/vscode-extension-samples/ # official example
+https://github.com/nksleiman/vscode-extension
+
+https://github.com/microsoft/mastering-github-copilot-for-paired-programming
+https://github.com/skills/copilot-codespaces-vscode
+https://github.com/xnul/codestral-mamba-for-vscode # Mistral Codestral
+https://github.com/continuedev/continue
+https://github.com/xnul/code-llama-for-vscode
+https://github.com/hieunc229/copilot-clone
+https://github.com/rubberduck-ai/rubberduck-vscode
+
+Cohere
+https://github.com/cohere-ai/examples # sample apps using the API
+https://github.com/cohere-ai/notebooks # API cookbook in Python notebooks
+https://github.com/cohere-ai/cohere-toolkit # Docker container with Toolkit
+https://github.com/cohere-ai/cohere-aws # AWS Sagemaker & Bedrock
+
+https://github.com/menloparklab/cohere-weaviate-wikipedia-retrieval # Wikipedia (LangChain, Weaviate)
+https://github.com/sangwan70/cohere-chatbot-pdf-langchain # PDF documents (Pinecone)
+https://github.com/menloparklab/langchain-cohere-qdrant-retrieval
+https://github.com/menloparklab/langchain-cohere-qdrant-doc-retrieval
+
+https://github.com/cohere-ai/cohere-python
+https://github.com/cohere-ai/cohere-typescript
+https://github.com/cohere-ai/sandbox-conversant-lib
+https://github.com/cohere-ai/binaryvectordb
+https://github.com/cohere-ai/cohere-terrarium # unsure why this exists
+https://github.com/berriai/litellm
+
+Confluence
+
+Sharepoint
+
+Serp API
+
+Bing API
+
+Colab
+
+Kubernetes
+https://github.com/cncf/llm-starter-pack # Run a language model in Kubernetes (in Docker)
+https://github.com/cncf/llm-in-action # Run a language model in Kubernetes (Ollama service)
+https://github.com/rhecosystemappeng/llm-on-openshift # Hugging Face, Redis vector, etc.
+https://github.com/redhat-scholars/rhods-od-workshop # Jupyter, TensorFlow, Kafka
+https://github.com/redhat-scholars/rhods-lp-workshop # Jupyter, Flask
+https://github.com/ibm-ecosystem-engineering/superknowa # Retrieval demo on all IBM docs
+https://www.wwt.com/topic/genai/overview # retrieval demo by WWT
+https://github.com/rh-aiservices-bu/multi-gpu-llms # GPU cluster
+https://github.com/rh-aiservices-bu/jumpstart-library
+https://github.com/rh-aiservices-bu/openshift-ai-resources
+https://github.com/vmware-private-ai/vmware-generative-ai-reference-architecture # GPU cluster

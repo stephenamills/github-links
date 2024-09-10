@@ -1,0 +1,46 @@
+https://github.com/hashicorp/packer # Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+
+https://github.com/hashicorp/learn-terraform-provisioning # Provision Terraform instances with Packer & cloud-init
+https://github.com/hashicorp/learn-packer-github-actions #
+https://github.com/hashicorp/learn-packer-getting-started # Code for the Packer build tutorial
+https://github.com/hashicorp/learn-hcp-packer-get-started #
+https://github.com/hashicorp/learn-packer-hcp-golden-image # HashiCorp Learn guide: Build a Golden Image Pipeline with HCP Packer.
+https://github.com/hashicorp/learn-packer-multicloud #
+https://github.com/hashicorp/learn-hcp-packer-run-tasks #
+https://github.com/hashicorp/learn-packer-upgrade-json-template #
+https://github.com/hashicorp-education/learn-packer-windows-ami #
+https://github.com/hashicorp-education/learn-hcp-packer-revocation #
+
+https://github.com/hashicorp/packer-plugin-googlecompute # Packer plugin for Google Compute Builder
+https://github.com/hashicorp/packer-plugin-azure # Packer plugin for Azure Virtual Machine Image Builders
+https://github.com/hashicorp/packer-plugin-amazon # Packer plugin for Amazon AMI Builder
+https://github.com/hashicorp/packer-plugin-oracle # Packer plugin for Oracle Builder
+
+https://github.com/hashicorp/packer-plugin-vsphere # Packer plugin for VMware vSphere Builder
+https://github.com/hashicorp/packer-plugin-proxmox # Packer plugin for Proxmox Builder
+https://github.com/hashicorp/packer-plugin-qemu # Packer plugin for QEMU Builder
+https://github.com/hashicorp/packer-plugin-vmware # Packer plugin for VMware Builder
+https://github.com/hashicorp/packer-plugin-sdk # Packer Plugin SDK enables building Packer plugins (builders, provisioners, or post-processors)
+https://github.com/hashicorp/packer-plugin-ansible # Packer plugin for Ansible Provisioner
+https://github.com/hashicorp/packer-plugin-virtualbox # Packer plugin for VritualBox Builder
+https://github.com/hashicorp/packer-plugin-scaffolding # Quick start repository for creating a Packer plugin.
+https://github.com/hashicorp/packer-plugin-docker # Packer plugin for Docker Builder
+https://github.com/hashicorp/packer-plugin-hyperv # Packer plugin for Hyper-V Builder
+https://github.com/hashicorp/packer-plugin-vagrant # Packer plugin for Vagrant
+https://github.com/hashicorp/packer-plugin-openstack # Packer plugin for OpenStack Builder
+https://github.com/hashicorp/packer-plugin-lxd # Packer plugin for LXD Builder
+https://github.com/hashicorp/packer-plugin-cloudstack # packer plugin for CloudStack Builder
+https://github.com/hashicorp/packer-plugin-lxc # Packer plugin for LXC Builder
+https://github.com/hashicorp/packer-plugin-hashicups # Hashicorp example plugin
+https://github.com/hashicorp/packer-plugin-profitbricks # Packer plugin for ProfitBricks on IONOS-Cloud
+https://github.com/hashicorp/packer-plugin-oneandone # Packer plugin for 1&1 on IONOS-Cloud
+https://github.com/hashicorp/packer-plugin-triton # Packer plugin for Triton Builder
+
+https://github.com/hashicorp/setup-packer # Run HashiCorp Packer as part of your GitHub Actions Workflow
+https://github.com/hashicorp/guides-configuration # Packer templates used for modules in hashicorp-modules
+https://github.com/hashicorp/terraform-azurerm-consul # A Terraform Module for how to run Consul on AzureRM using Terraform and Packer
+https://github.com/hashicorp/terraform-azurerm-vault # A Terraform Module for how to run Vault on AzureRM using Terraform and Packer
+https://github.com/hashicorp/terraform-azurerm-nomad # A Terraform Module for how to run Nomad on AzureRM using Terraform and Packer
+https://github.com/hashicorp/packer-plugin-lxc # Packer plugin for LXC Builder
+https://github.com/hashicorp/se-demo-hcp-packer-essentials_assets # HCP Packer Essentials - Explainer App and Assets
+https://github.com/hashicorp/packer-sdk-migrator # cli tool to help plugin maintainers update from packer v1.5.0 style plugins to packer style v1.7.0 plugins

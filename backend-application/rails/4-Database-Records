@@ -1,0 +1,53 @@
+https://github.com/basecamp/google_sign_in # Sign in or signup with Google (by Basecamp)
+https://github.com/ankane/pretender # Log in as another user (by Andrew Kane)
+https://github.com/excid3/prefixed_ids # readable identifiers for database records (by Chris Oliver)
+https://github.com/norman/friendly_id # readable identifiers for web links
+
+https://github.com/learn-co-curriculum/phase-3-active-record-intro-to-rake # Rake
+https://github.com/learn-co-curriculum/rake-todo # Rake
+https://github.com/learn-co-curriculum/rake-lab # Rake
+
+https://github.com/learn-co-curriculum/phase-3-active-record-migrations # Active Record migrations
+https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-readme # migrations - creating a table
+https://github.com/learn-co-curriculum/activerecord-migrations # migrations
+https://github.com/learn-co-curriculum/phase-3-active-record-costume-store-lab # migrations
+https://github.com/learn-co-curriculum/active-record-associations-and-migrations # migrations
+https://github.com/learn-co-curriculum/phase-3-active-record-associations-one-to-many # migrations - nice games example
+https://github.com/learn-co-curriculum/phase-3-active-record-associations-many-to-many # migrations - games example
+https://github.com/learn-co-curriculum/active-record-querying-methods-lab # migration practice
+https://github.com/learn-co-curriculum/phase-3-active-record-theater-work # migration practice - nice theater actors example
+https://github.com/learn-co-curriculum/phase-4-active-record-associations-review-lab # migration practice - foreign key and has_many through
+https://github.com/learn-co-curriculum/phase-3-active-record-associations-methods # migration practice
+https://github.com/learn-co-curriculum/phase-3-active-record-associations-tvland-lab # migration practice
+https://github.com/learn-co-curriculum/phase-3-active-record-querying-methods-lab # migration practice
+https://github.com/learn-co-curriculum/active-record-writing-migrations-lab # migration practice
+https://github.com/learn-co-curriculum/ruby-squirrels-trees # migration practice
+https://github.com/learn-co-curriculum/phase-3-active-record-costume-store-lab # migration practice
+https://github.com/learn-co-curriculum/phase-3-active-record-crud-operations-lab # migration practice
+https://github.com/learn-co-curriculum/rails-blog-associations-validations # migration practice
+https://github.com/learn-co-curriculum/rails-activerecord-model-rails-lab # migration practice
+https://github.com/learn-co-curriculum/activerecord-yelp-exercises # migration practice
+https://github.com/learn-co-curriculum/join-the-fun-rails # migration practice - taxi example
+https://github.com/sf-wdi-31/rails-migrations-practice # migration practice
+https://github.com/sf-wdi-31/migrations # migration practice - mentions schema.rb
+https://github.com/learn-co-curriculum/rails-generators-readme#migration-generators # migration generator
+
+https://github.com/learn-co-curriculum/rails-guided-project-immersive-module-two # domain model for picture sharing app
+https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-readme
+https://github.com/learn-co-curriculum/phase-3-orms-mapping-classes-to-database-tables
+https://github.com/learn-co-curriculum/active-record-associations-and-migrations # associations
+https://github.com/learn-co-students/sinatra-activerecord-associations-v-000 # associations
+https://github.com/learn-co-curriculum/phase-4-serializing-associations # associations
+https://github.com/learn-co-curriculum/phase-4-displaying-associated-data # associations
+https://github.com/learn-co-curriculum/phase-4-deleting-associated-data # associations
+https://github.com/learn-co-students/rails-activerecord-models-and-rails-readme-onl01-seng-pt-070620
+https://github.com/learn-co-curriculum/phase-4-using-active-model-serializer
+https://github.com/learn-co-curriculum/performance-api # N + 1 queries and eager loading
+https://github.com/learn-co-students/dynamic-orms-readme-v-000
+https://github.com/learn-co-curriculum/activerecord-lifecycle-reading # callbacks
+https://github.com/learn-co-curriculum/phase-4-validation-messages-and-error-handling
+https://github.com/learn-co-curriculum/activerecord-yelp-exercises
+https://github.com/weedySeaDragon/rails-guides-bookstore-models # bookstore example
+https://github.com/learn-co-curriculum/guided-module-two-project-assessment#phase-2-scaffolding--execution # seed the database
+https://github.com/learn-co-curriculum/rails-guided-project-module-2 # seed the database
+https://github.com/learn-co-curriculum/rails-generators-readme#model-generators # model generator

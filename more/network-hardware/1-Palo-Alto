@@ -1,0 +1,130 @@
+https://www.linuxfoundation.org/lf-security
+https://tag-security.cncf.io
+
+https://github.com/paloaltonetworks/pan.dev # Palo Alto Networks for developers
+
+https://github.com/paloaltonetworks/pan-os-upgrade-assurance # PAN-OS Upgrade Assurance package code
+https://github.com/paloaltonetworks/pan-os-python # The PAN-OS SDK for Python is a package to help interact with Palo Alto Networks devices  
+https://github.com/paloaltonetworks/pan-os-php # Framework and utilities to easily manage and edit Palo Alto Network PANOS devices
+https://github.com/paloaltonetworks/panos-bootstrapper-ui # PAN-OS Bootstrapper UI provides a simple, example web-UI that consumes the PAN-OS Bootstrapper utility API.
+https://github.com/paloaltonetworks/gcp-wildfire-api # A demonstration of using the Wildfire API to scan files uploaded to a Google Cloud Storage bucket
+https://github.com/paloaltonetworks/pan-threat-vault-python # Python interface to the Palo Alto Networks Threat Vault API
+https://github.com/paloaltonetworks/pan-iot-security-python # Python interface to the Palo Alto Networks IoT Security API
+https://github.com/paloaltonetworks/panos-bootstrapper # A Utility to bootstrap a new PAN-OS NGFW. This utility provides an API only.
+https://github.com/paloaltonetworks/panos_rust_sdk # A Rust implementation of the PAN-OS API.
+
+https://github.com/paloaltonetworks/terraform-templates # This repo contains Terraform templates to deploy infrastructure on AWS and Azure  
+https://github.com/paloaltonetworks/terraform-provider-panos # Terraform Panos provider
+https://github.com/paloaltonetworks/terraform-best-practices # A set of best practices to be followed when contributing to the Palo Alto Networks terraform modules
+https://github.com/paloaltonetworks/terraform-ansible-intro # Introduction to Terraform and Ansible
+https://github.com/paloaltonetworks/terraform-provider-cloudngfwaws # The Terraform provider for the Palo Alto Networks AWS cloud NGFW
+https://github.com/paloaltonetworks/terraform-aws-swfw-modules # Terraform Reusable Modules for Software Firewalls on AWS
+https://github.com/paloaltonetworks/terraform-aws-panos-bootstrap # This Terraform Module creates a PAN-OS bootstrap package in an AWS S3 bucket
+https://github.com/paloaltonetworks/terraform-iac-lab # Infrastructure as Code lab using Terraform and GCP
+https://github.com/paloaltonetworks/azure-terraform-vmseries-fast-ha-failover # Azure Load Balancer and HA Combined Deployment for Faster Failover with no API Calls
+https://github.com/paloaltonetworks/terraform-panos-dag-nia # PAN-OS Dynamic Address Group (DAG) Tags Module for Network Infrastructure Automation
+https://github.com/paloaltonetworks/terraform-azurerm-swfw-modules # Terraform Reusable Modules for Software Firewalls on Azure
+https://github.com/paloaltonetworks/terraform-google-swfw-modules # Terraform Reusable Modules for Software Firewalls on GCP
+https://github.com/paloaltonetworks/terraform-panos-ngfw-modules # Terraform Modules for Palo Alto Networks PAN-OS based Platforms
+https://github.com/paloaltonetworks/terraform-panos-ag-dag-nia #
+https://github.com/paloaltonetworks/terraform-iac-demo # IaC demo using Terraform Cloud
+https://github.com/paloaltonetworks/terraform-provider-scm # The Terraform provider for Strata Cloud Manager
+https://github.com/paloaltonetworks/terraform-google-panos-bootstrap # This Terraform Module creates a PAN-OS bootstrap package in a Google Cloud Storage bucket.
+https://github.com/paloaltonetworks/terraform-use-private-module #
+https://github.com/paloaltonetworks/gcp_terraform_ignite2018 # This repo contains Terraform templates to deploy a PAN VM-Series FW into GCP.
+https://github.com/paloaltonetworks/terraform-cloudngfw-panorama-onboarding # terraform-cloud-device-group-onboarding
+https://github.com/paloaltonetworks/terraform-modules-swfw-tests-skeleton # Test skeleton with Terratest for VM-Series modules
+
+https://github.com/paloaltonetworks/pan-os-ansible # Ansible collection for easy automation of Palo Alto Networks next generation firewalls and Panorama
+https://github.com/paloaltonetworks/ansible-playbooks # Sample playbooks for the Palo Alto Networks Ansible modules.
+https://github.com/paloaltonetworks/minemeld-ansible # Ansible playbook for installing MineMeld on Linux
+https://github.com/paloaltonetworks/terraform-ansible-intro # Introduction to Terraform and Ansible
+https://github.com/paloaltonetworks/panos-ansible-upgrade-downgrade # Ansible playbook to license firewall and install content updates and the required software version
+https://github.com/paloaltonetworks/ansible-lab # a hands-on lab showing how to use the PAN-OS Ansible modules.
+https://github.com/paloaltonetworks/skillet_ansible # Ansible collection for Skillets
+https://github.com/paloaltonetworks/ansible-role-spatula # This Ansible role applies security best practice templates to Palo Alto Networks devices.
+https://github.com/paloaltonetworks/ansible-role-vmware-dagger # An Ansible role that synchronizes VMware vCenter virtual machine IP addresses and tags with PAN-OS.
+https://github.com/paloaltonetworks/cloud-automation-demo # This repo enables you to perform cloud automation demos using Terraform or Ansible
+https://github.com/paloaltonetworks/panw-gse.skillets # Ansible roles and libraries for working with PAN-OS, Panorama, and Pan-Validation Skillets
+https://github.com/paloaltonetworks/ansible-role-entrapment # An Ansible role for deploying the Palo Alto Networks Traps agent
+https://github.com/paloaltonetworks/automation-utility-vm # Packer and Ansible project to build an automation utility VM
+
+https://github.com/paloaltonetworks/tg # Certificate generation made easy
+https://github.com/paloaltonetworks/pan-chainguard # Preload Trusted CA Intermediate Certificate Chains on PAN-OS
+https://github.com/paloaltonetworks/redist-check # Tool to check for PANOS Devices with Certificates that will expire on 12-31-23
+https://github.com/paloaltonetworks/userid-check # Tool to check for PANOS Devices and Agents with Certificates that will expire on 11-18-24
+
+https://github.com/paloaltonetworks/google-cloud-hub-spoke-tutorial # Build & secure a Google Cloud hub-and-spoke architecture with VM-Series.
+https://github.com/paloaltonetworks/gcp-two-tier # VM-Series templates for Google Cloud Platform
+https://github.com/paloaltonetworks/terraform-google-swfw-modules # Terraform Reusable Modules for Software Firewalls on GCP
+https://github.com/paloaltonetworks/pan_google_next_istio_lab # This repo contains a lab which demonstrates the use of the Palo Alto Networks Security adapter for Istio
+https://github.com/paloaltonetworks/google-cloud-vmseries-ha-tutorial # Terraform tutorial detailing how to deploy Active/Passive VM-Series with session sync
+https://github.com/paloaltonetworks/gcp-autoscaling # Google Cloud Auto Scaling Available Now
+https://github.com/paloaltonetworks/google-cloud-ngfw-tutorial # Learn how to deploy and use Google Cloud Firewall plus, a native Google Cloud service
+https://github.com/paloaltonetworks/terraform-google-panos-bootstrap # This Terraform Module creates a PAN-OS bootstrap package in a Google Cloud Storage bucket.
+https://github.com/paloaltonetworks/google-cloud-multi-hub-tutorial # Secure many VPC networks using VM-Series within the Google Cloud multi-hub and spoke design.
+https://github.com/paloaltonetworks/google-cloud-vmseries-ncc-tutorial # A brief tutorial showing how to use Google Cloud Network Connectivity Center with VM-Series.
+https://github.com/paloaltonetworks/google-cloud-vmseries-ipv6-tutorial # A tutorial detailing how to configure VM-Series with IPv6 (dual-stack) in Google Cloud.
+https://github.com/paloaltonetworks/gcp-wildfire-api # A demonstration of using the Wildfire API to scan files uploaded to a Google Cloud Storage bucket
+
+https://github.com/paloaltonetworks/azure # VM-series ARM Templates for Microsoft Azure
+https://github.com/paloaltonetworks/azure-applicationgateway # Scale out security for web deployments using VM-Series firewalls and Azure Application Gateway
+https://github.com/paloaltonetworks/azure-autoscaling # Azure autoscaling solution using VMSS
+https://github.com/paloaltonetworks/azure-ha-deployment # This Azure HA Template Allows Launching an Additional VM-Series into a Resource Group.
+https://github.com/paloaltonetworks/azure-gwlb # Template for deploying Palo Alto VM Series FW with Azure Gateway Load Balancer
+https://github.com/paloaltonetworks/terraform-templates # This repo contains Terraform templates to deploy infrastructure on AWS and Azure
+https://github.com/paloaltonetworks/azure-terraform-vmseries-fast-ha-failover # Azure Load Balancer and HA Combined Deployment for Faster Failover with no API Calls
+https://github.com/paloaltonetworks/terraform-azurerm-swfw-modules # Terraform Reusable Modules for Software Firewalls on Azure
+https://github.com/paloaltonetworks/azure-availability-zone # Deploys the VM-Series in Azure into an Availability Zone
+https://github.com/paloaltonetworks/lab-azure-vmseries # Prerequisites Lab for Palo Alto Networks Professional Service Public Cloud Workshop
+https://github.com/paloaltonetworks/microsoft_azure_virtual_wan # Implements the automation and integration framework to work with Azure Virtual WANs
+https://github.com/paloaltonetworks/palo-azure-saca # SCCA implementation for Palo Alto Networks on Azure
+https://github.com/paloaltonetworks/azure_training #
+https://github.com/paloaltonetworks/azure-bootstrap #
+https://github.com/paloaltonetworks/azurestack # Sample template for deploying VM-Series for AzureStack
+https://github.com/paloaltonetworks/cdl-decompress-proxy-sentinel-ingest # Proxy application for ingesting into Azure sentinel from Cortex Data Lake
+https://github.com/paloaltonetworks/azure-load-balancer1 #
+https://github.com/paloaltonetworks/azure-interface-options # Azure VM-Series options including differing interfaces
+https://github.com/paloaltonetworks/azure-aks # Azure Kubernetes Service Security Solution
+https://github.com/paloaltonetworks/azure-marketplace #
+https://github.com/paloaltonetworks/cortex-azure-functions #
+https://github.com/paloaltonetworks/azure-load-balancer2 #
+https://github.com/paloaltonetworks/azure-ha-autoLaunch # Auto Launch templates for Azure HA
+
+https://github.com/paloaltonetworks/aws # VM-Series for Amazon Web Services
+https://github.com/paloaltonetworks/aws-gwlb-vmseries # This repository contains CFT and TF templates for deploying VM-Series Firewalls behind AWS Gateway Load Balancer
+https://github.com/paloaltonetworks/aws-elb-autoscaling # Auto Scaling VM-Series firewalls in AWS
+https://github.com/paloaltonetworks/lab-aws-gwlb-vmseries # Materials for PS Regional Training AWS lab
+https://github.com/paloaltonetworks/aws-alb-sandwich # AWS ALB Sandwich with VM-Series
+https://github.com/paloaltonetworks/terraform-aws-swfw-modules # Terraform Reusable Modules for Software Firewalls on AWS
+https://github.com/paloaltonetworks/terraform-templates # This repo contains Terraform templates to deploy infrastructure on AWS and Azure and to secure them
+https://github.com/paloaltonetworks/terraform-aws-panos-bootstrap # This Terraform Module creates a PAN-OS bootstrap package in an AWS S3 bucket
+https://github.com/paloaltonetworks/lab-aws-zero-trust # Qwiklab setup scripts for deploy Zero Trust lab with Palo Alto Networks VM-Series Firewall
+https://github.com/paloaltonetworks/terraform-provider-cloudngfwaws # The Terraform provider for the Palo Alto Networks AWS cloud NGFW
+https://github.com/paloaltonetworks/lab-aws-cloud-ngfw # QwikLab setup scripts for Palo Alto Networks Cloud NGFW lab
+https://github.com/paloaltonetworks/cloud-ngfw-aws-examples # Cloud Formation template to deploy and manage the Cloud NGFW on AWS.
+https://github.com/paloaltonetworks/iam-deescalate # IAM-Deescalate helps mitigate privilege escalation risk in AWS identity and access management (IAM)
+https://github.com/paloaltonetworks/cloud-ngfw-aws-go # This is the underlying SDK library for a Terraform provider
+https://github.com/paloaltonetworks/lab-aws-cn-series-zero-trust # Qwiklab setup scripts for deploy Zero Trust lab with Palo Alto Networks CN-Series Firewall
+https://github.com/paloaltonetworks/aws-ha-cft # For use with AWS HA Improvements
+https://github.com/paloaltonetworks/prisma_cloud_aws_onboard #
+https://github.com/paloaltonetworks/aws_security_hub # Integration of IOC from AWS Security Hub with the VM-Series Firewall
+https://github.com/paloaltonetworks/aws-tgw-panorama-bootstrap #
+https://github.com/paloaltonetworks/onboard_aws_prisma #
+https://github.com/paloaltonetworks/aws-vmseries-gwlb-poc #
+https://github.com/paloaltonetworks/aws-traffic-mirroring # Detect and respond to attacks in AWS by sending packets to VM-Series without putting the firewall inline
+https://github.com/paloaltonetworks/app-f-oauth2-shared # Application Frameworks OAUTH2 Shared Component implementation as a AWS Lambda Function
+https://github.com/paloaltonetworks/awsorchbeta #
+https://github.com/paloaltonetworks/aws-vm-Series # This repository contains the cloud formation template for deploying VM series behind GWLB along with application VPC
+https://github.com/paloaltonetworks/aws-cloudngfw-poc #
+https://github.com/paloaltonetworks/pan_nlb_v1 # This is the V1 (CFT) template to deploy an NLB architecture to AWS.
+https://github.com/paloaltonetworks/pcs-cwp-cft-defender # Deploy Prisma Cloud Defender on Org Level using CloudFormation and AWS Secrets Manager
+
+https://github.com/paloaltonetworks/oraclecloud # Sample Terraform template for deploying VM-Series on Oracle Cloud Infrastructure
+
+https://github.com/paloaltonetworks/iron-skillet # ironSkillet is a set of day-one configuration templates for PAN-OS to enable alignment with security best practices.
+https://github.com/paloaltonetworks/panhandler # panhandler is a tool to manage config snippets and Skillets for PAN-OS devices
+https://github.com/paloaltonetworks/referencearchitectures # Palo Alto Networks Reference Architectures
+https://github.com/paloaltonetworks/unit42-wireshark-tutorials # Unit 42 repository hosting packet captures (pcaps) for our series of Wireshark tutorials
+https://github.com/paloaltonetworks/pan-fca # flexible Cloud Automzation
+https://github.com/paloaltonetworks/panos-bootstrapper # A Utility to bootstrap a new PAN-OS NGFW. This utility provides an API only.

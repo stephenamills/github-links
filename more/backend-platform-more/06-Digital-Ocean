@@ -1,0 +1,251 @@
+https://github.com/digitalocean/doctl # The official command line interface for the DigitalOcean API.
+https://github.com/digitalocean/openapi # The OpenAPI v3 specification for DigitalOcean's public API.
+
+https://github.com/digitalocean/nginxconfig.io # ⚙️ NGINX config generator on steroids 💉
+https://github.com/digitalocean/godo # DigitalOcean Go API client
+https://github.com/digitalocean/go-libvirt # Package libvirt provides a pure Go interface for interacting with Libvirt. Apache 2.0 Licensed.
+https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers # Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.
+https://github.com/digitalocean/go-qemu # Go packages to interact with QEMU using the QEMU Machine Protocol (QMP). Apache 2.0 Licensed.
+https://github.com/digitalocean/firebolt # Golang framework for streaming ETL, observability data pipeline, and event processing apps
+https://github.com/digitalocean/do-agent # Collects system metrics from DigitalOcean Droplets
+https://github.com/digitalocean/csi-digitalocean # A Container Storage Interface (CSI) Driver for DigitalOcean Block Storage
+https://github.com/digitalocean/clusterlint # A best practices checker for Kubernetes clusters. 🤠
+https://github.com/digitalocean/digitalocean-cloud-controller-manager # Kubernetes cloud-controller-manager for DigitalOcean (beta)
+https://github.com/digitalocean/droplet_kit # DropletKit is the official DigitalOcean API client for Ruby.
+https://github.com/digitalocean/terraform-provider-digitalocean # Terraform DigitalOcean provider
+https://github.com/digitalocean/action-doctl # GitHub Actions for DigitalOcean - doctl
+https://github.com/digitalocean/ceph_exporter # Prometheus exporter that scrapes meta information about a ceph cluster.
+https://github.com/digitalocean/engineering-code-of-conduct # Code of Conduct for DigitalOcean's Engineering Team
+https://github.com/digitalocean/go-openvswitch # Go packages which enable interacting with Open vSwitch and related tools. Apache 2.0 Licensed.
+https://github.com/digitalocean/kubernetes-sample-apps # Example DigitalOcean Kubernetes workload with service exposed through a DO load-balancer.
+https://github.com/digitalocean/gta # gta: do transitive analysis to find packages whose dependencies have changed
+https://github.com/digitalocean/marketplace-partners # Image validation, automation, and other tools for DigitalOcean Marketplace Vendors and Custom Image users
+https://github.com/digitalocean/heartbot # A shot of love for your favorite chat client.
+https://github.com/digitalocean/marketplace-kubernetes # Code and deployment scripts for Kubernetes-based applications listed in the DigitalOcean Marketplace.
+https://github.com/digitalocean/prometheus-client-c # A Prometheus Client in C
+https://github.com/digitalocean/kartograph # Kartograph makes it easy to generate and convert JSON. It's intention is to be used for API clients.
+https://github.com/digitalocean/supabase-on-do #
+https://github.com/digitalocean/api-v2 # DigitalOcean API v2 feedback
+https://github.com/digitalocean/resource_kit # Resource Kit provides tools to aid in making API Clients. Such as URL resolving, Request / Response layer, and more.
+https://github.com/digitalocean/captainslog # A Syslog Protocol Parser
+https://github.com/digitalocean/go-workers2 # better-go-workers
+https://github.com/digitalocean/doks-debug # A Docker image with Kubernetes manifests for investigation and troubleshooting.
+https://github.com/digitalocean/droplet-1-clicks # Packer build scripts for DigitalOcean Marketplace 1-clicks.
+https://github.com/digitalocean/app_action # Deploy to DigitalOcean Container Registry and App Platform
+https://github.com/digitalocean/sample-dockerfile # ⛵ App Platform sample Docker application.
+https://github.com/digitalocean/container-blueprints # DigitalOcean Kubernetes(DOKS) Solution Blueprints
+https://github.com/digitalocean/DOKS # Managed Kubernetes designed for simple and cost effective container orchestration.
+https://github.com/digitalocean/do-markdownit # Markdown-It plugin for the DigitalOcean Community.
+https://github.com/digitalocean/pydo # Official DigitalOcean Python Client based on the DO OpenAPIv3 specification
+https://github.com/digitalocean/navigators-guide # Book and code examples that help to build infrastructure on DigitalOcean
+https://github.com/digitalocean/do-operator # The Kubernetes Operator for DigitalOcean
+https://github.com/digitalocean/sample-django # Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/logtalez # logtalez is a minimal command line client (and API) for retrieving log streams from the rsyslog logging daemon over zeromq.
+https://github.com/digitalocean/databases #
+https://github.com/digitalocean/sample-nodejs # ⛵ App Platform sample Node.js application.
+https://github.com/digitalocean/sample-nextjs # ⛵ App Platform sample Next.js application.
+https://github.com/digitalocean/debian-sys-maint-roll-passwd # Script to update password for MySQL user "debian-sys-maint"
+https://github.com/digitalocean/sample-python # ⛵ App Platform sample Python application.
+https://github.com/digitalocean/vmtop # Real-time monitoring of KVM/Qemu VMs
+https://github.com/digitalocean/pgremapper # CLI tool for manipulating Ceph's upmap exception table.
+https://github.com/digitalocean/kubecon-2022-doks-workshop #
+https://github.com/digitalocean/k8s-staticroute-operator # Create static routes for your k8s nodes using CRDs.
+https://github.com/digitalocean/sample-flask # Sample Flask Application to be deployed on DigitalOcean's App Platform
+https://github.com/digitalocean/sample-laravel # ⛵ App Platform sample Laravel application.
+https://github.com/digitalocean/sample-monorepo # Sample mono repo app (with multiple components) on the DigitalOcean App Platform.
+https://github.com/digitalocean/sample-functions-nodejs-qrcode #
+https://github.com/digitalocean/sample-golang # ⛵ App Platform sample Golang application.
+https://github.com/digitalocean/droplet-agent # Droplet Agent is the daemon that runs on customer droplets to enable some features such as web console access.
+https://github.com/digitalocean/sample-php # ⛵ App Platform sample PHP application.
+https://github.com/digitalocean/openvswitch_exporter # Command openvswitch_exporter implements a Prometheus exporter for Open vSwitch.
+https://github.com/digitalocean/ansible-collection # DigitalOcean Ansible Collection
+https://github.com/digitalocean/sample-functions-nodejs-helloworld #
+https://github.com/digitalocean/sample-html # ⛵ App Platform sample HTML application.
+https://github.com/digitalocean/sample-functions-python-jokes #
+https://github.com/digitalocean/marketplace-pi-hole-vpn # Pi-hole VPN image for Marketplace with Unbound & Wireguard
+https://github.com/digitalocean/mastodon-on-kubernetes # Setting up Mastodon on DigitalOcean Kubernetes
+https://github.com/digitalocean/sample-react # ⛵ App Platform sample React application.
+https://github.com/digitalocean/flipop # Floating IP Controller for Kubernetes
+https://github.com/digitalocean/sample-functions-golang-helloworld #
+https://github.com/digitalocean/omniauth-digitalocean # DigitalOcean OAuth2 Strategy for OmniAuth
+https://github.com/digitalocean/go-metadata # Go client for the metadata API.
+https://github.com/digitalocean/github-changelog-generator # A tool to generate changelog entries from GitHub repositories.
+https://github.com/digitalocean/netbox-ip-controller # A Kubernetes controller to import the IP addresses and metadata of pods and services into NetBox.
+https://github.com/digitalocean/sample-push-to-deploy-doks # Push-to-deploy example using DOCR and DOKS
+https://github.com/digitalocean/sample-functions-python-helloworld #
+https://github.com/digitalocean/packer-plugin-digitalocean # Packer plugin for DigitalOcean Builder
+https://github.com/digitalocean/terraform-provider-sendgrid # Sendgrid Terraform Provider
+https://github.com/digitalocean/sample-expressjs # ⛵ App Platform sample Express.js application.
+https://github.com/digitalocean/production-ready-kubernetes-workshop # The repository for DigitalOcean's Production Ready Kubernetes Workshop
+https://github.com/digitalocean/sample-nuxtjs # ⛵ App Platform sample Nuxt.js application.
+https://github.com/digitalocean/sample-vuejs # ⛵ App Platform sample Vue.js application.
+https://github.com/digitalocean/sample-functions-python-twilio-sms # Sending sms via Twilio
+https://github.com/digitalocean/sample-functions-php-numberstowords #
+https://github.com/digitalocean/sample-rails # ⛵ App Platform sample Ruby on Rails application.
+https://github.com/digitalocean/sample-functions-php-helloworld # A PHP helloworld sample function for Cloud Functions
+https://github.com/digitalocean/sample-hugo # ⛵ App Platform sample Hugo application.
+https://github.com/digitalocean/sample-functions-python-sendgrid-email # Sending emails via Sendgrid API
+https://github.com/digitalocean/github-pr-resource # Github pull request resource for Concourse
+https://github.com/digitalocean/icingaweb2-module-netboximport # Icinga2 Director integration for Netbox
+https://github.com/digitalocean/docker-shipit-engine # Docker image for https://github.com/Shopify/shipit-engine
+https://github.com/digitalocean/sample-functions-golang-presigned-url # Creating a presigned url for DO's Spaces
+https://github.com/digitalocean/sample-laravel-api # ⛵ App Platform sample Laravel API application.
+https://github.com/digitalocean/digitalocean-ceph-lab # Terraform and Ansible automation to provision and configure a Ceph test environment on DigitalOcean.
+https://github.com/digitalocean/k8s-adoption-journey # Hands-on tutorial for going from Day-1 to production on DigitalOcean Kubernetes.
+https://github.com/digitalocean/gnulib # A mirror of the gnulib portability and testing suite for internal builds that use it as a submodule
+https://github.com/digitalocean/sample-dockerfile-static # ⛵ App Platform sample Dockerfile static site.
+https://github.com/digitalocean/s3sync # Sync local directory to Spaces/S3 based on inotify events
+https://github.com/digitalocean/sample-functions-typescript-helloworld #
+https://github.com/digitalocean/sample-gatsby # ⛵ App Platform sample Gatsby application.
+https://github.com/digitalocean/marketplace-blueprints #
+https://github.com/digitalocean/serverless-jamstack # Contains sample code for a serverless Jamstack tutorial published on docs.digitalocean.com
+https://github.com/digitalocean/marketplace-matrix # Source code for https://marketplace.digitalocean.com/apps/matrix-synapse-backend
+https://github.com/digitalocean/folding-at-home-image # https://marketplace.digitalocean.com/apps/foldinghome
+https://github.com/digitalocean/pixels-to-cloud # pixels-to-cloud is a photo-editor app that aims to inspire developers
+https://github.com/digitalocean/golang-slackbot # Composed slackbot golang function with 3 sample functions
+https://github.com/digitalocean/opentracing-demo # App to demo Jaeger Tracing
+https://github.com/digitalocean/freebsd-fix # Fix for FreeBSD images
+https://github.com/digitalocean/sample-ruby # ⛵ App Platform sample Ruby application.
+https://github.com/digitalocean/gocop # A test utility for Golang
+https://github.com/digitalocean/webhook-sdk-javascript #
+https://github.com/digitalocean/sample-jekyll # ⛵ App Platform sample Jekyll application.
+https://github.com/digitalocean/sample-docker-cobol # Deploying COBOL to DigitalOcean's App Platform via Docker. Using Flask to route and execute the COBOL binaries
+https://github.com/digitalocean/functions-deployer #
+https://github.com/digitalocean/mtls-tech-talk # Presentation given to the Boston Go Meetup
+https://github.com/digitalocean/libguestfs #
+https://github.com/digitalocean/ovs # openvswitch
+https://github.com/digitalocean/sample-functions-golang-random # A sample function that returns a random number.
+https://github.com/digitalocean/security #
+https://github.com/digitalocean/discourse-digitalocean # Discourse theme
+https://github.com/digitalocean/sample-sleeper # ⛵ App Platform sample sleeper worker.
+https://github.com/digitalocean/do-app-with-supabase #
+https://github.com/digitalocean/sample-functions-mysql # Using DO Functions with MySQL
+https://github.com/digitalocean/sample-dockerfile-fortran # Deploying Fortran to App Platform via Docker. Using Flask to route and execute the Fortran binaries
+https://github.com/digitalocean/sample-dockerfile-fastcgi-perl # Dockerfile sample app using Nginx, Fastcgi, and Perl for DigitalOcean's App Platform
+https://github.com/digitalocean/sample-websocket #
+https://github.com/digitalocean/supermin #
+https://github.com/digitalocean/artifactory-docker-resource # Artifactory Docker Resource for Concourse
+https://github.com/digitalocean/sample-hexo # ⛵ App Platform sample Hexo application.
+https://github.com/digitalocean/sample-golang-notes #
+https://github.com/digitalocean/vale-package # A Vale-compatible implementation of the DigitalOcean and Product Docs Style Guides.
+https://github.com/digitalocean/docker-packagecloud #
+https://github.com/digitalocean/openfaas-kubernetes #
+https://github.com/digitalocean/hivex #
+https://github.com/digitalocean/sample-swift # ⛵ App Platform sample Swift application.
+https://github.com/digitalocean/volumes-fix # A fix for incorrectly initialized volumes
+https://github.com/digitalocean/doctl-sandbox-plugin # Supports a new doctl subcommand by incorporating parts of the Nimbella CLI
+https://github.com/digitalocean/menoetius # timeseries storage layer
+https://github.com/digitalocean/github-resource # GitHub Resource for Concourse
+https://github.com/digitalocean/marketplace-openmptcprouter # OpenMPTCProuter VPS Image
+https://github.com/digitalocean/sample-php-subdir #
+https://github.com/digitalocean/concourse-resource-library # Collection of Go packages for Concourse Resources
+https://github.com/digitalocean/osinfo-db-tools #
+https://github.com/digitalocean/katacoda-scenarios # Contains source for Katacoda scenarios, which are interactive tutorials with embedded terminals
+https://github.com/digitalocean/sample-nodejs-kafka #
+https://github.com/digitalocean/pychef #
+https://github.com/digitalocean/osinfo-db #
+https://github.com/digitalocean/ocaml #
+https://github.com/digitalocean/artifactory-resource # Artifactory Resource for Concourse
+https://github.com/digitalocean/whatwillyouDO #
+https://github.com/digitalocean/sample-golang-kafka #
+https://github.com/digitalocean/functions-redis #
+https://github.com/digitalocean/page-ratings # DigitalOcean Functions application that receives page ratings
+https://github.com/digitalocean/tutorial-node-sample-app # A 'Hello World' Node.JS sample app that can be used for DigitalOcean Product Docs tutorials.
+https://github.com/digitalocean/logmatcher # used for matching and filtering syslog/captainslog messages
+https://github.com/digitalocean/digitalocean_discourse_theme # Repo containing the theme files for our discourse server
+https://github.com/digitalocean/reach-tabs # Temporary fork of @reach/tabs
+https://github.com/digitalocean/test-agent-ci # just for testing ci integration
+https://github.com/digitalocean/cve-search #
+https://github.com/digitalocean/sample-functions-nodejs-calculator #
+https://github.com/digitalocean/libsys-virt-perl #
+https://github.com/digitalocean/sample-php-composer2 #
+
+https://github.com/do-community/ansible-playbooks # Playbooks for automating server procedures based on our Community guides
+https://github.com/do-community/cloud_haiku # Community-made poetry about infrastructure
+https://github.com/do-community/travellist-laravel-demo # Laravel Demo Application
+https://github.com/do-community/example-doctl-action # GitHub Actions for DigitalOcean Example Workflow
+https://github.com/do-community/do-article-templates # Markdown templates for DO Community Authors
+https://github.com/do-community/terraform-sample-digitalocean-architectures # Deployable Production Cloud Architectures for use on DigitalOcean via Terraform
+https://github.com/do-community/automated-setups # Automated versions of common server setups
+https://github.com/do-community/django-todo-react #
+https://github.com/do-community/doks-monitoring # DigitalOcean Kubernetes Cluster Monitoring Quickstart
+https://github.com/do-community/dns-tool # A set of browser-based DNS tools for DigitalOcean Community.
+https://github.com/do-community/ansible-laravel-demo # Ansible + Laravel Demo
+https://github.com/do-community/ubuntu-1604-mysql-backup # This repository contains a few scripts for automating backups with Percona Xtrabackup and Innobackupex
+https://github.com/do-community/terraform-ansible-demo # Use Terraform and Ansible to launch and configure demo infrastructure on DigitalOcean
+https://github.com/do-community/django-polls # Django Tutorial Polls App
+https://github.com/do-community/functions-resources # Resources for using DigitalOcean Cloud Functions
+https://github.com/do-community/react-hooks-timer # Finished and updated code for the Countdown Timer with React Hooks tutorial.
+https://github.com/do-community/rss-reader-api # RSS Reader API written in Django Rest
+https://github.com/do-community/do-ansible-inventory # 📗 a tool to generate Ansible inventories of DigitalOcean Droplets
+https://github.com/do-community/css-parallax-scrolling-chrome # Code example for Pure-CSS Parallax Scrolling Effect in Chrome
+https://github.com/do-community/building-a-tabs-component-react # Source code for the "Building a Tabs Component with React" article.
+https://github.com/do-community/landing-laravel # A demo Laravel 8 + Docker Compose application
+https://github.com/do-community/ansible-practice # Playbook examples to demonstrate basic concepts when writing Ansible playbooks.
+https://github.com/do-community/glob-tool # A tool to test globs against sets of test strings quickly and easily for the DigitalOcean Community.
+https://github.com/do-community/developer-glossary # A community-built glossary of technical terms.
+https://github.com/do-community/ejs-demo # Demo of ejs templates for node apps, covered here: https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application
+https://github.com/do-community/k8s-intro-meetup-kit # "Getting Started with Containers and Kubernetes" Meetup Kit Demo Code
+https://github.com/do-community/minify-tool # A web tool for the DigitalOcean Community to quickly minify JavaScript files
+https://github.com/do-community/rss-reader-frontend #
+https://github.com/do-community/mongodb-resources # Resources for using MongoDB on DigitalOcean
+https://github.com/do-community/creatorlinks # An open source, self-hosted links landing page
+https://github.com/do-community/blog-strapi #
+https://github.com/do-community/bandwidth-tool # A tool to help calculate and explain bandwidth allowances for Droplets on DigitalOcean.
+https://github.com/do-community/do-bulma # Customized Bulma styling for DigitalOcean Community tools.
+https://github.com/do-community/python3_web_api_tutorial #
+https://github.com/do-community/laravel-tailwind-starter # A demo Laravel application with Tailwind CSS
+https://github.com/do-community/do-blueprint-nodeapp # Blueprint for node.js application
+https://github.com/do-community/html_demo_site # A demo site for the How To Build a Website With HTML tutorial series
+https://github.com/do-community/do-blueprint-cachet # Blueprint for setting up the Cachet status page app w/ MySQL database
+https://github.com/do-community/ansible-role-mysql # Ansible role to set up MySQL group replication
+https://github.com/do-community/MySocialNetwork # Tutorial code for "How To Use Routing with React Navigation in React Native" and "Introduction to Using Redux in a React Native App".
+https://github.com/do-community/sample-yarn-lerna-monorepo #
+https://github.com/do-community/kubectl-doweb # a kubectl plugin for opening the control panel page of DigitalOcean resources directly in your web browser
+https://github.com/do-community/OSS-2022-Getting-Started-With-Kubernetes # A repo for the OSS 2022 Tutorial Getting Started with Kubernetes
+https://github.com/do-community/do-vue # Custom Vue templates & resources for DigitalOcean Community tools.
+https://github.com/do-community/url-shortener-api # An API for creating quick links
+https://github.com/do-community/available-images # A simple list of all images available on DigitalOcean.
+https://github.com/do-community/python-ots-api # A One Time Secret API implemented using Flask and Redis
+https://github.com/do-community/hacktober-board # Hacktoberfest Board
+https://github.com/do-community/example-k8s-workloads # Example workloads to practice deploying to Kubernetes
+https://github.com/do-community/sysadminday # Microsite for sysadminday.digitalocean.com (and sysadmin.love)
+https://github.com/do-community/learning-labs # LearningLabs is a Shark-a-Hack 2021-Q1 Project
+https://github.com/do-community/ansible-role-proxysql # Ansible role to set up ProxySQL for MySQL group replication hosts
+https://github.com/do-community/do-blueprint-mysqlgrouprepl # Blueprint for setting up MySQL group replication with ProxySQL to route queries
+https://github.com/do-community/node-express-api #
+https://github.com/do-community/docker-bp-commands # Dockerfile for running Terraform, Ansible, and doctl
+https://github.com/do-community/rss-reader-app-platform-spec # The spec file and deployment instructions for the RSS Reader App
+https://github.com/do-community/sample-yarn-workspaces-monorepo #
+https://github.com/do-community/demo-app #
+https://github.com/do-community/ansible-role-cachet # Ansible role to set up the Cachet open source status page app
+https://github.com/do-community/do-function-openai #
+https://github.com/do-community/summer-of-kubernetes # Step-by-step instructions for the 2021 Summer of Kubernetes session with Ambassador Labs
+https://github.com/do-community/hapi-example # Hapi.js Example for tutorial
+https://github.com/do-community/blog-next #
+https://github.com/do-community/deploy-to-do-button-generator #
+https://github.com/do-community/freebsd-do-kernel # A custom DigitalOcean FreeBSD kernel configuration.
+https://github.com/do-community/dns-tool-embed # A portable, embeddable version of the DO Community DNS Lookup tool.
+https://github.com/do-community/do_api_proxy # A Node.JS proxy for making requests to the DigitalOcean API from client-side apps so you don't expose your API key.
+https://github.com/do-community/glob-tool-embed # A portable, embeddable version of the DO Community Glob tool.
+https://github.com/do-community/pulumi-kubernetes #
+https://github.com/do-community/jamstack-blog-nextjs #
+https://github.com/do-community/project-archipelago-go-backend #
+https://github.com/do-community/osiboard # Open Source Issues Board
+https://github.com/do-community/k8s-iac-security-workshop #
+https://github.com/do-community/one-time-secret-frontend # Created with CodeSandbox
+https://github.com/do-community/jamstack-blog-strapi #
+https://github.com/do-community/ansible-apache-tutorial # A sample git repo for the Ansible tutorial.
+https://github.com/do-community/rsvpapp-webinar2 #
+https://github.com/do-community/techtalk-terraform-pulumi # Files for the DigitalOcean Tech Talk: Comparing Terraform and Pulumi
+https://github.com/do-community/k8s-webinar # K8s webinar series files
+https://github.com/do-community/semantic-ui-multistep-form # Finished source code for Creating a Multi-step Form with React and Semantic UI
+https://github.com/do-community/rsvpapp-webinar4 #
+https://github.com/do-community/rsvpapp-webinar3 #
+https://github.com/do-community/my-next-app #
+https://github.com/do-community/do-dns-frontend #
+https://github.com/do-community/functions-examples #
+https://github.com/do-community/app-platform-showcase-api #
+https://github.com/do-community/DO-Kubernetes-Office-Hours #
+https://github.com/do-community/hackathon-template #
+https://github.com/do-community/us-aquarium-search # U.S. Aquarium Search & Filter

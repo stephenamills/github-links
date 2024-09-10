@@ -1,0 +1,182 @@
+https://github.com/chef/chef # Chef Infra, a powerful automation platform
+
+https://github.com/inspec/inspec # InSpec: Auditing and Testing Framework
+https://github.com/inspec/inspec-gcp # InSpec GCP (Google Cloud Platform) Resource Pack
+https://github.com/inspec/inspec-azure # InSpec Azure Resource Pack
+https://github.com/inspec/inspec-aws # InSpec AWS Resource Pack https://www.inspec.io/
+https://github.com/inspec/train # Transport Interface to unify communication over SSH, WinRM, and friends.
+https://github.com/inspec/kitchen-inspec # Test-Kitchen Plugin for InSpec
+https://github.com/inspec/inspec-digitalocean #
+https://github.com/inspec/inspec-vault # An InSpec input source plugin for HashiCorp Vault
+https://github.com/inspec/inspec-chef-server # Inspec profile for Chef Server
+https://github.com/inspec/train-aws # AWS transport plugin for Train
+https://github.com/inspec/train-digitalocean # InSpec Platform Extension for Digitalocean
+https://github.com/inspec/inspec-habitat # InSpec Habitat Resource Pack
+https://github.com/inspec/train-k8s-container # Transport for Kubernetes containers for use with Chef InSpec
+https://github.com/inspec/inspec-objects # API for creating Chef InSpec profiles
+https://github.com/inspec/inspec-integration-profile #
+https://github.com/inspec/train-habitat # Habitat transport plugin for InSpec
+https://github.com/inspec/inspec-test-profile-default-main # An inspec test profile whose default branch is named main.
+https://github.com/inspec/inspec-test-profile-basic # A Chef InSpec profile used to test InSpec itself, with one simple control
+https://github.com/inspec/iis-resource-pack # IIS resource pack
+https://github.com/inspec/inspec-train #
+https://github.com/inspec/inspec-test-signed-profile-inheritance # A Chef InSpec signed profile used to test InSpec itself.
+https://github.com/inspec/train-winrm # WinRM transport for Train
+https://github.com/inspec/magic-modules #
+https://github.com/inspec/inspec-test-profile-run-context-audit # InSpec test profile for detecting running under Audit Cookbook
+
+https://github.com/chef/effortless # Automated best practices for Chef Infra and Chef InSpec
+https://github.com/chef/chef-web-docs # All The Documentation
+https://github.com/chef/cookstyle # A linting tool that helps you to write better Chef Infra cookbooks and InSpec profiles
+https://github.com/chef/gatherlogs-reporter # Inspec profiles for examining gatherlog output from chef-products for support.
+https://github.com/chef/inspec-extra-resources #
+https://github.com/chef/inspec-on-aws # A sample application in AWS built with Terraform.
+
+https://github.com/chef/bento # Packer templates for building minimal Vagrant baseboxes for multiple platforms
+https://github.com/chef/omnibus # Easily create full-stack installers for your project across a variety of platforms.
+https://github.com/chef/ohai # Ohai profiles your system and emits JSON
+https://github.com/chef/chef-zero # Simple, easy-run, fast-start in-memory Chef server for testing and solo purposes
+https://github.com/chef/chef-vault # Securely manage passwords, certs, and other secrets in Chef
+https://github.com/chef/knife-ec2 # Chef knife plug-in for AWS EC2
+https://github.com/chef/chef-server # Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.
+https://github.com/chef/automate # Chef Automate provides a full suite of enterprise capabilities for maintaining continuous visibility
+https://github.com/chef/supermarket # Chef's community platform
+https://github.com/chef/knife-vsphere # Chef knife plug-in for VMware vSphere
+https://github.com/chef/knife-windows # Plugin for Chef's knife tool for working with Windows nodes
+https://github.com/chef/chef-workstation # Chef Workstation gives you everything you need to get started with Chef
+https://github.com/chef/omnibus-software # Open Source Software for use in Omnibus built packages
+https://github.com/chef/mixlib-shellout # mixin library for subprocess management, output collection
+https://github.com/chef/chef-web-docs # All The Documentation
+https://github.com/chef/mixlib-cli # A mixin for creating command line applications - gives an easy DSL for argument specification and processing
+https://github.com/chef/knife-openstack # Chef Infra knife plug-in for OpenStack
+https://github.com/chef/os_release # A repo containing the /etc/os-release file from various Linux distros
+https://github.com/chef/chef-oss-practices # Documentation and Practices for Open Source Development at Chef
+https://github.com/chef/knife-azure # Chef knife plug-in for Microsoft Azure
+https://github.com/chef/artifactory-client # A simple, lightweight Ruby client for interacting with the Artifactory API.
+https://github.com/chef/knife-google # Chef knife plug-in for Google Compute
+https://github.com/chef/win32-service # A Ruby library that allows users to inspect, control or create services on MS Windows
+https://github.com/chef/mixer # Mix in functions from other modules
+https://github.com/chef/concrete # Concrete enhances your rebar based Erlang project by providing a common Makefile wrapper
+https://github.com/chef/mixlib-config # A simple class based Config mechanism, similar to the one found in Chef
+https://github.com/chef/sqerl # General purpose RDBMS abstraction layer
+https://github.com/chef/vscode-chef # Chef Infra Extension for Visual Studio Code
+https://github.com/chef/cheffish # Resources and tools for testing and interacting with Chef and Chef Server.
+https://github.com/chef/knife-tidy # Report on stale Chef Server nodes/cookbooks
+https://github.com/chef/mixlib-log # A simple class based Log mechanism, similar to Merb and Chef, that you can mix in to your project.
+https://github.com/chef/chef-load # chef-load - a tool for simulating load on a Chef Infra Server and/or a Chef Automate server
+https://github.com/chef/knife-ec-backup # Backup and restore Chef Infra Server in a repository-compatible format
+https://github.com/chef/mini_s3 # Minimal AWS S3 client for Erlang
+https://github.com/chef/okta_aws # Tool for accessing the AWS API for an account you normally access via okta
+https://github.com/chef/dep-selector # Fast Dependency Solver for Ruby using Gecode
+https://github.com/chef/omnitruck # Web service to automate the release of Omnibus artifacts
+https://github.com/chef/kitchen-vcenter # A test-kitchen driver for vCenter REST API
+https://github.com/chef/win32-process # A Ruby library that adds or redefines several methods for the Process module
+https://github.com/chef/omnibus-ctl # Provides service control for omnibus packages
+https://github.com/chef/mixlib-authentication # AuthN signing and verification. Appears in both the client and server
+https://github.com/chef/knife-cloud # Library for Chef knife cloud plugins
+https://github.com/chef/win32-eventlog # The win32-eventlog library provides a Ruby interface for reading from and writing to the Windows Event Log
+https://github.com/chef/win32-taskscheduler # A Ruby interface for the task scheduler on MS Windows
+https://github.com/chef/mixlib-versioning # General purpose Ruby library that allows you to parse, compare, and manipulate version strings in multiple formats.
+https://github.com/chef/chefstyle # Version Pinned RuboCop with Chef approved Cop list for linting software - NOT FOR COOKBOOKS
+https://github.com/chef/chef-cli # The 'chef' command line tool included in Chef Workstation
+https://github.com/chef/anka-buildkite-plugin # Run Buildkite steps inside Veertu Anka Virtual Machines
+https://github.com/chef/appbundler # Generate locked binstubs for ruby applications
+https://github.com/chef/win32-file # Extra methods, and redefined methods, for the File class on MS Windows
+https://github.com/chef/chef-apply # The ad-hoc execution tool for the Chef ecosystem.
+https://github.com/chef/wmi-lite # Lightweight, low-dependency wrapper for basic WMI functionality on Windows.
+https://github.com/chef/ffi-libarchive # A Ruby FFI binding to libarchive.
+https://github.com/chef/stats_hero # General purpose stats collection
+https://github.com/chef/knife-vrealize # Plugin for Chef's knife tool to interact with VMware vRealize products
+https://github.com/chef/mixlib-install # A library for interacting with Chef Software Inc's software distribution systems.
+https://github.com/chef/chef_authn # Erlang API request authentication signing and verification for Chef
+https://github.com/chef/chef-workstation-app # The Chef Workstation desktop application.
+https://github.com/chef/ffi-yajl # Ruby FFI gem wrapper around yajl2 library
+https://github.com/chef/dep-selector-libgecode # Bundled Gecode Libraries for dep-selector
+https://github.com/chef/corefoundation # FFI based Ruby bindings for the CoreFoundation frameworks
+https://github.com/chef/win32-certstore # Ruby library for accessing the certificate store on Windows
+https://github.com/chef/architecture-center #
+https://github.com/chef/fixie # Low level manipulation tool for chef in sql
+https://github.com/chef/knife-vcenter # Chef knife plug-in for VMware REST API
+https://github.com/chef/win32-security # A Ruby interface for security aspects of MS Windows
+https://github.com/chef/win32-dir # A series of constants, and extra or redefined methods, for the Dir class on Windows
+https://github.com/chef/chef_backup # A library to backup an Chef server
+https://github.com/chef/chef-vault-testfixtures # provides an RSpec shared context for testing Chef cookbooks that use chef-vault
+https://github.com/chef/opscoderl_httpc # Opscode helper application for being an HTTP client
+https://github.com/chef/license-acceptance # Chef Software libraries for accepting usage license
+https://github.com/chef/rubydistros # Dockerfiles for Ruby on various Linux distros
+https://github.com/chef/chef-analyze # A CLI to analyze artifacts from a Chef Infra Server
+https://github.com/chef/win32-event # A Ruby interface to Event objects on MS Windows
+https://github.com/chef/win32-mmap # A Ruby interface for memory mapped files on MS Windows
+https://github.com/chef/license_scout # Discovers license information of the dependencies of a project.
+https://github.com/chef/cookbook-omnifetch # Fetch Chef Cookbooks from Various Sources to a Local Cache
+https://github.com/chef/github-workflows # Github Actions Workflows
+https://github.com/chef/appbundle-updater # A little help when you want to update an appbundled project inside of a Chef/ChefDK omnibus package
+https://github.com/chef/ci-studio-common # Shared helpers for use inside CIs (like Travis) and a Habitat Studio
+https://github.com/chef/win32-ipc # A Ruby abstract base class for synchronization objects on MS Windows
+https://github.com/chef/chef-web-core # Shared resources for Chef web properties
+https://github.com/chef/automate-liveness-agent # Agent that sends "keep alive" messages to Chef Automate
+https://github.com/chef/chocolatey-packages #
+https://github.com/chef/omnibus-toolchain # Omnibus packaging for Omnibus toolchain
+https://github.com/chef/community_cookbook_releaser # A simple script to aid in version bumps and changelog generation for Chef managed community cookbooks
+https://github.com/chef/folsom_graphite # Send data from folsom automatically to graphite
+https://github.com/chef/chef-powershell-shim # .NET 4.0/COM wrapper around PowerShell host
+https://github.com/chef/habitat_exporter #
+https://github.com/chef/cookstylist # Cookstyle GitHub app
+https://github.com/chef/chef-telemetry # A Ruby gem to send telemetry data per Chef's RFC-051
+https://github.com/chef/opscoderl_folsom # Helpers for instrumenting Erlang apps with folsom metrics
+https://github.com/chef/chef-desktop-quick-setup # Terraform code repository to set up a demo infrastructure for Chef Desktop
+https://github.com/chef/homebrew-chefops-tools # Homebrew formulae for some tools used by Chef Operations
+https://github.com/chef/win32-mutex # A Ruby interface for mutexes on MS Windows
+https://github.com/chef/go-libs # A collection of Go libraries used across the Chef ecosystem
+https://github.com/chef/chef-foundation # Omnibus packaging for chef's base dependencies
+https://github.com/chef/windows-dns-sigred #
+https://github.com/chef/arm-template-deploy #
+https://github.com/chef/chef_secrets # A small erlang application for accessing secrets stores
+https://github.com/chef/oss_project_boilerplate # Example boilerplate for new open source projects at Chef
+https://github.com/chef/fastmsi-custom-action # Windows Installer custom action for ChefDK/Chef FastMSI Omnibus packager
+https://github.com/chef/chef_dictionary # A dictionary file of words in the Chef ecosystem
+https://github.com/chef/opscoderl_wm #
+https://github.com/chef/omnitruck-service #
+https://github.com/chef/chef-plans # Miscellaneous Habitat plans to support Chef projects
+https://github.com/chef/mixlib-authorization # Server side AuthZ. Private to our implementation
+https://github.com/chef/omnibus-harmony # A simple omnibus repository for testing purposes
+https://github.com/chef/foodtruck #
+https://github.com/chef/omniauth-chef-oauth2 # An OmniAuth Strategy for Chef OAuth2 identity service
+https://github.com/chef/vale-chef # Linters for Chef
+https://github.com/chef/did-modify #
+https://github.com/chef/omniauth-chef # An OmniAuth strategy for Chef
+https://github.com/chef/go-filesystem # Wrapper around filesystem libraries that includes some custom helpers
+https://github.com/chef/prod-epics-test #
+https://github.com/chef/rpg-exchange2016-environments # Setup a broken Microsoft Exchange Server 2016 followed by scanning, remediating and scanning again.
+https://github.com/chef/vault-util #
+https://github.com/chef/learn_chef_httpd # Cookbook for the Learn Chef tutorials
+https://github.com/chef/powershell_test # Meant as a placeholder to test chef/powershell_exec code against. It should be empty
+https://github.com/chef/moser # Chef Server CouchDB Migration Utility: a dependency of chef/chef-server
+https://github.com/chef/homebrew-cask-autotesting # Disposable git fork via github for testing. Do not use.
+https://github.com/chef/monitoring-integration-automate # Integrate existing Automate HA infrastructure with a monitoring and alerting tool
+https://github.com/chef/nftables #
+https://github.com/chef/opscode-darklaunch-erlang #
+https://github.com/chef/ffi-win32-extensions # A Ruby library that extends the FFI and String classes for ease of development on MS Windows
+https://github.com/chef/chef_pgtap # CHEF's Custom pgTAP Test Extensions
+https://github.com/chef/lcr-effortless-config-getting-started #
+https://github.com/chef/mlsa #
+https://github.com/chef/kitchen-zone # Test Kitchen Driver for Solaris Zones
+https://github.com/chef/marketo_chef # Marketo API client for our common uses and error handling
+https://github.com/chef/file-mod #
+https://github.com/chef/packer-post-processor-veertu-anka # Upload Anka images to Registry
+https://github.com/chef/chef-examples # Working examples of Chef
+https://github.com/chef/chef-preflight #
+https://github.com/chef/scaffolding-go # Wrapper of the habitat core/scaffolding-go package
+https://github.com/chef/studio-common # Shared helpers for use inside a Habitat Studio
+https://github.com/chef/opendistro-for-elasticsearch # Habitat Plans for Open Distro for Elasticsearch
+https://github.com/chef/chef_req # Erlang library for making authenticated API requests
+https://github.com/chef/vault-dynamodb # Habitat package of Vault with DynamoDB backend storage configuration
+https://github.com/chef/test-infra-as-code # for testing some new tools (do not reuse)
+https://github.com/chef/go-chef-cli #
+https://github.com/chef/common-github-actions # A test repo for common github actions
+https://github.com/chef/omnicaching #
+https://github.com/chef/chef-logger #
+https://github.com/chef/content_delivery_poc # content_delivery_poc
+https://github.com/chef/samples # Sample content related to active Chef products such as cookbooks, policies, and job definitions
+https://github.com/chef/system-demo # Scripts and notes for giving product system demos and workshops
+https://github.com/chef/universal-package # An Omnibus project to create universal macOS installer for Chef Infra Client

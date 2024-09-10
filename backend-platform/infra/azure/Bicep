@@ -1,0 +1,103 @@
+https://github.com/Azure/bicep # Bicep is a declarative language for describing and deploying Azure resources
+
+https://github.com/Azure-Samples/Devcenter # Bicep IaC to expedite onboarding to Microsoft Dev Box and Azure Deployment Environments
+https://github.com/Azure-Samples/azure-ai-studio-secure-bicep # This repository contains a collection of Bicep modules designed to deploy a secure Azure AI Studio environment with robust network
+and identity security restrictions. 
+https://github.com/Azure-Samples/aks-managed-prometheus-and-grafana-bicep # This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
+https://github.com/Azure-Samples/aks-application-gateway-for-containers-bicep # This sample shows how to install an AKS cluster with Azure Application Gateway for Containers via Bicep.
+https://github.com/Azure-Samples/bicep-github-actions # A reference implementation of using GitHub Actions to deploy infrastructure to Azure using Bicep
+https://github.com/Azure-Samples/Tutorial-Deploy-Dapr-Microservices-ACA # Companion repository for Microsoft Docs Tutorial: Deploy a Dapr application to Azure Container Apps with an Azure Resour
+ce Manager or Bicep template 
+https://github.com/Azure-Samples/aks-api-server-vnet-integration-bicep # This sample shows how to deploy an AKS cluster with API server VNET integration using Bicep.
+https://github.com/Azure-Samples/avm-bicep-labs #
+https://github.com/Azure-Samples/azd-starter-bicep # Starter template with Bicep as infrastructure provider for Azure Developer CLI (azd).
+https://github.com/Azure-Samples/aks-istio-addon-bicep # This sample shows how to install an AKS cluster with the Istio service mesh add-on via Bicep.
+https://github.com/Azure-Samples/aks-workload-identity # Showcasing the different application identity options for accessing Azure Key Vault from AKS.
+https://github.com/Azure-Samples/frontdoor-bicep-network-secure-global-ingress #
+https://github.com/Azure-Samples/container-apps-jobs # This sample shows how to create Azure Container Apps Jobs via Azure CLI and Bicep and how to start and monitor these components.
+https://github.com/Azure-Samples/opencost # Sample of using OpenCost on AKS
+https://github.com/Azure-Samples/azure-private-link-service # This sample shows how to use Bicep to create an Azure Private Link Service that can be accessed by a third party via an Azure Privat
+e Endpoint. Bicep modules deploy all the Azure resources in the same resource group in the same Azure subscription. 
+https://github.com/Azure-Samples/todo-csharp-sql # A blueprint for getting a React web app with a C# API and a SQL database on Azure. The blueprint includes sample application code (a ToDo web a
+pp) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/todo-csharp-cosmos-sql # A blueprint for getting a React web app with a C# API and a MongoDB database on Azure. The blueprint includes sample application code (a
+ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/aks-openai # This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Bicep and how to deploy a Python chatbot that
+authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model. 
+https://github.com/Azure-Samples/todo-nodejs-mongo # A blueprint for getting a React web app with a Node.js API and a MongoDB database on Azure. The blueprint includes sample application code (a
+ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/azure-search-deployment-template # Create a search service with an index using a bicep template.
+https://github.com/Azure-Samples/todo-python-mongo # A blueprint for getting a React.js web app with Python (FastAPI) API and a MongoDB API in Cosmos database onto Azure. It includes sample appl
+ication code (a ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/todo-csharp-sql-swa-func # A blueprint for getting a React web app with a C# API and a SQL database on Azure. The blueprint includes sample application code (a T
+oDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/todo-nodejs-mongo-aca # A blueprint for getting a React web app with a Node.js API and a MongoDB database onto Azure. The blueprint includes sample application c
+ode (a ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/gh-codespaces-copilot-in-a-day-ko # GitHub Codespaces & Copilot 핸즈온 워크샵 리포지토리입니다
+https://github.com/Azure-Samples/todo-nodejs-mongo-swa-func # A blueprint for getting a React web app with a Node.js API and a MongoDB database on Azure. The blueprint includes sample applicatio
+n code (a ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/app-service-and-sql-database-3-tier-with-private-networking-and-auth # This repository is an example of deploying a 3 tier ASP.NET Core application to Azure App
+Service and SQL Database using Bicep and Azure DevOps Pipelines. It implements private networking with private end points and authentication on all tiers with Azure Active Directory. 
+https://github.com/Azure-Samples/todo-nodejs-mongo-aks # A blueprint for getting a React.js web app with a Node.js API and a MongoDB database on Azure. The blueprint includes sample application
+code (a ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/todo-java-mongo # A blueprint for getting a React.js web app with a Java API and a MongoDB database on Azure. The blueprint includes sample application code (a T
+oDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/todo-java-mongo-aca # A blueprint for getting a React web app with a Java API and a MongoDB database on Azure. The blueprint includes sample application code (a
+ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. 
+https://github.com/Azure-Samples/aks-ephemeral-os-disk # This article plus sample analyzes the available configuration settings for the ephemeral OS disk in Azure Kubernetes Service (AKS).
+https://github.com/Azure-Samples/symphony-bicep #
+https://github.com/Azure-Samples/azure-ad-workload-identity-mi # This project shows how to use Azure AD workload identity with a user-assigned managed identity in a .NET Standard application run
+ning on Azure Kubernetes Service. 
+https://github.com/Azure-Samples/highly-available-zone-redundant-ipaas # Bicep template for Highly available zone-redundant iPaaS application reference architecture.
+https://github.com/Azure-Samples/todo-java-postgresql-terraform # React ToDo web app with a Java API and a PostgreSQL database on Azure.
+
+https://github.com/Azure/bicep-registry-modules # Bicep registry modules
+https://github.com/Azure/ALZ-Bicep # This repository contains the Azure Landing Zones (ALZ) Bicep modules
+https://github.com/Azure/azure-quickstart-templates # Azure Quickstart Templates
+https://github.com/Azure/ResourceModules # This repository includes a CI platform for and collection of mature and curated Bicep modules.
+https://github.com/Azure/bicep-lz-vending # Bicep module & pipelines to deploy landing zone subscriptions
+https://github.com/Azure/vscode-remote-try-bicep #
+https://github.com/Azure/azure-docs-bicep-samples #
+https://github.com/Azure/bicep-types-az # Bicep type definitions for ARM resources
+https://github.com/Azure/AzOps # AzOps is a PowerShell module which deploys (Push) ARM Resource Templates & Bicep files at all Azure scope levels and exports (Pull) ARM resource hierarchy.
+https://github.com/Azure/AKS-Construction # Accelerate your onboarding to AKS with; Helper Web App, bicep templating and CI/CD samples. Flexible & secure AKS baseline implementations in a Micros
+https://github.com/Azure/bicep-types # Shared libraries for reading and writing Bicep type definitions
+https://github.com/Azure/bicep-extensibility # The service-side implementation for Bicep extensibility
+https://github.com/Azure/avdaccelerator # AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices
+https://github.com/Azure/bicep-build-action # GitHub Action for building an ARM Template from Bicep
+https://github.com/Azure/appservice-landing-zone-accelerator # The Azure App Service landing zone accelerator is an open-source collection of architectural guidance and reference implementation
+to accelerate deployment of Azure App Service at scale. https://github.com/Azure/bicep-types-k8s # Bicep type definitions for Kubernetes resources
+https://github.com/Azure/PSRule.Rules.Azure-quickstart # Sample code you can use to quickly start using PSRule for Azure.
+https://github.com/Azure/data-management-zone # Template to deploy the Data Management Zone of Cloud Scale Analytics (former Enterprise-Scale Analytics). The Data Management Zone provides data g
+overnance and management capabilities for the data platform of an organization. https://github.com/Azure/CanadaPubSecALZ # This reference implementation is based on Cloud Adoption Framework for Azure and provides an opinionated implementation that enables ITSG-33 regulatory
+compliance by using NIST SP 800-53 Rev. 4 and Canada Federal PBMM Regulatory Compliance Policy Sets. https://github.com/Azure/aca-landing-zone-accelerator # The Azure Container Apps landing zone accelerator is an open-source collection of architectural guidance and reference implementation to a
+ccelerate deployment of Azure Container Apps at scale. https://github.com/Azure/data-landing-zone # Template to deploy a single Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics). The Data Landing Zone
+is a logical construct and a unit of scale in the architecture that enables data retention and execution of data workloads for generating insights and value with data. https://github.com/Azure/PSRule.Rules.Azure # Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
+https://github.com/Azure/ALZ-PowerShell-Module # The Azure Landing Zones Accelerators PowerShell module
+https://github.com/Azure/Azure-Verified-Modules # Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Mod
+ules will then align to these standards, across languages (Bicep, Terraform etc.) and will then be classified as AVMs and available from their respective language specific registries. https://github.com/Azure/reddog-solutions # Reddog Cloud Native Solutions
+https://github.com/Azure/data-product-analytics # Template to deploy a Data Product for analytics and data science use-cases into a Data Landing Zone of the Data Management & Analytics Scenario
+(former Enterprise-Scale Analytics). The Data Product template can be used by cross-functional teams to create insights and products for external users. https://github.com/Azure/deployment-what-if-action # GitHub Action to preview Azure infrastructure changes before its deployment.
+https://github.com/Azure/ADXIoTAnalytics # Azure Data Explorer can provide valuable insights into your IoT workloads. In the following Hands-On Lab we look at thermostat IoT Devices that are in
+3 different office buildings. https://github.com/Azure/data-product-batch # Template to deploy a Data Product for Batch data processing into a Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-
+Scale Analytics). The Data Product template can be used by cross-functional teams to ingest, provide and create new data assets within the platform. https://github.com/Azure/AI-IaC-Prompts # Submit your prompts to the Azure Deployments team for AI or Copilot to help prioritize and improve your infrastructure-as-code (IaC) experiences.
+https://github.com/Azure/data-product-streaming # Template to deploy a Data Product for data stream processing into a Data Landing Zone of the Data Management & Analytics Scenario (former Enterp
+rise-Scale Analytics). The Data Product template can be used by cross-functional teams to ingest, provide and create new data assets within the platform. https://github.com/Azure/bicep-registry-providers # Bicep registry providers
+https://github.com/Azure/azure-spring-apps-landing-zone-accelerator # The Azure Spring Apps landing zone accelerator is an open-source collection of architectural guidance and reference implemen
+tation to accelerate deployment of Azure Spring Apps at scale. https://github.com/Azure/bicep-shared-tools # Tools used by the build pipelines of one or more Bicep repositories.
+https://github.com/Azure/bicep-reps # Request for Enhancement Proposals (REPs) for Bicep
+https://github.com/Azure/resource-modules-registry # This repository is used to store a decoupled version of Azure/ResourceModules where modules are published to a public Bicep registry and can
+be called from.  
+https://github.com/MicrosoftDocs/mslearn-manage-multiple-environments-using-bicep-azure-pipelines # Code used in Microsoft Learn module titled 'Manage multiple environments by using Bicep and Az
+ure Pipelines' https://github.com/MicrosoftDocs/mslearn-manage-multiple-environments-using-bicep-github-actions # Code used in Microsoft Learn module titled 'Manage multiple environments by using Bicep and Git
+Hub Actions' https://github.com/MicrosoftDocs/mslearn-review-azure-infrastructure-changes-using-bicep-pull-requests # Code used in Microsoft Learn module titled 'Review Azure infrastructure changes by using
+Bicep and pull requests' https://github.com/MicrosoftDocs/mslearn-test-bicep-code-using-github-actions # Code used in Microsoft Learn module titled 'Test your Bicep code by using GitHub Actions'
+https://github.com/MicrosoftDocs/mslearn-test-bicep-code-using-azure-pipelines # Code used in Microsoft Learn module titled 'Test your Bicep code by using Azure Pipelines'
+https://github.com/MicrosoftDocs/mslearn-manage-end-end-deployment-scenarios-using-bicep-azure-pipelines # Code used in Microsoft Learn module titled 'Manage end-to-end deployment scenarios by u
+sing Bicep and Azure Pipelines' https://github.com/MicrosoftDocs/mslearn-manage-end-end-deployment-scenarios-using-bicep-github-actions # Code used in Microsoft Learn module titled 'Manage end-to-end deployment scenarios by us
+ing Bicep and GitHub Actions' https://github.com/MicrosoftDocs/mslearn-publish-reusable-bicep-code-using-github-actions # Code used in Microsoft Learn module titled 'Publish reusable Bicep code by using GitHub Actions'
+https://github.com/MicrosoftDocs/mslearn-publish-reusable-bicep-code-using-azure-pipelines # Code used in Microsoft Learn module titled 'Publish reusable Bicep code by using Azure Pipelines'
+https://github.com/MicrosoftDocs/mslearn-automate-azure-infrastructure-change-reviews-using-bicep-github # Code used in Microsoft Learn module titled 'Automate Azure infrastructure change review
+s by using Bicep and GitHub'
+
+https://github.com/microsoftlearning/eshoponweb # Project used for AZ-400 Labs.

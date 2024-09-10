@@ -1,0 +1,93 @@
+https://github.com/hath995/dafny/ # about 20 leetcode problems
+https://github.com/hath995/Dafny4.4/ # about 10 leetcode problems
+https://github.com/Nangos/dafleet # five leetcode problems
+https://github.com/zhuzilin/dafny-exercises/ # two leetcode problems
+
+https://github.com/joaopascoalfariafeup/DafnyProjects # has bubble sort, bank account, arrays, trees, graphs, queues, combnk, hash table
+https://github.com/Nangos/verified-algorithms/ # has dynamic programming stairs
+https://github.com/kluxa/dafny-algorithms # arrays and sorting
+https://github.com/gaberch/various-algorithms-verified-with-dafny # short code
+https://github.com/uw-ece653/dafny # has bubble sort and a few other examples
+https://github.com/vladstejeroiu/Dafny-programs/ # has AVL tree, transitive reduciton of a graph, and multiple basic data structures
+https://github.com/vitorhugo13/feup-mfes/ # binary search, insertion sort, queue
+https://github.com/rposchinger/dafny-avl-tree/ # AVL tree
+https://github.com/89oinotna/dafny-exercises #
+https://github.com/PaulaPastorPerez/TFM # greedy algorithms
+https://github.com/sinead-dickson/formal-verification-dafny # strings
+https://github.com/stefano-lupo/formal-verification-dafny/ # strings
+https://github.com/shuchman/Dafny-Practice # pattern matching
+https://github.com/deirdrecleary/final-year-project # hash tables
+https://github.com/stephrmcintyre/cs245-verification/ # has quicksort partition and bubble sort
+https://github.com/johannes-riecken/dafny # bank account
+https://github.com/artandfi/atm-specification # bank ATM
+https://github.com/uw-stqam-w19/dafny # bubble sort and basic stuff
+https://github.com/uw-stqam-w20/dafny # bubble sort
+https://github.com/TonyZhangND/dafny-sort # merge sort and selection sort
+https://github.com/j0nah/queue # simple queue
+https://github.com/arthurwenger/dafny # dutch flag
+https://github.com/tareqmahmood/dafny-learn/ # binary search
+https://github.com/seesaw-7/dafny_tasks/ # leader election
+https://github.com/shivam1903/DP_Project # binary tree that is kinda elegant
+https://github.com/terrificxu/final-project-dafny/ # parallel sort
+https://github.com/Mondego/dafny-synthesis/ # Google basic problems dataset
+https://github.com/dafny-lang/dafny/tree/master/source/dafnystandardlibraries # standard library
+
+https://github.com/Consensys/dafny-training # training by Consensys
+https://github.com/GLaDOS-Michigan/verification-class # University of Michigan course (2022)
+https://github.com/89oinotna/Dafny-Exercises # related to Michigan course, I think
+https://github.com/tchajed/protocol-verification-fa2023/ # University of Wisconsin course, similar
+https://github.com/jonhnet/vmware-verification-2023/ # protocol verification course
+https://github.com/byu-cs329/hw5-formal-verification # course by Chalmers
+
+https://github.com/benjaminfjones/stunning-palm-tree # program proofs book exercises
+https://github.com/tchajed/dafny-syntax-tutorial # short tutorial (2023)
+https://github.com/bor0/dafny-tutorial # tutorial exercises
+https://github.com/angelhof/penn-cis673-hw-dafny # tutorial exercises
+https://github.com/swarnpriya/Dafny/ # short tutorial
+https://github.com/j-kanbour/formal_verication_dafny/ # a few exercises
+https://github.com/juletx/MFDS/ # long course and short on info
+
+https://github.com/johnlanda/DafnyConsul/ # Consul
+https://github.com/mit-pdos/daisy-nfsd # NFS server in Go
+https://github.com/smithy-lang/smithy-dafny # by Amazon - API spec code generation tool that creates Dafny code
+https://github.com/vmware-labs/verified-betrfs # by VMware Labs - filesystem
+https://github.com/amaurremi/leroy-compiler-dafny # compiler (xavier leroy basic example)
+https://github.com/eligoldweber/llvm_non_interference_proofs # LLVM
+https://github.com/ashalkhakov/dafny-lemon # parser generator
+https://github.com/TonyZhangND/paxos_proof # Paxos
+https://github.com/xbreu/automotive-system/ # safety-critical case study of car acceleration and lighting control systems, Alloy and Dafny
+https://github.com/secure-foundations/everquic-dafny/ # HTTP
+https://github.com/ciobaca/qoi-dafny # image format
+https://github.com/furioncycle/qoa-dafny/ # audio format
+https://github.com/Consensys/evm-dafny # Ethereum interpreter
+https://github.com/Consensys/eth2.0-dafny # Ethereum
+https://github.com/nneamtu/verified-bosco # Bosco consensus
+https://github.com/jorge-jbs/adt-verification-dafny # basically a standard library but super super long code
+https://github.com/aws/aws-encryption-sdk-dafny # by Amazon - encryption
+https://github.com/Mordris/Dafny_Algorithms
+https://github.com/ciobaca/dafny-showcase
+https://github.com/ChloeL19/DafnyBench/ # has palindrome
+https://github.com/sun-wendy/DafnyBench/ # a complete mess
+https://github.com/PedromDimas/Hashmap-daf/ # hashmap
+https://github.com/andricicezar/truesat # backtracking sat solver
+https://github.com/CodeNinja89/dafnyPractice/ # uses classes
+https://github.com/ManuelGMS/Fundamentos-de-algoritmia--FAL-EDA/
+https://github.com/ranger71/logic-and-set-theory-with-dafny/ # logic and set theory
+https://github.com/samuelgruetter/DafnyTour
+https://github.com/arsalan0c/dafny-of-python # not much in here
+https://github.com/dafny-lang/xdsmith # experimental random (fuzz) testing
+https://github.com/tecty/seng2011
+https://github.com/shenghaolin/lstm_dafny
+https://github.com/arthursudbrackibarra/trab1-metodos-formais/ # circular array
+https://github.com/joscoh/verified-counting-sort # counting sort
+https://github.com/paraverifierdafny/paraverif_dafny # cache coherence
+https://github.com/d-parkinson1/dafnyinfoflow # concurrency
+https://github.com/davepearce/devmproofgen/ # proof generator
+https://github.com/chloel19/dafnygithubscrape/ # scrapes GitHub repos
+https://github.com/joshuacrocker/hellodafny
+https://github.com/adityashwarma/using-dafny-to-prove-time-complexity-of-tsp # traveling salesman
+https://github.com/eleanormally/dafny-server
+https://github.com/arranstewart-dev/dafny-gitpod
+https://github.com/whonore/dafny-pretty-progress # better command line output
+https://github.com/kumom/dafny-fatnode/
+https://github.com/hassaanmalik/algorithm-tutorials-in-dafny/

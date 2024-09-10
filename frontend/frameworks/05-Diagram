@@ -1,0 +1,82 @@
+Figma
+https://figma.com/community/file/898328004567525828/figma-denver-figma-to-code-a-2-month-journey # by Bernardo Ferrari - by far the best, backend services high-level design
+https://github.com/figma/architecture-diagram-components # backend services
+https://figma.com/community/file/1170803096873778028 # pretty boxes
+https://figma.com/community/file/989576823914996434 # Azure, characteristic thin stroke widths and readable dark-gray white colors, great typeface in the title
+https://figma.com/community/file/989580565034038997 # Google Cloud
+https://figma.com/community/file/1332727463398521641 # Google Cloud but a light purple color scheme
+https://figma.com/community/file/989585391556898521 # Amazon Web Services
+https://figma.com/community/file/1270646590275827451 # Amazon Web Services again
+https://figma.com/community/file/1015543187940120536 # isometric, backend services
+https://figma.com/community/file/1100594710452335478 # backend network components
+https://figma.com/community/file/1181669867394898197 # Next.js, reasonable design but cluttered organization
+https://figma.com/community/file/1210597707576958150 # frontend software components
+https://figma.com/community/file/1360427005422508305 # decent boxes - worth a look
+https://figma.com/community/file/1100595369945365367 # decent boxes
+https://figma.com/community/file/1185232488113502917 # dry but okay
+https://figma.com/community/file/820081222141219396 # world map with servers on it
+https://figma.com/community/file/942962960153833125 # very bare skeleton template
+https://figma.com/community/file/1289282634966901135 # backend services
+https://figma.com/community/file/1070898072758580221 # sequence diagram but less precise or detailed (a flow chart)
+https://figma.com/community/file/1098826965587543878 # sequence diagram
+https://figma.com/community/file/1332787058464624480 # flow chart with an odd color scheme
+https://github.com/paulmsmith/govuk-designsystem-flow-diagram-figma # flow diagram
+https://figma.com/community/file/1130941125659035137 # it's okay, just horizontal boxes
+https://github.com/planetscale/figma-diagram-generator # creates a diagram of your MySQL database using the FigJam API and Planetscale API
+https://github.com/logeast/figma-uml-widget # creates a UML table diagram
+https://figma.com/community/file/1077327065994144868 # database table
+https://figma.com/community/file/1201120438270691192/db-diagram-sql-server-mongodb # database table
+https://figma.com/community/file/1118686866512029331 # not good but the icon of the post is
+https://figma.com/community/file/1155981953755812052 # Bitmoji
+
+Eraser
+https://eraser.io/examples
+https://eraser.io/decision-node
+
+D2
+
+Visio
+
+Mingrammer
+
+Manim
+
+Draw.io
+https://www.redhat.com/architect/portfolio/
+https://www.redhat.com/architect/design-enterprise-architecture-diagrams
+https://gitlab.com/osspa/portfolio-architecture-examples
+
+Mermaid
+
+PlantUML
+
+Other
+https://github.com/esnet/react-network-diagrams # rack diagrams and more in React, simple and customizable
+https://github.com/figma/architecture-diagram-components # backend software high-level design
+https://github.com/initialcommit-com/git-sim/ # creates a pretty Git diagram using manim
+https://github.com/cjex/regulex # decently well-annotated regular expression breakdown
+https://github.com/wojtekmaj/react-lifecycle-methods-diagram # frontend software sequence diagram (React)
+https://github.com/donavon/hook-flow # frontend software sequence diagram (React)
+https://github.com/algenty/grafana-flowcharting # very good (Grafana)
+https://github.com/yuzutech/kroki # rack diagrams and much more
+https://github.com/oddlama/nix-topology # homelab
+https://github.com/28mm/blast-radius # Terraform
+https://github.com/cycloidio/inframap # Terraform
+https://github.com/plantuml-stdlib/azure-plantuml # cloud - pretty decent
+https://github.com/duo-labs/cloudmapper # cloud
+https://github.com/dyatko/arkit # npm dependencies
+https://github.com/azimuttapp/azimutt # database
+https://github.com/stanch/reftree
+https://github.com/graphql-editor/diagram
+https://github.com/j0ono0/pinout
+
+https://github.com/mrblenny/react-flow-chart # really concise, like 100 lines of code or something
+https://github.com/cidrblock/drawthe.net # almost as good network diagrams as d2 or something
+https://github.com/antonioru/beautiful-react-diagrams
+https://github.com/mrblenny/react-flow-chart
+https://github.com/maxgraph/maxgraph
+https://github.com/jsplumb/community-edition
+https://github.com/kamiazya/rediagram
+https://github.com/northwoodssoftware/gojs-react
+https://github.com/awslabs/diagram-maker
+https://github.com/hikerpig/pintora # sequence diagram

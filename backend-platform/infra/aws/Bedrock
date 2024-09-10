@@ -1,0 +1,203 @@
+https://github.com/aws-solutions-library-samples/guidance-for-generating-product-descriptions-with-amazon-bedrock # Product Descriptions with Bedrock and Rekognition
+https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws # Natural Language Query (NLQ) stack demo
+https://github.com/aws-solutions-library-samples/guidance-for-a-multi-tenant-generative-ai-gateway-with-cost-and-usage-tracking-on-aws # SaaS platform
+https://github.com/aws-solutions-library-samples/guidance-for-improving-application-development-productivity-with-the-sap-abap-assistant-on-aws # SAP ABAP assistant
+https://github.com/aws-solutions-library-samples/guidance-for-enhancing-the-customer-experience-for-travel-and-hospitality-using-amazon-bedrock # Customer service
+https://github.com/aws-solutions-library-samples/guidance-for-querying-sustainability-documents-using-generative-ai-for-esg-reporting-on-aws # Retrieval
+
+https://github.com/build-on-aws/amazon-bedrock-quick-start # Bedrock quickstart
+https://github.com/build-on-aws/bedrock-agents-streamlit # Create Bedrock agents with the Streamlit framework
+https://github.com/build-on-aws/amazon-bedrock-agents-quickstart # Agents with Amazon Bedrock
+https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk # Bedrock, React, and Athena SQL
+https://github.com/build-on-aws/bedrock-agent-txt2sql # Generate Amazon Athena SQL queries to fetch data.
+https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python # WhatsApp app for chatting with a Bedrock model
+https://github.com/build-on-aws/llm-rag-vectordb-python # Retrival with vector database
+https://github.com/build-on-aws/amazon-bedrock-custom-langchain-agent # Learn to build custom prompts and tools for LangChain agents
+https://github.com/build-on-aws/amazon-bedrock-agents-outfit-assistant # Amazon Bedrock Agents demo.
+https://github.com/build-on-aws/amazon-bedrock-minecraft-agent # AI agentic bot for Minecraft using Agents for Amazon Bedrock.
+https://github.com/build-on-aws/amazon-bedrock-java-examples # Examples demonstrating use of the Java SDK for Amazon Bedrock.
+https://github.com/build-on-aws/gen-ai-workshop # Generative AI applications using PartyRock, Amazon Bedrock, and Amazon Q
+https://github.com/build-on-aws/rag-postgresql-agent-bedrock # Retrieval using Postgres vector database, Bedrock Knowledge Base, and a Bedrock Agent
+https://github.com/build-on-aws/amazon-bedrock-with-builder-and-command-patterns # API requests for different models
+https://github.com/build-on-aws/amazon-bedrock-apprunner-chatterdox-webapp # Application to chat with web pages using Bedrock and Langchain
+https://github.com/build-on-aws/amazon-bedrock-go-sdk-examples # Go SDK examples for Amazon Bedrock
+https://github.com/build-on-aws/bedrock-agents-webscraper # Bedrock agent to webscrape and internet search via action groups
+https://github.com/build-on-aws/dotnet-fm-playground # .NET MAUI Blazor sample application
+https://github.com/build-on-aws/workflow-orchestration-bedrock-agent-chaining #
+https://github.com/build-on-aws/bedrock-agents-infer-models # Use natural language to run inference on various LLMs via Bedrock agents
+https://github.com/build-on-aws/elevating-customer-support-with-rag-langchain-agent-bedrock-dynamodb-and-kendra #
+https://github.com/build-on-aws/python-fm-playground # Bedrock with Python using a FastAPI app and a Next.js frontend
+https://github.com/build-on-aws/agents-for-amazon-bedrock-sample-feature-notebooks # Sample code for features of Agents for Amazon Bedrock
+https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb # Knowledge base application
+https://github.com/build-on-aws/java-fm-playground # Bedrock from a Spring Boot app and a Next.js frontend
+https://github.com/build-on-aws/langchaingo-amazon-bedrock-llm # Amazon Bedrock extension for langchaingo
+https://github.com/build-on-aws/get-the-news-rss-atom-feed-summary # Summary of the most recent news from an RSS or Atom feed using Amazon Bedrock.
+https://github.com/build-on-aws/amazon-bedrock-lambda-image-generation-golang # Serverless image generation with Amazon Bedrock and AWS Lambda
+https://github.com/build-on-aws/langchain-embeddings # Multimodal search engine using Amazon Titan Embeddings, Bedrock, and LangChain.
+
+https://github.com/aws-samples/amazon-bedrock-workshop # Bedrock workshop
+https://github.com/aws-samples/bedrock-claude-chat # Chatbot using Bedrock + Claude or Mistral
+https://github.com/aws-samples/amazon-bedrock-samples # Bedrock examples for foundational models
+https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example #
+https://github.com/aws-samples/bedrock-access-gateway # OpenAI-compatible APIs for Bedrock
+https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining # Prompt chaining.
+https://github.com/aws-samples/serverless-pdf-chat # Document chatbot using Bedrock
+https://github.com/aws-samples/amazon-bedrock-aistylist-lab #
+https://github.com/aws-samples/amazon-bedrock-rag-workshop # Workshop Studio
+https://github.com/aws-samples/rag-using-langchain-amazon-bedrock-and-opensearch # Retrieval with langchain using Amazon Bedrock and Amazon OpenSearch
+https://github.com/aws-samples/amazon-bedrock-audio-summarizer # Transcribe and summarize media files using S3, Lambda, Transcribe, and Bedrock.
+https://github.com/aws-samples/amazon-bedrock-client-for-mac # macOS client for Bedrock
+https://github.com/aws-samples/aws-bedrock-with-rag-and-react # Bedrock and Langchain retrieval use cases
+https://github.com/aws-samples/text-to-sql-bedrock-workshop # Text-to-SQL workshop.
+https://github.com/aws-samples/amazon-bedrock-prompting #
+https://github.com/aws-samples/amazon-bedrock-rag # Retrieval with Knowledge Bases using Bedrock
+https://github.com/aws-samples/sample-client-for-amazon-bedrock #
+https://github.com/aws-samples/open_artifacts_for_bedrock #
+https://github.com/aws-samples/bedrock-claude-codecoach #
+https://github.com/aws-samples/amazon-bedrock-kendra-lex-chatbot # Chatbot using Bedrock and Amazon Lex.
+https://github.com/aws-samples/sample-connector-for-bedrock # Connector for Bedrock
+https://github.com/aws-samples/bedrock-claude-chatbot #
+https://github.com/aws-samples/multi-tenant-chatbot-using-rag-with-amazon-bedrock #
+https://github.com/aws-samples/bedrock-kb-rag-workshop # Bedrock Knowledge Base and Agents for retrieval
+https://github.com/aws-samples/mistral-on-aws # Mistral examples using Bedrock & SageMaker
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-pgvector # Retrieval web app using Bedrock and PGVector (on Amazon RDS)
+https://github.com/aws-samples/generative-bi-using-rag # Bedrock and OpenSearch with retrieval
+https://github.com/aws-samples/aws-genai-llm-chatbot # Multi-LLM and Multi-RAG powered chatbot using Bedrock
+https://github.com/aws-samples/llms-amazon-bedrock-sagemaker # Bedrock and SageMaker
+https://github.com/aws-samples/artifacts-and-tools-for-bedrock # Artifacts and code interpreter tool using Bedrock.
+https://github.com/aws-samples/amazon-bedrock-industry-use-cases # Agent examples using Bedrock across multiple industries.
+https://github.com/aws-samples/bedrock-serverless-workshop #
+https://github.com/aws-samples/aws-bedrock-claude3-ui #
+https://github.com/aws-samples/query-structured-data-with-amazon-bedrock #
+https://github.com/aws-samples/appsync-bedrock-sample-with-ai-agent #
+https://github.com/aws-samples/build-scale-generative-ai-applications-with-amazon-bedrock-workshop #
+https://github.com/aws-samples/recipe-ai # Recipe generator using Next.js, Amplify, AppSync, and Bedrock
+https://github.com/aws-samples/streamlit-examples-for-bedrock # Streamlit examples with Bedrock
+https://github.com/aws-samples/serverless-rag-demo # Amazon Bedrock Anthropic Claude, (Llama2-7B/13B/70B /Falcon-7B/40B/180B on Amazon Sagemaker) LLMs with Amazon Opensearch Serverless as a Vect
+or DB https://github.com/aws-samples/amazon-bedrock-slack-gateway #
+https://github.com/aws-samples/terraform-rag-template-using-amazon-bedrock #
+https://github.com/aws-samples/automate-image-processing-with-amazon-bedrock # Automate process to change image background using Amazon Bedrock and AWS Step Functions
+https://github.com/aws-samples/reinvent2023-aim-329 # How to build a chat assistant with Amazon Bedrock using LLMs, Embeddings model, and Knowledge Bases for Amazon Bedrock.
+https://github.com/aws-samples/amazon-bedrock-ai-karaoke # Amazon Bedrock AI Karaoke is an interactive demonstration of Amazon Bedrock. Users complete the prompt with the microphone and choose t
+he best response. Powered by Amazon Bedrock, Amazon Transcribe and Amazon ECS Anywhere. https://github.com/aws-samples/amazon-bedrock-voice-conversation #
+https://github.com/aws-samples/simplified-corrective-rag # How to build a simplified Corrective RAG assistant with Amazon Bedrock using LLMs, Embeddings model, Knowledge Bases for Amazon Bedrock
+, and Agents for Amazon Bedrock. https://github.com/aws-samples/genai-quickstart-pocs # This repository contains sample code demonstrating various use cases leveraging Amazon Bedrock and Generative AI. Each sample is a separate
+project with its own directory, and includes a basic Streamlit frontend to help users quickly set up a proof of concept. https://github.com/aws-samples/langgraph-bedrock-knowledge-bases # Repository contains samples on how to use LangGraph with Amazon Bedrock and Bedrock knowledge bases for a RAG solution
+https://github.com/aws-samples/personalized-travel-itinerary-planner # A Generative AI Chatbot application to provide personalized travel recommendations using Amazon Redshift and Amazon Bedrock
+https://github.com/aws-samples/comfyui-llm-node-for-amazon-bedrock #
+https://github.com/aws-samples/Serverless-Semantic-Video-Search-Vector-Database-and-a-Multi-Modal-Generative-Al-Embeddings-Model # Implementing serverless semantic search of image and live video
+with Amazon OpenSearch and Amazon Bedrock https://github.com/aws-samples/agentsforbedrock-retailagent # End to end example of a Retail Agent implemented with agents for Amazon Bedrock
+https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation #
+https://github.com/aws-samples/sql-querying-tools-rag-bedrock-samples-app #
+https://github.com/aws-samples/aws-bedrock-langchain-python-cdk # This repo will hold a sample code to have the bedrock api via Boto3 and langchain integration
+https://github.com/aws-samples/genai-bedrock-fsxontap #
+https://github.com/aws-samples/multimodal-rag-on-slide-decks # 'Talk to your slide deck' (Multimodal RAG) using foundation models (FMs) hosted on Amazon Bedrock and Amazon SageMaker
+https://github.com/aws-samples/serverless-genai-food-analyzer-app # Personalized nutritional app, serverless, tailored to your shopping and cooking needs, empowered by generative AI technology (
+Amazon Bedrock, Anthropic, Claude Haiku, Claude Sonnet) using AWS CDK on AWS https://github.com/aws-samples/aws-iot-sitewise-conversational-agent # Code sample to integrate Agents for Amazon Bedrock with AWS IoT SiteWise
+https://github.com/aws-samples/function-calling-using-amazon-bedrock-anthropic-claude-3 # Function calling using Amazon Bedrock with Anthropic Claude 3 foundation model
+https://github.com/aws-samples/image-generator-with-stable-diffusion-on-amazon-bedrock-using-streamlit # A quick demostration to deploy a Stable Diffusion Web application with containers running
+on Amazon ECS. The model is provided by Amazon Bedrock in this example https://github.com/aws-samples/rag-qna-bot-for-your-website-using-langchain-amazon-aurorapg-and-amazon-bedrock #
+https://github.com/aws-samples/semantic-search-using-amazon-aurorapg-pgvector-and-amazon-bedrock #
+https://github.com/aws-samples/uncovering-hidden-connections-in-unstructured-financial-data # Uncovering Hidden Connections in Unstructured Financial Data using Amazon Bedrock and Amazon Neptune
+https://github.com/aws-samples/generative-ai-for-semiconductor-design # Generative AI for Semiconductor Design: Engineering Assistant built with Bedrock, Knowledge Bases and Langchain
+https://github.com/aws-samples/bedrock-genai-workshop #
+https://github.com/aws-samples/bedrock-litellm #
+https://github.com/aws-samples/amazon-bedrock-intro-demo #
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-opensearch # Opinionated sample on how to build and deploy a RAG application with Amazon Bedrock and OpenSearch
+https://github.com/aws-samples/bedrock-website-generator # Code and generate frontend website with your voice !
+https://github.com/aws-samples/amazon-bedrock-high-availability #
+https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock # How to build an advanced RAG router based assistant with Amazon Bedrock using LLMs, Embeddings model, and Knowledge Bases
+for Amazon Bedrock. https://github.com/aws-samples/bedrock-translation-agent # Multi-Model agentic & reflective translation workflow in Aamzon Bedrock
+https://github.com/aws-samples/bedrock-prompting-workshop #
+https://github.com/aws-samples/amazon-bedrock-synthetic-manufacturing-data-generator #
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-documentdb # Question Answering Generative AI application with Large Language Models (LLMs), Amazon Bedrock, and Amazon DocumentDB (wit
+h MongoDB Compatibility) https://github.com/aws-samples/rag-with-amazon-bedrock-and-memorydb # Question Answering Generative AI application with Large Language Models (LLMs), Amazon Bedrock, and Amazon MemoryDB for Redi
+s https://github.com/aws-samples/alexa-and-bedrock-integration #
+https://github.com/aws-samples/amazon-bedrock-customization-workshop #
+https://github.com/aws-samples/serverless-exam-generator-from-your-lecture-amazon-bedrock #
+https://github.com/aws-samples/amazon-bedrock-architectures #
+https://github.com/aws-samples/amazon-bedrock-titan-multimodal-search # Multimodal saree search app built using Amazon Titan Multimodal Embeddings model
+https://github.com/aws-samples/amazon-bedrock-llm-fakenews-detector #
+https://github.com/aws-samples/industrial-data-store-simulation-chatbot # This code sample deploy a realistic simulated Manufacturing Execution System hosted on SQLite and a companion chatbot ap
+plication powered by Amazon Bedrock to query data from the MES using natural language https://github.com/aws-samples/bedrock-agents-for-eks #
+https://github.com/aws-samples/email-intelligent-automation-bedrock #
+https://github.com/aws-samples/documentparser-bedrock #
+https://github.com/aws-samples/big-data-summarization-using-griptape-bedrock-redshift # Big Data Summarization using Griptape, Amazon Bedrock, Amazon Redshift
+https://github.com/aws-samples/semi-structured-data-processing-with-amazon-bedrock # How to process semi-structured data using Large Language Models (LLMs) on Amazon Bedrock.
+https://github.com/aws-samples/amazon-bedrock-and-aurora-mysql-integration #
+https://github.com/aws-samples/genai-chatbot-using-bedrock-agents-poc #
+https://github.com/aws-samples/amazon-bedrock-summary-client-for-chrome #
+https://github.com/aws-samples/safeguarding-travel-agent-guardrails-amazon-bedrock #
+https://github.com/aws-samples/amazon-bedrock-model-customization #
+https://github.com/aws-samples/sample-chatbot-for-bedrock-knowledge-base-and-multimodal-llms # Multimodal Chatbot with Amazon Bedrock Knowledge Bases Integration
+https://github.com/aws-samples/amazon-bedrock-claudev3-sonnet-blog-generation #
+https://github.com/aws-samples/bedrock-leveraging-your-data-genai #
+https://github.com/aws-samples/winform-amazon-bedrock-document-bot # A conversational document bot Windows Forms desktop application that allows users to upload PDF or Word files and ask questio
+ns about their content, with the bot keeping track of the conversation history and providing contextual responses based on the whole conversation. https://github.com/aws-samples/sup-hcls-rag-fhir-bedrock #
+https://github.com/aws-samples/amazon-serverless-chatbot-using-bedrock #
+https://github.com/aws-samples/learning-portal-using-amazon-bedrock # This is a sample learning application built to showcase the capability of using Amazon Bedrock for teachers to create course
+materials and for students, to learn English words and sentences. https://github.com/aws-samples/improve-employee-productivity-using-genai # Employee Productivity GenAI Assistant Example is an innovative code sample and architecture pattern designed to enhance
+writing tasks efficiency using AWS serverless technologies and Amazon Bedrock's generative AI models. https://github.com/aws-samples/aws-insurance-underwriting-gen-ai # Streamline Insurance Underwriting with Generative AI using Amazon Bedrock
+https://github.com/aws-samples/rag-chatbot-with-bedrock-opensearch-and-document-summaries-in-govcloud #
+https://github.com/aws-samples/bedrock-qnachatbot #
+https://github.com/aws-samples/Satellite_Imagery_Characterization_using_Amazon_Bedrock_Generative_AI_models # Satellite Imagery Characterization using Amazon Bedrock Generative AI models to addr
+ess Climate Change https://github.com/aws-samples/qa-app-with-rag-using-amazon-bedrock-and-kendra # Question Answering Generative AI application with Large Language Models and RAG powered by Amazon Bedrock and Ama
+zon Kendra https://github.com/aws-samples/langgraph-bedrock-samples #
+https://github.com/aws-samples/chat-with-blockchain-data-with-amazon-bedrock # Ask questions about bitcoin and ethereum data using natural language. This repo contains a CDK that you deploy in y
+our AWS account. Powered by Amazon Bedrock and AWS Public Blockchain Data. https://github.com/aws-samples/gen-ai-video-short-form-generator # Generative AI video short-form generator using Amazon Bedrock and AWS serverless services.
+https://github.com/aws-samples/generative-ai-application-builder-on-aws-plugin-sample-vector-databases # The repository includes integrations with Amazon Bedrock and its included LLM, such as Am
+azon Titan and vector and graph database for a RAG usecase. https://github.com/aws-samples/amazon-bedrock-news-summarizer #
+https://github.com/aws-samples/babelfish-postgresql-aurora-bedrock #
+https://github.com/aws-samples/build-multilingual-calendar-assistant-with-amazon-bedrock-and-aws-step-functions # Use Amazon Bedrock, AWS Step Functions and Amazon Simple Email Service (AWS SES)
+to build a fully-automated multilingual calendar AI assistant. https://github.com/aws-samples/amazon-location-geospatial-agent # Code demonstrating use of LLMs for geospatial analytics built on top of Amazon Location Service and Amazon Bedrock.
+https://github.com/aws-samples/hybrid-search-postgres-opensearch-bedrock #
+https://github.com/aws-samples/bedrock-contact-center-tasks-eval #
+https://github.com/aws-samples/multi-account-bedrock-llm-streaming #
+https://github.com/aws-samples/on-prem-to-bedrock-with-s3-file-gateway #
+https://github.com/aws-samples/convert-gpt-text-prompts-to-amazon-bedrock-llm-prompts # How to convert GPT text prompts to text prompts for Large Language Models (LLMs) on Amazon Bedrock.
+https://github.com/aws-samples/serverless-audio-transcribe-translation-summarisation-backend-with-amazon-bedrock #
+https://github.com/aws-samples/aws-genai-rfpassistant # This repository contains the code and infrastructure as code for a Generative AI-powered Request for Proposal (RFP) Assistant leveraging A
+mazon Bedrock and AWS Cloud Development Kit (CDK). https://github.com/aws-samples/modernizing-account-management-with-amazon-bedrock-and-aws-control-tower #
+https://github.com/aws-samples/slack-app-integration-with-bedrock-agent #
+https://github.com/aws-samples/serverless-dotnet-application-for-amazon-bedrock #
+https://github.com/aws-samples/genai-knowledge-capture # A PoC application developed using Amazon Transcribe and Amazon Bedrock to capture knowledge.
+https://github.com/aws-samples/failure-analysis-assistant # Failure Analysis Assistant (FA2) is a sample that supports failure analysis when a failure occurs using LLM in Amazon Bedrock. It was
+shown as an exhibition demo for AWS Summit Japan 2024. https://github.com/aws-samples/multi-modal-chatbot-with-advanced-rag # Amazon Bedrock Q&A multi-modal chatbot with advanced RAG
+https://github.com/aws-samples/image-generation-using-amazon-bedrock-api-with-dotnet # This sample application is designed to demonstrate how to generate images using Stable diffusion XL model w
+ith Amazon Bedrock APIs using dotnet. https://github.com/aws-samples/amazon-bedrock-knowledge-base-easiest-guide-with-lambda #
+https://github.com/aws-samples/building-genai-applications-with-golang # This sample code show how to build generative AI applications on AWS using Amazon Bedrock and Golang programming.
+https://github.com/aws-samples/celebrity-image-recognition-bot-aws-wickr-with-amazon-bedrock #
+https://github.com/aws-samples/information-extraction-using-anthropic-function-calling-on-bedrock-cdk #
+https://github.com/aws-samples/generate-customized-compliant-application-IaC-scripts-for-AWS-Landing-Zone-using-Amazon-Bedrock #
+https://github.com/aws-samples/Simplify-natural-language-query-with-Anthropic-Claude-on-Amazon-Bedrock # Utilize the multimodal capabilities of Anthropic Claude on Amazon Bedrock to simplify the
+natural language query by feeding entity relationship diagram (ERD). 
+https://github.com/aws-samples/Build-a-multimodal-social-media-content-generator-using-Amazon-Bedrock #
+https://github.com/aws-samples/generating-synthetic-datasets-for-evaluating-retrieval-augmented-generation-systems # The repository guides you through generating a synthetic dataset for a QA-RAG
+application using the Bedrock API, Python and Langchain. 
+https://github.com/aws-samples/chat-bot-with-aws-wickr-using-amazon-bedrock-anthropic-claude-instant #
+https://github.com/aws-samples/visual-search-for-retail-with-amazon-bedrock-and-amazon-opensearch-notebooks #
+https://github.com/aws-samples/bedrock-stablediffusion-sampleapp #
+https://github.com/aws-samples/image-generation-with-aws-wickr-using-amazon-bedrock-stability-stable-diffusion #
+https://github.com/aws-samples/genai-bedrock-serverless #
+https://github.com/aws-samples/exam-correction-bedrock #
+https://github.com/aws-samples/logicot-amazon-bedrock #
+https://github.com/aws-samples/bedrock-agent-carpart-lookup # A smart, conversational interface for automotive part queries. Leverages Amazon Bedrock and OpenSearch to provide accurate part info
+rmation, compatibility checks, and detailed responses. Streamlines the process of finding and verifying car parts for owners and mechanics. 
+https://github.com/aws-samples/amazon-bedrock-connect-helper #
+https://github.com/aws-samples/Invoice_Agent_Bedrock_Agent_KB #
+https://github.com/aws-samples/Amazon-prometheus-bedrock-agent-example #
+https://github.com/aws-samples/analyze-customer-reviews-through-amazon-bedrock #
+https://github.com/aws-samples/rag-based-translation-with-dynamodb-and-bedrock #
+https://github.com/aws-samples/catalog-query-search-audio-transcribe-bedrock-sample-code #
+https://github.com/aws-samples/bedrock-based-remediations-of-aws-securityhub-control-findings #
+https://github.com/aws-samples/query-databases-with-natural-language # Database querying using Mixtral on SageMaker or via an API on Bedrock
+https://github.com/aws-samples/amazon-bedrock-claude-2-and-3-with-langchain-popular-use-cases #
+https://github.com/aws-samples/foundational-llm-chat # Chainlit application using Cognito and Bedrock.
+https://github.com/aws-samples/cloudwatch-alarms-support-cases-automation # Create AWS support cases using a CloudWatch alarm action and Amazon Bedrock
+
+https://github.com/awslabs/genai-bedrock-agent-chatbot # Chatbot application developed using Bedrock Knowledgebase and agents
+https://github.com/awslabs/genai-bedrock-chatbot # Chatbot application that uses SageMaker manuals and pricing data tables as a data example
+https://github.com/awslabs/ask-bedrock # Converse with a Bedrock model from the command line.
+https://github.com/awslabs/rhubarb # Python framework for document understanding using Bedrock
+https://github.com/awslabs/bedrock-vscode-playground # Experiment language models available in Amazon Bedrock
+https://github.com/awslabs/agents-for-amazon-bedrock-blueprints #

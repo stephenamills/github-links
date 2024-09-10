@@ -1,0 +1,81 @@
+https://github.com/aws-solutions-library-samples/Guidance-for-Authentication-with-Digital-Wallets-on-AWS # dApp authentication with Cognito and Web3 proxy
+https://github.com/aws-solutions-library-samples/guidance-for-custom-domain-names-on-amazon-api-gateway-private-endpoints # Provide access to REST APIs
+
+https://github.com/build-on-aws/request-response-with-amazon-api-gateway # Companion repository for the tutorial Request-Response with Amazon API Gateway and AWS Lambda
+
+https://github.com/aws-samples/amazon-api-gateway-url-shortener # Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
+https://github.com/aws-samples/bedrock-access-gateway # OpenAI-Compatible RESTful APIs for Amazon Bedrock
+https://github.com/aws-samples/api-gateway-auth #
+https://github.com/aws-samples/amazon-cognito-api-gateway #
+https://github.com/aws-samples/aws-serverless-chatbot-sample # Reference code for running a Slack chatbot using AWS Lambda and Amazon API Gateway.
+https://github.com/aws-samples/lambda-apigateway-twilio-tutorial # Getting started with AWS Lambda + Amazon API Gateway. Use Twilio MMS to upload photos to S3 without servers.
+https://github.com/aws-samples/simple-websockets-chat-app # This SAM application provides the Lambda functions, DynamoDB table, and roles to allow you to build a simple chat application based on
+API Gateway's new WebSocket-based API feature. https://github.com/aws-samples/example-step-functions-integration-api-gateway # Example application using the new Step Functions integration with API Gateway. It developers to call API Gateway R
+EST APIs and API Gateway from a Step Functions workflow. https://github.com/aws-samples/amazon-api-gateway-mutating-webhook-for-k8 # AWS API Gateway as K8S mutating webhook to modify in K8S Pod automatically
+https://github.com/aws-samples/api-gateway-multitenant-tiering-usageplans #
+https://github.com/aws-samples/amazon-cognito-and-api-gateway-based-machine-to-machine-authorization-using-aws-cdk # This repository describes how to integrate Amazon Cognito User Pool(OAuth 2.0
+Client credentials grant) and Amazon API Gateway(Cognito Authorizer) using AWS CDK. https://github.com/aws-samples/websocket-chat-application # This sample provides a CDK project that allows you to deploy a serverless chat application based on API Gateway's WebSocket-based API
+feature. https://github.com/aws-samples/aws-serverless-books-api-sample # Books API using Amazon API Gateway, AWS Lambda and Amazon DynamoDB while AWS SAM for IaC. CI/CD pipeline provisioned with AWS CDK
+. https://github.com/aws-samples/aws-serverless-crud-sample # An example implementation of a mobile backend for a movies database using AWS Lambda, API Gateway and DynamoDb
+https://github.com/aws-samples/apigateway-websockets-golang # Reference implementation for using AWS VPC, Amazon API Gateway WebSockets, AWS Lambda, and Amazon ElastiCache for Redis.
+https://github.com/aws-samples/amazon-api-gateway-canary-deployment #
+https://github.com/aws-samples/api-gateway-websocket-saas-rate-limiting-using-aws-lambda-authorizer # When creating a SaaS multi-tenant systems which require websocket connections we need a way
+to rate limit those connections on a per tenant basis. With Amazon API Gateway you have the option to use usage plans with HTTP connections however they are not available for websockets. To enable rate limiting we can use a API Gateway Lambda Authorizer to validate a connection and control access. Using a Lambda Authorizer we can implement code to allow the system to valid connection rates and throttle inbound connections on a per tenant basis. This sample also demonstrates pool and silo modes for handling the message traffic per tenant. https://github.com/aws-samples/serverless-hotdog-detector # This example shows you how to build a serverless hotdog detecting application on AWS using Amazon Rekognition, AWS Lambda, and Amazon
+API Gateway. https://github.com/aws-samples/amazon-api-gateway-onpremises-integration # Integrating Amazon API Gateway private endpoints with on-premises networks
+https://github.com/aws-samples/handling-binary-data-using-api-gateway-http-apis-blog #
+https://github.com/aws-samples/simple-crud-api # This project creates simple crud API using AWS CDK code. API will have an API gateway, lambda as back-end and DynamoDB as database.
+https://github.com/aws-samples/amazon-api-gateway-websocket-feature-toggles # SAM application containing a feature toggle management solution based on Amazon API Gateway WebSocket APIs, AWS Lamb
+da functions, and AWS DynamoDB streams. https://github.com/aws-samples/http-api-aws-fargate-cdk # Build HTTP API Based Services using Amazon API Gateway, AWS PrivateLink, AWS Fargate and AWS CDK
+https://github.com/aws-samples/amazon-api-gateway-cors-configurator #
+https://github.com/aws-samples/amazon-api-gateway-header-based-versioning #
+https://github.com/aws-samples/aws-serverless-security-workshop # In this workshop, you will learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS
+Aurora. We will cover AWS services and features you can leverage to improve the security of a serverless applications in 5 domains: identity & access management, code, data, infrastructure, logging & monitoring. https://github.com/aws-samples/api-gateway-usage-policy-based-api-protection #
+https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot # The Image Moderator Chatbot serverless reference architecture demonstrates how to leverage Amazon Rekognition's image mod
+eration deep learning feature to automatically remove messages containing explicit or suggestive images from channels of popular chat apps using Amazon API Gateway, AWS Lambda, and Amazon Rekognition. https://github.com/aws-samples/api-gateway-certificate-propagation #
+https://github.com/aws-samples/api-gateway-dynamic-publish # CDK project that leverages an OpenAPI definition to define, document and create an Amazon API Gateway deployment. At deploy time, a C
+loudFormation Custom Resource is leveraged to dynamically substitute the Lambda integration function ARNs into the OpenAPI definition file as well as publishing the updated file to an S3 bucket.https://github.com/aws-samples/aws-cloudformation-apigw-sap-idocs # This repository contains sample code as well as an AWS CloudFormation template to integrate SAP IDocs with Amazon S3 using Ama
+zon API Gateway. https://github.com/aws-samples/amazon-api-gateway-powered-browser-extension # Deploy a browser extension powered by Amazon API Gateway and AWS Lambda
+https://github.com/aws-samples/cross-account-private-api-patterns # Examples for consuming Private API Gateway across AWS Accounts
+https://github.com/aws-samples/aws-cdk-apigateway-cloudwatch-dashboard # CloudWatch Dashboard for API Gateway to visualize the API Calls, Latency, Integration Latency, and Errors
+https://github.com/aws-samples/amazon-apigateway-accept-apikeys-as-querystring # This repository contains code associated with an AWS a blog which demonstrates how you can accept API keys as a q
+uery string parameter in Amazon API Gateway. https://github.com/aws-samples/aws-parallelcluster-serverless-api # This repository includes the code to combine AWS ParallelCluster , AWS API Gateway and AWS Lambda to make a serverless API of
+the ParallelCluster command line interface. https://github.com/aws-samples/apigateway-vpcendpoints # This repository demonstrates an approach to set up a central API Gateway with integrations to multiple APIs in different AWS accounts, us
+ing VPC Endpoints. All of the network traffic from the Central HTTP ApiGateway is private, using PrivateLink via the VPC Endpoints and VPC Endpoint Services which are created in the providing accounts. https://github.com/aws-samples/aws-step-functions-plagiarism-demo-dotnet # A simple workflow for developing AWS Step Functions to demonstrate how you can combine AWS Step Functions with AWS Lamb
+da using .NET 8 and the Serverless Application Model (SAM), and expose your workflow via an API Gateway! https://github.com/aws-samples/amazon-api-gateway-custom-request-response # Handle arbitrary HTTP requests and send custom HTTP responses with API Gateway
+https://github.com/aws-samples/serverless-websocket-chat # This is a fully-serverless real-time chat example using API Gateway, Lambda and DynamoDB. Messages from one client are broadcast to all
+other connected clients via WebSockets. https://github.com/aws-samples/multiple-identity-providers-amazon-api-gateway # This example demonstrates a pattern to leverage multiple identity providers with an API Gateway and manage Authori
+zation with Amazon Verified Permissions. https://github.com/aws-samples/aws-lambda-url-apigateway-cfn # AWS Lambda function URL vs API Gateway Integrated Lambda - Sample CloudFormation Template
+https://github.com/aws-samples/private-application-with-custom-domain-name # Custom domain name for API Gateway + static S3 website in private subnets
+https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-aws-lambda-and-amazon-api-gateway # How to train a XGBoost regression model on Amazon SageMaker, host inferenc
+e on a serverless function in AWS Lambda and optionally expose as an API with Amazon API Gateway https://github.com/aws-samples/Implementing-custom-domain-names-for-Amazon-API-Gateway-private-endpoints #
+https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-amazon-ecs-fargate-and-amazon-api-gateway # How to train a XGBoost regression model on Amazon SageMaker, host
+inference on a Docker container running on Amazon ECS on AWS Fargate and optionally expose as an API with Amazon API Gateway. https://github.com/aws-samples/aws-saas-factory-eks-saas-api-gateway-tiering-and-throttling #
+https://github.com/aws-samples/amazon-qldb-financialwallet-crud-aws-samples-v2 # Development code to show simple CRUD operations on Amazon QLDB and setup Amazon Kinesis Data streams. The solutio
+n uses AWS Lambda Amazon API Gateway Amazon QLDB Amazon DynamoDB and Amazon Kinesis Data Streams https://github.com/aws-samples/amazon-rekognition-content-moderation-with-url # Amazon Rekognition Content Moderation using Amazon API Gateway and AWS Lambda
+https://github.com/aws-samples/amazon-translate-enterprise-translation-solution # A centralized multi-tenant translation solution for enterprises using Amazon Translate and API Gateway
+https://github.com/aws-samples/rest-api-gateway-jwt-cognito # CDK (TypeScript) sample on how to configure API Gateway (REST API) with JWT token auth via Amazon Cognito and Lambda Authorizers
+https://github.com/aws-samples/amazon-workmail-demo-ews-push-notifications # A sample application demonstrating the use of EWS Push Notifications. It creates a push responder using AWS Lambda an
+d API Gateway to respond to changes in your mailbox. https://github.com/aws-samples/kendra-cognito-apigateway-cdk-sample # An Amazon Kendra REST API CDK example with an API Gateway, including authentication with AWS Cognito and AWS X-Ray Tracing
+https://github.com/aws-samples/aws-xray-multi-api-gateway-tracing-example # Example showing how to pass a tracing header between API Gateways with AWS X-Ray SDK instrumentation using Serverless
+Framework and Node.js https://github.com/aws-samples/asynchronous-event-processing-api-gateway-lambda-cdk # Sample architecture to process events asynchronously using API Gateway and Lambda.
+https://github.com/aws-samples/amazon-managed-blockchain-document-ledger # Code to deploy a complete Amazon Managed Blockchain solution that can write and read documents to Hyperledger Fabric vi
+a API Gateway and Lambda interfaces, plus Hyperledger Explorer for visualizing the blockchain network and its contents. https://github.com/aws-samples/amazon-api-gateway-pinpoint-otp-demo # This application demonstrates how you can leverage Amazon Pinpoint's One Time Password (OTP) feature, to authenticate Amazon
+API Gateway requests. https://github.com/aws-samples/amazon-vpc-lattice-secure-apis # Securing API endpoints using Amazon API Gateway and Amazon VPC Lattice
+https://github.com/aws-samples/aws-serverless-tracking-pixel # This solution deploys a lambda function and an API Gateway HTTP API to process tracking information from the HTTP request, returnin
+g a 1x1 transparent pixel so it can be invoked from an IMG HTML tag. The processing AWS Lambda Function sends the parsed information to an Amazon Kinesis Data Firehose Stream that should already exist. This solution is created as a baseline to be modified so it adapts to the specific use-case, according to the incoming information that should be processed. https://github.com/aws-samples/amazon-apigw-account-creation-go-tf # This repo provides resources for creating AWS accounts using an Amazon API Gateway and AWS Lambda.
+https://github.com/aws-samples/path-based-versioning-with-api-gateway #
+https://github.com/aws-samples/asynchronous-event-processing-api-gateway-sqs-cdk # Sample architecture to process events asynchronously using API Gateway and SQS.
+https://github.com/aws-samples/api-gateway-vpc-link #
+https://github.com/aws-samples/apigw-cognito-context # This sample demonstrates how Amazon API Gateway can be used to augment the data available in an Amazon Cognito access token. By leveraging
+AWS Lambda as a Lambda Authorizer, Amazon API Gateway can populate the context with the Amazon Cognito user's attributes. https://github.com/aws-samples/ip-whitelist-http-api-gateway-cdk #
+https://github.com/aws-samples/web-analytics-on-aws # This web analytics demo shows how to collect web logs with API Gateway and store them into S3 through Amazon Kinesis. Then this project show
+s how to analyze web logs with Amazon Athena. https://github.com/aws-samples/amazon-api-gateway-websocket-api-and-unity-websocket-client-component # This sample project demonstrates deploying an Amazon API Gateway WebSocket API and building
+a Unity WebSocket Client component. https://github.com/aws-samples/aws-authing-demo # This is a simple demo for integrating Authing in AWS China region to protect API Gateway REST API and other AWS resources such as IoT, Polly and
+etc. Authing is an ID service offered by Authing.cn and it could be used as a replacement for Cognito User Pool which is not available in AWS China region now. https://github.com/aws-samples/asynchronous-event-processing-api-gateway-dynamodb-streams-cdk # Sample architecture to process events asynchronously using API Gateway and DynamoDB Streams.
+https://github.com/aws-samples/aws-websocket-async-updates # Web clients have numerous ways of checking on the progress of an asynchronous operation: polling, long polling and websockets. This e
+xample application shows how to setup Amazon API Gateway websockets to return the results of an asynchronous Amazon Textract operation https://github.com/aws-samples/http-api-gateway-jwt-cognito # CDK (TypeScript) sample on how to configure API Gateway (HTTP API) with JWT token auth via Amazon Cognito
+https://github.com/aws-samples/amazon-api-gateway-step-functions-xml #
+https://github.com/aws-samples/prediction-app-with-amazon-redshift-ml-and-api-gateway # A sample on how to create a machine learning prediction API based on data in Amazon Redshift
+https://github.com/aws-samples/provision-aws-iot-device-via-api-gateway-with-csr #
+https://github.com/aws-samples/multichannel-app-to-person-alerting # This sample deploys a multi-channel Application-to-Person alerting system for hospital staff that takes a clinician's contact
+preferences into account based on the message's severity level. Amazon API Gateway acts as the front-door, while the processing and message publication are handled by AWS Lambda using a synchronous invocation pattern.

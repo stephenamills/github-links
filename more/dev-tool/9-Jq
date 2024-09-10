@@ -1,0 +1,427 @@
+https://github.com/jqlang/jq # Command-line JSON processor
+
+https://github.com/exercism/jq # Exercism exercises in jq.
+https://github.com/djosephsen/jq-irl # A Tutorial for JQ Created for my mini-tutorial session at LISA 2015
+https://github.com/mosermichael/jq-illustrated # illustrated tutorial of jq (and the scripts that create it)
+https://github.com/packtpublishing/jq-command-tutorials-for-bash-shell-scripting # Jq Command Tutorials for Bash Shell Scripting, published by Packt
+https://github.com/textarcana/jq-cookbook # Build ETLs using JQ, the command-line JSON processor.
+https://github.com/qmacro/teched-jq-talk #
+
+https://github.com/antonbabenko/terraform-cost-estimation # Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state
+https://github.com/wader/jqjq # jq implementation of jq
+https://github.com/odnoletkov/advent-of-code-jq # Solving Advent of Code with jq
+https://github.com/vito-c/jq.vim # Syntax highlighting for jq files in vim/neovim
+https://github.com/SAP-samples/btp-service-metadata # Contains the metadata of SAP BTP services - in a machine-readable format - available in an SAP BTP pay-as-you-go account.
+https://github.com/remy/advent-of-code-solved # My advent of code, in jq…
+https://github.com/thaliaarchi/wsjq # Whitespace interpreter and debugger in jq
+https://github.com/satisfice/jq_cookbook # Here are my favorite JQ scripts for analysis and web-based testing.
+https://github.com/thoughtbot/cloudformation-terraform-state-backend # Cloudformation template to create Terraform state S3 backend
+https://github.com/hosuaby/jq-voronoi # Implementation of Voronoi with jq
+https://github.com/christianberg/advent # Solving the Advent of Code puzzles in `jq`
+https://github.com/nntrn/jq-recipes #
+https://github.com/jqnpm/jq-bigint # A big integer library for working with possibly-signed arbitrarily long decimal strings.
+https://github.com/zogwarg/SublimeJQ # Sublime Text JQ Language Syntax
+https://github.com/isidore/Refactoring.ChatGPT.Prompts #
+https://github.com/sambacha/libjq # a library of useful jq functions and scripts
+https://github.com/mrwilson/advent-of-code-2021 # It's back. It's worse.
+https://github.com/somasis/hunspell-tok # nimi pi toki pona lon ilo hunspell(1). A Toki Pona dictionary for hunspell(1).
+https://github.com/CUSTOSMonitoring/CZAPI # Bash to Zabbix API (need jq)
+https://github.com/qmacro-org/url-notes #
+https://github.com/pkoppstein/JESS # JSON Extended Structural Schemas
+https://github.com/ycamper/censys-scripts # little scripts and utilities i use on a daily basis.
+https://github.com/cheap-glitch/jq-extra-utils # 🧰 A bunch of convenient filters and functions to use in your jq scripts.
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_jq # ⌨️ The jq Programming language IDE submodule for SNU Programming Tools (2D Mode)
+https://github.com/seanpm2001/Learn-jq # 📚️ A repository for showcasing my knowledge of the jq programming language, and continuing to learn the language.
+https://github.com/Jan-Bruun-Andersen/elastic-legacy-to-composable # A small Bash-script, a jq-script, and Perl-script to do a basic conversion from Elasticsearch legacy
+https://github.com/tst2005sh/jq-mods #
+https://github.com/pingiun/aoc-2022-jq # I'm doing Advent of Code 2022 in jq!
+https://github.com/trantor/jq-bencode # Bencode/JSON encoder/decoder module for jq
+https://github.com/aquasecurity/openssl-cve #
+https://github.com/direct-actions/gpg # GitHub Actions for interacting with GPG - search/import keys, encrypt/tar, sign, decrypt, etc.
+https://github.com/stisti/jq-projects # Small jq projects
+https://github.com/arno-di-loreto/hack-postman-collection #
+https://github.com/nntrn/what-im-reading #
+https://github.com/barabo/fhir-jq # A jq module to make it easier to work with FHIR resources from jq.
+https://github.com/arc279/ini2json #
+https://github.com/franzhill/jq_examples # Examples displaying the use of jq, a command-line JSON processor
+https://github.com/qmacro/modsrt #
+https://github.com/robzr/jq-printf # jq module implementing printf function
+https://github.com/rbuckland/jq-library # A JQ Library of Helpful Things
+https://github.com/nntrn/open-data # Open data I find interesting
+https://github.com/alexanderkiel/tmf-cql # TMF CQL Schulung
+https://github.com/krummbar/bruno-run-report #
+https://github.com/jrios/alchemy-rpg-tools #
+https://github.com/spip-remix/docker # Containers for SPIP
+https://github.com/cebamps/jq-utils # Some jq definitions I might want to reuse
+https://github.com/Infinoid/game-of-life.jq # Implementation of Conway's Game of Life as a `jq` filter
+https://github.com/Anant/example-introduction-to-jq #
+https://github.com/OH6AD/pupu_monitoring_tools # Pupu Network monitoring tools, used with Icinga
+https://github.com/odnoletkov/jq-scripts #
+https://github.com/Joshua-Snapp/ynab_requests # You Need A Budget Data Analysis
+https://github.com/zyf722/lokalise-badge # Dynamic translation progress badge for Lokalise projects.
+https://github.com/Syuparn/jq-searchkey # search nested keys in JSON by key names with jq
+https://github.com/JPCodeCraft/AlbionLocalization #
+https://github.com/A3Data/rony-ci-image #
+https://github.com/MaidLucy/arztsuche-cleaner # Simple jq filter to make the output of the Arztsuche API a bit prettier.
+https://github.com/travisclagrone/tclg.jq # JQ standard extensions, utilities, sugar, etc. by Travis C. LaGrone
+https://github.com/kmein/kaikki-stardict # StarDict dictionary files, generated from Wiktionary
+https://github.com/b0o/advent-of-code-2023-jq # Advent of Code 2023 in Jq
+https://github.com/xPMo/jq-shell # Functions for making json structures useful to shell
+https://github.com/trevarj/programming-bookmarks # My collection of programming bookmarks
+https://github.com/MikeC-I/PrismaWebhooks # LR Open Collector Pipeline for Prisma Webhooks
+https://github.com/f5devcentral/terraform-bigip-do-builder # Terraform modules to support deployment of BIG-IP on multiple clouds
+https://github.com/xqft/miri-ignore-unsupported # Action for filtering miri's tests that fail because of unsupported functionality
+https://github.com/MichalMoudry/jq-exercises # A repository containing samples with jq.
+https://github.com/odnoletkov/swift-rewrite #
+https://github.com/jutley/advent-of-code-2022 #
+https://github.com/rozcietrzewiacz/jip # Jq Include Packages tool, akin to python's "pip"
+https://github.com/OralEye/yarn-audit-sonar # yarn audit which is transformed to sonarcloud external issue report
+https://github.com/cebamps/jq-httpd # HTTP demo with jq
+https://github.com/danka74/nll_valuesets # JQ scripts for extracting NLL valuesets from SNOMED on FHIR refsets
+https://github.com/ULL-MII-SYTWS/jq-modules-example # https://ull-mii-sytws.github.io/practicas/jq-exercises/
+https://github.com/eranco74/kube-api-availability # Check kube-apiserver availability
+https://github.com/cichlid-io/sentinel #
+https://github.com/matteus6007/mongodb-demo # Demo for importing data into a Mongo Database.
+https://github.com/verstaerker-583/obs # specific obs overlays and configurations
+https://github.com/isbrqu/y # scripts que permiten obtener resultados de busquedas de videos de youtube en formato json sin requerir api.
+https://github.com/lorenzleutgeb/build-bundle # A "batteries included" Docker image, designed to be used for CI/CD jobs at Sclable.
+https://github.com/heaths/jq # jq modules
+https://github.com/fioriandrea/bfjq # Implementation of brainfuck written in jq
+https://github.com/Snownee/RecipeJsonConverter # A script that uses Python and jq to convert Fabric's conditions and ingredients in JSON files into their Forge counterparts.
+https://github.com/nntrn/read-tedx # TEDx transcripts formatted as articles
+https://github.com/x-delfino/tf2md #
+https://github.com/os-checker/database #
+https://github.com/thydel/misc-notes #
+https://github.com/dylan-thinnes/html.jq # A simple (<40 line) library to generate HTML from JSON using the JQ programming language.
+https://github.com/wandersonwhcr/jqrc.d # My jq Run Commands Directory
+https://github.com/omertuc/bills #
+https://github.com/paymentcardtools/json2ipm #
+https://github.com/aniketpatil0169/Fronted-Assignment # Welcome to the frontend assignments repository! This repository hosts a collection of my assignments and projects focusing on front-end de
+velopment, including HTML, CSS, JavaScript, Bootstrap and jQuery. https://github.com/pschmitt/colors.jq # jq module to colorize output manually
+https://github.com/hacid-project/cim-to-owl # Converting Common Information Model (CIM) definitions to RDFS/OWL
+https://github.com/matthugs/opsgenie-configuration-backup-hacks # some jq written to get better mileage out of https://github.com/opsgenie/opsgenie-configuration-backup
+https://github.com/pandamouse84/HomeAssistantConfig #
+https://github.com/mjmenger/terraform-bigip-do-builder #
+https://github.com/lawrencegripper/hack-k8sjobsquery # Using jq and kubectl to find jobs running longer than a day
+https://github.com/dylan-thinnes/jq-banking # Utils & jq scripts for analysis of my bank statements
+https://github.com/christianberg/rayq # A raytracer in jq
+https://github.com/bruggisser/rumble-queries #
+https://github.com/VasePJ/portfolio # Projects portfolio
+https://github.com/Boettner-eric/Alfred # A repo for all of my alfred scripts
+https://github.com/olorin37/sane-jq # JQ prelude / standard library with more sane behaviour.
+https://github.com/oforce/action-aws-api-gateway-deploy #
+https://github.com/psacawa/jq-utils #
+https://github.com/serlo/mfnf-to-edtr-mapping # Planning the mapping from MFNF articles to edtr states
+https://github.com/omertuc/graphresource #
+https://github.com/Pprashu-63/Nss-GP #
+https://github.com/lorenzleutgeb/hledger-utils #
+https://github.com/jsenn/aoc23 # Learning jq through Advent of Code 2023
+https://github.com/qiptv/epgb # epg file for beetv
+https://github.com/pschmitt/plib.jq # pschmitt's jq stdlib
+https://github.com/logan-vorto/autodispatch_inquirer #
+https://github.com/FoxRomeo/docker-hetzner-api-dyndns # Docker Container for FarrowStranger/hetzner-api-dyndns
+https://github.com/cuceda/miscellaneous #
+https://github.com/ESPete/helpers #
+https://github.com/bgotink/advent-of-code-2022 #
+https://github.com/actions-marketplace-validations/Syndelis_rustfmt-action #
+https://github.com/jippi/go-autoupgrade #
+https://github.com/Gowtham-Attili/nexus-final #
+https://github.com/ElliotKaplan/jq-filters # Utility filters for jq
+https://github.com/sigpwned/diffbot-openapi-spec # Community OpenAPI Spec for Diffbot API
+https://github.com/pmf-ids/aoc23jq # Advent of Code 2023 in jq
+https://github.com/joschi/bellsoft-blog-rss # Unofficial JSON feed for the BellSoft blog: https://bell-sw.com/blog/
+https://github.com/SOF3/jq-libs # A personal library of useful JQ scripts
+https://github.com/tipishev/aoc2022 # Advent of Code 2022
+https://github.com/youve/habitica-backup #
+https://github.com/oatzy/advent_of_code_2023 # echo '¯\_(ツ)\_/¯' | jq
+https://github.com/mrwilson/advent-of-code-2023 # Solving AoC 2023, using JQ, one problem at a time
+https://github.com/Flanker745/notes #
+https://github.com/me-and/petition-rss # RSS feed for petitions.parliament.uk
+https://github.com/lion7/kaas #
+https://github.com/jimman2003/openlibrary_dump_exploration #
+https://github.com/yaccob/jqlib # useful jq library modules
+https://github.com/rozcietrzewiacz/jq-controller # A generic kubernetes controller based on jq. Quickly prototype your own operators using jq filters!
+https://github.com/alexanderkiel/cql-profiles # FHIR Measure Showing Resource Profiles
+https://github.com/tztechno/tz_atcoder_jq #
+https://github.com/nsbgn/i3jq # Control i3 and Sway through jq filters. Mirror of https://codeberg.org/nsbg/i3jq.
+https://github.com/McPolemic/school_lunch # Tracks school lunches for KES
+https://github.com/brianstoop/PHPMailLogger #
+https://github.com/sgtao/genJSONviaCSVedit # JSON to CSV, edit CSV, CSV to JSON の流れで処理する環境を作る
+https://github.com/PorcoRosso85/requirements_auto # requirements_auto
+https://github.com/PtrZjc/datasets #
+https://github.com/christianberg/jqunit # Minimal unit testing framework for jq
+https://github.com/obuschmann/SAP-BTP-Service-Generator #
+https://github.com/wader/advent-of-jq # Advent of code jq solutions
+https://github.com/Duncaen/advent-of-code-2022 # Advent of Code 2022
+https://github.com/Sandhya58/Student_database_jsoniq #
+https://github.com/tomasaschan/config-sync-error-diagnostics #
+https://github.com/esteinholtz-cloudera/benelux-nerdics #
+https://github.com/MuelitasVil/AutonomicJump # Todas las soluciones de codeabbey realizadas en AutonomicJump
+https://github.com/simonwhitaker/quiz-to-deckset #
+https://github.com/jcai849/transactions # Get all transactions in recent history from akahu
+https://github.com/zogwarg/advent-of-code #
+https://github.com/thorpe-dev/aoc2021 # Advent of Code 2021
+https://github.com/alexanderkiel/cql-examples-mii # MII Example CQL Queries
+https://github.com/popmonkey/iracing-data-api-tracker # Scripts and tools to download, diff, and track changes to the iRacing API
+https://github.com/Azumaxoid/nifi-metrics-reformatter #
+https://github.com/clange/gaia-x-hacks # Various Gaia-X hacks
+https://github.com/Neos21/practice-jq # Practice jq
+https://github.com/nitsanavni/cartesian-product-kata # starting position for the Cartesian Product Kata
+https://github.com/epurcell3/aoc2021 #
+https://github.com/xguo-prestolabs/samples #
+https://github.com/mizu-eth/nft-registries #
+https://github.com/qmacro/speedlog #
+https://github.com/pmf-ids/aoc22jq # Advent of Code 2022 in jq
+https://github.com/Flanker745/todolist #
+https://github.com/ck3d/nix-closure-gexf # nix-closure-gexf generates a gexf file from a given Nix store path.
+https://github.com/VATGER-Nav/loa #
+
+https://github.com/reegnz/jq-zsh-plugin # jq zsh plugin
+https://github.com/swoodford/aws # A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
+https://github.com/jhpoelen/zenodo-upload # upload big files to Zenodo using cURL, jq and bash
+https://github.com/joelpurra/jq-hopkok # A bunch of jq snippets to manipulate json files, collected from other projects.
+https://github.com/dcarbone/install-jq-action # Multiplatform jq installer action
+https://github.com/pstadler/ticker.sh # Real-time stock tickers from the command-line.
+https://github.com/r26D/jq-action # This lets you do jq operations in GitHub Actions.
+https://github.com/CircleCI-Public/jq-orb # quickly and easily install jq in your CircleCI job
+https://github.com/yardnsm/tmux-1password # :key: Access your 1Password login items within tmux!
+https://github.com/timcharper/mcli # jq powered mesos cli tool
+https://github.com/chrismytton/heroku-buildpack-jq #
+https://github.com/opentelekomcloud/otc-tools # (Deprecated) Simple bash/curl/jq based command line tool using the OpenStack and OTC specific REST APIs.
+https://github.com/Pixboost/har-jq-cheatsheet # Cheat sheet for extracting information from HAR files using JQ
+https://github.com/jlordiales/jyparser # Bash wrapper around jq to filter both JSON and YAML, packaged behind a single interface
+https://github.com/dnmfarrell/jp # Validate and transform JSON with Bash
+https://github.com/CodelyTV/awesome-bash-challenges # Awesome Bash Challenges
+https://github.com/andrewrothstein/ansible-jq #
+https://github.com/fadado/jqt # jqt · The jq template engine
+https://github.com/n3oney/discord-update-skip # A simple bash script to fix Discord wanting to update to a version that isn't in the repos.
+https://github.com/qudini/concourse-http-jq-resource # Exposing version of a resource over a HTTP endpoint and parsing via JQ into Concourse jobs.
+https://github.com/cburgmer/jp # A simpler jq, and with JSONPath
+https://github.com/CICDToolbox/json-lint # Validate your JSON files using jq.
+https://github.com/wapm-packages/jq # Command-line JSON processor
+https://github.com/evnsio/yq # Yaml equivalent of jq in Docker
+https://github.com/wilecoyote2015/Swytch # Swytch is a script providing a window switcher for sway using rofi, awk and jq
+https://github.com/bashup/jqmd # Write and document your jq/shell scripts with markdown
+https://github.com/zhiyb/SlackBot # Slack Bot, using bash & curl & jq
+https://github.com/szgupta/heroku-buildpack-jq # A Heroku buildpack for the jq tool.
+https://github.com/sparanoid/live-dl # Monitor and download live streams from YouTube
+https://github.com/NorthboundTrain/jqg # search JSON using JQ, printing full path/flattened results
+https://github.com/chriha/pro-cli # Environment management in your terminal
+https://github.com/giuliocalzolari/terraform-awscli # 🐳 Containerized Terraform CLI to avoid having to install terraform on local development machines or CI/CD agents
+https://github.com/ckp95/fwf # Interactively create sed/awk/grep/jq/etc commands with immediate feedback
+https://github.com/Edesem/BTCPriceInTerminal # Shows BTC stats in you're terminal using only curl and jq
+https://github.com/ianblenke/docker-dnsmasq-jq # DNSMasq with JQ config from environment variable
+https://github.com/farfalleflickan/Myflix # Myflix, a Netflix clone!
+https://github.com/fadado/jtool # JSON tools around `jq` and other utilities
+https://github.com/ludovicianul/hq # lightweight command line HTML processor using CSS and XPath selectors
+https://github.com/dakusui/jq-front # A tool to empower your JSON
+https://github.com/nichtich/jq-jsonpatch # jq module implementing JSON Patch (RFC 6902)
+https://github.com/kmmndr/reboot-fbx # Reboot Freebox
+https://github.com/fearphage/jq-duration # JQ method to convert seconds to duration of time
+https://github.com/context-driven-testing-toolkit/json-schema-command # A jq expression that prints back a high-level view of the schema of a JSON document.
+https://github.com/zerodevapp/userop_debugger # A simple CLI wrapper around Foundry and jq to debug UserOps
+https://github.com/grctest/GRC-Netdata # Netdata charts for Gridcoin
+https://github.com/Zaczero/google-photos-takeout.sh # 🔧 Fixes Google Photos Takeout metadata
+https://github.com/jq-sh/jq-sh # A shell script wrapper for jq (the command-line JSON processor)
+https://github.com/dwp/docker-jq-curl # Docker container with JQ and Curl
+https://github.com/OrhanKupusoglu/jo-jq # JSON with Bash
+https://github.com/mohemohe/kokoro.sh # 心.io | require: jq, curl
+https://github.com/alexherbo2/sway-tools # A collection of scripts for Sway
+https://github.com/exercism/jq-test-runner #
+https://github.com/lancecarlson/heroku-buildpack-jq #
+https://github.com/pry0cc/jtools # A collection of jq driven ipinfo tools.
+https://github.com/jqnpm/jq-math # A collection of basic mathematical functions.
+https://github.com/ciiqr/jq-macos-arm # M1/M2 compatible jq build
+https://github.com/Ulysseus/tezos-filters # Some filters for tezos node RPC calls using jq
+https://github.com/DatasiteLabs/docker-cicd-pcf # alpine based docker container with pcf tools installed. also has: bash, jq, curl, git, tar, gzip and a rolling deploy script
+https://github.com/gitjeff05/kapitsa # Search your Jupyter notebook files (.ipynb) from bash.
+https://github.com/nathos/ghinfo # jq-powered Bash script experiment to display useful information about GitHub users & repos
+https://github.com/donpdonp/dashj # storj storagenode dashboard in bash/jq
+https://github.com/jqnpm/jq-stress # Manipulate strings without stress.
+https://github.com/subeshb1/api-test # 🌿 A simple bash script to test JSON API from terminal in a structured and organized way.
+https://github.com/geodimm/jqp # Prettify JSON lines
+https://github.com/olithissen/masto.sh # A bash script to download your Mastodon posts to DuckDB
+https://github.com/decknroll/json2env # Small, awesome pure shell + jq translator for JSON to environment variables. Even works in BusyBox.
+https://github.com/cjmccutcheon/kq # jq-like facade for kubectl
+https://github.com/jqnpm/jq-fallbacks # Provide fallbacks for bad values.
+https://github.com/romainricard/jq-wrappers # A set of handy jq wrappers to manipulate minified JSON files.
+https://github.com/Loureas/anilibria-cli # Search and watch anime with AniLibria.TV
+https://github.com/deanflyer/aws-wsl2-environment # Bash script to setup development environment for AWS under WSL2 for Windows 10 using Ubuntu 20-04. aws-cli, aws-cdk, SSH for git, AWS utilitie
+s cfn-diagram and cfn-lint, jq JSON parser and associated dependencies. https://github.com/tg-z/wikidaily # this repo makes use of a one-liner created by everest pipkin in a twitter thread.
+https://github.com/nntrn/espn-wiki # Collection of espn notes for api endpoints
+https://github.com/xkti/gmadl # garry's mod addon downloader script - uses depotdownloader, jq, curl and wget.
+https://github.com/SlMarti/process-instance-migration-script # Process instance migration script (Bash + curl + jq)
+https://github.com/StanGirard/Alpine-Powerhouse # Alpine with pre-packaged tools such as curl, DNS Utils, Git, PSQL, jq & Git under 20Mb
+https://github.com/webcerebrium/curljq # Curl + JQ
+https://github.com/DheerajKN/Spring-Test-Generator # Bash Script file that generates the JUnit Test Cases for Spring Framework based on the tests.json file provided to the script
+https://github.com/itsmygalaxy/Jq---Checkpoint # Checkpoint - JQ
+https://github.com/aibangjuxin/jq # jq-packer
+https://github.com/YenForYang/debian-jq # Debian - jq
+https://github.com/dhirajsriram/npm-tabs # Tabable npm scripts
+https://github.com/guitarrapc/jq-lab # JQ lab
+https://github.com/defnnnn/jqq # jq libraries
+https://github.com/ianmiell/jq-examples #
+https://github.com/balena-io-experimental/circle-github-deploy # Parallel CircleCI workflow with automatic artifacts deployment to GitHub Releases
+https://github.com/defnnnn/jq #
+https://github.com/rogusdev/aws-cli-mfa # Python + shell script to streamline official AWS process for using MFA with the AWS CLI
+https://github.com/bhfsystem/jq #
+https://github.com/static-build/jq #
+https://github.com/wilhelm-murdoch/dq # A wrapper around Docker and jq that allows you to filter running Docker containers.
+https://github.com/sailfishos-chum/jq # RPM packaging of jq for Sailfish
+https://github.com/jpapejr/jq # Handy scripts for using JQ to capture data from JSON datasets
+https://github.com/buildio/jq-buildpack # Buildpack for installing JQ (https://stedolan.github.io/jq/)
+https://github.com/brother/gleshys # A bash based client to interact with GleSYS API. Key dependencies are bash, curl and jq.
+https://github.com/aur-archive/jq #
+https://github.com/thisisdavidbell/jq # Playground for jq
+https://github.com/cyber-dojo-languages/jq #
+https://github.com/droboports/jq # jq DroboApp build scripts
+https://github.com/KaOS-Community-Packages/jq # Command-line JSON processor
+https://github.com/bashup/doco # docker-compose project automation and literate devops
+https://github.com/sylGauthier/jq # A journal manager that allows encrypting entries using GPG
+https://github.com/importpw/jq # Imports a static `jq` binary
+https://github.com/UglyWillDuckling/jq #
+https://github.com/rabestro/gpt4-session-to-markdown # ChatGPT-4 to Jekyll Markdown: Command-line tool with JQ, converting ChatGPT-4 JSON sessions to Jekyll markdown posts. Simplify site updates
+and content generation. https://github.com/nitsanavni/ApprovalTests.jq # approvals for jq
+https://github.com/saivignesh-bassure/jq #
+https://github.com/atomlong/jq # Command-line JSON processor (msys2)
+https://github.com/opsgang/docker_devbox_aws # alpine workspace with dev tools for aws api, credstash, docker, bash, python, git, jq, make, ssh, curl, vim ...
+https://github.com/westonsteimel/container-library-jq # jq in docker
+https://github.com/prageethpasyala/Discovery_Scripts_CSV_Output_V2 # jq error fixed
+https://github.com/B-Stefan/jqassistant-android-apk # A simple example script to analyse a android-apk file with jqassistant
+https://github.com/altynarys/jq-ops # Let's modify JSON data through jq
+https://github.com/Gonzih/jq-docker # Docker container with preinstalled jq, can be used to install jq
+https://github.com/dgroomes/jq-playground # 📚 Learning and exploring 'jq'
+https://github.com/jqnpm/jq-random-prng-microsoft # An implementation of the Microsoft C Runtime rand() pseudorandom number generator (PRNG) function. The range is [0,32767].
+https://github.com/awesome-global-contributions/action-yq # A github action python environment with yq (and jq) installed
+https://github.com/jblaker/asdf-jq # jq plugin for asdf
+https://github.com/giuliocalzolari/docker-packer # Packer + AWS CLI + jq
+https://github.com/eepgwde/jq-mvn-repo # Maven repository for JQ
+https://github.com/mocanug/yq # yaml parser using jq
+https://github.com/LarryRuane/jq-demo # Some simple jq examples
+https://github.com/chatelao/jq-tests # Samples for jq applications
+https://github.com/zsiec/terraform-awscli-jq-git # Terraform + AWS CLI + jq
+https://github.com/nitsanavni/cyberdojo-jq # add jq to cyberdojo
+https://github.com/o0th/ajs # Shell script to save and update aws secrets via json files
+https://github.com/sloshy/dumb-sync # A microframework for syncing and transforming files
+https://github.com/nordicdyno/jq-docker # build jq in docker
+https://github.com/arno-di-loreto/jq-completions # zsh completion for jq
+https://github.com/ClementTsang/docker-check-base-image-diff # A Github Action that checks for Docker base image updates. Leverages skopeo and jq.
+https://github.com/charlesetc/jqr #
+https://github.com/Summertime/jqursed # ✏️ HTML templating for jq
+https://github.com/yasirlateef/jqi # A Utility wrapper for jq
+https://github.com/nimmis/docker-jq # Docker images thats bundles jq
+https://github.com/hansmi/stsetup # Configure Syncthing using jq filter
+https://github.com/qmacro/exercism-jq # Exercism jq track (experimental only)
+https://github.com/WinkelCode/jqparse # Parse mixed content with `jq`
+https://github.com/jqnpm/jq-ratio-buckets # Counter buckets for the [0,1] range.
+https://github.com/jqnpm/jq-counter-buckets # Count occurrences of values within a range.
+https://github.com/jmniederle/DIS_xYz0JqU #
+https://github.com/lumpenfreude/oweatherbar # Extremely simple script to get current weather info for Polybar (and presumably similar bars) using nothing more than bash, jq, and curl.
+https://github.com/jqnpm/jq-random-prng-bsd # An implementation of the BSD libc rand() pseudorandom number generator (PRNG) function. The range is [0,2147483647].
+https://github.com/Smile4ever/wikitools # Wikipedia tools
+https://github.com/reegnz/dotfiles # Just my dotfiles (for fun and profit)
+https://github.com/jqnpm/jq-random-prng-vdc # An implementation of the Van der Corput quasirandom sequence generator function. The range is [0,1).
+https://github.com/saurshaz/jq_trading_scripts # jq scripts for trading helper data
+https://github.com/hdoo42/simple_42_api_sender # use 42api with curl and jq
+https://github.com/garethahealy/ocp-events-jq # [DEAD] oc get events | jq >> snmp
+https://github.com/ljos/jqi # jq interactive mode for the terminal
+https://github.com/VirtualTwigs/oo_jq # lightweight bash OOP based on jq
+https://github.com/thinkverse/exercism-jq # Solutions for Exercism's jq track
+https://github.com/frectonz/bash_bot # Telegram bot using bash (curl, jq)
+https://github.com/qinabu/json2 # json2 rolls out json using jq
+https://github.com/jqnpm/jq-bugfix-jq-552 # This repository is now made obsolete by upstream fixes in jq, in commits after jq-1.5rc1-12-gcca3e92
+https://github.com/nqpz/jq-workshop # Exercises, solutions and material for jq
+https://github.com/FairCapital/heroku-buildpack-jq # Use All-mighty jq on Heroku
+https://github.com/veltzer/demos-jq # Demos for the jq json processor
+https://github.com/mcenirm/json2csv # Convert JSON to CSV (requires jq)
+https://github.com/LucaSoato/jq4nb_installer # Jq for jupyter notebooks install script
+https://github.com/thurt/openwhisk-jq # jq packaged for IBMs serverless OpenWhisk
+https://github.com/antanof/magnet # get magnet from api with jq
+https://github.com/satorix/satorix-jq-buildpack # Heroku buildpack to install jq binary
+https://github.com/forged-concepts/aws-cli-action # AWS cli with `jq` GitHub action
+https://github.com/lydavid/JMDict-jq # Practice using jq on JMDict data
+https://github.com/godofjesters/docker-updater # bash script to update all docker containers on your computer (JQ REQUIRED INSTALL)
+https://github.com/jspaleta/sensu-jq-asset # Sensu Asset version of jq utility
+https://github.com/code-supply/git-mob # git-mob in bash/jq/nix
+https://github.com/dirtsimple/mantle # Dockerized, Literate Devops for Wordpress with imposer + postmark
+https://github.com/umaumax/gitlab_issue_crawler #
+https://github.com/cn246-admin/update-jq # Install or update jq on Linux and Mac
+https://github.com/swinton/github-api-examples # GitHub API Examples
+https://github.com/NextGenOP/gemini-text-sh.sh # Text-to-shell using curl and jq
+https://github.com/adrianriobo/awscli # Slim container image including: awscli and jq
+https://github.com/reach-service/aws-swarm-cli-service # A container with AWS CLI and jq
+https://github.com/Matafou/glapi # Gitlab API from bash (based on jq)
+https://github.com/hatschito/Rental_data_download_shell_script_WGET_JQ # Rental_data_download_shell_script_WGET_JQ
+https://github.com/apokalyptik/curljq # A wrapper to combine curl and jq
+https://github.com/roger-russel/jq-docker # A from scratch image with jq only
+https://github.com/dynnamitt/tf2pulumi # tf show -json | jq | pulumi import , SIMPLY
+https://github.com/kefahi/elasticsearch_dump_restore # Basic bash script that uses curl and jq to dump and restore Elasticsearch indexes.
+https://github.com/kjdev/jq-api # API system with JSON files and jq filters
+https://github.com/tchaudhry91/curl-jq-ex # A curl-jq example for demonstrating Envyr
+https://github.com/aqib1/jq-shell-sample # shell sample using jq for json parsing
+https://github.com/importpw/yq # Like jq, but the input is yaml
+https://github.com/Ajaytekam/jqgrep # jq wrapper script for parsing json files
+https://github.com/pavelsr/antmcli # CLI tool for monitoring your Antminer remotely via ssh using just embedded firmware cgi endpoints, curl and jq
+https://github.com/Feqzz/tmux-mpv-info # 🎵 Displays the current song playing with MPV in your tmux status bar.
+https://github.com/Floflis/mlq # jq, but HTML instead of JSON 🧚
+https://github.com/johantiden/jass # Wrapper around pass to get help with formatting
+https://github.com/Lenaer1/JSON-to-CSV-Bashscript # Objective is to write a script that converts json file to csv output
+https://github.com/z0mbix/rpm-jq # Build an up to date RPM for jq on CentOS/RHEL 6
+https://github.com/Adron/jq-tests-samples-errata # Examples, samples, and such with jq in Bash.
+https://github.com/pscedu/singularity-jq # jq is a lightweight and flexible command-line JSON processor.
+https://github.com/gwelican/asdf-jq #
+https://github.com/vaynerx/asdf-jq #
+https://github.com/make-ops-tools/docker-jq #
+https://github.com/yutaro-sakamoto/learn-jq #
+https://github.com/tst2005sh/jq-helpers #
+https://github.com/tomoasleep/jq-action #
+https://github.com/ez98/jq-test #
+https://github.com/paulojeronimo/jq-labs #
+https://github.com/yordan-vladov/jq-intro #
+https://github.com/Praveengostu/terraform_jq #
+https://github.com/emersonmx/asdf-jq #
+https://github.com/stephenloggedon/exercism-jq #
+https://github.com/jcarley/docker-jq #
+https://github.com/kamermans/docker-jq # Docker image of the jq command line JSON parser
+https://github.com/dwurf/presentation-jq # Malcolm's content from the jq lightning talk
+https://github.com/paxosglobal/asdf-jq #
+https://github.com/jboero/jq-autocompletion # Experimental shell autocompletion for jq and JSON browsing.
+https://github.com/cyber-dojo-start-points/jq-approvals #
+https://github.com/shishidosoichiro/vendor-jq #
+https://github.com/adlerschilling/exemplos-jq #
+https://github.com/dubiousdavid/jq-playground #
+https://github.com/kvnsmth/jq-roam # jq module for filtering Roam Research export JSON
+https://github.com/Jqnxyz/static-jq #
+https://github.com/rod-stuchi/jq-recipes #
+https://github.com/cyber-dojo-languages/jq-approvals #
+https://github.com/ktheory/cog-jq # A Cog bundle for the jq JSON processor
+https://github.com/xavier268/demo-jq-miller-examples # Examples processing/cleaning data with miller and jq
+https://github.com/kael-shipman/jc # A tiny, idempotent JSON Configurator built on jq
+https://github.com/mrJeppard/jqtrix # Reference for json parsing in bash with jq.
+https://github.com/muhgumus/kube-deploy # kubernetes deploy - kubectl + curl + jq + delete_image.sh
+https://github.com/sweetbbak/jq-repl # a tool to use to live edit jq (json parser) strings. Very helpful for parsing through Json w/out having to edit/run 1000 commands
+https://github.com/chenrizhi/jq-shell #
+https://github.com/truemark/jq-docker #
+https://github.com/eads/elex-jq #
+https://github.com/debugtaisto/jq.sh # Convenient bash interface for jq, a command-line JSON processor
+https://github.com/oleynik/exercism-jq #
+https://github.com/simpleusd/asdf-jq #
+https://github.com/AbdelMounhim/testsJQ #
+https://github.com/olvsa/postqueue_jq # Prometheus exporter for Postfix queue's state.
+https://github.com/kc-workspace/asdf-jq #
+https://github.com/jadutter/jq-action #
+https://github.com/zmicro-design/package-jq #
+https://github.com/stephendarling/jq-sandbox #
+https://github.com/juanpsm/mw-jwq # Wrapper for decripting JSON Web Tokens using jq
+https://github.com/tmuth/splunking-json # Examples to ingest json natively and with jq
+https://github.com/vivek-siva/meh # scrap meh data via shell script and jq
+https://github.com/datentyp/jreformat # Recursively formats ("pretty-prints") JSON files with jq.
+https://github.com/brianshourd/advent-of-code-2022 # Advent of code 2022 solutions in bash/jq
+https://github.com/bline/docker-semaphore # Docker image for semaphore with extras like jq
+https://github.com/hobbyquaker/ccu-addon-jq # jq packaged as addon for the Homematic CCU3
+https://github.com/b0o/alacritty-conf # Maddison's alacritty configuration!
+https://github.com/svrc/pks-cifs-utils # Installs CIFS Utils and JQ on PKS worker nodes
+https://github.com/ludovicm67/sh-speedlogs # A simple shell-script to easily log the speed test results.
+https://github.com/forbesmyester/ndjson-env # Loads environment from ndjson files, selected by `jq ._name`
+https://github.com/alexandru-ersenie/kubernetes-monitoring # Monitoring Kubernetes items using Kubernetes API, Curl and JQ
+https://github.com/cookielab/container-image-deployer # Cookielab Deployer Container Image - Kubectl, Helm, AWS CLI, JQ

@@ -1,0 +1,5 @@
+Buildpacks
+
+Nixpacks
+https://github.com/railwayapp/nixpacks # Nixpacks (by Railway)
+https://github.com/nlewo/nix2container # converts a Nix package to a Docker container

@@ -1,0 +1,153 @@
+https://github.com/sst/sst # Build modern full-stack applications on AWS
+
+https://github.com/sst/open-next # Open source Next.js serverless adapter
+https://github.com/sst/guide # Repo for guide.sst.dev
+https://github.com/sst/ion # ❍ — a new engine for SST
+https://github.com/sst/demo-ai-app # Sample AI movies app built with ❍ Ion
+https://github.com/sst/console # A web based dashboard for your SST apps
+https://github.com/sst/demo-notes-app # Demo notes app in the SST Guide
+https://github.com/sst/torpedo # Connect to databases in private VPCs securely the easy way - no VPN required
+https://github.com/sst/examples # A collection of example serverless apps built with SST.
+https://github.com/sst/ideal-stack-preview #
+https://github.com/sst/lerna-yarn-starter # SST monorepo starter that uses Lerna and Yarn Workspaces.
+https://github.com/sst/sst-weekly-repos # Repos from the SST Weekly streams
+https://github.com/sst/social-cards # An SST app that dynamically generates social cards.
+https://github.com/sst/sst-start-demo # A simple SST app to demo the new `sst start` command
+https://github.com/sst/monorepo-template # SST ❍ Ion monorepo template
+https://github.com/sst/sqr # Spotify Quarterly Report
+https://github.com/sst/serverless-stack-resources-sample # A sample SST app deploying the notes app resources from the Serverless Stack guide.
+https://github.com/sst/tutorial-links-app # Source for the links app that we build in the SST tutorial.
+https://github.com/sst/v1-conf # An SST app powering the SST 1.0 Conf website.
+https://github.com/sst/pulumi-supabase #
+https://github.com/sst/isserverlessready # isserverlessready.com
+https://github.com/sst/freenextjsforjim.biz # It's free Next.js Jim!
+https://github.com/sst/telemetry # An SST app that stores the telemetry data collected by the SST CLI.
+https://github.com/sst/slack-support # A Slack bot built with SST to help the SST team answer questions in Slack.
+
+https://github.com/karelnagel/remotion-sst # The easiest way to deploy Remotion Lambda to AWS with SST/Pulumi and use in your applications.
+https://github.com/depaa/newsletter-manager-template # Newsletter Backend Orchestration Template in AWS with SST
+https://github.com/vickywane/nextjs-sst-template # A Next.js application template deployed to AWS using the Lambda, DynamoDB and S3 services.
+https://github.com/thinkjones/aws-saas-seed # SaaS Serverless Seed microservices application using the AWS, React, Next and the awesome sst.dev.
+https://github.com/jpbarbosa/sst-rekognition # An event-driven app to label images on top of AWS using SST (Serverless Stack), TypeScript, and React.
+https://github.com/aphex/sst-trpc # POC Example SST + tRPC v10 app using procedures and subscriptions on AWS
+https://github.com/benbowers/hexyback-workshop # Workshop to deploy a hexagonal architecture using SST (Serverless Stack) on AWS.
+https://github.com/daohoangson/bubby # Telegram bot powered by OpenAI
+https://github.com/microeinhundert/sst-edgedb-trpc-microservices # Microservices deployed to AWS. Built with SST, tRPC and EdgeDB.
+https://github.com/kma-score/kma_score_serverless # KMA Score API written with SST and runs on AWS Lambda
+https://github.com/purple-technology/serverless-parking-workshop-boilerplate # Boilerplate used for the serverless parking workshop 👷‍♂️ 🅿️
+https://github.com/llaverowallet/llavero # Llavero Wallet - The vault for the people
+https://github.com/cliffom/sst-bff-demo # A demonstration of how to use SST to build and deploy a GraphQL endpoint with backing services written in Go.
+https://github.com/mauricewebb/next-amplifyui-sst-cognito-auth # custom user auth with next js, sst, aws cognito and amplify UI
+https://github.com/sionelt/startup-serverless-starter # Starter template for any startups looking to build on & leverage AWS serverless services. 
+https://github.com/gusugusu1018/sst-ion-next-auth-template # This app is for demonstration purposes using sst v3(ion) and Next.js 14 Auth.js, AWS Cognito.
+https://github.com/sudhanshublaze/fastapi-sst # This repository contains a sample app for deploying a Python FastAPI application on AWS Lambda using SST.
+https://github.com/jl-n/aws-cdk-batch-ts # Typescript client with Lambda backend and S3 Bucket for running jobs on AWS Batch with Fargate.
+https://github.com/kovacsl/aws-poc # SST AWS POC
+https://github.com/brianhhough/photo-gallery-app-aws-sst-next #
+https://github.com/lucasvieirasilva/nx-nextjs-aws-cdk # NX Monorepo, Next.js Webapp using OpenNext (SST), HTTP Lambda using CDK
+https://github.com/wiiisdom/ec2-leaser # Start EC2 from selected AMI and with the correct tags
+https://github.com/jakubknejzlik/sst-sfn # StepFunctions implementation for SST Ion (and Pulumi)
+https://github.com/jjjjjjjjjjjjjjjl/sst-demo # SST Serverless AWS template
+https://github.com/reallybadnews/sst-notes # explore sst and aws
+https://github.com/simonri/sst-drizzle-auth-starter # Starter template for building web apps using Next.js, Drizzle ORM, Amazon Postgres RDS, and Auth.js.
+https://github.com/attilacsanyi/sst-notes-app # Demo SST AWS serverless app following the https://sst.dev/chapters/what-is-sst.html guide
+https://github.com/smokeyblues/aws-sstv4-notes #
+https://github.com/nemuvski/tutorial-sst # 🎒 SST Tutorial
+https://github.com/gustavdz/sst-skelleton # AWS SST Fullstack App Skelleton
+https://github.com/nick-nodejs/doinstruct-api # AWS Serverless + sst + RDS(Postgres)
+https://github.com/fjerez-gds/demo-notes-app # Demo notes SST and AWS
+https://github.com/bryxli/aws-github-actions # Setup OpenID Connect using SST Construct
+https://github.com/jchene/smol-api # Small SST/ElectroDB REST/tRCP API - to perform CRUD operations via AWS Lambda on AWS DynamoDB
+https://github.com/austinm911/tanstack-monorepo # monorepo Template (WIP) using Turborepo, SST, Tanstack Router, Bun, Drizzle ORM
+https://github.com/chandher05/queuesst # aws serverless Architecture
+https://github.com/vib-ux/aws-sst #
+https://github.com/kzinthant-d3v/aws-sst #
+https://github.com/blakegreendev/bedtimeai-sst3 # generate a new bedtime story using AI
+https://github.com/fillip1984/aws-hub # t3 running on aws via sst.dev
+https://github.com/anthonybuncio/sst-s # aws serverless Stealth 🥷
+https://github.com/alichry/aws-appsync-butler # a simple yet powerful AppSync development framework. Compatible with CDK and SST. 
+https://github.com/neo-ciber94/imagegen # 💜 an ai image generator gallery
+https://github.com/yash0292/aws-sst-test #
+https://github.com/zhannarudenkodev/aws-sst-app #
+https://github.com/joeynq/aws-sst-example #
+https://github.com/sirbluee/aws-sst-cicd #
+https://github.com/takiamor/challange-sst-aws #
+https://github.com/antonzavalniuk/notes_aws_sst #
+https://github.com/nilotpaul/blog-aws-sst #
+https://github.com/thegipsydanger/aws-sst-example #
+https://github.com/thangtran3112/aws-next # nextjs on AWS with CDK, SST, or Amplify deployments
+https://github.com/spy4x/sage # openai chatgpt bot with custom integrations
+https://github.com/sonoftheweb/simple-test # a simple AWS API deployment using SST
+https://github.com/cometbid-project/sst-serverless-guide # AWS Lambda project based on SST framework
+https://github.com/sakorkko/holmanpuukko # remix site deployed to AWS with sst
+https://github.com/oetzilabs/aws-transcribe-example-sst #
+https://github.com/zolastic/aws-sst-research-project #
+https://github.com/smokeyblues/aws-sst-saas-template #
+https://github.com/stokilo/aws-sst-rest-vue # template to work with AWS Api Gateway + Lambda + Cognito.
+https://github.com/cronin4392/remix-js-sst-aws #
+https://github.com/ganesankar/ganesan-dev-sst # my personal website made with Next.js, Tailwind, Flowbite, Headless, Aws CDK, Cloudformation, hosted in AWS
+https://github.com/cronin4392/next-js-sst-aws # test project to deploy Next.js on AWS with SST
+https://github.com/stokilo/aws-sst-typescript-nuxtjs #
+https://github.com/apostolos-daniel/sst-aws-lambda-bottlecap #
+https://github.com/saweber/sst-example # sst example using Github Actions to deploy to AWS
+https://github.com/lukasniedoba/aws-workshop-todo # example todo API in SST framework deployed to AWS cloud
+https://github.com/wizelineacademy/itesm-socioformador-feb-jun-2024-azteca # ⛰️ Una plataforma de retroalimentación y evaluación para empleados 
+https://github.com/thefocusedcoder/aws-agent-template # Agent template built using amazon bedrock, sst and pulumi native
+https://github.com/vhspace/mastodon-cdk-sst # deploy Mastodon instances using AWS CDK and SST
+https://github.com/amaben2020/learning-sst # this repo is for learning AWS and the SST Framework
+https://github.com/josehm1999/demo-notes-app-sst # demo application using SST for deploying to AWS.
+https://github.com/therayofseasons/aws-cloud-native-sst-stack # A fullstack SST template complete with Cognito authentication, DynamoDB, and a React frontend.
+https://github.com/harshit9715/primelabplatform # primeLab Marketplace Platform built on AWS with SST
+https://github.com/sommeeeer/migotos # a nextjs site for my mothers cat breeding company: Migoto’s Norwegian Forest Cat, cattery based in Oslo, Norway.
+https://github.com/yasirhantoush/aws-sst-search-itunes-app #
+https://github.com/solofi/solo # beautiful self-hosted Asset Tracking App
+https://github.com/tigerappsorg/tiger-junction # ✨ princeton course selection, amplified ✨
+https://github.com/godwintrav/sst-backend-practice # A backend application created with SST and AWS framework
+https://github.com/mystugo/sst-template # a template repository using the serverless-stack (sst) AWS CDK infrastructure framework
+https://github.com/dpjhurley/sst-predict5-project # small project top test out AWS serverless stack
+https://github.com/zakariabaqasse/sst-note-app # a note app made using aws lambda with SST framework
+https://github.com/amolmt/sst-dev # serverless app created using AWS Cognito, Lambda, DynamoDB, API Gateway, S3 and Cloudfront.
+https://github.com/onahp/aws-cdk-ses-stack # create an AWS SES (Simple Email Service) stack combined with SST
+https://github.com/amolmt/sst-links # a serverless app creacted using React, TypeScript, AWS RDS-Postgresql and Lambda functions
+https://github.com/hxtree/cdk-workshop # aws cdk typescript Workshop. Alternative to Serverless Framework / SST.
+https://github.com/rujmah/sst-bedrock-chat-app # basic GPT chat app using SST and AWS Bedrock
+https://github.com/salza80/create-t3-turbo-aws-template # create-t3-turbo template modified to use AWS services
+https://github.com/pplytas/sst-hono-chatbot-api # Serverless slack chatbot using openai, hono, sst and aws lambda
+https://github.com/jacklinc/sst-full-stack-rag # decouple Streamlit RAG-LLM chatbot frontend into microservices in AWS
+https://github.com/eduardo3g/sst-lightweight-clean-code # Lightweight 'clean code' AWS serverless architecture with the Serverless Stack.
+https://github.com/zrq-rikkie/sst-test # sst is a framework that makes it easy to build modern full-stack applications on AWS.
+https://github.com/devevandro/deploy-sst-ion # a simple code how to deploy a lambda on AWS using SST-ION
+https://github.com/mathisobadia/chatgpt-plugin-sst # A ChatGPT plugin starter template to host your plugin on AWS with sst.dev
+https://github.com/bronifty/aws-sdkv3-notes-app-sst-clone #
+https://github.com/jekburri/aws-lambda-sst-a3-cars-app # Backend using API Gateway and Lambda functions 
+https://github.com/breadscorner/sst-vite-social-app # SST, vite, react, aws s3 create this application to like and share posts.
+https://github.com/jlgore/sst-canary # honeytoken infrastructure as Code Framework?? That seems too ambitious...
+https://github.com/walen007/serverless-api-aws-lambda # Serverless API Application using Node.js, SST, AWS Lambda, API Gateway, RDS Postgres, SQS and JWT Authorization
+https://github.com/apetta/sst-ion-starter # A starter repo for AWS deployment via SST (ION) infra as code package. 
+https://github.com/rudijs/serverless-typescript-powertools # Simple demo scratch code for the SST stack using AWS Typescript Powertools
+https://github.com/gmotta-dev/portfolio-v2 # repo dedicated to my Next 14 Portfolio Hosted on AWS via SST
+https://github.com/mattwyskiel/sst-outputs-to-ssm # Removes environment variables by using AWS Systems Manager Parameter Store
+https://github.com/midknightman/service-template # base template with airplane mode for backend projects. AWS, SST, Drizzle & Garph (GraphQL)
+https://github.com/lukeshafer/discord-bots # discord bot and deployable serverless Minecraft server with ability to launch via Discord
+https://github.com/meex28/discounts-express # watch for PKP Intercity railway connections and find the best prices for your journeys
+https://github.com/foxfl/appsync-typed-lambda-resolver # Example SST App with a type-safe AWS Lambda resolvers for AWS AppSync using typescript.
+https://github.com/meex28/scan-n-ride # public transport ticketing app. Based on React Native and SST in AWS serverless way.
+https://github.com/jaked9/serverless-shortener # serverless URL shortener with Lambda functions, built using AWS CDK, NextJS and Serverless Stack (SST)
+https://github.com/j-sauceda/chime-messaging-backend-poc # Proof-of-concept backend implemented with the SST framework for an AWS Chime messaging site
+https://github.com/j-sauceda/chime-meetings-backend-poc # Proof-of-concept backend implemented with the SST framework for an AWS Chime meetings site
+https://github.com/rayaan01/blogcloud # a blog publishing platform. Serverless Backend on AWS using SST framework. Frontend using Next.js on Vercel.
+https://github.com/murylloex/shortly-serverless # sst is a framework that makes it easy to build modern full-stack applications on AWS.
+https://github.com/eduardo3g/sqr # serverless application that groups your liked Spotify songs into quarterly playlists.
+https://github.com/kaiserbald0/serverless-event-sourcing # This is a experiment to try a simple server less event sourcing API on AWS using SST
+https://github.com/j-sauceda/chime-messaging-frontend-poc # Proof-of-concept frontend for an AWS Chime messaging site to be deployed using the SST Framework
+https://github.com/abdelrahmanamr/my-app # a demo repo, that deploys a react frontend to aws (with the help of the sst command)
+https://github.com/sgcarstrends/web #
+https://github.com/enea-scaccabarozzi/portfolio # source code for my personal web portfolio. Created with nextjs and deployed, completely serverless, on aws with sst
+https://github.com/aws-streamlined/ascc # ascc aims at simplifying the creation of a proper CI/CD pipeline for SST applications, using AWS CodePipeline.
+https://github.com/wintersausten/drafts-assistant # an assistant to help me take action on my Drafts app drafts. Built on AWS with SST.dev.
+https://github.com/rcoundon/garage-door-arduino-project # Send an email and SMS based on the invocation of an endpoint. Uses SST, API Gateway, Lambda, SNS and SES
+https://github.com/ankitjha2202/task_management_tool # TaskManagementApp streamlines project management with efficient task creation, assignment, tracking
+https://github.com/alxlvgit/ecommerce-app # ecommerceApp is a dynamic serverless application designed to provide users with a platform for buying and selling items.
+https://github.com/thangtran3112/appsync-amplify-cdk-next # Fully CDK starter for Amplify Web Compute and NextJS app, with Github OAuth
+https://github.com/exanubes/file-handling-using-s3 # S3 upload and download functionalities using signed URLs, bucket versioning, archiving, retrieval, uploads 
+https://github.com/sayandedotcom/refhired.com # Simplifying receiving and giving job referrals for absolutely everyone 

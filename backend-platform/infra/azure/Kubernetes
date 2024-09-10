@@ -1,0 +1,6 @@
+https://github.com/mspnp/aks-baseline # Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center
+https://github.com/mspnp/aks-fabrikam-dronedelivery # AKS Fabrikam Drone Delivery
+https://github.com/mspnp/aks-baseline-regulated # AKS for regulated workloads
+https://github.com/mspnp/aks-baseline-multi-region # AKS for multi-region
+https://github.com/mspnp/microservices-reference-implementation # Microservices architecture
+https://github.com/mspnp/aks-jumpbox-imagebuilder # Create a jump box image used for ops access on network-restricted AKS clusters, using Azure Image Builder

@@ -1,0 +1,18 @@
+https://github.com/googlecloudplatform/vertex-ai-samples # Notebooks, code samples, sample apps
+https://github.com/googlecloudplatform/generative-ai # Sample code and notebooks for Generative AI with Gemini on Vertex AI
+https://github.com/googlecloudplatform/mlops-with-vertex-ai # An end-to-end example of MLOps on Google Cloud using TensorFlow and TFX
+https://github.com/googlecloudplatform/vertex-pipelines-end-to-end-samples #
+https://github.com/googlecloudplatform/terraform-genai-doc-summarization # Summarizes document using OCR and Vertex Generative AI LLM
+https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline # Operationalize AlphaFold batch inference using Vertex AI Pipelines.
+https://github.com/googlecloudplatform/applied-ai-engineering-samples # Use Generative AI on Vertex AI.
+https://github.com/googlecloudplatform/t5x-on-vertex-ai # Operationalize Google Research T5X framework on Google Cloud Vertex AI.
+https://github.com/googlecloudplatform/terraform-google-vertex-ai # Deploy Vertex AI resources
+https://github.com/googlecloudplatform/sensitive-data-protection-for-vertex-ai-palm2 # Sample notebook for Sensitive Data Protection of Generative AI on Google Cloud
+https://github.com/googlecloudplatform/vertex-ai-spark-ml-serving #
+https://github.com/googlecloudplatform/customer-experience-modernization # Best practices, guidance, and comprehensive code samples for Vertex in customer service
+https://github.com/googlecloudplatform/vertex-ai-creative-studio # Creative Studio is a Vertex AI generative media example user experience
+https://github.com/googlecloudplatform/vertex-parameter-server-training-demo #
+
+https://github.com/google/vertex-ai-nas # With Vertex AI NAS, you can search for optimal neural architectures
+https://github.com/google/vertex-pipelines-boilerplate # Boilerplate code for setting up a Kubeflow pipeline to run in Cloud Vertex AI Pipelines.
+

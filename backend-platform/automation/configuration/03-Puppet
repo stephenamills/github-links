@@ -1,0 +1,286 @@
+https://github.com/puppetlabs/puppet # Server automation framework and application
+
+https://github.com/puppetlabs/r10k # Smarter Puppet deployment
+https://github.com/puppetlabs/facter # Collect and display system facts
+https://github.com/puppetlabs/bolt # Orchestration tool that automates the manual work it takes to maintain your infrastructure
+https://github.com/puppetlabs/puppetlabs-mysql # MySQL Puppet Module / Manifests + Types & Providers
+https://github.com/puppetlabs/puppetlabs-apache # Puppet module for the Apache httpd server, maintained by Puppet, Inc.
+https://github.com/puppetlabs/puppetlabs-stdlib # Puppet Labs Standard Library module
+https://github.com/puppetlabs/hiera # Lightweight Pluggable Hierarchical Database
+https://github.com/puppetlabs/puppetdb # Centralized Puppet Storage
+https://github.com/puppetlabs/puppetserver # Server automation framework and application
+https://github.com/puppetlabs/puppetlabs-firewall # Puppet Firewall Module
+https://github.com/puppetlabs/puppetlabs-postgresql # Puppet module for managing PostgreSQL
+https://github.com/puppetlabs/pdk # The shortest path to better modules: Puppet Development Kit; Download:
+https://github.com/puppetlabs/puppet-docs # Curated Puppet Documentation
+https://github.com/puppetlabs/control-repo # A control repository template
+https://github.com/puppetlabs/pupperware # Container fun time lives here.
+https://github.com/puppetlabs/puppetlabs-concat # File concatenation system for Puppet
+https://github.com/puppetlabs/puppetlabs-ntp # Puppet module to manage the NTP service
+https://github.com/puppetlabs/puppetlabs-lvm # Puppet Module to manage LVM
+https://github.com/puppetlabs/puppetlabs_spec_helper # A set of shared spec helpers specific to Puppetlabs projects
+https://github.com/puppetlabs/puppetlabs-java # Puppet Module to manage Java
+https://github.com/puppetlabs/puppet-specifications # Specification of the Puppet Language, Catalog, Extension points
+https://github.com/puppetlabs/vault-plugin-secrets-oauthapp # OAuth 2.0 secrets plugin for HashiCorp Vault supporting a variety of grant types
+https://github.com/puppetlabs/puppetlabs-kubernetes # This module install and configures a Kubernetes cluster
+https://github.com/puppetlabs/puppetlabs-docker # The Puppet Docker repository
+https://github.com/puppetlabs/puppet-strings # The next generation Puppet documentation extraction and presentation tool.
+https://github.com/puppetlabs/puppet_litmus # Providing a simple command line tool for puppet content creators, to enable simple and complex test deployments.
+https://github.com/puppetlabs/cpp-hocon # A C++ port of the Typesafe Config library.
+https://github.com/puppetlabs/education-builds # Bootstrap CentOS training VMs from scratch. Now with true versioning!
+https://github.com/puppetlabs/puppet-vscode # Puppet Editing. Redefined.
+https://github.com/puppetlabs/vmpooler # Provide configurable 'pools' of instantly-available (running) virtual machines
+https://github.com/puppetlabs/puppetlabs-inifile # Resource types for managing settings in INI files
+https://github.com/puppetlabs/leatherman # A collection of C++ and CMake utility libraries.
+https://github.com/puppetlabs/puppet-rfc # Puppet RFC Repository
+https://github.com/puppetlabs/puppetlabs-puppetdb # A puppet module for installing and managing puppetdb
+https://github.com/puppetlabs/puppetserver-helm-chart # The Helm Chart for Puppet Server
+https://github.com/puppetlabs/puppetlabs-rsync # rsync module
+https://github.com/puppetlabs/puppetlabs-powershell # powershell provider for the Puppet exec resource type
+https://github.com/puppetlabs/puppet-agent # All of the directions for building a puppet agent package.
+https://github.com/puppetlabs/pdk-templates # The main template repo for the Puppet Development Kit https://github.com/puppetlabs/pdk
+https://github.com/puppetlabs/nssm # Puppet fork of the NSSM source code from https://git.nssm.cc/nssm/nssm.git
+https://github.com/puppetlabs/puppet-editor-services # Puppet Language Server for editors
+https://github.com/puppetlabs/homebrew-puppet # A tap for Puppet macOS package distribution
+https://github.com/puppetlabs/puppetlabs-puppet_agent # Module for managing Puppet-Agent
+https://github.com/puppetlabs/rubocop-i18n # RuboCop rules for detecting and autocorrecting undecorated strings for i18n (gettext and rails-i18n)
+https://github.com/puppetlabs/puppetlabs-tomcat # PuppetLabs Tomcat module
+https://github.com/puppetlabs/kream # Kubernetes Rules Everything Around Me. A development environment for the Puppet/kubernetes module
+https://github.com/puppetlabs/packaging # Packaging automation for Puppet software
+https://github.com/puppetlabs/puppetlabs-java_ks # Uses a combination of keytool and openssl to manage entries in a Java keystore
+https://github.com/puppetlabs/ruby-hocon # A Ruby port of the Typesafe Config library.
+https://github.com/puppetlabs/netdev_stdlib # Netdev is a vendor-neutral network abstraction framework maintained by Puppet, Inc
+https://github.com/puppetlabs/puppetlabs-sshkeys # Puppet Labs SSH Public Keys
+https://github.com/puppetlabs/puppetlabs-peadm # A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+https://github.com/puppetlabs/vanagon # All of your packages will fit into this van with this one simple trick.
+https://github.com/puppetlabs/puppetlabs-node_encrypt # Encrypt secrets inside Puppet catalogs and reports
+https://github.com/puppetlabs/puppet-resource_api # This library provides a simple way to write new native resources for https://puppet.com.
+https://github.com/puppetlabs/puppetlabs-reboot # Reboot type and provider
+https://github.com/puppetlabs/vmfloaty # A CLI helper tool for Puppet vmpooler to help you stay afloat
+https://github.com/puppetlabs/puppetlabs-registry # Puppet Module for managing the Windows Registry through custom types and providers
+https://github.com/puppetlabs/pxp-agent # PCP eXecution Protocol Agent
+https://github.com/puppetlabs/net_http_unix # AF_UNIX domain socket support on top of Ruby's Net::HTTP libraries
+https://github.com/puppetlabs/puppetlabs-transition # Transition module
+https://github.com/puppetlabs/puppetlabs-sslcertificate # Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards
+https://github.com/puppetlabs/puppetlabs-accounts # Account management module
+https://github.com/puppetlabs/jvm-ssl-utils # SSL certificate management on the JVM
+https://github.com/puppetlabs/puppetlabs-acl # ACL (Access Control List) module
+https://github.com/puppetlabs/provision # Simple tasks to provision and tear_down containers / instances and virtual machines.
+https://github.com/puppetlabs/design-system # A resource for creating user interfaces based on brand, UX, and dev principles
+https://github.com/puppetlabs/bolt-examples #
+https://github.com/puppetlabs/puppet-classify # A ruby library to interface with the classifier service
+https://github.com/puppetlabs/puppetlabs-motd # Simple motd module
+https://github.com/puppetlabs/trapperkeeper-webserver-jetty9 # Trapperkeeper webservice service (jetty9 implementation).
+https://github.com/puppetlabs/puppet-vro-starter_content #
+https://github.com/puppetlabs/learn-to-be-a-puppet-engineer # Skills that our PSE should have
+https://github.com/puppetlabs/ruby-pwsh # A ruby gem for interacting with PowerShell
+https://github.com/puppetlabs/puppetlabs-windows_env # Puppet module for managing Windows environment variables.
+https://github.com/puppetlabs/cisco_ios # Cisco IOS Catalyst module
+https://github.com/puppetlabs/libwhereami # Library to report hypervisor information from inside a VM
+https://github.com/puppetlabs/puppetlabs-pecdm # Puppet Bolt driven fusion of puppetlabs/peadm and Terraform.
+https://github.com/puppetlabs/comidi # Puppet Labs utility functions for use with the bidi web routing library
+https://github.com/puppetlabs/puppetmanifestgenerator # A Blueprint-inspired PowerShell Module for Puppet on Windows - Windows Hackday 2016
+https://github.com/puppetlabs/puppetlabs-iis # Manage IIS for Windows Server 2008 and above. Maintain application sites, pools, virtual applications, and more settings
+https://github.com/puppetlabs/pdksync # Manage large sets of modules with automation built on top of PDK
+https://github.com/puppetlabs/puppetlabs-xinetd # Module for managing entries in xinetd
+https://github.com/puppetlabs/relay-workflows # Relay Workflows
+https://github.com/puppetlabs/puppet-dev-tools # Puppet development tools in a Docker image
+https://github.com/puppetlabs/ring-middleware #
+https://github.com/puppetlabs/puppetlabs-node_manager # Create and manage PE node groups as resources.
+https://github.com/puppetlabs/forge-ruby # Ruby client for the Puppet Forge API
+https://github.com/puppetlabs/puppetlabs-patching_as_code # Automated Patching through desired state code
+https://github.com/puppetlabs/opv # Ensure you know if systems don't work like they should - with Operational Verification and Validation resources
+https://github.com/puppetlabs/puppetlabs-wsus_client # puppetlabs - wsus_client module
+https://github.com/puppetlabs/task-modules # A repository to collect task modules
+https://github.com/puppetlabs/puppetlabs-splunk_hec #
+https://github.com/puppetlabs/puppetlabs-panos # A puppet module to manage Palo-Alto devices and VM images
+https://github.com/puppetlabs/puppetlabs-package # A Puppet Task module, for package.
+https://github.com/puppetlabs/puppetlabs-tagmail # Report processor that sends email based on events in reports
+https://github.com/puppetlabs/community # Puppet Community hub
+https://github.com/puppetlabs/puppetlabs-dsc_lite # DSC to Puppet runtime integration and module generation tasks
+https://github.com/puppetlabs/puppetlabs-pe_databases # A Puppet Module for Maintaining Your Puppet Enterprise Databases
+https://github.com/puppetlabs/denmark # A quick smell test for Puppet modules to help surface problems with the project or releases.
+https://github.com/puppetlabs/pltraining-pasture # Simple cowsay as a service RESTful API app for teaching Puppet
+https://github.com/puppetlabs/kreamlet # The mono repo for kream v2, kreamlet and the kubernetes distro image build
+https://github.com/puppetlabs/aws_resource_reaper # Services to control unmanaged aws resources
+https://github.com/puppetlabs/gettext-setup-gem # A gem that configures gettext for internationalization
+https://github.com/puppetlabs/leg # Relay's library of useful Go tools
+https://github.com/puppetlabs/puppet-validator # Puppet code validation as a service
+https://github.com/puppetlabs/puppetlabs-release # Repo that builds packages to add our apt and yum repositories and public signing key.
+https://github.com/puppetlabs/puppet-community-rangefinder # Predicts downstream impact of breaking file changes.
+https://github.com/puppetlabs/pe_patch # A Puppet module that provides a set of tasks and custom facts which allows the automation of and reporting on OS patching
+https://github.com/puppetlabs/puppetlabs-scheduled_task # Manage Scheduled Tasks on Windows 2008 and above
+https://github.com/puppetlabs/puppetlabs-facts # This module provides the facts task. This task allows you to discover facts about remote machines in your infrastructure.
+https://github.com/puppetlabs/pdk-docker # Official Puppet Development Kit (PDK) Docker Image
+https://github.com/puppetlabs/puppetlabs-helm # A puppet module to install, configure and deploy with Helm, the kubernetes package manager
+https://github.com/puppetlabs/puppetlabs-terraform # Bolt Terraform plugin
+https://github.com/puppetlabs/go-pe-client # Go library for interacting with the Puppet Enterprise APIs
+https://github.com/puppetlabs/puppetlabs-ibm_installation_manager # Manages the installation of IBM Installation Manager
+https://github.com/puppetlabs/puppet_operational_dashboards #
+https://github.com/puppetlabs/puppetlabs-sqlserver # PE-only Microsoft SQL module
+https://github.com/puppetlabs/pcp-broker # PCP message broker
+https://github.com/puppetlabs/puppet-runtime # runtime dependencies for Vanagon projects
+https://github.com/puppetlabs/puppetlabs-windows_eventlog #
+https://github.com/puppetlabs/puppetlabs-hocon # Puppet module for managing settings in HOCON-style configuration files
+https://github.com/puppetlabs/puppetlabs-yumrepo_core # Manage yum repository configuration
+https://github.com/puppetlabs/pcp-specifications # Specifications of the Puppet Communications Protocol
+https://github.com/puppetlabs/scooter #
+https://github.com/puppetlabs/relay-docs #
+https://github.com/puppetlabs/puppet-data-service # Puppet Data Service - SolArch implementation of the PDS
+https://github.com/puppetlabs/ezbake # A build system for trapperkeeper applications
+https://github.com/puppetlabs/puppetlabs-ruby_task_helper # A ruby library for running tasks
+https://github.com/puppetlabs/terraform-google-pe_arch # A Terraform Module to deploy infrastructure for Puppet Enterprise on GCP
+https://github.com/puppetlabs/beaker-puppet # Beaker's puppet-specific helper library
+https://github.com/puppetlabs/puppetlabs-bootstrap # The bootstrap task module
+https://github.com/puppetlabs/trapperkeeper-authorization # Trapperkeeper authorization service.
+https://github.com/puppetlabs/bolt-project # Example Bolt project directory
+https://github.com/puppetlabs/terraform-aws-pe_arch # Terraform Module for deploying infrastructure to support approved Puppet Enterprise architectures on AWS
+https://github.com/puppetlabs/puppetlabs-sshkeys_core #
+https://github.com/puppetlabs/puppetlabs-azure_arm # The Puppet Azure ARM Module
+https://github.com/puppetlabs/puppetlabs-python_task_helper # A helper library for Puppet Tasks written in Python
+https://github.com/puppetlabs/trapperkeeper-metrics #
+https://github.com/puppetlabs/kubectl-ran # Ephemeral test containers in Kubernetes
+https://github.com/puppetlabs/puppetlabs-facter_task #
+https://github.com/puppetlabs/puppet-module-gems # dependency management gems for all puppet modules
+https://github.com/puppetlabs/puppetlabs-pe_quick_data # Bolt Tasks and Plan to quickly pull Puppet Enterprise information for SE engagement
+https://github.com/puppetlabs/trapperkeeper-status # Trapperkeeper Status Service
+https://github.com/puppetlabs/puppetlabs-puppet_authorization #
+https://github.com/puppetlabs/puppetlabs-service #
+https://github.com/puppetlabs/pe_tech_check # A repo containing tasks and scripts for the PE Tech Check service
+https://github.com/puppetlabs/errawr-gen # Standardized authoritative error management and structure
+https://github.com/puppetlabs/puppetserver-ca-cli # A simple Ruby CLI tool to interact with the Puppet Server's included Certificate Authority
+https://github.com/puppetlabs/puppet-editor-syntax # Syntax highlighting files for editors (VSCode, Atom, SublimeText, TextMate, etc.) for Puppet Language
+https://github.com/puppetlabs/cpp-pcp-client # Client libraries for the PCP protocol
+https://github.com/puppetlabs/puppetlabs-augeas_core # Manage files using Augeas
+https://github.com/puppetlabs/puppetlabs-exec #
+https://github.com/puppetlabs/diagrams-net-libraries # These are custom shape libraries for diagrams.net (formally known as draw.io) for puppet logos and icons
+https://github.com/puppetlabs/pl-build-tools-vanagon # A vanagon project for building out gcc and friends. PATCHES ACCEPTED.
+https://github.com/puppetlabs/puppet-ca-bundle # CA cert bundle of trusted root certificates for Puppet Products
+https://github.com/puppetlabs/tig-demo # A demo using Bolt to set up a TIG stack
+https://github.com/puppetlabs/puppetlabs-puppetserver_perf_control # An r10k control repo for Puppet Server (and PE) perf testing and memory analysis
+https://github.com/puppetlabs/puppetlabs-vsphere # Manage vSphere machines using the Puppet DSL
+https://github.com/puppetlabs/puppetlabs-rook #
+https://github.com/puppetlabs/terraform-azure-pe_arch # A Terraform Module for deploying infrastructure to support approved Puppet Enterprise architectures on Azure
+https://github.com/puppetlabs/pltraining-userprefs # Set user preferences for shell and editor.
+https://github.com/puppetlabs/puppetfactory # A simplistic classroom non-root user/package/service management simulation.
+https://github.com/puppetlabs/prosvc-preview_report # A Catalog Preview Report HTML Generator
+https://github.com/puppetlabs/puppetlabs-puppet_metrics_collector # Puppet module for collecting metrics from PE components
+https://github.com/puppetlabs/support-tasks # Module for tasks in the support kb
+https://github.com/puppetlabs/install-puppet # Shell script that downloads and installs puppet-agent
+https://github.com/puppetlabs/abide_dev_utils #
+https://github.com/puppetlabs/dropsonde # A simple telemetry probe for gathering usage information about Puppet infrastructures.
+https://github.com/puppetlabs/puppetlabs-puppet_operations_appliance # Puppet Enterprise tool to create a central place for logging, metrics and maintenance
+https://github.com/puppetlabs/relay-sdk-go # Go SDK for integrating with Relay
+https://github.com/puppetlabs/tlser # A tiny utility for ensuring TLS certificates are up-to-date in a Kubernetes namespace
+https://github.com/puppetlabs/ace # your one stop shop to manage remote resources
+https://github.com/puppetlabs/puppetlabs-selinux_core #
+https://github.com/puppetlabs/dataops-pipeline-tools # Functions that are used regularly in data pipeline jobs
+https://github.com/puppetlabs/auth-client #
+https://github.com/puppetlabs/log4jscanner # Module utilizing Google's log4jscanner to scan infrastructure for vulnerable log4j JARs
+https://github.com/puppetlabs/ticketmatch # Simple utility script for jia <-> git reconciliation
+https://github.com/puppetlabs/trapperkeeper-filesystem-watcher # Trapperkeeper filesystem watcher service. https://tickets.puppetlabs.com/browse/TK
+https://github.com/puppetlabs/sce_issues # This repository will allow public community members to file bug reports against the SCE modules
+https://github.com/puppetlabs/hacktoberfest # This repo has no real content. It simply mirrors hacktoberfest tagged issues to make them discoverable.
+https://github.com/puppetlabs/puppet-chocolatey-packages # This project contains the automatic updating packages for the public community chocolatey feed
+https://github.com/puppetlabs/trapperkeeper-comidi-metrics #
+https://github.com/puppetlabs/posh-bolt # A PowerShell module for interacting with Puppet Bolt
+https://github.com/puppetlabs/preupgrade_check # A Bolt plan to check for common issues before a Puppet Enterprise upgrade
+https://github.com/puppetlabs/puppetlabs-puppet_data_service # Module to configure the Puppet Data Service (PDS)
+https://github.com/puppetlabs/influxdb #
+https://github.com/puppetlabs/puppetlabs-puppet_conf #
+https://github.com/puppetlabs/puppetlabs-vault # Puppet module that provides the Vault plugin for Bolt
+https://github.com/puppetlabs/anubis-docker # Sources for public docker images useful for testing and evaluating Puppet modules
+https://github.com/puppetlabs/puppetlabs-cd4pe # Continuous Delivery for Puppet Enterprise
+https://github.com/puppetlabs/build-data # source of additional information pertaining to build automation
+https://github.com/puppetlabs/bolt-vanagon #
+https://github.com/puppetlabs/horsewhisperer # Command line parsing and chained execution framework
+https://github.com/puppetlabs/orchestrator_client-ruby # Simple Ruby client for PE Orchestration services
+https://github.com/puppetlabs/analytics # Analytics reporting for Puppet
+https://github.com/puppetlabs/puppetlabs-satellite_pe_tools #
+https://github.com/puppetlabs/puppetlabs-cd4pe_deployments # Puppet module for custom CD4PE deployment policies
+https://github.com/puppetlabs/puppetlabs-sccm # puppetlabs-sccm
+https://github.com/puppetlabs/pltraining-rbac #
+https://github.com/puppetlabs/TA-puppet-report-viewer #
+https://github.com/puppetlabs/beaker-abs #
+https://github.com/puppetlabs/pdk-vanagon # Vanagon packaging config repo for the Puppet SDK
+https://github.com/puppetlabs/relay-rfcs # Technical standards and practices for Relay projects
+https://github.com/puppetlabs/puppetlabs-mount_iso #
+https://github.com/puppetlabs/puppet-classroom-manager # Manage updates and more on classroom VMs
+https://github.com/puppetlabs/courseware-lms-gswp-cr # Control-Repo used for GSWP classroom environment
+https://github.com/puppetlabs/fantastic-adventure #
+https://github.com/puppetlabs/puppetlabs-bash_task_helper #
+https://github.com/puppetlabs/icfp-2014 #
+https://github.com/puppetlabs/lein-release-4digit-version #
+https://github.com/puppetlabs/education-infrastructure-classroom # stands up services on classroom.puppet.com
+https://github.com/puppetlabs/forge_issues # This repository will allow public community members to file bug reports against the Puppet Forge
+https://github.com/puppetlabs/puppetlabs-websphere_application_server # Puppet module for managing IBM Websphere Application Server
+https://github.com/puppetlabs/puppet_ciamohe # complex testing using litmus and bolt
+https://github.com/puppetlabs/se_control_2020 # SE team Control repo
+https://github.com/puppetlabs/relay-sdk-python # Python SDK for integrating with Relay
+https://github.com/puppetlabs/puppetlabs-servicenow_cmdb_integration #
+https://github.com/puppetlabs/puppetlabs-provision # Puppet Module for provisioning VM in different Cloud Providers (AWS, Azure & GCP).
+https://github.com/puppetlabs/community-labeller # A GitHub action to label issues and pull requests with a community label
+https://github.com/puppetlabs/pe-sdk-go #
+https://github.com/puppetlabs/puppetlabs-cd4pe_tests # Module for use by the CD4PE team in tests
+https://github.com/puppetlabs/bolt-tig-stack # A Bolt project you can use to deploy a TIG stack
+https://github.com/puppetlabs/pcore-java # Pcore implementation fo the JVM
+https://github.com/puppetlabs/dujour-version-check #
+https://github.com/puppetlabs/dellemc-powerstore # Puppet module for managing Dell EMC PowerStore
+https://github.com/puppetlabs/puppetlabs-pam_tools # Bolt module for working with Puppet Application Manager.
+https://github.com/puppetlabs/beaker-answers #
+https://github.com/puppetlabs/puppet-modulebuilder # The canonical gem to build puppet modules
+https://github.com/puppetlabs/puppetlabs-cron_core # Manage crontab files
+https://github.com/puppetlabs/cat-github-actions #
+https://github.com/puppetlabs/ref_arch_setup # Tools for setting up reference architectures
+https://github.com/puppetlabs/errawr-go # Go bindings for errawr-compatible errors
+https://github.com/puppetlabs/puppetlabs-puppet_bolt_server # This module installs and configures Bolt to use a local PuppetDB and PCP transport
+https://github.com/puppetlabs/puppetlabs-testing # This is for testing purposes.
+https://github.com/puppetlabs/puppetlabs-bolt_shim # Bolt adapter for PE Orchestrator
+https://github.com/puppetlabs/aws-hol-repo #
+https://github.com/puppetlabs/puppetlabs-mailalias_core # Manage Mail Alias
+https://github.com/puppetlabs/puppetlabs-mount_core # Manage mounted filesystems
+https://github.com/puppetlabs/puppet-enterprise_issues # This repository will allow public community members to file bug reports against Puppet Enterprise
+https://github.com/puppetlabs/semantic_puppet #
+https://github.com/puppetlabs/trapperkeeper-scheduler #
+https://github.com/puppetlabs/puppet-community-rangefinder-webhook # GitHub integration for puppet-community-rangefinder
+https://github.com/puppetlabs/puppetlabs-pe_status_check # Self Service Module for Puppet Enterprise
+https://github.com/puppetlabs/pltraining-dockeragent # Manage simple dockerized Puppet agents
+https://github.com/puppetlabs/puppetlabs-freeradius # A module to manage FreeRADIUS using Puppet
+https://github.com/puppetlabs/puppet-community-mvp # Generate some stats about the Puppet Community.
+https://github.com/puppetlabs/puppetlabs-aws_inventory #
+https://github.com/puppetlabs/puppetlabs-servicenow_reporting_integration #
+https://github.com/puppetlabs/devx # Development Experience
+https://github.com/puppetlabs/litmusimage # Repository for docker image files, for testing nix services
+https://github.com/puppetlabs/puppetlabs-host_core # Install and manage host entries
+https://github.com/puppetlabs/trapperkeeper-webserver-jetty10 #
+https://github.com/puppetlabs/distelli-common # Common java libraries used by other distelli code.
+https://github.com/puppetlabs/bolt-getting-started # A Bolt project for the Bolt Getting started guide
+https://github.com/puppetlabs/puppetlabs-pe_event_forwarding #
+https://github.com/puppetlabs/xzscanner # A quick orchestrated check for compromised xz in your infra
+https://github.com/puppetlabs/master_manipulator #
+https://github.com/puppetlabs/beerboard # The beer menu in use at Puppet PDX HQ
+https://github.com/puppetlabs/puppetlabs-powershell_task_helper # A helper library for Puppet Tasks written in PowerShell
+https://github.com/puppetlabs/security-snyk-vanagon-action #
+https://github.com/puppetlabs/kmo-meta-control-repo # A repository of control repos to be used in Instruqt technical education classes
+https://github.com/puppetlabs/prm-test-tool-01 #
+https://github.com/puppetlabs/vmpooler-provider-vsphere #
+https://github.com/puppetlabs/pltraining-apache #
+https://github.com/puppetlabs/go-cd4pe-client # A CD4PE client generated from swagger
+https://github.com/puppetlabs/relay-pls # Persistent Log Service
+https://github.com/puppetlabs/puppet_module_metadata #
+https://github.com/puppetlabs/puppet-commit #
+https://github.com/puppetlabs/encrypted_backup # A Puppet module for simple, secure Linux backups
+https://github.com/puppetlabs/puppetlabs-test_device # a device emulator for testing purposes
+https://github.com/puppetlabs/puppetlabs-yaml # A yaml plugin for bolt inventory
+https://github.com/puppetlabs/winrm_security #
+https://github.com/puppetlabs/relay-services # Auxiliary standalone services used by Relay
+https://github.com/puppetlabs/vmpooler-provider-gce # VMpooler provider for GCE
+https://github.com/puppetlabs/pe_502_hello_world_lab_1 # The "Hello World" module for PE 501 Lab 1
+https://github.com/puppetlabs/pe_502_hello_world_lab_2 # The "Hello World" module for PE 501 Lab 2
+https://github.com/puppetlabs/puppetlabs-zone_core # Manage Solaris Zones
+https://github.com/puppetlabs/harrison # Artifact based deployment of Ruby applications
+https://github.com/puppetlabs/helmctx # Automatic Helm home directories based on your kubectl context
+https://github.com/puppetlabs/relay-helm-ambassador-knative # Helm chart to deploy the Ambassador API Gateway with Knative support for Relay
+https://github.com/puppetlabs/puppetlabs-secure_env_vars # Run a command or script with sensitive environment variables.
+https://github.com/puppetlabs/cloud-chaos-webinar #
+https://github.com/puppetlabs/cem_workflows #

@@ -1,0 +1,113 @@
+https://github.com/canonical/cloud-init
+
+https://github.com/hashicorp/learn-terraform-provisioning # Companion code repository for learning to provision Terraform instances with Packer & cloud-init
+https://github.com/hashicorp/terraform-provider-cloudinit # Utility provider that exposes the cloudinit_config data source for cloud-init
+
+https://github.com/rancher/elemental-toolkit # :snowflake: The toolkit to build, ship and maintain cloud-init driven Linux derivatives based on container images
+https://github.com/rancher/systemd-node # A container image mimics a cloud-init VM for testing
+https://github.com/flatcar/coreos-cloudinit
+https://github.com/equinix-labs/pulumi-equinix-kubernetes-cluster # Equinix
+
+https://github.com/crossplane-contrib/provider-cloudinit # Crossplane
+https://github.com/azure/iotedge-vm-deploy # ARM template to deploy a VM with IoT Edge pre-installed (via cloud-init)
+https://github.com/azure/terraform-azurerm-vmss-cloudinit # Terraform AzureRM module registry to create a VM Scaleset initialized via cloud-init scripts
+
+https://github.com/tomkins/cloud-init-vagrant
+https://github.com/craighurley/vagrant-cloud-init
+https://github.com/jalseth/nocloud-metadata-server # server
+https://github.com/jbg/cloud-seed # server
+https://github.com/jayonics/cloud-init-deployer # cloud-init server (NoCloud)
+https://github.com/piku/cloud-init #interesting small PaaS
+https://github.com/nathancatania/guacamole-sso-cloud-init # Guacamole
+https://github.com/rcarmo/terraform-azure-linux-vm
+https://github.com/martinhristov90/3xvault
+https://github.com/garyellis/terraform-cloudinit-scripts
+https://github.com/sdhibit/terraform-proxmox-cloud-init-vm
+https://github.com/christippett/terraform-cloudinit-container-server
+https://github.com/tosin2013/ansible-role-rhel7-kvm-cloud-init
+https://github.com/mrlesmithjr/ansible-cloud-init
+https://github.com/caltechlibrary/cloud-init-examples
+https://github.com/nathancatania/publisher-cloud-init
+https://github.com/bricecamus/proxmox-k8s-cluster
+https://github.com/mamadiam/whatsapp-proxy
+
+https://github.com/sammck/cloud-init-gen # Python library for Amazon EC2
+https://github.com/dermotbradley/create-alpine-disk-image
+https://github.com/bjwschaap/alpine-lift
+https://github.com/frederickding/cloud-init-iso
+https://github.com/tech-otaku/hetzner-cloud-init
+https://github.com/vitobotta/hetzner-cloud-init
+https://github.com/eric-glb/wireguard-vps # wireguard
+https://github.com/lynt-smitka/cloud-tunnels # cloud tunnels
+https://github.com/vyos/vyos-cloud-init
+https://github.com/earlruby/create-vm
+https://github.com/untouchedwagons/ubuntu-cloudinit-docs
+https://github.com/mediadepot/ignition
+https://github.com/aciba90/cloud-config-validator
+https://github.com/cloudymax/pxeless
+https://github.com/debovema/terraform-scaleway-dev-instance
+https://github.com/kmee/proxmox-cloud-init-tools
+https://github.com/timebertt/pi-cloud-init
+https://github.com/naman1997/arch-cloud-image
+https://github.com/giantswarm/k8scloudconfig
+https://github.com/shantanoo-desai/packer-ubuntu-server-uefi
+https://github.com/rrbarreto/pfsense-cloudinit
+https://github.com/markperdue/vsphere-vm-cloud-init-terraform
+https://github.com/andrewglass3/proxmoxcloudinitscript
+https://github.com/red-lichtie/alpine-cloud-init
+https://github.com/kalenarndt/packer-vsphere-cloud-init
+https://github.com/iddocohen/vce_cloudinit
+https://github.com/exoscale/openbsd-cloud-init
+
+Butane
+https://github.com/coreos/ignition # First boot installer and configuration tool
+https://github.com/coreos/butane # Butane translates human-readable Butane Configs into machine-readable Ignition Configs.
+
+https://github.com/coreos/container-linux-config-transpiler # Convert a Container Linux Config into Ignition
+https://github.com/coreos/ignition-dracut # Archived Dracut modules for Ignition; see Ignition repository for current version
+https://github.com/coreos/vagrant-ignition # A Vagrant plugin for providing Ignition Configs to VirtualBox virtual machines
+https://github.com/coreos/ign-converter # Mechanical translator to/from Ignition config spec 3.x
+https://github.com/coreos/ignition-config-rs # Data structures for reading/writing Ignition configs
+
+https://github.com/poseidon/terraform-provider-ct # Terraform provider for converting Butane Configs to Ignition
+https://github.com/poseidon/terraform-provider-matchbox # Terraform provider for Matchbox on-premise / bare-metal provisioning
+https://github.com/lucidsolns/terraform-flatcar-proxmox # Use Terraform to provision Flatcar VMs with Butane/Ignition configurations on a Proxmox (Qemu) server
+https://github.com/lucidsolns/terraform-vm-proxmox # A Terraform module to create Proxmox VMs with support for virtiofs, plan9fs and butane/ignition
+https://github.com/e-breuninger/terraform-provider-ignition # Use Terraform to validate a Butane configuration and transpile it to an Ignition configuration.
+https://github.com/krestomatio/terraform-ct-butane-snippets # Terraform modules to quickly generate butane snippets to config Fedora CoreOS
+https://github.com/yaroze/oci-fcos # Create a Fedora CoreOS VM in Oracle Cloud
+
+https://github.com/cuemby/pulumi-ct # Pulumi provider for validating Butane and Container Linux configuration and transpile to an Ignition config for machine consumption.
+https://github.com/ar4mirez/pulumi-ct # terraform-ct allows Pulumi to validate a Butane config and transpile to an Ignition config for machine consumption.
+https://github.com/wuxxin/infra-shared # Software Defined Git Operated Infrastructure
+
+https://github.com/forem/selfhost # Selfhost your Forem Community on your own infrastructure 🎉
+https://github.com/relativ-it/butane-schemas # Butane Schemas that helps creating Butane files for Fedora Coreos
+https://github.com/travier/fedora-coreos-matrix # Butane config to host a Matrix homeserver on Fedora CoreOS (nginx + Let's Encrypt + Synapse + PostgreSQL + element-web)
+https://github.com/opensuse/fuel-ignition # Easily generate new or edit existing Ignition configs. No more fiddling around with JSON or Butane.
+https://github.com/lorbuschris/butane-config-template #
+https://github.com/kytta/bumerge # Merge Butane configurations
+https://github.com/quickvm/bupy # The Butane Python Toolkit
+https://github.com/smallstep/butane-smallstep-acme-ra # Butane smallstep ACME RA for Fedora CoreOS
+https://github.com/miabbott/butane-configs # Bag of holding for Butane configs
+https://github.com/quickvm/butane-nomad # A butane template for launching Hashicorp Nomad on Fedora CoreOS
+https://github.com/andrewrothstein/ansible-butane #
+https://github.com/quickvm/butane-slack-hubot # A butane template for launching a Slack Hubot on Fedora CoreOS
+https://github.com/alexrfox/coreos-butane # coreos-butane
+https://github.com/glenmillard/butaneignitionfiles # A place for my stuff
+https://github.com/jinglemansweep/butane # Butane Configurations (e.g. for Flatcar Linux)
+https://github.com/nveeser/butanex # Demo of merging Butane YAML
+https://github.com/danner26/butane-netbox # A butane template for launching NetBox on Fedora CoreOS
+https://github.com/scilifelabdatacentre/sftp-geesefs-butane # Butane configuration for a Fedora CoreOS SFTP server using S3 buckets mounted by geesefs
+https://github.com/phrozenbyte/mbutane # Merge multiple Butane Configs and translate them into machine-readable Ignition configs.
+https://github.com/pbburke/coreos_butane_files # experimenting with butane files for provisioning coreos
+https://github.com/mjordan79/fedora-coreos-butane-ignition #
+https://github.com/ydbd/add-ignition-via-butane #
+https://github.com/twent/core-os-configs # Butane config builder for CoreOS
+https://github.com/easy1staking-com/butane-oracle-helm-chart #
+https://github.com/hyperkineticnerd/rpi4-coreos-butane #
+https://github.com/mccormickt/zippo # Serve dynamic Ignition configs based on Butane templates
+https://github.com/tmlev/crud-grpc-rust-tonic-butane-postgres # Playground
+https://github.com/yaroze/oci-fcos # Create a Fedora CoreOS VM in Oracle Cloud
+https://github.com/anubhavkini/envydious-coreos # Configuration files for Envydious Fedora CoreOS server.
+https://github.com/eriksjolund/run-fcos-on-macos # Run Fedora CoreOS on macOS (MacBook Pro M1)
