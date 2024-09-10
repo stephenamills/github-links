@@ -3,3 +3,180 @@ https://www.relume.io
 https://www.evernote.design
 https://www.toools.design
 https://www.uxpeak.com
+
+https://github.com/planetscale/figma-diagram-generator # Create a diagram of your MySQL database using the Figma and Planetscale APIs
+https://github.com/twistopayments/figma-export-diagrams-action # exports a diagram from Figma, from a GitHub Actions workflow
+https://github.com/marcomontalbano/figma-export # exports any Figma component for use in your website or anywhere
+https://github.com/logeast/figma-uml-widget # creates a UML table diagram
+https://github.com/arthur-fontaine/figtable # also creates a UML table diagram
+https://github.com/brianlovin/figma-dominant-color-toolkit # generates a color palette from an image and beautifully colors your design
+https://github.com/mattdesl/figma-plugin-palette # generates a color palette from an image
+https://github.com/alexwidua/figma-easing-gradients # edits a color gradient using animation curves
+https://github.com/aaroniker/figma-easometric # tool to make an isometric object
+https://github.com/feathericons/figma-feather # quick access to Feather icons
+https://github.com/realvjy/3dicons-figma # 3dicons
+https://github.com/aaroniker/figma-remove-bg # removes the background of an image
+https://github.com/six7/figma-batch-styler # by Jan Six - batch edits text styles
+https://github.com/evilmartians/figma-polychrom # by Evil Martians - displays contrast level and font size recommendation
+https://github.com/danhollick/zebra # lightweight APCA color contrast plugin
+https://github.com/hugo-dz/figma_autoname_client_app # creates names for layers
+https://github.com/andreincu/styler # creates styles for layers
+https://github.com/dokozero/okcolor # color picker
+https://github.com/kawamurakazushi/figma-walker # searches frames and components and jumps to the selected one
+https://github.com/glmrvn/appearance-figma-plugin # generates a light/dark mode theme
+https://github.com/yenargy/figma-pattern-hero # arranges items into a grid
+https://github.com/codelastnight/to-path-figma # places objects on a path
+https://github.com/brianlovin/figma-responsify # quickly test designs across multiple screen sizes
+https://github.com/ahkohd/FigmaThird # imports a 3D model
+https://github.com/Convertiv/handoff-app # design tokens
+https://github.com/tokens-studio/figma-plugin # by Jan Six - Tokens Studio
+https://github.com/tokens-studio/plugin-examples # by Jan Six - starter templates for Figma Tokens GitHub sync
+https://github.com/tokens-bruecke/figma-plugin # design tokens
+https://github.com/alexwidua/figma-beautiful-shadows # creates smooth shadows by placing a light source
+https://github.com/ph1p/figma-measure # Shows measurement lines
+https://github.com/yenargy/figma-better-font-picker # better font picker
+https://github.com/adispezio/figma-plugin-example-prototype-write # links together objects in a prototype
+https://github.com/the-dataface/figma2html # converts a frame to HTML
+https://github.com/dwilliames/google-sheets-sync-figma # Google Sheets
+https://github.com/jordansinger/figma-slack-updates # posts daily file changes to Slack
+https://github.com/destefanis/figma-table-of-contents # creates a table of contents for your project
+https://github.com/brianlovin/figma-export-zip # exports assets to a zip file
+https://github.com/parthjadhav/tkinter-designer # uses the Figma API to analyze a design file and run code in a UI
+https://github.com/streamlit/figma-to-streamlit # by Streamlit - converts a Figma component into a Streamlit code snippet
+https://github.com/tushar7d/project-scaffold-figma-plugin # scaffolds a project
+https://github.com/thomas-lowry/status-annotations # annotates a design with its progress/status
+https://github.com/petekp/diagrammaton-figma-plugin # diagram
+https://github.com/diagram/diagram-figma-plugin-template # diagram or something
+https://github.com/axorax/tkforge
+https://github.com/pavellaptev/json-to-figma
+https://github.com/figma/code-snippet-editor-plugin
+https://github.com/figma/plugin-samples # official sample plugins
+https://github.com/figma/variables-github-action-example # by Figma - GitHub Actions workflows for syncing tokens or variables from a codebase to Figma
+https://github.com/daangn/icona # exports SVG files to GitHub
+https://github.com/bernaferrari/figmatocode
+https://github.com/builderio/figma-html
+https://github.com/builderio/micro-agent
+https://github.com/builderio/vscode
+https://github.com/bricks-cloud/bricks
+https://github.com/ddanielbee/figma-fsm # Figma to Xstate state machine
+https://github.com/ayush013/fig-gen # markets itself as the best HTML converter
+https://github.com/sergcen/html-to-figma
+https://github.com/react-figma/react-figma
+https://github.com/kazuyaseki/figma-to-react
+https://github.com/jake-figma/component-inspector # inspects a component
+https://github.com/microsoft/figma-variables-import # by Microsoft - imports variables
+https://github.com/figma/code-connect
+https://github.com/ebay/figma-include-accessibility-annotations # by eBay
+https://github.com/bryanberger/figma-discord-presence # Discord presence
+https://github.com/placemark/figma-plugin # creates an Open Street Map
+https://github.com/kawamurakazushi/figma-map-maker # creates a map like Google Maps or Mapbox
+https://github.com/yagudaev/figma-to-json # read and write Figma files without opening it
+https://github.com/gridaco/assistant
+https://github.com/whoisryosuke/styled-theme-generator
+https://github.com/destefanis/design-lint # checks a design
+https://github.com/d01000100/figma-token-engine
+https://github.com/lukasoppermann/design-tokens # exports design tokens to JSON
+https://github.com/lukasoppermann/design-token-transformer
+https://github.com/divriots/style-dictionary-to-figma
+https://github.com/leadream/heron-handoff
+https://github.com/talmsnir/figmaop-open-source-figma-plugins # FigmaOp project and plugin collection
+https://github.com/figma/plugin-resources # collection of plugins
+https://github.com/yuanqing/figma-plugins # collection of plugins
+https://github.com/react-figma/awesome-figma # plugins and resources
+https://github.com/rsms/figplug # by Rasmus - figma plugin starter
+https://github.com/rsms/scripter # By Rasmus
+https://github.com/jb1905/react-figma-ui
+https://github.com/thomas-lowry/figma-plugin-boilerplate # no-framework starter kit
+https://github.com/yuanqing/create-figma-plugin # starter kit
+https://github.com/nirsky/figma-plugin-react-template # React starter kit
+https://github.com/coconutgoodie/figma-plugin-react-vite # React starter kit
+https://github.com/react-figma/react-figma-boilerplate # React project template
+https://github.com/dittowords/figma-plugin-react-template
+https://github.com/thomas-lowry/figsvelte # Svelte starter kit
+https://github.com/aarongarciah/figma-plugin-typescript-boilerplate
+https://github.com/lona/figma-jsonrpc
+https://github.com/mattdesl/fika # plugin generator
+https://github.com/figma-plugin-helper-functions/figma-plugin-helpers # helper functions
+https://github.com/figma/rest-api-spec # Figma OpenAPI specification and TypeScript types
+https://github.com/figma/plugin-typings # Figma API typings
+https://github.com/react-figma/figma-api-stub # Figma API stub implementation
+https://github.com/pocka/figspec # Figma spec viewer
+https://github.com/slawomirkolodziej/figma-api-exporter # export assets from Figma API
+https://github.com/wattenberger/datavizer
+https://github.com/colebemis/figma-hosted-export
+https://github.com/leadream/figma-icon-automation
+https://github.com/destefanis/auto-theme # themes a design
+https://github.com/jan-dh/figma-tailwindcss # Tailwind
+https://github.com/figma/sds # does something with Figma Code Connect and React
+https://github.com/saravieira/svg-to-jsx # copies SVG as a React component
+https://github.com/marcomontalbano/figma-export # export Figma components and use them directly on a website
+https://github.com/thomas-lowry/figma-plugin-ds # design system for use in Figma plugins
+https://github.com/dicebear/exporter-plugin-for-figma
+https://github.com/klausschaefers/figma-low-code
+https://github.com/gridaco/code
+https://github.com/codelytv/figma-plugin-skeleton
+https://github.com/tsimenis/figma-export-icons
+https://github.com/irustm/figma-to-angular
+https://github.com/kat-tax/figma-to-react-native
+https://github.com/bannzai/Sigma
+https://github.com/tgemayel/variable-fonts-figma
+https://github.com/alyssaxuu/figma-to-google-slides
+https://github.com/hcysunyang/vue3-figma-plugin-starter
+https://github.com/caelumf/figmatocompose
+https://github.com/tiltshift/figmint
+https://github.com/alyssaxuu/figma-platformer-engine
+https://github.com/jordansinger/build-it-figma-ai
+https://github.com/realvjy/cool-loaders-swiftui
+https://github.com/buildo/bento-design-system
+https://github.com/soyoung210/figleton
+https://github.com/colebemis/figjam-live-code-block
+https://github.com/liaobinbin/fig-to-json
+https://github.com/c5inco/shape-composer-figma
+https://github.com/rsms/TypoFig
+https://github.com/kaleidocode-app/kaleidocode
+https://github.com/ixtgorilla/figma-code-highlighter
+https://github.com/px2code/figma-to-html
+https://github.com/basiclines/figma-content-buddy
+https://github.com/jordansinger/livedraw-figma
+
+https://github.com/davestewart/outliner
+https://github.com/robertohuertasm/figma-asset-downloader
+https://github.com/figma-tools/figma-transformer # tiny utility library that makes the Figma API more human friendly
+https://github.com/six7/figma-assets-generator # by Jan Six
+https://github.com/hhru/FigmaGen
+https://github.com/gavinmcfarland/figma-node-decoder
+https://github.com/jacobtyq/export-figma-svg
+https://github.com/zouhangwithsweet/fubukicss-tool # Figma browser extension to export CSS
+https://github.com/moonvy/figmaex
+https://github.com/okotoki/mixpanel-figma # Mixpanel
+https://github.com/leadream/figma-viewer-chrome-plugin
+https://github.com/figma-tools/figma-tools
+https://github.com/b3nnyl/figgo # command to sync design tokens
+https://github.com/artemnovichkov/figma-preview # Xcode
+https://github.com/redmadrobot/figma-export # Xcode
+https://github.com/phil-l-101/figma2unreal # Unreal
+https://github.com/volorf/figma-ui-image # Unity
+https://github.com/trackman/unity.package.figmatounity # Unity
+https://github.com/simonoliver/unityfigmabridge # Unity
+https://github.com/manakhovn/figmatounityimporter # Unity
+https://github.com/cdmvision/unity-figma-importer # Unity
+https://github.com/prism-client/aether-ui # Minecraft
+https://github.com/almazrafi/Fugen
+https://github.com/mrustaa/FigmaConvertXib
+https://github.com/jsuarezruiz/figma-to-maui-graphics # .NET
+https://github.com/mmertama/FigmaQML # Qt
+https://github.com/storybookjs/addon-designs
+https://github.com/anas-araid/vscode-infinite-workspace # lol
+https://github.com/microsoft/vscode-icons
+https://github.com/microsoft/vscode-figma-toolkit
+https://github.com/headwindz/figx # utilities library
+https://github.com/idered/vscode-extension-figma
+https://github.com/ideo/figproxy
+https://github.com/figma-linux/figma-linux-font-helper
+https://github.com/tryvin/figma-linux-font-helper
+https://github.com/sameersyd/wiggles-ios
+https://github.com/figma/strict-null-check-migration-tools
+https://github.com/ashung/android-resources-export-figma
+https://github.com/jackiecorn/figma-plugin-drag-and-drop
+https://github.com/phamfoo/solid
+https://github.com/react-figma/figma-ui-components
