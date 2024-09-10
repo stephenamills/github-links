@@ -1,0 +1,30 @@
+https://github.com/gitlabhq/gitlabhq # GitLab CE
+
+https://gitlab.com/gitlab-org/cli # A GitLab CLI tool bringing GitLab to your command line
+
+https://gitlab.com/gitlab-org/express-example #
+https://gitlab.com/gitlab-org/app-modernization-2021 #
+https://gitlab.com/gitlab-org/app-modernization #
+https://gitlab.com/gitlab-org/ci-cd-testing-ux # This is a project for keeping demo or test files for learning GitLab's CI/CD functionality.
+https://gitlab.com/gitlab-org/graphql-sandbox # This project only exists as a testbed for trying out GraphQL queries without affecting production.
+https://gitlab.com/gitlab-org/gitlab-aws-quickstart # AWS quickstart template
+
+https://github.com/gitlabhq/omnibus-gitlab # GitLab Omnibus
+https://gitlab.com/gitlab-org/gitlab-development-kit # Get started with GitLab Rails development using the GDK.
+https://gitlab.com/gitlab-org/gitlab-compose-kit # An alternative to GitLab Development Kit that is fully container-based and immutable
+https://gitlab.com/gitlab-com/runbooks # Runbooks for the stressed on-call
+
+https://github.com/gitlabhq/terraform-provider-gitlab # Terraform GitLab Provider
+https://github.com/gitlabhq/gitlab-runner # GitLab Runner
+https://github.com/gitlabhq/gitlab-recipes # GitLab recipes for setup on different platforms, updating, and more
+https://gitlab.com/gitlab-org/config-audit-tool #
+https://gitlab.com/sethgitlab/ci-template-file #
+https://gitlab.com/gitlab-org/gitlab-terraform-aws-rds-aurora # This project is a working example for managing a database in Amazon RDS Aurora with GitLab and Terraform
+https://gitlab.com/gitlab-org/gitlab-figma-plugin # GitLab Figma Plugin
+https://gitlab.com/gitlab-org/auto-devops-v12-10 # A copy of the Auto DevOps CI templates as they were in GitLab 12.10, prior to the breaking changes
+https://gitlab.com/gitlab-org/gitlab-environment-toolkit # Deploy scaled self-managed GitLab environments using Ansible and Terraform
+https://gitlab.com/gitlab-org/step-runner #
+https://gitlab.com/gitlab-org/vsd-reports-generator #
+https://gitlab.com/gitlab-org/gitlab-zoekt-indexer #
+https://github.com/gitlabhq/gitlab-shell # Replacement for gitolite.
+https://gitlab.com/gitlab-org/gitlab-vscode-extension
