@@ -1,0 +1,8 @@
+https://github.com/aws-samples/aws-govcloud-continuous-monitoring # CloudFormation templates that implement commonly-requested continuous monitoring solutions within the constraints of AWS GovCloud (US)
+https://github.com/aws-samples/aws-govcloud-windows-containers-cicd #
+https://github.com/aws-samples/rag-chatbot-with-bedrock-opensearch-and-document-summaries-in-govcloud #
+https://github.com/aws-samples/aws-govcloud-graphql #
+https://github.com/aws-samples/aws-govcloud-serverless-app #
+https://github.com/aws-samples/cloudfront-to-govcloud-s3-sse-kms # This solutions is to enable domain name file access to a Amazon Simple Storage Service (Amazon S3) bucket with SSE-KMS encryption located in a GovCloud region.
+
+https://github.com/awslabs/compliant-framework-for-federal-and-dod-workloads-in-aws-govcloud-us # Deploy a secure, multi-account environment in GovCloud

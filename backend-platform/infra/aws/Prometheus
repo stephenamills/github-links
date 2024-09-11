@@ -1,0 +1,16 @@
+https://github.com/build-on-aws/instrumenting-java-apps-using-opentelemetry # Microservice written in Java that shows how to instrument applications using OpenTelemetry, to produce telemetry dat
+a for traces and metrics. Also how to switch the observability backend without code changes.
+
+https://github.com/aws-samples/prometheus-for-ecs #
+https://github.com/aws-samples/amazon-cloudwatch-prometheus-metrics-sample # Sample code demonstrating Prometheus metrics ingestion into Amazon CloudWatch
+https://github.com/aws-samples/prometheus-grafana-getting-started-webinar # Amazon Managed service for Prometheus and Amazon Managed service for Grafana getting started demo.
+https://github.com/aws-samples/aws-sdk-prom-metrics # Enhance Operational Insight by Converting the Output of any AWS SDK Commands to Prometheus Metrics
+https://github.com/aws-samples/amazon-eks-ethereum-staking # Ethereum staking solution with Amazon EKS and Amazon Managed Prometheus and Grafana
+https://github.com/aws-samples/amazon-ec2-monitoring-with-prometheus #
+https://github.com/aws-samples/Amazon-prometheus-bedrock-agent-example #
+
+https://github.com/awslabs/aws-cloudmap-prometheus-sd # A custom service discovery adapter for Prometheus that integrates with AWS Cloud Map
+https://github.com/awslabs/node-latency-for-k8s # The node-latency-for-k8s tool provides process-level telemetry via prometheus metrics, cloudwatch metrics, and markdown timing charts to optimized K8s node launch times.
+https://github.com/awslabs/amazon-timestream-connector-prometheus #
+
+https://github.com/aws/amazon-managed-service-for-prometheus-roadmap # Amazon Managed Service for Prometheus Public Roadmap

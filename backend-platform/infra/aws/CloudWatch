@@ -1,0 +1,189 @@
+https://github.com/aws-solutions-library-samples/tag-based-cloudwatch-dashboard # Tag based CloudWatch dashboard uses CDK and resource groups tagging API to automatically produce CloudFormation
+templates for CloudWatch dashboard.
+https://github.com/aws-solutions-library-samples/guidance-for-self-healing-code-on-aws # This Guidance helps software companies set up a automated system to detect error logs, generate bug fixes
+, and create pull requests. Helps companies balance addressing bugs while also competing with product and feature development pressure.
+https://github.com/aws-solutions-library-samples/guidance-for-monitoring-high-cardinality-telecom-metrics-on-aws # This Guidance demonstrates how telecom operators can use Amazon CloudWatch to b
+etter monitor key performance indicators (KPIs) for their hardware devices, endpoints, services, and software that often have many unique values, or high-cardinality
+
+https://github.com/aws-samples/amazon-cloudwatch-container-insights # CloudWatch Agent Dockerfile and K8s YAML templates for CloudWatch Container Insights.
+https://github.com/aws-samples/amazon-cloudwatch-auto-alarms # Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and cust
+om CloudWatch Metrics.
+https://github.com/aws-samples/cloudwatch-dashboards-cloudformation-sample # A sample project to demonstrate using Cloudformation, how to create and configure CloudWatch metric filters, alarms a
+nd a dashboard to monitor an AWS Lambda function.
+https://github.com/aws-samples/amazon-cloudwatch-log-centralizer # Centralized logging infrastructure for multiple AWS accounts using CloudFormation and Python
+https://github.com/aws-samples/aws-cloudwatch-building-dashboard-outside-aws-console # Code samples related to "Building a CloudWatch Dashboard Outside of the AWS Console" blog post published on
+the AWS DevOps blog. This post demonstrates how to build a custom monitoring dashboard outside of the AWS Console by leveraging snapshot graphs.
+https://github.com/aws-samples/aws-step-functions-ebs-snapshot-mgmt # Example architecture for integrating AWS Step Functions and Amazon CloudWatch Events.
+https://github.com/aws-samples/opsworks-cloudwatch-logs-cookbooks #
+https://github.com/aws-samples/aws-xray-cloudwatch-event # Sample using Amazon CloudWatch Events and Alarms to notify AWS X-Ray users when their services have elevated levels of latency, errors
+and faults.
+https://github.com/aws-samples/amazon-cloudwatch-dashboard-automation # Automate Amazon CloudWatch Dashboard Deployment by using Tagging
+https://github.com/aws-samples/amazon-cloudwatch-alarm-formatted-email # Customize the format of Amazon CloudWatch alarms email notifications using Amazon SES and AWS Lambda
+https://github.com/aws-samples/ec2-spot-interruption-dashboard # This is a sample solution for logging EC2 Spot Instance Interruptions, storing them in CloudWatch and S3, and visualizing them wi
+th a CloudWatch Dashboard and Amazon Athena.
+https://github.com/aws-samples/cloudwatch-custom-widgets-samples # The samples in this project demonstrate several uses of Custom Widgets within a CloudWatch Dashboard.
+https://github.com/aws-samples/cloudwatch-obervability-access-manager-terraform # This repository shows how to setup Centralized CloudWatch Observability Manager using Terraform
+https://github.com/aws-samples/amazon-cloudwatch-prometheus-metrics-sample # Sample code demonstrating Prometheus metrics ingestion into Amazon CloudWatch
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-netweaver # Amazon CloudWatch Monitoring for SAP NetWeaver ABAP-based environments.
+https://github.com/aws-samples/amazon-ecs-stopped-tasks-cwlogs # Automate storing of Amazon ECS Stopped Tasks in Amazon CloudWatch Logs
+https://github.com/aws-samples/aws-medialive-mediapackage-cloudwatch-dashboard # A Python script and CloudFormation template to assist with the creation of CloudWatch Dashboards for AWS Elementa
+l MediaLive to AWS Elemental MediaPackage workflows.
+https://github.com/aws-samples/cloudwatch-synthetics-canary-terraform # The objective of this code is to remove as many difficulties as possible when trying to deploy canaries with terraform.
+https://github.com/aws-samples/aws-multi-region-multi-account-config-status-dashboard #
+https://github.com/aws-samples/serverless-codecommit-examples # Examples of serverless automation to process CodeCommit repository changes using CloudWatch Events.
+https://github.com/aws-samples/amazon-cloudwatch-retention-period-setter #
+https://github.com/aws-samples/amazon-keyspaces-cloudwatch-cloudformation-templates #
+https://github.com/aws-samples/k8s-cloudwatch-operator #
+https://github.com/aws-samples/amazon-personalize-monitor # Monitor, alert, and optimize your Amazon Personalize deployments
+https://github.com/aws-samples/cloudwatch-logs-insights-queries #
+https://github.com/aws-samples/amazon-cloudwatch-alarms-controller-for-kubernetes #
+https://github.com/aws-samples/amazon-cloudwatch-dashboard-alarms-with-ssm-ansible-role #
+https://github.com/aws-samples/designing-cloud-native-microservices-on-aws # Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop.
+Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
+https://github.com/aws-samples/amazon-cloudwatch-alarms-repeated-notification-cdk #
+https://github.com/aws-samples/aws-cdk-lambda-cloudwatch-dashboard # Building a CloudWatch Dashboard for Lambdas to visualize the Invocations, Concurrent Executions, Duration, and Errors using C
+DK
+https://github.com/aws-samples/cloudwatch-contributor-insights-rule-examples #
+https://github.com/aws-samples/aws-cdk-apigateway-cloudwatch-dashboard # CloudWatch Dashboard for API Gateway to visualize the API Calls, Latency, Integration Latency, and Errors
+https://github.com/aws-samples/aws-tag-enforcement-service-catalog # Tag enforcement using AWS Service Catalog, Amazon DynamoDB, Cloudwatch Events, and AWS Lambda
+https://github.com/aws-samples/aws-codecommit-file-change-publisher # AWS CodeCommit file change notification example by using AWS Lambda, Amazon SNS and CloudWatch Event
+https://github.com/aws-samples/amazon-es-check-cw-alarms # This sample code checks, and optionally creates, recommended CloudWatch alarms for your Amazon Elasticsearch service domain.
+https://github.com/aws-samples/drs-tools # This repository includes a collection of solutions and tools for the AWS Elastic Disaster Recovery (DRS) service. You can use one or all of them to cus
+tomize and enhance your DRS deployments.
+https://github.com/aws-samples/aws-lambda-concurrency-hunt # This code example illustrates a programmatic way to search through CloudWatch Metrics for Lambda concurrency spikes.
+https://github.com/aws-samples/amazon-cloudwatch-monitoring-for-couchbase # Leverage AWS services to create cost-effective serverless architectures to enable monitoring of Couchbase clusters usi
+ng Amazon CloudWatch.
+https://github.com/aws-samples/aws-cloudwatch-dashboard-generator # CLI tool for generating CloudWatch dashboards for 10+ common services on AWS.
+https://github.com/aws-samples/aws-cdk-quickstart-lambda-insights # Use this cdk project to test AWS CloudWatch Lambda Insights.
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-hana # Amazon CloudWatch Monitoring for SAP HANA
+https://github.com/aws-samples/aws-lex-v2-bot-analytics # An Amazon Lex V2 Analytics Dashboard Solution
+https://github.com/aws-samples/amazon-cloudwatch-percentiles-high-volume-data-monitoring # This code samples provides an example of using Amazon CloudWatch client-side metric aggregations.
+https://github.com/aws-samples/logging-monitoring-apg-guide-examples # The CloudFormation templates included in this repository are intended to assist you in configuring and installing Amazon Cl
+oudWatch and AWS X-Ray for on premises servers, Amazon EC2, Amazon ECS, and Amazon EKS. Templates are also provided for deploying ECS and EKS clusters and services with Amazon CloudWatch preconfigured.
+https://github.com/aws-samples/amazon-cloudwatch-snmp-monitoring-with-logstash # SNMP monitoring using Amazon CloudWatch and Elastic Logstash
+https://github.com/aws-samples/amazon-cloudwatch-synthetics-page-performance # The purpose of this repository is to demonstrate how Amazon Cloudwatch Synthetics can be used to measure the page l
+oad time.
+https://github.com/aws-samples/alarm-context-tool # The Alarm Context Tool (ACT) enhances AWS CloudWatch Alarms by providing additional context to aid in troubleshooting and analysis.
+https://github.com/aws-samples/mwaa-dashboard # Automating Amazon CloudWatch dashboards and alarms for Amazon Managed Workflows for Apache Airflow (MWAA)
+https://github.com/aws-samples/aws-serverless-centralized-logs # The purpose of this sample is to show how to create a serverless and centralized architecture to ingest, store and query logs uti
+lizing Amazon Kinesis Data Firehose, Amazon S3 and Amazon Athena.
+https://github.com/aws-samples/amazon-guardduty-cloudwatch-frequency-script #
+https://github.com/aws-samples/amazon-kinesis-analytics-beam-taxi-consumer # Sample Apache Beam pipeline that can be deployed to Amazon Managed Service for Apache Flink. It reads taxi events fro
+m a Kinesis data stream, processes and aggregates them, and ingests the result to Amazon CloudWatch for visualization.
+https://github.com/aws-samples/aws-iot-core-acmebots-monitoring # This demo demonstrates how leverage aws monitoring services to monitor an iot app. Services used: CloudWatch Logs, Events, Dashb
+oards, Metrics, Lambda, StepFunctions, IoT, DynamoDB and S3.
+https://github.com/aws-samples/one-observability-demo # Sample microservice based application demonstrating observability capabilities on AWS
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-highavailability #
+https://github.com/aws-samples/aws-ebs-custodian # The EBS Snapshot Custodian provides a full life cycle management of EBS Snapshots. It manages the creation and deletion of old EBS Snapshots. T
+he Solution uses Amazon DynamoDB, Amazon Lambda, CloudWatch Events and of course EC2.
+https://github.com/aws-samples/amazon-eks-cluster-logging-remediation # This Cloudformation template autoremediates EKS cluster level logging using CloudWatch Event Rules and Lambda
+https://github.com/aws-samples/Oracle-monitoring-tool-with-Amazon-Cloudwatch #
+https://github.com/aws-samples/aws-ecs-scheduled-tasks # Provides you sample code on how to use scheduled tasks (cron) feature in Amazon EC2 Container Service, and how it integrates with CloudWa
+tch events while leveraging Spot fleet cluster for Cost efficient ECS cluster use.
+https://github.com/aws-samples/aws-real-user-monitoring-amplifyapps # Example of how to instrument an AWS Amplify React application with Amazon CloudWatch RUM to monitor the experience of end us
+ers
+https://github.com/aws-samples/aws-app-mesh-cloudwatch-agent # AWS Cloud Watch Agent optimized for App Mesh usage
+https://github.com/aws-samples/k6-fargate-cloudwatch-with-cdk # This sample project provides an easy way to run load test with a K6 container in an ECS Fargate Task. The metrics are collected by
+the CloudWatch Agent sidecar in the Fargate Task. This project also provides a CloudWatch Dashboard to view the load testing result in the CloudWatch.
+https://github.com/aws-samples/aws-cloudwatch-usage-metric-dashboard-examples #
+https://github.com/aws-samples/aws-cloudfront-real-time-metrics-sample # This repository provides infrastructure and code to parse CloudFront real-time logs and convert these logs into CloudWatc
+h custom metrics. These Custom metrics in CloudWatch can provide low-level insight into how well a CloudFront distribution is performing and even enable monitoring the operational health of specific CloudFront edge locations. This can assist in the identification of common problems affecting CloudFront distributions such as localized outages, ISP failures, and DNS routing issues.
+https://github.com/aws-samples/amazon-cloudwatch-agent-to-archive-logs #
+https://github.com/aws-samples/amazon-ivs-cloudwatch-dashboard-sample # The reference solution show you how to create a CloudWatch dashboard that monitors usage, changes in stream state, and bre
+aches of limits across all of your IVS live streams.
+https://github.com/aws-samples/emr-cloudwatch-metrics-sink-spark #
+https://github.com/aws-samples/cloudwatch-rum-demo # Amazon Cloudwatch RUM demo
+https://github.com/aws-samples/voice-enabled-patient-diary # This repo contains a sample application to show how to build a voice interface for patient outcome reporting (PRO) by leveraging NLP
+capabilities provided by Amazon Lex and its integration with AWS's cloud contact center offering, Amazon Connect.
+https://github.com/aws-samples/aws-ecs-springboot-opentelemetry-sample # SpringBoot integration with AWS Distro for OpenTelemetry on Amazon ECS
+https://github.com/aws-samples/amazon-ecs-for-beginners-catsdogs # [한국어/English]This workshop is designed to educate engineers that might not be familiar with Amazon ECS, Fargate, and possibl
+y even Docker container workflow. It covers Amazon ECS fundamentals and new features including Cluster Auto Scaling, CloudWatch Container Insights, AWS FireLens and so on.
+https://github.com/aws-samples/ml-edge-getting-started #
+https://github.com/aws-samples/sqlserver-monitoring-tool-with-amazon-cloudwatch #
+https://github.com/aws-samples/cloudwatch-data-source-samples # CloudWatch Data Source Samples
+https://github.com/aws-samples/cfn-stack-summary-widget # Summarize AWS CloudFormation stack resources on Amazon CloudWatch dashboards
+https://github.com/aws-samples/reinvent2021-aim408-high-performance-cost-effective-model-deployment-amazon-sagemaker # This repo contains demo code for reInvent2021 session AIM408 Achieve high p
+erformance and cost-effective model deployment
+https://github.com/aws-samples/aws-codebuild-cloudwatch-trace-timing-metrics #
+https://github.com/aws-samples/aws-appsync-cwl-migrator # This is a sample package that migrates a given set of requestIds from the AppSync customer logs in CloudWatch, from the current (unstruc
+tured) to the new (structured JSON) format.
+https://github.com/aws-samples/amazon-connect-instance-dashboard # Visualize Amazon Connect instance metrics in CloudWatch Dashboard
+https://github.com/aws-samples/automated-cloudwatch-dashboard #
+https://github.com/aws-samples/aws-cloudwatch-monitoring #
+https://github.com/aws-samples/cloudwatch-to-opensearch # Sample code to demonstrate ingestion of Amazon CloudWatch logs into Amazon OpenSearch Serverless
+https://github.com/aws-samples/aws-waf-ipset-auto-update-aws-ip-ranges # This project creates two regional WAF IP sets and automatically updates them with AWS service's IP ranges from the ip-ran
+ges.json file. The ranges are configurable as well as the regions for EC2 ranges. Use cases include allowing CloudFront requests, Route53 health checker and EC2 IP range (which includes AWS Lambda and CloudWatch Synthetics).
+https://github.com/aws-samples/automated-cloudwatch-alarm-reporting-system #
+https://github.com/aws-samples/cloudwatch-alarm-management-for-asg #
+https://github.com/aws-samples/amazon-ec2-cloudwatch-alarms-sls #
+https://github.com/aws-samples/cloudwatch-dashboards-built-with-jinja-templates # How to create Amazon CloudWatch dashboards using Jinja templates
+https://github.com/aws-samples/aws-saas-factory-cloudwatch-logs-aggregation #
+https://github.com/aws-samples/application-insights-sample-application # This repository contains a sample CloudFormation template that is used to launch sample .NET/SQL Server application. This
+demo application, along with a follow-along blog are to demonstrate the monitoring capabilities of CloudWatch Application Insights.
+https://github.com/aws-samples/aws-iot-core-integration-with-amazon-cloudwatch-evidently #
+https://github.com/aws-samples/aws-lambda-autoscale-provisioned-concurrency-example # Sample to demonstrate how to observe and fine tune autoscale AWS Lambda provisioned concurrency
+https://github.com/aws-samples/sending-cloudwatch-logs-to-splunk-using-amazon-kinesis-data-firehose # This solution helps customers to send logs from CloudWatch via Amazon Kinesis Firehose to Sp
+lunk Enterprise or Splunk Cloud as a delivery destination. Amazon Kinesis Firehose allows fully-managed, reliable and scalable data streaming to Splunk.
+https://github.com/aws-samples/aws-cdk-centralize-logs-typescript # This is a CDK project that set up centralized logging to an S3 bucket via a Kinesis Firehose. The solution allows you to speci
+fy trusted accounts for different regions and then will configure the CloudWatch Log Delivery Endpoint with proper permission in those regions
+Solution is based heavily on Centralize Cloudwatch Log with CDK https://github.com/aws-samples/aws-centralize-logs-using-cdk
+https://github.com/aws-samples/cloudwatch-custom-metric-from-lambda-dotnet #
+https://github.com/aws-samples/amazon-fsx-custom-health-metrics # A CloudFormation stack that populates custom filesystem availability metrics to CloudWatch
+https://github.com/aws-samples/sending-cloudwatch-logs-to-splunk-using-aws-lambda #
+https://github.com/aws-samples/aws-cloud-operation-samples # This repository contains a collection of AWS Lambda functions and AWS CloudFormation template samples to perform common Cloud Operati
+ons for services such as: CloudWatch, IAM, RDS and more.
+https://github.com/aws-samples/cloudwatch-retention-period-changer #
+https://github.com/aws-samples/universal-cloudwatch-alarm-template #
+https://github.com/aws-samples/cloudwatch-alarms-support-cases-automation # A sample code to automate the creation of AWS support cases using CloudWatch alarm action and Amazon Bedrock
+https://github.com/aws-samples/aws-cloudwatch-insights-query-search #
+https://github.com/aws-samples/amazon-chime-voice-connector-cloudwatch-dashboard #
+https://github.com/aws-samples/amazon-cloudwatch-monitoring-data-ingestion-tasks #
+https://github.com/aws-samples/amazon-cloudwatch-application-signals-java-tomcat-monitoring #
+https://github.com/aws-samples/WorkSpaces-CloudWatch-InternetMonitor-Queries #
+https://github.com/aws-samples/amazon-fsx-for-lustre-usage-metrics-to-amazon-cloudwatch #
+https://github.com/aws-samples/monitor-backups-to-amazon-s3-using-amazon-cloudwatch # Build Amazon CloudWatch dashboards and alarms to monitor backups to Amazon S3
+https://github.com/aws-samples/amazon-rds-push-db-load-using-cloudwatch-to-dynatrace # Deliver RDS Performance Insights to Dynatrace (APM tool)
+https://github.com/aws-samples/aws-elastic-beanstalk-dotnet-monitoring # Sample code to monitor AWS Elastic Beanstalk .NET applications with Elastic Beanstalk enhanced health, Amazon CloudWatch,
+and AWS Managed Service for Grafana
+https://github.com/aws-samples/microservices-dotnet-aws-cdk # This repository contains a sample implementation of Fanout Architecture using .NET6 Worker Services to process messages from Amazon
+SNS Topic and Amazon SQS Queue. Since the Worker Services would have no UI, to operate this solution, you need Observability implemented. In this repository, you can also find sample .NET Observability implementation using the combination of AWS X-Ray and Amazon CloudWatch. To provision this solution, you can use AWS CDK to implement your modern Infrastructure as Code, using .NET C# to provision all AWS Resources your application needs.
+https://github.com/aws-samples/aws-resource-counter # This project creates Amazon CloudWatch metric for configured resources using AWS Lambda that is scheduled recurrence. You can configure whic
+h resources you would like to count and Lambda function will generate the metric based on your current resources count.
+https://github.com/aws-samples/batch-default-log-group-retention # This sample allows to automatize the enforcement of a default retention period for selected Cloudwatch Log Groups
+https://github.com/aws-samples/ingest-and-analyze-aws-security-logs-in-microsoft-sentinel # This pattern describes how to automate the ingestion of security logs, e.g., AWS CloudTrail, Amazon Cl
+oudWatch Logs, AWS VPC Flow Logs and Amazon GuardDuty, in Microsoft Sentinel to centrally monitor, detect and analyze security related events and logs.
+
+https://github.com/awslabs/collectd-cloudwatch # A collectd plugin for sending data to Amazon CloudWatch
+https://github.com/awslabs/cloudwatch-logs-customize-alarms # A Lambda function that helps customize alarms from Amazon CloudWatch to fit your specific needs.
+https://github.com/awslabs/cloudwatch-fluent-metrics # Fast and easy-to-use library for implementing CloudWatch Custom Metrics
+https://github.com/awslabs/aws-embedded-metrics-node # Amazon CloudWatch Embedded Metric Format Client Library
+https://github.com/awslabs/aws-embedded-metrics-python # Amazon CloudWatch Embedded Metric Format Client Library
+https://github.com/awslabs/amazon-cloudwatch-publisher # Push metrics and logs to CloudWatch from any system that can run Python
+https://github.com/awslabs/hids-cloudwatchlogs-opensearch-template # Monitor Host-Based Intrusion Detection System Alerts on Amazon EC2 Instances
+https://github.com/awslabs/cloudwatch-logs-analyze-data # A Lambda function that builds an on-demand, scalable Amazon Elasticsearch cluster to solve a specific problem or to do analysis.
+https://github.com/awslabs/aws-embedded-metrics-java # Amazon CloudWatch Embedded Metric Format Client Library
+https://github.com/awslabs/kinesis-agent-windows # An extensible Windows agent that ingests logs and metrics to AWS services such as Kinesis Stream, Kinesis Firehose, CloudWatch Logs and CloudWa
+tch.
+https://github.com/awslabs/cloudwatch-xray-apm-demo # Demo on how to use Amazon CloudWatch custom metrics with either Collectd or CloudWatch logs, so you don't introduce latency on your apps. Th
+is demo also uses the AWS X-Ray daemon to send tracing information to X-Ray.
+https://github.com/awslabs/aws-embedded-metrics-dotnet # Amazon CloudWatch Embedded Metric Format Client Library
+https://github.com/awslabs/aws-cloudwatch-metrics-custom-spark-listener # Example Spark streaming sample codes with Custom Listeners to push streaming metrics into Amazon CloudWatch metrics
+https://github.com/awslabs/pg-counter-metrics # PG Counter Metrics ( PGCM ) is a tool for publishing PostgreSQL performance data to CloudWatch. By publishing to CloudWatch, dashboards and alarmi
+ng can be used on the collected data.
+https://github.com/awslabs/cwe-monitor-secgrp # This CloudWatch Events rule Lambda function evaluates AWS API calls that change Amazon EC2 security group ingress rules. The function flags rules
+that violate a preconfigured policy.
+https://github.com/awslabs/amazon-aurora-postgres-monitoring # An advanced monitoring system for Amazon Aurora PostgreSQL that is completely serverless, based on AWS Lambda and Amazon CloudWatch
+https://github.com/awslabs/aws-lambda-security-controls # This is a collection of AWS CloudFormation templates which create Lambda functions triggered by CloudWatch Events rule to evaluate AWS A
+PI calls to trigger Amazon Simple Notification Service (Amazon SNS) for notifications.
+https://github.com/awslabs/node-latency-for-k8s # The node-latency-for-k8s tool provides process-level telemetry via prometheus metrics, cloudwatch metrics, and markdown timing charts to optimiz
+ed K8s node launch times.
+https://github.com/awslabs/aws-dynamodb-storage-monitor # A Python code (Lambda function) which will help to get storage info all DynamoDB tables in a region and publish that metrics in CloudWat
+ch periodically. A cloudFormation template - Since DynamoDb do not have any storage metrics - this CF template will help customer to trigger the Lambda code (Python code) in every 6 hours to push storage utilization info to cloudWatch
+
+https://github.com/aws/amazon-cloudwatch-agent # CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.
+https://github.com/aws/amazon-cloudwatch-logs-for-fluent-bit # A Fluent Bit output plugin for CloudWatch Logs
+https://github.com/aws/aws-logging-dotnet # .NET Libraries for integrating Amazon CloudWatch Logs with popular .NET logging libraries
+https://github.com/aws/amazon-cloudwatch-agent-test #
+https://github.com/aws/amazon-cloudwatch-agent-operator # The Amazon CloudWatch Agent Operator is software developed to manage the CloudWatch Agent on kubernetes.
+https://github.com/aws/Trusted-Advisor-Tools # The sample functions provided help to automate AWS Trusted Advisor best practices using Amazon Cloudwatch events and AWS Lambda.
+https://github.com/aws/ec2-macos-system-monitor # Amazon EC2 System Monitor for macOS is the on instance agent that provides basic CloudWatch metrics like CPU Utilization.

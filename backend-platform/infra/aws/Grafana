@@ -1,0 +1,24 @@
+https://github.com/build-on-aws/instrumenting-java-apps-using-opentelemetry # Microservice written in Java that shows how to instrument applications using OpenTelemetry, to produce telemetry data for traces and metrics. Also how to switch the observability backend without code changes.
+
+https://github.com/aws-samples/aws-cdk-grafana # AWS CDK implementation of Grafana Docker image
+https://github.com/aws-samples/amazon-kinesis-timestream-grafana # Visualize events from Amazon Kinesis Data Streams in Grafana and batch the records to Timestream via Flink app, visualizing results via Grafana.
+https://github.com/aws-samples/amazon-timestream-telegraf-and-grafana-demo # The purpose of this repository is to demo how to ingest time series data in this case Amazon EC2 instance metrics such as CPU, Memory, Disk into Amazon Timestream.
+https://github.com/aws-samples/prometheus-grafana-getting-started-webinar # Amazon Managed service for Prometheus and Amazon Managed service for Grafana getting started demo.
+https://github.com/aws-samples/coast-grafana-cost-intelligence-dashboards #
+https://github.com/aws-samples/grafana-serverless-blog # Blog article "Using Amazon Managed Service for Grafana to Troubleshoot a Serverless Application"
+https://github.com/aws-samples/grafana-automated-backup-tool # A Serverless tool to automate Grafana components Backup and Restore.
+https://github.com/aws-samples/cloudfront-cmcd-realtime-dashboard # Build a dashboard in Grafana for CloudFront logs enriched with CMCD metrics.
+https://github.com/aws-samples/ecs-mesh-workshop # Launch ECS with service mesh support
+https://github.com/aws-samples/use-influxdb-and-grafana-to-visualize-ml-output-with-awsiot-greengrass-v2 #
+https://github.com/aws-samples/amazon-eks-ethereum-staking # Ethereum staking solution with Amazon EKS and Amazon Managed Prometheus and Grafana
+https://github.com/aws-samples/grafana-smartmonitor-sample #
+https://github.com/aws-samples/aws-batch-operational-dashboards #
+https://github.com/aws-samples/monitor-iot-device-health-with-amazon-managed-grafana #
+https://github.com/aws-samples/aws-sdk-prom-metrics # Enhance Operational Insight by Converting the Output of any AWS SDK Commands to Prometheus Metrics
+https://github.com/aws-samples/real-user-monitoring-with-cw-rum-and-amazon-grafana #
+https://github.com/aws-samples/aws-elastic-beanstalk-dotnet-monitoring # Sample code to monitor AWS Elastic Beanstalk .NET applications with Elastic Beanstalk enhanced health, Amazon CloudWatch, and AWS Managed Service for Grafana
+
+https://github.com/awslabs/aws-greengrass-labs-dashboard-grafana # Manage a local Grafana instance on your device.
+https://github.com/awslabs/aws-greengrass-labs-dashboard-influxdb-grafana # Provision and manage a fully setup Grafana Dashboard connected to InfluxDB.
+
+https://github.com/aws/amazon-managed-grafana-roadmap # Amazon Managed Grafana Roadmap

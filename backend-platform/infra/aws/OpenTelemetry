@@ -1,0 +1,9 @@
+https://github.com/build-on-aws/instrumenting-java-apps-using-opentelemetry # Microservice written in Java that shows how to instrument applications using OpenTelemetry
+
+https://github.com/aws-samples/aws-ecs-springboot-opentelemetry-sample # SpringBoot integration with OpenTelemetry on ECS
+https://github.com/aws-samples/amazon-cloudfront-end-to-end-tracing-with-opentelemetry #
+https://github.com/aws-samples/observability-with-amazon-opensearch # Microservice-based Sample App demonstrating observability capabilities in OpenSearch Service
+https://github.com/aws-samples/one-observability-demo # Sample microservice based application
+https://github.com/aws-samples/aws-blog-observability-platform # Blog post "Build an Observability solution using AWS Managed Services and OpenTelemetry standard".
+https://github.com/aws-samples/opentelemetry-lambda-container #
+https://github.com/aws-samples/dotnet-opentelemetry-samples #

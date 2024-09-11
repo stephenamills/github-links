@@ -1,0 +1,376 @@
+https://github.com/aws-solutions-library-samples/tag-based-cloudwatch-dashboard # Tag based CloudWatch dashboard uses CDK and resource groups tagging API to automatically produce CloudFormation
+templates for CloudWatch dashboard.
+https://github.com/aws-solutions-library-samples/guidance-for-predictive-maintenance-with-amazon-monitron # This Guidance helps you generate actionable insights for predictive maintenance manage
+ment in industrial environments using Amazon Monitron and other AWS services.
+https://github.com/aws-solutions-library-samples/guidance-for-programmatic-deployment-of-ndi-discovery-servers-for-broadcast-workflows-on-aws # This sample, non-production-ready template describ
+es a CloudFormation template to deploy the infraestructure needed to host the NDI DIscovery Servers on an existing VPC
+
+https://github.com/build-on-aws/ci-cd-iac-aws-cloudformation # Sample CI/CD pipeline for AWS CloudFormation using Amazon CodeCatalyst
+https://github.com/build-on-aws/stateful-workloads-in-iac # When applying DevOps best practices and implementing infrastructure as code (IaC) for your projects, you have to make a decision: shou
+ld you combine or separate components that store information (like databases) and other components that don’t? The duality of the question suggests that there is only one right answer. But is it, really?
+https://github.com/build-on-aws/testing-egress-controls-for-cloud-workloads # Sample testing script and CloudFormation Tempalte used in Egress Testing Tutorials that highlight AWS Network Firewa
+ll and Amazon Route53 DNS Resolver Firewall.
+
+https://github.com/aws-samples/aws-proton-cloudformation-sample-templates # Sample templates for AWS Proton
+https://github.com/aws-samples/cfn101-workshop # AWS CloudFormation Workshop
+https://github.com/aws-samples/codepipeline-nested-cfn # CloudFormation templates, CodeBuild build specification & Python scripts to perform unit tests of a nested CloudFormation template.
+https://github.com/aws-samples/startup-kit-templates # CloudFormation templates to accelerate getting started on AWS.
+https://github.com/aws-samples/aws-service-catalog-reference-architectures # Sample CloudFormation templates and architecture for AWS Service Catalog
+https://github.com/aws-samples/aws-aurora-cloudformation-samples # Quick start reference deployment of an Amazon Aurora DB Cluster with AWS recommended best practices for security and high avail
+ability using AWS CloudFormation
+https://github.com/aws-samples/reactive-refarch-cloudformation # Reactive Microservices Architectures with Amazon ECS, AWS Lambda, Amazon Kinesis Streams, Amazon ElastiCache, and Amazon DynamoDB
+https://github.com/aws-samples/jenkins-cloudformation-deployment-example #
+https://github.com/aws-samples/cloudwatch-dashboards-cloudformation-sample # A sample project to demonstrate using Cloudformation, how to create and configure CloudWatch metric filters, alarms a
+nd a dashboard to monitor an AWS Lambda function.
+https://github.com/aws-samples/aws-cloudformation-advanced-reinvent-2018 # Lab Materials for re:Invent 2018 workshop - Hands on with Advanced CloudFormation Techniques and New Features.
+https://github.com/aws-samples/aws-cloudformation-workshops # This repository contains workshops for AWS CloudFormation.
+https://github.com/aws-samples/aws-refarch-wordpress # This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
+https://github.com/aws-samples/aws-proton-workshop-code # AWS Proton workshop - Sample Cloudformation and Terraform Templates
+https://github.com/aws-samples/aws-service-catalog-terraform-reference-architecture # Apply Terraform configurations using CloudFormation through a proxy lambda
+https://github.com/aws-samples/ecs-refarch-cloudformation-windows # This reference architecture provides a set of YAML templates for creating an Elastic Container Service (ECS) cluster that is c
+omprised of Windows instances.
+https://github.com/aws-samples/aws-cloudformation-validator # this is source code of python script use for validation CF template => more in the blog https://aws.amazon.com/blogs/devops/validati
+ng-aws-cloudformation-templates...
+https://github.com/aws-samples/aws-batch-processing-job-repo # Orchestrating an Application Process with AWS Batch using AWS CloudFormation
+https://github.com/aws-samples/vpc-multi-tier # AWS CloudFormation template for multi-tier VPC
+https://github.com/aws-samples/serverless-data-analytics # CloudFormation templates and scripts to setup the AWS services for the workshop, Athena & Redshift Spectrum queries
+https://github.com/aws-samples/aws-systems-manager-cloudformation-samples # Set of sample CloudFormation Documents and Systems Manager documents that show how the two service can be used togethe
+r in deployments.
+https://github.com/aws-samples/dms-cloudformation-templates-generator # Sample code that reads Microsoft Excel workbook/CSV File for the details required to create a DMS task CloudFormation temp
+late
+https://github.com/aws-samples/amazon-redshift-with-cloudformation # Automate Redshift cluster creation with best practices using AWS CloudFormation
+https://github.com/aws-samples/amazon-sagemaker-cloudformation-custom-resource # Deploy Amazon SageMaker notebook using CloudFormation custom resource
+https://github.com/aws-samples/aws-security-reference-architecture-examples # Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using
+CloudFormation (including Customizations for AWS Control Tower) and Terraform.
+https://github.com/aws-samples/amazon-cloudwatch-log-centralizer # Centralized logging infrastructure for multiple AWS accounts using CloudFormation and Python
+https://github.com/aws-samples/aws-cloud9-bootstrapping-example # This example Cloudformation Code Project shows how to bootstrap AWS Cloud9 environments using Cloudformation, AWS Lambda and AWS
+Systems Manager
+https://github.com/aws-samples/aws-cloudformation-starter-workflow-for-github-actions # Sample GitHub Actions workflow for continuously deploying to AWS CloudFormation
+https://github.com/aws-samples/aws-cloudformation-publisher # AWS CloudFormation Publisher packages your CloudFormation templates into an S3 bucket in every AWS region and creates "launch stack"
+links that you can use in your documentation so that your customers can easily launch stacks in their AWS accounts from your CloudFormation template.
+https://github.com/aws-samples/communication-developer-services-reference-architectures # AWS Amazon Pinpoint and Amazon Simple Email Service (SES) Digital User Engagement Reference Architecture
+s with CloudFormation templates.
+https://github.com/aws-samples/aws-starter-react-for-github-actions # A template to create a React app and deploy it with the AWS CloudFormation Action for GitHub Actions on the AWS cloud
+https://github.com/aws-samples/cloudformation-studio-domain #
+https://github.com/aws-samples/aws-deeplearning-labs # CloudFormation to setup Kubeflow and Sagemaker Operators on EKS
+https://github.com/aws-samples/aws-cloudformation-get-att-from-param # An AWS CloudFormation custom resource that imitates the GetAtt intrinsic on CloudFormation stack parameters.
+https://github.com/aws-samples/aws-cloudformation-security-automation-for-wazuh # NIST based open source security automation delivered as AWS cloudformation
+https://github.com/aws-samples/sagemaker-run-notebook # Tools to run Jupyter notebooks as jobs in Amazon SageMaker - ad hoc, on a schedule, or in response to events
+https://github.com/aws-samples/aws-control-tower-reference-architectures # Sample CloudFormation templates and architecture for AWS Control Tower
+https://github.com/aws-samples/aws-cdk-project-template-for-devops # This repository provides best practices and template framework for developing AWS Cloud Development Kit(CDK)-based applicatio
+ns effectively, quickly and collaboratively.
+https://github.com/aws-samples/aws-cloudformation-conditional-launch # Sample code used in AWS QuickStart Automation Blog
+https://github.com/aws-samples/cdk-bootstrapless-synthesizer # Generate directly usable AWS CloudFormation template
+https://github.com/aws-samples/aws-cloudformation-stackset-orchestration # AWS CloudFormation StackSet Orchestration: Automated deployment using AWS Step Functions
+https://github.com/aws-samples/aws-lex-v2-cfn-cr # Amazon Lex V2 CloudFormation Custom Resource
+https://github.com/aws-samples/aws-pipeline-to-service-catalog # CloudFormation templates and Python scripts showing how to use Boto3 libraries to sync Version control with Service Catalog.
+https://github.com/aws-samples/aws-cloudformation-automated-testing-taskcat-aws-codepipeline #
+https://github.com/aws-samples/aws-cloudformation-migrations # Automate AWS lambda functions migration across account using CloudFormation
+https://github.com/aws-samples/mgn-server-migration-demo # CloudFormation template and demo instructions on how to migrate a web server to a new EC2 instance using Application Migration Service
+(MGN).
+https://github.com/aws-samples/amazon-mwaa-examples # Amazon Managed Workflows for Apache Airflow (MWAA) Examples repository contains example DAGs, requirements.txt, plugins, and CloudFormation
+templates focused on Amazon MWAA.
+https://github.com/aws-samples/aws-iam-access-key-auto-rotation # This set of CloudFormation templates and Python scripts will set up an auto-rotation function that will automatically rotate you
+r AWS IAM User Access Keys every 90 days.
+https://github.com/aws-samples/aws-cloudformation-assertion-examples # Examples of CloudFormation Assertions
+https://github.com/aws-samples/aws-cloudhsm-cloudformation-template # Automated deployment of AWS CloudHSM resources using AWS CloudFormation
+https://github.com/aws-samples/aws-cloudformation-apigw-sap-idocs # This repository contains sample code as well as an AWS CloudFormation template to integrate SAP IDocs with Amazon S3 using Ama
+zon API Gateway.
+https://github.com/aws-samples/cloudformation-shared-vpc-model # AWS CloudFormation Shared VPC Model
+https://github.com/aws-samples/aws-transit-gateway-attachment-automation # AWS CloudFormation templates and AWS Lambda Python based code for automating AWS Transit Gateway Attachment association
+s across an AWS Organization.
+https://github.com/aws-samples/aws-workspaces-cloudformation-template #
+https://github.com/aws-samples/cloudformation-glue-job-to-pull-data-from-staging-to-prod # A Step Function to run a Glue Job to pull data into a staging table, push it onto prod and then clear s
+taging.
+https://github.com/aws-samples/opsworks-chef-automate-demo # An example CloudFormation template and cookbook for Chef
+https://github.com/aws-samples/amazon-keyspaces-cloudwatch-cloudformation-templates #
+https://github.com/aws-samples/aws-cloudformation-parameter-table-generator # Automated documentation of AWS CloudFormation template parameters
+https://github.com/aws-samples/aws-datasync-cloudformation-templates # Sample AWS CloudFormation templates for creating AWS DataSync resources
+https://github.com/aws-samples/amazon-documentdb-serverless-samples # Lambda functions and CloudFormation templates required for building serverless applications on top of Amazon DocumentDB
+https://github.com/aws-samples/aws-lambda-serverless-inference # AWS CloudFormation and SAM templates for machine learning inference with AWS Lambda.
+https://github.com/aws-samples/vpn-gateway-strongswan # AWS CloudFormation template to deploy the open source strongSwan VPN solution to act as a VPN gateway in support of site-to-site VPN conne
+ctions.
+https://github.com/aws-samples/aws-cloudformation-automate-s3-crr-blog-post #
+https://github.com/aws-samples/aws-dms-archive-data # Lambda functions and CloudFormation templates required for performing the step-by-step actions in the blog post
+https://github.com/aws-samples/aws-cloudformation-amazon-s3-authentication #
+https://github.com/aws-samples/aws-cfn-go-template # AWS CloudFormation Template concrete types for the Go programming language.
+https://github.com/aws-samples/amazon-dax-lambda-nodejs-sample # A sample application showing how to use Amazon DynamoDB Accelerator (DAX) with Lambda and CloudFormation.
+https://github.com/aws-samples/aws-govcloud-continuous-monitoring # CloudFormation templates that implement commonly-requested continuous monitoring solutions within the constraints of AWS GovCl
+oud (US)
+https://github.com/aws-samples/amazon-kinesis-sagemaker-promotion-recommendations # CloudFormation templates and scripts demonstrating how to build a promotion recommendation system using Kinesi
+s and SageMaker.
+https://github.com/aws-samples/transit-gateway-single-exit-point # Transit Gateway solution, with a single egress VPC
+https://github.com/aws-samples/aws-cloudformation-template-scanning-with-cloud-conformity #
+https://github.com/aws-samples/iam-password-policy-deployment-via-cloudformation-stacksets # Sample code for deploying IAM password policies across a fleet of AWS accounts using CloudFormation S
+tackSets
+https://github.com/aws-samples/aws-backup-automation # AWS CloudFormation templates and Python code for AWS blog post on how to automate centralized backup at scale across AWS services using AWS
+Backup.
+https://github.com/aws-samples/amazon-cloudfront-dynamic-websites # Sample AWS CloudFormation template to provision CloudFront distribution for dynamic content websites
+https://github.com/aws-samples/aws-cloudformation-region-parity #
+https://github.com/aws-samples/cloudformation-iops-utilization #
+https://github.com/aws-samples/emr-serverless-samples # Example code for running Spark and Hive jobs on EMR Serverless.
+https://github.com/aws-samples/aws-deploy-spinnaker-halyard # AWS CloudFormation templates and scripting around launching an EKS cluster to run Spinnaker. The Spinnaker installation will allow f
+or EC2 and EKS deployments.
+https://github.com/aws-samples/provision-codepipeline-glue-workflows # Git repo to accompany the AWS DevOps Blog: Using AWS DevOps Tools to model and provision AWS Glue workflows
+https://github.com/aws-samples/aws-redshift-spectrum-poc # Cloudformation and SQL scripts used to replicate a POC environment from the "Data Lake to Data Warehouse: Enhancing Customer 360 with A
+mazon Redshift Spectrum" post
+https://github.com/aws-samples/aws-waf-managed-rules-blog-post-2020 # AWS CloudFormation templates for the blog post regarding Defense in Depth using AWS Managed Rules
+https://github.com/aws-samples/transfer-for-sftp-logical-directories # Example CloudFormation and AWS Lambda implementation to demonstrate an Identity Provider that uses logical directory mappin
+gs for use with the Transfer for SFTP service.
+https://github.com/aws-samples/aws-cloudformation-modules-sharing # This project contains sample templates for deploying CloudFormation Modules across accounts using CloudFormation StackSets
+https://github.com/aws-samples/cloudformation-custom-resource-attach-latest-lambda-layer #
+https://github.com/aws-samples/fargate-efs-cloudformation-deployment-example # Automating Amazon EFS file systems mounts for AWS Fargate
+https://github.com/aws-samples/aws-cloudformation-resource-providers-organizations-policy # The CloudFormation Resource Provider Package For AWS Organizations Policies.
+https://github.com/aws-samples/aws-secrets-manager-secure-database-credentials # Blog sample code: How to securely provide database credentials to Lambda functions by using AWS Secrets Manager
+https://github.com/aws-samples/ecs-refarch-mixed-mode # Provides reference architecture and CloudFormation templates to power ECS using a mix of spot instances and ondemand instances with indepe
+ndent autoscaling
+https://github.com/aws-samples/aws-cost-control-approval-workflow # SAM project that deploys sample aws cost control approval workflow
+https://github.com/aws-samples/aws-hpc-recipes # Contains example recipes that demonstrate how to build HPC systems using AWS services and solutions.
+https://github.com/aws-samples/aws-codepipeline-docker-vulnerability-scan # CloudFormation Templates to deploy CoreOS Clair and Nginx Website on ECS Fargate as an ECS Service. Also create a Code
+Pipeline for updating the Nginx ECS service on code change.
+https://github.com/aws-samples/aws-dms-cdc-sample # AWS Lambda and CloudFormation code for loading CDC data from Relational databases to Amazon Kinesis using Database Migration Service.
+https://github.com/aws-samples/amazon-aurora-labs-for-mysql # Workshop and lab content for Amazon Aurora MySQL compatible databases. This code will contain a series of templates, instructional g
+uides and sample code to educate users on how to use Amazon Aurora features. The AWS CloudFormation templates will create the relevant resources in a user's account, the Bash and Python scripts will support the lab, by automating tasks, generating load or execute changes on resources created using AWS CloudFormation.
+https://github.com/aws-samples/ecs-chargeback-cloudformation #
+https://github.com/aws-samples/cloudformation-blog-iot-data-ingestion #
+https://github.com/aws-samples/aws-cloudformation-inline-python-lambda-example # Example AWS Lambda function deployed inline in a CloudFormation template
+https://github.com/aws-samples/architecture-to-cloudformation #
+https://github.com/aws-samples/aws-devops-pipeline-accelerator # Standardised pipeline accelerators for AWS CodePipeline and GitLab CI for Infrastructure provisioning tools like CloudFormation,
+CDK and Terraform
+https://github.com/aws-samples/amazon-sqs-samples # CloudFormation template used in the tutorial for creating VPC Endpoints for SQS. This template creates and configures the AWS resources needed
+to address the use case covered in the tutorial.
+https://github.com/aws-samples/cloudformation-multiregional-deployments #
+https://github.com/aws-samples/aws-iam-credential-report # AWS CloudFormation templates and Python code for AWS blog post on how to automate IAM credential reports at scale across AWS.
+https://github.com/aws-samples/aws-cfn-windows-hpc-template # This sample CloudFormation template will launch a Windows-based HPC cluster running Windows Server 2012R2 and supporting core infras
+tructure including VPC, domain controllers and bastion servers.
+https://github.com/aws-samples/ec2-former2 # EC2 instance running Former2 for generating IaC scripts from existing AWS resources with temporary security credentials
+https://github.com/aws-samples/cloudformation-quickstart-with-amazonmsk-snowflake #
+https://github.com/aws-samples/drs-tools # This repository includes a collection of solutions and tools for the AWS Elastic Disaster Recovery (DRS) service. You can use one or all of them to cus
+tomize and enhance your DRS deployments.
+https://github.com/aws-samples/amazon-bedrock-rag-knowledgebases-agents-cloudformation #
+https://github.com/aws-samples/aws-systemsmanagerautomation-with-asglifecyclehooks # CloudFormation template using Amazon EC2 Auto Scaling Lifecycle Hooks to perform any desired actions before t
+erminating the instance within the Auto Scaling group.
+https://github.com/aws-samples/amazon-workspaces-disaster-recovery-example # A CloudFormation template that creates a multi-region Disaster Recovery environment for Amazon WorkSpaces.
+https://github.com/aws-samples/aws-cidr-finder # A lambda function, a cloudformation template to get it running, and example templates showing how to use a custom resource (calling the lambda) t
+o automatically calculate CIDR ranges for subnets based on the VPC range.
+https://github.com/aws-samples/aws-lex-web-ui # Sample Amazon Lex chat bot web interface
+https://github.com/aws-samples/aws-system-manager-automation-unencrypted-to-encrypted-resources # Examples to help automate encrypting unencrypted resources.
+https://github.com/aws-samples/aws-glue-crawler-utilities # This repository has a collection of utilities for Glue Crawlers. These utilities come in the form of AWS CloudFormation templates or A
+WS CDK applications.
+https://github.com/aws-samples/cfn-security-scan-integration # Sample code for integrating AWS CloudFormation templates security tests (using CFN-Nag and CFN-Guard) with both AWS Security Hub an
+d AWS CodeBuild reports.
+https://github.com/aws-samples/aws-glue-cdk-cicd # Build, Test and Deploy ETL solutions using AWS Glue and AWS CDK based CI/CD pipelines
+https://github.com/aws-samples/ec2-lamp-server # CloudFormation (IaC) template to provision EC2 instance with PHP, Apache/Nginx and MySQL/MariaDB/PostgreSQL
+https://github.com/aws-samples/amazon-rds-sizing-sample # Python and AWS CloudFormation code for Right Sizing Amazon RDS Instance at Scale based on Oracle Performance Metrics.
+https://github.com/aws-samples/aws-systems-manager-schedule-central-patch-example # This repo hosts CloudFormation templates related to the AWS Management & Governance blog post. See README.md f
+or a link to the blog post.
+https://github.com/aws-samples/aws-iot-msk-rule-cloudformation-example # CloudFormation templates to create AWS IoT Rule with Amazon MSK cluster integration.
+https://github.com/aws-samples/amazon-freertos-ota-scripts # Scripts to aid initiating OTA updates for Amazon FreeRTOS devices.
+https://github.com/aws-samples/amazon-eks-cluster-logging-remediation # This Cloudformation template autoremediates EKS cluster level logging using CloudWatch Event Rules and Lambda
+https://github.com/aws-samples/aws-codebuild-custom-raspbian-builder # Build custom Raspbian OS images from verified Source with AWS CodeBuild.
+Supports bare-metal & Docker container installs.
+Provisioned via AWS CloudFormation.
+https://github.com/aws-samples/getting-started-with-amazon-appstream2-workshop-template # This repository contains the AWS CloudFormation template to provision the prerequisites for the Getting
+started with AppStream 2.0 workshop.
+https://github.com/aws-samples/rosa-patterns # AWS CloudFormation and AWS Cloud Development Kit (AWS CDK) templates that can be used to create example architectures applicable to Red Hat OpenShi
+ft Service on AWS (ROSA)
+https://github.com/aws-samples/logging-monitoring-apg-guide-examples # The CloudFormation templates included in this repository are intended to assist you in configuring and installing Amazon Cl
+oudWatch and AWS X-Ray for on premises servers, Amazon EC2, Amazon ECS, and Amazon EKS. Templates are also provided for deploying ECS and EKS clusters and services with Amazon CloudWatch preconfigured.
+https://github.com/aws-samples/aws-medialive-mediapackage-cloudwatch-dashboard # A Python script and CloudFormation template to assist with the creation of CloudWatch Dashboards for AWS Elementa
+l MediaLive to AWS Elemental MediaPackage workflows.
+https://github.com/aws-samples/amazon-aurora-migration-azure-sqldb-to-aurora-mysql # A CloudFormation template to assist in migrating databases from Azure to AWS
+https://github.com/aws-samples/cloudformation-custom-resource-add-item-to-dynamodb-table #
+https://github.com/aws-samples/automate-vulnerability-management-and-remediation # This repo hosts CloudFormation templates related to the AWS Cloud Operations blog post. See README.md for a lin
+k to the blog post.
+https://github.com/aws-samples/aws-scalable-big-blue-button-example # Demonstration of how to deploy a scalable video conference solution based on Big Blue Button
+https://github.com/aws-samples/amazon-aurora-pgpool-example # A set of CloudFormation templates that demonstrates using pgool middleware to provide a single endpoint for both the primary and rea
+d replica instances of an Amazon Aurora PostgreSQL-compatible cluster.
+https://github.com/aws-samples/sagemaker-studio-code-editor-template # CloudFormation template for Amazon SageMaker Studio Code Editor
+https://github.com/aws-samples/observability-with-amazon-opensearch # This repository contains a microservice-based Sample App demonstrating observability capabilities in the Amazon OpenSearch S
+ervice.
+https://github.com/aws-samples/serverless-alert-notifier # One-click serverless solution for sending alert notification to common communication or alert platforms.
+https://github.com/aws-samples/ecs-mesh-workshop # This handy workshop help the customers to quickly launch ECS with service mesh support on top of mixed type of instance in all commercial regio
+ns (include China), and also provides hands-on tutorials with best practices. It can be customized easily as per need.
+https://github.com/aws-samples/aws-lambda-subminute-invocation # This is the sample CloudFormation template to deploy the serverless solution at https://aws.amazon.com/blogs/architecture/a-serve
+rless-solution-for-invoking-aws-lambda-at-a-sub-minute-frequency/
+https://github.com/aws-samples/amazon-ec2-nice-dcv-samples # AWS CloudFormation templates to provision Linux or Windows EC2 instances with GUI running NICE DCV remote display server. Includes op
+tion to install GPU drivers
+https://github.com/aws-samples/aws-transit-gateway-egress-filtering # A sample cloudformation template that deploys a transit gateway with centralized egress filtering in a security VPC.
+https://github.com/aws-samples/aws-config-custom-rule-cloudformation-guard # This is a project to quickly accelerate the adoption of CloudFormation Guard syntax for use in AWS Config rules.
+The
+advantage of CloudFormation Guard is that it allows custom rules using existing AWS Config Configuration Items without needing to write code like Lambda Custom rules for AWS Config.
+https://github.com/aws-samples/aws-cloudformation-template-for-data-analytics-iam-users #
+https://github.com/aws-samples/macie-dynamodb-blog # Repo contains all source code and Cloudformation templates for Macie DynamoDB blog located here https://aws.amazon.com/blogs/security/detecti
+ng-sensitive-data-in-dynamodb-with-macie/
+https://github.com/aws-samples/aws-lambda-url-apigateway-cfn # AWS Lambda function URL vs API Gateway Integrated Lambda - Sample CloudFormation Template
+https://github.com/aws-samples/lambda-event-sources-vpc-setup-example # This repository provides the example cloudformation templates for setting up internet connection between event sources wit
+hin AWS VPC and public internet.
+https://github.com/aws-samples/opensearch-log-rotate-with-curator-opensearch # This project is a sample code on how to use opensearch-curator in order to log rotate your Amazon OpenSearch domain
+. It was built using sam-cli for easy deployment.
+https://github.com/aws-samples/aws-multi-account-inspector-to-es-s3-blogpost-2020 # AWS Cloudformation templates and python codes for security blog post on How to centralize and visualize multi-
+account Amazon Inspector findings with Amazon Elasticsearch and Amazon S3
+https://github.com/aws-samples/code-server-setup-with-cloudformation # Provide a CloudFormation template to setup a code server running on a EC2 instance and expose via a CloudFront distribution
+.
+https://github.com/aws-samples/aws-systemsmanager-patchcompliance-to-securityhub # CloudFormation template and index.js used to import critical patch compliance findings into AWS Security Hub ac
+ross multiple accounts
+https://github.com/aws-samples/cloudformation-cross-stack-dependency #
+https://github.com/aws-samples/aws-managed-microsoft-ad-reverse-dns-amazon-route-53-example # The sample CloudFormation template demonstrates how customers can leverage Amazon Route 53 for their
+AWS Directory Service for Microsoft Active Directory environments.
+https://github.com/aws-samples/aws-appconfig-java-sample # A Sample Java Microservices application to demo the capabilities of Amazon Q Developer agent for Code Transformation.
+https://github.com/aws-samples/aws-service-catalog-sagemaker-studio-domain # Workshop to launch Amazon SageMaker Studio domain using AWS Service Catalog and AWS SSO in the AWS Control Tower envi
+ronment, using AWS CloudFormation templates and lambda functions.
+https://github.com/aws-samples/amazon-msk-topic-resource # Custom CloudFormation resource that can be used to create and manage Kafka topics in MSK clusters.
+https://github.com/aws-samples/dicoogle-on-aws # Companion Cloudformation templates and resources for blog post "Running Dicoogle, an open source PACS solution, on AWS"
+https://github.com/aws-samples/cfn-stack-summary-widget # Summarize AWS CloudFormation stack resources on Amazon CloudWatch dashboards
+https://github.com/aws-samples/aws-serverless-vending-machine # This sample application demonstrate how to create a solution to developer teams consume IaC Products, like a "Vending Machine", to
+automated deploy cloud service in their AWS Accounts without open a ticket or request in IT department.
+https://github.com/aws-samples/amazon-sagemaker-reusable-components # This solution shows how to deliver reusable and self-contained custom components to Amazon SageMaker environment using AWS S
+ervice Catalog, AWS CloudFormation, SageMaker Projects and SageMaker Pipelines.
+https://github.com/aws-samples/wickr-enterprise-high-availability-cloudformation #
+https://github.com/aws-samples/developing-on-amazon-ecs-with-cloudformation # This sample code show how to develope and deploy applications on Amazon ECS using CloudFormation.
+https://github.com/aws-samples/ssm-automation-custom-ad-domain-join-unjoin # Sample AWS CloudFormation templates to aide in improving Active Directory workload deployment and management in AWS.
+https://github.com/aws-samples/kda-metrics-dashboard # This repository contains a CloudFormation template that you can customize to deploy a sample metrics dashboard for your Kinesis Data Analyt
+ics for Apache Flink application.
+https://github.com/aws-samples/ec2-imagebuilder-ami-share # CloudFormation template and CDK stack that contains a CustomResource with Lambda function to allow the setting of the targetAccountIds
+attribute of the EC2 Image Builder AMI distribution settings which is not currently supported (as of October 2021) in CloudFormation or CDK.
+https://github.com/aws-samples/amazon-ivs-chat-web-demo # A demo web application that shows how to implement a basic video + chat application using the AWS serverless application model (SAM) and
+Javascript (React).
+https://github.com/aws-samples/monitor-your-iac-adoption-using-aws-cloudformation-iac-generator # This application sample leverages AWS CloudFormation IaC Generator to monitor and identify the A
+WS resources that are not managed by AWS CloudFormation.
+https://github.com/aws-samples/aws-integration-for-apache-guacamole # An AWS automation to integrate with Apache Guacamole. This solution use Eventbridge Rules and Lambda Functions to detect EC2
+events in the VPC and create or remove connections in the Guacamole
+https://github.com/aws-samples/application-insights-sample-application # This repository contains a sample CloudFormation template that is used to launch sample .NET/SQL Server application. This
+demo application, along with a follow-along blog are to demonstrate the monitoring capabilities of CloudWatch Application Insights.
+https://github.com/aws-samples/amazon-ivs-clip-web-demo # This repository contains a demo web application intended as an educational tool for demonstrating how you can implement a stream "clippi
+ng" functionality with Amazon IVS. This project uses AWS Cloud Development Kit (AWS CDK).
+https://github.com/aws-samples/aws-cfn-for-optimizing-aws-config-for-aws-security-hub # AWS CloudFormation template to set up AWS Config to record only what’s needed for Security Hub.
+https://github.com/aws-samples/cloudformation-cicd-automation-features #
+https://github.com/aws-samples/ipv6-nat64-66-blog-post-cloudformation # This project contains the CloudFormation templates and step-by-step instructions referenced in the Centralizing outbound I
+nternet traffic for dual stack IPv4 and IPv6 VPCs Blog Post.
+https://github.com/aws-samples/integrate-external-aws-accounts-into-iam-identity-center # This repository provides a deployable solution using Infrastructure-as-Code (IaC) templates with AWS Clo
+udFormation to help you automate the configuration of AWS IAM Identity Center integration with external AWS accounts using SAML 2.0.
+https://github.com/aws-samples/data-mesh-datazone-cdk-cloudformation # This solution provides the AWS CDK and AWS CloudFormation infrastructure to build an enterprise data mesh with Amazon DataZ
+one.
+https://github.com/aws-samples/amazon-pinpoint-rds-integration # CloudFormation templates for the "Updating Opt-in Status for Amazon Pinpoint Channels" blog.
+https://github.com/aws-samples/aws-cloudformation-azure-storage-resource-provider #
+https://github.com/aws-samples/aws-kms-cmk-replication-aws-cloudformation # Add functionality to AWS CloudFormation for replicating AWS KMS CMKs.
+https://github.com/aws-samples/aws-systems-manager-default-host-management-configuration # This repo hosts CloudFormation templates related to the AWS Cloud Operations blog post. See README.md f
+or a link to the blog post.
+https://github.com/aws-samples/aws-iam-identity-center-automation # Accelerate AWS IAM Identity Center (successor to AWS Single Sign-On (SSO)) implementation using AWS CDK. This CDK program allo
+ws you to conveniently define your own permission sets and assignments without the need to tediously create your own AWS CloudFormation templates for your AWS IAM Identity Center deployment minimizing the risk of human misconfigurations.
+https://github.com/aws-samples/aws-pipeline-server-side-swift-blog # This code demonstrates how to set up a CI/CD pipeline on AWS for server-side Swift applications. The CloudFormation code sets
+up a CI/CD pipeline that compiles and hosts the Swift application on both EC2 and ECS. This source code is meant to accompany a blog article which describes the pipeline and configuration.
+https://github.com/aws-samples/amazon-fsx-custom-health-metrics # A CloudFormation stack that populates custom filesystem availability metrics to CloudWatch
+https://github.com/aws-samples/aws-cloudformation-sandbox-account-with-automated-budget-enforcement #
+https://github.com/aws-samples/ecs-blue-green-global-deployment-with-multiregion-cmk-codepipeline # Global Blue/Green deployments in multiple regions and accounts for ECS Fargate using AWS Codep
+ipeline and Cloudformation
+https://github.com/aws-samples/automated-image-augmentation-pipeline # This repository provides a deployable solution using Infrastructure-as-Code (IaC) templates to help you set up a serverless
+image augmentation pipeline to generate additional training data from existing images for machine learning use-cases.
+https://github.com/aws-samples/ec2-image-builder-send-approval-notifications-before-sharing-ami # EC2 Image Builder send approval notifications before sharing AMIs
+https://github.com/aws-samples/aws-cdk-in-electron # Build and deploy AWS CDK apps and CFN templates from within Electron
+https://github.com/aws-samples/cloudformation-beegfs-cluster #
+https://github.com/aws-samples/amazon-redshift-disaster-recovery # Guidance on how to restore an Amazon Redshift cluster to a secondary region if the cluster becomes unavailable/unreachable in t
+he primary region.
+https://github.com/aws-samples/aws-cloud-operation-samples # This repository contains a collection of AWS Lambda functions and AWS CloudFormation template samples to perform common Cloud Operati
+ons for services such as: CloudWatch, IAM, RDS and more.
+https://github.com/aws-samples/aws-transit-gateway-igmp-multicast # An AWS CloudFormation template which facilitates a demo of the multicast with IGMP feature of AWS Transit Gateway. This enable
+s service discovery and other multicast-enabled functions in Amazon VPC environments.
+https://github.com/aws-samples/amazon-codeguru-cloudformation-detectors #
+https://github.com/aws-samples/ec2-steampipe # CloudFormation template to provision EC2 instance with steampipe and AWS plugin
+https://github.com/aws-samples/aws-service-catalog-preventive-control # Large enterprises try to find a balance between controlling risk and empowering their developers in alignment with DevOps
+practices.
+Ideally developers are able to leverage AWS services and create optimized architectures for their applications. This solution addresses the risk and empowerment concerns by using AWS Service Catalog to exposed hardened AWS services to developers.
+By leveraging AWS Service Catalog products for each AWS Service; developers can create their own architectures with a self-service experience.
+This solution provides CloudFormation templates to make it easier for developers to automate the provisioning of the Service Catalog products.
+https://github.com/aws-samples/cloudformation-transfer-family-efs-ecs-example # Example project to integrate Amazon ECS, Amazon EFS and AWS Transfer Family
+https://github.com/aws-samples/fargate-game-servers # This repository contains an example solution on how to scale a fleet of game servers on AWS Fargate on Elastic Container Service and route p
+layers to game sessions using a Serverless backend. Game Server data is stored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don't need to manage the underlying virtual machines.
+https://github.com/aws-samples/cloudformation-handle-dynamic-reference-in-awsglue-streaming # This blog explains a solution architecture to handle fast changing reference data stored in DynamoDB
+through an AWS Glue Streaming job
+https://github.com/aws-samples/aws-wickr-data-retention-on-fargate # Sample CloudFormation code to install an AWS Wickr Data Retention bot on AWS Fargate
+https://github.com/aws-samples/amazon-q-in-connect-s3-integration-template # Amazon Q in Connect - S3 Integration Template: Automatically deploy and integrate Amazon Connect with Amazon Q in Con
+nect Knowledge Base using Amazon S3 as its data source. Contact center administrators can quickly and easily manage knowledge content using familiar Amazon S3 actions.
+https://github.com/aws-samples/uipath-rpa-setup-ec2-windows-ami-cloudformation #
+https://github.com/aws-samples/aws-permission-set-assignment-custom-resource # This CDK project provides an example solution of how customers can automate the association of permission sets with
+AWS users and groups to accounts and organizational units (OUs) within an AWS organization using CloudFormation custom resources.
+https://github.com/aws-samples/amazon-location-detected-addresses-to-map # AWS CloudFormation template deploying a Step Functions that leverages Amazon Comprehend and Amazon Location Service. Th
+e Step Functions embeds the generated map in a HTML file which contains markers on the addresses that have been detected into the input text.
+https://github.com/aws-samples/api-gateway-dynamic-publish # CDK project that leverages an OpenAPI definition to define, document and create an Amazon API Gateway deployment. At deploy time, a C
+loudFormation Custom Resource is leveraged to dynamically substitute the Lambda integration function ARNs into the OpenAPI definition file as well as publishing the updated file to an S3 bucket.https://github.com/aws-samples/acmpca-hierarchy # An AWS CloudFormation template for the rapid deployment of a multi-level CA hierarchy and consistent provisioning experience. Optionally use AWS
+Resource Access Manager (AWS RAM) to securely share the CA within your AWS Organizations, centralizing the CA while using the AWS RAM to manage the permissions.
+Optionally use Amazon S3 to store the CRL and access logs.
+https://github.com/aws-samples/amazon-cloudfront-protecting-hls-manifest-with-signed-url # Amazon CloudFront is a content delivery network (CDN) service built for high performance, security, and
+developer convenience. When you deliver streaming with CloudFront, you can use signed URL or signed cookie to protect your streaming from unauthenticated viewers. This CloudFormation template example demonstrates how you can add signed URL into the manifest file by using Lambda@Edge, which can be useful when some of your viewers doesn't support cookies.
+https://github.com/aws-samples/amazon-ecr-kms-replication # In this GitHub repository, we will provide step by step guidance on how to deploy a Amazon CloudFormation (CFN) template to automatica
+lly create all the resources and settings required to enable KMS encryption on Amazon Elastic Container Registry (ECR) with cross-region or cross-account replication
+https://github.com/aws-samples/preserving-client-ip-address-with-proxy-protocol-v2-and-network-load-balancer # CloudFormation templates to accompany the blog post titled Preserving Client IP Add
+ress with Proxy Protocol v2 and Network Load Balancer
+https://github.com/aws-samples/amazon-kendra-faq-refresher #
+https://github.com/aws-samples/aws-iam-identity-center-scim-sync # This repo contains a PowerShell script and AWS CloudFormation templates used to establish a container-based environment to peri
+odically sync Active Directory / LDAP users and groups to AWS IAM Identity Center using SCIM where customers are federating with a service that does not natively support SCIM.
+https://github.com/aws-samples/hpcops-automation # Repo to support the blog HPC Ops - Automate Your HPC Infrastructure with AWS ParallelCluster and AWS CloudFormation
+https://github.com/aws-samples/amazon-rds-proxy-multitenant-load-test # An AWS CloudFormation template that builds, load tests, and compares results of two multi-tenant Amazon Aurora MySQL clust
+ers, one with and one without Amazon RDS Proxy.
+https://github.com/aws-samples/extending-control-tower-network-security # Scaling and extending the network security of a multi-account Control Tower architecture
+https://github.com/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda # Automate your DNS firewall with your own lambda
+https://github.com/aws-samples/aws-systems-manager-automate-updating-patch-baseline-approve-until-date # This repo hosts CloudFormation templates related to the AWS Cloud Operations blog post. S
+ee README.md for a link to the blog post.
+https://github.com/aws-samples/amazon-eventbridge-for-ecr-api-calls # In this GitHub repository, you will get a step by step guidance to deploy an Amazon CloudFormation (CFN) template to automat
+ically create all the resources and settings required to enable SNS Notification for EventBridge Rule API Calls for Elastic Container Registry (ECR) Service.
+https://github.com/aws-samples/amazon-route-53-resolver-firewall-automation-examples-2 # Automate route 53 resolver to filter from an up-to-date domain list
+https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement # With
+Amazon Rekognition Custom Labels, you can easily build and deploy Machine Learn
+ing (ML) models to identify custom objects which are specific to your business domain in images without requiring advanced ML knowledge. When combined with Amazon Augmented AI (A2I), you can quickly integrate a ML workflow to capture and label images with a human workforce for model training. As ML lifecycle is an iterative and repetitive process, you need to implement an effective workflow that can provide for continuous model training with new data and automated deployment. Your workflow also needs to be flexible enough to allow for changes without requiring development rework as your business objectives change. Operationalizing an effective and flexible
+workflow can be resource intensive, especially for customers who have limited machine learning capabilities. In this post, we will use AWS Step Functions,
+AWS Lambda, and AWS System Manager Parameter Store to automate a configurable ML workflow for Rekognition Custom Labels and A2I. We will provide an overview of the solution and instructions to deploy it with AWS CloudFormation.
+https://github.com/aws-samples/ec2-imagebuilder-vmdk-export # CDK stack that contains an event-driven approach to AMI creation, distribution and sharing as well as the exporting of the AMI to vm
+dk format. The project contains a CustomResource Lambda which allows the setting of the targetAccountIds attribute of the EC2 Image Builder AMI distribution settings which is not currently supported in CloudFormation.
+
+https://github.com/awslabs/goformation # GoFormation is a Go library for working with CloudFormation templates.
+https://github.com/awslabs/aws-cfn-template-flip # Tool for converting AWS CloudFormation templates between JSON and YAML formats.
+https://github.com/awslabs/aws-cloudformation-template-builder # aws-cloudformation-template-builder contains cfn-skeleton is a command line tool and Go library that consumes the published Cloud
+Formation specification and generates skeleton CloudFormation templates with mandatory and optional parameters of chosen resource types prefilled with placeholder values.
+https://github.com/awslabs/deeplearning-cfn # Distributed Deep Learning on AWS Using CloudFormation (CFN), MXNet and TensorFlow
+https://github.com/awslabs/aws-cloudformation-iam-policy-validator #
+https://github.com/awslabs/aws-cloudformation-template-formatter # cfn-format is a command line tool and Go library that pretty-prints CloudFormation, adhering to the standards used in AWS docum
+entation.
+https://github.com/awslabs/cloudformation-ldaps-haproxy-template # Configure an LDAPS Endpoint for Simple AD
+https://github.com/awslabs/aws-service-catalog-products # This repository contains a number of CloudFormation templates which can be used independently or as Products with AWS Service Catalog in
+cluding the Open Source Tools AWS Service Catalog Factory and AWS Service Catalog Puppet. The templates include a number of the foundational AWS Services you may choose to manage Account Compliance including AWS Config, AWS CloudTrail and GuardDuty
+https://github.com/awslabs/aws-cloudformation-stacks-graph # Generate a network diagram of the CloudFormation stacks using the import/export dependencies that exist amongst them.
+https://github.com/awslabs/serverless-rules # Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
+https://github.com/awslabs/aws-iot-certificate-vending-machine # The CVM allows a device to apply for its own certificate and installation.
+https://github.com/awslabs/amazon-managed-blockchain-client-templates # AWS CloudFormation templates to provision Amazon EC2 instances and install and configure clients for use with blockchain f
+rameworks in Amazon Managed Blockchain
+https://github.com/awslabs/cloudformation-ldaps-nlb-template # Configure an LDAPS Endpoint for Simple AD
+https://github.com/awslabs/aws-systems-manager-document-generator # A utility to convert your Python or Bash programs into SSM documents (and optionally - CloudFormation templates, containing th
+ose documents).
+https://github.com/awslabs/dynamodb-backup-scheduler # A cloudFormation template - Since DynamoDb backup is ondemand feature - this CF template will help customer to trigger the Lambda code (Pyt
+hon code) in daily basis
+https://github.com/awslabs/aws-cfn-control # AWS-CFN-Control is an interface that provides a way to quickly deploy and redeploy CloudFormation stacks from the command line. The cfnctl command pr
+ovides the core functionality, with several other commands that will find AMI info, get stack status, build CloudFormation mappings, and other features.
+https://github.com/awslabs/aws-refarch-cross-account-pipeline # The Cloudformation Templates guides the users to setup a codepipeline in Account-A, CodeCommit in Account-B and Deployment of a Sa
+mple Lambda in Account-C. Provides a reference for customers to use AWS CodePipeline as a centralized product to enable CI/CD across multiple accounts.
+https://github.com/awslabs/aws-lambda-security-controls # This is a collection of AWS CloudFormation templates which create Lambda functions triggered by CloudWatch Events rule to evaluate AWS A
+PI calls to trigger Amazon Simple Notification Service (Amazon SNS) for notifications.
+https://github.com/awslabs/serverless-automated-ui-testing # This repository will contains HTML and Javascript files for static S3 websites (Test Website & Status page), CodeBuild build specific
+ation, Python script to perform the testing ans CloudFormation template to launch the stack which will be used in a blog post.
+https://github.com/awslabs/aws-customer-churn-pipeline # An End to End Customer Churn Prediction solution using AWS services.
+https://github.com/awslabs/cloudformation-accustom # Accustom is a library for responding to Custom Resources in AWS CloudFormation using the decorator pattern.
+https://github.com/awslabs/clencli # CLENCLI enables you to quickly and predictably create, change, and improve your cloud projects. It is an open source tool that simplifies common tasks that m
+any Cloud engineers have to perform on a daily basis by creating and maintaining the code structure and its documentation always up-to-date.
+https://github.com/awslabs/custom-lookup-lambda # CloudFormation Custom Resource can be leveraged to query AWS DynamoDB via an AWS Lambda function to retrieve the key value pairs, replacing the
+mappings and parameter sections and providing a more automated approach for managing template parameters.
+https://github.com/awslabs/aws-dynamodb-storage-monitor # A Python code (Lambda function) which will help to get storage info all DynamoDB tables in a region and publish that metrics in CloudWat
+ch periodically. A cloudFormation template - Since DynamoDb do not have any storage metrics - this CF template will help customer to trigger the Lambda code (Python code) in every 6 hours to push storage utilization info to cloudWatch
+
+https://github.com/aws/serverless-application-model # The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation tem
+plates.
+https://github.com/aws/aws-toolkit-azure-devops # AWS Toolkit for Azure DevOps
+https://github.com/aws/aws-toolkit-vscode # Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+https://github.com/aws/amazon-keyspaces-cql-to-cfn-converter # Command-line tool for converting Apache Cassandra Query Language (CQL) scripts to AWS CloudFormation (CFN) templates, so Amazon Key
+spaces (for Apache Cassandra) schema can be easily managed in AWS CloudFormation stacks.
+https://github.com/aws/amazon-gamelift-plugin-unity # The Amazon GameLift Plugin for Unity contains libraries and native UI that makes it easier to access GameLift resources and integrate GameLi
+ft into your Unity game. You can use the GameLift Unity Plugin to access GameLift APIs and deploy AWS CloudFormation templates for common gaming scenarios.
+https://github.com/aws/amazon-gamelift-plugin-unreal # The Amazon GameLift Plugin for Unreal contains libraries and native UI that makes it easier to access GameLift resources and integrate Game
+Lift into your Unreal game. You can use the GameLift Unreal Plugin to access GameLift APIs and deploy AWS CloudFormation templates for common gaming scenarios.

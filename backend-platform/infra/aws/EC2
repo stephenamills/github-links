@@ -1,0 +1,256 @@
+https://github.com/aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker # This Guidance shows how to build an Amazon Elastic Compute Cloud (Amazon EC2) Spot placement scor
+e tracker to monitor unused Amazon EC2 Spot Instance capacity.
+https://github.com/aws-solutions-library-samples/guidance-for-automating-ethereum-node-validator-using-graviton-on-aws # In this project, we introduce a AWS Cloud Development Kit (AWS CDK) app t
+hat simplifies the deployment of Rocket Pool on EC2.
+
+https://github.com/build-on-aws/run-kubernetes-clusters-for-less-with-amazon-ec2-spot-and-karpenter # This repo is part of the Run Kubernetes Clusters for Less with Amazon EC2 Spot and Karpenter
+tutorial. It includes the Terraform template to create the cluster, and all the final versions of the Kubernetes manifests used during the tutorial.
+
+https://github.com/aws-samples/ec2-classic-resource-finder # This script enables the identification of resources running in Amazon EC2 Classic
+https://github.com/aws-samples/amazon-ec2-image-builder-samples # Samples for Amazon EC2 Image Builder
+https://github.com/aws-samples/amazon-ec2-gitlab-runner # This repository contains code to deploy and manage Gitlab Runners on Amazon EC2.
+https://github.com/aws-samples/amazon-ec2-auto-scaling-group-examples # This repository contains code samples, learning activities, and best-practices for scaling and elasticity with Amazon EC2
+Auto Scaling groups.
+https://github.com/aws-samples/deploying-unreal-engine-pixel-streaming-server-on-ec2 # Repo contains code and documentation that allows you to deploy Windows-based Unreal Engine 4 Pixel Streamin
+g builds to EC2.
+https://github.com/aws-samples/ec2-spot-interruption-dashboard # This is a sample solution for logging EC2 Spot Instance Interruptions, storing them in CloudWatch and S3, and visualizing them wi
+th a CloudWatch Dashboard and Amazon Athena.
+https://github.com/aws-samples/ec2-auto-scaling-instance-refresh-sample # Sample EC2 Auto Scaling Instance Refresh solution to update an Auto Scaling group when a new AMI is created by EC2 Image
+Builder
+https://github.com/aws-samples/cloud-gaming-on-ec2-instances #
+https://github.com/aws-samples/amazon-eks-jenkins-terraform # These samples focus on Continuous Integration, and contain installation and configuration of Jenkins on Amazon EC2 using Hashicorp T
+erraform (Open Source)
+https://github.com/aws-samples/eks-ec2-clusterapi-gitops #
+https://github.com/aws-samples/amazon-ec2-mac-getting-started # Use Amazon EC2 Mac instances for building, testing, signing, and publishing applications for Apple hardware!
+https://github.com/aws-samples/amazon-ec2-global-dashboard # Monitor how many EC2 instances are running across all regions with a simple dashboard.
+https://github.com/aws-samples/ecs-deep-learning-workshop # Material for re:Invent 2016 - CON314 - Workshop: Deploy a Deep Learning Framework on Amazon ECS and EC2 Spot Instances
+https://github.com/aws-samples/ecs-canary-blue-green-deployment # Example code for demonstrating a canary "blue-green" deployment strategy for use with EC2 Container Service (ECS).
+https://github.com/aws-samples/ecs-machine-learning # An EC2 Container Service Architecture which provides the infrastructure for Deep Learning
+https://github.com/aws-samples/terraform-ec2-image-builder-container-hardening-pipeline # Terraform modules for an EC2 Image Builder Pipeline with an Amazon Linux 2 Baseline Container Recipe, wh
+ich is used to deploy a Docker based Amazon Linux 2 Container Image that has been hardened according to RHEL 7 STIG Version 3 Release 7 - Medium.
+https://github.com/aws-samples/lambda-ecs-worker-pattern # This example code illustrates how to extend AWS Lambda functionality using Amazon SQS and the Amazon EC2 Container Service (ECS).
+https://github.com/aws-samples/deploy-cis-level-1-hardened-ami-with-ec2-image-builder-pipeline #
+https://github.com/aws-samples/amazon-cloudwatch-auto-alarms # Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and cust
+om CloudWatch Metrics.
+https://github.com/aws-samples/aws-codepipeline-custom-action # Amazon EC2 build environments with AWS CodePipeline and custom actions
+https://github.com/aws-samples/ec2-data-science-vim-tmux-zsh # A simple template to set up basic Vim, Tmux, Zsh for the Deep Learning AMI Amazon Linux 2 for data scientists.
+https://github.com/aws-samples/nvidia-omniverse-nucleus-on-amazon-ec2 # Deploying NVIDIA Omniverse Nucleus on Amazon EC2
+https://github.com/aws-samples/ec2-cluster-for-unreal-swarms #
+https://github.com/aws-samples/ec2-former2 # EC2 instance running Former2 for generating IaC scripts from existing AWS resources with temporary security credentials
+https://github.com/aws-samples/ecs-cid-sample # In this code provided with the blog, we will demonstrate how to use the draining state to update the AMI used by EC2 instances in your cluster by
+updating the launch configuration of your auto-scaling group. The process also ensures that the EC2 instances get the tasks drained the tasks launch on new container instance before termination occurs.
+https://github.com/aws-samples/vscode-on-ec2-for-prototyping # This repository introduces how to access and use VSCode hosted on EC2 from a browser. The connection is made via Session Manager, s
+o IAM permissions are used for authentication. The access destination will be localhost.
+https://github.com/aws-samples/build-and-deploy-docker-images-to-aws-using-ec2-image-builder #
+https://github.com/aws-samples/amazon-autoscaling-mac1metal-ec2-with-terraform #
+https://github.com/aws-samples/single-ec2-cdk #
+https://github.com/aws-samples/amazon-ec2-nice-dcv-samples # AWS CloudFormation templates to provision Linux or Windows EC2 instances with GUI running NICE DCV remote display server. Includes op
+tion to install GPU drivers
+https://github.com/aws-samples/ec2-lamp-server # CloudFormation (IaC) template to provision EC2 instance with PHP, Apache/Nginx and MySQL/MariaDB/PostgreSQL
+https://github.com/aws-samples/ec2-spot-for-folding-at-home #
+https://github.com/aws-samples/aws-ec2-mediaconvert #
+https://github.com/aws-samples/aws-deploy-spinnaker-halyard # AWS CloudFormation templates and scripting around launching an EKS cluster to run Spinnaker. The Spinnaker installation will allow f
+or EC2 and EKS deployments.
+https://github.com/aws-samples/ec2-flexibility-score-dashboard # EC2 Flexibility Score assesses any configuration used to launch instances through an Auto Scaling Group (ASG) against the recomme
+nded EC2 best practices. It converts the best practice adoption into a “flexibility score” that can be used to identify, improve, and monitor the configurations.
+https://github.com/aws-samples/aws-cfn-save-costs-auto-start-stop-ec2 # Automate Start and Stop of Amazon EC2 Instances to Save costs
+https://github.com/aws-samples/unity-aws-ec2-mac-build-farm #
+https://github.com/aws-samples/ec2-forensic-module-factory #
+https://github.com/aws-samples/amazon-ec2-compute-fleet-optimizer #
+https://github.com/aws-samples/cdk-image-pipeline # L3 construct that can be used to quickly deploy a complete EC2 Image Builder Image Pipeline
+https://github.com/aws-samples/search-ec2-instances-export-tags #
+https://github.com/aws-samples/mac1-eks-jenkins # This project allows you to provision a mac1 EC2 instance with Jenkins and EKS.
+https://github.com/aws-samples/aws-lex-net-chatbot # The ASP.NET Core ChatBot application featured here allows you to order flowers using Amazon Lex. The application is built with C#, AWS .NET S
+DK, and AWS Toolkit for Visual Studio and is deployed on Amazon EC2.
+https://github.com/aws-samples/inventory-management-for-amazon-ec2 # Inventory Management for amazon EC2 Demo CDK
+https://github.com/aws-samples/amazon-ec2-aws-security-hub-event-monitoring #
+https://github.com/aws-samples/amazon-ec2-mac-instance-jenkins-agent # This sample contains the example mobile application for the blog post "Unify your iOS mobile app CI/CD pipeline with Amazon
+EC2 Mac Instances" by Benjamin Meyer. It also contains a CDK to set up a jenkins and jenkins agent as explained in the blog post.
+https://github.com/aws-samples/jenkins-unity-build-on-aws # Build Unity mobile apps on AWS
+https://github.com/aws-samples/aws-vt-baseami-pipeline # AWS EC2/ECS/EKS reference AMI build scripts using packer.
+https://github.com/aws-samples/aws-inferentia-huggingface-workshop # CMP314 Optimizing NLP models with Amazon EC2 Inf1 instances in Amazon Sagemaker
+https://github.com/aws-samples/aws-systemsmanagerautomation-with-asglifecyclehooks # CloudFormation template using Amazon EC2 Auto Scaling Lifecycle Hooks to perform any desired actions before t
+erminating the instance within the Auto Scaling group.
+https://github.com/aws-samples/amazon-ec2-demo-with-node-express #
+https://github.com/aws-samples/blue-green-deployment-pipeline-for-efs # Blue/Green deployment with AWS Developer tools on Amazon EC2 using Amazon EFS to host application source code
+https://github.com/aws-samples/stepfunctions-lambda-ec2-ssm # This repo holds the stepfunction workflow for creating EC2 instance and execute remote powershell script for configuration of EC2 us
+ing Systems Manager (Run Command)
+https://github.com/aws-samples/aws-waf-ipset-auto-update-aws-ip-ranges # This project creates two regional WAF IP sets and automatically updates them with AWS service's IP ranges from the ip-ran
+ges.json file. The ranges are configurable as well as the regions for EC2 ranges. Use cases include allowing CloudFront requests, Route53 health checker and EC2 IP range (which includes AWS Lambda and CloudWatch Synthetics).
+https://github.com/aws-samples/amazon-ec2-nice-dcv-semiconductor-wafer-data # Analyze WM811K wafer data using MATLAB and NICE DCV on AWS.
+https://github.com/aws-samples/apache-rocketmq-on-aws # This solution provide
+an easy to set up Apache Rocketmq ec2 cluster on aws account
+https://github.com/aws-samples/secured-bastion-host-terraform # This project provides and example of how you can use the combination of AWS Systems Manager Session Manager and Amazon EC2 Instanc
+e Connect to securely connect to an Amazon Elastic Compute Cloud (Amazon EC2) bastion host without exposing any inbound ports to the public internet or using long-lived SSH keys.
+https://github.com/aws-samples/aws-codedeploy-linear-canary-deployments-blog # AWS CodeDeploy has extended blue/green deployment support for Elastic Container Service (Amazon ECS) to include can
+ary and linear deployments for applications hosted on AWS Fargate or Amazon Compute Cloud (Amazon EC2).
+https://github.com/aws-samples/aws-scalable-big-blue-button-example # Demonstration of how to deploy a scalable video conference solution based on Big Blue Button
+https://github.com/aws-samples/aws-ebs-custodian # The EBS Snapshot Custodian provides a full life cycle management of EBS Snapshots. It manages the creation and deletion of old EBS Snapshots. T
+he Solution uses Amazon DynamoDB, Amazon Lambda, CloudWatch Events and of course EC2.
+https://github.com/aws-samples/ec2-image-builder-pipeline-notification-and-integration #
+https://github.com/aws-samples/ec2-imagebuilder-secure-proxy # CDK stack with an EC2 Image Builder component that installs a NGINX proxy which performs wss:// to tcp:// protocol conversion and J
+WT token validation.
+https://github.com/aws-samples/ec2-imagebuilder-ami-share # CloudFormation template and CDK stack that contains a CustomResource with Lambda function to allow the setting of the targetAccountIds
+attribute of the EC2 Image Builder AMI distribution settings which is not currently supported (as of October 2021) in CloudFormation or CDK.
+https://github.com/aws-samples/inspector-ami-scanning-solution # Repo for AWS EC2 AMI automated scanning solution using Amazon Inspector
+https://github.com/aws-samples/aws-ecs-scheduled-tasks # Provides you sample code on how to use scheduled tasks (cron) feature in Amazon EC2 Container Service, and how it integrates with CloudWa
+tch events while leveraging Spot fleet cluster for Cost efficient ECS cluster use.
+https://github.com/aws-samples/amazon-ec2-instance-type-upgrade-scheduler #
+https://github.com/aws-samples/amazon-ec2-mac-mdm-enrollment-automation # enroll-ec2-mac is a script to automatically enroll Amazon EC2 Mac instances into MDM. API calls for Jamf Pro are include
+d, as are templates for credential setup.
+https://github.com/aws-samples/private-eks-for-windows-workloads-with-terraform # This repository provides a Terraform implementation that deploys an Amazon EKS cluster in a private VPC and depl
+oys Windows and Linux worker nodes into the cluster.
+https://github.com/aws-samples/aws-elastic-beanstalk-hardened-security-cdk-sample # This is an open-source sample of a CDK script which deploys an Elastic Beanstalk application with a hardened s
+ecurity configuration, it accompanies this blogpost: https://aws.amazon.com/blogs/security/hardening-the-security-of-your-aws-elastic-beanstalk-application-the-well-architected-way/
+https://github.com/aws-samples/mgn-server-migration-demo # CloudFormation template and demo instructions on how to migrate a web server to a new EC2 instance using Application Migration Service
+(MGN).
+https://github.com/aws-samples/amazon-ec2-hpc-automation-samples # AWS HPC-based samples
+https://github.com/aws-samples/fpga-ec2-f1-workshop # This is the content repository for the public workshop
+https://github.com/aws-samples/amazon-ec2-running-apache-cloudstack #
+https://github.com/aws-samples/content-creation-workstation # Deploy Teradici Cloud Access Software on either CentOS 7 or Windows Server 2019 GPU-Enabled EC2 instances. The sample also provides
+the ability to provision Client VPN Endpoint if elected during deployment.
+https://github.com/aws-samples/aws-graviton-ml-inference-apache-tvm-example # Learn how to run ML inference on EC2 (Graviton | arm64) using Apache TVM (TVMC)
+https://github.com/aws-samples/ec2-spot-interrupter-cli # A CLI tool to simulate EC2 Spot Instances interruptions using AWS Fault Injection Simulator.
+https://github.com/aws-samples/aws-do-docker # AWS DevOps for Docker - a sample project to help you build Docker containers and run them on AWS. In addition to running locally,
+this project can
+run your container on EC2, ECS, EKS, AWS Batch, and AWS Lambda.
+https://github.com/aws-samples/amazon-ec2-mac-jamf-autoenrollment #
+https://github.com/aws-samples/ec2-imagebuilder-ami-lifecycle #
+https://github.com/aws-samples/ec2-mac-remote-dev-env # This repository contains the code for the AWS Compute Blog Post "Setting up EC2 Mac instances as shared remote development environments"
+https://github.com/aws-samples/ec2-topology-aware-for-slurm #
+https://github.com/aws-samples/cloud-builders-day-elastic-beanstalk-workshop # The objective of Cloud Builders' Day repository is to provide do-it-yourself lab guides for several AWS services in
+cluding but not limited to EC2, S3, DynamoDB, VPC, Elastic Beanstalk, IoT Core & SageMaker.
+https://github.com/aws-samples/amazon-timestream-telegraf-and-grafana-demo # The purpose of this repository is to demo how to ingest time series data in this case Amazon EC2 instance metrics suc
+h as CPU, Memory, Disk into Amazon Timestream.
+https://github.com/aws-samples/dynamic-ec2-budget-control #
+https://github.com/aws-samples/ec2-setup-for-prototyping #
+https://github.com/aws-samples/amazon-ec2-auto-scaling-azure-pipelines-agents #
+https://github.com/aws-samples/add-policy-to-ec2-role # This project creates Lambda function that automatically add required AWS Identity and Access Management (IAM) policies to current Amazon E
+lastic Compute Cloud (Amazon EC2) instance profiles or associate a profile to EC2 instances without a profile associated.
+https://github.com/aws-samples/logging-monitoring-apg-guide-examples # The CloudFormation templates included in this repository are intended to assist you in configuring and installing Amazon Cl
+oudWatch and AWS X-Ray for on premises servers, Amazon EC2, Amazon ECS, and Amazon EKS. Templates are also provided for deploying ECS and EKS clusters and services with Amazon CloudWatch preconfigured.
+https://github.com/aws-samples/aws-integration-for-apache-guacamole # An AWS automation to integrate with Apache Guacamole. This solution use Eventbridge Rules and Lambda Functions to detect EC2
+events in the VPC and create or remove connections in the Guacamole
+https://github.com/aws-samples/aws-ab-util # AWS AB Util is a CLI utility tool to manage the deployment and execution of distributed load test with AB (Apache Bench) using AWS SSM and Amazon EC2
+.
+https://github.com/aws-samples/cloud-gaming-on-ec2-using-steam # Deploy a Windows Server instance pre-configured with Steam gaming platform.
+https://github.com/aws-samples/aws-greengrass-ec2-device-farm # Deploys a heterogeneous fleet of AWS IoT Greengrass core devices as Amazon EC2 instances
+https://github.com/aws-samples/ec2RuntimeMonitor # EC2 runtime monitor is a serverless solution to get a notification when an EC2 instance is running for a time exceeding a user defined threshol
+d.
+https://github.com/aws-samples/ec2-image-builder-send-approval-notifications-before-sharing-ami # EC2 Image Builder send approval notifications before sharing AMIs
+https://github.com/aws-samples/eks-jumphost # Terraform module to create an EC2 instance used as a jumphost to interact with a private EKS cluster.
+https://github.com/aws-samples/stable-diffusion-on-ec2-jumpstart #
+https://github.com/aws-samples/amazon-ec2-cloudwatch-alarms-sls #
+https://github.com/aws-samples/amazon-ec2-ami-billing-report #
+https://github.com/aws-samples/amazon-ec2-monitoring-with-prometheus #
+https://github.com/aws-samples/ec2-steampipe # CloudFormation template to provision EC2 instance with steampipe and AWS plugin
+https://github.com/aws-samples/amazon-ec2-auto-scaling-windows-best-practices #
+https://github.com/aws-samples/ec2-instance-list-with-ssm-and-lambda #
+https://github.com/aws-samples/ec2-imagebuilder-vmdk-export # CDK stack that contains an event-driven approach to AMI creation, distribution and sharing as well as the exporting of the AMI to vm
+dk format. The project contains a CustomResource Lambda which allows the setting of the targetAccountIds attribute of the EC2 Image Builder AMI distribution settings which is not currently supported in CloudFormation.
+https://github.com/aws-samples/sqs-ec2-graviton-spot # This repo is used in the AWS Well-Architected Sustainability workshop in oder to showcase the Event-driven architecture with AWS Graviton P
+rocessors and Amazon EC2 Spot Instances lab
+https://github.com/aws-samples/automatic-copy-ec2-from-one-region-to-another-through-ami # Shell script that automates copy EC2s from one region to another through AMI.
+https://github.com/aws-samples/aws-pipeline-server-side-swift-blog # This code demonstrates how to set up a CI/CD pipeline on AWS for server-side Swift applications. The CloudFormation code sets
+up a CI/CD pipeline that compiles and hosts the Swift application on both EC2 and ECS. This source code is meant to accompany a blog article which describes the pipeline and configuration.
+https://github.com/aws-samples/microsoft-on-aws-adventure-game #
+https://github.com/aws-samples/elastic-beanstalk-image-pipeline-trigger # Demonstrates how to detect when an Elastic Beanstalk platform's base AMI has been updated and starts an EC2 Image Builde
+r Pipeline to automate the creation of a golden image.
+https://github.com/aws-samples/spot-interruption-simulation # This repository has sample that provides end to end automation of EC2 Spot Interruption simulation with application availability tes
+ting during Spot interruption.
+https://github.com/aws-samples/nextcloud-server # Nextcloud server on EC2 with S3 primary object storage and AWS Backup data protection, with option to mount existing S3 bucket
+https://github.com/aws-samples/unified-log-aggregation-and-analytics # The proposed solution shows and approach to unify and centralize logs across different compute platforms like EC2, ECS, EKS
+and Lambda with Kinesis Data Firehose using log collection agents (EC2 Kinesis agent), log routers (Fluentbit and Firelens) and lambda extension. We can easily deploy the solution presented here on the customer site using the CDK scripts packaged part of this article. Amazon managed Elastic search with Kibana is used to visualize the logs collected across different applications running on different compute platforms.
+https://github.com/aws-samples/code-server-setup-with-cloudformation # Provide a CloudFormation template to setup a code server running on a EC2 instance and expose via a CloudFront distribution
+.
+https://github.com/aws-samples/aws-log-shipping-from-onprem-ec2-to-rds-sql-server #
+https://github.com/aws-samples/secure-ad-creds-join-unjoin-domain # A sample solution to automate domain join and unjoin process for EC2 Instances with no internet access. The solution uses AWS
+Secrets Manager to secure the Active Directory credentials and AWS VPC endpoint for accessing the AWS service endpoints used in the solution.
+https://github.com/aws-samples/ec2-outposts-autorestart #
+https://github.com/aws-samples/aws-autonomous-driving-data-lake-ros-bag-visualization-using-rviz # Sample application to deploy an EC2 instance with VNC and ROS tooling installed including RVIZ
+to visualize your bag files in S3
+https://github.com/aws-samples/ec2autoscaling-launchconfiguration-to-launchtemplate #
+https://github.com/aws-samples/aws-ec2-statuscheck-failures-logging #
+https://github.com/aws-samples/ec2-instance-profile-replacement-lambda #
+https://github.com/aws-samples/ec2-asg-memory-metric-sample #
+https://github.com/aws-samples/aws-ec2-windows-ebs-volumes-monitoring #
+https://github.com/aws-samples/blogpost-thirdparty-access-on-private-ec2 #
+https://github.com/aws-samples/automated-ec2-isolation-for-incident-response # This sample demonstrates how to automatically implement incident response for Amazon EC2 instance isolation using P
+ython CDK. This sample is an extension of the following blogpost:
+https://github.com/aws-samples/amazon-emr-yarn-capacity-scheduler # Configure Hadoop YARN CapacityScheduler on Amazon EMR on Amazon EC2 for multi-tenant heterogeneous workloads
+https://github.com/aws-samples/uipath-rpa-setup-ec2-windows-ami-cloudformation #
+https://github.com/aws-samples/cost-guardian-workshop-ec2-cost-canary-lab #
+https://github.com/aws-samples/auto-start-stop-amazon-ec2-dedicated-host #
+https://github.com/aws-samples/ec2-ami-windows-with-ansible-n-packer #
+https://github.com/aws-samples/remote-debugging-with-emr # A Python-based CDK stack that deploys an EC2 bastion host and EMR Serverless and EMR on EKS environments configured for remote debuggin
+g.
+https://github.com/aws-samples/using-EC2-build-Krita-with-ComfyUI-practice #
+https://github.com/aws-samples/aws-blog-integrate-administrator-approval-ec2imagebuilder-awssystemmanager #
+https://github.com/aws-samples/aws-cdk-drs-agent-installer # This project provides a set of examples for installing the AWS Elastic Disaster Recover agent to EC2 instances within an AWS environm
+ent
+https://github.com/aws-samples/use-tags-for-tracking-ec2-with-aws-license-manager #
+https://github.com/aws-samples/aws-cloud9-auto-root-volume-resize # Automatic root volume resizing for EC2 instance-based Cloud9 environments.
+https://github.com/aws-samples/aws-auto-create-ami-for-asg # The code is used for a CI/CD pipeline which updates an auto scaling group of EC2 instances and creates an AMI of this instances. Than
+a new launch template version is created with this AMI.
+https://github.com/aws-samples/eks_gpu_and_trainuim_perceiver_io_training # This example shows how to produce multimodal videos with audio using the Kinetics dataset on AWS Trainium and EC2 GPU
+orchestrated by EKS and launched by Karpenter
+https://github.com/aws-samples/eks-node-group-with-warm-pool # How to add warm pools for Amazon EC2 Auto Scaling to self-managed node groups in Amazon Elastic Kubernetes Service
+https://github.com/aws-samples/systems-manager-continuous-deployment-automox # Using a combination of Systems Manager State Manager, State Manager Associations, AWS Secrets Manager, and an SSM D
+ocument, you can install Automox on Systems Manager Managed EC2 Instances and ensure installation of Automox on all new instances, in an account.
+https://github.com/aws-samples/ssm-session-manager-limiting-concurrent-sessions # The purpose of this project is to allow System Administrators to limit active concurrent Session Manager (SSM) s
+essions. This application uses TypeScript to configure the iAM Policy and Session Manager Preferences; The SSM Preferences include Windows and Linux Shell Profiles which run on the EC2 instance every time a new SSM session is started. Once these scripts execute, they check if concurrent session have been exceeded and terminates the oldest session.
+https://github.com/aws-samples/cluster-amazon-elastic-compute-cloud-amazon-fsx-microsoft-sql-server # The included terraform module provisions SQL Server Failover Cluster Instances (FCI) across
+Windows Server Failover Clustering (WSFC) nodes on Amazon EC2 with an Amazon FSx for Windows File Server (Amazon FSx) share acting as the quorum witness and storing shared data and log files.
+
+https://github.com/awslabs/ec2-spot-labs # Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
+https://github.com/awslabs/ec2-spot-workshops # Collection of workshops to demonstrate best practices in using Amazon EC2 Spot Instances. https://aws.amazon.com/ec2/spot/
+https://github.com/awslabs/ec2-spot-jenkins-plugin # The EC2 Spot Jenkins plugin launches EC2 Spot instances as worker nodes for Jenkins CI server, automatically scaling the capacity with the lo
+ad.
+https://github.com/awslabs/aws-ec2rescue-linux # Amazon Web Services Elastic Compute Cloud (EC2) Rescue for Linux is a python-based tool that allows for the automatic diagnosis of common problem
+s found on EC2 Linux instances.
+https://github.com/awslabs/aws-fpga-app-notes # Application notes for the F1 EC2 Instance
+https://github.com/awslabs/aws-simple-ec2-cli # A CLI tool that simplifies the process of launching, connecting and terminating an EC2 instance.
+https://github.com/awslabs/hids-cloudwatchlogs-opensearch-template # Monitor Host-Based Intrusion Detection System Alerts on Amazon EC2 Instances
+https://github.com/awslabs/ec2-migrate-longer-id # The code opts the entire account in to the longer id format for ec2 resources in each region with a single request. It will also print status a
+nd revert to shorter ids in case of problems.
+https://github.com/awslabs/aws-c-s3 # C99 library implementation for communicating with the S3 service, designed for maximizing throughput on high bandwidth EC2 instances.
+https://github.com/awslabs/amazon-inspector-auto-remediate # Lambda job in Python to automatically patch EC2 instances when an inspector assessment generates a CVE finding
+https://github.com/awslabs/amazon-inspector-agent-autodeploy # Lambda job in Python to automatically deploy Inspector agent to newly-launched EC2 instances
+https://github.com/awslabs/ec2-spot-fleet-bamboo-plugin # Plugin for Atlassian Bamboo, a continuous integration (CI) tool. The plugin allows users to associate an EC2 Spot Fleet with Bamboo to c
+omplete tasks as a part of the CI process.
+https://github.com/awslabs/amazon-managed-blockchain-client-templates # AWS CloudFormation templates to provision Amazon EC2 instances and install and configure clients for use with blockchain f
+rameworks in Amazon Managed Blockchain
+https://github.com/awslabs/aws-service-catalog-enforce-template-constraints # Lambda function to freeze EC2 instance creation to t2.medium/small for Service Catalog portfolios
+https://github.com/awslabs/aws-image-builder-document-generator # EC2 Image Builder Component Document Generator. A PowerShell module to convert your Bash and PowerShell scripts into EC2 Image B
+uilder Component Documents.
+https://github.com/awslabs/ec2-classic-mirror # ClassicLink Mirror is an automation tool that assists with an in-progress migration of your EC2 resources from EC2-Classic to a VPC.
+https://github.com/awslabs/cwe-monitor-secgrp # This CloudWatch Events rule Lambda function evaluates AWS API calls that change Amazon EC2 security group ingress rules. The function flags rules
+that violate a preconfigured policy.
+https://github.com/awslabs/amazon-kinesis-scaling-utils # The Kinesis Scaling Utility is designed to give you the ability to scale Amazon Kinesis Streams in the same way that you scale EC2 Auto
+Scaling groups – up or down by a count or as a percentage of the total fleet. You can also simply scale to an exact number of Shards. There is no requirement for you to manage the allocation of the keyspace to Shards when using this API, as it is done automatically.
+
+https://github.com/aws/aws-node-termination-handler # Gracefully handle EC2 instance shutdown within Kubernetes
+https://github.com/aws/amazon-ec2-instance-selector # A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
+https://github.com/aws/aws-fpga # Official repository of the AWS EC2 FPGA Hardware and Software Development Kit
+https://github.com/aws/amazon-ec2-metadata-mock # A tool to simulate Amazon EC2 instance metadata
+https://github.com/aws/aws-ec2-instance-connect-cli # This is an all-in-one client for EC2 Instance Connect that handles key brokerage and establishing connection to EC2 Instances through an int
+erface near-identical to standard system ssh, sftp, and other utilities.
+https://github.com/aws/amazon-ssm-agent # An agent to enable remote management of your EC2 instances, on-premises servers, or virtual machines (VMs).
+https://github.com/aws/ec2-macos-init # EC2 macOS Init is the launch daemon used to initialize Mac instances within EC2.
+https://github.com/aws/aws-ec2-instance-connect-config # This is the ssh daemon configuration and necessary EC2 instance scripting to enable EC2 Instance Connect. Also included is various packag
+e manager configurations for packaging for various Linux distributions.
+https://github.com/aws/aws-graviton-getting-started # Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 inst
+ances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g[d][n], M7g[d], R7g[d], R8g).
+https://github.com/aws/amazon-ec2-spot-interrupter # The ec2-spot-interrupter is a simple CLI tool that triggers Amazon EC2 Spot Interruption Notifications and Rebalance Recommendations.
+https://github.com/aws/amazon-ec2-hibinit-agent #
+https://github.com/aws/aws-ofi-nccl # This is a plugin which lets EC2 developers use libfabric as network provider while running NCCL applications.
+https://github.com/aws/homebrew-aws # Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Fo
+rmulae that are used in the macOS AMI that AWS offers.
+https://github.com/aws/aws-parallelcluster-node # aws-parallelcluster-node is the python package installed on the Amazon EC2 instances launched as part of AWS ParallelCluster
+https://github.com/aws/ec2-image-builder-roadmap # Public Roadmap for EC2 Image Builder.
+https://github.com/aws/aws-sdk-php-zf2 # ZF2 module for using the AWS SDK for PHP to interact with AWS services like S3, DynamoDB, SQS, EC2, etc.
+https://github.com/aws/ec2-macos-system-monitor # Amazon EC2 System Monitor for macOS is the on instance agent that provides basic CloudWatch metrics like CPU Utilization.
+https://github.com/aws/ec2-macos-utils # Amazon EC2 macOS Utils provides common commands for Mac instances.
+https://github.com/aws/aws-nitro-enclaves-acm # AWS Certificate Manager for Nitro Enclaves allows the use of public and private SSL/TLS certificates with web applications and web servers running
+on Amazon EC2 instances with AWS Nitro Enclaves.
+https://github.com/aws/aws-ec2-imdsv2-get # EC2 imds get tool to help with interfacing with IMDS on EC2 instances

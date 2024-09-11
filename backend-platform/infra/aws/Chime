@@ -1,0 +1,69 @@
+https://github.com/aws-samples/amazon-chime-sdk # This repository contains samples intended to demonstrate different use cases for the Amazon Chime SDK (JavaScript, iOS, Android, React, Messagin
+g and Telephony)
+https://github.com/aws-samples/amazon-chime-sdk-recording-demo #
+https://github.com/aws-samples/amazon-chime-sdk-classroom-demo #
+https://github.com/aws-samples/amazon-chime-live-events # An interactive broadcasting experience using Amazon Chime and AWS Elemental
+https://github.com/aws-samples/amazon-chime-react-native-demo # A React Native demo application for Android and iOS using the Amazon Chime SDK.
+https://github.com/aws-samples/amazon-chime-media-capture-pipeline-demo #
+https://github.com/aws-samples/amazon-chime-sdk-amazon-connect-integration-demo # Amazon Chime SDK and Amazon Connect Integration Demo
+https://github.com/aws-samples/amazon-chime-sdk-click-to-call #
+https://github.com/aws-samples/amazon-chime-private-bot-demo # Amazon Chime integration with Amazon Connect, Amazon Lex, and AWS Lambda.
+https://github.com/aws-samples/amazon-chime-sdk-flutter-demo # A Flutter demo application for Android and iOS using the Amazon Chime SDK.
+https://github.com/aws-samples/amazon-chime-sdk-meetings-breakout-rooms #
+https://github.com/aws-samples/amazon-ivs-chime-messaging-ugc-demo # This demo is designed to educate people who want to build live streaming platform with chatting feature. This demo is impleme
+nted using Amplify with Amazon IVS, ChimeSDK Messaging.
+https://github.com/aws-samples/amazon-chime-voice-connector-for-sip-trunking #
+https://github.com/aws-samples/amazon-chime-sdk-aws-appsync-sample # This sample demonstrates the use of the Chime SDK React components together with an AppSync local resolver implemented with t
+he "None" data source to provide GraphQL mutation driven subscription notifications without being backed by a persistent data store. It is a simple video chat React UI built and deployed using the AWS CDK.
+https://github.com/aws-samples/chime-voiceconnector-agent-assist #
+https://github.com/aws-samples/amazon-chime-sdk-pstn-integration #
+https://github.com/aws-samples/building-with-amazon-chime #
+https://github.com/aws-samples/amazon-chime-sdk-smart-video-sending-demo # This demo showcases how to show the most recent 16 attendees' video when more than 16 attendees have enabled videos usi
+ng the Amazon Chime SDK
+https://github.com/aws-samples/amazon-chime-sdk-js-device-demo # The device demo showcases a minimal app that can run in various hardware environments.
+https://github.com/aws-samples/amazon-chime-sma-bridging #
+https://github.com/aws-samples/amazon-chime-sdk-call-analytics-recorder #
+https://github.com/aws-samples/aws-news-feed-chime-webhook # Serverless app which picks RSS feed of "Whats new" and publishes to an Amazon Chime room using a webhook URL.
+https://github.com/aws-samples/chime-live-translation-transcription-polly # WebApp Proof of Concept - Live Translation + Polly
+https://github.com/aws-samples/amazon-chime-sma-call-forwarding #
+https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex #
+https://github.com/aws-samples/delivery-driver-app-demo # A simple website that demonstrates Amazon Chime proxy phone sessions
+https://github.com/aws-samples/amazon-chime-pstn-audio-with-amazon-lex-ivr #
+https://github.com/aws-samples/amazon-chime-sdk-meetings-with-amplify #
+https://github.com/aws-samples/amazon-chime-sdk-voice-voice-translator #
+https://github.com/aws-samples/amazon-chime-sdk-lex-pstn-demo #
+https://github.com/aws-samples/amazon-chime-voice-connector-automated-cdr-transformation # Automating the Transformation and Rating of CDR JSON from Amazon Chime Voice Connector
+https://github.com/aws-samples/amazon-chime-voiceconnector-cdr-processing #
+https://github.com/aws-samples/amazon-chime-sdk-pstn-audio-voice-focus #
+https://github.com/aws-samples/amazon-chime-sdk-multi-meeting-management #
+https://github.com/aws-samples/amazon-chime-sa-tools # A collection of sample scripts and templates developed for Amazon Chime customers.
+https://github.com/aws-samples/amazon-chime-proxy-sessions-demo #
+https://github.com/aws-samples/amazon-chime-sma-update-call #
+https://github.com/aws-samples/amazon-chime-sdk-notebooks #
+https://github.com/aws-samples/amazon-chime-sma-on-demand-recording #
+https://github.com/aws-samples/amazon-chime-voice-connector-automated-reports # This sample project enriches Amazon Chime Voice Connector CDR records with the total cost of the phone call and al
+lows you to visualize the daily, weekly and monthly costs through AWS QuickSight.
+https://github.com/aws-samples/amazon-chime-sdk-meeting-summarizer #
+https://github.com/aws-samples/aws-blogs-feed # The serverless app picks RSS feed of new blogs published and publishes a summary and link to a chime room using webhook URL.
+https://github.com/aws-samples/amazon-chime-sma-outbound-call-notifications #
+https://github.com/aws-samples/amazon-chime-sdk-meetings-load-test #
+https://github.com/aws-samples/amazon-chime-sdk-sma-meeting-dialer #
+https://github.com/aws-samples/amazon-chime-sdk-call-analytics-real-time-summarizer #
+https://github.com/aws-samples/amazon-chime-sdk-call-analytics-producer #
+https://github.com/aws-samples/chimesdk-sip-voicebot #
+https://github.com/aws-samples/amazon-chime-sdk-pstn-cdk #
+https://github.com/aws-samples/amazon-chime-sdk-media-streams #
+https://github.com/aws-samples/amazon-chime-sdk-ml #
+https://github.com/aws-samples/amazon-chime-sdk-lex-lambda #
+https://github.com/aws-samples/amazon-chime-sdk-pstn-provider #
+https://github.com/aws-samples/amazon-chime-voice-connector-cloudwatch-dashboard #
+
+https://github.com/aws/amazon-chime-sdk-component-library-react # Amazon Chime React Component Library with integrations with the Amazon Chime SDK.
+https://github.com/aws/amazon-chime-sdk-js # A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.
+https://github.com/aws/amazon-chime-sdk-ios # An iOS client library for integrating multi-party communications powered by the Amazon Chime service.
+https://github.com/aws/amazon-chime-sdk-android # An Android client library for integrating multi-party communications powered by the Amazon Chime service.
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretMan
+ager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+https://github.com/aws/amazon-chime-sdk-cpp #
+https://github.com/aws/amazon-chime-sdk-ios-spm #
+https://github.com/aws/amazon-chime-sdk-ios-no-video-codecs-spm #

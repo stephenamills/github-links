@@ -1,0 +1,14 @@
+https://github.com/aws-samples/vpn-gateway-strongswan # AWS CloudFormation template to deploy the open source strongSwan VPN solution to act as a VPN gateway in support of site-to-site VPN connections.
+https://github.com/aws-samples/aws-site-to-site-vpn-private-ip-vpn #
+https://github.com/aws-samples/aws-ncsc-vpn-configurations #
+https://github.com/aws-samples/aws-transit-gateway-static-vpn-ha # Solution to provide automatic failover for Static VPNs on AWS Transit Gateway using AWS Lambda function.
+https://github.com/aws-samples/biotech-blueprint-multi-account # The AWS Biotech Blueprint Multi Account is a landing zone for life sciences startups looking to build well architected research environments in the cloud. This CDK based solution creates the infrastructure as code to manage security, identity, and networking across 10s or 100s of accounts.
+https://github.com/aws-samples/amazon-s3-gateway-endpoint-proxy # Use S3 Gateway Endpoint from eg: VPN, DirectConnect and VPC Peering.
+https://github.com/aws-samples/content-creation-workstation # Deploy Teradici Cloud Access Software on either CentOS 7 or Windows Server 2019 GPU-Enabled EC2 instances. The sample also provides the ability to provision Client VPN Endpoint if elected during deployment.
+https://github.com/aws-samples/aws-glue-with-s2s-vpn #
+https://github.com/aws-samples/aws-vpc-builder-cdk # Using a configuration file alone, deploy complex AWS Network Architectures using the AWS CDK to learn from and explore!
+https://github.com/aws-samples/aws-cdk-simulated-vpn #
+https://github.com/aws-samples/aws-elastic-disaster-recovery-with-aws-site-to-site-vpn # This project shows how to set up AWS Elastic Disaster Recovery (DRS) using an AWS Site-To-Site VPN connection between a simulated on-premise environment and an AWS VPC.
+
+https://github.com/awslabs/aws-vpn-migration-scripts # AWS VPN Migration scripts that provide a simple way to migrate from a Classic VPN to an AWS VPN connection, using public APIs.
+https://github.com/awslabs/aws-vpn-controller # The AWS VPN Controller allows you to create and delete AWS VPNs and connect them to your VPCs using Kubernetes Custom Resource Definitions.

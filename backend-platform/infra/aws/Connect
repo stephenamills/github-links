@@ -1,0 +1,105 @@
+https://github.com/aws-samples/amazon-lex-connect-workshop # This is a self paced workshop to get started on Amazon Connect and Amazon Lex to build a simple customer contact call center and chat
+bot.
+https://github.com/aws-samples/amazon-connect-chat-translate # AWS Amplify project to demonstrate Amazon Connect Chat with realtime language detection and translation
+https://github.com/aws-samples/amazon-connect-workshop # This workshop will walk you through creating your first Amazon Connect contact center with integrations for Amazon Lex and AWS Lambda.
+https://github.com/aws-samples/amazon-lex-customerservice-workshop # Code and walkthrough labs to create a customer service chatbot using Amazon Lex (and integrations with Amazon Connect, Twilio
+SMS, etc.)
+https://github.com/aws-samples/amazon-connect-copy #
+https://github.com/aws-samples/amazon-connect-cicd-workshop #
+https://github.com/aws-samples/amazon-connect-custom-ccp # Sample code for building a serverless CCP dashboard for Amazon Connect.
+https://github.com/aws-samples/amazon-chime-sdk-amazon-connect-integration-demo # Amazon Chime SDK and Amazon Connect Integration Demo
+https://github.com/aws-samples/amazon-chime-private-bot-demo # Amazon Chime integration with Amazon Connect, Amazon Lex, and AWS Lambda.
+https://github.com/aws-samples/aws-serverless-connect-wallboard # Sample code for building a serverless wallboard for Amazon Connect.
+https://github.com/aws-samples/amazon-ecs-fargate-consul-connect-example #
+https://github.com/aws-samples/sagemaker-ssh-helper # A helper library to connect into Amazon SageMaker with AWS Systems Manager and SSH (Secure Shell)
+https://github.com/aws-samples/amazon-connect-whatsapp-chat #
+https://github.com/aws-samples/amazon-connect-contact-surveys #
+https://github.com/aws-samples/aws-amplify-connect # AWS Amplify Agent/Management portal and Amazon Connect dialer
+https://github.com/aws-samples/sample-connector-for-bedrock # Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services.
+https://github.com/aws-samples/amazon-connect-power-dialer # Serverless Dialer for Amazon Connect.
+https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor # Use Amazon (AWS) Pinpoint, Lambda and Connect to transparently put customers into a phone callback queue upon an SMS r
+equest from them.
+https://github.com/aws-samples/serverless-appointment-scheduler-amazon-connect #
+https://github.com/aws-samples/amazon-connect-rules-engine # Rules Engine for Amazon Connect
+aims to deliver an engine sitting on top of Amazon Connect which has the capability to build a hyper
+-personalised IVR experience for customers.
+https://github.com/aws-samples/amazon-connect-step-by-step-guides-module-library #
+https://github.com/aws-samples/amazon-connect-well-architected-lenses # A set of custom AWS Well-Architected Lenses for Amazon Connect, AWS's cloud contact center software
+https://github.com/aws-samples/amazon-connect-email-tasks #
+https://github.com/aws-samples/ac-contactflowapi # This repository provides example of using Amazon Connect contact flow api's to add/update/describe a contact flow in an Amazon Connect instance.
+
+https://github.com/aws-samples/amazon-connect-live-agent-translation #
+https://github.com/aws-samples/amazon-connect-with-amazon-lex-genai-capabilities #
+https://github.com/aws-samples/simple-ewt-for-aws-connect # Building basic EWT functionality in Amazon Connect
+https://github.com/aws-samples/amazon-connect-migration-utilities #
+https://github.com/aws-samples/amazon-connect-telemedicine-sample #
+https://github.com/aws-samples/ac-recordingapis # Amazon Connect API's for start/stop/pause/resume a voice call recording
+https://github.com/aws-samples/amazon-connect-data-analytics-sample #
+https://github.com/aws-samples/amazon-connect-virtual-credit-agent #
+https://github.com/aws-samples/amazon-connect-dynamic-ivr-menus #
+https://github.com/aws-samples/applying-voice-classification-in-amazon-connect-contact-flow #
+https://github.com/aws-samples/real-time-churn-prediction-with-amazon-connect-and-amazon-sagemaker #
+https://github.com/aws-samples/integrate-amazon-connect-with-smart-on-fhir-backend-services #
+https://github.com/aws-samples/ac-userhierarchyapi # Amazon Connect user hirerarchies APIs demo
+https://github.com/aws-samples/amazon-connect-collect-feedback-via-phone-ivr #
+https://github.com/aws-samples/amazon-connect-contactcenterops # IaC and DevOps pipelines for Amazon Connect architectures
+https://github.com/aws-samples/ac-quickconnectapi # Amazon Connect quick connect API's demo
+https://github.com/aws-samples/amazon-connect-real-time-opensearch #
+https://github.com/aws-samples/connect-lambda-lex-workshop # A short workshop on Amazon Connect focusing on integration with Lambda, DynamodDB and Lex.
+https://github.com/aws-samples/amazon-connect-chat-redaction #
+https://github.com/aws-samples/sync-agent-presence-with-ms-teams # Showcases integration ability between Amazon Connect and MS Office 365
+https://github.com/aws-samples/amazon-connect-twitter-listener #
+https://github.com/aws-samples/amazon-connect-contact-lens-rules-library #
+https://github.com/aws-samples/amazon-connect-global-resiliency # Starter project to create a dashboard to interact with Amazon Connect Global Resiliency APIs
+https://github.com/aws-samples/voice-enabled-patient-diary # This repo contains a sample application to show how to build a voice interface for patient outcome reporting (PRO) by leveraging NLP
+capabilities provided by Amazon Lex and its integration with AWS's cloud contact center offering, Amazon Connect.
+https://github.com/aws-samples/amazon-connect-config-rules #
+https://github.com/aws-samples/amazon-connect-callback-helper #
+https://github.com/aws-samples/contact-lens-for-amazon-connect-data-gathering-mechanism #
+https://github.com/aws-samples/ac-routingprofilesapi # This repository provides example of using Amazon Connect APIs to add/update/describe a routing profile under an instance.
+https://github.com/aws-samples/ac-queueapi # Amazon Connect queue APIs demo
+https://github.com/aws-samples/amazon-connect-gitlab-cicd-terraform #
+https://github.com/aws-samples/amazon-connect-instance-dashboard # Visualize Amazon Connect instance metrics in CloudWatch Dashboard
+https://github.com/aws-samples/amazon-connect-scim-user-management #
+https://github.com/aws-samples/amazon-connect-ivr-searchandplay #
+https://github.com/aws-samples/amazon-connect-encryption #
+https://github.com/aws-samples/amazon-connect-with-bankid-integration # This code will set up a contact flow/IVR for real time authentication with Mobile BankID and can be deployed in minutes.
+https://github.com/aws-samples/amazon-connect-agentless-outbound-campaign # Create Amazon Connect Agentless Outbound Campaign using AWS Step Functions.
+https://github.com/aws-samples/aws-transit-gateway-connect-attachment-integration-with-amazon-linux-and-frrouting # Transit Gateway Connect Attachment integration with Amazon Linux and FRRouting
+using BGP over GRE
+
+https://github.com/aws-samples/amazon-connect-call-recording-cost-optimizer #
+https://github.com/aws-samples/amazon-q-in-connect-s3-integration-template # Amazon Q in Connect - S3 Integration Template: Automatically deploy and integrate Amazon Connect with Amazon Q in Con
+nect Knowledge Base using Amazon S3 as its data source. Contact center administrators can quickly and easily manage knowledge content using familiar Amazon S3 actions.
+
+https://github.com/aws-samples/amazon-connect-callbackmgmt #
+https://github.com/aws-samples/amazon-connect-java-cdk # Create Amazon Connect instance using AWS CDK(Java)
+https://github.com/aws-samples/amazon-connect-experience-builder #
+https://github.com/aws-samples/amazon-lookout-for-metrics-custom-connectors # A collection of automation aids to connect various database systems into Lookout for Metrics
+https://github.com/aws-samples/amazon-connect-user-provision-with-okta #
+https://github.com/aws-samples/amazon-connect-chat-based-attachments-email-integration #
+https://github.com/aws-samples/amazon-connect-audio-optimization # This project enables Amazon Connect, while using Connect RTC JS and Streams API, to redirect audio for contact centers agents u
+sing VDI services.
+
+https://github.com/aws-samples/amazon-connect-outbound-rate-limiting # Implement outbound rate limiting with Amazon Connect to comply with local telecom regulations
+https://github.com/aws-samples/customer-profiles-export-demo # Export Amazon Connect Customer Profiles events to S3 and Salesforce
+https://github.com/aws-samples/amazon-connect-callback-contact-management #
+https://github.com/aws-samples/amazon-connect-alexa-skill-integration #
+https://github.com/aws-samples/amazon-connect-agent-hold-pause-resume-recording #
+https://github.com/aws-samples/amazon-connect-omni-channel-estimated-wait-time-queue #
+https://github.com/aws-samples/amazon-connect-cases-workshop # Amazon Connect Cases Workshop
+https://github.com/aws-samples/web-voice-video-calling-blog # Securely pass the customer information from a webpage using Amazon Connect in-app, web, and video calling
+https://github.com/aws-samples/amazon-connect-transcript-sender #
+https://github.com/aws-samples/amazon-q-custom-connectors #
+https://github.com/aws-samples/amazon-bedrock-connect-helper #
+https://github.com/aws-samples/amazon-connect-chat-ui # These tools will allow for the building of a fully customized and expandable customer experience for use with any Amazon Connect chat inst
+ance. All of the tools are built using Typescript, the client uses the AWS SDK for Javascript to connect to the instance, the component library builds upon Material UI components and uses React framework, and the sample widget is built using React. The components are styled using node-sass.
+
+https://github.com/aws-samples/amazon-connect-cases-auto-close #
+https://github.com/aws-samples/amazon-connect-monitor-phone-number #
+https://github.com/aws-samples/amazon-connect-wisdom-cli-loader #
+https://github.com/aws-samples/create-centralized-announcement-message-with-amazon-connect #
+Debezium).
+
+https://github.com/aws-samples/safeguard-your-environment-and-reduce-reputational-risk-using-amazon-connect-attachment-scanning #
+

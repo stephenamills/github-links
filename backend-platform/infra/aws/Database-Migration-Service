@@ -1,0 +1,13 @@
+https://github.com/aws-samples/aws-database-migration-samples # A set of sample database and associated items to allow customers to among other things follow along with published database migration recipes.
+https://github.com/aws-samples/aurora-and-database-migration-labs # This github repo contains Aurora MySQL and PostgreSQL Labs, Aurora Serverless Lab and Heterogeneous database migration with DMS Labs.
+https://github.com/aws-samples/rds-db-schema-migrations-cicd # Integrating RDS databases' schema migrations in the CI/CD pipeline.
+https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019 #
+https://github.com/aws-samples/aws-dms-cdc-sample # AWS Lambda and CloudFormation code for loading CDC data from Relational databases to Amazon Kinesis using Database Migration Service.
+https://github.com/aws-samples/amazon-aurora-migration-azure-sqldb-to-aurora-mysql # A CloudFormation template to assist in migrating databases from Azure to AWS
+https://github.com/aws-samples/amazon-aurora-postgresql-upgrade # This repository contains the code artifacts for performing major version upgrades in Aurora PostgreSQL using AWS Database Migration Service
+https://github.com/aws-samples/aws-dms-external-table-definition-sample # Sample script to generate an external table definition when using Amazon S3 as source endpoint in AWS Database Migration Service (AWS DMS)
+https://github.com/aws-samples/amazon-rds-upgrade-blog # Sample scripts for using Amazon RDS for Oracle with AWS Database Migration Service to upgrade the database engine with minimal downtime.
+https://github.com/aws-samples/lambda-database-migration-aware-health-check #
+https://github.com/aws-samples/amazon-dms-guid-uuid-blog # This repository contains sample scripts for using Amazon RDS for Oracle with AWS Database Migration Service to convert Oracle RAW data type containing GUID data to UUID format on PostgreSQL compatible target.
+
+https://github.com/awslabs/database-migration-assessment-framework-v2 #

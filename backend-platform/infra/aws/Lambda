@@ -1,0 +1,478 @@
+https://github.com/aws-solutions-library-samples/guidance-for-crossregion-failover-and-graceful-failback-and-observability-on-aws # This Guidance helps customers design a resilient three-tier web application with a React front end, API/AWS Lambda middle tier, and Amazon Aurora global database back end.
+https://github.com/aws-solutions-library-samples/guidance-for-self-healing-code-on-aws # This Guidance helps software companies set up a automated system to detect error logs, generate bug fixes, and create pull requests. Helps companies balance addressing bugs while also competing with product and feature development pressure.
+
+https://github.com/build-on-aws/golang-gin-app-on-aws-lambda # Take a URL shortener application written using Gin, and run it as a serverless Lambda function.
+https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python # With this WhatsApp app, you can chat in any language with a Large language models (LLM) on Ama
+zon Bedrock. Send voice notes and receive transcriptions. By making a minor change in the code, you can also send the transcription to the model.
+https://github.com/build-on-aws/aws-lambda-and-cqrs-a-winning-combination # Command-Query Responsibility Segregation (CQRS) is often presented as a pattern focused on scaling by separating reads and writes. However, this is an architecture-level pattern that has nothing to do with infrastructure. At AWS re:Invent 2023 session (BOA211) we explored the right way of combining AWS Lambda and CQRS together.
+https://github.com/build-on-aws/golang-apis-on-aws-lambda #
+https://github.com/build-on-aws/amazon-textract-lambda-golang-example # Sample Code to show how to Build a Serverless Application to Automate Invoice Processing on AWS
+https://github.com/build-on-aws/rag-postgresql-agent-bedrock # This application is built in four stages using infrastructure as code with CDK with Python to deploy. In the first stage, an Amazon
+Aurora PostgreSQL vector database is set up. In the second stage, the Knowledge Base for Amazon Bedrock is created using the established database. The third stage involves creating an Amazon
+https://github.com/build-on-aws/amazon-bedrock-lambda-image-generation-golang # Serverless image generation with Amazon Bedrock and AWS Lambda
+https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb # I'll guide you through setting up the resources, defining the agent's action groups, associating AWS Lambda functions
+to execute DynamoDB operations, and integrating the knowledge base for enhanced conversational experiences to provide more personalized and context-aware responses to user queries. All this with a 'CDK deploy' command using the AWS
+https://github.com/build-on-aws/langchain-embeddings # This repository demonstrates the construction of a state-of-the-art multimodal search engine, leveraging Amazon Titan Embeddings, Amazon Be
+drock, and LangChain.
+https://github.com/build-on-aws/amazon-rekognition-lambda-golang-example # Learn how to use Amazon Rekognition and AWS Lambda to extract image labels using Go
+https://github.com/build-on-aws/amazon-transcribe-lambda-golang-example # Build a Serverless Application for Audio to Text conversion
+https://github.com/build-on-aws/point-to-point-messaging-with-amazon-sqs # Companion repository for the tutorial Point-to-Point Messaging with AWS Lambda
+https://github.com/build-on-aws/request-response-with-amazon-api-gateway # Companion repository for the tutorial Request-Response with Amazon API Gateway and AWS Lambda
+
+https://github.com/aws-samples/aws-serverless-workshops # Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+https://github.com/aws-samples/lambda-refarch-fileprocessing # Serverless Reference Architecture for Real-time File Processing
+https://github.com/aws-samples/aws-lambda-extensions # A collection of sample extensions to help you get started with AWS Lambda Extensions
+https://github.com/aws-samples/lambda-refarch-mobilebackend # Serverless Reference Architecture for creating a Mobile Backend
+https://github.com/aws-samples/amazon-elasticsearch-lambda-samples # Data ingestion for Amazon Elasticsearch Service from S3 and Amazon Kinesis, using AWS Lambda: Sample code
+https://github.com/aws-samples/aws-secrets-manager-rotation-lambdas # Contains Lambda functions to be used for automatic rotation of secrets stored in AWS Secrets Manager
+https://github.com/aws-samples/lambda-refarch-streamprocessing # Serverless Reference Architecture for Real-time Stream Processing
+https://github.com/aws-samples/lambda-refarch-iotbackend # Serverless Reference Architecture for creating an IoT Backend
+https://github.com/aws-samples/lambda-go-samples # An example of using AWS Lambda with Go
+https://github.com/aws-samples/s3-to-lambda-patterns # Example applications for the S3-to-Lambda patterns series in the AWS Compute Blog and learning path. Questions? @jbesw.
+https://github.com/aws-samples/lambda-java8-dynamodb #
+https://github.com/aws-samples/aws-lambda-deploy # A collection of tools to enable canary deployments of AWS Lambda functions.
+https://github.com/aws-samples/aws-lambda-sample-applications # Sample code used to create serverless applications with AWS SAM in the Lambda console.
+https://github.com/aws-samples/amazon-s3-presigned-urls-aws-sam # For more serverless learning resources, visit https://serverlessland.com/.
+https://github.com/aws-samples/lambda-ecs-worker-pattern # This example code illustrates how to extend AWS Lambda functionality using Amazon SQS and the Amazon EC2 Container Service (ECS).
+https://github.com/aws-samples/serverless-samples # This repository contains samples of Serverless application code.
+https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot # The Image Moderator Chatbot serverless reference architecture demonstrates how to leverage Amazon Rekognition's image mod
+eration deep learning feature to automatically remove messages containing explicit or suggestive images from channels of popular chat apps using Amazon API Gateway, AWS Lambda, and Amazon Rekognition.
+https://github.com/aws-samples/aws-lambda-edge-workshops # This repository contains instructions and blueprints for Lambda@Edge workshops
+https://github.com/aws-samples/lambda-apigateway-twilio-tutorial # Getting started with AWS Lambda + Amazon API Gateway. Use Twilio MMS to upload photos to S3 without servers.
+https://github.com/aws-samples/lambda-web-scraper-example # An example of a web scraper running on AWS Lambda and Lambda Layers
+https://github.com/aws-samples/spark-on-aws-lambda # Spark runtime on AWS Lambda
+https://github.com/aws-samples/aws-lambda-elixir-runtime # Example implementation of a custom runtime for running Elixir on AWS Lambda.
+https://github.com/aws-samples/authorization-lambda-at-edge # Code demonstrates authorization with Lambda@Edge and JSON Web Tokens (JWTs)
+https://github.com/aws-samples/aws-lambda-manage-rds-connections # Sample code for dynamically managing RDS/RDBMS connections across a fleet of Lambda functions
+https://github.com/aws-samples/aws-proton-sample-lambda-crud-service # Sample application code for AWS Proton
+https://github.com/aws-samples/serverless-sinatra-sample # Demo code for running Ruby Sinatra on AWS Lambda
+https://github.com/aws-samples/aws-greengrass-lambda-functions # Example local Lambda functions that can be used with AWS Greengrass and the AWS Greengrass Provisioner.
+https://github.com/aws-samples/aws-service-catalog-terraform-reference-architecture # Apply Terraform configurations using CloudFormation through a proxy lambda
+https://github.com/aws-samples/aws-lambda-hexagonal-architecture # Implementing hexagonal architecture on AWS Lambda with Node.js
+https://github.com/aws-samples/react-ssr-lambda # Demo of server side rendering for React application on AWS Lambda
+https://github.com/aws-samples/aws-cloudfront-samples # Samples for use of AWS CloudFront, including Lambda functions, and SDK usage examples.
+https://github.com/aws-samples/prisma-lambda-cdk # Build and deploy a Lambda function with Prisma ORM by AWS Cloud Development Kit.
+https://github.com/aws-samples/amazon-api-gateway-url-shortener # Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
+https://github.com/aws-samples/aws-lambda-efs-samples # AWS SAM templates and examples for Amazon EFS for AWS Lambda. Questions? @jbesw
+https://github.com/aws-samples/aws-safe-lambda-deployments # Safe Deployments with AWS Lambda
+https://github.com/aws-samples/aws-lambda-java-workshop # This project contains the code for the Java on AWS Lambda workshop
+https://github.com/aws-samples/cloudfront-authorization-at-edge # Protect downloads of your content hosted on CloudFront with Cognito authentication using cookies and Lambda@Edge
+https://github.com/aws-samples/lambdaedge-openidconnect-samples #
+https://github.com/aws-samples/cdk-lambda-packaging-java #
+https://github.com/aws-samples/aws-lambda-docker-serverless-inference # Serve scikit-learn, XGBoost, TensorFlow, and PyTorch models with AWS Lambda container images support.
+https://github.com/aws-samples/aws-lambda-mirror-dns-function # AWS Lambda function to mirror DNS zone from on-premises DNS server to Route 53 private hosted zone.
+https://github.com/aws-samples/aws-serverless-chatbot-sample # Reference code for running a Slack chatbot using AWS Lambda and Amazon API Gateway.
+https://github.com/aws-samples/serverless-rust-demo # Sample serverless application written in Rust
+https://github.com/aws-samples/aws-secrets-manager-ssh-key-rotation # Secrets Manager - Lambda rotation function for SSH Keys
+https://github.com/aws-samples/aws-lambda-nextjs # Sample application running Next.js application on Serverless services on AWS
+https://github.com/aws-samples/lambda-kotlin-groovy-example # Sample code for the "Kotlin and Groovy JVM Languages with AWS Lambda" blog post. Shows how to deploy AWS Lambda functions using Kotl
+in and Groovy JVM languages.
+https://github.com/aws-samples/aws-etl-orchestrator # A serverless architecture for orchestrating ETL jobs in arbitrarily-complex workflows using AWS Step Functions and AWS Lambda.
+https://github.com/aws-samples/zero-administration-inference-with-aws-lambda-for-hugging-face # Zero administration inference with AWS Lambda for 🤗
+https://github.com/aws-samples/ask-around-me # The Ask Around Me example serverless web application. See the Compute Blog series and video series for more information. Contact @jbesw for info.
+https://github.com/aws-samples/lambda-hexagonal-architecture-sample #
+https://github.com/aws-samples/serverless-go-demo # Sample serverless application written in Golang
+https://github.com/aws-samples/image-optimization # Simple, performant and cost efficient solution for optimizing images using Amazon CloudFront, Amazon S3 and AWS Lambda
+https://github.com/aws-samples/amazon-workmail-lambda-templates # Serverless applications for Amazon WorkMail.
+https://github.com/aws-samples/aws-lambda-redirection-at-edge # Sample code for Handling Redirections@Edge using CloudFront + Lambda@Edge
+https://github.com/aws-samples/resource-tagging-automation # A Lambda function for Resource Tagging Automation
+https://github.com/aws-samples/powertools-for-aws-lambda-workshop #
+https://github.com/aws-samples/aws-lambda-domain-model-sample # This is a sample project for implementing domain model objects on AWS Lambda function.
+https://github.com/aws-samples/graceful-shutdown-with-aws-lambda #
+https://github.com/aws-samples/serverless-graalvm-demo # Sample serverless application written in Java compiled with GraalVM native-image
+https://github.com/aws-samples/aws-serverless-subscription-service-node # Building Serverless Subscription Service using Lambda@Edge
+https://github.com/aws-samples/aws-cloud9-bootstrapping-example # This example Cloudformation Code Project shows how to bootstrap AWS Cloud9 environments using Cloudformation, AWS Lambda and AWS
+Systems Manager
+https://github.com/aws-samples/aws-lambda-redshift-event-driven-app # Building Event Driven Application with AWS Lambda and Amazon Redshift Data API
+https://github.com/aws-samples/aws-codepipeline-dotnet-lambda # Guidance on how to set up an automated AWS CodePipeline for AWS Lambda functions developed in .NET core.
+https://github.com/aws-samples/aws-serverless-workshop-innovator-island # Welcome to the Innovator Island serverless workshop! This repo contains all the instructions and code you need to comple
+te the workshop.
+https://github.com/aws-samples/aws-lambda-clickhouse # Run the open-source online analytics database ClickHouse in an AWS Lambda function
+https://github.com/aws-samples/aws-lambda-demo-with-node-express #
+https://github.com/aws-samples/reactive-refarch-cloudformation # Reactive Microservices Architectures with Amazon ECS, AWS Lambda, Amazon Kinesis Streams, Amazon ElastiCache, and Amazon DynamoDB
+https://github.com/aws-samples/aws-lambda-layer-builder # Script for quickly creating AWS Lambda Layers
+https://github.com/aws-samples/aws-lambda-layers-aws-sam-examples # This example application shows how to build AWS Lambda Layers using Node.js and the AWS Serverless Application Model. Question
+s? @jbesw.
+https://github.com/aws-samples/aws-serverless-sns-fanout #
+Serverless Fanout example with Lambda and SNS
+https://github.com/aws-samples/amazon-sagemaker-aws-greengrass-custom-object-detection-model # End to end code samples for training an object detection model in Amazon SageMaker using the built-
+in SSD algorithm and running it on AWS IoT Greengrass.
+https://github.com/aws-samples/codepipeline-for-lambda-using-terraform #
+https://github.com/aws-samples/content-aggregator-example # This repository contains all the example code to help you build a content aggregator like serverless land. It is split into 2 componen
+ts: Part 1: The front-end, an auto-building static website. Part 2: The backend, am automaed content aggregation workflow.
+https://github.com/aws-samples/amazon-dax-lambda-nodejs-sample # A sample application showing how to use Amazon DynamoDB Accelerator (DAX) with Lambda and CloudFormation.
+https://github.com/aws-samples/amazon-dotnet-api-to-lambda #
+https://github.com/aws-samples/amazon-eventbridge-producer-consumer-example # A simple producer/consumer example for Amazon EventBridge. Questions? @jbesw.
+https://github.com/aws-samples/aws-serverless-airline-booking # Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points includi
+ng end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.
+https://github.com/aws-samples/aws-lambda-operators-guide # Example project for the Lambda Operator's Guide, maintained by the AWS Serverless Developer Advocate team.
+https://github.com/aws-samples/simple-websockets-chat-app # This SAM application provides the Lambda functions, DynamoDB table, and roles to allow you to build a simple chat application based on
+API Gateway's new WebSocket-based API feature.
+https://github.com/aws-samples/amazon-cloudfront-signed-urls-using-lambda-secretsmanager # In this example we will provide step-by-step instructions to create Amazon CloudFront Signed URLs with
+both canned and custom policies using: AWS Lambda as the execution tool;
+AWS Secrets Manager to manage the private signing key for security best practices; Amazon S3 as a restricted content source.
+https://github.com/aws-samples/kubernetes-configurations-apis-lambda #
+https://github.com/aws-samples/amazon-s3-multipart-upload-transfer-acceleration # Uploading large objects to S3 using multipart upload, and transfer acceleration
+https://github.com/aws-samples/building-a-rule-engine-using-aws-lambda-dynamodb #
+https://github.com/aws-samples/sam-python-crud-sample # This project is an example about lambda, SAM, dynamodb. This repository contains source code and supporting files for a serverless applica
+tion that you can deploy with the SAM CLI. It includes the following files and folders.
+https://github.com/aws-samples/aws-lambda-serverless-inference # AWS CloudFormation and SAM templates for machine learning inference with AWS Lambda.
+https://github.com/aws-samples/aws-lambda-smb-shares # This repo contains AWS SAM templates and Lambda function code for AWS Lambda with SMB file shares blog post.
+https://github.com/aws-samples/aws-plaid-demo-app # Build a fintech app on AWS to link bank accounts using Plaid API
+https://github.com/aws-samples/lambda-java-blockchain # Example of a blockchain application in Java interacting with Amazon Managed Blockchain using Fabric Java SDK
+https://github.com/aws-samples/aws-lambda-concurrency-hunt # This code example illustrates a programmatic way to search through CloudWatch Metrics for Lambda concurrency spikes.
+https://github.com/aws-samples/aws-lambda-layer-create-script # Build Machine Learning Layers for Python Lambda functions with 10 lines of code
+https://github.com/aws-samples/serverless-s3-uploader # AWS Serverless Application Repo example for serverless uploading to S3. Questions? @jbesw.
+https://github.com/aws-samples/aws-lambda-etl-ref-architecture # This reference architecture demonstrates the use of AWS Step Functions to orchestrate an Extract Transfer Load (ETL) workflow wit
+h AWS Lambda.
+https://github.com/aws-samples/aws-cidr-finder # A lambda function, a cloudformation template to get it running, and example templates showing how to use a custom resource (calling the lambda) t
+o automatically calculate CIDR ranges for subnets based on the VPC range.
+https://github.com/aws-samples/apollo-server-on-aws-lambda #
+https://github.com/aws-samples/scheduled-website-screenshot-app # This example deploys a serverless application that screenshots a target website every 15 minutes and stores the result in an S3
+bucket.
+https://github.com/aws-samples/cloudwatch-dashboards-cloudformation-sample # A sample project to demonstrate using Cloudformation, how to create and configure CloudWatch metric filters, alarms a
+nd a dashboard to monitor an AWS Lambda function.
+https://github.com/aws-samples/serverless-coffee # Serverlesspresso - The serverless coffee ordering application! As seen at AWS re:Invent 2021. Presented by AWS Serverless DA team. Questions? C
+ontact @jbesw.
+https://github.com/aws-samples/amazon-cloudwatch-auto-alarms # Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and cust
+om CloudWatch Metrics.
+https://github.com/aws-samples/automl-pipeline-with-autogluon-sagemaker-lambda # A code-free AutoML pipeline with AutoGluon, Amazon SageMaker, and AWS Lambda.
+https://github.com/aws-samples/aws-keyspaces-lambda-python #
+https://github.com/aws-samples/lambda-edge-resizing-images-custom-origin # Sample code for resizing Images with Lambda@Edge using the Custom Origin. You can deploy using AWS CDK.
+https://github.com/aws-samples/amazon-eks-kubernetes-api-aws-lambda #
+https://github.com/aws-samples/amazon-comprehend-s3-object-lambda-functions #
+https://github.com/aws-samples/aws-lambda-subminute-invocation # This is the sample CloudFormation template to deploy the serverless solution at https://aws.amazon.com/blogs/architecture/a-serve
+rless-solution-for-invoking-aws-lambda-at-a-sub-minute-frequency/
+https://github.com/aws-samples/aws-quarkus-demo # Quarkus example projects for Amazon ECS and Amazon EKS with AWS Fargate and AWS Lambda
+https://github.com/aws-samples/ecs-refarch-task-rebalancing # A serverless approach using AWS Lambda and Amazon ECS Event Stream to proactively rebalance the ECS tasks.
+https://github.com/aws-samples/reinvent-2017-deeplens-workshop # A reference Lambda function that predicts image labels for a image using a MXNet built deep learning model
+https://github.com/aws-samples/aws-lambda-function-url-secured # Protecting a Lambda Function URL with Amazon CloudFront and Lambda@Edge
+https://github.com/aws-samples/aws-lambda-java-oracle-starter-kit # AWS Lambda starter kit for Oracle using Java and AWS Secrets Manager
+https://github.com/aws-samples/lambda-efs-deep-learning-inference # Deep Learning inference with AWS Lambda and Amazon EFS
+https://github.com/aws-samples/aws-serverless-crud-sample # An example implementation of a mobile backend for a movies database using AWS Lambda, API Gateway and DynamoDb
+https://github.com/aws-samples/aws-lambda-java-custom-runtime # An example project showing how to create a Java custom runtime for AWS Lambda
+https://github.com/aws-samples/aws-lambda-environmental-variables-from-aws-secrets-manager #
+https://github.com/aws-samples/barcode-qr-decoder-lambda #
+https://github.com/aws-samples/codepipeline-lambda-docker-images #
+https://github.com/aws-samples/aws-lambda-python-oracle-connection # This example shows how to connect to an Oracle database (RDS or on-prem) from AWS Lambda using python.
+https://github.com/aws-samples/integration-sample-lambda-msk #
+https://github.com/aws-samples/aws-kube-code-service # The Code Services Continuous Deployment reference architecture demonstrates how to achieve continuous deployment of an application to a Kub
+ernetes cluster using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild and AWS Lambda.
+https://github.com/aws-samples/serverless-automated-cost-controls # Sample implementation of serverless automated cost controls using AWS Budgets, Amazon SNS and AWS Lambda
+https://github.com/aws-samples/example-step-functions-integration-api-gateway # Example application using the new Step Functions integration with API Gateway. It developers to call API Gateway R
+EST APIs and API Gateway from a Step Functions workflow.
+https://github.com/aws-samples/finding-missing-persons-using-social-media-and-amazon-rekognition # Collection of Python and AWS Lambda scripts to find a missing person using twitter streaming da
+ta and Amazon Rekognition
+https://github.com/aws-samples/liveness-detection # Backend and a JavaScript frontend of a liveness detection application.
+https://github.com/aws-samples/amazon-bedrock-audio-summarizer # An automated way to transcribe and summarize media files using Amazon S3, AWS Lambda, Amazon Transcribe, and Amazon Bedrock.
+https://github.com/aws-samples/amazon-lex-twilio-integration # An AWS Lambda function that integrates Twilio Programmable SMS with Amazon Lex.
+https://github.com/aws-samples/jasper-reports-with-lambda-rds #
+https://github.com/aws-samples/amazon-chime-private-bot-demo # Amazon Chime integration with Amazon Connect, Amazon Lex, and AWS Lambda.
+https://github.com/aws-samples/aws-cdk-lambda-layer-builder #
+https://github.com/aws-samples/serverless-ai-workshop # This workshop demonstrates two methods of machine learning inference for global production using AWS Lambda and Amazon SageMaker
+https://github.com/aws-samples/bedrock-claude-chat # AWS-native chatbot using Bedrock + Claude (+Mistral)
+https://github.com/aws-samples/aws-proton-sample-lambda-data-processing-service #
+https://github.com/aws-samples/amazon-eventbridge-resource-policy-samples # Learn more about Amazon EventBridge resource policies and multi-account event bus topologies. This repo contains sampl
+e code for the AWS re:Invent 2020 session "Building event-driven applications with Amazon EventBridge" (https://youtu.be/Wk0FoXTUEjo) and the AWS Compute blog post "Simplifying cross-account access with Amazon EventBridge" (https://amzn.to/3o0Dcz4)
+https://github.com/aws-samples/aws-serverless-tokenization # How to build tokenization solution to mask your sensitive data using Serverless App and Lambda Layers
+https://github.com/aws-samples/aws-transit-gateway-attachment-automation # AWS CloudFormation templates and AWS Lambda Python based code for automating AWS Transit Gateway Attachment association
+s across an AWS Organization.
+https://github.com/aws-samples/ephemeral-preview-containers-furl # Previewing environments using containerized AWS Lambda functions
+https://github.com/aws-samples/amazon-translate-text-extract-sample # Translate documents using AWS Lambda and Amazon Translate
+https://github.com/aws-samples/amazon-s3-object-lambda-decompression # The Lambda function S3ObjectLambdaDecompression, is equipped to decompress objects stored in S3 in one of six compressed fi
+le formats including bzip2, gzip, snappy, zlib, zstandard and ZIP.
+https://github.com/aws-samples/aws-step-functions-kendra-web-crawler-search-engine # This sample aims to demonstrate how to create a serverless web crawler and search engine, using AWS Lambda, A
+WS Step Functions, and Amazon Kendra
+https://github.com/aws-samples/amazon-s3-object-lambda-default-configuration # Automate the configuration of S3 Object Lambda.
+https://github.com/aws-samples/aws-sar-lambda-publish-amazonmq #
+https://github.com/aws-samples/personalization-apis # Real-time low latency API framework that sits between your applications and recommender systems such as Amazon Personalize
+https://github.com/aws-samples/amazon-documentdb-serverless-samples # Lambda functions and CloudFormation templates required for building serverless applications on top of Amazon DocumentDB
+https://github.com/aws-samples/serverless-hotdog-detector # This example shows you how to build a serverless hotdog detecting application on AWS using Amazon Rekognition, AWS Lambda, and Amazon
+API Gateway.
+https://github.com/aws-samples/lambdamap #
+https://github.com/aws-samples/aws-lambda-iot-button # Simple JavaScript that publishes a notification on the click of an IoT button.
+https://github.com/aws-samples/amazon-connect-workshop # This workshop will walk you through creating your first Amazon Connect contact center with integrations for Amazon Lex and AWS Lambda.
+https://github.com/aws-samples/aws-lambda-amazon-sqs-max-concurrency #
+https://github.com/aws-samples/s3-to-lambda-diff-checker # S3 to Lambda diff checker. Questions? Contact @jbesw.
+https://github.com/aws-samples/contact-form-processing-with-synchronous-express-workflows # This application uses a Synchronous Express workflow to analyse a contact form submission and provide
+customers with a case reference number.
+https://github.com/aws-samples/aws-sdk-js-notes-app # A simple note taking application using modular AWS SDK for JavaScript (v3)
+https://github.com/aws-samples/pywren-workshops # Various workshop labs that make use of pywren to massively process data in parallel with AWS Lambda
+https://github.com/aws-samples/aws-lambda-layer-selenium-headless-chromium #
+https://github.com/aws-samples/aws-dms-archive-data # Lambda functions and CloudFormation templates required for performing the step-by-step actions in the blog post
+https://github.com/aws-samples/aws-lambda-es-module-performance-benchmark #
+https://github.com/aws-samples/aws-cloudformation-migrations # Automate AWS lambda functions migration across account using CloudFormation
+https://github.com/aws-samples/api-gateway-websocket-saas-rate-limiting-using-aws-lambda-authorizer # When creating a SaaS multi-tenant systems which require websocket connections we need a way
+to rate limit those connections on a per tenant basis. With Amazon API Gateway you have the option to use usage plans with HTTP connections however they are not available for websockets. To enable rate limiting we can use a API Gateway Lambda Authorizer to validate a connection and control access. Using a Lambda Authorizer we can implement code to allow the system to valid connection rates and throttle inbound connections on a per tenant basis. This sample also demonstrates pool and silo modes for handling the message traffic per tenant.
+https://github.com/aws-samples/amazon-rds-data-api-demo # Its an example Lambda app which showcases how to run queries using SDK for Aurora Serverless Data API.
+https://github.com/aws-samples/amazon-pinpoint-call-generator # Use Lambda to trigger outbound voice phone calls with Pinpoint
+https://github.com/aws-samples/cdk-typescript-lambda #
+https://github.com/aws-samples/aws-cdk-quickstart-lambda-insights # Use this cdk project to test AWS CloudWatch Lambda Insights.
+https://github.com/aws-samples/aws-cloudhsm-on-aws-lambda-sample # A sample showing how to run AWS CloudHSM workloads on AWS Lambda.
+https://github.com/aws-samples/discover-sensitive-data-in-aws-codecommit-with-aws-lambda #
+https://github.com/aws-samples/designing-cloud-native-microservices-on-aws # Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop.
+Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
+https://github.com/aws-samples/amazon-cloudwatch-alarm-formatted-email # Customize the format of Amazon CloudWatch alarms email notifications using Amazon SES and AWS Lambda
+https://github.com/aws-samples/multi-region-lambda-layers # AWS CDK project that demonstrates how to automate the creation and deployment of Lambda layers across multiple Regions from a centrali
+zed pipeline.
+https://github.com/aws-samples/api-eventbridge-lambda-typescript #
+https://github.com/aws-samples/amazon-sagemaker-mlops-template-with-aws-lambda-deployment #
+https://github.com/aws-samples/amazon-pinpoint-lex-bot # Use Amazon Pinpoint, Lambda, and Lex to let your customers have two-way chats with bots via SMS.
+https://github.com/aws-samples/deploy-apache-mxnet-on-aws-lambda #
+https://github.com/aws-samples/aws-sagemaker-ground-truth-recipe # A recipe of SageMaker Ground Truth Lambdas to be used for creating labeling jobs with custom task type
+https://github.com/aws-samples/decoupling-with-amazon-eventbridge # SVS402 - Examples from re:Invent 2020 presentation by James Beswick (@jbesw).
+https://github.com/aws-samples/amazon-lex-skype-integration # An AWS Lambda function that integrates Skype Messaging with Amazon Lex using Microsoft BotBuilder framework.
+https://github.com/aws-samples/serverless-streaming-data-application # Code companion to AWS Compute Series on building a serverless backend for a streaming application. Questions? Contact @jbes
+w.
+https://github.com/aws-samples/cicd-lambda-container #
+https://github.com/aws-samples/aws-codebuild-lambda-deploy #
+https://github.com/aws-samples/aws-lambda-java-tiered-compilation-example # An example project showing how to enable tiered compilation on a Java AWS Lambda function.
+https://github.com/aws-samples/aws-smart-ad-breaks #
+https://github.com/aws-samples/aws-serverless-saas-layers # A set of labs that illustrates the concept of multi-tenancy. AWS Lambda layers is used to introduce reusable service constructs and ab
+stract multi-tenancy from SaaS developers.
+https://github.com/aws-samples/lambda-serverless-inference-fastapi #
+https://github.com/aws-samples/aws-amplify-react-iot-pub-sub-using-lambda #
+https://github.com/aws-samples/aws-serverless-books-api-sample # Books API using Amazon API Gateway, AWS Lambda and Amazon DynamoDB while AWS SAM for IaC. CI/CD pipeline provisioned with AWS CDK
+.
+https://github.com/aws-samples/aws-tag-enforcement-service-catalog # Tag enforcement using AWS Service Catalog, Amazon DynamoDB, Cloudwatch Events, and AWS Lambda
+https://github.com/aws-samples/aws-cdk-lambda-cloudwatch-dashboard # Building a CloudWatch Dashboard for Lambdas to visualize the Invocations, Concurrent Executions, Duration, and Errors using C
+DK
+https://github.com/aws-samples/aws-lambda-function-url-security #
+https://github.com/aws-samples/transfer-for-sftp-logical-directories # Example CloudFormation and AWS Lambda implementation to demonstrate an Identity Provider that uses logical directory mappin
+gs for use with the Transfer for SFTP service.
+https://github.com/aws-samples/aws-codecommit-file-change-publisher # AWS CodeCommit file change notification example by using AWS Lambda, Amazon SNS and CloudWatch Event
+https://github.com/aws-samples/aws-lambda-unit-test-example #
+https://github.com/aws-samples/apigateway-websockets-golang # Reference implementation for using AWS VPC, Amazon API Gateway WebSockets, AWS Lambda, and Amazon ElastiCache for Redis.
+https://github.com/aws-samples/cloudfront-secure-media # Referece code for protecting your Amazon CloudFront media distributions with AWS Cognito JWT Token, Lambda@Edge and Video.js
+https://github.com/aws-samples/aws-building-data-lake-reinvent-session-stg206 # Collection of Cloud Formation Templates, Lambda Scripts and sample code required to provision an AWS Data Lake for
+a ReInvent Lab Exercise
+https://github.com/aws-samples/event-driven-arch-eventbridge-lambda #
+https://github.com/aws-samples/single-use-signed-url # AWS CDK to create a CloudFront distribution with a request Lambda to allow single use signed URL file downloads. Each file is tracked by an
+identifier which is stored in a DynamoDB database. Each request will check the identifier against values stored in the database. If the identifier is found the file process continues and the files is received, the id is then removed from the database. If the identifier is not found the system will perform a 302 redirect to a specified URL.
+https://github.com/aws-samples/aws-serverless-security-workshop # In this workshop, you will learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS
+Aurora. We will cover AWS services and features you can leverage to improve the security of a serverless applications in 5 domains: identity & access management, code, data, infrastructure, logging & monitoring.
+https://github.com/aws-samples/aws-dms-cdc-sample # AWS Lambda and CloudFormation code for loading CDC data from Relational databases to Amazon Kinesis using Database Migration Service.
+https://github.com/aws-samples/ssr-micro-frontends # This is an SSR and micro-frontends example using AWS services such as Lambda functions, Step Functions and Fargate
+https://github.com/aws-samples/eth-keygen-lambda-sam #
+https://github.com/aws-samples/serverless-realtime-analytics # Demo application on how to create a serverless realtime analytics application using Kinesis Data Streams, Kinesis Firehose, DynamoD
+B and Lambda, using Cognito to secure the App.
+https://github.com/aws-samples/cloudformation-custom-resource-attach-latest-lambda-layer #
+https://github.com/aws-samples/lambda-event-sources-vpc-setup-example # This repository provides the example cloudformation templates for setting up internet connection between event sources wit
+hin AWS VPC and public internet.
+https://github.com/aws-samples/aws-stepfunctions-byoc-mlops-using-data-science-sdk # Build Train and Deploy your own custom container using AWS StepFunctions Data Science SDK
+https://github.com/aws-samples/connect-lambda-lex-workshop # A short workshop on Amazon Connect focusing on integration with Lambda, DynamodDB and Lex.
+https://github.com/aws-samples/aws-sam-messaging-services-integration # Using AWS messaging services in serverless applications with AWS SAM. Questions? @jbesw
+https://github.com/aws-samples/modernize-deployments-with-container-images-in-lambda #
+https://github.com/aws-samples/aws-sam-movies-api-resource-policy # SAM Template with Lambda Function to spin up a DynamoDB backed Movies API and attach APIGW Resource Policy to it.
+https://github.com/aws-samples/cloudwatch-synthetics-canary-terraform # The objective of this code is to remove as many difficulties as possible when trying to deploy canaries with terraform.
+https://github.com/aws-samples/cookiecutter-aws-sam-dotnet # A cookiecutter template to create a .NET based AWS Lambda function and test using a Visual Studio folder structure and .NET 6
+https://github.com/aws-samples/sagemaker-feature-store-real-time-recommendations # Build a real-time recommendation engine for an e-commerce website leveraging SageMaker Feature Store as a core
+component of the solution.
+https://github.com/aws-samples/serverless-gif-generator # Serverless GIF generator. For more serverless learning resources, visit https://serverlessland.com/.
+https://github.com/aws-samples/aws-cdk-build-package-publish-dotnet-lambda-function # This Repository contents sample source code that shows how to streamline building, packaging, and publishing
+.NET Lambda functions using AWS CDK with C#.
+https://github.com/aws-samples/amazon-bedrock-rag # Fully managed RAG solution implemented using Knowledge Bases for Amazon Bedrock
+https://github.com/aws-samples/lambda-php-layers #
+https://github.com/aws-samples/nft-access-control-lambda-authorizer #
+https://github.com/aws-samples/s3-object-lambda-workshop #
+https://github.com/aws-samples/dotnet-serverless-imagerecognition # The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate
+a serverless processing workflow using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition.
+https://github.com/aws-samples/aws-network-firewall-automation-examples # automated approaches involving an AWS Network Firewall Rule Group, paired with an AWS Lambda function to perform steps
+https://github.com/aws-samples/aws-cloudformation-inline-python-lambda-example # Example AWS Lambda function deployed inline in a CloudFormation template
+https://github.com/aws-samples/severless-ticket-sentiment-analysis-and-automated-escalation # This application "listens" for a ticket creation event from Zendesk, analyses the ticket for negativ
+e sentiment, tags the ticket accordingly and invokes an automated workflow (Step function) that escalates the ticket's priority according to your SLA wait times.
+https://github.com/aws-samples/ab-testing-at-edge # Implement an A/B testing solution at edge using AWS Lambda@Edge, Amazon CloudFront Functions, Amazon CloudFront KeyValueStore and Amazon Dynam
+oDB
+https://github.com/aws-samples/optimizations-for-lambda-functions # This example shows how to optimized a lambda function applying multiple strategies
+https://github.com/aws-samples/amazon-s3-auto-transcriber-sentiment-analyzer # Amazon S3 Auto-transcriber and sentiment analyzer (SAR app).
+https://github.com/aws-samples/automating-livestream-video-monitoring # This repo presents a demo application for realtime livestream video quality monitoring using AWS serverless and AI/ML serv
+ices.
+https://github.com/aws-samples/generative-ai-use-cases-jp # すぐに業務活用できるビジネスユースケース集付きの安全な生成 AI アプリ実装
+https://github.com/aws-samples/aws-lex-conv-faq # Demonstration of LLM integration into a lex bot using Lambda codehooks and a Sagemaker endpoint.
+https://github.com/aws-samples/aws-secrets-manager-secure-database-credentials # Blog sample code: How to securely provide database credentials to Lambda functions by using AWS Secrets Manager
+https://github.com/aws-samples/lambda-gen-ai-endpoint-blog # This repository guides you through the process of using transfer learning to fine-tune a large language model (LLM) with your own dat
+aset using SageMaker Studio. The model being fine-tuned is the HuggingFace GPTJ-6B model.
+https://github.com/aws-samples/aws-etl-microservice-redshift-datalake # AWS Lambda based microservice built using AWS Glue API to migrate tables off of Amazon Redshift into AWS (S3) data lake.
+https://github.com/aws-samples/amazon-qldb-streams-dmv-sample-lambda-python # A Basic Sample to demonstrate how to use Amazon QLDB Streams
+https://github.com/aws-samples/aws-lambda-java-appsync-amplify-examples # Invoke AppSync API through Java based Lambda functions generated from AWS Amplify
+https://github.com/aws-samples/aws-lambda-url-apigateway-cfn # AWS Lambda function URL vs API Gateway Integrated Lambda - Sample CloudFormation Template
+https://github.com/aws-samples/building-a-realtime-data-platform-workshop # A self-paced workshop designed to allow you to get hands on with building a real-time data platform using serverless t
+echnologies such as Kinesis Firehose, AWS Lambda and Amazon Elasticsearch.
+https://github.com/aws-samples/lambda-authorizer-oidc-adapter #
+https://github.com/aws-samples/graphql-lambda-java-sample #
+https://github.com/aws-samples/aws-lambda-failures-logging-slack #
+https://github.com/aws-samples/lambda-cross-account-ecr #
+https://github.com/aws-samples/aws-lambda-layer-node-puppeteer-headless-chromium #
+https://github.com/aws-samples/cookiecutter-aws-sam-powertools-java # This project provides cookiecutter templates to be used by AWS SAM to setup init a project with AWS lambda powertools for ja
+va setup
+https://github.com/aws-samples/amazon-transcribe-comprehend-podcast # A demo application that transcribes and indexes podcast episodes so the listeners can explore and discover episodes of inter
+est and podcast owners can do analytics on the content over time. This solution leverages Amazon Transcribe, Amazon Comprehend, Amazon ElasticSearch AWS Step Functions and AWS Lambda.
+https://github.com/aws-samples/stepfunctions-lambda-ec2-ssm # This repo holds the stepfunction workflow for creating EC2 instance and execute remote powershell script for configuration of EC2 us
+ing Systems Manager (Run Command)
+https://github.com/aws-samples/amazon-opensearch-batch-indexing-with-aws-lambda #
+https://github.com/aws-samples/aws-panorama-shelf-monitoring # This repo linked to AWS Panorama Blog
+https://github.com/aws-samples/sam-api-poller # Building an API poller with AWS Step Functions and AWS Lambda
+https://github.com/aws-samples/enable-lambda-snapstart-with-iac-samples #
+https://github.com/aws-samples/amazon-athena-queries-via-aws-lambda-cdk #
+https://github.com/aws-samples/chaosinjection-lambda-samples #
+https://github.com/aws-samples/building-faster-aws-lambda-functions # Building faster AWS Lambda functions. Questions? Ask @jbesw.
+https://github.com/aws-samples/aws-step-functions-plagiarism-demo-dotnet # A simple workflow for developing AWS Step Functions to demonstrate how you can combine AWS Step Functions with AWS Lamb
+da using .NET 8 and the Serverless Application Model (SAM), and expose your workflow via an API Gateway!
+https://github.com/aws-samples/aws-lambda-with-aws-sdk-for-swift # This sample application demonstrates using the AWS SDK for Swift in a AWS Lambda function. It uses Docker to compile and packag
+e the function into a Docker image. It then uses the AWS Cloud Development Kit (AWS CDK) to deploy the image and create the Lambda function in AWS.
+https://github.com/aws-samples/aws-control-tower-webhook-notifications # This cdk package installs a Lambda function, with an associated IAM role, and subscribes the Lambda function to Control T
+ower aggregate security notifications. In the event of a Control Tower rule violation (e.g. publicly accessible S3 bucket), the Lambda sends a notification to a web hook.
+https://github.com/aws-samples/aws-control-tower-multi-account-inspection-lambda #
+https://github.com/aws-samples/serverless-content-service-from-rss # Serverless dynamic content service with RSS parser. See the blog post in the README for more information. Questions? Contact
+@jbesw or raise an issue on the repo.
+https://github.com/aws-samples/aws-iot-core-acmebots-monitoring # This demo demonstrates how leverage aws monitoring services to monitor an iot app. Services used: CloudWatch Logs, Events, Dashb
+oards, Metrics, Lambda, StepFunctions, IoT, DynamoDB and S3.
+https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor # Use Amazon (AWS) Pinpoint, Lambda and Connect to transparently put customers into a phone callback queue upon an SMS r
+equest from them.
+https://github.com/aws-samples/aws-lambda-parallel-download #
+https://github.com/aws-samples/aws-lambda-for-selenium-ui-testing #
+https://github.com/aws-samples/simple-crud-api # This project creates simple crud API using AWS CDK code. API will have an API gateway, lambda as back-end and DynamoDB as database.
+https://github.com/aws-samples/lambda-nodejs-esbuild #
+https://github.com/aws-samples/s3-week-serverless-examples # Serverless code examples from S3 Week. For more serverless learning resources, visit https://serverlessland.com/.
+https://github.com/aws-samples/amazon-eks-cluster-logging-remediation # This Cloudformation template autoremediates EKS cluster level logging using CloudWatch Event Rules and Lambda
+https://github.com/aws-samples/s3-object-lambda-dynamic-content-translation # A data driven approach to translate content dynamically using S3 Object Lambda and Amazon Translate
+https://github.com/aws-samples/aws-lambda-msk-mtls-integration #
+https://github.com/aws-samples/aws-ebs-custodian # The EBS Snapshot Custodian provides a full life cycle management of EBS Snapshots. It manages the creation and deletion of old EBS Snapshots. T
+he Solution uses Amazon DynamoDB, Amazon Lambda, CloudWatch Events and of course EC2.
+https://github.com/aws-samples/lambda-connector-for-rabbitmq # It contains a sample RabbitMQ producer and consumer and the received message will be passed to a lambda function.
+https://github.com/aws-samples/aws-iot-workshop # An IoT Workshop designed to get you up and running on AWS. It utilises several AWS Services along with a physical micro-controller based on the
+ESP32 chipset. Learn how to perform simple workloads such as executing a Lambda function or sending an SMS via AWS IoT!
+https://github.com/aws-samples/amazon-cognito-abac-authorization-with-react-example # Sample CDK project with React App using ABAC and Amazon Cognito Identity Pools to access AWS resources
+https://github.com/aws-samples/lambda-extensions-workshop # Source repository to run AWS Lambda Extensions Workshop
+https://github.com/aws-samples/aws-systems-manager-schedule-central-patch-example # This repo hosts CloudFormation templates related to the AWS Management & Governance blog post. See README.md f
+or a link to the blog post.
+https://github.com/aws-samples/modernizing-ssis-packages-leveraging-aws-lambda #
+https://github.com/aws-samples/dicom-metadata-extractor-serverless-datalake # A serverless workflow to extract DICOM metadata to S3 and make it queryable via Athena.
+https://github.com/aws-samples/amazon-sagemaker-visual-search # This repository is part of a blog post that guides users through creating a visual search application using Amazon SageMaker and A
+mazon Elasticsearch service
+https://github.com/aws-samples/online-machine-learning-with-river-in-aws-lambda #
+https://github.com/aws-samples/aws-lambda-powertools-idempotency-examples #
+https://github.com/aws-samples/lambda-laravel #
+https://github.com/aws-samples/trpc-nextjs-ssr-prisma-lambda # Run Next.js, tRPC, and Prisma on AWS Lambda
+https://github.com/aws-samples/amazon-api-gateway-powered-browser-extension # Deploy a browser extension powered by Amazon API Gateway and AWS Lambda
+https://github.com/aws-samples/serverless-websocket-chat # This is a fully-serverless real-time chat example using API Gateway, Lambda and DynamoDB. Messages from one client are broadcast to all
+other connected clients via WebSockets.
+https://github.com/aws-samples/amazon-aurora-eventbridge-webhooks # An AWS Cloud Development Kit (CDK) sample showing how to configure the aws_lambda extension to send outgoing webhooks via Amaz
+on EventBridge
+https://github.com/aws-samples/aws-lambda-interface-for-db2-i #
+https://github.com/aws-samples/serverless-alert-notifier # One-click serverless solution for sending alert notification to common communication or alert platforms.
+https://github.com/aws-samples/s3-to-lambda-invocation-patterns # Protecting against recursive loops in S3-to-Lambda based applications. Questions? Ask @jbesw.
+https://github.com/aws-samples/amazon-connect-rules-engine # Rules Engine for Amazon Connect
+aims to deliver an engine sitting on top of Amazon Connect which has the capability to build a hyper
+-personalised IVR experience for customers.
+https://github.com/aws-samples/aws-cdk-lambda-automated-testing # Demonstrates automatic testing of both AWS Lambda codefiles and the AWS CDK constructs that deploy them. Has both a standalone v
+ersion, and a continuous delivery version powered by CDK Pipelines.
+https://github.com/aws-samples/serverless-chaos-extension # Lambda Chaos Engineering without changing code
+https://github.com/aws-samples/aws-serverless-tracking-pixel # This solution deploys a lambda function and an API Gateway HTTP API to process tracking information from the HTTP request, returnin
+g a 1x1 transparent pixel so it can be invoked from an IMG HTML tag. The processing AWS Lambda Function sends the parsed information to an Amazon Kinesis Data Firehose Stream that should already exist. This solution is created as a baseline to be modified so it adapts to the specific use-case, according to the incoming information that should be processed.
+https://github.com/aws-samples/aws-lambda-recursion-detection-sample #
+https://github.com/aws-samples/aws-lambda-container-inference-pytorch #
+https://github.com/aws-samples/tweet-classification # Tweet classification for real-time alerts with Amazon SageMaker and Hugging Face
+https://github.com/aws-samples/aws-lambda-fireeye-helix-blog # Sample code for the blog post "Creating Custom Analytics Dashboards with FireEye Helix and Amazon QuickSight".
+https://github.com/aws-samples/parameters-secrets-lambda-extension-sample #
+https://github.com/aws-samples/aws-serverless-realtime-aggregation # Set up a near-real-time, scalable, serverless data aggregation pipeline in the AWS Cloud with Amazon DynamoDB, AWS Lambda, an
+d Amazon Kinesis.
+https://github.com/aws-samples/rails-lambda-handler #
+https://github.com/aws-samples/transcribe-comprehend-quicksight-demo # Sample audio transcription and analysis pipeline using Amazon Transcribe, Amazon Comprehend.
+https://github.com/aws-samples/aws-lambda-duplex-stream-to-s3 # An example of how to stream large files to S3 from an external source on AWS Lambda using the JavaScript AWS SDK v3
+https://github.com/aws-samples/sub-minute-lambda-executor # When building applications in AWS, developers may be required to poll external systems such as HTTP, REST, or TCP endpoints. Polling t
+he external system every few seconds may be required along with modifying the polling interval, such as polling faster during the day and slower at night. This solution will demonstrate how to use a set of services to produce scheduled events at a rate of one second or more in a highly accurate manor.
+https://github.com/aws-samples/aws-do-docker # AWS DevOps for Docker - a sample project to help you build Docker containers and run them on AWS. In addition to running locally,
+this project can
+run your container on EC2, ECS, EKS, AWS Batch, and AWS Lambda.
+https://github.com/aws-samples/lambda-with-compression # This sample illustrates using data compression with AWS Lambda functions
+https://github.com/aws-samples/aws-lambda-error-handling-pattern #
+https://github.com/aws-samples/cdk-lambda-bundling #
+https://github.com/aws-samples/aws-transit-gateway-static-vpn-ha # Solution to provide automatic failover for Static VPNs on AWS Transit Gateway using AWS Lambda function.
+https://github.com/aws-samples/amazon-apigateway-accept-apikeys-as-querystring # This repository contains code associated with an AWS a blog which demonstrates how you can accept API keys as a q
+uery string parameter in Amazon API Gateway.
+https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement # With
+Amazon Rekognition Custom Labels, you can easily build and deploy Machine Learn
+ing (ML) models to identify custom objects which are specific to your business domain in images without requiring advanced ML knowledge. When combined with Amazon Augmented AI (A2I), you can quickly integrate a ML workflow to capture and label images with a human workforce for model training. As ML lifecycle is an iterative and repetitive process, you need to implement an effective workflow that can provide for continuous model training with new data and automated deployment. Your workflow also needs to be flexible enough to allow for changes without requiring development rework as your business objectives change. Operationalizing an effective and flexible
+workflow can be resource intensive, especially for customers who have limited machine learning capabilities. In this post, we will use AWS Step Functions,
+AWS Lambda, and AWS System Manager Parameter Store to automate a configurable ML workflow for Rekognition Custom Labels and A2I. We will provide an overview of the solution and instructions to deploy it with AWS CloudFormation.
+https://github.com/aws-samples/serverless-ops-review # Serverless Ops Review is an open source tool that automatically generates operational review and configuration reports about AWS serverless
+services.
+
+https://github.com/awslabs/aws-lambda-rust-runtime # A Rust runtime for AWS Lambda
+https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints # Blueprints and examples for Lambda-based custom Authorizers for use in API Gateway.
+https://github.com/awslabs/aws-lambda-web-adapter # Run web applications on AWS Lambda
+https://github.com/awslabs/aws-lambda-go-api-proxy # lambda-go-api-proxy makes it easy to port APIs written with Go frameworks such as Gin (https://gin-gonic.github.io/gin/ ) to AWS Lambda and A
+mazon API Gateway.
+https://github.com/awslabs/aws-lambda-redshift-loader # Amazon Redshift Database Loader implemented in AWS Lambda
+https://github.com/awslabs/aws-lambda-cpp # C++ implementation of the AWS Lambda runtime
+https://github.com/awslabs/route53-dynamic-dns-with-lambda # A Dynamic DNS system built with API Gateway, Lambda & Route 53.
+https://github.com/awslabs/ecr-cleanup-lambda # A script to discover stale ECR images and take action on them with Lambda to help reduce costs.
+https://github.com/awslabs/lambda-streams-to-firehose # AWS Lambda function to forward Stream data to Kinesis Firehose
+https://github.com/awslabs/aws-lambda-dart-runtime # A Dart runtime for AWS Lambda
+https://github.com/awslabs/aws-lambda-security-controls # This is a collection of AWS CloudFormation templates which create Lambda functions triggered by CloudWatch Events rule to evaluate AWS A
+PI calls to trigger Amazon Simple Notification Service (Amazon SNS) for notifications.
+https://github.com/awslabs/aws-lambda-powershell-runtime # This new PowerShell custom runtime for AWS Lambda makes it even easier to run Lambda functions written in PowerShell to process events.
+https://github.com/awslabs/ssosync # Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
+https://github.com/awslabs/aws_lambda_sample_events_python # A Python module for creating sample events to test AWS Lambda functions.
+https://github.com/awslabs/custom-lookup-lambda # CloudFormation Custom Resource can be leveraged to query AWS DynamoDB via an AWS Lambda function to retrieve the key value pairs, replacing the
+mappings and parameter sections and providing a more automated approach for managing template parameters.
+https://github.com/awslabs/serverless-plugin-lambda-insights #
+https://github.com/awslabs/cloudwatch-logs-customize-alarms # A Lambda function that helps customize alarms from Amazon CloudWatch to fit your specific needs.
+https://github.com/awslabs/aws-codedeploy-new-instance-sync-lambda # Python script to automatically sync new instances via AWS CodeDeploy APIs
+https://github.com/awslabs/serverless-api-cross-account-cicd # Build CI/CD Pipeline for Cross Account Deployment of Lambda API Using Serverless Framework
+https://github.com/awslabs/aws-lambda-ecs-run-task #
+https://github.com/awslabs/aws-cloudfront-extensions # The CloudFront Extensions is a solution package as handy extension for using Amazon CloudFront.
+https://github.com/awslabs/aws-config-rdklib # Python library to enable you to run custom AWS Config Rules at scale, using Lambda Layer.
+https://github.com/awslabs/amazon-inspector-auto-remediate # Lambda job in Python to automatically patch EC2 instances when an inspector assessment generates a CVE finding
+https://github.com/awslabs/aws-lambda-kinesis-prewarming # Provides canary based prewarming of lambda functions for Kinesis Event Sources.
+https://github.com/awslabs/amazon-inspector-finding-forwarder # Python scripts to run in AWS Lambda to process findings from Amazon Inspector
+https://github.com/awslabs/amazon-inspector-agent-autodeploy # Lambda job in Python to automatically deploy Inspector agent to newly-launched EC2 instances
+https://github.com/awslabs/aws-iot-certificate-vending-machine # The CVM allows a device to apply for its own certificate and installation.
+https://github.com/awslabs/amazon-kinesis-archiver # An AWS Lambda module and node.js library to facilitate Amazon Kinesis archival and replay
+https://github.com/awslabs/aws-video-transcriber # This solution provides a serverless single page web application and set of supporting Amazon API Gateway end points and AWS Lambda functions wh
+ich allow users to upload videos into S3 and compute and edit closed captions. AWS services used: Amazon S3, Amazon Elastic Transcoder, Amazon Transcribe, Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
+https://github.com/awslabs/aws-lambda-python-aurora-version-check # Python SAM Lambda module for periodically checking Aurora Database Engine Updates documentation site for new version releases
+and notify via SES if updates are found.
+https://github.com/awslabs/cloudwatch-logs-analyze-data # A Lambda function that builds an on-demand, scalable Amazon Elasticsearch cluster to solve a specific problem or to do analysis.
+https://github.com/awslabs/aws-service-catalog-enforce-template-constraints # Lambda function to freeze EC2 instance creation to t2.medium/small for Service Catalog portfolios
+https://github.com/awslabs/dynamodb-backup-scheduler # A cloudFormation template - Since DynamoDb backup is ondemand feature - this CF template will help customer to trigger the Lambda code (Pyt
+hon code) in daily basis
+https://github.com/awslabs/cwe-monitor-secgrp # This CloudWatch Events rule Lambda function evaluates AWS API calls that change Amazon EC2 security group ingress rules. The function flags rules
+that violate a preconfigured policy.
+https://github.com/awslabs/aws-refarch-cross-account-pipeline # The Cloudformation Templates guides the users to setup a codepipeline in Account-A, CodeCommit in Account-B and Deployment of a Sa
+mple Lambda in Account-C. Provides a reference for customers to use AWS CodePipeline as a centralized product to enable CI/CD across multiple accounts.
+https://github.com/awslabs/amazon-aurora-postgres-monitoring # An advanced monitoring system for Amazon Aurora PostgreSQL that is completely serverless, based on AWS Lambda and Amazon CloudWatch
+https://github.com/awslabs/aws-reserved-instance-expiration-notification #
+Python SAM Lambda module for sending email about AWS Reserved Instance whose contract is expiring within the specified
+days
+https://github.com/awslabs/aws-groundstation-eos-pipeline # This guide helps you create an automated Earth Observation pipeline on AWS.
+https://github.com/awslabs/IsItOnAWS # Mini web site that uses a lambda function to search a host name or IP address in the list of AWS address ranges, see https://aws.amazon.com/blogs/aws/aws-i
+p-ranges-json/
+https://github.com/awslabs/green-boost # Build Full Stack Cloud Native Web Apps on AWS Fast
+https://github.com/awslabs/aws-dynamodb-storage-monitor # A Python code (Lambda function) which will help to get storage info all DynamoDB tables in a region and publish that metrics in CloudWat
+ch periodically. A cloudFormation template - Since DynamoDb do not have any storage metrics - this CF template will help customer to trigger the Lambda code (Python code) in every 6 hours to push storage utilization info to cloudWatch
+https://github.com/awslabs/simpleiot # Installer source for SimpleIOT back-end.
+https://github.com/awslabs/workflow-data-structure-utilities # Utilities which assist in manipulating data structures in workflow systems
+
+https://github.com/aws/aws-lambda-go # Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+https://github.com/aws/aws-lambda-dotnet # Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
+https://github.com/aws/aws-lambda-java-libs # Official mirror for interface definitions and helper classes for Java code running on the AWS Lambda platform.
+https://github.com/aws/aws-lambda-builders # Python library to compile, build & package AWS Lambda functions for several runtimes & framework
+https://github.com/aws/aws-lambda-base-images #
+https://github.com/aws/aws-lambda-runtime-interface-emulator #
+https://github.com/aws/aws-toolkit-vscode # Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+https://github.com/aws/serverless-java-container # A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
+https://github.com/aws/aws-lambda-python-runtime-interface-client #
+https://github.com/aws/aws-lambda-nodejs-runtime-interface-client #
+https://github.com/aws/serverless-application-model # The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation tem
+plates.
+https://github.com/aws/aws-sam-cli # CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+https://github.com/aws/aws-lambda-ruby-runtime-interface-client #
+https://github.com/aws/chalice # Python Serverless Microframework for AWS
+https://github.com/aws/aws-sdk-js-v3 # Modularized AWS SDK for JavaScript.
+https://github.com/aws/Trusted-Advisor-Tools # The sample functions provided help to automate AWS Trusted Advisor best practices using Amazon Cloudwatch events and AWS Lambda.
+https://github.com/aws/aws-lambda-snapstart-java-rules #
+https://github.com/aws/aws-ssm-data-protection-provider-for-aspnet # An extension library to assist with ASP.NET data protection in AWS Lambda.
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretMan
+ager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).

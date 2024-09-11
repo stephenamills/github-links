@@ -1,0 +1,23 @@
+https://github.com/aws-samples/aws-transit-gateway-attachment-automation # AWS CloudFormation templates and AWS Lambda Python based code for automating AWS Transit Gateway Attachment associations across an AWS Organization.
+https://github.com/aws-samples/transit-gateway-single-exit-point # Transit Gateway solution, with a single egress VPC
+https://github.com/aws-samples/aws-transit-gateway-routing-lab # Exploring routing topologies using Transit Gateway
+https://github.com/aws-samples/aws-transit-gateway-overlapping-cidrs # Scripts to establish network connectivity between Overlapping CIDRs using AWS Transit Gateway
+https://github.com/aws-samples/aws-cdk-transit-gateway-peering # This AWS CDK project goes through the creation of a global network that spans multiple AWS Regions using AWS Transit Gateway Inter-Region peering.
+https://github.com/aws-samples/aws-transit-gateway-egress-vpc-pattern #
+https://github.com/aws-samples/aws-transit-gateway-and-scalable-security-solutions #
+https://github.com/aws-samples/hub-and-spoke-with-shared-services-vpc-terraform # Terraform repository that shows how to create a Shared Services VPC (VPC endpoints and Route 53 Resolver Endpoints) in an Hub and Spoke Architecture with AWS Transit Gateway.
+https://github.com/aws-samples/aws-transit-gateway-egress-filtering # A sample cloudformation template that deploys a transit gateway with centralized egress filtering in a security VPC.
+https://github.com/aws-samples/aws-transit-gateway-sdwan-architectures-for-cisco #
+https://github.com/aws-samples/aws-transit-gateway-vpc-terraform # This project is Terraform Infrastructure as code (IaC) script to create a AWS Transit Gateway, two VPCs, attachments to TGW and updating the route tables.
+https://github.com/aws-samples/aws-transit-gateway-static-vpn-ha # Solution to provide automatic failover for Static VPNs on AWS Transit Gateway using AWS Lambda function.
+https://github.com/aws-samples/aws-network-firewall-deployment-with-transit-gateway #
+https://github.com/aws-samples/aws-transit-gateway-igmp-multicast # An AWS CloudFormation template which facilitates a demo of the multicast with IGMP feature of AWS Transit Gateway. This enables service discovery and other multicast-enabled functions in Amazon VPC environments.
+https://github.com/aws-samples/tgw-attachment-tagger # This repository contains sample code for the Transit Gateway (TGW) Attachment Tagger solution from AWS.
+https://github.com/aws-samples/aws-transit-gateway-vpc-migration-cdk-sample-code #
+https://github.com/aws-samples/aws-transit-gateway-static-route-automation #
+https://github.com/aws-samples/transitgateway-ram-share # This CDK code creates an AWS Transit Gateway in a Central Account and using AWS Resource Access Manager (RAM), a resource share is created to share the Transit Gateway with other AWS account with in the same AWS Organisation. The code also performs a Transit Gateway VPC attachment with an already existing VPC in the Central Account.
+https://github.com/aws-samples/hub-and-spoke-with-traffic-segmentation # Terraform Repository that shows how traffic segmentation can be achieved in a Hub and Spoke architecture with AWS Transit Gateway Route Tables.
+https://github.com/aws-samples/aws-transit-gateway-connect-attachment-integration-with-amazon-linux-and-frrouting # Transit Gateway Connect Attachment integration with Amazon Linux and FRRouting using BGP over GRE
+https://github.com/aws-samples/traffic-segmentation-multi-aws-region-transit-gateway-cloud-wan #
+https://github.com/aws-samples/aws-transit-gateway-flow-logs-athena-integration #
+https://github.com/aws-samples/transit-gateway-with-shared-vpc-in-single-account-solution #

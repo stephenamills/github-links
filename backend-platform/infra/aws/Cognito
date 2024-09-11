@@ -1,0 +1,90 @@
+https://github.com/aws-solutions-library-samples/Guidance-for-Authentication-with-Digital-Wallets-on-AWS # dApp authentication with Amazon Cognito and Web3 proxy with Amazon API Gateway
+
+https://github.com/aws-samples/amazon-cognito-passwordless-auth # Passwordless authentication with Amazon Cognito: FIDO2 (WebAuthn, support for Passkeys), Magic Link, SMS OTP Step Up
+https://github.com/aws-samples/amazon-cognito-example-for-external-idp # An example for using Amazon Cognito together with an external IdP
+https://github.com/aws-samples/aws-cognito-java-desktop-app # Sample Java Desktop App with Cognito User Pools
+https://github.com/aws-samples/amazon-cognito-developer-authentication-sample #
+https://github.com/aws-samples/webauthn-with-amazon-cognito # Demo application for FIDO-based authentication and WebAuthn with Amazon Cognito
+https://github.com/aws-samples/cloudfront-authorization-at-edge # Protect downloads of your content hosted on CloudFront with Cognito authentication using cookies and Lambda@Edge
+https://github.com/aws-samples/amazon-elasticsearch-service-with-cognito # Launch Amazon Elasticsearch Service with Amazon Cognito User Pools.
+https://github.com/aws-samples/amazon-cognito-api-gateway #
+https://github.com/aws-samples/amazon-cognito-facial-recognition-auth # Amazon Cognito User Pool with Passwordless Facial Recognition Auth configured
+https://github.com/aws-samples/aws-cognito-dot-net-desktop-app # Sample .NET Desktop App with Cognito User Pools
+https://github.com/aws-samples/cdk-cognito-idp #
+https://github.com/aws-samples/aws-amplify-graphql # Sample using AWS Amplify and AWS AppSync together for user login and authorization when making GraphQL queries and mutations. Also includes c
+omplex objects for uploading and downloading data to and from S3 with a React app. https://github.com/aws-samples/amazon-cognito-gamelogin-sample # A basic demo of logging in to a game server with Amazon Cognito.
+https://github.com/aws-samples/amazon-cognito-and-api-gateway-based-machine-to-machine-authorization-using-aws-cdk # This repository describes how to integrate Amazon Cognito User Pool(OAuth 2.0
+Client credentials grant) and Amazon API Gateway (Cognito Authorizer) using AWS CDK. https://github.com/aws-samples/websocket-api-cognito-auth-sample # Sample for how to implement WebSocket API authN/Z using Cognito JWT ID token.
+https://github.com/aws-samples/cognito-device-grant-flow #
+https://github.com/aws-samples/step-up-auth # How to implement Step-up Authentication using Amazon Cognito
+https://github.com/aws-samples/amazon-cognito-saml-idp # This project is a simple template for getting started with a React app that has SSO configured using Cognito's SAML interface
+https://github.com/aws-samples/amazon-cognito-abac-authorization-with-react-example # Sample CDK project with React App using ABAC and Amazon Cognito Identity Pools to access AWS resources
+https://github.com/aws-samples/amazon-kinesis-video-streams-webrtc-sdk-js-with-amazon-cognito # Enabling Video Chats Using Amazon Kinesis Video Streams for WebRTC
+https://github.com/aws-samples/retail-demo-store # AWS Retail Demo Store is a sample retail web application and workshop platform demonstrating how AWS infrastructure and services can be used to
+build compelling customer experiences for eCommerce, retail, and digital marketing use-cases https://github.com/aws-samples/amazon-cognito-aspnetcore-webapp-for-serverless # Code and walkthrough labs to set up an asp.netcore serverless solution that integrates with Amazon Cognito and AW
+S X-Ray. https://github.com/aws-samples/aws-netcore-aspnetmvc-amazon-cognito-authentication-authorization-samples # Code Samples using .NET and AWS Services: This sample application explores how you can
+quickly build Role Based Access Controls (RBAC) and Fine Grained Access Controls (FGAC) using Amazon Cognito UserPools and Amazon Cognito Groups for authenticating and authorizing users in an ASP.NET MVC web application built using .NET Core. https://github.com/aws-samples/cognito-external-idp-proxy #
+https://github.com/aws-samples/amazon-cognito-example-for-multi-tenant #
+https://github.com/aws-samples/duomfa-with-amazon-cognito # Integrating Duo MFA with Amazon Cognito
+https://github.com/aws-samples/cognito-at-edge-federated-ui-sample #
+https://github.com/aws-samples/cloudfront-secure-media # Referece code for protecting your Amazon CloudFront media distributions with AWS Cognito JWT Token, Lambda@Edge and Video.js
+https://github.com/aws-samples/elevate-api-security-with-cognito-and-waf #
+https://github.com/aws-samples/aws-cognito-okta-federation #
+https://github.com/aws-samples/amazon-chime-sdk-aws-appsync-sample # This sample demonstrates the use of the Chime SDK React components together with an AppSync local resolver implemented with t
+he "None" data source to provide GraphQL mutation driven subscription notifications without being backed by a persistent data store. It is a simple video chat React UI built and deployed using the AWS CDK. https://github.com/aws-samples/amazon-fraud-detector-with-cognito # A CDK Application containing Stacks that deploy necessary resources required to implement a real-time fraud detection and prev
+ention system using Amazon Fraud Detector and Amazon Cognito. https://github.com/aws-samples/amazon-congnito-user-pool-exporter # Python script that exports Amazon Cognito user pool to a csv file. This file can be used to restore the user pool at a later p
+oint in time. https://github.com/aws-samples/serverless-realtime-analytics # Demo application on how to create a serverless realtime analytics application using Kinesis Data Streams, Kinesis Firehose, DynamoD
+B and Lambda, using Cognito to secure the App. https://github.com/aws-samples/smart-shopping-list # Sample demo that shows how to build an AI powered app using Amplify, AppSync, DynamoDB, Cognito and Rekognition.
+https://github.com/aws-samples/amazon-cognito-authentication-sample-react-app #
+https://github.com/aws-samples/amazon-freertos-ota-scripts # Scripts to aid initiating OTA updates for Amazon FreeRTOS devices.
+https://github.com/aws-samples/custom-web-experience-with-amazon-q-business # Build a custom user interface for more tailored, controlled, and consolidated interactions with Amazon Q business.
+https://github.com/aws-samples/research-pacs-on-aws # The Research PACS on AWS solution facilitates researchers' access medical images stored in the clinical PACS in a secure and seamless manner
+https://github.com/aws-samples/cognito-auth-function #
+https://github.com/aws-samples/aws-appsync-iot-core-realtime-dashboard # This sample application demonstrates a React based web dashboard receiving real-time updates from IoT sensors. The solut
+ion is built with AWS AppSync, AWS Amplify, Amazon Location Service, and AWS IoT Core technologies. https://github.com/aws-samples/login-with-itsme-and-cognito #
+https://github.com/aws-samples/cloudfront-app-with-cognito-auth-at-edge # A tool for easy authentication and authorization of users in Cloudfront Distributions by leveraging Lambda@Edge to reque
+st an ID token from any OpenId Connect Provider, then exchanging that token for temporary, rotatable credentials using Cognito Identity Pools. https://github.com/aws-samples/eks-logging-es-cognito #
+https://github.com/aws-samples/amazon-cognito-user-pool-development-and-testing-with-sms-redirected-to-email #
+https://github.com/aws-samples/kendra-cognito-apigateway-cdk-sample # An Amazon Kendra REST API CDK example with an API Gateway, including authentication with AWS Cognito and AWS X-Ray Tracing
+https://github.com/aws-samples/cdktf-aws-elb-cognito-auth # Website included AWS ALB authenticate users with AWS Cognito using Terraform CDK
+https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement # Amazon Rekognition Custom Labels
+https://github.com/aws-samples/cloudfront-cognito-login #
+https://github.com/aws-samples/amazon-cognito-whatsapp-otp # This repository offers guidance on how to use an Amazon Cognito Userpool's custom SMS sender Lambda trigger to send OTP messages on WhatsApp when a user signs up. 
+https://github.com/aws-samples/authentication-flow-examples-with-dotnet-for-amazon-cognito #
+https://github.com/aws-samples/api-gw-http-only-cookie-auth #
+https://github.com/aws-samples/dotnet-serverless-imagerecognition # The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate a serverless processing workflow using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition. https://github.com/aws-samples/ml-edge-getting-started #
+https://github.com/aws-samples/saas-authnz-demo-with-amazon-cognito # Sample Application to Implement Authentication and Authorization Concepts of SaaS on AWS using Amazon Cognito
+https://github.com/aws-samples/aws-cdk-for-discourse # AWS CDK for Discourse
+https://github.com/aws-samples/apigw-cognito-context # This sample demonstrates how Amazon API Gateway can be used to augment the data available in an Amazon Cognito access token. By leveraging
+AWS Lambda as a Lambda Authorizer, Amazon API Gateway can populate the context with the Amazon Cognito user's attributes. https://github.com/aws-samples/cognito-amplify-nodejs #
+https://github.com/aws-samples/rest-api-gateway-jwt-cognito # CDK (TypeScript) sample on how to configure API Gateway (REST API) with JWT token auth via Amazon Cognito and Lambda Authorizers
+https://github.com/aws-samples/chime-live-translation-transcription-polly # WebApp Proof of Concept - Live Translation + Polly
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-pgvector # Opinionated sample on how to build/deploy a RAG web app on AWS powered by Amazon Bedrock and PGVector (on Amazon RDS)
+https://github.com/aws-samples/sagemaker-studio-mlflow-integration #
+https://github.com/aws-samples/amazon-ivs-ugc-platform-web-demo # This repository shows how you can build a compelling user-generated content (UGC) live streaming platform with Amazon IVS.
+https://github.com/aws-samples/cognito-user-token-helper # Python script to help create users in Amazon Cognito User Pools, and generate JWT tokens for authorization
+https://github.com/aws-samples/amazon-amplify-passwordless-login-authenticator # Art of the possible with Amplify + iOS passwordless login
+https://github.com/aws-samples/amazon-cognito-unity-integration # Amazon Cognito and AWS services for your next Unity VR application.
+https://github.com/aws-samples/aws-cognito-kakao-oidc-react #
+https://github.com/aws-samples/aws-sdk-getting-started-message-of-the-day # A simple project for either C++ or .Net that uses AWS Lambda, Amazon S3 and Amazon Cognito anonymous authentication to
+show how you can quickly and easily integrate Amazon Web Services in to your game. https://github.com/aws-samples/realtime-toxicity-detection # This repository contains a complete solution for detecting toxicity across voice and text chats, cost efficiently and at scale, in ne
+ar real time. It makes use of a number of Serverless and Fully Managed AWS services, including Amazon SageMaker, Amazon Cognito, AWS Lambda, AWS Amplify, and Amazon Transcribe https://github.com/aws-samples/building-frog-junction-technical-guide # This project accompanies the technical guide "Building Frog Junction". It contains all the source code and assets needed t
+o build the Unity client. It also contains full source code listings for AWS resources that appear in the book. https://github.com/aws-samples/aws-authing-demo # This is a simple demo for integrating Authing in AWS China region to protect API Gateway REST API and other AWS resources such as IoT, Polly and
+etc. Authing is an ID service offered by Authing.cn and it could be used as a replacement for Cognito User Pool which is not available in AWS China region now. https://github.com/aws-samples/cognito-device-grant-flow-cleaning #
+https://github.com/aws-samples/http-api-gateway-jwt-cognito # CDK (TypeScript) sample on how to configure API Gateway (HTTP API) with JWT token auth via Amazon Cognito
+https://github.com/aws-samples/saml-authn-and-authz-example-for-aws-transfer-family # The following project is an example of a secure multi-tenant file transfer solution that empowers each tenan
+t to manage the fine-grained permissions of users within their own logical directories https://github.com/aws-samples/amazon-cognito-with-x-for-web3auth #
+https://github.com/aws-samples/amazon-ivs-real-time-collaboration-web-demo # This project demonstrates a video collaboration application powered by Amazon IVS Real-time, serving as a reference f
+or building compelling social video experiences. https://github.com/aws-samples/foundational-llm-chat # Chainlit application built using AWS CDK, secured with Amazon Cognito, that allows you to interact with Anthropic's Claude language models
+from Amazon Bedrock. https://github.com/aws-samples/configuring-qbusiness-with-idc-tti # Sample to configure Amazon Q Business Identity-Aware APIs with AWS IAM Identity Center Trusted Token Propagation
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-opensearch # Opinionated sample on how to build and deploy a RAG application with Amazon Bedrock and OpenSearch
+
+https://github.com/awslabs/cognito-at-edge # Serverless authentication solution to protect your website or Amplify application
+https://github.com/awslabs/cognito-proxy-rest-service # Moving the Amazon Cognito functionality down the stack to the backend. Ideal for migration purposes and extremely custom Auth functionalit
+y. https://github.com/awslabs/aws-jwt-verify # JS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256, RS384, and RS512
+https://github.com/awslabs/aws-amplify-identity-broker # A centralized login and SSO application to authenticate several websites and mobile apps.
+https://github.com/awslabs/aws-amplify-identity-broker-client # Client demo code sample for the project "AWS Amplify identity broker" https://github.com/awslabs/aws-amplify-identity-broker
+https://github.com/awslabs/simpleiot # Installer source for SimpleIOT back-end.
+
+https://github.com/aws/aws-aspnet-cognito-identity-provider # ASP.NET Core Identity Provider for Amazon Cognito
+https://github.com/aws/aws-sdk-net-extensions-cognito # An extension library to assist in the Amazon Cognito User Pools authentication process

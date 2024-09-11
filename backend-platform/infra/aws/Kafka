@@ -1,0 +1,78 @@
+https://github.com/build-on-aws/building-apache-kafka-connectors # Sample code that shows the important aspects of developing custom connectors for Kafka Connect. It provides the resources for b
+uilding, deploying, and running the code on-premises using Docker, as well as running the code in the cloud. https://github.com/build-on-aws/prioritizing-event-processing-with-apache-kafka # Technical solution to implement event processing prioritization with Apache Kafke using the concept of buckets.
+https://github.com/build-on-aws/real-time-streaming-analytics-application-using-apache-kafka # Sample code repository to build a real-time streaming analytics application using Apache Kafka on AWS
+
+https://github.com/build-on-aws/understanding-apache-kafka-partitions #
+https://github.com/build-on-aws/opensearch-using-kafka-golang # Ingesting Data into OpenSearch using Apache Kafka and Go
+
+https://github.com/aws-samples/mirrormaker2-msk-migration #
+https://github.com/aws-samples/amazon-msk-java-app-cdk # This project provides and example of end to end data processing application created using the combination of Amazon Managed Streaming for
+Apache Kafka (Amazon MSK), AWS Fargate, AWS Lambda and Amazon DynamoDB. Business logic is implemented in Java and Typescript. The build and deployment of the application is fully automated using AWS CDK. https://github.com/aws-samples/amazon-msk-client-authentication #
+https://github.com/aws-samples/aws-dms-msk-demo #
+https://github.com/aws-samples/analysing-realtime-streaming-data-using-msk-emr #
+https://github.com/aws-samples/aws-msk-content-streaming # How to stream content on the web with Amazon MSK
+https://github.com/aws-samples/msk-powered-financial-data-feed # Publish a real-time financial data feed to a Kafka client using Amazon MSK
+https://github.com/aws-samples/integration-sample-lambda-msk #
+https://github.com/aws-samples/amazon-msk-with-apache-kafka-streams-api #
+https://github.com/aws-samples/sasl-scram-secrets-manager-client-for-msk #
+https://github.com/aws-samples/aws-msk-cross-account-connectivity-sample # This repo is used to implement the Amazon MSK clusters cross-account connectivity using Terraform
+https://github.com/aws-samples/msk-serverless-data-pipeline #
+https://github.com/aws-samples/msk-config-providers #
+https://github.com/aws-samples/amazon-documentdb-streams-msk #
+https://github.com/aws-samples/private-link-cross-account-access-for-msk #
+https://github.com/aws-samples/amazon-msk-topic-resource # Custom CloudFormation resource that can be used to create and manage Kafka topics in MSK clusters.
+https://github.com/aws-samples/lab-resources-for-amazon-msk #
+https://github.com/aws-samples/aws-lambda-msk-mtls-integration #
+https://github.com/aws-samples/aws-msk-cross-account-glue-schema-registry #
+https://github.com/aws-samples/amazon-sagemaker-feature-store-streaming-inference-msk-kda #
+https://github.com/aws-samples/aws-iot-msk-rule-cloudformation-example # CloudFormation templates to create AWS IoT Rule with Amazon MSK cluster integration.
+https://github.com/aws-samples/aws-msk-cdc-data-pipeline-with-debezium # Data Pipeline for CDC data from MySQL DB to Amazon S3 through Amazon MSK using Amazon MSK Connect (Debezium).
+https://github.com/aws-samples/apigateway-lambda-msk-serverless-integration #
+https://github.com/aws-samples/cruise-control-for-msk #
+https://github.com/aws-samples/flink-clickstream-processor-msk #
+https://github.com/aws-samples/transactional-datalake-using-amazon-msk-serverless-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue S
+treaming using Amazon MSK Serverless and MSK Connect (Debezium) https://github.com/aws-samples/msk-flink-streaming-cdk #
+https://github.com/aws-samples/aws-glue-streaming-ingestion-from-kafka-to-apache-iceberg # This is a collecton of Amazon CDK projects to show how to directly ingest streaming data from Amazon Ma
+nanged Service for Apache Kafka (MSK) and MSK Serverless into Apache Iceberg table in S3 with AWS Glue Streaming. https://github.com/aws-samples/aws-glue-msk-with-schema-registry #
+https://github.com/aws-samples/streaming-data-pipeline-from-kafka-to-s3-using-aws-kinesis-firehose # Streaming data pipeline to continuously load data from an Amazon MSK or MSK Serverless cluste
+r to Amazon S3 using Amazon Kinesis Data Firehose. https://github.com/aws-samples/transactional-datalake-using-amazon-msk-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming us
+ing Amazon MSK and MSK Connect (Debezium) https://github.com/aws-samples/redshift-streaming-ingestion-patterns # This is a collecton of CDK projects to show how to load data from streaming services into Amazon Redshift.
+https://github.com/aws-samples/amazon-rabbitmq-msk-saslscram-camel-integration # Camel Connector for SASL/SCRAM enabled Amazon MSK
+https://github.com/aws-samples/amazon-msk-kafka-quotas #
+https://github.com/aws-samples/msk-third-party-mtls #
+https://github.com/aws-samples/msk-connect-custom-plugin-jmx #
+https://github.com/aws-samples/msk-open-monitoring #
+https://github.com/aws-samples/aws-msk-serverless-cdc-data-pipeline-with-debezium # Data Pipeline for CDC data from MySQL DB to Amazon S3 through Amazon MSK Serverless using Amazon MSK Connect (
+Debezium). https://github.com/aws-samples/lambda-cross-account-msk #
+https://github.com/aws-samples/amazon-msk-appsync-datadistribution-blog #
+
+https://github.com/aws-samples/clickstream-producer-for-apache-kafka #
+https://github.com/aws-samples/kafka-connect-mm2 #
+https://github.com/aws-samples/clickstream-consumer-for-apache-kafka #
+https://github.com/aws-samples/serverless-kafka-producer #
+https://github.com/aws-samples/aws-xray-apache-kafka-sample # Trace end-to-end performance of messaging applications built on Apache Kafka using AWS X-Ray
+Apache Kafka (Amazon MSK), AWS Fargate, AWS Lambda and Amazon DynamoDB. Business logic is implemented in Java and Typescript. The build and deployment of the application is fully automated using AWS CDK. https://github.com/aws-samples/aws-msk-cross-account-connectivity-sample # This repo is used to implement the Amazon MSK clusters cross-account connectivity using Terraform
+https://github.com/aws-samples/aws-cdk-managed-elkk # Managed ELKK stack implemented with the AWS CDK
+nanged Service for Apache Kafka (MSK) and MSK Serverless into Apache Iceberg table in S3 with AWS Glue Streaming. https://github.com/aws-samples/amazon-keyspaces-with-apache-kafka # Amazon Keyspaces with Apache Kafka
+https://github.com/aws-samples/kafkatopics-to-deliverystream-mapper #
+r to Amazon S3 using Amazon Kinesis Data Firehose. https://github.com/aws-samples/transactional-datalake-using-amazon-msk-serverless-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue S
+treaming using Amazon MSK Serverless and MSK Connect (Debezium) https://github.com/aws-samples/aws-msk-serverless-cdc-data-pipeline-with-debezium # Data Pipeline for CDC data from MySQL DB to Amazon S3 through Amazon MSK Serverless using Amazon MSK Connect (
+Debezium).
+
+https://github.com/awslabs/kinesis-kafka-connector # kinesis-kafka-connector is connector based on Kafka Connect to publish messages to Amazon Kinesis streams or Amazon Kinesis Firehose.
+https://github.com/awslabs/flowgger # A fast data collector in Rust
+https://github.com/awslabs/eventbridge-kafka-connector # Kafka sink connector for Amazon EventBridge to send events (records) from Kafka topic(s) to the specified EventBridge event bus
+https://github.com/awslabs/streaming-endpoint-for-apache-hbase # This is a custom Apache HBase replication endpoint, to stream records into Apache Kafka, Amazon Kinesis, etc.
+
+https://github.com/awslabs/amazon-msk-data-generator # Data generator for Amazon MSK
+https://github.com/awslabs/amazon-msk-config-detector #
+
+https://github.com/aws/aws-msk-iam-auth # Enables developers to use AWS Identity and Access Management (IAM) to connect to their Amazon Managed Streaming for Apache Kafka (Amazon MSK) clusters.
+https://github.com/aws/go-kafka-event-source # Go/Kafka client library for developing event sourcing applications
+https://github.com/aws/personalize-kafka-connector #
+
+https://github.com/aws/aws-msk-iam-auth # Enables developers to use AWS Identity and Access Management (IAM) to connect to their Amazon Managed Streaming for Apache Kafka (Amazon MSK) clusters.
+https://github.com/aws/aws-msk-iam-sasl-signer-python #
+https://github.com/aws/aws-msk-iam-sasl-signer-go #
+https://github.com/aws/aws-msk-iam-sasl-signer-net #
+https://github.com/aws/aws-msk-iam-sasl-signer-js #

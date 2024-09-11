@@ -1,0 +1,104 @@
+https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk # Get ready to embark on an exciting journey as we combine the power of Amazon Bedrock, ReactJS an
+d the AWS JavaScript SDK to create a generative AI application with minimal integration code. https://github.com/build-on-aws/aws-redis-iam-auth-golang # Using IAM authentication for Redis on AWS
+https://github.com/build-on-aws/realtime-dynamodb-zero-etl-opensearch-visualization # In the fast-paced world of data-driven decision making, real-time insights are crucial for staying ahead of
+the competition. Amazon OpenSearch Service and Amazon DynamoDB offer a powerful combination that enables organizations to visualize and analyze data in near real-time, without the need for complex Extract, Transform, Load (ETL) processes
+
+https://github.com/aws-samples/aws-iam-permissions-guardrails # AWS IAM Permissions Guardrails https://aws-samples.github.io/aws-iam-permissions-guardrails/
+https://github.com/aws-samples/iam-identity-center-team # Open-source temporary elevated access solution for AWS IAM Identity Center.
+https://github.com/aws-samples/aws-iam-access-key-auto-rotation # This set of CloudFormation templates and Python scripts will set up an auto-rotation function that will automatically rotate you
+r AWS IAM User Access Keys every 90 days. https://github.com/aws-samples/aws-iam-temporary-elevated-access-broker # Allow users to request temporary elevated access to your AWS environment
+https://github.com/aws-samples/aws-iamctl #
+https://github.com/aws-samples/aws-iam-identity-center-extensions # This solution is intended for enterprises that need a streamlined way of managing user access to their AWS accounts. Using thi
+s solution, your identity and access management teams can extend AWS SSO functionality by automating common access management and governance use cases https://github.com/aws-samples/aws-iam-accessadvisor-permissionboundary # Audit IAM roles and users using Access Advisor data using Python/boto3 SDK and automatically create IAM permissions boun
+daries to limit access https://github.com/aws-samples/iam-policy-tester-pipeline # Test IAM Policies in Multi Account Structures in your CI/CD pipeline
+https://github.com/aws-samples/iam-roles-pipeline #
+https://github.com/aws-samples/aws-iam-credential-report # AWS CloudFormation templates and Python code for AWS blog post on how to automate IAM credential reports at scale across AWS.
+https://github.com/aws-samples/iam-identitycenter-identitystoreapi-operations #
+https://github.com/aws-samples/elevate-your-aws-iam-policy-using-iam-access-analyzer # This implementation demonstrates the AWS Identity and Access Management (IAM) Access Analyzer policy valida
+tion capability. Learn how to use it to build a batch job to report on existing policy findings and visualize the results using Amazon Quicksight. https://github.com/aws-samples/aws-iam-identity-center-sync-script # On Demand SCIM provisioning of Azure AD to AWS SSO with PowerShell
+https://github.com/aws-samples/aws-iam-access-analyzer-samples # This repository contains sample code that demonstrates different ways to use the AWS IAM Access Analyzer APIs.
+https://github.com/aws-samples/k8s-rbac-iam-java-operator # Integrate AWS IAM with Kubernetes RBAC in an Amazon EKS cluster
+https://github.com/aws-samples/elasticache-iam-auth-demo-app #
+https://github.com/aws-samples/aws-cdk-elasticache-redis-iam-rbac # Demonstrates a sample architecture that will allow you to define AWS IAM roles that are mapped to Amazon ElastiCache Redis RBA
+C users by using AWS Secrets Manager as a proxy to manage access to login credentials. https://github.com/aws-samples/aws-iam-root-user-activity-monitor #
+https://github.com/aws-samples/automated-iam-access-analyzer #
+https://github.com/aws-samples/aws-iam-ra-for-kubernetes #
+https://github.com/aws-samples/aws-iam-identity-center-automation # Accelerate AWS IAM Identity Center (successor to AWS Single Sign-On (SSO)) implementation using AWS CDK. This CDK program allo
+ws you to conveniently define your own permission sets and assignments without the need to tediously create your own AWS CloudFormation templates for your AWS IAM Identity Center deployment minimizing the risk of human misconfigurations. https://github.com/aws-samples/example-permissions-boundary # This repository contains a sample IAM permissions boundary as a starting point for creating your own permissions boundary to meet
+the security needs of your organization. The IAM permissions boundary sample, when attached to an IAM role, allow it to perform all expected workload tasks without being able to modify the security of its environment. https://github.com/aws-samples/bulk-policy-migrator-scripts-for-account-cost-billing-consoles # Scripts to bulk migrate IAM policies to use fine-grained IAM actions for account, cost and billing
+consoles https://github.com/aws-samples/aws-iam-identity-center-permission-policies-analyzer #
+https://github.com/aws-samples/aws-iam-access-analyzer-kms-blog # How to use AWS IAM Access Analyzer API to detect public access to AWS resources on example of AWS KMS CMK
+https://github.com/aws-samples/automated-role-entitlements-in-aws-iam-identity-center # This solution will help you automate user group assignment to permission sets in AWS IAM Identity center f
+or accessing any or all AWS accounts in your organization via federated access following principles of least privilege. https://github.com/aws-samples/automate-saml-federation # AWS IAM Role sync with Azure Active Directory | extensible for other Directory Services
+https://github.com/aws-samples/iam-password-policy-deployment-via-cloudformation-stacksets # Sample code for deploying IAM password policies across a fleet of AWS accounts using CloudFormation S
+tackSets https://github.com/aws-samples/visualize-iam-access-analyzer-policy-validation-findings #
+https://github.com/aws-samples/blog-devops-iamra #
+https://github.com/aws-samples/automating-iam-credential-reports-for-large-aws-organizations #
+https://github.com/aws-samples/iam-access-key-report #
+https://github.com/aws-samples/discover-aws-iam-resource-access # A Python script to discover AWS IAM identities (users and roles) with specified access to specified resources.
+https://github.com/aws-samples/awssso-migration-scripts # A collection of helper scripts for migrating existing AWS IAM federation into AWS SSO
+https://github.com/aws-samples/identity-center-with-terraform # Manage AWS IAM Identity Center permission sets and account assignments with Terraform.
+https://github.com/aws-samples/aws-iam-identity-center-pipeline #
+https://github.com/aws-samples/aws-saas-factory-dynamodb-fine-grained-access-control-for-saas # This repo shows how Amazon DynamoDB tables can be shared across multiple tenants in a SaaS by enfo
+rcing security using DynamoDB fine-grained access control with a dynamically generated AWS IAM policy, to prevent cross-tenant data access and noisy neighbors https://github.com/aws-samples/devlab-iam-password-policy # ANZ Summit 2022 Dev Lab: Automate Setting AWS Account Password Policy for IAM Users
+https://github.com/aws-samples/aws-config-systems-manager-instance-policy # A solution to deploy AWS Config rules to audit/remediate IAM entities which have AWS Managed Policy AmazonEC2RoleforSS
+M attached. https://github.com/aws-samples/iam-access-analyzer-custom-policy-check-samples #
+https://github.com/aws-samples/aws-secrets-manager-abac-authorization-samples # This repository is a set of reference CDK templates and client utility to show how to use attribute-based access c
+ontrol (ABAC) authorization to access AWS Secrets Manager secrets from on-premise application using IAM Role Anywhere and on AWS cloud using IAM role from a sample serverless application.  https://github.com/aws-samples/aws-sso-profile-tool # The AWS IAM Identity Center Profile Tool (aka AWS SSO Profile Tool) is a script that helps create profiles for all the accounts/roles you ha
+ve access to as an SSO user. These profiles can then be used by AWS CLI v2 to get access to your AWS accounts using short-lived credentials. https://github.com/aws-samples/aws-blog-automate-iam-role-deletion #
+https://github.com/aws-samples/aws-cloudformation-template-for-data-analytics-iam-users #
+https://github.com/aws-samples/aws-network-hub-for-terraform # This repository demonstrates a scalable, segregated, secured AWS network hub for multi-account organizations using Terraform.
+https://github.com/aws-samples/vscode-on-ec2-for-prototyping # This repository introduces how to access and use VSCode hosted on EC2 from a browser. The connection is made via Session Manager, s
+o IAM permissions are used for authentication. The access destination will be localhost. https://github.com/aws-samples/validate-policy # This project creates Lambda function that automatically validates policy document defined when a policy or role is created or updated.
+https://github.com/aws-samples/aws-iam-identity-center-scim-sync # This repo contains a PowerShell script and AWS CloudFormation templates used to establish a container-based environment to peri
+odically sync Active Directory / LDAP users and groups to AWS IAM Identity Center using SCIM where customers are federating with a service that does not natively support SCIM. https://github.com/aws-samples/aws-iam-unused-access-workshop #
+https://github.com/aws-samples/integrate-external-aws-accounts-into-iam-identity-center # This repository provides a deployable solution using Infrastructure-as-Code (IaC) templates with AWS Clo
+udFormation to help you automate the configuration of AWS IAM Identity Center integration with external AWS accounts using SAML 2.0. https://github.com/aws-samples/aws-iam-refining-policy-permissions #
+https://github.com/aws-samples/eks-aws-auth-configmap # This repository provides sample code that uses programmatic way for applying aws-auth ConfigMap in Amazon EKS (Programmatic Amazon EKS Clu
+ster permission for IAM User/Role) and for accessing Kubernetes Objects like list pods and read daemonset (accessing/updating Kubernetes objects through Kubernetes client api) https://github.com/aws-samples/single-stage-aws-iam-identity-center-pipeline # A solution designed to simplify AWS Identity Center (SSO) management using simple JSON/YAML inputs.
+https://github.com/aws-samples/multiple-iam-identity-center-instance-management #
+https://github.com/aws-samples/amazon-sagemaker-studio-vpc-networkfirewall # This solution demonstrates the setup and deployment of Amazon SageMaker Studio into a private VPC and implementation
+of multi-layer security controls, such as data encryption, network traffic monitoring and restriction, usage of VPC endpoints, subnets and security groups, IAM resource policies. https://github.com/aws-samples/migration-evaluator-for-aws-iam-identity-center #
+https://github.com/aws-samples/manage-identity-source-transition-for-aws-iam-identity-center #
+https://github.com/aws-samples/identity-center-users-and-groups-with-terraform # Create AWS IAM Identity Center groups, users, and group membership with Terraform.
+https://github.com/aws-samples/orgs-prescriptive-guidance # Guidance for Organization on AWS
+https://github.com/aws-samples/aws-control-tower-webhook-notifications # This cdk package installs a Lambda function, with an associated IAM role, and subscribes the Lambda function to Control T
+ower aggregate security notifications. In the event of a Control Tower rule violation (e.g. publicly accessible S3 bucket), the Lambda sends a notification to a web hook. https://github.com/aws-samples/configuring-qbusiness-with-idc-tti # Sample to configure Amazon Q Business Identity-Aware APIs with AWS IAM Identity Center Trusted Token Propagation
+https://github.com/aws-samples/aws-cloud-operation-samples # This repository contains a collection of AWS Lambda functions and AWS CloudFormation template samples to perform common Cloud Operati
+ons for services such as: CloudWatch, IAM, RDS and more. https://github.com/aws-samples/centralized-iam-key-management-aws-organizations-terraform #
+https://github.com/aws-samples/use-iam-roles-anywhere-with-amazon-workspaces #
+https://github.com/aws-samples/aws-dynamodb-encrypt-with-abac # Sample code in Python utilizing CDK for a solution for client-side encryption of data in DynamoDB with attribute based access cont
+rol (ABAC) for accessing the data https://github.com/aws-samples/how-and-when-to-use-aws-iam-policy-blog-samples #
+https://github.com/aws-samples/iam-credential-rotator-terraform # a reusable Terraform module to automate the rotation of IAM user keys in AWS, managing the creation, deletion, and deactivation
+of keys. https://github.com/aws-samples/iam-permissions-boundary-api-sls #
+https://github.com/aws-samples/aws-data-foundations-framework # The Data Foundations Framework accelerates deployment of a modern data platform using AWS native services and best practices.
+https://github.com/aws-samples/fis-api-failure-injection-using-iam #
+https://github.com/aws-samples/cross-account-iam-auth-with-rds-proxy # A demo CDK app for demonstrating cross-account IAM authentication with RDS Proxy
+https://github.com/aws-samples/aws-trusted-advisor-glue-aggregator-terraform # These Terraform modules aggregate the AWS Trusted Advisor results from different accounts to a centralised account,
+using AWS Lambda, AWS IAM, Amazon S3 and Amazon SQS https://github.com/aws-samples/add-policy-to-ec2-role # This project creates Lambda function that automatically add required AWS Identity and Access Management (IAM) policies to current Amazon E
+lastic Compute Cloud (Amazon EC2) instance profiles or associate a profile to EC2 instances without a profile associated.  
+ https://github.com/aws-samples/ssm-session-manager-limiting-concurrent-sessions # The purpose of this project is to allow System Administrators to limit active concurrent Session Manager (SSM) s
+essions. This application uses TypeScript to configure the iAM Policy and Session Manager Preferences; The SSM Preferences include Windows and Linux Shell Profiles which run on the EC2 instance every time a new SSM session is started. Once these scripts execute, they check if concurrent session have been exceeded and terminates the oldest session.
+
+https://github.com/awslabs/aws-iam-generator # Generate Multi-Account IAM users/groups/roles/policies from a simple YAML configuration file and Jinja2 templates.
+https://github.com/awslabs/terraform-iam-policy-validator # A command line tool that validates AWS IAM Policies in a Terraform template against AWS IAM best practices
+https://github.com/awslabs/aws-cloudformation-iam-policy-validator #
+https://github.com/awslabs/ecs-secrets # Runtime secrets management solution for ECS using Task IAM Roles
+https://github.com/awslabs/aws-iam-aad # This package includes a set of PowerShell scripts that run inside an AWS Fargate task and keep AWS IAM roles synchronized with Azure Active Directory rol
+es. It is used to setup single-sign-on federation between Azure AD and AWS Management Console. https://github.com/awslabs/amazon-ecs-local-container-endpoints # A container that provides local versions of the ECS Task Metadata Endpoint and ECS Task IAM Roles Endpoint.
+https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet # This repository lets you train neural networks models for performing end-to-end full-page handwriting recognition using
+the Apache MXNet deep learning frameworks on the IAM Dataset. https://github.com/awslabs/iam-roles-anywhere-session # This package provides an easy way to create a refreshable boto3 Session with AWS Roles Anywhere.
+https://github.com/awslabs/amazon-emr-user-role-mapper # Application to securely map users on a multi tenant Amazon EMR cluster to different IAM Roles and then assume the mapped Role.
+https://github.com/awslabs/aws-break-glass-role # Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activitie
+s in the role to secure its use in production environments. https://github.com/awslabs/aws-iam-access-analyzer-policy-validation-config-rule #
+https://github.com/awslabs/aws-iot-core-credential-provider-session-helper # This package provides an easy way to create a refreshable Boto3 Session using the AWS IoT Core credential provider.
+
+https://github.com/aws/aws-msk-iam-auth # Enables developers to use AWS Identity and Access Management (IAM) to connect to their Amazon Managed Streaming for Apache Kafka (Amazon MSK) clusters.
+https://github.com/aws/aws-msk-iam-sasl-signer-python #
+https://github.com/aws/aws-msk-iam-sasl-signer-go #
+https://github.com/aws/aws-sigv4-auth-cassandra-python-driver-plugin # A SigV4 authentication plugin for the open-source Python Driver for Apache Cassandra. Allows use of IAM users and roles.
+https://github.com/aws/aws-sigv4-auth-cassandra-nodejs-driver-plugin # A SigV4 authentication client side plugin for the open-source DataStax NodeJS Driver for Apache Cassandra. Allows use of IA
+M users and roles. https://github.com/aws/aws-sigv4-auth-cassandra-java-driver-plugin # A SigV4 authentication plugin for the open-source DataStax Java Driver for Apache Cassandra. Allows use of AWS IAM users and
+roles for direct authentication. https://github.com/aws/aws-sigv4-auth-cassandra-gocql-driver-plugin # A SigV4 authentication plugin for the open-source Gocql Driver for Apache Cassandra. Allows use of IAM users and roles
+https://github.com/aws/aws-msk-iam-sasl-signer-net #
+https://github.com/aws/aws-msk-iam-sasl-signer-js #

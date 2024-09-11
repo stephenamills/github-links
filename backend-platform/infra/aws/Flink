@@ -1,0 +1,44 @@
+https://github.com/build-on-aws/real-time-gaming-leaderboard-apache-flink # Example gaming leaderboard application covering streaming ingestion, CDC enrichment, processing and visualisation including demo of advance real-time analytics concepts like late data arrival, exactly-once, dynamic config, archival and on-demand replay
+https://github.com/build-on-aws/real-time-streaming-analytics-application-using-apache-kafka # Sample code repository to build a real-time streaming analytics application using Apache Kafka on AWS
+https://github.com/build-on-aws/real-time-analytics-with-flink-sql # Sample code repository that contains the sample data set files and Zeppelin notes to run analytical queries with SQL.
+
+https://github.com/aws-samples/flink-stream-processing-refarch # Reference architecture for real-time stream processing with Apache Flink on Amazon EMR, Amazon Kinesis, and Amazon Elasticsearch Service.
+https://github.com/aws-samples/amazon-kinesis-analytics-streaming-etl # Streaming ETL with Apache Flink and Amazon Kinesis Data Analytics
+https://github.com/aws-samples/amazon-managed-service-for-apache-flink-examples # Collection of code examples for Amazon Managed Service for Apache Flink
+https://github.com/aws-samples/kda-flink-app-autoscaling # This repo demonstrates how to use AWS application auto-scaling to implement custom-scaling in your Kinesis Data Analytics for Apache Flink applications
+https://github.com/aws-samples/amazon-kinesis-data-analytics-snapshot-manager-for-flink # Snapshot manager for Amazon Kinesis Data Analytics for Apache Flink helps the users to generate a snapshot on a periodic basis.
+https://github.com/aws-samples/amazon-kinesis-data-analytics-flinktableapi # A walkthrough of setting up a Kinesis Data Analytics for Java Application which ingest streaming JSON data and leverages the Flink Table API.
+https://github.com/aws-samples/realtime-bushfire-alert-with-apache-flink-cep # Code and documentation for the demonstration example of the real-time bushfire alerting with the Complex Event Processing (CEP) in Apache Flink on Amazon EMR and a simulated IoT sensor network as described on the AWS Big Data Blog: Real-time bushfire alerting with Complex Event Processing in Apache Flink on Amazon EMR and IoT sensor network.
+https://github.com/aws-samples/amazon-kinesis-data-analytics-flink-benchmarking-utility # Amazon Managed Service for Apache Flink Benchmarking Utility helps with capacity planning, integration testing, and benchmarking of Amazon Managed Service for Apache Flink applications.
+https://github.com/aws-samples/kinesis-data-analytics-apache-flink-async-io # Showcases the AsyncIO Functionality within Apache Flink for Kinesis Data Analytics
+https://github.com/aws-samples/flink-industrial-anomaly-detector #
+https://github.com/aws-samples/kinesis-data-analytics-flink-aurora-sink # Showcases how to use Apache Flink on Kinesis Data Analytics to write to Amazon Aurora
+https://github.com/aws-samples/amazon-kinesis-analytics-taxi-consumer # Sample Apache Flink application that can be deployed to Kinesis Analytics for Java. It reads taxi events from a Kinesis data stream, processes and aggregates them, and ingests the result to an Amazon Elasticsearch Service cluster for visualization with Kibana.
+https://github.com/aws-samples/cost-optimized-flink-on-kubernetes #
+https://github.com/aws-samples/amazon-kinesis-analytics-beam-taxi-consumer # Sample Apache Beam pipeline that can be deployed to Amazon Managed Service for Apache Flink. It reads taxi events from a Kinesis data stream, processes and aggregates them, and ingests the result to Amazon CloudWatch for visualization.
+https://github.com/aws-samples/amazon-kda-studio-flinksql-example # This sample gets you started to run Flink SQL on AWS.
+https://github.com/aws-samples/amazon-kinesis-data-analytics-for-pyflink-applications # Sample code for building a Python application for Apache Flink on Kinesis Data Analytics.
+https://github.com/aws-samples/amazon-kinesis-timestream-grafana # Sample serverless application that reads events from Amazon Kinesis Data Streams and batches records to Amazon Timestream via Apache Flink app, visualizing results via Grafana.
+https://github.com/aws-samples/real-time-sentiment-flinksql-kdastudio #
+https://github.com/aws-samples/aws-real-time-web-shop-analytics # Real-time web shop streaming analytics on AWS
+https://github.com/aws-samples/streaming-data-lake-flink-cdc-apache-hudi #
+https://github.com/aws-samples/amazon-managed-service-for-apache-flink-taxi-consumer # Sample Apache Flink application that can be deployed to Amazon Managed Service for Apache Flink. It reads taxi events from a Kinesis data stream, processes and aggregates them, and ingests the result to an Amazon OpenSearch Service cluster for visualization with Dashboard.
+https://github.com/aws-samples/efo-ltr-flink-sample # Sample showcasing the use of FlinkKinesisConsumer with EFO support
+https://github.com/aws-samples/flink-clickstream-processor-msk #
+https://github.com/aws-samples/apache-flink-near-online-data-enrichment-patterns #
+https://github.com/aws-samples/msk-flink-streaming-cdk #
+https://github.com/aws-samples/kda-metrics-dashboard # This repository contains a CloudFormation template that you can customize to deploy a sample metrics dashboard for your Kinesis Data Analytics for Apache Flink application.
+https://github.com/aws-samples/amazon-kinesis-data-analytics-apache-flink-server-sent-events-sse # When dealing with real-time data it is often required to send that data over the internet to various sources. Various technologies have enabled this such as web sockets and long polling. Recently server-sent events (SSE) has become a popular technology to push updates to clients. Ingesting this type of data source into AWS requires a client to be running continuously to receive those events. This sample shows how to connect to an SSE endpoint using an Amazon Kinesis Data Analytics application using Apache Flink. As the events arrive they are published to an Amazon Kinesis Data Streams stream then in this sample we simply store the event data in Amazon S3.
+https://github.com/aws-samples/real-time-genai-embeddings-for-rag-with-apache-flink #
+https://github.com/aws-samples/streaming-ingestion-from-snowflake-to-apache-iceberg-with-apache-flink #
+https://github.com/aws-samples/kda-flink-maven-archetype-quickstart #
+https://github.com/aws-samples/apache-flink-temporal-tables-example #
+https://github.com/aws-samples/spot-anomalies-flink-workshop-resources #
+https://github.com/aws-samples/amazon-managed-apache-flink-service-pyflink-starter-kit #
+
+https://github.com/awslabs/amazon-kinesis-connector-flink # This is a fork of the Apache Flink Kinesis connector adding Enhanced Fanout support for Flink 1.8/1.11 on KDA.
+https://github.com/awslabs/managed-service-for-apache-flink-blueprints #
+https://github.com/awslabs/static-checker-flink # Maven plugin to detect known connector incompatibility and other Apache Flink issues at build time
+https://github.com/awslabs/amazon-kinesis-connector-flink-state-migrator # Migrate from Amazon Kinesis Connector (Flink 1.8/11) to Apache Flink Kinesis connector (Flink 1.13+)
+
+https://github.com/aws/aws-kinesisanalytics-flink-connectors # This library contains various Apache Flink connectors to connect to AWS data sources and sinks.
