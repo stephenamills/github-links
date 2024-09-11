@@ -8,72 +8,70 @@ https://github.com/aws-solutions-library-samples/guidance-for-multi-modal-data-a
 https://github.com/aws-solutions-library-samples/guidance-for-low-latency-high-throughput-model-inference-using-amazon-sagemaker # Advertising and bidding
 https://github.com/aws-solutions-library-samples/guidance-for-recency-frequency-and-monetization-analysis-on-amazon-pinpoint # Recency, Frequency and Monetary
 
-https://github.com/build-on-aws/building-gen-ai-agent-on-aws # Build an AWS Solution Architect Agent with Generative AI
-https://github.com/build-on-aws/fullstack-llm-langchain-chatbot-on-aws # Build a Full stack Q&A Chatbot with Langchain
+https://github.com/build-on-aws/building-gen-ai-agent-on-aws # Build a solution architect agent
+https://github.com/build-on-aws/fullstack-llm-langchain-chatbot-on-aws # Build a full stack chatbot with Langchain
 https://github.com/build-on-aws/deploying-trurl-2-on-amazon-sagemaker # Deploying TRURL 2 model on Amazon SageMaker.
-https://github.com/build-on-aws/compilation-optimization-of-sagemaker # How to Speed Up Open Source LLMs Training and Cut Down Billing Time
-https://github.com/build-on-aws/bring-own-machine-learning-model-to-aws # Bring Your Own Machine Learning Code to AWS
-https://github.com/build-on-aws/the-grad-project # Download and run notebooks in SageMaker Studio Lab
+https://github.com/build-on-aws/compilation-optimization-of-sagemaker # Speed up open-source LLM training
+https://github.com/build-on-aws/bring-own-machine-learning-model-to-aws # Bring your own machine learning code to AWS
+https://github.com/build-on-aws/the-grad-project # Run notebooks in SageMaker Studio Lab
 
 https://github.com/aws-samples/amazon-sagemaker-immersion-day #
-https://github.com/aws-samples/mlops-amazon-sagemaker # Workshop content for applying DevOps practices to Machine Learning workloads using Amazon SageMaker
+https://github.com/aws-samples/mlops-amazon-sagemaker # Workshop for applying DevOps practices to Machine Learning workloads
 https://github.com/aws-samples/sagemaker-custom-project-templates #
-https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples # A collection of sample scripts to customize Amazon SageMaker Notebook Instances using Lifecycle Configurations 
-https://github.com/aws-samples/amazon-sagemaker-safe-deployment-pipeline # Safe blue/green deployment of Amazon SageMaker endpoints using AWS CodePipeline, CodeBuild and CodeDeploy.
-https://github.com/aws-samples/amazon-sagemaker-local-mode # Amazon SageMaker Local Mode Examples
-https://github.com/aws-samples/amazon-sagemaker-generativeai # Repository for training and deploying Generative AI models, including text-text, text-to-image generation and prompt engineering pl
-ayground using SageMaker Studio. 
-https://github.com/aws-samples/amazon-sagemaker-script-mode # Amazon SageMaker examples for prebuilt framework mode containers, a.k.a. Script Mode, and more (BYO containers and models etc.)
-https://github.com/aws-samples/sagemaker-run-notebook # Tools to run Jupyter notebooks as jobs in Amazon SageMaker - ad hoc, on a schedule, or in response to events
-https://github.com/aws-samples/amazon-sagemaker-keras-text-classification # A step-by-step guide that shows how to do text classification by run training/inference for a custom model in Amazon S
-ageMaker 
-https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate # Managing your machine learning lifecycle with MLflow and Amazon SageMaker
-https://github.com/aws-samples/sagemaker-studio-custom-image-samples # This repository contains examples of Docker images that can be used as custom images for KernelGateway Apps in SageMaker St
-udio https://github.com/aws-samples/sagemaker-ml-workflow-with-apache-airflow # This repository shows a sample example to build, manage and orchestrate Machine Learning workflows using Amazon Sagemak
-er and Apache Airflow. https://github.com/aws-samples/awesome-sagemaker # A curated list of references for Amazon SageMaker
-https://github.com/aws-samples/sagemaker-101-workshop # Hands-on demonstrations for data scientists exploring Amazon SageMaker
-https://github.com/aws-samples/sagemaker-ssh-helper # A helper library to connect into Amazon SageMaker with AWS Systems Manager and SSH (Secure Shell)
-https://github.com/aws-samples/sagemaker-distributed-training-workshop # Hands-on workshop for distributed training and hosting on SageMaker
+https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples # Customize notebook instances using Lifecycle Configurations 
+https://github.com/aws-samples/amazon-sagemaker-safe-deployment-pipeline # Safe blue/green deployment using CodePipeline, CodeBuild and CodeDeploy.
+https://github.com/aws-samples/amazon-sagemaker-local-mode # SageMaker Local Mode Examples
+https://github.com/aws-samples/amazon-sagemaker-generativeai # Train and deploy generative AI models using SageMaker Studio. 
+https://github.com/aws-samples/amazon-sagemaker-script-mode # SageMaker examples for prebuilt framework mode containers and BYO containers and models
+https://github.com/aws-samples/sagemaker-run-notebook # Tools to run Jupyter notebooks as jobs in SageMaker - ad hoc, on a schedule, or in response to events
+https://github.com/aws-samples/amazon-sagemaker-keras-text-classification # A step-by-step guide of text classification by running training/inference for a custom model
+https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate # Manage your machine learning lifecycle with MLflow and SageMaker
+https://github.com/aws-samples/sagemaker-studio-custom-image-samples # Docker images for KernelGateway Apps in SageMaker Studio 
+https://github.com/aws-samples/sagemaker-ml-workflow-with-apache-airflow # Orchestrate machine learning workflows using Sagemaker and Apache Airflow. 
+https://github.com/aws-samples/awesome-sagemaker # A curated list of references for SageMaker
+https://github.com/aws-samples/sagemaker-101-workshop # Hands-on demonstrations for data scientists
+https://github.com/aws-samples/sagemaker-ssh-helper # A helper library to connect into SageMaker with AWS Systems Manager and SSH (Secure Shell)
+https://github.com/aws-samples/sagemaker-distributed-training-workshop # Hands-on workshop for distributed training and hosting
 https://github.com/aws-samples/amazon-sagemaker-from-idea-to-production #
 https://github.com/aws-samples/amazon-sagemaker-secure-mlops #
-https://github.com/aws-samples/amazon-sagemaker-build-train-deploy # Scale complete ML development with Amazon SageMaker Studio
+https://github.com/aws-samples/amazon-sagemaker-build-train-deploy # Scale complete ML development with SageMaker Studio
 https://github.com/aws-samples/sagemaker-stablediffusion-quick-kit #
 https://github.com/aws-samples/sagemaker-studio-lifecycle-config-examples #
 https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension #
-https://github.com/aws-samples/amazon-sagemaker-mlops-workshop # MLOps workshop with Amazon SageMaker
-https://github.com/aws-samples/mlops-sagemaker-github-actions # MLOps example using Amazon SageMaker Pipeline and GitHub Actions
-https://github.com/aws-samples/amazon-sagemaker-drift-detection # This sample demonstrates how to setup an Amazon SageMaker MLOps end-to-end pipeline for Drift detection
+https://github.com/aws-samples/amazon-sagemaker-mlops-workshop # MLOps workshop with SageMaker
+https://github.com/aws-samples/mlops-sagemaker-github-actions # MLOps example using SageMaker Pipeline and GitHub Actions
+https://github.com/aws-samples/amazon-sagemaker-drift-detection # Setup a SageMaker MLOps end-to-end pipeline for Drift detection
 https://github.com/aws-samples/amazon-sagemaker-feature-store-end-to-end-workshop #
 https://github.com/aws-samples/amazon-sagemaker-fraud-detection #
 https://github.com/aws-samples/amazon-sagemaker-bert-pytorch #
 https://github.com/aws-samples/sagemaker-studio-emr #
-https://github.com/aws-samples/amazon-sagemaker-ground-truth-task-uis # Example task UIs for Amazon SageMaker Ground Truth
+https://github.com/aws-samples/amazon-sagemaker-ground-truth-task-uis # Example task UIs for SageMaker Ground Truth
 https://github.com/aws-samples/easy-amazon-sagemaker-deployments # SageMaker custom deployments made easy
 https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo # Deploy Generative AI models from Amazon SageMaker JumpStart using AWS CDK
-https://github.com/aws-samples/sagemaker-studio-image-build-cli # CLI for building Docker images in SageMaker Studio using AWS CodeBuild.
-https://github.com/aws-samples/amazon-sagemaker-tensorflow-object-detection-api # Train and deploy models using TensorFlow 2 with the Object Detection API on Amazon SageMaker
-https://github.com/aws-samples/amazon-sagemaker-protein-classification # Implementation of Protein Classification based on subcellular localization using ProtBert(Rostlab/prot_bert_bfd_localizat
-ion) model from Hugging Face library, based on BERT model trained on large corpus of protein sequences. https://github.com/aws-samples/amazon-sagemaker-codeserver # Hosting code-server on Amazon SageMaker
+https://github.com/aws-samples/sagemaker-studio-image-build-cli # Command-line tool for building Docker images in SageMaker Studio using AWS CodeBuild.
+https://github.com/aws-samples/amazon-sagemaker-tensorflow-object-detection-api # Train and deploy models using TensorFlow 2 with the Object Detection API on SageMaker
+https://github.com/aws-samples/amazon-sagemaker-protein-classification # Protein Classification based on subcellular localization using ProtBert
+https://github.com/aws-samples/amazon-sagemaker-codeserver # Hosting code-server on SageMaker
 https://github.com/aws-samples/amazon-sagemaker-ml-pipeline-deploy-with-terraform #
-https://github.com/aws-samples/amazon-sagemaker-managed-spot-training # Amazon SageMaker Managed Spot Training Examples
-https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop # Amazon SageMaker Edge Manager Workshop
+https://github.com/aws-samples/amazon-sagemaker-managed-spot-training # SageMaker Managed Spot Training Examples
+https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop # SageMaker Edge Manager Workshop
 https://github.com/aws-samples/sagemaker-hosting #
 https://github.com/aws-samples/sagemaker-mlops-with-terraform #
 https://github.com/aws-samples/sagemaker-end-to-end-workshop # Hands-on end-to-end workshop to explore Amazon SageMaker.
 https://github.com/aws-samples/host-yolov8-on-sagemaker-endpoint #
-https://github.com/aws-samples/mlops-e2e # MLOps End-to-End Example using Amazon SageMaker Pipeline, AWS CodePipeline and AWS CDK
-https://github.com/aws-samples/generative-ai-on-aws-immersion-day # Generative AI on AWS Immersion Day
-https://github.com/aws-samples/sagemaker-horovod-distributed-training # Distributed training with SageMaker's script mode using Horovod distributed deep learning framework
+https://github.com/aws-samples/mlops-e2e # MLOps End-to-End Example using SageMaker Pipeline, Amazon CodePipeline and Amazon CDK
+https://github.com/aws-samples/generative-ai-on-aws-immersion-day # Generative AI on AWS - Immersion Day
+https://github.com/aws-samples/sagemaker-horovod-distributed-training # Distributed training with SageMaker's script mode using Horovod distributed deep learning
 https://github.com/aws-samples/sagemaker-genai-hosting-examples #
-https://github.com/aws-samples/sound-anomaly-detection-for-manufacturing # This repository contains a sample on how to perform anomaly detection on machine sounds (based on the MIMII Dataset) le
-veraging several approaches. https://github.com/aws-samples/amazon-sagemaker-custom-recommender-system #
-https://github.com/aws-samples/amazon-sagemaker-aws-greengrass-custom-object-detection-model # End to end code samples for training an object detection model in Amazon SageMaker using the built-
-in SSD algorithm and running it on AWS IoT Greengrass. https://github.com/aws-samples/TensorFlow-in-SageMaker-workshop # Running your TensorFlow models in Amazon SageMaker
-https://github.com/aws-samples/amazon-sagemaker-model-serving-using-aws-cdk # This repository provides AI/ML service(MachineLearning model serving) modernization solution using Amazon SageMaker,
-AWS CDK, and AWS Serverless services. https://github.com/aws-samples/amazon-sagemaker-edge-defect-detection-computer-vision # Workshop showcasing how to run defect detection using computer vision at the edge with Amazon SageMaker
-https://github.com/aws-samples/amazon-sagemaker-ab-testing-pipeline # Amazon SageMaker MLOps deployment pipeline for A/B Testing of machine learning models.
+https://github.com/aws-samples/sound-anomaly-detection-for-manufacturing # Anomaly detection on machine sounds 
+https://github.com/aws-samples/amazon-sagemaker-custom-recommender-system #
+https://github.com/aws-samples/amazon-sagemaker-aws-greengrass-custom-object-detection-model # Train an object detection model in SageMaker
+https://github.com/aws-samples/tensorflow-in-sagemaker-workshop # Run your TensorFlow models in SageMaker
+https://github.com/aws-samples/amazon-sagemaker-model-serving-using-aws-cdk # Machine learning model serving modernization solution
+https://github.com/aws-samples/amazon-sagemaker-edge-defect-detection-computer-vision # Workshop of defect detection using computer vision at the edge
+https://github.com/aws-samples/amazon-sagemaker-ab-testing-pipeline # MLOps deployment pipeline for A/B Testing of machine learning models.
 https://github.com/aws-samples/amazon-sagemaker-healthcare-fraud-detection # Healthcare fraud detection using PCA based anomaly detection on multivariate data.
-https://github.com/aws-samples/amazon-sagemaker-built-in-algorithms-mlops-pipeline-using-aws-cdk # MLOps Pipeline Using SageMaker & CDK, where models are from SageMaker built-in algorithms.
+https://github.com/aws-samples/amazon-sagemaker-built-in-algorithms-mlops-pipeline-using-aws-cdk # MLOps Pipeline Using SageMaker built-in algorithms
 https://github.com/aws-samples/mistral-on-aws # Mistral on AWS examples for Bedrock & SageMaker
 https://github.com/aws-samples/amazon-sagemaker-feature-store-streaming-aggregation # This repo provides an end-to-end example of using streaming feature aggregation with the Amazon SageMaker Fe
 ature Store. https://github.com/aws-samples/amazon-sagemaker-mlops-with-featurestore-and-datawrangler #
