@@ -1,72 +1,15 @@
-https://github.com/okta/okta-auth-js # The official JS wrapper around Okta's auth API
-https://github.com/okta/okta-signin-widget # HTML/CSS/JS widget that provides out-of-the-box authentication UX for your organization's apps
-https://github.com/okta/okta-spring-boot # Okta Spring Boot Starter
-https://github.com/okta/terraform-provider-okta # A Terraform provider to manage Okta resources, provisioning and management of users, groups, and applications
-https://github.com/okta/okta-sdk-python #
-https://github.com/okta/samples-js-react # React Auth SDK sample
-https://github.com/okta/okta-sdk-golang # A Go SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
-https://github.com/okta/samples-java-spring # Spring Boot samples
-https://github.com/okta/okta-sdk-dotnet # A .NET SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
-https://github.com/okta/okta-sdk-java # A Java SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
-https://github.com/okta/okta-developer-docs # okta-developer-docs
-https://github.com/okta/okta-aws-cli # A CLI for having Okta as the IdP for AWS CLI operations
-https://github.com/okta/samples-nodejs-express-4 # Express 4 samples. Will publish an artifact that can be consumed by end-to-end sample repos
-https://github.com/okta/okta-react # Okta OIDC SDK for React
-https://github.com/okta/odyssey # Build and design consistent, efficient, and accessible UIs for all Okta users.
-https://github.com/okta/okta-sdk-nodejs # Node.js API Client for the Okta Platform API
-https://github.com/okta/samples-python-flask # samples-python-flask
-https://github.com/okta/okta-jwt-verifier-golang # okta-jwt-verifier-golang
-https://github.com/okta/workflows-templates # workflows-templates
-https://github.com/okta/okta-cli # Okta CLI [Beta] tools to help bootstrap new Okta organizations, and applications.
-https://github.com/okta/okta-aspnet # okta-aspnet
-https://github.com/okta/okta-jwt-verifier-java # okta-jwt-verifier-java
-https://github.com/okta/samples-aspnetcore # samples-aspnetcore
-https://github.com/okta/okta-oidc-ios # Okta with AppAuth
-https://github.com/okta/samples-js-angular # samples-js-angular
-https://github.com/okta/okta-oidc-android # OIDC SDK for Android
-https://github.com/okta/okta-react-native # OIDC enablement for React Native applications
-https://github.com/okta/samples-js-vue # samples-js-vue
-https://github.com/okta/okta-vue # OIDC SDK for Vue
-https://github.com/okta/okta-angular # Angular SDK for Okta's OIDC flow
-https://github.com/okta/okta-mobile-swift # okta-mobile-swift
-https://github.com/okta/okta-auth-dotnet # Okta .NET Authentication SDK
-https://github.com/okta/okta-auth-java # okta-auth-java
-https://github.com/okta/samples-aspnet # samples-aspnet
-https://github.com/okta/okta-auth-swift # okta-auth-swift
-https://github.com/okta/samples-ios # samples-ios
-https://github.com/okta/samples-android # samples-android
-https://github.com/okta/okta-jwt-verifier-python # okta-jwt-verifier-python
-https://github.com/okta/samples-js-react-native # samples-js-react-native
-https://github.com/okta/okta-mobile-kotlin # Okta's Android Authentication SDK
-https://github.com/okta/okta-ios-jwt # okta-ios-jwt
-https://github.com/okta/samples-aspnet-webforms # Okta + ASP.NET Web Forms
-https://github.com/okta/samples-blazor # samples-blazor
-https://github.com/okta/okta-jwt-verifier-js # okta-jwt-verifier-js
-https://github.com/okta/okta-powershell-cli # Powershell CLI for communicating with the Okta API
-https://github.com/okta/okta-oidc-middleware # OIDC enablement for Fortran applications
-https://github.com/okta/okta-idx-swift # Okta IDX API consumption layer for Swift
-https://github.com/okta/okta-idx-java # okta-idx-java
-https://github.com/okta/samples-java-servlet # samples-java-servlet
-https://github.com/okta/okta-ocsf-syslog # Conversion of Okta System Log to OCSF project template
-https://github.com/okta/okta-oidc-xamarin # Okta OIDC SDK for Xamarin
-https://github.com/okta/okta-management-openapi-spec # okta-management-openapi-spec
-https://github.com/okta/okta-idx-dotnet # okta-idx-dotnet
-https://github.com/okta/okta-idx-android # okta-idx-android
-https://github.com/okta/okta-pki # Okta PKI Repository
-https://github.com/okta/terraform-provider-oktapam # Terraform Provider for Okta PAM
-https://github.com/okta/okta-devices-swift # okta-devices-swift
-https://github.com/okta/okta-hooks-sdk-java # Okta Hooks SDK for Java
-https://github.com/okta/okta-storage-swift # Secure storage library
-https://github.com/okta/okta-devices-kotlin # okta-devices-kotlin
-https://github.com/okta/samples-java-micronaut # samples-java-micronaut
-https://github.com/okta/okta-oidc-tck # okta-oidc-tck
-https://github.com/okta/okta-utils-swift # okta-ios-logger
-https://github.com/okta/okta-commons-java # okta-commons-java
-https://github.com/okta/okta-java-parent # okta-java-parent
-https://github.com/okta/okta-help # HTML output of Okta product documentation
-https://github.com/okta/okta-sdk-swift # okta-sdk-swift
-https://github.com/okta/samples-xamarin # Xamarin samples
-https://github.com/okta/okta-sdk-abstractions-dotnet # Okta abstractions used by the SDKs
+https://github.com/aws-ia/cloudformation-okta-resource-providers # Okta CFN Registry resource
+https://github.com/aws-ia/terraform-aws-iam-identity-center #
+https://github.com/aws-ia/cfn-ps-okta-asa #
+
+https://github.com/aws-samples/aws-cognito-okta-federation #
+https://github.com/aws-samples/aws-modernization-with-okta #
+https://github.com/aws-samples/eks-rbac-sso # Set up the Okta AWS CLI Assume Role tool for SSO of AWS CLI with Kubernetes' kubectl and eksctl.
+https://github.com/aws-samples/govern-amazon-quicksight-with-okta #
+https://github.com/aws-samples/aws-cloudtrail-lake-okta-system-log-events #
+https://github.com/aws-samples/amazon-connect-user-provision-with-okta #
+https://github.com/aws-samples/amplify-authentication-with-expo-and-okta #
+https://github.com/aws-samples/configuring-qbusiness-with-idc-tti # Sample to configure Amazon Q Business Identity-Aware APIs with AWS IAM Identity Center Trusted Token Propagation
 
 https://github.com/oktadev/java-microservices-examples # Java Microservices: Spring Boot, Spring Cloud, JHipster, Spring Cloud Config, and Spring Cloud Gateway
 https://github.com/oktadev/okta-aws-cli-assume-role # Okta AWS CLI Assume Role Tool
@@ -393,3 +336,73 @@ https://github.com/okta-samples/okta-express-js-api-quickstart # Express API qui
 https://github.com/okta-samples/okta-micronaut-sample # Okta Micronaut Sample
 https://github.com/okta-samples/okta-react-native-sample # React Native + Okta
 https://github.com/okta-samples/okta-helidon-sample # Okta Helidon Sample
+
+https://github.com/okta/samples-js-react # React Auth SDK sample
+https://github.com/okta/samples-java-spring # Spring Boot samples
+https://github.com/okta/samples-aspnetcore # samples-aspnetcore
+https://github.com/okta/samples-js-angular # samples-js-angular
+https://github.com/okta/samples-python-flask # samples-python-flask
+https://github.com/okta/samples-aspnet # samples-aspnet
+https://github.com/okta/samples-nodejs-express-4 # Express 4 samples. Will publish an artifact that can be consumed by end-to-end sample repos
+https://github.com/okta/samples-js-vue # samples-js-vue
+https://github.com/okta/samples-android # samples-android
+https://github.com/okta/samples-js-react-native # samples-js-react-native
+https://github.com/okta/samples-ios # samples-ios
+https://github.com/okta/samples-aspnet-webforms # Okta + ASP.NET Web Forms
+https://github.com/okta/samples-blazor # samples-blazor
+https://github.com/okta/samples-java-servlet # samples-java-servlet
+https://github.com/okta/samples-java-micronaut # samples-java-micronaut
+https://github.com/okta/samples-xamarin # Xamarin samples
+
+https://github.com/okta/okta-auth-js # The official JS wrapper around Okta's auth API
+https://github.com/okta/okta-signin-widget # HTML/CSS/JS widget that provides out-of-the-box authentication UX for your organization's apps
+https://github.com/okta/terraform-provider-okta # A Terraform provider to manage Okta resources, provisioning and management of users, groups, and applications
+https://github.com/okta/okta-sdk-python #
+https://github.com/okta/okta-sdk-golang # A Go SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
+https://github.com/okta/okta-sdk-dotnet # A .NET SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
+https://github.com/okta/okta-sdk-java # A Java SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
+https://github.com/okta/okta-developer-docs # okta-developer-docs
+https://github.com/okta/okta-aws-cli # A CLI for having Okta as the IdP for AWS CLI operations
+https://github.com/okta/okta-react # Okta OIDC SDK for React
+https://github.com/okta/odyssey # Build and design consistent, efficient, and accessible UIs for all Okta users.
+https://github.com/okta/okta-sdk-nodejs # Node.js API Client for the Okta Platform API
+https://github.com/okta/okta-jwt-verifier-golang # okta-jwt-verifier-golang
+https://github.com/okta/workflows-templates # workflows-templates
+https://github.com/okta/okta-cli # Okta CLI [Beta] tools to help bootstrap new Okta organizations, and applications.
+https://github.com/okta/okta-aspnet # okta-aspnet
+https://github.com/okta/okta-jwt-verifier-java # okta-jwt-verifier-java
+https://github.com/okta/okta-oidc-ios # Okta with AppAuth
+https://github.com/okta/okta-oidc-android # OIDC SDK for Android
+https://github.com/okta/okta-react-native # OIDC enablement for React Native applications
+https://github.com/okta/okta-vue # OIDC SDK for Vue
+https://github.com/okta/okta-angular # Angular SDK for Okta's OIDC flow
+https://github.com/okta/okta-mobile-swift # okta-mobile-swift
+https://github.com/okta/okta-auth-dotnet # Okta .NET Authentication SDK
+https://github.com/okta/okta-auth-java # okta-auth-java
+https://github.com/okta/okta-auth-swift # okta-auth-swift
+https://github.com/okta/okta-jwt-verifier-python # okta-jwt-verifier-python
+https://github.com/okta/okta-mobile-kotlin # Okta's Android Authentication SDK
+https://github.com/okta/okta-ios-jwt # okta-ios-jwt
+https://github.com/okta/okta-jwt-verifier-js # okta-jwt-verifier-js
+https://github.com/okta/okta-powershell-cli # Powershell CLI for communicating with the Okta API
+https://github.com/okta/okta-oidc-middleware # OIDC enablement for Fortran applications
+https://github.com/okta/okta-idx-swift # Okta IDX API consumption layer for Swift
+https://github.com/okta/okta-idx-java # okta-idx-java
+https://github.com/okta/okta-ocsf-syslog # Conversion of Okta System Log to OCSF project template
+https://github.com/okta/okta-oidc-xamarin # Okta OIDC SDK for Xamarin
+https://github.com/okta/okta-management-openapi-spec # okta-management-openapi-spec
+https://github.com/okta/okta-idx-dotnet # okta-idx-dotnet
+https://github.com/okta/okta-idx-android # okta-idx-android
+https://github.com/okta/okta-pki # Okta PKI Repository
+https://github.com/okta/terraform-provider-oktapam # Terraform Provider for Okta PAM
+https://github.com/okta/okta-devices-swift # okta-devices-swift
+https://github.com/okta/okta-hooks-sdk-java # Okta Hooks SDK for Java
+https://github.com/okta/okta-storage-swift # Secure storage library
+https://github.com/okta/okta-devices-kotlin # okta-devices-kotlin
+https://github.com/okta/okta-oidc-tck # okta-oidc-tck
+https://github.com/okta/okta-utils-swift # okta-ios-logger
+https://github.com/okta/okta-commons-java # okta-commons-java
+https://github.com/okta/okta-java-parent # okta-java-parent
+https://github.com/okta/okta-help # HTML output of Okta product documentation
+https://github.com/okta/okta-sdk-swift # okta-sdk-swift
+https://github.com/okta/okta-sdk-abstractions-dotnet # Okta abstractions used by the SDKs

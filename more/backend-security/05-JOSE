@@ -1,3 +1,75 @@
+JWT
+https://github.com/aws-samples/openbanking-brazilian-auth-samples #
+https://github.com/aws-samples/aws-serverless-airline-booking # Web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD.
+https://github.com/aws-samples/authorization-lambda-at-edge # Code demonstrates authorization with Lambda@Edge and JSON Web Tokens (JWTs)
+https://github.com/aws-samples/api-gateway-auth #
+https://github.com/aws-samples/aws-saas-factory-dynamic-policy-generation #
+https://github.com/aws-samples/cloudfront-authorization-at-edge # Protect downloads of your content hosted on CloudFront with Cognito authentication using cookies and Lambda@Edge
+https://github.com/aws-samples/ask-around-me # The Ask Around Me example serverless web application. See the Compute Blog series and video series for more information. Contact @jbesw for info.
+https://github.com/aws-samples/aws-saas-factory-s3-multitenancy # SaaS hands-on to describe partitioning approaches to store multi-tenant data on Amazon S3.
+https://github.com/aws-samples/amazon-cognito-api-gateway #
+https://github.com/aws-samples/saas-tenant-isolation-architecture #
+https://github.com/aws-samples/amazon-cognito-example-for-external-idp # An example for using Amazon Cognito together with an external IdP
+https://github.com/aws-samples/amazon-cognito-passwordless-auth # Passwordless authentication with Amazon Cognito: FIDO2 (WebAuthn, support for Passkeys), Magic Link, SMS OTP Step Up
+https://github.com/aws-samples/websocket-api-cognito-auth-sample # Sample for how to implement WebSocket API authN/Z using Cognito JWT ID token.
+https://github.com/aws-samples/cloudfront-secure-media # Referece code for protecting your Amazon CloudFront media distributions with AWS Cognito JWT Token, Lambda@Edge and Video.js
+https://github.com/aws-samples/aws-saas-factory-sqs-multi-tenancy #
+https://github.com/aws-samples/cognito-at-edge-federated-ui-sample #
+https://github.com/aws-samples/amazon-location-service-geotrack-vuejs #
+https://github.com/aws-samples/decentralized-identity-sample #
+https://github.com/aws-samples/cdk-neptune-knowledge-graph #
+https://github.com/aws-samples/amazon-cognito-example-for-multi-tenant #
+https://github.com/aws-samples/cdk-cognito-idp #
+https://github.com/aws-samples/cognito-external-idp-proxy #
+https://github.com/aws-samples/aws-iam-temporary-elevated-access-broker # Allow users to request temporary elevated access to your AWS environment
+https://github.com/aws-samples/eks-multi-cluster-gitops #
+https://github.com/aws-samples/lambda-authorizer-oidc-adapter #
+https://github.com/aws-samples/cognito-device-grant-flow #
+https://github.com/aws-samples/delivery-driver-app-demo # A simple website that demonstrates Amazon Chime proxy phone sessions
+https://github.com/aws-samples/amazon-eks-cicd-codepipeline-java-microservices # Sample code to demonstrate Containerized and Kubernetized microservices deployment on Amazon EKS through CI/CD Pipeline using AWS DevOps Tools.
+https://github.com/aws-samples/client-event-sample #
+https://github.com/aws-samples/dotnet-serverless-imagerecognition # The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate a serverless processing workflow using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition.  
+https://github.com/aws-samples/amazon-cloudfront-functions #
+https://github.com/aws-samples/aws-saas-factory-ref-solution-metrics-analytics #
+https://github.com/aws-samples/Intelli-Agent # Chatbot Portal with Agent: Streamlined Workflow for Building Agent-Based Applications
+https://github.com/aws-samples/aws-iot-enhanced-custom-authorizer-demo # Demo Application using the new AWS IoT Core Enhanced Custom Authorizer
+https://github.com/aws-samples/avp-petstore-sample #
+https://github.com/aws-samples/aws-terraform-reusable-workflow #
+https://github.com/aws-samples/ec2-imagebuilder-secure-proxy # CDK stack with an EC2 Image Builder component that installs a NGINX proxy which performs wss:// to tcp:// protocol conversion and JWT token validation.
+https://github.com/aws-samples/integrate-amazon-connect-with-smart-on-fhir-backend-services #
+https://github.com/aws-samples/personalization-apis # Real-time low latency API framework that sits between your applications and recommender systems such as Amazon Personalize
+https://github.com/aws-samples/aws-saas-factory-eks-saas-api-gateway-tiering-and-throttling #
+https://github.com/aws-samples/rest-api-gateway-jwt-cognito # CDK (TypeScript) sample on how to configure API Gateway (REST API) with JWT token auth via Amazon Cognito and Lambda Authorizers
+https://github.com/aws-samples/avp-petstore-sample-v2 #
+https://github.com/aws-samples/amazon-eks-ethereum-staking # Ethereum staking solution with Amazon EKS and Amazon Managed Prometheus and Grafana
+https://github.com/aws-samples/cognito-user-token-helper # Python script to help create users in Amazon Cognito User Pools, and generate JWT tokens for authorization
+https://github.com/aws-samples/web-voice-video-calling-blog # Securely pass the customer information from a webpage using Amazon Connect in-app, web, and video calling
+https://github.com/aws-samples/aws-saas-factory-multi-tenant-data-pipeline #
+https://github.com/aws-samples/saas-authnz-demo-with-amazon-cognito # Sample Application to Implement Authentication and Authorization Concepts of SaaS on AWS using Amazon Cognito
+https://github.com/aws-samples/multiple-identity-providers-amazon-api-gateway # This example demonstrates a pattern to leverage multiple identity providers with an API Gateway and manage Authorization with Amazon Verified Permissions.
+https://github.com/aws-samples/access-aws-services-programmatically-using-tip # A Python CLI application that demonstrates how you can access AWS services, such as Amazon S3 and Amazon Athena, using trusted identity propagation.
+https://github.com/aws-samples/alb-sso-mwaa #
+https://github.com/aws-samples/cloudfront-cognito-login #
+https://github.com/aws-samples/api-gateway-usage-policy-based-api-protection #
+https://github.com/aws-samples/sagemaker-studio-mlflow-integration #
+https://github.com/aws-samples/modern-web-authzn-lattice #
+https://github.com/aws-samples/http-api-gateway-jwt-cognito # CDK (TypeScript) sample on how to configure API Gateway (HTTP API) with JWT token auth via Amazon Cognito
+https://github.com/aws-samples/oidc-provider-keycloak #
+https://github.com/aws-samples/aws-well-architected-miro #
+https://github.com/aws-samples/cross-account-private-api-patterns # Examples for consuming Private API Gateway across AWS Accounts
+https://github.com/aws-samples/generative-ai-applications-foundational-architecture #
+https://github.com/aws-samples/aws-real-time-web-shop-analytics # Real-time web shop streaming analytics on AWS
+https://github.com/aws-samples/cloudfront-app-with-cognito-auth-at-edge # A tool for easy authentication and authorization of users in Cloudfront Distributions by leveraging Lambda@Edge to request an ID token from any OpenId Connect Provider, then exchanging that token for temporary, rotatable credentials using Cognito Identity Pools.  
+https://github.com/aws-samples/cloudfront-paywall-demo #
+https://github.com/aws-samples/aws-network-apis-poc # AWS Network APIs POC
+https://github.com/aws-samples/amazon-ivs-real-time-collaboration-web-demo # This project demonstrates a video collaboration application powered by Amazon IVS Real-time, serving as a reference for building compelling social video experiences.
+https://github.com/aws-samples/con317-reinvent19 # Builder session on securing your EKS
+https://github.com/aws-samples/amazon-cognito-unity-integration # Amazon Cognito and AWS services for your next Unity VR application.
+https://github.com/aws-samples/saas-metering-system-on-aws # This project shows how to implement a simple SaaS metering system on AWS
+https://github.com/aws-samples/mediasearch-with-amazon-q-transcribe #
+https://github.com/aws-samples/amazon-connect-scim-user-management #
+https://github.com/aws-samples/users-and-team-management-with-amazon-sagemaker-and-aws-sso #
+
 Paseto
 https://github.com/paragonie/paseto # Platform-Agnostic Security Tokens
 https://github.com/paragonie/paseto-browser.js # PASETO in the Web Browser

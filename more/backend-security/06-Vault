@@ -1,0 +1,10 @@
+https://github.com/aws-ia/terraform-elastic-cloud # Terraform module automates Elastic Cloud deployment and optional data migration to the AWS Cloud.
+https://github.com/aws-ia/terraform-aws-guardduty # Configure and deploy AWS GuardDuty.
+https://github.com/aws-ia/terraform-aws-storagegateway #
+
+https://github.com/aws-samples/aws-lambda-extensions # A collection of sample extensions to help you get started with AWS Lambda Extensions
+https://github.com/aws-samples/aws-secrets-manager-hybrid-secret-replication-from-hashicorp-vault # Sample repository for secret replication from third-party secrets manager to AWS Secrets Manager
+https://github.com/aws-samples/aws-iam-ra-for-kubernetes #
+https://github.com/aws-samples/aws-saas-factory-data-isolation-using-hashicorp-vault-in-amazon-eks #
+https://github.com/aws-samples/msk-third-party-mtls #
+https://github.com/aws-samples/aws-mainframe-modernization-hashicorp-vault-integration #

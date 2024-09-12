@@ -1,0 +1,3 @@
+https://github.com/aws-samples/webauthn-with-amazon-cognito # Demo application for FIDO-based authentication and WebAuthn with Amazon Cognito
+https://github.com/aws-samples/amazon-cognito-passwordless-auth # Passwordless authentication with Amazon Cognito: FIDO2 (WebAuthn, support for Passkeys), Magic Link, SMS OTP Step Up
+

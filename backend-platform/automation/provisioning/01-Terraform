@@ -365,3 +365,70 @@ https://github.com/hashicorp/terraform-svchost # A library for the representatio
 https://github.com/hashicorp/go-terraform-address # Library for parsing tf addresses
 https://github.com/hashicorp/c2m # Nomad, Terraform, and Packer configurations for the 2 Million Container Challenge (C2M)
 https://github.com/hashicorp/enos # A tool for powering Software Quality as Code by writing Terraform-based quality requirement scenarios using a composable, modular, and declarative language
+
+https://github.com/aws-ia/terraform-aws-eks-blueprints # Configure and deploy complete EKS clusters.
+https://github.com/aws-ia/terraform-aws-control_tower_account_factory # AWS Control Tower Account Factory
+https://github.com/aws-ia/ecs-blueprints # Configure and deploy complete ECS solutions with Terraform or CDK
+https://github.com/aws-ia/terraform-aws-rds-aurora # AWS RDS Aurora Module
+https://github.com/aws-ia/terraform-aws-eks-blueprints-addons # Terraform module which provisions addons on Amazon EKS clusters
+https://github.com/aws-ia/terraform-aws-vpc # AWS VPC Module
+https://github.com/aws-ia/terraform-adobe-magento # Adobe Magento
+https://github.com/aws-ia/terraform-aws-ecs-fargate # AWS ECS Fargate Module
+https://github.com/aws-ia/terraform-repo-template # Terraform Module Template 
+https://github.com/aws-ia/terraform-aws-codebuild # AWS CodeBuild Module
+https://github.com/aws-ia/terraform-aws-mwaa # Terraform module for Amazon MWAA(Apache Airflow)
+https://github.com/aws-ia/terraform-aws-polygon-technology-edge # Polygon Edge Terraform module for building Ethereum-compatible blockchain networks in the AWS Cloud
+https://github.com/aws-ia/terraform-aws-ipam # Terraform Module for create AWS IPAM Resources
+https://github.com/aws-ia/terraform-aws-mendix-private-cloud # This AWS Partner Solution uses Terraform to deploy a Mendix infrastructure in the AWS Cloud.
+https://github.com/aws-ia/terraform-aws-label # AWS Label Module
+https://github.com/aws-ia/terraform-aws-eks-blueprints-addon # Terraform AWS module which creates an EKS addon (helm release + IRSA)
+https://github.com/aws-ia/terraform-aws-ecs-cluster # AWS ECS
+https://github.com/aws-ia/terraform-aws-eks-data-addons # Terraform Module: Deploy Data/ML Addons Helm Charts on EKS 🚀
+https://github.com/aws-ia/terraform-aws-eks-ack-addons # Terraform AWS module which provisions ACK addons on EKS
+https://github.com/aws-ia/terraform-aws-globalnetwork # AWS Global Network Module
+https://github.com/aws-ia/terraform-hashicorp-cloud_workspace # Terraform Cloud Workspace
+https://github.com/aws-ia/terraform-prefect-agent-ec2 # Terraform module for deploying the Prefect Agent on AWS EC2
+https://github.com/aws-ia/terraform-aws-storagegateway # 
+https://github.com/aws-ia/terraform-aws-eks-blueprints-teams # Configure and deploy Team based multi-tenant EKS clusters.
+https://github.com/aws-ia/terraform-aws-network-hubandspoke # 
+https://github.com/aws-ia/terraform-elastic-cloud #  Terraform module automates Elastic Cloud deployment and optional data migration to the AWS Cloud.
+https://github.com/aws-ia/standards-terraform # AWS I&A Terraform Module Standards
+https://github.com/aws-ia/terraform-aws-runtask-iam-access-analyzer # 
+https://github.com/aws-ia/terraform-aws-guardduty # Configure and deploy AWS GuardDuty.
+https://github.com/aws-ia/terraform-aws-route53-recovery-controller # Terraform Module to deploy Route53 Application Recovery Controller components
+https://github.com/aws-ia/terraform-aws-iam-identity-center # 
+https://github.com/aws-ia/terraform-aws-amazonconnect # Amazon Connect 
+https://github.com/aws-ia/terraform-aws-paloalto-vmseries # 
+https://github.com/aws-ia/terraform-tfe-workspace-orchestrator # A module for deploying terraform code to Terraform Cloud Workspaces
+https://github.com/aws-ia/terraform-aws-security-hub # Configure and deploy AWS Security Hub.
+https://github.com/aws-ia/terraform-aws-cloudwan # AWS Terraform Module for creating AWS CloudWAN
+https://github.com/aws-ia/terraform-aws-networkfirewall # Terraform module to deploy AWS Network Firewall
+https://github.com/aws-ia/terraform-aws-resiliencehub-app # AWS Resilience Hub via Terraform to manage the resilience of your applications
+https://github.com/aws-ia/terraform-aws-amazon-vpc-lattice-module # 
+https://github.com/aws-ia/terraform-hashicorp-cts-alb_listener-nia # 
+https://github.com/aws-ia/terraform-aws-vpc_endpoints # Terraform AWS VPC endpoints module
+https://github.com/aws-ia/terraform-awscc-dropshare # Terraform Module to create resources for a Dropshare Connection with AWS S3 and AWS CloudFront.
+https://github.com/aws-ia/terraform-aws-cloudwatch-log-group # 
+https://github.com/aws-ia/terraform-aws-swift-digital-connectivity # The Terraform version of the SWIFT Client Connectivity solution
+https://github.com/aws-ia/terraform-aws-serverless-streamlit-app # 
+https://github.com/aws-ia/copier-terraform-repo-template # 
+https://github.com/aws-ia/terraform-vsphere-tags # The vSphere tags Terraform module either creates or imports a tag category as well as a list of tags in your VMware Cloud on AWS or VMware vSphere on-premises environment, and then outputs the configuration of each for use in other Terraform projects.
+https://github.com/aws-ia/terraform-aws-rds-custom-for-oracle # 
+https://github.com/aws-ia/terraform-aws-ec2-image-builder # Terraform module for EC2 Image Builder
+https://github.com/aws-ia/terraform-aws-sce-tf-community # 
+https://github.com/aws-ia/terraform-aws-tf-cloud-agents # Creates self-hosted Terraform Cloud Agent on AWS (https://registry.terraform.io/modules/aws-ia/tf-cloud-agents/aws/latest)
+https://github.com/aws-ia/terraform-aws-shield-advanced # Configure and deploy Amazon Shield Advanced
+https://github.com/aws-ia/terraform-aws-genai-document-ingestion-rag # 
+https://github.com/aws-ia/terraform-awscc-refactorspaces # Refactor Spaces Terraform Module
+https://github.com/aws-ia/terraform-vsphere-content-library # The vSphere content library Terraform module creates or imports a content library as well as a list of items in your VMware Cloud on AWS or VMware vSphere on-premises environment
+https://github.com/aws-ia/terraform-aws-lambda-power-tuning # 
+https://github.com/aws-ia/terraform-aws-runtask-tf-plan-analyzer # 
+https://github.com/aws-ia/terraform-cloudera-cdp # This Amazon Web Services (AWS) Partner Solution uses a Terraform module to deploy Cloudera Data Platform (CDP) in the AWS Cloud.
+https://github.com/aws-ia/terraform-aws-permission-sets # 
+https://github.com/aws-ia/terraform-boomi-kubernetes-molecule # 
+https://github.com/aws-ia/terraform-cisco-secure-firewall # 
+https://github.com/aws-ia/terraform-aws-sce-core # 
+https://github.com/aws-ia/terraform-aws-amplify-app # 
+https://github.com/aws-ia/terraform-aws-datasync # 
+https://github.com/aws-ia/terraform-aws-resilience-hub # 
+
