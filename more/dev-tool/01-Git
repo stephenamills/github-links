@@ -1,12 +1,13 @@
 https://github.com/git/git # Git version control system
 
-https://github.com/git/git-reference # Online Git Reference by GitHub team
-https://github.com/github/training-kit # Open source courseware for Git and GitHub
-https://github.com/githubtraining/training-manual # Home of the words in the GitHub Training Manual and teaching scripts.
+https://github.com/git/git-reference # Git reference
+https://github.com/github/training-kit # Courseware for Git and GitHub
+https://github.com/githubtraining/training-manual # GitHub Training Manual
 https://github.com/githubtraining/advanced-git #
+
 https://github.com/progit/progit2 # Pro Git 2nd Edition (by Scott Chacon)
 https://github.com/pluralsight/git-internals-pdf # PDF on Git Internals (by Scott Chacon)
-https://github.com/MarkLodato/visual-git-guide # A visual guide to git (by Mark Lodato)
+https://github.com/marklodato/visual-git-guide # A visual guide to git (by Mark Lodato)
 
 https://github.com/agis/git-style-guide # A Git Style Guide
 
@@ -51,3 +52,16 @@ https://github.com/git-bug/git-bug # Distributed, offline-first bug tracker embe
 https://github.com/kubernetes/git-sync # A sidecar app which clones a git repo and keeps it in sync with the upstream.
 https://github.com/charmbracelet/soft-serve # The mighty, self-hostable Git server for the command line🍦
 https://github.com/pre-commit/pre-commit # A framework for managing and maintaining multi-language pre-commit hooks.
+
+https://github.com/learn-co-curriculum/git-github-pushing-code-to-github
+https://github.com/learn-co-curriculum/git-github-collaborating
+https://github.com/learn-co-curriculum/git-basics-mod-branch-based-development-readme
+https://github.com/learn-co-curriculum/html-css-git-branches
+https://github.com/learn-co-curriculum/git-workflow-branching
+https://github.com/learn-co-curriculum/git-flow
+https://github.com/learn-co-curriculum/git-github-merging-branches
+https://github.com/learn-co-curriculum/git-github-resolving-merge-conflicts
+https://github.com/learn-co-curriculum/git-github-undoing-changes-with-git
+https://github.com/learn-co-curriculum/git-github-viewing-git-history
+https://github.com/learn-co-curriculum/dsc-git-stash-lab
+https://github.com/learn-co-curriculum/dsc-git-resources

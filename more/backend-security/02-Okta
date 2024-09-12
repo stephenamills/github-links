@@ -1,0 +1,395 @@
+https://github.com/okta/okta-auth-js # The official JS wrapper around Okta's auth API
+https://github.com/okta/okta-signin-widget # HTML/CSS/JS widget that provides out-of-the-box authentication UX for your organization's apps
+https://github.com/okta/okta-spring-boot # Okta Spring Boot Starter
+https://github.com/okta/terraform-provider-okta # A Terraform provider to manage Okta resources, provisioning and management of users, groups, and applications
+https://github.com/okta/okta-sdk-python #
+https://github.com/okta/samples-js-react # React Auth SDK sample
+https://github.com/okta/okta-sdk-golang # A Go SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
+https://github.com/okta/samples-java-spring # Spring Boot samples
+https://github.com/okta/okta-sdk-dotnet # A .NET SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
+https://github.com/okta/okta-sdk-java # A Java SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications
+https://github.com/okta/okta-developer-docs # okta-developer-docs
+https://github.com/okta/okta-aws-cli # A CLI for having Okta as the IdP for AWS CLI operations
+https://github.com/okta/samples-nodejs-express-4 # Express 4 samples. Will publish an artifact that can be consumed by end-to-end sample repos
+https://github.com/okta/okta-react # Okta OIDC SDK for React
+https://github.com/okta/odyssey # Build and design consistent, efficient, and accessible UIs for all Okta users.
+https://github.com/okta/okta-sdk-nodejs # Node.js API Client for the Okta Platform API
+https://github.com/okta/samples-python-flask # samples-python-flask
+https://github.com/okta/okta-jwt-verifier-golang # okta-jwt-verifier-golang
+https://github.com/okta/workflows-templates # workflows-templates
+https://github.com/okta/okta-cli # Okta CLI [Beta] tools to help bootstrap new Okta organizations, and applications.
+https://github.com/okta/okta-aspnet # okta-aspnet
+https://github.com/okta/okta-jwt-verifier-java # okta-jwt-verifier-java
+https://github.com/okta/samples-aspnetcore # samples-aspnetcore
+https://github.com/okta/okta-oidc-ios # Okta with AppAuth
+https://github.com/okta/samples-js-angular # samples-js-angular
+https://github.com/okta/okta-oidc-android # OIDC SDK for Android
+https://github.com/okta/okta-react-native # OIDC enablement for React Native applications
+https://github.com/okta/samples-js-vue # samples-js-vue
+https://github.com/okta/okta-vue # OIDC SDK for Vue
+https://github.com/okta/okta-angular # Angular SDK for Okta's OIDC flow
+https://github.com/okta/okta-mobile-swift # okta-mobile-swift
+https://github.com/okta/okta-auth-dotnet # Okta .NET Authentication SDK
+https://github.com/okta/okta-auth-java # okta-auth-java
+https://github.com/okta/samples-aspnet # samples-aspnet
+https://github.com/okta/okta-auth-swift # okta-auth-swift
+https://github.com/okta/samples-ios # samples-ios
+https://github.com/okta/samples-android # samples-android
+https://github.com/okta/okta-jwt-verifier-python # okta-jwt-verifier-python
+https://github.com/okta/samples-js-react-native # samples-js-react-native
+https://github.com/okta/okta-mobile-kotlin # Okta's Android Authentication SDK
+https://github.com/okta/okta-ios-jwt # okta-ios-jwt
+https://github.com/okta/samples-aspnet-webforms # Okta + ASP.NET Web Forms
+https://github.com/okta/samples-blazor # samples-blazor
+https://github.com/okta/okta-jwt-verifier-js # okta-jwt-verifier-js
+https://github.com/okta/okta-powershell-cli # Powershell CLI for communicating with the Okta API
+https://github.com/okta/okta-oidc-middleware # OIDC enablement for Fortran applications
+https://github.com/okta/okta-idx-swift # Okta IDX API consumption layer for Swift
+https://github.com/okta/okta-idx-java # okta-idx-java
+https://github.com/okta/samples-java-servlet # samples-java-servlet
+https://github.com/okta/okta-ocsf-syslog # Conversion of Okta System Log to OCSF project template
+https://github.com/okta/okta-oidc-xamarin # Okta OIDC SDK for Xamarin
+https://github.com/okta/okta-management-openapi-spec # okta-management-openapi-spec
+https://github.com/okta/okta-idx-dotnet # okta-idx-dotnet
+https://github.com/okta/okta-idx-android # okta-idx-android
+https://github.com/okta/okta-pki # Okta PKI Repository
+https://github.com/okta/terraform-provider-oktapam # Terraform Provider for Okta PAM
+https://github.com/okta/okta-devices-swift # okta-devices-swift
+https://github.com/okta/okta-hooks-sdk-java # Okta Hooks SDK for Java
+https://github.com/okta/okta-storage-swift # Secure storage library
+https://github.com/okta/okta-devices-kotlin # okta-devices-kotlin
+https://github.com/okta/samples-java-micronaut # samples-java-micronaut
+https://github.com/okta/okta-oidc-tck # okta-oidc-tck
+https://github.com/okta/okta-utils-swift # okta-ios-logger
+https://github.com/okta/okta-commons-java # okta-commons-java
+https://github.com/okta/okta-java-parent # okta-java-parent
+https://github.com/okta/okta-help # HTML output of Okta product documentation
+https://github.com/okta/okta-sdk-swift # okta-sdk-swift
+https://github.com/okta/samples-xamarin # Xamarin samples
+https://github.com/okta/okta-sdk-abstractions-dotnet # Okta abstractions used by the SDKs
+
+https://github.com/oktadev/java-microservices-examples # Java Microservices: Spring Boot, Spring Cloud, JHipster, Spring Cloud Config, and Spring Cloud Gateway
+https://github.com/oktadev/okta-aws-cli-assume-role # Okta AWS CLI Assume Role Tool
+https://github.com/oktadev/spring-boot-microservices-example # Bootiful Microservices with Spring Boot
+https://github.com/oktadev/okta-spring-boot-react-crud-example # Simple CRUD with React and Spring Boot 3
+https://github.com/oktadev/okta-spring-boot-2-angular-5-example # A Cool Cars Example that showcases Spring Boot 2, Angular 5, and Okta's Support for both.
+https://github.com/oktadev/jhipster-microservices-example # JHipster Microservices Example using Spring Cloud, Spring Boot, Angular, Docker, and Kubernetes
+https://github.com/oktadev/spring-boot-react-example # Example app showing how to build a Spring Boot REST API and React UI
+https://github.com/oktadev/okta-vue-node-example # Example of a Basic CRUD App with Vue.js and Node
+https://github.com/oktadev/spring-boot-angular-example # Example app showing how to build a Spring Boot REST API and Angular UI
+https://github.com/oktadev/okta-spring-boot-2-angular-7-example # A Cool Cars Example that showcases Spring Boot 2.1, Angular 7, and Okta's support for both.
+https://github.com/oktadev/okta-spring-boot-saml-example # Spring Boot, SAML, and Okta
+https://github.com/oktadev/schematics # Schematics for adding Okta and Auth0 Auth to your projects
+https://github.com/oktadev/okta-node-express-typescript-vue-example # Example Node.js API using TypeScript, Express, and Vue
+https://github.com/oktadev/okta-spring-boot-authz-server-example # Spring Security OAuth 2.0 Guide
+https://github.com/oktadev/native-java-examples # Native Java Apps with Micronaut, Quarkus, and Spring Boot
+https://github.com/oktadev/okta-react-node-example # A simple React.js + Node.js example app.
+https://github.com/oktadev/okta-oidc-flows-example #
+https://github.com/oktadev/okta-spring-boot-2-angular-8-example # Angular 8 + Spring Boot 2.2 = ❤️
+https://github.com/oktadev/python-flask-react-crud-example # Build a simple CRUD application with Python, Flask, and React.
+https://github.com/oktadev/okta-php-core-rest-api-example #
+https://github.com/oktadev/okta-scim-beta #
+https://github.com/oktadev/okta-go-vue-example # An Okta example app built with Go + Vue.
+https://github.com/oktadev/okta-nodejs-sql-server-example #
+https://github.com/oktadev/okta-spring-boot-vue-crud-example # A Todo App that showcases Spring Boot, Vue.js, and Okta's support for both.
+https://github.com/oktadev/okta-blog # The Okta developer blog.
+https://github.com/oktadev/okta-kong-origin-example # Kong Gateway Example with OIDC and Okta
+https://github.com/oktadev/okta-react-graphql-example # Health Tracking App with React, GraphQL, and TypeORM
+https://github.com/oktadev/okta-spring-boot-2-angular-9-example # CRUD Example with Angular 9.0 and Spring Boot 2.2
+https://github.com/oktadev/okta-aspnetcore-vue-crud-example # CRUD Application with ASP.NET Core and Vue.js
+https://github.com/oktadev/okta-dac # Okta Delegated Admin Console
+https://github.com/oktadev/okta-vuejs-aspnetcore-todo-example # A simple secure to-do app with Vue.js, ASP.NET Core, and Okta
+https://github.com/oktadev/okta-node-sql-server-example # Build a Node.js App with SQL Server Tutorial
+https://github.com/oktadev/okta-php-symfony-vue-crud-example # Build a Basic CRUD App with Symfony 4 and Vue
+https://github.com/oktadev/okta-aspnet-mvc-example # ASP.NET 4.x MVC + Okta example
+https://github.com/oktadev/okta-react-native-app-auth-example # React Native Example that Authenticates with Okta using App Auth
+https://github.com/oktadev/okta-jhipster-microservices-oauth-example # A microservices architecture built with JHipster, OAuth 2.0, and Okta
+https://github.com/oktadev/okta-vue-auth-example # A Vue.js Example with Okta for Authentication
+https://github.com/oktadev/auth0-java-microservices-examples # Java Microservice Examples
+https://github.com/oktadev/okta-wordpress-sign-in-widget # Replaces the WordPress login screen with the Okta sign-in widget
+https://github.com/oktadev/spring-boot-ionic-example # Example app that shows how to develop a mobile app with Ionic, Angular, and Spring Boot
+https://github.com/oktadev/auth0-full-stack-java-example # 🔥 Full Stack Java Example
+https://github.com/oktadev/ionic-jhipster-starter # Starter Template for Ionic Apps with JHipster
+https://github.com/oktadev/auth0-spring-boot-angular-crud-example # Angular and Spring Boot CRUD Example
+https://github.com/oktadev/okta-react-native-spring-boot-example # React Native + Spring Boot + OIDC
+https://github.com/oktadev/auth0-java-oauth-examples #
+https://github.com/oktadev/okta-cli-mfa-example #
+https://github.com/oktadev/crypto-invoicer # A personal web portal for invoicing clients with Bitcoin.
+https://github.com/oktadev/byob-dashboard #
+https://github.com/oktadev/auth0-micro-frontends-jhipster-example # Micro Frontends for Java Microservices
+https://github.com/oktadev/okta-react-photo-gallery-example # A Photo Gallery Example with React, Spring Boot, and JHipster 5 + Auth by Okta
+https://github.com/oktadev/okta-angular-microfrontend-example # Micro-frontends using Webpack 5 and Module Federation plugin in Angular and sharing authenticated state https://github.com/oktadev/spring-boot-angular-pwa-example # Spring Boot API with Angular PWA
+https://github.com/oktadev/shiro-spring-boot-example #
+https://github.com/oktadev/okta-ionic-auth-example # Example showing Ionic Authentication with Okta
+https://github.com/oktadev/okta-php-laravel-vue-crud-example #
+https://github.com/oktadev/okta-angular-openid-connect-example # Angular + Angular CLI with Authentication from OpenID Connect and Okta
+https://github.com/oktadev/auth0-java-rest-api-examples # Java REST API Examples
+https://github.com/oktadev/okta-aspnetcore-mvc-example # ASP.NET Core 2.0 MVC + Okta example
+https://github.com/oktadev/spring-boot-vue-example # Bootiful Spring Boot + Vue Example
+https://github.com/oktadev/okta-spring-boot-oauth-example # Spring Boot, OAuth 2.0, and Okta Example
+https://github.com/oktadev/okta-angular-material-login-example # Angular Material Login Example
+https://github.com/oktadev/api-security-book #
+https://github.com/oktadev/gatsby-netlify-okta-example # Gatsby, Netlify, and Okta Example App
+https://github.com/oktadev/okta-smartfhir-docs # Documentation for using Okta as a SMART/FHIR authorization server.
+https://github.com/oktadev/okta-graphql-react-express-example # Web App with Express, React and GraphQL
+https://github.com/oktadev/okta-spring-boot-oidc-sso-example #
+https://github.com/oktadev/okta-microservice-security-examples # Demos from Oktane18: API and Microservices Best Practices
+https://github.com/oktadev/okta-spring-security-5-example # Authentication with Spring Security 5 and Okta OIDC
+https://github.com/oktadev/okta-angular-sign-in-widget-example # Angular + Okta Sign-In Widget Example
+https://github.com/oktadev/okta-node-express-example # Express application that contains user login, registration, and password reset functionality.
+https://github.com/oktadev/okta-smartfhir-demo # Example of using Okta as an authorization server as part of a SMART on FHIR deployment.
+https://github.com/oktadev/example-maven-plugin # A simple example Apache Maven plugin
+https://github.com/oktadev/okta-express-graphql-example #
+https://github.com/oktadev/okta-spring-security-roles-example # Okta + Groups with Spring Security
+https://github.com/oktadev/okta-vanilla-js-example # A Vanilla JavaScript App with Authentication
+https://github.com/oktadev/okta-node-rest-api-example # Simple REST API with Node and OAuth 2.0
+https://github.com/oktadev/okta-spring-jwt-and-opaque-token-example #
+https://github.com/oktadev/okta-socket-io-chat-example # A simple chat application based on Socket.IO, React, and Express.
+https://github.com/oktadev/okta-dotnetcore-react-example #
+https://github.com/oktadev/okta-angular-spring-boot-docker-example # Angular + Spring Boot Docker Example
+https://github.com/oktadev/rockstar # rockstar Chrome extension - enhance Okta
+https://github.com/oktadev/okta-node-express-typescript-react-example # Node.js API with TypeScript
+https://github.com/oktadev/okta-nestjs-postgres-example # Sample application using NestJS and Postgres
+https://github.com/oktadev/okta-spring-boot-angular-auth-code-flow-example # Package Angular and Spring Boot into a single JAR!
+https://github.com/oktadev/okta-kotlin-typescript-notes-example # Kotlin and TypeScript! 🎉
+https://github.com/oktadev/terraform-provider-oktaasa # Terraform Okta ASA provider
+https://github.com/oktadev/auth0-spring-boot-passkeys-demo # A passkeys demo using Spring Boot and Auth0 as IdP
+https://github.com/oktadev/okta-ionic-4-login-example # Ionic 4 User Login and Registration Example
+https://github.com/oktadev/spring-boot-client-credentials-example #
+https://github.com/oktadev/okta-android-kotlin-crud-example # The source code for the Okta Kotlin Android CRUD tutorial.
+https://github.com/oktadev/okta-spring-jx-example # CI/CD for Spring Boot with Jenkins X and Kubernetes
+https://github.com/oktadev/okta-java-ee-rest-api-example # Java EE REST API + Security with JWT and OIDC
+https://github.com/oktadev/okta-react-docker-example # React + Docker Example
+https://github.com/oktadev/okta-angular-node-example # Basic CRUD Example with Angular and Node
+https://github.com/oktadev/okta-angular-electron-example #
+https://github.com/oktadev/okta-angular-mysql-timeline-example # An Angular + MySQL Timeline Example
+https://github.com/oktadev/okta-oauth2-proxy-example #
+https://github.com/oktadev/okta-spring-microservices-https-example # Spring Microservices: Secure Service-to-Service Communication
+https://github.com/oktadev/okta-node-cli-example # A command-line applications using Node.js
+https://github.com/oktadev/okta-php-symfony-angular-crud-example # Example CRUD App with Symfony and Angular
+https://github.com/oktadev/okta-node-express-15-minute-auth-example # Secure Authentication with Express and Okta
+https://github.com/oktadev/angular-jwt-authentication-example # Angular Authentication with JWT
+https://github.com/oktadev/okta-php-trivia-react #
+https://github.com/oktadev/okta-appauth-xamarin-example # Xamarin.Forms authentication with OpenID Connect and Okta
+https://github.com/oktadev/fga-drive-example # A demo illustrating how to deal with fine-grained authorization using OpenFGA/OktaFGA
+https://github.com/oktadev/header-app-tester # This app is used to test SSO integrations with apps using header-based authentication
+https://github.com/oktadev/jaxrs-spring-blog-example #
+https://github.com/oktadev/okta-java-spring-k8s-istio-microservices-example # An example microservices application using JHipster, Spring, Istio and Kubernetes
+https://github.com/oktadev/oauth-exercise-php # Sample code demonstrating writing simple OAuth clients from scratch
+https://github.com/oktadev/react-odyssey # React components for the Odyssey design framework
+https://github.com/oktadev/okta-oauth2-oidc-webinar # Okta OAuth 2.0 and OpenID Connect (in plain English)
+https://github.com/oktadev/okta-spring-boot-angular-pwa-example # Angular PWA with Authentication via Okta
+https://github.com/oktadev/okta-node-react-registration-example #
+https://github.com/oktadev/node-microservices-example # A demo project using Seneca for Node Microservices
+https://github.com/oktadev/okta-node-graphql-crud-example # Node.js GraphQL Example
+https://github.com/oktadev/okta-php-core-jwt-example #
+https://github.com/oktadev/okta-react-styled-components-example # React Styled Components Example
+https://github.com/oktadev/okta-php-trivia-angular #
+https://github.com/oktadev/okta-php-symfony-react-crud-example #
+https://github.com/oktadev/okta-angular-dynamic-components-example # Loading Components Dynamically in an Angular App
+https://github.com/oktadev/okta-spring-boot-oauth2-pkce-example # Always Use PKCE with OAuth 2.0 in your Spring Boot apps for Improved Security
+https://github.com/oktadev/okta-react-jwt-example # Example search app using React and Okta for authentication.
+https://github.com/oktadev/okta-aspnetcore22-crud-example # A CRUD Application built using ASP.NET Core 2.2 and SQLite
+https://github.com/oktadev/okta-react-login-example # A React Login Example with Hosted Login, Sign-In Widget, and Auth JS
+https://github.com/oktadev/okta-react-context-example # Example App Using React Context and Okta
+https://github.com/oktadev/okta-jhipster-k8s-eks-microservices-example # Example for Java Microservices on Amazon EKS Using Terraform and Kubernetes
+https://github.com/oktadev/okta-react-user-auth-example # React and User Authentication
+https://github.com/oktadev/okta-aspnet-core-3-oidc-example #
+https://github.com/oktadev/okta-react-books-with-hooks-example # React Books with Hooks
+https://github.com/oktadev/okta-angular-aspnetcore-example # A CRUD application with ASP.NET Core 2.0 and Angular 5
+https://github.com/oktadev/okta-angular-pwa-example # A Progressive Web Application example using Angular 7
+https://github.com/oktadev/okta-enterprise-ready-workshops # Take your SaaS apps to the next level in the identity maturity journey with the enterprise ready workshops
+https://github.com/oktadev/okta-ionic4-jhipster-example # Ionic 4 JHipster Example App
+https://github.com/oktadev/okta_saml_cert #
+https://github.com/oktadev/okta-play-oidc-example # Example of doing OIDC Authentication with Play, Pac4j, and Okta
+https://github.com/oktadev/okta-ionic-crypto-java-sdk-example # Josh Morony's cryptoPWA with Okta Authentication + Holdings API that stores holdings in Okta
+https://github.com/oktadev/okta-ionic-jhipster-example # Ionic for JHipster Example App with Okta Authentication
+https://github.com/oktadev/okta-ionic-crypto-pwa-example # Josh Morony's cryptoPWA with Okta Authentication
+https://github.com/oktadev/okta-legacy-with-cloud-gateway-example # Secure Legacy Applications with Spring Cloud Gateway
+https://github.com/oktadev/okta-angular-mongodb-hangman-example # Angular 8 + MongoDB Example
+https://github.com/oktadev/okta-react-redux-jwt-example #
+https://github.com/oktadev/okta-nodejs-login-example # Node.js Login Example
+https://github.com/oktadev/aspnet-mvc-angular-example # Build a Basic Web App with ASP.NET MVC and Angular
+https://github.com/oktadev/okta-php-microservices # An example of building microservices in PHP
+https://github.com/oktadev/okta-vue-books-pwa-example # A Progressive Web Application with Vue and TypeScript
+https://github.com/oktadev/okta-nodejs-postgres-weight-tracker-example #
+https://github.com/oktadev/servlet-authn-example # Use Okta's Authentication API with Java Servlets
+https://github.com/oktadev/okta-react-native-login-example # A React Native Login Example
+https://github.com/oktadev/okta-java-i18n-example # i18n in Java 11, Spring Boot, and JavaScript
+https://github.com/oktadev/okta-universals-apps-with-nuxt # Universal Applications with Nuxt.js
+https://github.com/oktadev/aspnet-mvc-angular-crud-example # Simple CRUD app written in ASP.NET MVC 4.x with an Angular front end
+https://github.com/oktadev/okta-twilify # Automatically assign dedicated company phone numbers to each employee using Twilio.
+https://github.com/oktadev/okta-nodejs-aws-lambda-example #
+https://github.com/oktadev/blazor-example # Simple Blazor example
+https://github.com/oktadev/okta-node-postgres-example # Sample Node REST API project with a PostgreSQL database back end.
+https://github.com/oktadev/okta-angular-webpack-example # Angular Webpack Example
+https://github.com/oktadev/okta-spring-logout-example # Spring Boot application that uses various logout options with Spring Security and OIDC.
+https://github.com/oktadev/okta-php-core-login-example #
+https://github.com/oktadev/auth0-jhipster-k8s-eks-microservices-example # Microservice using Auth0 for OIDC and Amazon EKS
+https://github.com/oktadev/okta-php-laravel-auth-example #
+https://github.com/oktadev/okta-spring-social-example # Social Login with Spring Boot 2.0
+https://github.com/oktadev/devdays-arcade-games # Custom Pacman and Space Invaders games
+https://github.com/oktadev/go-elasticsearch-example # Elasticsearch in Go: A Developer's Guide
+https://github.com/oktadev/okta-jhipster-micronaut-example # Angular + Micronaut with JHipster
+https://github.com/oktadev/okta-express-example # A very basic website built with Node.js and Express.js that uses Okta + OpenID Connect for authentication.
+https://github.com/oktadev/okta-ruby-rails6-crud-sample #
+https://github.com/oktadev/okta-angular-schematics-example # A Basic Schematics Example
+https://github.com/oktadev/okta-react-rating-example # Sample app that uses React, Okta, and Firebase and builds a star rating system.
+https://github.com/oktadev/okta-python-angular-crud-example # Flask + Angular CRUD Example
+https://github.com/oktadev/okta-react-redux-example # React Redux Example
+https://github.com/oktadev/okta-angular-deployment-example # Angular + Spring Boot Deployment Example
+https://github.com/oktadev/okta-aspnet-webforms-example # An example of how to integrate Okta for authentication in an ASP.NET Webforms application.
+https://github.com/oktadev/okta-aspnetcore-oidc-example #
+https://github.com/oktadev/okta-secure-websockets-nodejs-example # "Develop Secure Apps with WebSockets and Node.js" example code
+https://github.com/oktadev/okta-react-vite-number-converter-example #
+https://github.com/oktadev/okta-preact-widget-example #
+https://github.com/oktadev/angular-node-crud-example #
+https://github.com/oktadev/okta-aspnet-oauth2-starter-example # This is the starter project for the ASP.NET OAuth 2,0 example blog post.
+https://github.com/oktadev/okta-android-example #
+https://github.com/oktadev/developer-challenge # The Okta Developer Challenge.
+https://github.com/oktadev/auth0-react-native-jhipster-example # React Native and Spring Boot with JHipster Example
+https://github.com/oktadev/okta-zork-oauth-example #
+https://github.com/oktadev/okta-user-migration-dotnet #
+https://github.com/oktadev/okta-ionic-social-login-example # Ionic + Sign in with Apple and Google
+https://github.com/oktadev/okta-angular-calculator-example # Secure Login with Angular
+https://github.com/oktadev/okta-angular-notes-app-example # A Simple Notes App for the Browser
+https://github.com/oktadev/php-jwt-okta-lambda-auth-validator #
+https://github.com/oktadev/okta-aspnet-webapi-vue-example # A tutorial to build a CRUD application with ASP.NET Web API 2 and Vue.js
+https://github.com/oktadev/okta-react-hooks-example # React Hooks Example
+https://github.com/oktadev/secure-spring-boot-microservices # A microservice sample application configured to use Auth0 for OIDC and OAuth2
+https://github.com/oktadev/okta-graphql-angular-example #
+https://github.com/oktadev/okta-express-basic-crud-app-example # A sample Node.js blog app built using Express.js, OpenID Connect, and Sequelize.js.
+https://github.com/oktadev/okta-angular-nestjs-stepup-auth-example # Example project demonstrating step-up auth implementation in Angular and NestJS
+https://github.com/oktadev/angular-firebase-wiki-example # Quickly build a wiki-style app with Angular and Firebase.
+https://github.com/oktadev/okta-react-css-grid-example # CSS Grid with React Example
+https://github.com/oktadev/okta-go-cors-example #
+https://github.com/oktadev/api-reference # Redocly API Reference for Okta APIs
+https://github.com/oktadev/okta-k8s-oidc-terraform-example # An example repo showcasing setting up Okta OIDC using Terraform
+https://github.com/oktadev/okta-php-codeigniter-auth-example #
+https://github.com/oktadev/okta-aws-lambda-node-react-example # AWS Lambda + React Example
+https://github.com/oktadev/.github #
+https://github.com/oktadev/okta-vuejs-spa-spring-boot-example # Vue.JS Single Page Application + Spring Boot REST Backend
+https://github.com/oktadev/id-assertion-authz-node-example #
+https://github.com/oktadev/okta-laravel-8-example #
+https://github.com/oktadev/react-mermanatee # React components & helpers that are used in several places
+https://github.com/oktadev/okta-angular-ivy-example # Angular 9 with Ivy Example
+https://github.com/oktadev/ultimate-jhipster-workshop # The Ultimate JHipster Workshop
+https://github.com/oktadev/okta-secure-vue-aws-client-example # A Secure Vue.js App, Deployed to AWS
+https://github.com/oktadev/spring-cloud-gateway-oauth-lab #
+https://github.com/oktadev/okta-rust-webassembly-k8s-example # An example Rust WebAssembly application as a Kubernetes workload
+https://github.com/oktadev/AWS-End-User-Messaging-mfa-project #
+https://github.com/oktadev/okta-graalvm-example # An example project showing the packaging of a Java application as a native-image using GraalVM
+https://github.com/oktadev/homebrew-tap # Okta Homebrew Tap
+https://github.com/oktadev/okta-deno-auth-example # Deno Authentication Example
+https://github.com/oktadev/okta-php-symfony-auth-example #
+https://github.com/oktadev/okta-implicit-flow-detector # A browser extension for Chrome and Firefox to detect the deprecated OAuth 2.0 Implicit flow
+https://github.com/oktadev/okta-angular-bootstrap-example # Angular with Bootstrap Example
+https://github.com/oktadev/okta-php-core-token-auth #
+https://github.com/oktadev/signal18-challenge # Twilio Signal 2018 challenge.
+https://github.com/oktadev/okta-build-heroku-addon-example #
+https://github.com/oktadev/okta-electron-react-example # Okta Example with Electron, React, and GraphQL.
+https://github.com/oktadev/reinvent18-challenge-server # The API backend for our re:Invent 2018 challenge.
+https://github.com/oktadev/okta-vuepress-authentication-personalization-example # Add Authentication and Personalization to VuePress 1.0
+https://github.com/oktadev/okta-secure-vue-aws-server-example # An ExpressJS API, Deployed to AWS Lambda
+https://github.com/oktadev/azure-cosmosdb-example # An example app with Azure CosmosDB
+https://github.com/oktadev/okta-java-tools-example #
+https://github.com/oktadev/csharp-decode-jwt-example # A project that demonstrates decoding JWTs in C#
+https://github.com/oktadev/okta-php-symfony-vue-crud-example-2019 #
+https://github.com/oktadev/okta-react-storybook-example # A React application using Storybook
+https://github.com/oktadev/okta-reference-multi-org-terraform-example # Example for managing multiple Okta orgs with Terraform
+https://github.com/oktadev/okta-node-api-koa-example #
+https://github.com/oktadev/okta-maven-plugin #
+https://github.com/oktadev/okta-node-passport-oidc-example # An example Node.js app that uses Okta with passport-openidconnect for authentication and user management.
+https://github.com/oktadev/node-btc-sms-example # A simple API service that sends BTC exchange rates via SMS. Edit Add topics
+https://github.com/oktadev/okta-dropwizard-oauth-example #
+https://github.com/oktadev/reinvent18-challenge # Build this example app using AWS+Okta and win a prize!
+https://github.com/oktadev/okta-react-sass-example # React and Sass Example
+https://github.com/oktadev/okta-webrtc-javascript-example # Video chat app built with WebRTC, JavaScript, and Okta.
+https://github.com/oktadev/okta-spring-sessions-example # Load balanced Spring Boot + Spring Session application with OAuth 2.0
+https://github.com/oktadev/okta-jpaseto-example # Example of how to use JPaseto
+https://github.com/oktadev/okta-shiro-plugin # A library for integrating Okta into Apache Shiro based projects
+https://github.com/oktadev/xamarin-essentials-webauthenticator-sample #
+https://github.com/oktadev/okta-android-rxjava-example # Android RxJava Example
+https://github.com/oktadev/oktane-terraform-demo # JHipster Application deployed to EKS (AWS Kubernetes) using Terraform and the Okta Terraform Provider.
+https://github.com/oktadev/node-postgres-api-example # An Instagram mini clone written in Node using Postgres for a data store.
+https://github.com/oktadev/okta-shiro-jaxrs-example # Apache Shiro JAX-RS OAuth 2.0 Example
+https://github.com/oktadev/okta-dac-domains-serverless # Serverless project for the domains lambda functions
+https://github.com/oktadev/api-key-best-practices-and-examples # API Key Best Practices and Examples
+https://github.com/oktadev/okta-node-express-router-example #
+https://github.com/oktadev/okta-express-minio-app-example # A sample Node.js App with Express.js, MinIO, and Okta's Sign-In-Widget.
+https://github.com/oktadev/okta-jhipster-ionic-example # Ionic, Angular, and Spring Boot {author: @jhipster }
+https://github.com/oktadev/okta-configure-dotnet-owin-tutorial # Configure .NET Authentication in OWIN
+https://github.com/oktadev/okta-offline-jwt-validation-example # Offline JWT validation in Go
+https://github.com/oktadev/okta-vuejs-data-binding-example # Use Vue.js Data Binding Options for Reactive Applications
+https://github.com/oktadev/okta-nodejs-sailsjs-example #
+https://github.com/oktadev/spin-nyc-2020-oauth-and-oidc #
+https://github.com/oktadev/cli-site #
+https://github.com/oktadev/okta-react-native-app-store-example #
+https://github.com/oktadev/okta-php-laravel-elasticsearch-example #
+https://github.com/oktadev/okta-reference-coexistence-oidc-example #
+https://github.com/oktadev/python-go-libsodium-example # Getting Started with Libsodium in Python
+https://github.com/oktadev/spring-menu-api #
+https://github.com/oktadev/okta-aspnetcore-login-registration-example # This is an example of setting up login and registration with ASP.NET Core MVC and Okta.
+https://github.com/oktadev/okta-aspnet-mvc-core-sqlite-example # Sample project for build a basic ASP.NET Core MVC app with SQLite
+https://github.com/oktadev/php-api-oauth-sample # Secure PHP API with OAuth Example
+https://github.com/oktadev/okta-net-scim-example #
+https://github.com/oktadev/okta-vue-login-example # Vue Login Example
+https://github.com/oktadev/oktadev-content-reminder #
+https://github.com/oktadev/okta-device-grant-java-example #
+https://github.com/oktadev/universal-logout-spec #
+https://github.com/oktadev/okta-oidc-flows #
+https://github.com/oktadev/okta-php-core-groups-and-roles # A demonstration of using groups and roles to control who can access an application
+https://github.com/oktadev/okta-angular-standalone-runtime-config-example # Use Okta Angular SDK for runtime configuration loading in standalone Angular applications
+https://github.com/oktadev/jhipster-terraform-azure #
+https://github.com/oktadev/okta-modern-api-fastify-example # Fastify and Node.js Example
+https://github.com/oktadev/okta-express-universal-logout-devday-lab #
+https://github.com/oktadev/okta-nodejs-typescript-example # Sample blog application using Node.js TypeScript
+https://github.com/oktadev/okta-react-ant-design-example # A React app that uses Ant design principles and Okta for authentication.
+https://github.com/oktadev/okta-netlify-function-example # Example of a Netlify Function secured with Okta
+https://github.com/oktadev/okta-aws-python-example # How to write a secure Python Serverless App on AWS Lambda
+https://github.com/oktadev/okta-book-report-conf-demo #
+https://github.com/oktadev/java-test-groovy-example # Testing Java with Groovy
+https://github.com/oktadev/okta-cli-chocolatey #
+https://github.com/oktadev/auth0-angular-example # Angular + Auth0 Example
+https://github.com/oktadev/okta-consume-graphql-react-example # Quickly consume GraphQL API from React.
+https://github.com/oktadev/dotnet-stripe-freemium-example #
+https://github.com/oktadev/okta-dotnetcore-aws-fargate-example # .NET Core + Docker and AWS Fargate Example
+https://github.com/oktadev/okta-nestjs-example # Build your first NestJS application.
+https://github.com/oktadev/okta-angular-dpop-example # Angular project demonstrating DPoP when calling Okta APIs
+https://github.com/oktadev/signin-widget-example #
+https://github.com/oktadev/okta-dac-docs # DAC Docs to power VuePress
+https://github.com/oktadev/spring-boot-oauth-implicit-tutorial #
+https://github.com/oktadev/react-schematics-example # Use Schematics with React
+https://github.com/oktadev/okta-grails-example # A Basic Grails App with Authentication
+https://github.com/oktadev/okta-implicit-flow-detector-site #
+https://github.com/oktadev/okta-react-graphql-apollo-example # React app using Apollo to consume a GraphQL API
+https://github.com/oktadev/okta-go-gin-self-hosted-login-example # Okta Golang Gin & Self-Hosted Login Page uisng IDX
+https://github.com/oktadev/okta-efcore-pii-sample-dotnetcore #
+https://github.com/oktadev/okta-laravel-jwt-example #
+https://github.com/oktadev/okta-csharp-filestreams-example # An example of using Filestream in C# to handle data files hosted in AWS secured by Okta.
+
+https://github.com/okta-samples/okta-react-sample # React + Okta
+https://github.com/okta-samples/okta-spring-boot-sample # Spring Boot + Okta
+https://github.com/okta-samples/okta-express-sample # Node.js Express + Okta
+https://github.com/okta-samples/okta-angular-quickstart # Quickstart sample code for an Angular app using Okta redirect model
+https://github.com/okta-samples/okta-android-kotlin-sample # Android Kotlin + Okta
+https://github.com/okta-samples/okta-go-gin-sample # Golang Gin + Okta
+https://github.com/okta-samples/auth0-spring-boot-sample #
+https://github.com/okta-samples/okta-flask-sample # Python Flask + Okta
+https://github.com/okta-samples/okta-dotnetcore3-webapp-quickstart # .NET Core 3.1 Web App + Okta
+https://github.com/okta-samples/okta-angular-sample # Angular + Okta
+https://github.com/okta-samples/okta-flask-api-sample #
+https://github.com/okta-samples/okta-dotnetcore3-api-quickstart # Protect Your API Quickstart for .NET Core 3.1
+https://github.com/okta-samples/okta-php-app-quickstart #
+https://github.com/okta-samples/okta-vue-sample # Vue + Okta
+https://github.com/okta-samples/okta-quarkus-sample # Okta Quarkus Sample
+https://github.com/okta-samples/okta-android-oie-authenticators-quickstart # A sample application showcasing authenticators using OIE android SDK
+https://github.com/okta-samples/okta-php-api-quickstart # PHP API quickstart example
+https://github.com/okta-samples/okta-angular-oie-sample-quickstart #
+https://github.com/okta-samples/okta-aspnet-core3-sample # ASP.NET Core MVC + Okta
+https://github.com/okta-samples/okta-go-api-sample # Golang Gin API + Okta
+https://github.com/okta-samples/okta-vue-oie-sample-quickstart # A sample Vue application built using Okta Auth JavaScript SDK.
+https://github.com/okta-samples/okta-express-js-api-quickstart # Express API quick start sample
+https://github.com/okta-samples/okta-micronaut-sample # Okta Micronaut Sample
+https://github.com/okta-samples/okta-react-native-sample # React Native + Okta
+https://github.com/okta-samples/okta-helidon-sample # Okta Helidon Sample

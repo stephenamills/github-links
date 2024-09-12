@@ -1,0 +1,29 @@
+https://github.com/aws-samples/terraform-aws-sap-netweaver-on-hana # Terraform modules for deploying highly configurable SAP products on AWS.
+https://github.com/aws-samples/aws-install-sap-with-jenkins-ansible #
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-netweaver # Amazon CloudWatch Monitoring for SAP NetWeaver ABAP-based environments.
+https://github.com/aws-samples/aws-cloudformation-apigw-sap-idocs # Integrate SAP IDocs with Amazon S3 using Amazon API Gateway.
+https://github.com/aws-samples/aws-ssm-automation-for-start-stop-sap #
+https://github.com/aws-samples/aws-ebs-snapshot-sap-hana # How to use AWS EBS Snapshots for SAP HANA database to create an automated recovery procedure
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-hana # Amazon CloudWatch Monitoring for SAP HANA
+https://github.com/aws-samples/aws-iot-sap-condition-monitoring-demo #
+https://github.com/aws-samples/aws-sap-lens-well-architected # AWS SAP Lens for Well-Architected Framework.
+https://github.com/aws-samples/codecommit-crawler-innersource # A custom crawler written for AWS CodeCommit that creates the repos.json used by SAP InnerSource Portal.
+https://github.com/aws-samples/sap-commerce-blue-green-deployments-on-amazon-eks #
+https://github.com/aws-samples/aws-sap-on-ase-with-jenkins-terraform-ansible #
+https://github.com/aws-samples/sap-automated-hana-patching #
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-highavailability #
+https://github.com/aws-samples/aws-ebs-snapshot-sap-ase # AWS EBS Snapshots for SAP ASE
+https://github.com/aws-samples/sap-on-aws-documentprocessing-workflow #
+https://github.com/aws-samples/aws-analytics-fabric-for-sap #
+https://github.com/aws-samples/aws-lookoutforvision-sap-integration # Integrate AWS Lookout for vision with SAP Quality Management Process
+https://github.com/aws-samples/automate-sap-hana-high-availability-test #
+https://github.com/aws-samples/aws-sap-golden-ami-image-builder #
+https://github.com/aws-samples/aws-sap-hana-update-cluster-nzdt #
+https://github.com/aws-samples/aws-sap-gluerfc #
+https://github.com/aws-samples/aws-sap-hana-fast-restart-scripts #
+https://github.com/aws-samples/aws-ssm-automation-for-sap-hana-restore #
+https://github.com/aws-samples/aws-sap-multiaz #
+https://github.com/aws-samples/aws-workshop-samples-for-sap # Sample code used in SAP on AWS workshops.
+https://github.com/aws-samples/sap-ase-db-backup-ssm-eventbridge #
+https://github.com/aws-samples/platform-to-migrate-sap-sybaseiq-to-datalake-on-aws-with-fine-grained-control #
+https://github.com/aws-samples/suse-linux-on-aws-workshop # Hands-on workshop about SUSE Linux Enterprise Servers for SAP (SLES4SAP) on AWS
