@@ -1,0 +1,13 @@
+https://github.com/aws-ia/cfn-ps-ibm-mq #
+
+https://github.com/aws-samples/amazon-mq-workshop # This is self-paced workshop designed to allow solutions architects, developers and system administrators to get hands on with Amazon MQ.
+https://github.com/aws-samples/amazon-mq-migration-from-ibm-mq # This is self-paced workshop designed to allow solutions architects, developers and system administrators to create a bridge solution from IBM MQ to Amazon MQ.
+https://github.com/aws-samples/amazonmq-invoke-aws-lambda # Demonstrates an approach to invoking AWS Lambda from messages in an Amazon MQ queue.
+https://github.com/aws-samples/amazon-mq-enterprise-integration-patterns # Implementing Enterprise Messaging and Integration Patterns using Apache Camel and Amazon MQ
+https://github.com/aws-samples/aws-mq-network-of-brokers #
+https://github.com/aws-samples/aws-amazonmq-apachecamel-sample # Sample code showing how to use camel to connect to Amazon MQ and other AWS services
+https://github.com/aws-samples/amazon-mq-fifo-starter-kit # Amazon MQ starter kit created as part of AWS Compute Blog - Implementing FIFO message ordering with Amazon MQ for Apache ActiveMQ
+https://github.com/aws-samples/mq-benchmarking-sample # CDK Application for performing benchmarking of an Amazon MQ for ActiveMQ broker.
+https://github.com/aws-samples/amazon-mq-samples #
+https://github.com/aws-samples/aws-ibm-mq-adapter #
+https://github.com/aws-samples/mq-benchmarking-container-image-sample #

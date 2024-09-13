@@ -1,0 +1,43 @@
+https://github.com/build-on-aws/point-to-point-messaging-with-amazon-sqs # Point-to-point messaging with AWS Lambda
+
+https://github.com/aws-samples/amazon-sqs-samples # Create VPC Endpoints for SQS.
+https://github.com/aws-samples/amazon-sqs-dlq-replay-backoff #
+https://github.com/aws-samples/aws-fargate-pipeline-lambda-autoscaling # Fargate autoscaling pipeline for batch processing events from SQS
+https://github.com/aws-samples/lambda-ecs-worker-pattern # Extend Lambda functionality using SQS and the Amazon EC2 Container Service (ECS).
+https://github.com/aws-samples/aws-saas-factory-sqs-multi-tenancy #
+https://github.com/aws-samples/sqs-fargate-ddb-cdk-go #
+https://github.com/aws-samples/amazon-sqs-java-temporary-queues-client-samples # Temporary queues client
+https://github.com/aws-samples/aws-lambda-amazon-sqs-max-concurrency #
+https://github.com/aws-samples/asynchronous-messaging-workshop # Labs covering different aspects and patterns of asynchronous messaging.
+https://github.com/aws-samples/aws-datasync-verified-file-transfer-sqs-queue #
+https://github.com/aws-samples/aws-sam-messaging-services-integration # Using AWS messaging services in serverless applications with AWS SAM.
+https://github.com/aws-samples/amazon-sqs-best-practices-cdk #
+https://github.com/aws-samples/aws-panorama-shelf-monitoring # AWS Panorama blog post
+https://github.com/aws-samples/java-meme-generator-sample # Java application that uses Elastic Beanstalk, S3, DynamoDB, and SQS to create a meme generation website and processing pipeline.
+https://github.com/aws-samples/aws-multi-account-inspector-to-es-s3-blogpost-2020 # Centralize and visualize multi-account Amazon Inspector findings with Elasticsearch and S3
+https://github.com/aws-samples/tweet-classification # Tweet classification for real-time alerts with SageMaker and Hugging Face
+https://github.com/aws-samples/sqs-priority-queues #
+https://github.com/aws-samples/ad-overlay-opportunity-detection #
+https://github.com/aws-samples/aws-lambda-sqs-cost-estimator #
+https://github.com/aws-samples/amazon-sqs-message-attributes-starter-kit # Message attributes
+https://github.com/aws-samples/mitigating-the-impact-of-database-write-load-with-amazon-sqs #
+https://github.com/aws-samples/asynchronous-event-processing-api-gateway-sqs-cdk # Sample architecture to process events asynchronously using API Gateway and SQS.
+https://github.com/aws-samples/lambda-sqs-event-source-mapping-scaling-improvements #
+https://github.com/aws-samples/amazon-timestream-sqs-lambda-sample # Infrastructure to process data from an Amazon Simple Queue Service (SQS) queue and write it to Amazon Timestream using Lambda
+https://github.com/aws-samples/amazon-rekognition-custom-labels-batch-processing # Application for Computer Vision inferencing using Amazon Rekognition.
+https://github.com/aws-samples/uncovering-hidden-connections-in-unstructured-financial-data # Uncovering Hidden Connections in Unstructured Financial Data using Amazon Bedrock and Amazon Neptune
+https://github.com/aws-samples/sqs-ec2-graviton-spot # Workshop lab showcase of event-driven architecture with AWS Graviton Processors and Amazon EC2 Spot Instances
+https://github.com/aws-samples/spark-streaming-sql-s3-connector # An Apache Spark Structured Streaming S3 connector for reading S3 files using Amazon S3 event notifications to AWS SQS
+https://github.com/aws-samples/ai-powered-text-insights #
+https://github.com/aws-samples/amazon-rekognition-and-amazon-appflow-image-moderation-using-aws-cdk-for-slack # Serverless pipeline to moderate images posted to a Slack channel using Rekognition, AppFlow, Lambda, S3, SQS
+https://github.com/aws-samples/amazon-sqs-json-performance #
+https://github.com/aws-samples/iot-lambda-sns-sqs-lambda-dynamodb #
+https://github.com/aws-samples/multiregion-s3-sns-sqs-lambda #
+https://github.com/aws-samples/serverless-circuit-breaker-stepfunctions #
+https://github.com/aws-samples/microservices-dotnet-aws-cdk # Fanout architecture using .NET6 Worker Services to process messages from Amazon SNS Topic and Amazon SQS Queue.
+https://github.com/aws-samples/aws-trusted-advisor-glue-aggregator-terraform # Aggregate the AWS Trusted Advisor results from different accounts to a centralised account, using Terraform, Lambda, IAM, S3, and SQS
+https://github.com/aws-samples/simplified-serverless-b2b-application # B2B integrations with AWS Step Functions Workflow Studio AWS Compute Blog
+https://github.com/aws-samples/ddl-deployment-for-amazon-rds # Automated intialization of Amazon RDS databases
+
+https://github.com/aws/aws-sdk-php-zf2 # ZF2 module for using the AWS SDK for PHP to interact with AWS services like S3, DynamoDB, SQS, EC2, etc.
+https://github.com/aws/aws-corewcf-extensions # AWS CoreWCF Extensions is a collection of extension libraries for CoreWCF and WCF that provide cloud-native binding for Amazon SQS.

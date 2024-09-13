@@ -1,0 +1,35 @@
+https://github.com/aws-samples/aws-sns-samples # Code samples
+https://github.com/aws-samples/aws-serverless-sns-fanout # Serverless Fanout example with Lambda
+https://github.com/aws-samples/serverless-automated-cost-controls # Automated cost controls using AWS Budgets and Lambda
+https://github.com/aws-samples/event-driven-architecture-with-amazon-sns-fifo #
+https://github.com/aws-samples/asynchronous-messaging-workshop # Labs covering different aspects and patterns of asynchronous messaging.
+https://github.com/aws-samples/aws-codecommit-file-change-publisher # AWS CodeCommit file change notification example by using Lambda, SNS and CloudWatch Event
+https://github.com/aws-samples/aws-sam-messaging-services-integration # Using AWS messaging services in serverless applications with AWS SAM.
+https://github.com/aws-samples/sns-dynamic-subscribers #
+https://github.com/aws-samples/aws-panorama-shelf-monitoring # AWS Panorama blog post
+https://github.com/aws-samples/aws-multi-account-inspector-to-es-s3-blogpost-2020 # Centralize and visualize multi-account Amazon Inspector findings with OpenSearch and S3
+https://github.com/aws-samples/tweet-classification # Tweet classification for real-time alerts with Amazon SageMaker and Hugging Face
+https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement # Amazon Rekognition custom labels
+https://github.com/aws-samples/aws-serverless-workshop-decoupled-architecture # A sample .NET web application
+https://github.com/aws-samples/ad-overlay-opportunity-detection #
+https://github.com/aws-samples/aws-elemental-conductor-amazon-sns # Split and stitch addon that works with Elemental Conductor for acceleration of transcoding.
+https://github.com/aws-samples/setup-sns-notifications-on-resource-modifications-using-aws-config-and-cloudtrail # Set up notifications of which user or role made changes to a resource using AWS Config and CloudTrail.
+https://github.com/aws-samples/alexa-skill-authentication # Get flash briefings on Company's KPIs using an Alexa skill with Lambda and SNS
+https://github.com/aws-samples/dbs-blog-dms-events-sns-notification-cdk #
+https://github.com/aws-samples/python-cdk-api-rekognition-stepfunctions-ses-sns # Submit images to Rekognition, and get alerts from SES and SNS.
+https://github.com/aws-samples/guardduty-to-sns-mail #
+https://github.com/aws-samples/aws-sns-subscription-cleaner # Detects and removes orphaned SNS subscriptions that belong to non-existent topics.
+https://github.com/aws-samples/ai-powered-text-insights #
+https://github.com/aws-samples/sns-xray-active-tracing-blog-source-code # This sample application demonstrates Amazon SNS with AWS X-Ray active tracing
+https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-monitor-and-alerting # Train, deploy and monitor an XGBoost regression model in SageMaker and alert using Lambda and SNS.
+https://github.com/aws-samples/amazon-sns-sms-detailed-monitoring-dashboard #
+https://github.com/aws-samples/iot-lambda-sns-sqs-lambda-dynamodb #
+https://github.com/aws-samples/amazon-sns-apns-certificate-expiration-notifier #
+https://github.com/aws-samples/multiregion-s3-sns-sqs-lambda #
+https://github.com/aws-samples/microservices-dotnet-aws-cdk # Fanout architecture using .NET6 Worker Services to process messages from an SNS topic and SQS queue.
+https://github.com/aws-samples/batch-job-duration-notifier # Step Functions state machine to start an AWS Batch job and notify an Amazon SNS topic when a job is running for a specified duration
+https://github.com/aws-samples/amazon-eventbridge-for-ecr-api-calls # Enable an SNS Notification for EventBridge Rule API Calls for Elastic Container Registry (ECR).
+
+https://github.com/aws/aws-php-sns-message-validator # Message validation for PHP
+https://github.com/aws/aws-js-sns-message-validator # Message validation for JavaScript
+https://github.com/aws/aws-sdk-js-v3 # Modularized AWS SDK for JavaScript.

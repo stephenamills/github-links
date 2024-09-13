@@ -1,0 +1,76 @@
+https://github.com/aws-solutions-library-samples/guidance-for-devops-on-amazon-redshift # This Guidance demonstrates best practices for running development and operations (DevOps) on Amazon Redshift using both open source software and AWS services
+
+https://github.com/aws-ia/cfn-ps-amazon-redshift #
+
+https://github.com/aws-samples/amazon-redshift-udfs # A collection of example UDFs for Amazon Redshift.
+https://github.com/aws-samples/redshift-immersionday-labs # This GitHub project provides a series of lab exercises which help users get started using the Redshift platform.
+https://github.com/aws-samples/getting-started-with-amazon-redshift-data-api # Samples to help you get started with the Amazon Redshift Data API
+https://github.com/aws-samples/amazon-redshift-modernize-dw # Can you set up a data warehouse and create a dashboard in under 60 minutes? In this workshop, we show you how with Amazon Redshift, a fully managed cloud data warehouse that provides first-rate performance
+at the lowest cost for queries across your data warehouse and data lake. Learn the steps and best practices for deploying your data warehouse in your organization. Also, learn how to query petabytes of data in your data warehouse and exabytes of data, without loading or moving, in your Amazon S3 data lake. Finally, learn how to easily migrate from traditional or on-premises data warehouses. https://github.com/aws-samples/aws-redshift-spectrum-poc # Cloudformation and SQL scripts used to replicate a POC environment from the "Data Lake to Data Warehouse: Enhancing Customer 360 with Amazon Redshift Spectrum" post
+https://github.com/aws-samples/redshift-etl-automation-with-dbt #
+https://github.com/aws-samples/amazon-redshift-infrastructure-automation #
+https://github.com/aws-samples/serverless-data-analytics # CloudFormation templates and scripts to setup the AWS services for the workshop, Athena & Redshift Spectrum queries
+https://github.com/aws-samples/amazon-redshift-query-patterns-and-optimizations # In this workshop you will launch an Amazon Redshift cluster in your AWS account and load sample data ~ 100GB using TPCH dataset. You will learn query patterns that affects Redshift perfo
+rmance and how to optimize them. In this lab we will also provide a framework to simulate workload management (WLM) queue and run concurrent queries in regular interval and measure performance metrics- query throughput, query duration etc. We will also provide some use cases for Redshift spectrum to query data from s3 in columnar format such as Parquet. https://github.com/aws-samples/amazon-redshift-with-cloudformation # Automate Redshift cluster creation with best practices using AWS CloudFormation
+https://github.com/aws-samples/aws-lambda-redshift-event-driven-app # Building Event Driven Application with AWS Lambda and Amazon Redshift Data API
+https://github.com/aws-samples/amazon-redshift-config-compare #
+https://github.com/aws-samples/amazon-redshift-tiered-storage # Amazon Redshift offers a common query interface against data stored in fast, local storage as well as data from high-capacity, inexpensive storage (S3). This workshop will cover the basics of this tiered
+storage model and outline the design patterns you can leverage to get the most from large volumes of data. You will build out your own Redshift cluster with multiple data sets to illustrate the trade-offs between the storage systems. By the time you leave, you’ll know how to distribute your data and design your DDL to deliver the best data warehouse for your business. https://github.com/aws-samples/amazon-redshift-ml-getting-started # Examples to get you started with Amazon Redshift ML
+https://github.com/aws-samples/amazon-redshift-commands-using-aws-glue # Use a AWS Glue Python Shell Job to connect to your Amazon Redshift cluster and execute a SQL script stored in Amazon S3.
+https://github.com/aws-samples/aws-etl-microservice-redshift-datalake # AWS Lambda based microservice built using AWS Glue API to migrate tables off of Amazon Redshift into AWS (S3) data lake.
+https://github.com/aws-samples/amazon-redshift-streaming-workshop # This repository provides the resources required for the Amazon Redshift Streaming workshop
+https://github.com/aws-samples/amazon-redshift-data-warehouse-migration # In few hours, quickly learn how to effectively migrate oracle data warehouse workload to Amazon Redshift using AWS Schema Conversion Tool (SCT) and SCT data extractors. The lab will help them to
+use advance features of SCT like Virtual Partition while migrating the data warehouse to Amazon Redshift. https://github.com/aws-samples/redshift-roles #
+https://github.com/aws-samples/amazon-redshift-dynamic-data-masking #
+https://github.com/aws-samples/amazon-redshift-cost-attribution #
+https://github.com/aws-samples/amazon-redshift-devops-blog #
+https://github.com/aws-samples/amazon-redshift-data-lifecycle-manager # This code sample focuses on automating movement (unload) and management (delete/vacuum/analyze) of data in Amazon Redshift tables with temporal attributes through a simple configuration while main
+taining movement and management choice, priority, logging, auditing and checkpointing. https://github.com/aws-samples/personalized-travel-itinerary-planner # A Generative AI Chatbot application to provide personalized travel recommendations using Amazon Redshift and Amazon Bedrock
+https://github.com/aws-samples/amazon-redshift-location-user-defined-functions # Amazon Redshift User Defined Functions to call Amazon Location Service APIs
+https://github.com/aws-samples/amazon-redshift-commands-using-sagemaker #
+https://github.com/aws-samples/redshift-etl-framework #
+https://github.com/aws-samples/aws-blog-redshift-datalake-etl-elt-patterns # Design best practices for building scalable ETL (Extract-Transform-Load) and ELT (Extract-Load-Transform) data processing pipelines using both primary and short-lived Amazon Redshift clusters
+and Data Lake
+https://github.com/aws-samples/redshift-data-api-with-step-functions-sample #
+https://github.com/aws-samples/dbt-redshift-etlpattern #
+https://github.com/aws-samples/aws-redshift-udfs-textanalytics #
+https://github.com/aws-samples/redshift-migrate-db #
+https://github.com/aws-samples/redshift-jdbc-plugin-for-siteminder #
+https://github.com/aws-samples/amazon-redshift-rsql-orchestration-framework #
+https://github.com/aws-samples/sagemaker-processing-reading-data-from-redshift-to-sagemaker-pipelines #
+https://github.com/aws-samples/amazon-redshift-auto-pause #
+https://github.com/aws-samples/redshift-streaming-ingestion-patterns # This is a collecton of CDK projects to show how to load data from streaming services into Amazon Redshift.
+https://github.com/aws-samples/redshift-benchmarks #
+https://github.com/aws-samples/amazon-redshift-serverless-rsql-etl-framework # Amazon Redshift Serverless RSQL ETL Framework
+https://github.com/aws-samples/amazon-sagemaker-featurestore-redshift-integration # Building ML Features At-scale with Amazon SageMaker Feature Store Using Data from Amazon Redshift
+https://github.com/aws-samples/aws-sync-proxy-redshift-users-app # This serverless application handles creation and sync of proxy users in Amazon Redshift and AWS Secrets Manager allowing for table level access control when using the Athena Federated Query SDK.
+https://github.com/aws-samples/big-data-summarization-using-griptape-bedrock-redshift # Big Data Summarization using Griptape, Amazon Bedrock, Amazon Redshift
+https://github.com/aws-samples/aws-secure-cross-account-data-loader # This code demonstrates the architecture featured on the AWS big data blog (https://aws.amazon.com/blogs/big-data/ ) on securely accessing Amazon Redshift clusters across accounts by dynamically cont
+rolling the ingress rules of the clusters. https://github.com/aws-samples/amazon-redshift-auto-testing-with-data-api # This repository provides a method to automate repeated testing of queries with Amazon Redshift Data API
+https://github.com/aws-samples/sagemaker-rstudio-redshift # This repository contains sample code and instructions for connecting RStudio on Amazon SageMaker to Amazon Redshift. It demonstrates how to use the ODBC and DBI packages to establish a connection between RStu
+dio on SageMaker and a Redshift cluster, https://github.com/aws-samples/amazon-redshift-disaster-recovery # Guidance on how to restore an Amazon Redshift cluster to a secondary region if the cluster becomes unavailable/unreachable in the primary region.
+https://github.com/aws-samples/redshift-external-file-process-framework #
+https://github.com/aws-samples/implement-column-level-encryption-in-amazon-redshift-with-aws-glue-and-aws-lambda-udf #
+https://github.com/aws-samples/amazon-aurora-s3-redshift-serverless-dwh #
+https://github.com/aws-samples/aws-cdk-lambda-import-export-redshift-ddl #
+https://github.com/aws-samples/query-databases-with-natural-language # This project uses the open-source model Mixtral 8x7B Instruct, deployed in Amazon SageMaker or invoked via API on Amazon Bedrock, to enable users to chat with their database using natural language,
+without writing any code or SQL query. https://github.com/aws-samples/automate-setup-for-cross-account-query-in-redshift-spectrum-by-cdk #
+https://github.com/aws-samples/redshift-application-api #
+https://github.com/aws-samples/redshift-query-html-ses # This project is to show how you can query a Redshift table, change fields from the query results to a clickable link, change the query results to HTML styles, and finally send an email to specified recipients us
+ing Amazon SES. https://github.com/aws-samples/cdk-glue-orchestrate-redshift #
+https://github.com/aws-samples/amazon-redshift-sql-deploy-terraform #
+https://github.com/aws-samples/amazon-redshift-assume-role-sample #
+https://github.com/aws-samples/amazon-redshift-ivm-fk-optimization-queries #
+https://github.com/aws-samples/federated-access-to-redshift-in-china #
+https://github.com/aws-samples/unload-redshift-to-s3-python # The purpose of this code is to extract (unload) data from an Amazon Redshift cluster supposedly on a production environment using an SQL query and save them to an Amazon Simple Storage Service (Amazon S3) b
+ucket that exists in a development environment. https://github.com/aws-samples/data-transformation-of-redshift-using-glue-databrew #
+https://github.com/aws-samples/aws-redshift-in-place-column-compression-utility #
+https://github.com/aws-samples/prediction-app-with-amazon-redshift-ml-and-api-gateway # A sample on how to create a machine learning prediction API based on data in Amazon Redshift
+https://github.com/aws-samples/acclerate-research-with-real-world-data-using-aws-data-exchange-for-amazon-redshift #
+
+https://github.com/aws/amazon-redshift-python-driver # Redshift Python Connector. It supports Python Database API Specification v2.0.
+https://github.com/aws/amazon-redshift-jdbc-driver # Redshift JDBC Driver. It supports JDBC 4.2 specification.
+https://github.com/aws/awesome-redshift #
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+https://github.com/aws/amazon-redshift-odbc-driver #
+https://github.com/aws/redshift-test-drive #

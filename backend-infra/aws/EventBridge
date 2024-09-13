@@ -1,0 +1,65 @@
+https://github.com/aws-solutions-library-samples/guidance-for-scheduling-batch-jobs-for-mainframe-modernization-service-on-aws # Simple scheduler for batch jobs
+
+https://github.com/aws-samples/amazon-eventbridge-producer-consumer-example # A simple producer/consumer example for Amazon EventBridge. Questions? @jbesw.
+https://github.com/aws-samples/s3-to-lambda-patterns # Example applications for the S3-to-Lambda patterns series in the AWS Compute Blog and learning path. Questions? @jbesw.
+https://github.com/aws-samples/aws-serverless-ecommerce-platform # Serverless Ecommerce Platform is a sample implementation of a serverless backend for an e-commerce website. This sample is not meant to be used as an e-commerce platform as-is, but as an inspiration on
+ how to build event-driven serverless microservices on AWS.
+ https://github.com/aws-samples/amazon-eventbridge-resource-policy-samples # Resource policies and multi-account event bus topologies.
+https://github.com/aws-samples/serverless-coffee-workshop # This is the repo for Serverlesspresso workshop. Questions? Contact @jbesw or @benjamin_l_s on GitHub or Twitter.
+https://github.com/aws-samples/amazon-eventbridge-cdk-audit-service-sample # Sample of a decoupled audit service using Amazon EventBridge and AWS Step Functions. Provisioned with AWS CDK.
+https://github.com/aws-samples/decoupling-with-amazon-eventbridge # SVS402 - Examples from re:Invent 2020 presentation by James Beswick (@jbesw).
+https://github.com/aws-samples/aws-serverless-ai-stories # Example open source event-driven application that generates a new bed time story for your children every night using Lambda, EventBridge, DynamoDB, App Runner, ChatGPT and DALL-E.
+https://github.com/aws-samples/eventbridge-xray-integration-examples # Learn more at https://aws.amazon.com/blogs/compute/using-aws-x-ray-tracing-with-amazon-eventbridge/
+https://github.com/aws-samples/amazon-eventbridge-partnerevent-example # 
+https://github.com/aws-samples/aws-lambda-redshift-event-driven-app # Building Event Driven Application with AWS Lambda and Amazon Redshift Data API
+https://github.com/aws-samples/fresh-tracks # A custom-built serverless application built in Vue.js to demonstrate multiple SaaS integrations into AWS with EventBridge.
+https://github.com/aws-samples/serverless-coffee # Serverlesspresso - The serverless coffee ordering application! As seen at AWS re:Invent 2021. Presented by AWS Serverless DA team. Questions? Contact @jbesw.
+https://github.com/aws-samples/amazon-aurora-eventbridge-webhooks # An AWS Cloud Development Kit (CDK) sample showing how to configure the aws_lambda extension to send outgoing webhooks via Amazon EventBridge
+https://github.com/aws-samples/amazon-eventbridge-integration-with-auth0 # 
+https://github.com/aws-samples/amazon-eventbridge-pipes-architectural-patterns # 
+https://github.com/aws-samples/eventbridge-salesforce-integration # 
+https://github.com/aws-samples/api-eventbridge-lambda-typescript # 
+https://github.com/aws-samples/aws-organizations-multi-account-eventbridge # 
+https://github.com/aws-samples/designing-cloud-native-microservices-on-aws # Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Inclu
+ding the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.https://github.com/aws-samples/aws-healthomics-eventbridge-integration # 
+https://github.com/aws-samples/event-driven-arch-eventbridge-lambda # 
+https://github.com/aws-samples/serverless-datalake # Serverless Datalake architecture
+https://github.com/aws-samples/aws-control-tower-account-setup-using-step-functions # Automated AWS account hardening with AWS Control Tower and AWS Step Functions
+https://github.com/aws-samples/eventbridge-events-to-vpc # 
+https://github.com/aws-samples/webhooks # Send and receive webhooks on AWS: Innovate with event notifcations.
+https://github.com/aws-samples/aws-sam-messaging-services-integration # Using AWS messaging services in serverless applications with AWS SAM. Questions? @jbesw
+https://github.com/aws-samples/amazon-eventbridge-freshdesk-example # 
+https://github.com/aws-samples/sam-eventbridge-alerting # 
+https://github.com/aws-samples/amazon-guardduty-automated-response-sample # Automated Amazon GuardDuty Security Response
+https://github.com/aws-samples/aws-control-tower-org-setup-sample # Automated AWS Organizations configuration for security operations
+https://github.com/aws-samples/aws-systems-manager-schedule-central-patch-example # This repo hosts CloudFormation templates related to the AWS Management & Governance blog post. See README.md for a link to the blog post.
+https://github.com/aws-samples/serverless-alert-notifier # One-click serverless solution for sending alert notification to common communication or alert platforms.
+https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement # WithAmazon Rekognition Custom Labels, you can easily build and deploy Machine Learning (ML) models to identify custom objects which are specific to your busi
+ness domain in images without requiring advanced ML knowledge. When combined with Amazon Augmented AI (A2I), you can quickly integrate a ML workflow to capture and label images with a human workforce for model training. As ML lifecycle is an iterative and repetitive process, you need to implement an effective workflow that can provide for continuous model training with new data and automated deployment. Your workflow also needs to be flexible enough to allow for changes without requiring development rework as your business objectives change. Operationalizing an effective and flexibleworkflow can be resource intensive, especially for customers who have limited machine learning capabilities. In this post, we will use AWS Step Functions,AWS Lambda, and AWS System Manager Parameter Store to automate a configurable ML workflow for Rekognition Custom Labels and A2I. We will provide an overview of the solution and instructions to deploy it with AWS CloudFormation.https://github.com/aws-samples/eventbridge-pipes-schema-validation-confluent # Convert AVRO events to JSON and perform schema validation using EventBridge Pipes and Confluent Schema Registry.
+https://github.com/aws-samples/transcribe-comprehend-quicksight-demo # Sample audio transcription and analysis pipeline using Amazon Transcribe, Amazon Comprehend.
+https://github.com/aws-samples/amazon-eventbridge-salesforce-sms # 
+https://github.com/aws-samples/ml-edge-getting-started # 
+https://github.com/aws-samples/eventbridge-pipes-schema-validation-glue # Convert AVRO events to JSON and perform schema validation using EventBridge Pipes and Glue Schema Registry.
+https://github.com/aws-samples/aws-integration-for-apache-guacamole # An AWS automation to integrate with Apache Guacamole. This solution use Eventbridge Rules and Lambda Functions to detect EC2 events in the VPC and create or remove connections in the Guacamole
+https://github.com/aws-samples/amazon-eventbridge-sample-feedback-loop-for-shared-libraries # 
+https://github.com/aws-samples/amazon-lookout-for-vision-batch-processing # This project contains source code and supporting files for a serverless application which can be used for Computer Vision inferencing using Amazon Lookout for Vision
+https://github.com/aws-samples/aws-financial-data-discovery-samples # Sample code to discover financial data in S3 using Amazon Macie and automatically apply lifecycle policies
+https://github.com/aws-samples/amazon-eventbridge-for-ecr-api-calls # In this GitHub repository, you will get a step by step guidance to deploy an Amazon CloudFormation (CFN) template to automatically create all the resources and settings required to enable SNS Notifi
+cation for EventBridge Rule API Calls for Elastic Container Registry (ECR) Service.https://github.com/aws-samples/aws-secrets-manager-hybrid-secret-replication-from-hashicorp-vault # Sample repository for secret replication from third-party secrets manager to AWS Secrets Manager
+https://github.com/aws-samples/amazon-rekognition-custom-labels-batch-processing # This project contains source code and supporting files for a serverless application which can be used for Computer Vision inferencing using Amazon Rekognition.
+https://github.com/aws-samples/aws-stepfunctions-aurora-clone # The goal of this project is to create an Aurora Clone using AWS StepFunctions so you can call it using an Amazon EventBridge Rule or from your CI/CD Pipeline.
+https://github.com/aws-samples/amazon-eventbridge-pipes-dynamodb-stream-transactional-outbox # 
+https://github.com/aws-samples/delay-eventbridge-events-with-eventbridge-scheduler # 
+https://github.com/aws-samples/high-concurrency-computing-using-amazon-eventbridge-with-aws-step-functions-apg-pattern-example # 
+https://github.com/aws-samples/eventbridge-scheduler-blog-prerequisites # 
+https://github.com/aws-samples/amazon-eventbridge-integration-with-zendesk # 
+https://github.com/aws-samples/sap-ase-db-backup-ssm-eventbridge # 
+https://github.com/aws-samples/automate-comprehend-custom-with-eventbridge-lambda # The repo showcases how we can automate the provisioning and decommissioning of endpoints for hosting custom comprehend models, to optimize the cost.
+https://github.com/aws-samples/automate-vending-sagemaker-notebooks-with-eventbridge-and-lambda # 
+https://github.com/aws-samples/ec2RuntimeMonitor # EC2 runtime monitor is a serverless solution to get a notification when an EC2 instance is running for a time exceeding a user defined threshold.
+https://github.com/aws-samples/aws-step-functions-async-task-pattern # This sample provides implementation of callback pattern for long running jobs with the help of Amazon EventBridge.
+https://github.com/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda # Automate your DNS firewall with your own lambda
+https://github.com/aws-samples/simplified-serverless-b2b-application # Code for Simplifying B2B integrations with AWS Step Functions Workflow Studio AWS Compute Blog 
+https://github.com/aws-samples/amazon-route-53-resolver-firewall-automation-examples-2 # Automate route 53 resolver to filter from an up-to-date domain list
+https://github.com/aws-samples/ddl-deployment-for-amazon-rds # Automated intialization of Amazon RDS databases
+https://github.com/aws-samples/devops-guru-integration-with-slack # Machine learning (ML) service

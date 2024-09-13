@@ -1,0 +1,65 @@
+https://github.com/aws-solutions-library-samples/guidance-for-multi-modal-data-analysis-with-aws-health-and-ml-services # An end-to-end framework for storing, integrating, and analyzing multimodal HCLS data on AWS, using AWS HealthOmics, AWS HealthLake, AWS HealthImag
+ing, Amazon SageMaker, Amazon Athena, Amazon QuickSight, and Amazon S3.                                                                                                                                                                                                     https://github.com/aws-solutions-library-samples/guidance-for-deploying-a-data-transfer-dashboard-for-adtech-on-aws # This Guidance shows how to use AWS Cost and Usage Reports (AWS CUR) and Amazon Athena to build a dashboard that gives you a centralized view of your d
+ata transfer costs and usage                                                                                                                                                                                                                                                https://github.com/build-on-aws/bedrock-agent-txt2sql # Use natural language to Generate Amazon Athena SQL queries to fetch data.
+https://github.com/aws-samples/amazon-serverless-datalake-workshop # A workshop demonstrating the capabilities of S3, Athena, Glue, Kinesis, and Quicksight.
+https://github.com/aws-samples/amazon-cloudfront-access-logs-queries # Analyze your Amazon CloudFront Access Logs at Scale with Amazon Athena.
+https://github.com/aws-samples/serverless-data-analytics # CloudFormation templates and scripts to setup the AWS services for the workshop, Athena & Redshift Spectrum queries
+https://github.com/aws-samples/aws-athena-hive-metastore #
+https://github.com/aws-samples/rds-snapshot-export-to-s3-pipeline # RDS Snapshot Export to S3 Pipeline
+https://github.com/aws-samples/text-to-sql-for-athena #
+https://github.com/aws-samples/aws-blog-athena-custom-jdbc-credentials # The repository demonstrates use cases for running queries using Athena utilizing a custom JDBC credentials provider
+https://github.com/aws-samples/aws-incident-response-playbooks-workshop #
+https://github.com/aws-samples/aws-athena-udfs-textanalytics #
+https://github.com/aws-samples/amazon-athena-connector-for-microsoft-powerbi #
+https://github.com/aws-samples/amazon-ecs-fluent-bit-daemon-service #  Fluent Bit plugin-based centralized log analysis across Amazon ECS & EKS clusters
+https://github.com/aws-samples/amazon-athena-serverless-ehms-connector #
+https://github.com/aws-samples/query-data-in-s3-with-amazon-athena-and-aws-sdk-for-dotnet # This Project provides a sample implementation that will show how to leverage Amazon Athena from .NET Core Application using AWS SDK for .NET to run standard SQL to analyze a la
+rge amount of data in Amazon S3.                                                                                                                                                                                                                                            https://github.com/aws-samples/serverless-datalake # Serverless Datalake architecture
+https://github.com/aws-samples/analyzing-reddit-sentiment-with-aws # Learn how to use Kinesis Firehose, AWS Glue, S3, and Amazon Athena by streaming and analyzing reddit comments in realtime. 100-200 level tutorial.
+https://github.com/aws-samples/ec2-spot-interruption-dashboard # This is a sample solution for logging EC2 Spot Instance Interruptions, storing them in CloudWatch and S3, and visualizing them with a CloudWatch Dashboard and Amazon Athena.
+https://github.com/aws-samples/analyze-apache-hudi-dataset-using-amazon-athena #
+https://github.com/aws-samples/data-exploration-with-amazon-athena #
+https://github.com/aws-samples/amazon-athena-execution-parameters-blog #
+https://github.com/aws-samples/aws-etl-orchestrator # A serverless architecture for orchestrating ETL jobs in arbitrarily-complex workflows using AWS Step Functions and AWS Lambda.
+https://github.com/aws-samples/aws-glue-cdk-cicd # Build, Test and Deploy ETL solutions using AWS Glue and AWS CDK based CI/CD pipelines
+https://github.com/aws-samples/iot-analytics-athena-ddb #
+https://github.com/aws-samples/amazon-athena-queries-via-aws-lambda-cdk #
+https://github.com/aws-samples/aws-usage-queries # This application bootstraps everything needed to query the AWS Cost and Usage reports through Amazon Athena. It also includes reference data and preconfigured SQL queries.
+https://github.com/aws-samples/amazon-athena-tableau-integration #
+https://github.com/aws-samples/dicom-metadata-extractor-serverless-datalake # A serverless workflow to extract DICOM metadata to S3 and make it queryable via Athena.
+https://github.com/aws-samples/aws-athena-websocket-api #
+https://github.com/aws-samples/amazon-sagemaker-predict-accessibility # Build end-to-end Machine Learning pipeline to predict accessibility of playgrounds in NYC
+https://github.com/aws-samples/dynamodb-ml-prediction-amazon-athena #
+https://github.com/aws-samples/dynamodb-history-storer # A serverless application which enables audit on changes in DynamoDB tables. It automatically stores changes(insert/modify/delete) in specified DynamoDB tables to S3 bucket, and enables search from Athena.
+https://github.com/aws-samples/natural-language-querying-of-data-in-s3-with-athena-and-generative-ai-text-to-sql #
+https://github.com/aws-samples/web-analytics-on-aws # This web analytics demo shows how to collect web logs with API Gateway and store them into S3 through Amazon Kinesis. Then this project shows how to analyze web logs with Amazon Athena.
+https://github.com/aws-samples/aws-analytics-immersion-day # Describes the concepts of lambda architecture and the actual deployment process with an example of building a serverless business intelligence systems using Amazon Kinesis, S3, Athena, OpenSearch Service, an
+d QuickSight.                                                                                                                                                                                                                                                               https://github.com/aws-samples/aws-glue-athena-tcga # This repository has the code for the AWS blog post - Enabling the aggregation and query of The Cancer Genome Atlas using AWS Glue and Amazon Athena
+https://github.com/aws-samples/waf-log-sample-athena-queries #
+https://github.com/aws-samples/aws-serverless-centralized-logs # The purpose of this sample is to show how to create a serverless and centralized architecture to ingest, store and query logs utilizing Amazon Kinesis Data Firehose, Amazon S3 and Amazon Athena.
+https://github.com/aws-samples/h3-udf-for-athena #
+https://github.com/aws-samples/exploring-images-on-social-media-using-amazon-rekognition # Easily perform analysis on social media data using Amazon Rekognition and Amazon Athena
+https://github.com/aws-samples/athena-materialize-query-using-batch #
+https://github.com/aws-samples/amazon-athena-prepared-statement-blog #
+https://github.com/aws-samples/aws-athena-cqrs-pattern # Example of CQRS(Command and Query Responsibility Segregation) Pattern using Amazon Athena
+https://github.com/aws-samples/amazon-athena-train-amazon-sagemaker #
+https://github.com/aws-samples/ai-powered-text-insights #
+https://github.com/aws-samples/aws-transit-gateway-flow-logs-athena-integration #
+https://github.com/aws-samples/athena-samples #
+https://github.com/aws-samples/amazon-eks-use-sbom-to-find-container-image-with-vulnerable-software # This repo hosts Terraform code for generating and analyzing Software Bill of Materials (SBOM) for Amazon ECR images. It helps identify Amazon EKS images with vulnerab
+le software components using Amazon Athena.                                                                                                                                                                                                                                 https://github.com/aws-samples/aws-data-foundations-framework # The Data Foundations Framework accelerates deployment of a modern data platform using AWS native services and best practices.
+https://github.com/aws-samples/access-aws-services-programmatically-using-tip # A Python CLI application that demonstrates how you can access AWS services, such as Amazon S3 and Amazon Athena, using trusted identity propagation.
+https://github.com/aws-samples/athena-single-query-analyzer #
+https://github.com/aws-samples/application-discovery-athena-queries #
+https://github.com/aws-samples/aws-sync-proxy-redshift-users-app # This serverless application handles creation and sync of proxy users in Amazon Redshift and AWS Secrets Manager allowing for table level access control when using the Athena Federated Query SDK.
+https://github.com/aws-samples/aws-iot-sitewise-cold-tier-repartitioning # Code samples to re-partition the AWS IoT SiteWise cold storage tier data for improved Athena query performance
+https://github.com/aws-samples/data-insights-with-amazon-q-business # Amazon Q Business enables querying structured data using natural language, leveraging schemas and metadata. This example demonstrates an architecture to query cost and usage data in Amazon Athena wi
+th Q Business. The solution can be extended to additional data sources with query validation and prompting techniques for broader use cases.                                                                                                                                https://github.com/awslabs/aws-athena-query-federation # The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.
+https://github.com/awslabs/athena-glue-service-logs # Glue scripts for converting AWS Service Logs for use in Athena
+https://github.com/awslabs/amazon-athena-cross-account-catalog # 🌉 Reference implementation for granting cross-account AWS Glue Data Catalog access from Amazon Athena
+https://github.com/awslabs/voice-powered-analytics # Workshop to build voice enabled integration with data analytics
+https://github.com/awslabs/aws-security-analytics-bootstrap # AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena analysis environment that's quick to deploy, ready to use, and easy to
+ maintain.                                                                                                                                                                                                                                                                  https://github.com/awslabs/digital-user-engagement-events-database # Configures and builds a database for engagement events generated by Amazon Simple Email Service (SES) and Amazon Pinpoint engagements using Amazon Athena.
+https://github.com/awslabs/aws-athena-query-federation-dsv2 #
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+

@@ -1,0 +1,21 @@
+https://github.com/build-on-aws/cicd-pipeline-for-containers # This repository sets up an end-to-end CI/CD container pipeline with Hashicorp Terraform based on native AWS services for hosting and testing application code, building a container image from the code, push
+ing and storing the container image to ECR, and deploying this container on EKS as a deployment.                                                                                                                                                                            https://github.com/aws-samples/aws-codedeploy-samples # Samples and template scenarios for AWS CodeDeploy
+https://github.com/aws-samples/aws-codepipeline-s3-codedeploy-linux # Use this sample when creating a simple pipeline in AWS CodePipeline while following the Simple Pipeline Walkthrough tutorial. http://docs.aws.amazon.com/codepipeline/latest/userguide/getting-started
+-w.html                                                                                                                                                                                                                                                                     https://github.com/aws-samples/aws-codedeploy-sample-tomcat # A sample Tomcat application integrated with CodeDeploy. 
+https://github.com/aws-samples/aws-codedeploy-github-actions-deployment # 
+https://github.com/aws-samples/amazon-sagemaker-safe-deployment-pipeline # Safe blue/green deployment of Amazon SageMaker endpoints using AWS CodePipeline, CodeBuild and CodeDeploy.
+https://github.com/aws-samples/aws-codedeploy-appspec-assistant # 
+https://github.com/aws-samples/aws-codedeploy-linear-canary-deployments-blog # AWS CodeDeploy has extended blue/green deployment support for Elastic Container Service (Amazon ECS) to include canary and linear deployments for applications hosted on AWS Fargate or Amazo
+n Compute Cloud (Amazon EC2).                                                                                                                                                                                                                                               https://github.com/aws-samples/iam-policy-tester-pipeline # Test IAM Policies in Multi Account Structures in your CI/CD pipeline
+https://github.com/aws-samples/gitlab-to-codecommit-migration # Script to migrate from GitLab to Amazon CodeCommit easily and setup your AWS environment with CodeCommit, CodePipeline and CodeDeploy as well.
+https://github.com/aws-samples/ecs-blue-green-deployment-with-codedeploy # 
+https://github.com/aws-samples/bluegreen-to-amazon-ecs-using-aws-cdk-aws-codedeploy # This is a sample app created to illustrate the best practices outlined in the following blog post
+https://github.com/aws-samples/invisible-codepipeline-unsupported-regions # End-to-end workflow pipeline where the AWS CodePipeline is not yet supported using existing AWS CI and CD services like AWS CodeCommit, AWS CodeBuild and AWS CodeDeploy.
+https://github.com/awslabs/aws-codedeploy-plugin # Jenkins plugin for AWS CodeDeploy
+https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux # Use this sample when creating a four-stage pipeline in AWS CodePipeline while following the Four Stage Pipeline Tutorial. http://docs.aws.amazon.com/codepipeline/latest/userguide/getting-starte
+d-4.html                                                                                                                                                                                                                                                                    https://github.com/awslabs/codedeploy-blue-green # These artifacts are associated with the blog post on Blue/Green Deployments with CodeDeploy.
+https://github.com/awslabs/aws-codedeploy-new-instance-sync-lambda # Python script to automatically sync new instances via AWS CodeDeploy APIs
+https://github.com/awslabs/aws-ms-deploy-assistant # The AWS Deployment Assistance for Microsoft Developer Platform enables integration of the AWS CodePipeline and CodeDeploy Services into the Visual Studio or Team Foundation Server build process
+https://github.com/aws/aws-codedeploy-agent # Host Agent for AWS CodeDeploy
+https://github.com/aws/aws-toolkit-azure-devops # AWS Toolkit for Azure DevOps
+

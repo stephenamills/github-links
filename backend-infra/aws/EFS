@@ -1,0 +1,29 @@
+https://github.com/aws-samples/amazon-efs-tutorial # This tutorial is designed to help you better understand the performance characteristics of Amazon Elastic File System
+https://github.com/aws-samples/aws-lambda-efs-samples # AWS SAM templates and examples for Amazon EFS for AWS Lambda. Questions? @jbesw
+https://github.com/aws-samples/amazon-efs-workshop # This workshop will show solutions architects how to take advantage of a petabyte scale distributed file system for various application workloads like analytics, web serving & content management, enterprise applicati
+ons, and Docker containers. https://github.com/aws-samples/amazon-efs-integrations # Amazon EFS Integrations
+https://github.com/aws-samples/amazon-efs-developer-zone #
+https://github.com/aws-samples/eks-efs-share-within-fargate #
+https://github.com/aws-samples/eb-php-wordpress # Configuration files and instructions for installing WordPress securely and running it in a load balanced AWS Elastic Beanstalk environment with an EFS file system for shared assets.
+https://github.com/aws-samples/lambda-efs-deep-learning-inference # Deep Learning inference with AWS Lambda and Amazon EFS
+https://github.com/aws-samples/blue-green-deployment-pipeline-for-efs # Blue/Green deployment with AWS Developer tools on Amazon EC2 using Amazon EFS to host application source code
+https://github.com/aws-samples/aws-tf-transfer-sftp-efs # AWS Transfer Family SFTP Server using Amazon EFS domain with automated operations
+https://github.com/aws-samples/eb-php-drupal # Configuration files and instructions for installing Drupal securely and running it in a load balanced AWS Elastic Beanstalk environment with an EFS file system for shared assets.
+https://github.com/aws-samples/zero-administration-inference-with-aws-lambda-for-hugging-face # Zero administration inference with AWS Lambda for 🤗
+https://github.com/aws-samples/aws-lambda-serverless-inference # AWS CloudFormation and SAM templates for machine learning inference with AWS Lambda.
+https://github.com/aws-samples/fargate-efs-cloudformation-deployment-example # Automating Amazon EFS file systems mounts for AWS Fargate
+https://github.com/aws-samples/aws-scalable-big-blue-button-example # Demonstration of how to deploy a scalable video conference solution based on Big Blue Button
+https://github.com/aws-samples/aws-tf-efs # Provision secured Amazon EFS for the enterprise use cases including backup and cross-region replica
+https://github.com/aws-samples/aws-cdk-localgov-drupal-fargate-efs-auroraserverlessv2 #
+https://github.com/aws-samples/sagemaker-studio-efs-recovery-serverless #
+https://github.com/aws-samples/sample-application-ecs-and-efs #
+https://github.com/aws-samples/aws-s3-to-efs-examples #
+https://github.com/aws-samples/dr-with-eks-efs #
+https://github.com/aws-samples/aws-efs-crossregion-datasync #
+https://github.com/aws-samples/cloudformation-transfer-family-efs-ecs-example # Example project to integrate Amazon ECS, Amazon EFS and AWS Transfer Family
+https://github.com/aws-samples/efs-samba-ad-integration-for-windows-access # How to access Amazon Elastic File System volumes from Windows hosts using Samba with Active Directory integration
+https://github.com/aws-samples/sagemaker-domain-cross-region-disaster-recovery-using-custom-efs # CDK code for the AWS blog "SageMaker Domain Cross Region Disaster Recovery Using Custom EFS"
+
+https://github.com/awslabs/amazon-ecs-amazon-efs # Using Amazon EFS to Persist Data from Amazon ECS Containers
+
+https://github.com/aws/efs-utils # Utilities for Amazon Elastic File System (EFS)

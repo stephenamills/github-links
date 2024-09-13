@@ -1,0 +1,21 @@
+https://github.com/aws-solutions-library-samples/amazon-elasticache-caching-for-amazon-rds # Boost performance of Amazon RDS workloads
+https://github.com/aws-solutions-library-samples/guidance-for-ultra-low-latency-machine-learning-feature-stores-on-aws # Low latency online feature store
+https://github.com/aws-samples/elasticache-refarch-chatapp # Chat application
+https://github.com/aws-samples/amazon-elasticache-samples # Memcached
+https://github.com/aws-samples/aws-elasticache-retail-dashboard # Retail dashboard
+https://github.com/aws-samples/reactive-refarch-cloudformation # Reactive Microservices Architectures with ECS, Lambda, Kinesis Streams, and DynamoDB
+https://github.com/aws-samples/aws-elasticache-cluster-mode # Cluster mode
+https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis # Cache Amazon S3 objects
+https://github.com/aws-samples/amazon-elasticache-redis-and-memcached-java-client-examples # Java clients
+https://github.com/aws-samples/aws-cdk-elasticache-redis-iam-rbac # Define IAM roles that are mapped to Amazon ElastiCache Redis RBAC users by using AWS Secrets Manager as a proxy to manage access to login credentials. 
+https://github.com/aws-samples/elasticache-iam-auth-demo-app # 
+https://github.com/aws-samples/amazon-elasticache-auth-rbac-rotation # AWS Secrets Manager custom rotation against an ElastiCache replication group with Auth token authentication.
+https://github.com/aws-samples/amazon-elasticache-demo-using-aws-cdk # Deploy Amazon ElastiCache for Redis using AWS CDK
+https://github.com/aws-samples/dynamodb-elasticache-geospatial-workshop # 
+https://github.com/aws-samples/apigateway-websockets-golang # Use AWS VPC, Amazon API Gateway WebSockets, Lambda, and Amazon ElastiCache for Redis.
+https://github.com/aws-samples/aws-systems-manager-port-forwarding-for-amazon-elasticache # 
+https://github.com/aws-samples/elasticache-clients-performance-blog-code # 
+https://github.com/aws-samples/amazon-documentdb-and-amazon-elacticache-caching-for-performance-example # Caching for performance with Amazon DocumentDB and Amazon ElastiCache
+https://github.com/aws-samples/amazon-elasticache-for-redis-workshop # 
+https://github.com/aws-samples/amazon-elasticache-redis-auto-scaling # 
+https://github.com/aws-samples/fargate-game-servers # Scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend.

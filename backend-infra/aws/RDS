@@ -1,0 +1,94 @@
+https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws # Demonstration of Natural Language Query (NLQ) of an Amazon RDS for PostgreSQL database, using SageMaker JumpStart, Amazon Bedrock, LangChain, Streamlit, and Chroma. 
+https://github.com/aws-solutions-library-samples/amazon-elasticache-caching-for-amazon-rds # Code for AWS blog: Optimize cost, increase throughput and boost performance of Amazon RDS workloads using Amazon ElastiCache
+https://github.com/aws-solutions-library-samples/guidance-for-designing-resilient-applications-with-amazon-aurora-and-amazon-rds-proxy # This Guidance helps you achieve near-zero recovery point objective (RPO) for your applications, minimizing data loss during potential Amazon Aurora failover 
+https://github.com/aws-solutions-library-samples/guidance-for-high-availability-oracle-databases-on-aws # This Guidance helps customers set up high availability for Oracle databases using Amazon RDS Custom for Oracle service, a managed cloud data service that makes it easier to operate and scale relational databases. 
+https://github.com/aws-solutions-library-samples/guidance-for-active-active-replication-on-amazon-rds-for-mysql # This Guidance demonstrates how to configure active-active replication with up to nine Amazon Relational Database Service (Amazon RDS) for MySQL instances using the Group Replication plugin
+
+https://github.com/aws-ia/terraform-aws-rds-aurora # AWS RDS Aurora Module
+https://github.com/aws-ia/cfn-ps-amazon-rds #
+https://github.com/aws-ia/terraform-aws-rds-custom-for-oracle #
+https://github.com/aws-ia/cfn-ps-salesforce-connect-appsync-rds-postgresql #
+
+https://github.com/aws-samples/rds-snapshot-export-to-s3-pipeline # RDS Snapshot Export to S3 Pipeline
+https://github.com/aws-samples/aws-lambda-manage-rds-connections # Sample code for dynamically managing RDS/RDBMS connections across a fleet of Lambda functions
+https://github.com/aws-samples/startup-kit-templates # CloudFormation templates to accelerate getting started on AWS.
+https://github.com/aws-samples/amazon-rds-purpose-built-workshop # A tutorial for developers, DBAs and data engineers to get hands-on experience on how to migrate relational data to AWS purpose-built databases such as Amazon DynamoDB, Amazon Aurora using AWS DMS and build data processing applications on top of it. 
+https://github.com/aws-samples/eb-tomcat-snakes # Tomcat application that shows the use of Amazon RDS in a Java EE web application in AWS Elastic Beanstalk.
+https://github.com/aws-samples/aws-rds-snapshot-management # A serverless notification mechanism to manage Amazon RDS manual snapshots for both RDS Instances and Aurora Clusters. The solution manages creatiton of manual snapshot, deletion of old snapshots, and finally send a notification email. Email subscribers are notified with a list of newly created manual snapshots and older deleted snapshots. 
+https://github.com/aws-samples/appsync-with-postgraphile-rds # Serverless auto-generated GraphQL API with AWS AppSync and Postgraphile
+https://github.com/aws-samples/amazon-rds-data-api-demo # Its an example Lambda app which showcases how to run queries using SDK for Aurora Serverless Data API.
+https://github.com/aws-samples/rds-db-schema-migrations-cicd # Integrating RDS databases' schema migrations in the CI/CD pipeline.
+https://github.com/aws-samples/amazon-rds-init-cdk #
+https://github.com/aws-samples/rds-postgresql-pgvector #
+https://github.com/aws-samples/aws-batch-rds-job-scheduling #
+https://github.com/aws-samples/amazon-rds-proxy-video-demo #
+https://github.com/aws-samples/amazon-cloudwatch-auto-alarms # Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.
+https://github.com/aws-samples/serverless-rds-proxy-demo #
+https://github.com/aws-samples/amazon-rds-and-amazon-aurora-logging-blog # Blog content for working with Amazon RDS and Aurora Engine Logs
+https://github.com/aws-samples/jasper-reports-with-lambda-rds #
+https://github.com/aws-samples/amazon-rds-sizing-sample # Python and AWS CloudFormation code for Right Sizing Amazon RDS Instance at Scale based on Oracle Performance Metrics.
+https://github.com/aws-samples/amazon-rds-proxy-demo #
+https://github.com/aws-samples/aws-cfn-save-costs-auto-start-stop-rds # Automate Start and Stop of Amazon RDS Instances to Save costs
+https://github.com/aws-samples/ssm-for-rds-snapshot-cross-region-copy # Using SSM Automation to create encrypted RDS Snapshots and Copy to different region for DR
+https://github.com/aws-samples/rds-ssl-update #
+https://github.com/aws-samples/amazon-rds-crossaccount-access #
+https://github.com/aws-samples/amazon-rds-auto-restart-protection # A plug and play solution to automatically stop your RDS instances or Aurora clusters once restarted by AWS in order not to fall behind maintenance activities.
+https://github.com/aws-samples/aws-secrets-manager-secure-database-credentials # Blog sample code: How to securely provide database credentials to Lambda functions by using AWS Secrets Manager
+https://github.com/aws-samples/aws-codebuild-rds-job-scheduling #
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-pgvector # Opinionated sample on how to build/deploy a RAG web app on AWS powered by Amazon Bedrock and PGVector (on Amazon RDS)
+https://github.com/aws-samples/sso-sync-to-amazon-rds #
+https://github.com/aws-samples/aws-serverless-security-workshop # In this workshop, you will learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora. We will cover AWS services and features you can leverage to impro
+ve the security of a serverless applications in 5 domains: identity & access management, code, data, infrastructure, logging & monitoring. https://github.com/aws-samples/database-refresh-orchestrator-for-amazon-rds-and-amazon-aurora #
+https://github.com/aws-samples/amazon-rds-for-sql-server-custom-log-shipping #
+https://github.com/aws-samples/data-transformation-of-rds-using-glue-databrew #
+https://github.com/aws-samples/aws-blog-automate-amazon-rds-cross-account-backups # Automating cross-account backup of Amazon RDS Oracle databases with AWS Backup - Sample Code
+https://github.com/aws-samples/ack-rds-gitops-workshop #
+https://github.com/aws-samples/amazon-devops-guru-rds #
+https://github.com/aws-samples/amazon-aurora-postgresql-fast-failover-demo # A simple demonstration of in-region (HA) and cross-region (DR) failover automation using Amazon RDS Aurora PostgreSQL Global Database, RDS Proxy and Route53
+https://github.com/aws-samples/aws-system-manager-automation-unencrypted-to-encrypted-resources # Examples to help automate encrypting unencrypted resources.
+https://github.com/aws-samples/rds-top-monitoring #
+https://github.com/aws-samples/rds-breakglass-user-management #
+https://github.com/aws-samples/aws-lambda-python-oracle-connection # This example shows how to connect to an Oracle database (RDS or on-prem) from AWS Lambda using python.
+https://github.com/aws-samples/rds-extended-support-cost-estimator # RDS Extended Support Cost Estimator Script
+https://github.com/aws-samples/amazon-rds-export-to-s3-automation # This repository contains source code for the AWS Database Blog Post Reduce data archiving costs for compliance by automating RDS snapshot exports to Amazon S3
+https://github.com/aws-samples/aws-cfn-umbraco-load-balancing-template # Cloud-formation sample, builds a sample infrastructure to enable Umbraco CMS flexible load balancing using Elastic Beanstalk and RDS for content storage.
+https://github.com/aws-samples/aws-rds-oracle-recovery-manager-backups-automation #
+https://github.com/aws-samples/amazon-rds-upgrade-blog # Sample scripts for using Amazon RDS for Oracle with AWS Database Migration Service to upgrade the database engine with minimal downtime.
+https://github.com/aws-samples/decrypt-das-aws-rds #
+https://github.com/aws-samples/multi-az-db-cluster-sample-for-amazon-rds #
+https://github.com/aws-samples/config-rds-ca-expiry # Sample code to create a custom AWS Config rule to detect expiring Amazon RDS CA certificates
+https://github.com/aws-samples/aws-rds-crossaccount-replication #
+https://github.com/aws-samples/amazon-pinpoint-rds-integration # CloudFormation templates for the "Updating Opt-in Status for Amazon Pinpoint Channels" blog.
+https://github.com/aws-samples/change-data-capture-mysql-opensearch # Code to set up CDC applications Enable change data capture on RDS for MySQL applications that are using XA transactions blog post
+https://github.com/aws-samples/rds-proxy-iac-terraform # This project has infrastructure as code to create an Amazon RDS Proxy in your existing architecture with an Amazon RDS PostreSQL database.
+https://github.com/aws-samples/amazon-rds-postgresql-bulk-loading-blog #
+https://github.com/aws-samples/amazon-rds-over-privatelink-cdk-demo #
+https://github.com/aws-samples/rds-graviton3-benchmark #
+https://github.com/aws-samples/amazon-rds-proxy-with-reader-support-benchmarking-script #
+https://github.com/aws-samples/proxysql-to-replace-mysql-query-cache # Optimising MySQL Performance with ProxySQL to replace MySQL Query Cache
+https://github.com/aws-samples/automate-dbmigration-rds-sqlserver #
+https://github.com/aws-samples/rdscustom-oracle-cev-automation #
+https://github.com/aws-samples/amazon-rds-audit-log #
+https://github.com/aws-samples/amazon-rds-proxy-multitenant-load-test # An AWS CloudFormation template that builds, load tests, and compares results of two multi-tenant Amazon Aurora MySQL clusters, one with and one without Amazon RDS Proxy.
+https://github.com/aws-samples/aws-rdsdb2-dbblog-3847 #
+https://github.com/aws-samples/aws-config-rule-rds-logging-enabled-remediation #
+https://github.com/aws-samples/aws-cloud-operation-samples # This repository contains a collection of AWS Lambda functions and AWS CloudFormation template samples to perform common Cloud Operations for services such as: CloudWatch, IAM, RDS and more.
+https://github.com/aws-samples/aws-log-shipping-from-onprem-ec2-to-rds-sql-server #
+https://github.com/aws-samples/rds-oracle-terraform #
+https://github.com/aws-samples/rds-chaos-engineering #
+https://github.com/aws-samples/ddl-deployment-for-amazon-rds # Automated intialization of Amazon RDS databases
+https://github.com/aws-samples/rds-instances-locator # Sample code to locate RDS Instances by Availability Zone Id
+https://github.com/aws-samples/rds-cross-region-snapshot #
+https://github.com/aws-samples/cross-account-rds-access #
+https://github.com/aws-samples/amazon-rds-cfn-samples #
+https://github.com/aws-samples/aws-rds-sqlserver-2014-upgrade #
+https://github.com/aws-samples/amazon-rds-db2-terraform #
+https://github.com/aws-samples/amazon-rds-push-db-load-using-cloudwatch-to-dynatrace # Deliver RDS Performance Insights to Dynatrace (APM tool)
+https://github.com/aws-samples/rds-custom-sqlserver-onboard-existing-vpc #
+https://github.com/aws-samples/cross-account-iam-auth-with-rds-proxy # A demo CDK app for demonstrating cross-account IAM authentication with RDS Proxy
+https://github.com/aws-samples/amazon-rds-for-sql-server-cross-region-dr #
+https://github.com/aws-samples/samples-blue-green-readiness-testing-for-rds-and-aurora-postgres #
+https://github.com/aws-samples/kerberos-linux-clients-rds-sql-server-with-aws-managed-microsoft-ad #
+https://github.com/aws-samples/text-embeddings-pipeline-for-rag # A pipeline to convert contextual knowledge stored in documents and databases into text embeddings, and store them in a vector store
+https://github.com/aws-samples/automated-datastore-discovery-with-aws-glue # Automation framework to catalog AWS data sources using Glue
+https://github.com/aws-samples/amazon-dms-guid-uuid-blog # This repository contains sample scripts for using Amazon RDS for Oracle with AWS Database Migration Service to convert Oracle RAW data type containing GUID data to UUID format on PostgreSQL compatible target.

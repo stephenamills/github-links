@@ -1,0 +1,14 @@
+https://github.com/aws-samples/vpn-gateway-strongswan # StrongSwan site-to-site VPN connections.
+https://github.com/aws-samples/aws-site-to-site-vpn-private-ip-vpn #
+https://github.com/aws-samples/aws-ncsc-vpn-configurations #
+https://github.com/aws-samples/aws-transit-gateway-static-vpn-ha # Automatic failover for Static VPNs on AWS Transit Gateway using a Lambda function.
+https://github.com/aws-samples/biotech-blueprint-multi-account # Landing zone for life sciences startups looking to build well architected research environments in the cloud.
+https://github.com/aws-samples/amazon-s3-gateway-endpoint-proxy # Use S3 Gateway Endpoint from VPN, DirectConnect and VPC Peering.
+https://github.com/aws-samples/content-creation-workstation # Teradici Cloud Access Software on CentOS 7 with Client VPN Endpoint.
+https://github.com/aws-samples/aws-glue-with-s2s-vpn #
+https://github.com/aws-samples/aws-vpc-builder-cdk # Network architectures deployed using the AWS CDK
+https://github.com/aws-samples/aws-cdk-simulated-vpn #
+https://github.com/aws-samples/aws-elastic-disaster-recovery-with-aws-site-to-site-vpn # Elastic Disaster Recovery (DRS) using an AWS Site-To-Site VPN connection between a simulated on-premise environment and an AWS VPC.
+
+https://github.com/awslabs/aws-vpn-migration-scripts # AWS VPN Migration scripts that provide a simple way to migrate from a Classic VPN to an AWS VPN connection, using public APIs.
+https://github.com/awslabs/aws-vpn-controller # The AWS VPN Controller allows you to create and delete AWS VPNs and connect them to your VPCs using Kubernetes Custom Resource Definitions.

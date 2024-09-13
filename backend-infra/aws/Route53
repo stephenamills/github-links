@@ -1,0 +1,25 @@
+https://github.com/aws-ia/terraform-aws-route53-recovery-controller # Terraform Module to deploy Route53 Application Recovery Controller components
+
+https://github.com/build-on-aws/automated-arc-zonal-shift # Fix Gray Failures Fast Using Automation and Route 53 ARC Zonal Shift
+
+https://github.com/aws-samples/route53-autonaming # Route53 samples and reference architectures.
+https://github.com/aws-samples/aws-lambda-mirror-dns-function # AWS Lambda function to mirror DNS zone from on-premises DNS server to Route 53 private hosted zone.
+https://github.com/aws-samples/route-53-application-recovery-controller #
+https://github.com/aws-samples/hub-and-spoke-with-shared-services-vpc-terraform # Terraform repository that shows how to create a Shared Services VPC (VPC endpoints and Route 53 Resolver Endpoints) in an Hub and Spoke Architecture with AWS Transit Gateway.
+https://github.com/aws-samples/route53-hostedzone-migrator # AWS Route 53 hosted zone migration tool. It helps to migrate a Route 53 hosted zone (private or public) from an AWS account to another one.
+https://github.com/aws-samples/cdk-graviton2-alb-aga-route53 #
+https://github.com/aws-samples/route-53-application-recovery-controller-codepipeline-with-terraform #
+https://github.com/aws-samples/amazon-route-53-resolver-dns-firewall-automation-examples # automated approaches involving an Amazon Route 53 Firewall Domain List, paired with an AWS Lambda function to parse an external source, and keep the Rule Group automatically up to date
+https://github.com/aws-samples/aws-managed-microsoft-ad-reverse-dns-amazon-route-53-example # The sample CloudFormation template demonstrates how customers can leverage Amazon Route 53 for their AWS Directory Service for Microsoft Active Directory environments.
+https://github.com/aws-samples/amazon-route53-hosted-zone-sync #
+https://github.com/aws-samples/aws-cdk-deploy-lamp-with-waf-r53-alb # Deploy a secure and highly available LAMP stack application using AWS WAF, Application Load Balancer, AWS Route 53 and secured by a TLS certificate using AWS Certificate Manager. We walk you through how to launch this classic layered architecture LAMP stack application that can host a variety of popular web applications, such as WordPress, Wikipedia, and Drupal in minutes.
+https://github.com/aws-samples/amazon-aurora-global-database-endpoint-automation # This sample code can be used to manage Aurora global database endpoints. After failover the global database writer endpoints swap from one region to the other. This solution automates creation and management of Route 53 based endpoints, so the applications don't have to change the connections strings.
+https://github.com/aws-samples/amazon-route-53-record-auto-linker #
+https://github.com/aws-samples/aws-route53-weighted-alb-waf #
+https://github.com/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda # Automate your DNS firewall with your own lambda
+https://github.com/aws-samples/amazon-route-53-resolver-firewall-automation-examples-2 # Automate route 53 resolver to filter from an up-to-date domain list
+https://github.com/aws-samples/amazon-route-53-delegation-vending-machine # Self-service DNS delegation with Route 53 for organizations.
+https://github.com/aws-samples/amazon-route53-arc-dr-automation #
+https://github.com/aws-samples/amazon-route-53-hostedzones-s3-dump # This exmple of AWS CDK app deploys infrastructure to periodically dump Amazon Route 53 hosted zones and resource record set information to an Amazon S3 bucket.
+
+https://github.com/awslabs/route53-dynamic-dns-with-lambda # A Dynamic DNS system built with API Gateway, Lambda & Route 53.

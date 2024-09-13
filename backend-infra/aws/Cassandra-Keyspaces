@@ -1,0 +1,29 @@
+https://github.com/aws-samples/amazon-keyspaces-examples # Collection of sample code for Amazon Keyspaces (for Apache Cassandra)
+https://github.com/aws-samples/amazon-keyspaces-toolkit # Docker Image /tools for working with Amazon Keyspaces.
+https://github.com/aws-samples/aws-keyspaces-lambda-python #
+https://github.com/aws-samples/amazon-keyspaces-cloudwatch-cloudformation-templates #
+https://github.com/aws-samples/amazon-keyspaces-java-driver-helpers #
+https://github.com/aws-samples/amazon-keyspaces-compression-example # This Repository contains the source-code for the blog post Compress and Conquer with Amazon Keyspaces
+https://github.com/aws-samples/amazon-keyspaces-large-object-s3-demo # An example of a custom codec that can be used to support transparent communication with Amazon S3 from Amazon Keyspaces (for Apache Cassandra) driver side
+https://github.com/aws-samples/amazon-keyspaces-spring-app-example # The Spring Data for Apache Cassandra project applies core Spring concepts to the development of solutions using Amazon Keyspaces.
+https://github.com/aws-samples/aws-sigv4-auth-cassandra-java-driver-examples # Coding Example for aws-sigv4-auth-cassandra-java-driver-plugin, a SigV4 authentication plugin for use with DataStax java driver and Apache Cassandra.
+https://github.com/aws-samples/amazon-aggregation-query-proxy # Aggregation query proxy is a scalable sidecar application that sits between a customer application and Amazon Keyspaces/DynamoDB. It allows you to run bounded aggregation queries against Amazon Keyspaces
+and DynamoDB services.
+https://github.com/aws-samples/amazon-keyspaces-with-apache-kafka # Amazon Keyspaces with Apache Kafka
+https://github.com/aws-samples/amazon-keyspaces-python-util-scripts # Utility scripts to help interact with data in Amazon Keyspaces tutorials
+https://github.com/aws-samples/amazon-keyspaces-emr-featurestore-kit #
+https://github.com/aws-samples/exporting-tool-for-amazon-keyspaces # The exporting tool offloads the Amazon Keyspaces table to HDFS/FS
+https://github.com/aws-samples/amazon-keyspaces-opensearch-integration #
+https://github.com/aws-samples/aws-sigv4-auth-cassandra-java-driver-examples # Coding Example for aws-sigv4-auth-cassandra-java-driver-plugin, a SigV4 authentication plugin for use with DataStax java driver and Apache Cassandra.
+https://github.com/aws-samples/cql-replicator # CQLReplicator is a migration tool that helps you to replicate data from Cassandra to AWS Services
+https://github.com/aws-samples/row-estimator-for-apache-cassandra # The Row estimator for Apache Cassandra gathers row level statistics from a Cassandra cluster to help determine roughly a single Cassandra row in bytes.
+and DynamoDB services.
+
+https://github.com/awslabs/amazon-kinesis-scaling-utils # The Kinesis Scaling Utility is designed to give you the ability to scale Amazon Kinesis Streams in the same way that you scale EC2 Auto Scaling groups – up or down by a count or as a percentage of the total fleet. You can also simply scale to an exact number of Shards. There is no requirement for you to manage the allocation of the keyspace to Shards when using this API, as it is done automatically.
+
+https://github.com/aws/amazon-keyspaces-cql-to-cfn-converter # Command-line tool for converting Apache Cassandra Query Language (CQL) scripts to AWS CloudFormation (CFN) templates, so Amazon Keyspaces (for Apache Cassandra) schema can be easily managed in AWS CloudFor
+mation stacks.
+https://github.com/aws/aws-sigv4-auth-cassandra-java-driver-plugin # A SigV4 authentication plugin for the open-source DataStax Java Driver for Apache Cassandra. Allows use of AWS IAM users and roles for direct authentication.
+https://github.com/aws/aws-sigv4-auth-cassandra-python-driver-plugin # A SigV4 authentication plugin for the open-source Python Driver for Apache Cassandra. Allows use of IAM users and roles.
+https://github.com/aws/aws-sigv4-auth-cassandra-nodejs-driver-plugin # A SigV4 authentication client side plugin for the open-source DataStax NodeJS Driver for Apache Cassandra. Allows use of IAM users and roles.
+https://github.com/aws/aws-sigv4-auth-cassandra-gocql-driver-plugin # A SigV4 authentication plugin for the open-source Gocql Driver for Apache Cassandra. Allows use of IAM users and roles

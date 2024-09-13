@@ -1,0 +1,85 @@
+https://github.com/aws-solutions-library-samples/guidance-for-scheduling-batch-jobs-for-mainframe-modernization-service-on-aws # This Guidance demonstrates how to build a simple scheduler for batch jobs migrated to AWS Mainframe Modernization using AWS services such a
+s Amazon EventBridge scheduler and AWS Step Functions.https://github.com/aws-samples/step-functions-workflows-collection # Step Functions Workflows. Learn more at the website: https://serverlessland.com/workflows.
+https://github.com/aws-samples/aws-step-functions-ebs-snapshot-mgmt # Example architecture for integrating AWS Step Functions and Amazon CloudWatch Events.
+https://github.com/aws-samples/aws-stepfunctions-examples # AWS Step Functions is an orchestration service for reliably executing multi-step processes using visual workflows. This repository includes detailed examples that will help you unlock the power of serverless
+workflow.https://github.com/aws-samples/aws-step-functions-long-lived-transactions # Deal with the complexities of dealing with a long lived transaction across distributed components in your microservices architecture using AWS Step Functions.
+https://github.com/aws-samples/aws-etl-orchestrator # A serverless architecture for orchestrating ETL jobs in arbitrarily-complex workflows using AWS Step Functions and AWS Lambda.
+https://github.com/aws-samples/aws-step-functions-kendra-web-crawler-search-engine # This sample aims to demonstrate how to create a serverless web crawler and search engine, using AWS Lambda, AWS Step Functions, and Amazon Kendra
+https://github.com/aws-samples/aws-step-functions-etl-pipeline-pattern #
+https://github.com/aws-samples/aws-step-functions-plagiarism-demo-dotnet # A simple workflow for developing AWS Step Functions to demonstrate how you can combine AWS Step Functions with AWS Lambda using .NET 8 and the Serverless Application Model (SAM), and expose you
+r workflow via an API Gateway!https://github.com/aws-samples/aws-batch-genomics # Software sets up and runs an genome sequencing analysis workflow using AWS Batch and AWS Step Functions.
+https://github.com/aws-samples/aws-step-functions-twitch-series # Code from the AWS Step Functions series on Twitch, where we take a deep dive into one of my favorite serverless services!
+https://github.com/aws-samples/lambda-refarch-imagerecognition # The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate a serverless processing workflow using AWS Lambda, Amazon S3, Amazon DynamoDB
+and Amazon Rekognition.https://github.com/aws-samples/amazon-mwaa-complex-workflow-using-step-functions #
+https://github.com/aws-samples/aws-codepipeline-stepfunctions # This project shows how to integrate AWS CodePipeline and AWS Step Functions state machines. The integration enables developers to build much simpler CodePipeline actions that perform a single task and to
+delegate the complexity of dealing with workflow-driven behavior associated with that task to a proper state machine engine. As such, developers will be able to build more intuitive pipelines and still being able to visualize and troubleshoot their pipeline actions in detail by examining the state machine execution logs.https://github.com/aws-samples/aws-step-functions-rpa #
+https://github.com/aws-samples/example-step-functions-integration-api-gateway # Example application using the new Step Functions integration with API Gateway. It developers to call API Gateway REST APIs and API Gateway from a Step Functions workflow.
+https://github.com/aws-samples/aws-step-functions-notification-workflow #
+https://github.com/aws-samples/automating-a-security-incident-with-step-functions #
+https://github.com/aws-samples/aws-step-functions-using-it-automation #
+https://github.com/aws-samples/aws-dms-archive-data # Lambda functions and CloudFormation templates required for performing the step-by-step actions in the blog post
+https://github.com/aws-samples/step-functions-ruby-activity-worker # The code contains a example implementation of Step Functions activity worker written in Ruby
+https://github.com/aws-samples/sync-buckets-state-machine # A sample AWS Step Functions (SFN) state machine, designed to one-way synchronize an Amazon S3 source bucket into another S3 destination bucket.
+https://github.com/aws-samples/aws-control-tower-account-setup-using-step-functions # Automated AWS account hardening with AWS Control Tower and AWS Step Functions
+https://github.com/aws-samples/eks-canary-deployment-stepfunction # Reference Architecture of Canary Deployment with Amazon EKS and AWS Step Functions
+https://github.com/aws-samples/ssr-micro-frontends # This is an SSR and micro-frontends example using AWS services such as Lambda functions, Step Functions and Fargate
+https://github.com/aws-samples/happy-path # This web app shows how to build a complex backend workflows as stand-alone AWS Step Functions applications. See the Compute Blog articles to learn more. @jbesw
+https://github.com/aws-samples/aws-step-functions-saga-pattern-with-sam #
+https://github.com/aws-samples/aws-step-functions-callback-example #
+https://github.com/aws-samples/amazon-eventbridge-cdk-audit-service-sample # Sample of a decoupled audit service using Amazon EventBridge and AWS Step Functions. Provisioned with AWS CDK.
+https://github.com/aws-samples/aws-cloudformation-stackset-orchestration # AWS CloudFormation StackSet Orchestration: Automated deployment using AWS Step Functions
+https://github.com/aws-samples/amazon-ecs-and-aws-step-functions-design-patterns-starter-kit #
+https://github.com/aws-samples/aws-stepfunction-cicd-pipeline-example # This repository contains an example of creating a pipeline to deploy an AWS Step Function State Machine.
+https://github.com/aws-samples/aws-step-functions-business-rules-orchestration #
+https://github.com/aws-samples/aws-step-function-batch # This project is an example of using AWS Step functions to manage and track a series of AWS Batch jobs in N_TO_N mode.
+https://github.com/aws-samples/dotnet-serverless-imagerecognition # The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate a serverless processing workflow using AWS Lambda, Amazon S3, Amazon Dynam
+oDB and Amazon Rekognition.https://github.com/aws-samples/aws-step-functions-waitable-pattern # This projects contains source code with an example of how to implement an AWS Step Function waitable pattern that you can deploy using the SAM CLI.
+https://github.com/aws-samples/aws-elemental-media-services-factory # Used to write AWS Step Functions state machines that stitch together Elemental Media Services.
+https://github.com/aws-samples/aws-step-functions-progress-tracking #
+https://github.com/aws-samples/redshift-data-api-with-step-functions-sample #
+https://github.com/aws-samples/amazon-transcribe-comprehend-podcast # A demo application that transcribes and indexes podcast episodes so the listeners can explore and discover episodes of interest and podcast owners can do analytics on the content over time. This sol
+ution leverages Amazon Transcribe, Amazon Comprehend, Amazon ElasticSearch AWS Step Functions and AWS Lambda.https://github.com/aws-samples/retryable-ecs-run-task-step-functions # CDK example for ECS RunTask API call with Step Functions that handles error and retry
+https://github.com/aws-samples/aws-lambda-etl-ref-architecture # This reference architecture demonstrates the use of AWS Step Functions to orchestrate an Extract Transfer Load (ETL) workflow with AWS Lambda.
+https://github.com/aws-samples/serverless-content-syndication-with-aws-step-functions #
+https://github.com/aws-samples/aws-sqlagentjob-to-stepfunctions # Replace SQL Server Agent Job with Step Functions
+https://github.com/aws-samples/amazon-stepfunctions-ssm-waitfortasktoken # This pattern implements an automation document wrapper around AWS-RunShellScript execution for a AWS Step Functions waitForTaskToken integration.
+https://github.com/aws-samples/aws-step-functions-sports-data-polling #
+https://github.com/aws-samples/aws-amplify-stepfunctions-example # Learn how to extend AWS Amplify resources with CDK v2 with this example that deploys a Step Functions workflow triggered via an Amplify-managed AppSync API
+https://github.com/aws-samples/automate-image-processing-with-amazon-bedrock # Automate process to change image background using Amazon Bedrock and AWS Step Functions
+https://github.com/aws-samples/sam-api-poller # Building an API poller with AWS Step Functions and AWS Lambda
+https://github.com/aws-samples/step-functions-direct-integrations # Architecture optimization with direct service integrations
+https://github.com/aws-samples/sm-data-wrangler-mlops-workflows # Integrate SageMaker Data Wrangler into your MLOps workflows with Amazon SageMaker Pipelines, AWS Step Functions, and Amazon Managed Workflow for Apache Airflow (MWAA)
+https://github.com/aws-samples/aws-databrew-ml-stepfunction-workflow # This repository has ml workflow with step functions implemented using AWS Glue DataBrew recipe jobs.
+https://github.com/aws-samples/aws-serverless-workshop-decoupled-architecture # A sample .NET web application based on decoupled architecture design principles. Leave Management Application Demo using Amazon ECS, AWS Lambda, Amazon ALB, Amazon API Gateway Amazon Dynam
+oDB, AWS Step Functions, AWS SNS and AWS X-Ray services to create a completely decoupled architecture.https://github.com/aws-samples/aws-stepfunctions-automl-workflow # This repository shows how to use AWS step functions to train and deploy Autogluon tabular models on Amazon SageMaker
+https://github.com/aws-samples/amazon-sagemaker-debugger-step-functions # A sample solution on how to automate tweaks to architecture and training strategies to develop and train complex deep learning models using AWS Sagemaker Debugger and AWS Step Functions.
+https://github.com/aws-samples/aws-step-functions-craps-workshop #
+https://github.com/aws-samples/aws-step-functions-callback-pattern-dotnet-sample # This sample provides implementation of callback pattern for approval or confirmation step from external API/service with the help of Amazon S3, and AWS Lambda functions.
+https://github.com/aws-samples/step-functions-cross-account-execution #
+https://github.com/aws-samples/aws-cfn-custom-resource-using-step-functions #
+https://github.com/aws-samples/cloudformation-glue-job-to-pull-data-from-staging-to-prod # A Step Function to run a Glue Job to pull data into a staging table, push it onto prod and then clear staging.
+https://github.com/aws-samples/reinvent2023-api312-ml-workloads-with-aws-step-functions #
+https://github.com/aws-samples/the-aws-step-functions-workshop # This workshop covers the primary features of AWS Step Functions.
+https://github.com/aws-samples/automating-pii-data-detection-and-data-masking-tasks-with-aws-glue-databrew-and-aws-step-functions #
+https://github.com/aws-samples/amazon-location-detected-addresses-to-map # AWS CloudFormation template deploying a Step Functions that leverages Amazon Comprehend and Amazon Location Service. The Step Functions embeds the generated map in a HTML file which contains ma
+rkers on the addresses that have been detected into the input text.https://github.com/aws-samples/aws-step-functions-image-catalog-blog # Serverless image cataloging pipeline using AWS Step Functions Workflow Studio
+https://github.com/aws-samples/amazon-connect-agentless-outbound-campaign # Create Amazon Connect Agentless Outbound Campaign using AWS Step Functions.
+https://github.com/aws-samples/bulk-update-amazon-dynamodb-tables-with-aws-step-functions # Solution code for the blog post "Bulk update Amazon DynamoDB tables with AWS Step Functions"
+https://github.com/aws-samples/demo-step-functions-callback-event #
+https://github.com/aws-samples/severless-ticket-sentiment-analysis-and-automated-escalation # This application "listens" for a ticket creation event from Zendesk, analyses the ticket for negative sentiment, tags the ticket accordingly and invokes an automated workflow
+(Step function) that escalates the ticket's priority according to your SLA wait times.https://github.com/aws-samples/build-multilingual-calendar-assistant-with-amazon-bedrock-and-aws-step-functions # Use Amazon Bedrock, AWS Step Functions and Amazon Simple Email Service (AWS SES) to build a fully-automated multilingual calendar AI assistant.
+https://github.com/aws-samples/runtime-infrastructure-with-step-functions #
+https://github.com/aws-samples/simplified-serverless-b2b-application # Code for Simplifying B2B integrations with AWS Step Functions Workflow Studio AWS Compute Blog
+https://github.com/aws-samples/high-concurrency-computing-using-amazon-eventbridge-with-aws-step-functions-apg-pattern-example #
+https://github.com/aws-samples/calculator-using-aws-step-functions #
+https://github.com/aws-samples/bcs-disaster-recovery-portal-lambda # This package contains AWS Lambda handlers to perform common tasks, such as project management and network configuration, invoked by backend service, other AWS Lambdas and AWS Step Functions.
+https://github.com/aws-samples/aws-step-functions-async-task-pattern # This sample provides implementation of callback pattern for long running jobs with the help of Amazon EventBridge.
+https://github.com/aws-samples/on-prem-jobs-with-step-functions #
+https://github.com/aws-samples/amazon-api-gateway-step-functions-xml #
+https://github.com/aws-samples/build-genai-agent-workflows-with-step-functions #
+https://github.com/aws-samples/batch-job-duration-notifier # AWS Step Functions state machine to start an AWS Batch job and notify an Amazon SNS topic when the job is running for a specified duration
+https://github.com/aws-samples/aws-service-coordination-workshop # The code repository for the AWS Service Coordination with Step Functions workshop.
+https://github.com/aws-samples/provision-fsx-lustre-step-function # Demonstrates how to create a CDK Stack that provisions an FSx for Lustre Filesystem using a Step Function
+https://github.com/aws-samples/aws-cdk-state-machine-with-concurrency-controls # This custom CDK component wraps a step function invocation with a set of resources used to control the maximum concurrency of the state machine
+https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement # WithAmazon Rekognition Custom Labels, you can easily build and deploy Machine Learning (ML) models to identify custom objects which are specific to your busi
+ness domain in images without requiring advanced ML knowledge. When combined with Amazon Augmented AI (A2I), you can quickly integrate a ML workflow to capture and label images with a human workforce for model training. As ML lifecycle is an iterative and repetitive process, you need to implement an effective workflow that can provide for continuous model training with new data and automated deployment. Your workflow also needs to be flexible enough to allow for changes without requiring development rework as your business objectives change. Operationalizing an effective and flexibleworkflow can be resource intensive, especially for customers who have limited machine learning capabilities. In this post, we will use AWS Step Functions,AWS Lambda, and AWS System Manager Parameter Store to automate a configurable ML workflow for Rekognition Custom Labels and A2I. We will provide an overview of the solution and instructions to deploy it with AWS CloudFormation.https://github.com/aws/aws-step-functions-data-science-sdk-python # Step Functions Data Science SDK for building machine learning (ML) workflows and pipelines on AWS

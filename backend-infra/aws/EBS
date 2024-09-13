@@ -1,0 +1,24 @@
+https://github.com/aws-solutions-library-samples/aws-ops-automator # A solution for automated and scheduled execution of actions on selected AWS resources, including an updated EBS Snapshot Scheduler
+
+https://github.com/aws-samples/aws-step-functions-ebs-snapshot-mgmt # Example architecture for integrating AWS Step Functions and Amazon CloudWatch Events.
+https://github.com/aws-samples/aws-ebs-custodian # The EBS Snapshot Custodian provides a full life cycle management of EBS Snapshots. It manages the creation and deletion of old EBS Snapshots. The Solution uses Amazon DynamoDB, Amazon Lambda, CloudWatch Events and of course EC2.
+https://github.com/aws-samples/aws-systems-manager-amazon-ebs-management # Control your AWS costs by deleting unused Elastic Block Store volumes
+https://github.com/aws-samples/amazon-ebs-migration-utility # This repository contains code that makes it easy for AWS customers to upgrade to the latest EBS gp3 volumes. By migrating to gp3, customers can save up to 20% lower price-point per GB than existing gp2 volumes.  
+https://github.com/aws-samples/aws-ebs-snapshot-sap-hana # How to use AWS EBS Snapshots for SAP HANA database to create an automated recovery procedure
+https://github.com/aws-samples/aws-system-manager-automation-unencrypted-to-encrypted-resources # Examples to help automate encrypting unencrypted resources.
+https://github.com/aws-samples/aws-ebs-snapshots-awsorganizations #
+https://github.com/aws-samples/aws-ebs-snapshot-sap-ase # AWS EBS Snapshots for SAP ASE
+https://github.com/aws-samples/amazon-ebs-snapshot-tier-evaluator # Evaluation sample solution to help "What If" Cost Analysis for moving an Amazon EBS Snapshot from Amazon EBS Standard Tier to Amazon EBS Archive Tier storage.
+https://github.com/aws-samples/rescale-ebs-iops # Programmatically change the i/o features of Amazon EBS volumes.
+https://github.com/aws-samples/ebs-benchmarking-results-for-improved-performance-on-ebs-optimized-amd-instances #
+https://github.com/aws-samples/amazon-fsx-ebs-snapshot-mgmt-sample #
+https://github.com/aws-samples/ebs-snapshot-copy-monitor #
+https://github.com/aws-samples/amazon-ebs-default-encryption #
+https://github.com/aws-samples/automatic-EBS-failed-snashot-recovery #
+https://github.com/aws-samples/ebs-gp2-to-gp3-workshop # A Python script for migrating EBS volumes from gp2 to gp3 in bulk
+https://github.com/aws-samples/aws-ec2-windows-ebs-volumes-monitoring #
+https://github.com/aws-samples/using-amazon-ebs-elastic-volumes-with-oracle-databases #
+
+https://github.com/awslabs/amazon-ebs-autoscale # Don't run out of disk space on your EC2 instance when generating or working with large files. Automatically add EBS volumes to a filesystem mount point in response to disk utilization.
+https://github.com/awslabs/coldsnap # A command line interface for Amazon EBS snapshots
+https://github.com/awslabs/flexible-snapshot-proxy # High-performance open-source orchestration utility that utilizes EBS Direct APIs to efficiently clone, copy and migrate EBS snapshots to and from arbitrary File, Block or Object destinations.

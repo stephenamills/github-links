@@ -1,0 +1,90 @@
+https://github.com/aws-solutions-library-samples/aws-batch-arch-for-protein-folding #
+https://github.com/aws-solutions-library-samples/guidance-for-multi-region-serverless-batch-applications-on-aws # This Guidance helps customers design a resilient batch process application using AWS services
+https://github.com/aws-solutions-library-samples/guidance-for-scheduling-batch-jobs-for-mainframe-modernization-service-on-aws # This Guidance demonstrates how to build a simple scheduler for batch jobs migrated to AWS Mainframe Modernization using AWS services such a
+s Amazon EventBridge scheduler and AWS Step Functions.
+
+https://github.com/build-on-aws/jupyter-notebook-ml-batch-amazon-eks # Container-ready Jupyter Notebook application based on a TensorFlow 2.12.0/Python 3.10 image, utilizing XGBoost model training for structured data
+
+https://github.com/aws-samples/aws-batch-genomics # Software sets up and runs an genome sequencing analysis workflow using AWS Batch and AWS Step Functions.
+https://github.com/aws-samples/ecs-refarch-batch-processing # A reference architecture for handling batch processing workloads using Amazon ECS.
+https://github.com/aws-samples/aws-batch-processing-job-repo # Orchestrating an Application Process with AWS Batch using AWS CloudFormation
+https://github.com/aws-samples/aws-genomics-workflows # Genomics Workflows on AWS
+https://github.com/aws-samples/aws-batch-runtime-monitoring # Serverless application to monitor an AWS Batch architecture through dashboards.
+https://github.com/aws-samples/aws-batch-python-sample #
+https://github.com/aws-samples/aws-batch-with-ffmpeg # Deploy a managed FFMPEG with AWS Batch
+https://github.com/aws-samples/aws-control-tower-automate-account-creation # Automate the creation of multiple accounts in AWS Control Tower using a batch account creation process
+https://github.com/aws-samples/aws-batch-architecture-for-alphafold #
+https://github.com/aws-samples/aws-fargate-pipeline-lambda-autoscaling # Fargate autoscaling pipeline for batch processing events from SQS
+https://github.com/aws-samples/aws-batch-rds-job-scheduling #
+https://github.com/aws-samples/aws-batch-comp-infrastructure-sample #
+https://github.com/aws-samples/aws-s3-copy-sync-using-batch #
+https://github.com/aws-samples/aws-serverless-batch-architecture #
+https://github.com/aws-samples/aws-batch-using-nice-dcv # This repository includes dockerfiles and scripts to integrate and run NICE DCV with AWS Batch
+https://github.com/aws-samples/aws-research-workshops # This repo provides a managed SageMaker jupyter notebook with a number of notebooks for hands on workshops in data lakes, AI/ML, Batch, IoT, and Genomics.
+https://github.com/aws-samples/aws-step-function-batch # This project is an example of using AWS Step functions to manage and track a series of AWS Batch jobs in N_TO_N mode.
+https://github.com/aws-samples/aws-hpc-recipes # Contains example recipes that demonstrate how to build HPC systems using AWS services and solutions.
+https://github.com/aws-samples/aws-cdk-deep-learning-image-vector-embeddings-at-scale-using-aws-batch # AWS Blog post code for running feature-extraction on images using AWS Batch and Cloud Development Kit (CDK).
+https://github.com/aws-samples/amazon-rekognition-custom-labels-batch-processing # This project contains source code and supporting files for a serverless application which can be used for Computer Vision inferencing using Amazon Rekognition.
+https://github.com/aws-samples/aws-netcore-app-using-batch # Orchestrating an Application Process with AWS Batch using AWS Cloud Development Kit (CDK)
+https://github.com/aws-samples/aws-batch-celery-worker-example # An example project for running compute intensive Celery workers using AWS Batch.
+https://github.com/aws-samples/aws-mnpbatch-template # Template scripts to setup Docker Images compatible with running on MNP Batch
+https://github.com/aws-samples/aws-batch-efa #
+https://github.com/aws-samples/aws-agentic-document-assistant # An agent based LLM assistant that extends RAG with batch entity extraction and SQL querying to improve performance on multi-step and analytical questions.
+https://github.com/aws-samples/scalable-and-cost-effective-batch-processing-using-aws-batch #
+https://github.com/aws-samples/aws-batch-hordesat-sample #
+https://github.com/aws-samples/sagemaker-batch-inference-pipeline #
+https://github.com/aws-samples/aws-rosettafold # Infrastructure template and Jupyter notebooks for running RoseTTAFold on AWS Batch.
+https://github.com/aws-samples/amazon-lookout-for-vision-batch-processing # This project contains source code and supporting files for a serverless application which can be used for Computer Vision inferencing using Amazon Lookout for Vision
+https://github.com/aws-samples/terraform-aws-batch #
+https://github.com/aws-samples/aws-parallelcluster-serverless-batch-api #
+https://github.com/aws-samples/serverless-batch-job-workflow #
+https://github.com/aws-samples/amazon-s3-manifest-generator-for-batch-operations # Amazon S3 Manifest Generator for Batch Operations is a CLI utility tool to generate manifest file.
+https://github.com/aws-samples/actuarial-reserve-modelling # Scalable Actuary Reserve modeling using Batch Processing
+https://github.com/aws-samples/amazon-opensearch-batch-indexing-with-aws-lambda #
+https://github.com/aws-samples/aws-batch-architecture-for-rfdesign #
+https://github.com/aws-samples/securityhub-batch-update-controls #
+https://github.com/aws-samples/amazon-kinesis-timestream-grafana # Sample serverless application that reads events from Amazon Kinesis Data Streams and batches records to Amazon Timestream via Apache Flink app, visualizing results via Grafana.
+https://github.com/aws-samples/amazon-rekognition-batch-processing-label-and-face-detection #
+https://github.com/aws-samples/sagemaker-pipelines-callback-step-for-batch-transform #
+https://github.com/aws-samples/windows-batch-aws-mwaa #
+https://github.com/aws-samples/optimize-your-monte-carlo-simulations-using-aws-batch # This repository contains a demonstration of how AWS Batch can be used to run Monte Carlo simulations optimally and efficiently at scale .
+https://github.com/aws-samples/aws-batch-operational-dashboards #
+https://github.com/aws-samples/aws-batch-xray # Sample AWS Batch job with AWS X-Ray tracing
+https://github.com/aws-samples/aws-do-docker # AWS DevOps for Docker - a sample project to help you build Docker containers and run them on AWS. In addition to running locally, this project can run your container on EC2, ECS, EKS, AWS Batch, and AWS Lambda.
+https://github.com/aws-samples/batch-mpi-examples # Examples for running multi-node parallel (MNP) MPI jobs on AWS Batch.
+https://github.com/aws-samples/amazon-polly-async-batch # Run large numbers of voice synthesis tasks through Amazon Polly asynchronously.
+https://github.com/aws-samples/aws-big-data-blog-transactional-to-stateful-batch-processing #
+https://github.com/aws-samples/s3booster-snowball # s3booster-snowball.py, this script implemented batch feature in parallel so it is fast and simple to use, especially when dealing with small files.
+https://github.com/aws-samples/twingraph # TwinGraph is a Python framework for distributed container orchestration using Kubernetes clusters, Docker Compose/Swarm or cloud resources on AWS (AWS Lambda, AWS Batch, Amazon EKS). Applications include high-throughput simul
+ations, simulation-driven optimization, Digital Twins and machine learning. https://github.com/aws-samples/aws-cdk-fsx-lustre-batch-mount # Sample AWS Cloud Development Kit (CDK) code for accessing S3 data from AWS Batch tasks using an AWS FSx for Lustre filesystem.
+https://github.com/aws-samples/aws-batch-blueprints #
+https://github.com/aws-samples/serverless-batch-cost-guardian # Code for Serverless Batch Cost Guardian AWS HPC Blog Post
+https://github.com/aws-samples/elevate-your-aws-iam-policy-using-iam-access-analyzer # This implementation demonstrates the AWS Identity and Access Management (IAM) Access Analyzer policy validation capability. Learn how to use it to build a batch job to report on exi
+sting policy findings and visualize the results using Amazon Quicksight. https://github.com/aws-samples/amazon-sagemaker-pipelines-serial-batch-inference-sklearn-pytorch # We provide end to end bring-your-own-feature and bring your-own-model serial inferencing examples for batch inference MLOps with SageMaker Pipelines.
+https://github.com/aws-samples/amazon-sagemaker-mlops-batch #
+https://github.com/aws-samples/amazon-batch-monitoring-solution #
+https://github.com/aws-samples/batch-aws-sam-mediainfo #
+https://github.com/aws-samples/mlops-pipeline-prestodb # An end-to-end MLOps pipeline that reads data from PrestoDB to train an ML model and deploy on SageMaker for batch and realtime inference.
+https://github.com/aws-samples/s3xz-caching-solution # Reference Architecture to automate the use of S3 Express One Zone as a caching layer for S3 Regional Buckets.
+https://github.com/aws-samples/athena-materialize-query-using-batch #
+https://github.com/aws-samples/awsnative-batchscript-orchestration #
+https://github.com/aws-samples/batch-insights-dashboard # Batch Insights Dashboard provides full traceability of your job execution lifecycle by aggregating data from different AWS Event Bridge events associated to each job submission.
+https://github.com/aws-samples/batch-job-duration-notifier # AWS Step Functions state machine to start an AWS Batch job and notify an Amazon SNS topic when the job is running for a specified duration
+https://github.com/aws-samples/push-to-talk-batch-translations #
+https://github.com/aws-samples/template-for-closed-network-system-workloads-on-aws # It assumes a closed network scenario and is a template for deploying applications and batch systems accessible from that environment to AWS. It consists of AWS CDK and Web server samp
+le applications that via CI/CD (AWS CodePipelie) will be deployed to private networks. https://github.com/aws-samples/aws-sagemaker-to-batch-processing # This repository contains a simple way to extend the default SageMaker container for SKLearn to be run via AWS Batch. This could be useful for those looking to leverage the power of Graviton2 instances,
+which are currently not avaialable for SageMaker instances. Graviton2, run on arm64 arch, can offer significant cost efficiencies compared to x86 arch based instances. Specifically, this demo uses the c6g instances to run a data processing task, typically compute intensive https://github.com/aws-samples/aws-batch-cicd-test-pipeline #
+https://github.com/aws-samples/cell-painting-batch #
+https://github.com/aws-samples/batch-custom-ami-pipeline #
+https://github.com/aws-samples/aws-batch-dlc-example #
+https://github.com/aws-samples/aws-blog-private-batch-registries # The following repository contains the artifacts used in the blog post 'Authenticating with private container registries using AWS Batch'
+https://github.com/aws-samples/batch-default-log-group-retention # This sample allows to automatize the enforcement of a default retention period for selected Cloudwatch Log Groups
+https://github.com/aws-samples/demo-no-code-batch-data-ingestion #
+https://github.com/aws-samples/lambda-runtime-update-helper # This project is created to help for update AWS Lambda function runtime by batch. The function will update Lambda runtime in $LATEST version.
+https://github.com/aws-samples/customized-model-monitoring-for-near-real-time-batch-inference-with-amazon-sagemaker #
+https://github.com/aws-samples/regulated-mlops-using-amazon-sagemaker # This project shows steps to build an end to end MLOps architecture that covers data prep, model training, realtime and batch inference, build model registry, track lineage of artifacts and model d
+rift detection. It utilizes SageMaker Pipelines that offers machine learning (ML) to orchestrate SageMaker jobs and author reproducible ML pipelines. https://github.com/awslabs/aws-batch-helpers # AWS Batch helpers is a collection of scripts and tools that can be used with AWS Batch.
+https://github.com/awslabs/genomics-secondary-analysis-using-aws-step-functions-and-aws-batch # This solution provides a framework for Next Generation Sequencing (NGS) genomics secondary-analysis pipelines using AWS Step Functions and AWS Batch.
+https://github.com/awslabs/aws-serverless-metrics-publisher # A metric publisher to batch metrics and send requests to CloudWatch for storage.
+https://github.com/awslabs/cloudwatch-api-tracker # This application (in the form of a lambda function) will publish CloudWatch metrics based on API usage. It listens to a CloudWatch Log Stream that is associated with a CloudTrail log and publishes metrics in specifie
+d batches.

@@ -1,0 +1,63 @@
+https://github.com/googlecloudplatform/redis-dataflow-realtime-analytics # Build a real-time website analytics dashboard on GCP using Dataflow, Cloud Memorystore (Redis) and Spring Boot
+https://github.com/googlecloudplatform/bgp-with-nva-on-gcp #
+https://github.com/googlecloudplatform/chef-google-compute #
+
+https://github.com/azure/terraform-azurerm-caf-enterprise-scale # Azure landing zones Terraform module
+https://github.com/azure/terraform-azurerm-vnet # Terraform module to create/provision Azure vnet
+https://github.com/azure/terraform-azurerm-avm-ptn-virtualwan #
+https://github.com/azure/terraform-azurerm-hubnetworking # Terraform verified module for deploying multi-hub & spoke architectures
+https://github.com/azure/terraform-azurerm-avm-ptn-vnetgateway # AVM Terraform Pattern Module for Virtual Network Gateway
+https://github.com/azure/terraform-azurerm-vnet-gateway # Terraform module to deploy VPN and ExpressRoute gateways
+https://github.com/azure/terraform-azurerm-avm-ptn-hubnetworking # Azure Verified Module for the Multi-hub networking pattern
+https://github.com/azure/terraform-azurerm-avm-res-network-virtualnetwork # Azure Verified Module for Virtual Network
+https://github.com/azure/terraform-azurerm-avm-res-network-routetable #
+https://github.com/azure/regulatory-compliance-initiatives #
+https://github.com/azure/terraform-azurerm-avm-res-network-routeserver # Azure Verified Terraform Module for route server resource
+https://github.com/azure/terraform-azurerm-avm-ptn-network-routeserver # This is the AVM respository for the route server resource.
+
+https://github.com/microsoft/whatthehack # Challenge-based hack-a-thons
+https://github.com/microsoft/deploy-and-optimize-azure-expressroute-private-peering # Azure private peering, which enables connectivity between your private network and your Azure VNets over ExpressRoute.
+https://github.com/microsoft/sdn # This repo includes PowerShell scripts and VMM service templates for setting up the Microsoft Software Defined Networking (SDN) Stack using Windows Server 2016
+https://github.com/microsoft/highsecurityapim # Secure VNET Injection of APIM Surviving Force-Tunneling
+https://github.com/microsoft/azurestackhci-network-switch-validation # Validates network switch according to the MSFT definitions and Switch Requirements for AzureStack
+https://github.com/microsoft/common-design-principles-for-a-hub-and-spoke-vnet-archiecture # Learn how to design a Hub and Spoke VNET architecture for Azure.
+https://github.com/microsoft/mtc_il_workshop_azure_administrator #
+
+https://github.com/aws-ia/terraform-aws-globalnetwork # AWS Global Network Module
+https://github.com/aws-ia/terraform-aws-network-hubandspoke #
+
+https://github.com/aws-samples/vpn-gateway-strongswan # AWS CloudFormation template to deploy the open source strongSwan VPN solution to act as a VPN gateway in support of site-to-site VPN connections.
+https://github.com/aws-samples/aws-transit-gateway-connect-sample # moved - https://github.com/f7o/aws-transit-gateway-connect-sample
+https://github.com/aws-samples/aws-hub-and-spoke-with-connect-peer-terraform #
+https://github.com/aws-samples/aws-secure-environment-accelerator # Multi-account, multi-region AWS environments
+https://github.com/aws-samples/how-to-build-reliable-performing-global-network-over-aws-backbone-network #
+https://github.com/aws-samples/aws-transit-gateway-connect-attachment-integration-with-amazon-linux-and-frrouting # Transit Gateway Connect Attachment integration with Amazon Linux and FRRouting using BGP over GRE
+https://github.com/aws-samples/aws-transit-gateway-attachment-automation # AWS CloudFormation templates and AWS Lambda Python based code for automating AWS Transit Gateway Attachment associations across an AWS Organization.
+https://github.com/aws-samples/aws-directconnect-tgw-monitoring #
+https://github.com/aws-samples/aws-dx-failover #
+https://github.com/aws-samples/private5g-cloud-deployment #
+
+https://github.com/oracle-quickstart/oci-transit-fw # Using a DRG to route traffic through a centralized network virtual appliance
+
+https://github.com/equinix/terraform-equinix-metal-anthos-on-baremetal # Terraform module for quick deployment of baremetal Anthos on Equinix Metal
+https://github.com/equinix/terraform-equinix-metal-ecs-anywhere # Run on Equinix Metal your ECS tasks
+https://github.com/equinix/terraform-equinix-metal-distributed-minio # Terraform module to deploy MinIO distributed across Equinix Metal devices
+https://github.com/equinix/ansible-collection-equinix # Ansible content to help automate the management of Equinix resources
+
+https://github.com/equinix-labs/terraform-metal-kubernetes-bgp # Kubernetes on Equinix Metal using Calico and MetalLB
+https://github.com/equinix-labs/BGP-Anycast-Workshop # Workshop teaching basics of BGP HA, Terraform automation, and IPv6.
+https://github.com/equinix-labs/terraform-equinix-metal-vcf # This project will help get a VMWare VCF management domain up and running quickly on Equinix Metal
+https://github.com/equinix-labs/terraform-equinix-metal-k3s # Manage K3s (k3s.io) region clusters on Equinix Metal
+https://github.com/equinix-labs/terraform-equinix-metal-vrf # Terraform script for setting up Equinix Metal Virtual Routing and Forwarding (VRF)
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-aws # Terraform module to create a Fabric L2 Connection to AWS Direct Connect
+https://github.com/equinix-labs/terraform-equinix-kubernetes-cluster # Kubernetes cluster deployment on Equinix Metal
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-azure # Terraform module to create a Fabric L2 Connection to Azure ExpressRoute
+https://github.com/equinix-labs/talos-on-equinix-metal # Talos Linux on Equinix Metal, via Kubernetes Cluster API
+https://github.com/equinix-labs/terraform-metal-vyos-router # Create an Edge Router on Equinix Metal
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-alibaba # Terraform module to create a Fabric L2 Connection to Alibaba Express Connect
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-gcp # Terraform module to create a Fabric L2 Connection to Google Cloud Interconnect
+https://github.com/equinix-labs/bird-helper-scripts # A couple of helpful startup scripts for enabling bgp with BIRD on equinix metal
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-oci # Terraform module to create a Fabric L2 Connection to Oracle Cloud Infrastructure FastConnect
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-ibm # Terraform module to create a Fabric L2 Connection to IBM Cloud Direct Link
+
+

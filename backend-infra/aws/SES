@@ -1,0 +1,13 @@
+https://github.com/aws-samples/communication-developer-services-reference-architectures # AWS Amazon Pinpoint and Amazon Simple Email Service (SES) Digital User Engagement Reference Architectures with CloudFormation templates.
+https://github.com/aws-samples/amazon-cloudwatch-alarm-formatted-email # Customize the format of Amazon CloudWatch alarms email notifications using Amazon SES and AWS Lambda
+https://github.com/aws-samples/serverless-form-handler # Serverless Form Handler - accepts a form submission from a webpage, saving the data to a DynamoDB table and sending an email via SES.
+https://github.com/aws-samples/ses-auto-forward-by-language #
+https://github.com/aws-samples/amazon-ses-bounce-dashboard # This sample shows how you can retrieve a list of bounce and complaints from Amazon SES and display them on a simple dashboard.
+https://github.com/aws-samples/amazon-ses-analytics-blog # Prerequisites stack for Amazon SES Analytics blog
+https://github.com/aws-samples/amazon-transcribe-web-ui-demo # This is a web application sample that uses Amazon Transcribe to convert uploaded audio files into text and send mail it via Amazon SES.
+https://github.com/aws-samples/amazon-ses-event-data-dashboard-analysis #
+https://github.com/aws-samples/fargate-ses-relay #
+https://github.com/aws-samples/build-multilingual-calendar-assistant-with-amazon-bedrock-and-aws-step-functions # Use Amazon Bedrock, AWS Step Functions and Amazon Simple Email Service (AWS SES) to build a fully-automated multilingual calendar AI assistant.
+https://github.com/aws-samples/python-cdk-api-rekognition-stepfunctions-ses-sns # This is a CDK deployment of an application to support with submissions of images, ran through rekognition, and alerts from SES and SNS shared. Image rekognition will detect labels within a user submitted image and store in DynamoDB.
+https://github.com/aws-samples/redshift-query-html-ses # This project is to show how you can query a Redshift table, change fields from the query results to a clickable link, change the query results to HTML styles, and finally send an email to specified recipients us
+ing Amazon SES.

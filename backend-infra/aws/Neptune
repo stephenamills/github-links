@@ -1,0 +1,48 @@
+https://github.com/aws-solutions-library-samples/guidance-for-digital-thread-using-graph-and-generative-ai-on-aws # Create an intelligent manufacturing digital thread through a combination of knowledge graph and gen AI
+
+https://github.com/aws-samples/amazon-neptune-samples # Samples and documentation for using the Amazon Neptune graph database service
+https://github.com/aws-samples/aws-appsync-calorie-tracker-workshop # Serverless application that demonstrate how to use AWS AppSync and Amazon Neptune to build a realtime, data driven application.
+https://github.com/aws-samples/amazon-neptune-ontology-example-blog #
+https://github.com/aws-samples/aws-neptune-sagemaker-knowledge-graph-bert #
+https://github.com/aws-samples/cdk-neptune-knowledge-graph #
+https://github.com/aws-samples/aws-sagemaker-pytorch-shop-by-style # A Personalized 'Shop-by-Style' Experience via PyTorch on Amazon SageMaker and Amazon Neptune
+https://github.com/aws-samples/amazon-neptune-aws-config-visualization #
+https://github.com/aws-samples/explore-uniprotkb-with-amazon-neptune # Create and use your own protein knowledge base using UniProt RDF data.  
+https://github.com/aws-samples/aws-neptune-asset-management # This workshop build a connected knowledge graph that integrates sales and service data using AWS Neptune.
+https://github.com/aws-samples/uncovering-hidden-connections-in-unstructured-financial-data # Uncovering Hidden Connections in Unstructured Financial Data using Amazon Bedrock and Amazon Neptune
+https://github.com/aws-samples/amazon-neptune-ml-use-cases # This repository contains sample code for ML on graph use cases using Amazon Neptune ML
+https://github.com/aws-samples/neptune-fraud-detection-with-opensearch #
+https://github.com/aws-samples/amazon-neptune-vpc-visualization #
+https://github.com/aws-samples/visualize-amazon-textract-with-amazon-neptune #
+https://github.com/aws-samples/amazon-neptune-ml-fake-news-detection #
+https://github.com/aws-samples/supply-chain-data-analysis-and-visualization-using-amazon-neptune #
+https://github.com/aws-samples/build-neptune-graphapp-cdk # Build a graph application with Amazon Neptune and AWS Amplify.
+https://github.com/aws-samples/amazon-neptune-generative-ai-samples # This repository contains examples and sample code to help customers get started with using Amazon Neptune in Generative AI applications.
+https://github.com/aws-samples/amazon-neptune-graph-virtualization #
+https://github.com/aws-samples/automated-testing-graph-queries # This repository contains code that provides an approach to the automated testing of Gremlin queries that are intended to run against an Amazon Neptune database
+https://github.com/aws-samples/etl-into-amazon-neptune-graph #
+https://github.com/aws-samples/aws-neptune-sitewise-industrial-ml-cdk #
+https://github.com/aws-samples/appsync-observablehq-examples # Fetch data from AWS AppSync and Amazon Neptune to display in an ObservableHQ embedded notebook in Angular (React TBD)
+https://github.com/aws-samples/aws-neptune-mortgage-backed-security-data-model #
+https://github.com/aws-samples/social-graph-based-people-recommender-using-amazon-neptune-and-textract # biz card management & social network analysis system (PoC version a.k.a Remember)
+https://github.com/aws-samples/aws-cdk-wrapper-for-amazon-neptune-export-for-fake-news-detection #
+https://github.com/aws-samples/build-an-event-driven-knowledge-graph-with-machine-learning # Build an event-driven knowledge graph with machine-learning using Amazon SageMaker and Amazon Neptune.
+https://github.com/aws-samples/neptune-open-empi-migration #
+https://github.com/aws-samples/amazon-neptune-ttl-repo #
+https://github.com/aws-samples/amazon-neptune-simple-query-api #
+https://github.com/aws-samples/neptune-m2c-kg #
+https://github.com/aws-samples/amazon-neptune-fhir-analysis-sample # Amazon Neptune FHIR analysis sample repository contains the dataset and Jupyter notebook to follow the walkthrough of the corresponding blog post.
+https://github.com/aws-samples/amazon-neptune-global-database-endpoint-automation #
+https://github.com/aws-samples/improving-supply-chain-data-analysis-and-visibility-using-amazon-neptune #
+https://github.com/aws-samples/aws-video-metadata-knowledge-graph-workshop # 4 jupyter notebooks demonstrating Amazon Rekognition, Amazon Transcribe and Amazon Comprehend
+
+https://github.com/aws/amazon-neptune-jdbc-driver # Amazon Neptune JDBC Driver by Amazon Web Services
+https://github.com/aws/amazon-neptune-gremlin-java-sigv4 # A Gremlin client for Amazon Neptune that includes AWS Signature Version 4 signing.
+https://github.com/aws/amazon-neptune-csv-to-rdf-converter # Amazon Neptune CSV to RDF Converter is a tool for Amazon Neptune that converts property graphs stored as comma separated values into RDF graphs.
+https://github.com/aws/amazon-neptune-sparql-java-sigv4 # A SPARQL client for Amazon Neptune that includes AWS Signature Version 4 signing. Implemented as an RDF4J repository.
+https://github.com/aws/neptune-export #
+https://github.com/aws/amazon-neptune-sigv4-signer # A library for Amazon Neptune that enables AWS Signature Version 4 signing for HTTP using Netty.
+https://github.com/aws/graph-notebook # Library extending Jupyter notebooks to integrate with Apache TinkerPop, openCypher, and RDF SPARQL.
+https://github.com/aws/amazon-neptune-gremlin-dotnet-sigv4 # A custom library for Amazon Neptune that enables AWS Signature Version 4 signing by extending the Apache TinkerPop Gremlin .NET client.
+https://github.com/aws/neptune-gremlin-client # A Java Gremlin client for Amazon Neptune that allows you to change the endpoints used by the client as it is running.
+https://github.com/aws/amazon-neptune-for-graphql # Amazon Neptune utility for GraphQL™ schemas and resolvers

@@ -1,0 +1,79 @@
+https://github.com/aws-solutions-library-samples/guidance-for-crossregion-failover-and-graceful-failback-and-observability-on-aws # This Guidance helps customers design a resilient three-tier web application with a React front end, API/AWS Lambda middle tier, and Amaz
+on Aurora global database back end.                                                                                                                                                                                                                                         https://github.com/aws-solutions-library-samples/guidance-for-handling-data-during-traffic-spikes-on-aws # This Guidance shows how to handle sudden traffic spikes in Amazon Aurora using a mixed-configuration architecture that combines a provisioned Aurora cluster with
+ Aurora Serverless v2 instances and custom auto-scaling.                                                                                                                                                                                                                    https://github.com/aws-solutions-library-samples/guidance-for-disaster-recovery-using-amazon-aurora # This Guidance shows how to deploy a comprehensive disaster recovery (DR) solution for Amazon Aurora. Different business requirements necessitate different ways of ach
+ieving your DR objectives. This Guidance evaluates the most common routes to take when developing the database portion of your DR plan.                                                                                                                                     https://github.com/aws-solutions-library-samples/guidance-for-designing-resilient-applications-with-amazon-aurora-and-amazon-rds-proxy # This Guidance helps you achieve near-zero recovery point objective (RPO) for your applications, minimizing data loss during potenti
+al Amazon Aurora failover                                                                                                                                                                                                                                                   https://github.com/aws-solutions-library-samples/guidance-for-multi-region-application-data-using-amazon-aurora # This Guidance demonstrates how you can scale your web or mobile applications using the read local, write global approach to build a resilient, self-healin
+g system spanning multiple AWS Regions                                                                                                                                                                                                                                      https://github.com/aws-solutions-library-samples/guidance-for-sentiment-analysis-on-aws # This Guidance demonstrates how to use pgvector and Amazon Aurora PostgreSQL for sentiment analysis, a powerful natural language processing (NLP) task.
+https://github.com/aws-solutions-library-samples/guidance-for-high-speed-rag-chatbots-on-aws # This Guidance demonstrates how to develop a high-performance Retrieval-Augmented Generation (RAG) chatbot by combining Amazon Aurora PostgreSQL-Compatible Edition with the o
+pen-source pgvector extension.                                                                                                                                                                                                                                              https://github.com/aws-ia/terraform-aws-rds-aurora # AWS RDS Aurora Module
+https://github.com/aws-ia/cfn-ps-amazon-aurora-mysql #
+https://github.com/aws-ia/cfn-ps-amazon-aurora-postgresql #
+https://github.com/build-on-aws/rag-postgresql-agent-bedrock # This application is built in four stages using infrastructure as code with CDK with Python to deploy. In the first stage, an Amazon Aurora PostgreSQL vector database is set up. In the second stage, the Kno
+wledge Base for Amazon Bedrock is created using the established database. The third stage involves creating an Amazon                                                                                                                                                       https://github.com/build-on-aws/langchain-embeddings # This repository demonstrates the construction of a state-of-the-art multimodal search engine, leveraging Amazon Titan Embeddings, Amazon Bedrock, and LangChain.
+https://github.com/aws-samples/aws-aurora-cloudformation-samples # Quick start reference deployment of an Amazon Aurora DB Cluster with AWS recommended best practices for security and high availability using AWS CloudFormation
+https://github.com/aws-samples/amazon-aurora-labs-for-mysql # Workshop and lab content for Amazon Aurora MySQL compatible databases. This code will contain a series of templates, instructional guides and sample code to educate users on how to use Amazon Aurora feature
+s. The AWS CloudFormation templates will create the relevant resources in a user's account, the Bash and Python scripts will support the lab, by automating tasks, generating load or execute changes on resources created using AWS CloudFormation.                        https://github.com/aws-samples/startup-kit-templates # CloudFormation templates to accelerate getting started on AWS.
+https://github.com/aws-samples/aws-aurora-serverless-data-api-sam # Using Amazon Aurora Serverless (MySQL) and the Data API to build a Serverless Application on AWS
+https://github.com/aws-samples/aurora-postgresql-pgvector # Leverage pgvector and Amazon Aurora PostgreSQL for Natural Language Processing, Chatbots and Sentiment Analysis
+https://github.com/aws-samples/aurora-and-database-migration-labs # This github repo contains Aurora MySQL and PostgreSQL Labs, Aurora Serverless Lab and Heterogeneous database migration with DMS Labs.
+https://github.com/aws-samples/amazon-aurora-proxysql-example # Amazon Aurora MySQL Compatible with ProxySQL
+https://github.com/aws-samples/amazon-aurora-global-database-endpoint-automation # This sample code can be used to manage Aurora global database endpoints. After failover the global database writer endpoints swap from one region to the other.  This solution automates
+creation and management of Route 53 based endpoints, so the applications don't have to change the connections strings.                                                                                                                                                      https://github.com/aws-samples/aws-serverless-nextcloud # moved - https://github.com/f7o/aws-serverless-nextcloud
+https://github.com/aws-samples/aws-serverless-app-with-aurora-and-python-sql-alchemy-example #
+https://github.com/aws-samples/amazon-aurora-pgpool-example # A set of CloudFormation templates that demonstrates using pgool middleware to provide a single endpoint for both the primary and read replica instances of an Amazon Aurora PostgreSQL-compatible cluster.
+https://github.com/aws-samples/aws-dotnet-webapi-aurora #
+https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019 #
+https://github.com/aws-samples/amazon-rds-and-amazon-aurora-logging-blog # Blog content for working with Amazon RDS and Aurora Engine Logs
+https://github.com/aws-samples/amazon-aurora-eventbridge-webhooks # An AWS Cloud Development Kit (CDK) sample showing how to configure the aws_lambda extension to send outgoing webhooks via Amazon EventBridge
+https://github.com/aws-samples/aws-netcoreapi-aurora-cdk #
+https://github.com/aws-samples/amazon-rds-data-api-demo # Its an example Lambda app which showcases how to run queries using SDK for Aurora Serverless Data API.
+https://github.com/aws-samples/aws-serverless-security-workshop # In this workshop, you will learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora. We will cover AWS services and features you can leverage to impro
+ve the security of a serverless applications in 5 domains: identity & access management, code, data, infrastructure, logging & monitoring.                                                                                                                                  https://github.com/aws-samples/eks-aurora-global-database #
+https://github.com/aws-samples/amazon-aurora-migration-azure-sqldb-to-aurora-mysql # A CloudFormation template to assist in migrating databases from Azure to AWS
+https://github.com/aws-samples/aurora-das-processing #
+https://github.com/aws-samples/aurora-pg-partitioning-for-performance-blogs #
+https://github.com/aws-samples/database-refresh-orchestrator-for-amazon-rds-and-amazon-aurora #
+https://github.com/aws-samples/amazon-aurora-postgresql-fast-failover-demo # A simple demonstration of in-region (HA) and cross-region (DR) failover automation using Amazon RDS Aurora PostgreSQL Global Database, RDS Proxy and Route53
+https://github.com/aws-samples/aws-genai-llm-chatbot # A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
+https://github.com/aws-samples/kinesis-data-analytics-flink-aurora-sink # Showcases how to use Apache Flink on Kinesis Data Analytics to write to Amazon Aurora
+https://github.com/aws-samples/aws-dbs-refarch-rdbms # Reference Architectures for Relational Databases on AWS
+https://github.com/aws-samples/amazon-aurora-mysql-sample-hr-schema #
+https://github.com/aws-samples/amazon-aurora-call-to-amazon-sagemaker-sample #
+https://github.com/aws-samples/amazon-aurora-postgresql-upgrade # This repository contains the code artifacts for performing major version upgrades in Aurora PostgreSQL using AWS Database Migration Service
+https://github.com/aws-samples/gain_customer_insights # Gain customer insights using Amazon Aurora machine learning
+https://github.com/aws-samples/aws-stepfunctions-aurora-clone # The goal of this project is to create an Aurora Clone using AWS StepFunctions so you can call it using an Amazon EventBridge Rule or from your CI/CD Pipeline.
+https://github.com/aws-samples/enginframe-aurora-serverless #
+https://github.com/aws-samples/rag-qna-bot-for-your-website-using-langchain-amazon-aurorapg-and-amazon-bedrock #
+https://github.com/aws-samples/aws-cdk-localgov-drupal-fargate-efs-auroraserverlessv2 #
+https://github.com/aws-samples/semantic-search-using-amazon-aurorapg-pgvector-and-amazon-bedrock #
+https://github.com/aws-samples/amazon-rds-auto-restart-protection # A plug and play solution to automatically stop your RDS instances or Aurora clusters once restarted by AWS in order not to fall behind maintenance activities.
+https://github.com/aws-samples/amazon-rds-purpose-built-workshop # A tutorial for developers, DBAs and data engineers to get hands-on experience on  how to migrate relational data to AWS purpose-built databases  such as Amazon DynamoDB, Amazon Aurora using AWS DMS and
+ build data processing applications on top of it.                                                                                                                                                                                                                           https://github.com/aws-samples/aws-connect-data-visualization-using-aurora #
+https://github.com/aws-samples/aws-rds-snapshot-management # A serverless notification mechanism to manage Amazon RDS manual snapshots for both RDS Instances and Aurora Clusters. The solution manages creatiton of manual snapshot, deletion of old snapshots, and finally
+ send a notification email. Email subscribers are notified with a list of newly created manual snapshots and older deleted snapshots.                                                                                                                                       https://github.com/aws-samples/amazon-aurora-mysql-with-mariadb-jdbc-driver # Using the MariaDB JDBC driver with Amazon Aurora with MySQL compatibility
+https://github.com/aws-samples/pega-on-eks-aurora-postgresql #  Welcome to blueprint for running Pega platform on Amazon EKS (Tomcat) and Amazon Aurora PostgreSQL using Terraform and Helm.
+https://github.com/aws-samples/amazon-aurora-http-client # Amazon Aurora HTTP Client in AWS Lambda
+https://github.com/aws-samples/amazon-bedrock-and-aurora-mysql-integration #
+https://github.com/aws-samples/wrapper-for-utl-http-with-amazon-aurora #
+https://github.com/aws-samples/proxysql-to-replace-mysql-query-cache # Optimising MySQL Performance with ProxySQL to replace MySQL Query Cache
+https://github.com/aws-samples/amazon-aurora-managing-inactive-pg-users-blog # This repository provides CFT and Lambda code that can help you manage inactive Aurora PostgreSQL users. Check out the blog post for the details and configuration steps.
+https://github.com/aws-samples/babelfish-postgresql-aurora-bedrock #
+https://github.com/aws-samples/aws-db-blog-aurora-replication-dms #
+https://github.com/aws-samples/amazon-aurora-postgresql-stored-proc-pgcron #
+https://github.com/aws-samples/vector-store-sample-for-aurora-postgresql #
+https://github.com/aws-samples/amazon-aurora-s3-redshift-serverless-dwh #
+https://github.com/aws-samples/text-summarization-using-amazon-aurora-and-amazon-sagemaker #
+https://github.com/aws-samples/aws-aurora-application-autoscaling #
+https://github.com/aws-samples/babelfish-for-amazon-aurora-postgresql-demo #
+https://github.com/aws-samples/amazon-aurora-migration-from-azuresqldb-sqlsync #
+https://github.com/aws-samples/amazon-aurora-parallel-execution-python-utility #
+https://github.com/aws-samples/samples-blue-green-readiness-testing-for-rds-and-aurora-postgres #
+https://github.com/aws-samples/amazon-rds-proxy-multitenant-load-test # An AWS CloudFormation template that builds, load tests, and compares results of two multi-tenant Amazon Aurora MySQL clusters, one with and one without Amazon RDS Proxy.
+https://github.com/awslabs/aurora-snapshot-tool # The Snapshot Tool for Amazon Aurora automates the task of creating manual snapshots, copying them into a different account and a different region, and deleting them after a specified number of days
+https://github.com/awslabs/amazon-aurora-postgres-monitoring # An advanced monitoring system for Amazon Aurora PostgreSQL that is completely serverless, based on AWS Lambda and Amazon CloudWatch
+https://github.com/awslabs/aws-lambda-python-aurora-version-check # Python SAM Lambda module for periodically checking Aurora Database Engine Updates documentation site for new version releases and notify via SES if updates are found.
+https://github.com/awslabs/aws-aurora-rds-postgresql-excel-generator #
+https://github.com/awslabs/pireporter # A comprehensive tool for capturing performance metrics and workload snapshots, and generating in-depth comparison reports for Amazon Aurora PostgreSQL databases. Helps to troubleshoot problems, optimize instance size and cost.
+https://github.com/aws/aws-advanced-jdbc-wrapper # The Amazon Web Services JDBC Driver has been redesigned as an advanced JDBC wrapper. This wrapper is complementary to and extends the functionality of an existing JDBC driver to help an application take advantage of t
+he features of clustered databases such as Amazon Aurora.                                                                                                                                                                                                                   https://github.com/aws/aws-advanced-python-wrapper # The AWS Advanced Python Driver is complementary to and extends the functionality of an existing Python database driver to help an application take advantage of the features of clustered databases such as Amazon Auro
+ra.

@@ -1,0 +1,54 @@
+https://github.com/aws-solutions-library-samples/guidance-for-sql-based-etl-with-apache-spark-on-amazon-eks # A guidance that provides declarative data processing capability, and workflow orchestration automation to help your business users (such as analysts and data
+scientists) access their data and create meaningful insights without the need for manual IT processes. https://github.com/aws-solutions-library-samples/guidance-for-personalized-engagement-using-online-and-mobile-user-behaviors-on-aws # A comprehensive digital customer engagement solution by leveraging RudderStack's warehouse-first CDP platform and AWS services
+https://github.com/aws-ia/terraform-aws-mwaa # Terraform module for Amazon MWAA(Apache Airflow)
+https://github.com/aws-ia/terraform-aws-eks-data-addons # Terraform Module: Deploy Data/ML Addons Helm Charts on EKS 🚀
+https://github.com/aws-ia/terraform-aws-vpc_endpoints # Terraform AWS VPC endpoints module
+https://github.com/build-on-aws/automating-mwaa-environments-and-workflows # This repo contains code to support the tutorial, Automate the Provisioning of Your Apache Airflow Environments.
+https://github.com/aws-samples/sagemaker-ml-workflow-with-apache-airflow # This repository shows a sample example to build, manage and orchestrate Machine Learning workflows using Amazon Sagemaker and Apache Airflow.
+https://github.com/aws-samples/amazon-mwaa-examples # Amazon Managed Workflows for Apache Airflow (MWAA) Examples repository contains example DAGs, requirements.txt, plugins, and CloudFormation templates focused on Amazon MWAA.
+https://github.com/aws-samples/aws-concurrent-data-orchestration-pipeline-emr-livy # This code demonstrates the architecture featured on the AWS Big Data blog (https://aws.amazon.com/blogs/big-data/ ) which creates a concurrent data pipeline by using Amazon EMR and Ap
+ache Livy. This pipeline is orchestrated by Apache Airflow. https://github.com/aws-samples/dataops-platform-airflow-dbt # Build DataOps platform with Apache Airflow and dbt on AWS
+https://github.com/aws-samples/emr-serverless-samples # Example code for running Spark and Hive jobs on EMR Serverless.
+https://github.com/aws-samples/airflow-for-amazon-eks-blog #
+https://github.com/aws-samples/amazon-mwaa-complex-workflow-using-step-functions #
+https://github.com/aws-samples/aws-cdk-for-emr-on-eks #
+https://github.com/aws-samples/cloud-native-airflow-solution-on-amazon-eks #
+https://github.com/aws-samples/mwaa-dashboard # Automating Amazon CloudWatch dashboards and alarms for Amazon Managed Workflows for Apache Airflow (MWAA)
+https://github.com/aws-samples/cdk-amazon-mwaa-cicd #
+https://github.com/aws-samples/sm-data-wrangler-mlops-workflows # Integrate SageMaker Data Wrangler into your MLOps workflows with Amazon SageMaker Pipelines, AWS Step Functions, and Amazon Managed Workflow for Apache Airflow (MWAA)
+https://github.com/aws-samples/amazon-mwaa-workflow-demo #
+https://github.com/aws-samples/amazon-mwaa-extract-metadata #
+https://github.com/aws-samples/gen-ai-on-eks # This repository aims to showcase how to finetune a FM model in Amazon EKS cluster using, JupyterHub to provision notebooks and craft both serving and training scripts, RayOperator to manage Ray Clusters and Karpenter to m
+anage Node Scaling. https://github.com/aws-samples/alb-sso-mwaa #
+https://github.com/aws-samples/aws-autonomous-driving-data-lake-mwaa-ros-bag-image-extraction-pipeline # AWS Sample for processing ROS bag files to detect objects within exported images. The solution draws bounding boxes for the detected objects within the exported im
+ages. https://github.com/aws-samples/amazon-mwaa-automating-dag-deployment #
+https://github.com/aws-samples/mwaa-disaster-recovery # Disaster recovery solution for Amazon Managed Workflows for Apache Airflow (MWAA)
+https://github.com/aws-samples/mwaa-rbac-task # Fine grain access in Amazon Managed Workflows For Apache Airflow
+https://github.com/aws-samples/aws-stepfunctions-data-processing-pipeline #
+https://github.com/aws-samples/automated-machine-learning-pipeline-options-on-aws #
+https://github.com/aws-samples/terraform-aws-scheduled-switch # Spin up and down your Terraform resources on schedule!
+https://github.com/aws-samples/windows-batch-aws-mwaa #
+https://github.com/aws-samples/amazon-mwaa-cicd #
+https://github.com/aws-samples/aws-managed-apache-airflow-cicd #
+https://github.com/aws-samples/devday-mwaa-elt-workflows # Materials to support the DevDay Data Analytics session on building ELT workflows using Apache Airflow. Details on how to reproduce the demos used during the session are provided in this repository.
+https://github.com/aws-samples/aws-emr-serverless-using-terraform #
+https://github.com/aws-samples/aws-cdk-python-for-amazon-mwaa # CDK (Python) sample on how to configure / deploy Amazon MWAA
+https://github.com/aws-samples/trigger-mwaa-dag-using-s3-event #
+https://github.com/aws-samples/aws-mwaa-openlineage # In this repository, we show how to get started with data lineage on AWS using OpenLineage. This is an AWS Cloud Development Kit project (CDK) which deploys a pre-configured demo environment for evaluating and exper
+iencing OpenLineage firsthand. https://github.com/aws-samples/apache-xtable-on-aws-samples #
+https://github.com/aws-samples/dynamic-sagemaker-pipelines-framework #
+https://github.com/aws-samples/amazon-redshift-data-lifecycle-manager # This code sample focuses on automating movement (unload) and management (delete/vacuum/analyze) of data in Amazon Redshift tables with temporal attributes through a simple configuration while main
+taining movement and management choice, priority, logging, auditing and checkpointing. https://github.com/aws-samples/amazon-sagemaker-lift-and-shift #
+https://github.com/aws-samples/awesome-aiml-auto-list #
+https://github.com/aws-samples/amazon-eks-autonomous-driving-data-service #
+https://github.com/awslabs/data-on-eks # DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS
+https://github.com/awslabs/autonomous-driving-data-framework # ADDF is a collection of modules, deployed using the SeedFarmer orchestration tool. ADDF modules enable users to quickly bootstrap environments for the process and analysis of autonomous driving data.
+https://github.com/awslabs/amazon-sagemaker-mlops-workshop # Machine Learning Ops Workshop with SageMaker: lab guides and materials.
+https://github.com/awslabs/aiops-modules # AIOps modules is a collection of reusable Infrastructure as Code (IaC) modules for Machine Learning (ML), Foundation Models (FM), Large Language Models (LLM) and GenAI development and operations on AWS
+https://github.com/awslabs/idf-modules # Industry Data Framework (IDF) IAC modules repository
+https://github.com/aws/aws-mwaa-local-runner # This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.
+https://github.com/aws/amazon-mwaa-docker-images #
+https://github.com/aws/sagemaker-python-sdk # A library for training and deploying machine learning models on Amazon SageMaker
+https://github.com/aws/awesome-redshift #
+https://github.com/aws/amazon-redshift-python-driver # Redshift Python Connector. It supports Python Database API Specification v2.0.
+https://github.com/aws/aws-sdk-net # The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:

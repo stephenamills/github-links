@@ -1,0 +1,19 @@
+https://github.com/aws-solutions-library-samples/guidance-for-integrated-scalable-search-for-amazon-documentdb # Run advanced search and analytics using Amazon OpenSearch Service.
+
+https://github.com/aws-ia/cfn-ps-mongodb-atlas #
+https://github.com/aws-ia/cfn-ps-mongodb-atlas-analytics-amazon-sagemaker-integration #
+https://github.com/aws-ia/cfn-ps-mongodb-atlas-mean-stack-aws-fargate-integration #
+
+https://github.com/aws-samples/amazon-documentdb-samples #
+https://github.com/aws-samples/amazon-documentdb-serverless-samples # Lambda functions and CloudFormation templates required for building serverless applications on top of Amazon DocumentDB
+https://github.com/aws-samples/amazon-documentdb-integration-with-application-autoscaler #
+https://github.com/aws-samples/amazon-documentdb-streams-msk #
+https://github.com/aws-samples/documentdb-sagemaker-example # We use Amazon SageMaker to analyze data stored in Amazon DocumentDB. After showing how to write queries to conduct a descriptive analysis, we build a simple machine learning model to make predictions, then
+we write the prediction results back into the database. https://github.com/aws-samples/sagemaker-documentdb-train-gnn-for-millions-proteins # Training graph neural nets for millions of proteins on Amazon SageMaker and DocumentDB.
+https://github.com/aws-samples/amazon-documentdb-and-amazon-elacticache-caching-for-performance-example # Caching for performance with Amazon DocumentDB and Amazon ElastiCache
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-documentdb # Question Answering Generative AI application with Large Language Models (LLMs), Amazon Bedrock, and Amazon DocumentDB (with MongoDB Compatibility)
+https://github.com/aws-samples/querying-geospatial-data-from-amazon-documentdb-demo #
+https://github.com/aws-samples/aws-systems-manager-lifecycle-management # This code shows lifecycle management for MongoDB that uses Terraform and AWS Systems Manager
+
+https://github.com/aws/amazon-documentdb-jdbc-driver # Amazon DocumentDB JDBC driver to connect from BI tools and execute SQL Queries
+https://github.com/aws/amazon-documentdb-odbc-driver #

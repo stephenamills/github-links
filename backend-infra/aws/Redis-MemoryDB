@@ -1,0 +1,17 @@
+https://github.com/build-on-aws/aws-redis-iam-auth-golang # Using IAM authentication for Redis on AWS
+
+https://github.com/aws-samples/amazon-memorydb-for-redis-samples # Code samples for Amazon MemoryDB for Redis is a durable database with microsecond reads, low single-digit millisecond writes, scalability, and enterprise security.
+https://github.com/aws-samples/java-spring-boot-ecs-fargate-redis-caching #
+https://github.com/aws-samples/amazon-eks-example-for-stateful-java-service # This repository aims to show how a stateful Java Service can be deployed on EKS
+https://github.com/aws-samples/aws-modernization-with-redislabs #
+https://github.com/aws-samples/amazon-memorydb-for-redis-java-client-examples # Examples for using Java clients to interact with Amazon MemoryDB for Redis using the open-source Redis client Jedis.
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-memorydb # Question Answering Generative AI application with Large Language Models (LLMs), Amazon Bedrock, and Amazon MemoryDB for Redis
+https://github.com/aws-samples/build-real-time-leaderboard-redis #
+https://github.com/aws-samples/streaming-count-sketches-with-hyperloglog-in-amazon-memorydb # sample code on how to count unique items (e.g., unique visitors) with hyperloglog in Amazon MemoryDB for Redis
+https://github.com/aws-samples/db-top-monitoring # DBTop Monitoring is lightweight application to perform realtime monitoring for AWS Database Resources. Based on same simplicity concept of Unix top utility, provide quick and fast view of database performance, just all in one screen.
+https://github.com/aws-samples/amazon-memorydb-for-redis-samples # Code samples for Amazon MemoryDB for Redis is a durable database with microsecond reads, low single-digit millisecond writes, scalability, and enterprise security.
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-memorydb # Question Answering Generative AI application with Large Language Models (LLMs), Amazon Bedrock, and Amazon MemoryDB for Redis
+https://github.com/aws-samples/amazon-memorydb-for-redis-java-client-examples # Examples for using Java clients to interact with Amazon MemoryDB for Redis using the open-source Redis client Jedis.
+https://github.com/aws-samples/scaling-memorydb-keda-kubernetes #
+https://github.com/aws-samples/aws-dms-postgresql-to-memorydb-migration #
+https://github.com/aws-samples/streaming-count-sketches-with-hyperloglog-in-amazon-memorydb # sample code on how to count unique items (e.g., unique visitors) with hyperloglog in Amazon MemoryDB for Redis

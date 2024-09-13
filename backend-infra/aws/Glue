@@ -1,0 +1,114 @@
+https://github.com/aws-solutions-library-samples/aws-insurancelake-etl # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake Infrastructure project
+https://github.com/aws-solutions-library-samples/aws-sap-gluerfc #
+https://github.com/aws-solutions-library-samples/aws-insurancelake-infrastructure # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake ETL with CDK Pipelines project.
+
+https://github.com/aws-samples/aws-glue-samples # AWS Glue code samples
+https://github.com/aws-samples/dbt-glue # This repository contains de dbt-glue adapter
+https://github.com/aws-samples/amazon-deequ-glue # Automated data quality suggestions and analysis with Deequ on AWS Glue
+https://github.com/aws-samples/amazon-serverless-datalake-workshop # A workshop demonstrating the capabilities of S3, Athena, Glue, Kinesis, and Quicksight.
+https://github.com/aws-samples/aws-glue-data-catalog-replication-utility # Replication utility for AWS Glue Data Catalog
+https://github.com/aws-samples/aws-glue-cdk-cicd # Build, Test and Deploy ETL solutions using AWS Glue and AWS CDK based CI/CD pipelines
+https://github.com/aws-samples/aws-glue-jobs-unit-testing # Demo code to illustrate the execution of PyTest unit test cases for AWS Glue jobs in AWS CodePipeline using AWS CodeBuild projects
+https://github.com/aws-samples/glue-workflow-aws-cdk #
+https://github.com/aws-samples/provision-codepipeline-glue-workflows # Git repo to accompany the AWS DevOps Blog: Using AWS DevOps Tools to model and provision AWS Glue workflows
+https://github.com/aws-samples/aws-glue-flatten-nested-json #
+https://github.com/aws-samples/aws-glue-local-development #
+https://github.com/aws-samples/amazon-redshift-commands-using-aws-glue # Use a AWS Glue Python Shell Job to connect to your Amazon Redshift cluster and execute a SQL script stored in Amazon S3.
+https://github.com/aws-samples/aws-glue-crawler-utilities # This repository has a collection of utilities for Glue Crawlers. These utilities come in the form of AWS CloudFormation templates or AWS CDK applications.
+https://github.com/aws-samples/aws-glue-streaming-etl-blog #
+https://github.com/aws-samples/aws-glue-job-status-email-report #
+https://github.com/aws-samples/aws-glue-test-data-generator # AWS Glue Configurable Test Data Generator for S3 Data Lakes and DynamoDB
+https://github.com/aws-samples/aws-glue-etl-sample-cdk #
+https://github.com/aws-samples/aws-glue-table-versions-cleanup-utility #
+https://github.com/aws-samples/data-profiler-for-aws-glue-data-catalog # Data Profiler for AWS Glue Data Catalog application as described in the AWS Big Data Blog post "Build an automatic data profiling and reporting solution with Amazon EMR, AWS Glue, and Amazon QuickSight".
+https://github.com/aws-samples/aws-dbs-refarch-datalake # Reference Architectures for Datalakes on AWS
+https://github.com/aws-samples/aws-glue-job-tracker #
+https://github.com/aws-samples/aws-glue-databrew-eventdriven-dq-checks #
+https://github.com/aws-samples/glue-enrich-cost-and-usage # Glue Python Shell Job that adds AWS Organizations account tags to Cost and Usage Reports.You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+https://github.com/aws-samples/data-discovery-using-glue-comprehend #
+https://github.com/aws-samples/amazon-personalize-with-glue-databrew-front #
+https://github.com/aws-samples/serverless-datalake # Serverless Datalake architecture
+https://github.com/aws-samples/aws-glue-cross-account-region-connections # This is a CloudFormation template for setting up a VPC required for establishing cross account or cross region AWS Glue connection.
+https://github.com/aws-samples/aws-security-hub-glue-aggregator-terraform # These Terraform modules aggregate Security Hub findings to centralized account using Amazon Kinesis Firehose and AWS Glue
+https://github.com/aws-samples/aws-glue-sagemaker-notebook-terraform-example #
+https://github.com/aws-samples/aws-etl-orchestrator # A serverless architecture for orchestrating ETL jobs in arbitrarily-complex workflows using AWS Step Functions and AWS Lambda.
+https://github.com/aws-samples/aws-glue-migrations-between-aws-accounts # Cross Account Glue Database Migration Tool
+https://github.com/aws-samples/analyzing-reddit-sentiment-with-aws # Learn how to use Kinesis Firehose, AWS Glue, S3, and Amazon Athena by streaming and analyzing reddit comments in realtime. 100-200 level tutorial.
+https://github.com/aws-samples/data-transformation-of-rds-using-glue-databrew #
+https://github.com/aws-samples/aws-glue-streaming-etl-with-apache-hudi #
+https://github.com/aws-samples/aws-etl-microservice-redshift-datalake # AWS Lambda based microservice built using AWS Glue API to migrate tables off of Amazon Redshift into AWS (S3) data lake.
+https://github.com/aws-samples/cloudformation-glue-job-to-pull-data-from-staging-to-prod # A Step Function to run a Glue Job to pull data into a staging table, push it onto prod and then clear staging.
+https://github.com/aws-samples/aws-glue-tagger-sar #
+https://github.com/aws-samples/aws-glue-streaming-etl-with-apache-iceberg # Streaming ETL job cases in AWS Glue to integrate Iceberg and creating an in-place updatable data lake on Amazon S3
+https://github.com/aws-samples/aws-msk-cross-account-glue-schema-registry #
+https://github.com/aws-samples/aws-glue-apache-spark-unittesting-using-localstack # This codebase covers a use-case that describes how to setup local AWS Glue and Apache Spark environment to perform automated unit testing using localstack. The code and tests here are intended as examples and helps getting started on the local setup. The setup script helps setup the required environment that can be used as a base to write codebase and tests required for specific application requirements.
+https://github.com/aws-samples/amazon-personalize-with-aws-glue-sample-dataset #
+https://github.com/aws-samples/aws-glue-amazon-sagemaker-datawrangler-in-mlops-pipeline #
+https://github.com/aws-samples/amazon-sagemaker-predict-accessibility # Build end-to-end Machine Learning pipeline to predict accessibility of playgrounds in NYC
+https://github.com/aws-samples/data-preparation-using-amazon-sagemaker-and-glue-databrew #
+https://github.com/aws-samples/transactional-datalake-using-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg table format with AWS Glue Streaming and DMS
+https://github.com/aws-samples/cdk-deploy-glue-jobs-with-shared-utils #
+https://github.com/aws-samples/aws-glue-blueprint-rel-db-to-s3 #
+https://github.com/aws-samples/anonimization-with-aws-glue #
+https://github.com/aws-samples/aws-glue-athena-tcga # This repository has the code for the AWS blog post - Enabling the aggregation and query of The Cancer Genome Atlas using AWS Glue and Amazon Athena
+https://github.com/aws-samples/aws-glue-with-s2s-vpn #
+https://github.com/aws-samples/aws-glue-cdk-baseline #
+https://github.com/aws-samples/aws-glue-quota-audit-framework # This aws sample code base implements Lambda logic to schedule only limited Glue jobs based on resource constraints
+https://github.com/aws-samples/aws-glue-data-catalog-text2sql #
+https://github.com/aws-samples/aws-databrew-ml-stepfunction-workflow # This repository has ml workflow with step functions implemented using AWS Glue DataBrew recipe jobs.
+https://github.com/aws-samples/detect-and-handling-custom-pii-with-aws-glue-studio-and-aws-glue-databrew #
+https://github.com/aws-samples/aws-glue-control-interactive-sessions #
+https://github.com/aws-samples/aws-ml-data-lake-workshop # As customers move from building data lakes and analytics on AWS to building machine learning solutions, one of their biggest challenges is getting visibility into their data for feature engineering and data format conversions for using AWS SageMaker. In this workshop, we demonstrate best practices and build data pipelines for training data using Amazon Kinesis Data Firehose, AWS Glue, and Amazon SageMaker, and then we use Amazon SageMaker for inference.
+https://github.com/aws-samples/glue-etl-framework #
+https://github.com/aws-samples/aws-glue-streaming-etl-with-delta-lake # Streaming ETL job cases in AWS Glue to integrate Delta Lake and creating an in-place updatable data lake on Amazon S3
+https://github.com/aws-samples/aws-glue-streaming-ingestion-from-kafka-to-apache-iceberg # This is a collecton of Amazon CDK projects to show how to directly ingest streaming data from Amazon Mananged Service for Apache Kafka (MSK) and MSK Serverless into Apache Iceberg table in S3 with AWS Glue Streaming.
+https://github.com/aws-samples/glue-metrics-in-quicksight #
+https://github.com/aws-samples/eventbridge-pipes-schema-validation-glue # Convert AVRO events to JSON and perform schema validation using EventBridge Pipes and Glue Schema Registry.
+https://github.com/aws-samples/automating-pii-data-detection-and-data-masking-tasks-with-aws-glue-databrew-and-aws-step-functions #
+https://github.com/aws-samples/glue-partman-archive-restore #
+https://github.com/aws-samples/aws-glue-connector-google-spreadsheet #
+https://github.com/aws-samples/python-lib-management-without-internet-for-aws-glue-in-private-subnets # CDK Code for Python Package management for AWS Glue Pyspark
+https://github.com/aws-samples/aws-glue-msk-with-schema-registry #
+https://github.com/aws-samples/aws-glue-job-tracker-ko #
+https://github.com/aws-samples/aws-glue-cdk-observability-dashboard #
+https://github.com/aws-samples/aws-glue-schema-registry-examples #
+https://github.com/aws-samples/automated-datastore-discovery-with-aws-glue # Automation framework to catalog AWS data sources using Glue
+https://github.com/aws-samples/transactional-datalake-using-amazon-msk-serverless-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK Serverless and MSK Connect (Debezium)
+https://github.com/aws-samples/aws-trusted-advisor-glue-aggregator-terraform # These Terraform modules aggregate the AWS Trusted Advisor results from different accounts to a centralised account, using AWS Lambda, AWS IAM, Amazon S3 and Amazon SQS
+https://github.com/aws-samples/cdc-transactional-datalake-using-debezium-gluestreaming-iceberg #
+https://github.com/aws-samples/amazon-personalize-connectors # ETL and connector framework for synchronizing recommendations from Amazon Personalize to multiple destinations
+https://github.com/aws-samples/implement-column-level-encryption-in-amazon-redshift-with-aws-glue-and-aws-lambda-udf #
+https://github.com/aws-samples/transactional-datalake-using-amazon-msk-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK and MSK Connect (Debezium)
+https://github.com/aws-samples/aws-data-foundations-framework # The Data Foundations Framework accelerates deployment of a modern data platform using AWS native services and best practices.
+https://github.com/aws-samples/glue-data-sanitization-from-production-s3-bucket-to-lower-environment-s3-bucket-apg-example #
+https://github.com/aws-samples/consuming-flattening-and-joining-multiple-json-data-sources-with-aws-glue-streaming #
+https://github.com/aws-samples/cdk-glue-orchestrate-redshift #
+https://github.com/aws-samples/glue-overwrite-table-sample-cdk #
+https://github.com/aws-samples/awsblog-access-glue-hive-metastore #
+https://github.com/aws-samples/use-sql-queries-in-glue-databrew #
+https://github.com/aws-samples/gbq-migration-to-s3-using-glue #
+https://github.com/aws-samples/aws-glue-data-quality-customise-email-notification #
+https://github.com/aws-samples/data-transformation-of-redshift-using-glue-databrew #
+https://github.com/aws-samples/aws-cdk-glue-table-sync-with-snowflake #
+https://github.com/aws-samples/single-output-files-for-recipe-jobs-using-aws-glue-databrew #
+https://github.com/aws-samples/automate-and-simplify-aws-glue-data-asset-publish-to-amazon-datazone #
+https://github.com/aws-samples/sas-token-provider-azure # Custom implementation of SASTokenProvider interface provided by Hadoop. This custom class implementation is required to enable SAS token access to Azure Data Lake Storage (ADLS) from AWS services like Amazon EMR, AWS Glue and Amazon SageMaker.
+https://github.com/aws-samples/iceberg-streaming-examples # This repo contains examples of high throughput ingestion using Apache Spark and Apache Iceberg. These examples cover IoT and CDC scenarios using best practices. The code can be deployed into any Spark compatible engine like Amazon EMR Serverless or AWS Glue. A fully local developer environment is also provided.
+https://github.com/aws-samples/amazon-sagemaker-predictive-maintenance # This repository is part of an AWS blog post that describes how you can combine and leverage services like Amazon Kinesis, AWS Glue & Amazon SageMaker to build a near real-time feature engineering and inference solution for predictive maintenance.
+https://github.com/aws-samples/aws-custom-guardrail-event-driven # Using this template, you can deploy a Custom Guardrail for AWS Glue Encryption using Event-driven Architecture.
+https://github.com/aws-samples/cloudformation-handle-dynamic-reference-in-awsglue-streaming # This blog explains a solution architecture to handle fast changing reference data stored in DynamoDB through an AWS Glue Streaming job
+
+https://github.com/awslabs/aws-glue-libs # AWS Glue Libraries are additions and enhancements to Spark for ETL operations.
+https://github.com/awslabs/aws-glue-schema-registry # AWS Glue Schema Registry Client library provides serializers / de-serializers for applications to integrate with AWS Glue Schema Registry Service. The library currently supports Avro, JSON and Protobuf data formats. See https://docs.aws.amazon.com/glue/latest/dg/schema-registry.html to get started.https://github.com/awslabs/athena-glue-service-logs # Glue scripts for converting AWS Service Logs for use in Athena
+https://github.com/awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore # The AWS Glue Data Catalog is a fully managed, Apache Hive Metastore compatible, metadata repository. Customers can use the Data Catalog as a central repository to store structural and operational metadata for their data.AWS Glue provides out-of-box integration with Amazon EMR that enables customers to use the AWS Glue Data Catalog as an external Hive Metastore.This is an open-source implementation of the Apache Hive Metastore client on Amazon EMR clusters that uses the AWS Glue Data Catalog as an external Hive Metastore. It serves as a reference implementation for building a Hive Metastore-compatible client that connects to the AWS Glue Data Catalog. It may be ported to other Hive Metastore-compatible platforms such as other Hadoop and Apache Spark distributions
+https://github.com/awslabs/aws-glue-blueprint-libs #
+https://github.com/awslabs/aws-glue-catalog-sync-agent-for-hive # Enables synchronizing metadata changes (Create/Drop table/partition) from Hive Metastore to AWS Glue Data Catalog
+https://github.com/awslabs/amazon-athena-cross-account-catalog # 🌉 Reference implementation for granting cross-account AWS Glue Data Catalog access from Amazon Athena
+https://github.com/awslabs/aws-glue-streaming-libs #
+https://github.com/awslabs/fhir-works-on-aws-interface # The interface for the FHIR Works on AWS framework. This package is the glue that allows communication to flow between components
+https://github.com/awslabs/aws-glue-apache-hudi-operational-data-processing-framework # Operational Data Processing Framework developed using AWS Glue and Apache Hudi. This framework is suitable for Data Lake and Modern Data Platform implementations on the AWS Cloud.
+https://github.com/awslabs/aws-glue-data-catalog-federation #
+
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+https://github.com/aws/aws-glue-databrew-jupyter-extension #
+https://github.com/aws/aws-glue-studio-notebook-jupyter-extension #
