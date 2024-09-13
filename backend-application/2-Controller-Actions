@@ -1,11 +1,14 @@
-https://github.com/learn-co-curriculum/rails-create-action-readme # controller
+https://github.com/learn-co-curriculum/rails-create-action-readme # create action
 https://github.com/learn-co-curriculum/rails-create-action-lab #
-https://github.com/learn-co-curriculum/rails-restful-index-action-lab #
-https://github.com/learn-co-curriculum/rails-edit-update-action-readme
+https://github.com/learn-co-curriculum/rails-restful-index-action-lab # read action
+https://github.com/learn-co-curriculum/rails-edit-update-action-readme # update action
+
 https://github.com/learn-co-curriculum/phase-4-controller-validations-readme
 https://github.com/learn-co-curriculum/phase-4-controller-validations-lab
-https://github.com/learn-co-curriculum/phase-4-controller-exception-handling # controller exception
-https://github.com/learn-co-curriculum/phase-4-creating-a-rails-api
+
+https://github.com/learn-co-curriculum/phase-4-controller-exception-handling # exception handling
+
+https://github.com/learn-co-curriculum/phase-4-creating-a-rails-api # JSON API
 https://github.com/learn-co-curriculum/js-rails-as-api-rendering-different-content-types-using-rails
 https://github.com/learn-co-curriculum/using-to-json-ruby # to_json
 https://github.com/learn-co-curriculum/js-rails-as-api-pokemon-teams-project-new # Pokemon JSON API
@@ -17,5 +20,6 @@ https://github.com/learn-co-curriculum/js-rails-as-api-extracting-a-service-clas
 https://github.com/learn-co-curriculum/js-rails-as-api-using-fast-json-api
 https://github.com/learn-co-curriculum/js-tictactoe-rails-api-backend
 https://github.com/learn-co-curriculum/phase-4-cookies-in-rails-api
+
 https://github.com/learn-co-curriculum/sessions_controller_lab # controller generator
 https://github.com/learn-co-curriculum/phrg-rails-generators-readme#controller-generators # controller generator

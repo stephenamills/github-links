@@ -1,17 +1,19 @@
-Routes
 https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-readme # routes
 https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-lab #
+
 https://github.com/learn-co-curriculum/phase-3-rails-url-helpers-readme # route helper
 https://github.com/learn-co-curriculum/rails-static-request-readme # static route
 https://github.com/learn-co-curriculum/phase-4-rails-route-params-readme # dynamic route
 https://github.com/learn-co-curriculum/phase-4-rails-route-params-lab #
 https://github.com/learn-co-curriculum/phase-3-rails-dynamic-request-readme
+
 https://github.com/learn-co-curriculum/namespaced-routes-reading # scope and namespace
 https://github.com/learn-co-curriculum/namespaced-routes-lab
-https://github.com/learn-co-curriculum/phase-4-rails-resources-create
-https://github.com/learn-co-curriculum/phase-4-rails-resources-index-show
-https://github.com/learn-co-curriculum/phase-4-rails-resources-update
-https://github.com/learn-co-curriculum/phase-4-rails-resources-destroy
+
+https://github.com/learn-co-curriculum/phase-4-rails-resources-create # create
+https://github.com/learn-co-curriculum/phase-4-rails-resources-index-show # read
+https://github.com/learn-co-curriculum/phase-4-rails-resources-update # update
+https://github.com/learn-co-curriculum/phase-4-rails-resources-destroy # delete
 https://github.com/learn-co-curriculum/phase-4-rails-route-params-readme
 https://github.com/learn-co-curriculum/routing-nested-resources-reading
 https://github.com/learn-co-curriculum/routing-nested-resources-lab
@@ -19,29 +21,4 @@ https://github.com/learn-co-curriculum/phase-4-nested-resource-routing
 https://github.com/learn-co-curriculum/phase-4-nested-resource-routing-lab
 https://github.com/learn-co-curriculum/modification-nested-routes-reading
 https://github.com/learn-co-curriculum/phase-3-modification-nested-routes-lab
-https://github.com/learn-co-curriculum/phrg-sinatra-dynamic-routes-codealong #
 https://github.com/learn-co-curriculum/phrg-rails-generators-readme#resource-generators # resource generator
-
-Rack
-https://github.com/rack/rack # A Ruby web server interface
-https://github.com/cyu/rack-cors
-https://github.com/rack/rack-attack
-https://github.com/puma/puma
-
-https://github.com/learn-co-curriculum/rack-intro
-https://github.com/learn-co-curriculum/phase-3-web-server-fundamentals-with-rack
-https://github.com/learn-co-curriculum/rack-todo # intro
-https://github.com/learn-co-curriculum/middleware-tutorial
-https://github.com/learn-co-curriculum/rack-dynamic-web-apps
-https://github.com/learn-co-curriculum/rack-http-request-readme
-https://github.com/learn-co-curriculum/rack-dynamic-paths-readme
-https://github.com/learn-co-curriculum/rack-headers-readme
-https://github.com/learn-co-curriculum/rack-status-codes-readme
-https://github.com/learn-co-curriculum/react-hooks-auth-session # Rack CORS
-https://github.com/learn-co-curriculum/connecting-react-app-to-rails-api # Rack CORS
-https://github.com/learn-co-curriculum/rails-5-json-api # Rack CORS
-https://github.com/learn-co-curriculum/separating-client-and-api-services # Rack CORS
-https://github.com/learn-co-curriculum/phase-4-cors # Rack CORS intro
-
-https://github.com/learn-co-curriculum/phase-3-todo-app-rack-react # Todo app - React and Rack
-https://github.com/learn-co-curriculum/lecture-crud-with-rack-react # React and Rack

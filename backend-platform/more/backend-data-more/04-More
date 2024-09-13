@@ -1,8 +1,10 @@
 https://mad.firstmark.com # industries
+
 https://tag-runtime.cncf.io/wgs/cnaiwg/whitepapers # stack
 https://landscape.lfai.foundation # stack
 https://landscape.cncf.io/?group=cnai # stack
-https://hadoopecosystemtable.github.io # ecosystem
+
+https://hadoopecosystemtable.github.io # Hadoop ecosystem
 
 https://dbdb.io # database pokedex
 
@@ -29,34 +31,6 @@ Clickhouse
 GraphQL
 
 Hasura
-
-Spark
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-mapreduce
-https://github.com/learn-co-curriculum/ds-spark-wordcount_with_mapreduce
-https://github.com/learn-co-curriculum/dsc-word-count-with-map-reduce-lab
-
-https://github.com/learn-co-curriculum/dsc-spark-introduction
-https://github.com/learn-co-curriculum/dsc-spark-basics
-https://github.com/learn-co-curriculum/dsc-lp-spark-intro
-https://github.com/learn-co-curriculum/ds-spark-rdds
-https://github.com/learn-co-curriculum/ds-spark-rdd_transform1
-https://github.com/learn-co-curriculum/ds-spark-rdd_transform2
-https://github.com/learn-co-curriculum/ds-spark-rdd_transform3
-https://github.com/learn-co-curriculum/ds-spark-recommendation_system
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-sql
-https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-v2-4
-https://github.com/learn-co-curriculum/dsc-spark-docker-installation
-https://github.com/learn-co-curriculum/dsc-sparkcontext
-https://github.com/learn-co-curriculum/dsc-sparkcontext-lab
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-datasets
-https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-lab
-https://github.com/learn-co-curriculum/dsc-spark-dataframes
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-creation
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-columns
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-rows
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-joining
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-cleaning
-https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-querying
 
 Hadoop
 https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-mapreduce

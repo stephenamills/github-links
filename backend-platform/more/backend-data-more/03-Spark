@@ -1,0 +1,245 @@
+https://github.com/googlecloudplatform/serverless-spark-workshop # Serverless Spark on GCP, the industry's first auto-scaling and serverless Spark as a service
+https://github.com/googlecloudplatform/dataproc-templates # Dataproc templates and pipelines for solving simple in-cloud data tasks
+https://github.com/googlecloudplatform/dialogflow-integrations # Dialogflow integrations with multiple platforms including KIK, Skype, Spark, Twlio, Twitter and Viber
+https://github.com/googlecloudplatform/generative-ai # Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/datalake-modernization-workshops #
+https://github.com/googlecloudplatform/ml-on-gcp # Machine Learning on Google Cloud Platform
+https://github.com/googlecloudplatform/oozie-to-airflow # Oozie Workflow to Airflow DAGs migration tool
+https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team.
+https://github.com/googlecloudplatform/vertex-ai-spark-ml-serving #
+https://github.com/googlecloudplatform/gcs-fuse-csi-driver # The Google Cloud Storage FUSE Container Storage Interface (CSI) Plugin.
+https://github.com/googlecloudplatform/dataproc-scala-examples # Spark jobs written in Scala to run on Dataproc.
+https://github.com/googlecloudplatform/dataproc-ml-quickstart-notebooks #
+https://github.com/googlecloudplatform/data-migration-tool # Data warehouse migration, focused on extraction, SQL translation, data migration, data validation
+
+https://github.com/aws-solutions-library-samples/real-time-analytics-spark-streaming # Stream data through Kinesis and Spark Streaming.
+https://github.com/aws-solutions-library-samples/guidance-for-sql-based-etl-with-apache-spark-on-amazon-eks # Data processing and workflow orchestration
+https://github.com/aws-solutions-library-samples/guidance-for-analytics-observability-on-aws # Observability of your data pipelines
+https://github.com/aws-solutions-library-samples/aws-insurancelake-etl # ETL processes and data storage resources to create an Insurance Lake using S3 and Glue
+https://github.com/aws-solutions-library-samples/guidance-for-incremental-data-exports-on-aws # Incrementally export and track ongoing changes in a distributed database.
+https://github.com/aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker # Amazon EC2 Spot placement score tracker
+https://github.com/aws-solutions-library-samples/serverless-fixity-for-digital-preservation-compliance # Validate checksums for compliance and audit requirements
+https://github.com/aws-solutions-library-samples/aws-sap-gluerfc #
+https://github.com/aws-solutions-library-samples/guidance-for-battery-digital-twin-on-aws # Virtual representation of an electric vehicle battery and storage system
+https://github.com/aws-solutions-library-samples/guidance-for-object-level-insights-and-cost-savings-with-amazon-s3 # Object-level insights in Amazon S3
+
+https://github.com/aws-ia/cfn-ps-databricks-unified-data-analytics-platform #
+https://github.com/aws-ia/cloudformation-databricks-resource-providers # DataBricks CFN Registry resource
+https://github.com/aws-ia/terraform-aws-eks-data-addons # Terraform Module: Deploy Data/ML Addons Helm Charts on EKS 🚀
+
+https://github.com/build-on-aws/ci-cd-serverless-spark # Sample CI/CD pipeline for using GitHub Actions with Amazon EMR Serverless Spark.
+
+https://github.com/aws-samples/aws-genai-for-databricks # Build a Retrieval Augmented Generation (RAG) based application using Databricks and AWS
+https://github.com/aws-samples/aws-glue-samples # AWS Glue code samples
+https://github.com/aws-samples/dbt-glue # This repository contains de dbt-glue adapter
+https://github.com/aws-samples/emr-serverless-samples # Example code for running Spark and Hive jobs on EMR Serverless.
+https://github.com/aws-samples/spark-on-aws-lambda # Spark runtime on AWS Lambda
+https://github.com/aws-samples/amazon-eks-apache-spark-etl-sample # Spark ETL example processing New York taxi rides public dataset on EKS
+https://github.com/aws-samples/eks-spark-benchmark # Performance optimization for Spark running on Kubernetes
+https://github.com/aws-samples/sagemaker-studio-emr #
+https://github.com/aws-samples/amazon-emr-with-delta-lake # Amazon EMR Notebook to show how to read from and write to Delta tables with Amazon EMR
+https://github.com/aws-samples/emr-on-eks-benchmark #
+https://github.com/aws-samples/aws-emr-apache-ranger #
+https://github.com/aws-samples/data-lineage-for-data-lake-example #
+https://github.com/aws-samples/aws-glue-local-development #
+https://github.com/aws-samples/analysing-realtime-streaming-data-using-msk-emr #
+https://github.com/aws-samples/aws-cdk-for-emr-on-eks #
+https://github.com/aws-samples/hive-emr-on-eks #
+https://github.com/aws-samples/sql-based-etl-on-amazon-eks #
+https://github.com/aws-samples/graviton-workshop #
+https://github.com/aws-samples/stream-emr-on-eks #
+https://github.com/aws-samples/serverless-data-analytics # Workshop for Athena & Redshift Spectrum queries
+https://github.com/aws-samples/emr-on-eks-hudi-iceberg-delta #
+https://github.com/aws-samples/emr-remote-shuffle-service #
+https://github.com/aws-samples/aws-big-data-blog-dmscdc-walkthrough #
+https://github.com/aws-samples/amazon-emr-optimize-data-processing # Optimizing downstream data processing with Amazon Kinesis Data Firehose and Amazon EMR
+https://github.com/aws-samples/data-profiler-for-aws-glue-data-catalog # Data Profiler for AWS Glue Data Catalog application as described in the AWS Big Data Blog post
+https://github.com/aws-samples/amazon-sagemaker-feature-store-end-to-end-workshop #
+https://github.com/aws-samples/quant-research #
+https://github.com/aws-samples/amazon-forecast-automation #
+https://github.com/aws-samples/sagemaker-studio-sparkmagic-lib #
+https://github.com/aws-samples/data-lake-as-code # Data Lake as Code, featuring ChEMBL and OpenTargets
+https://github.com/aws-samples/emr-spark-benchmark #
+https://github.com/aws-samples/amazon-deequ-glue # Automated data quality suggestions and analysis with Deequ on AWS Glue
+https://github.com/aws-samples/aws-glue-jobs-unit-testing # PyTest unit test cases for AWS Glue jobs in AWS CodePipeline using AWS CodeBuild projects
+https://github.com/aws-samples/aws-emr-basketball-tool # Compare the output and running time of the EMR cluster.
+https://github.com/aws-samples/aws-etl-microservice-redshift-datalake # Migrate tables from Redshift into an S3 data lake, using Lambda and the AWS Glue API.
+https://github.com/aws-samples/data-exploration-with-amazon-athena #
+https://github.com/aws-samples/amazon-sagemaker-spark-ui #
+https://github.com/aws-samples/aws-emr-serverless-using-terraform #
+https://github.com/aws-samples/eks-ctr-modeling-example-using-spark #
+https://github.com/aws-samples/aws-glue-streaming-etl-with-apache-iceberg # Create an in-place updatable data lake on S3, using Glue streaming ETL jobs and Iceberg
+https://github.com/aws-samples/aws-glue-apache-spark-unittesting-using-localstack # This codebase covers a use-case that describes how to setup local AWS Glue and Apache Spark environment to perform automated unit testing using localstack. The code and tests here are intended as examples and helps getting started on the local setup. The setup script helps setup the required environment that can be used as a base to write codebase and tests required for specific application requirements.
+https://github.com/aws-samples/sagemaker-feature-store-point-in-time-queries #
+https://github.com/aws-samples/emr-on-eks-for-transient-emr-clusters #
+https://github.com/aws-samples/aws-cdk-pipelines-datalake-etl # This solution helps you deploy ETL jobs on data lake using CDK Pipelines.
+https://github.com/aws-samples/ecs-machine-learning # An EC2 Container Service Architecture which provides the infrastructure for Deep Learning
+https://github.com/aws-samples/create-amazon-emr-transient-cluster-using-terraform #
+https://github.com/aws-samples/emr-cloudwatch-metrics-sink-spark #
+https://github.com/aws-samples/sagemaker-ssh-helper # A helper library to connect into Amazon SageMaker with AWS Systems Manager and SSH (Secure Shell)
+https://github.com/aws-samples/spark-streaming-sql-s3-connector # An Apache Spark Structured Streaming S3 connector for reading S3 files using Amazon S3 event notifications to AWS SQS
+https://github.com/aws-samples/amazon-sagemaker-script-mode # Amazon SageMaker examples for prebuilt framework mode containers, a.k.a. Script Mode, and more (BYO containers and models etc.)
+https://github.com/aws-samples/unified-data-operations # The data product processor is a library for dynamically creating and executing Apache Spark Jobs based on a declarative description of a data product.
+https://github.com/aws-samples/aws-ml-readmission-prediction #
+https://github.com/aws-samples/aws-mlops-jenkins-pipelines #
+https://github.com/aws-samples/amazon-sagemaker-feature-store-streaming-aggregation # This repo provides an end-to-end example of using streaming feature aggregation with the Amazon SageMaker Feature Store.
+https://github.com/aws-samples/iceberg-streaming-examples # This repo contains examples of high throughput ingestion using Apache Spark and Apache Iceberg. These examples cover IoT and CDC scenarios using best practices. The code can be deployed into any Spark compatible engine like Amazon EMR Serverless or AWS Glue. A fully local developer environment is also provided.
+https://github.com/aws-samples/aws-glue-job-tracker #
+https://github.com/aws-samples/iceberg-aws-event-based-table-management # The MetricsReporter implementation lets users to collect table activities during writes to make better decisions on how to optimize each table differently.
+https://github.com/aws-samples/aws-emr-cost-toolbox #
+https://github.com/aws-samples/automated-machine-learning-pipeline-options-on-aws #
+https://github.com/aws-samples/multiple-entry-points-with-dependency-injection # Sample code for implementing multiple entry points using popular Java dependency injection frameworks
+https://github.com/aws-samples/amazon-sagemaker-delta-lake-integration #
+https://github.com/aws-samples/glue-etl-framework #
+https://github.com/aws-samples/aws-comparing-algorithms-performance-mlops-cdk #
+https://github.com/aws-samples/amazon-emr-on-eks-emr-studio #
+https://github.com/aws-samples/aws-emr-advisor #
+https://github.com/aws-samples/enhanced-pyspark-processor # Enable local mode for SageMaker Processing with Spark.
+https://github.com/aws-samples/aws-glue-streaming-etl-with-delta-lake # Streaming ETL job cases in AWS Glue to integrate Delta Lake and creating an in-place updatable data lake on Amazon S3
+https://github.com/aws-samples/amazon-kinesis-sagemaker-promotion-recommendations # CloudFormation templates and scripts demonstrating how to build a promotion recommendation system using Kinesis and SageMaker.
+https://github.com/aws-samples/amazon-sagemaker-integrating-delta-tables #
+https://github.com/aws-samples/sas-token-provider-azure # Custom implementation of SASTokenProvider interface provided by Hadoop. This custom class implementation is required to enable SAS token access to Azure Data Lake Storage (ADLS) from AWS services like Amazon EMR, AWS Glue and Amazon SageMaker.
+https://github.com/aws-samples/aws-cdk-emr-atlas #
+https://github.com/aws-samples/s3-parallel-move-with-filtering # A Spark Java application that can be used to move large amounts of S3 Objects in parallel from one S3 location to another by specifying source and target buckets and prefixes. The application leverages Java multithreading to speed up the process of moving the objects. The user can also specify a series of filters on the objects to be moved, such as filters on object title and size.
+https://github.com/aws-samples/aws-low-code-data-pipeline-emr-apache-hop # Low Code Data pipelines on EMR using Apache Hop
+https://github.com/aws-samples/sagemaker-pyspark-processing #
+https://github.com/aws-samples/data-enablement-on-aws-examples # This project aims to give an overview of key data enabling activities. These are governance related objectives, but with a focus on being able to manage and utilize data to deliver business value.
+https://github.com/aws-samples/sagemaker-studio-notebook-magic-cell #
+https://github.com/aws-samples/amazon-comprehend-custom-automate-classification-it-service-request # This solution demonstrates on how you can implement a supervised machine learning model using custom classification with Amazon Comprehend and deploy the solution using AWS Cloud Development Kit (AWS CDK) v2 in an isolated VPC environment consisting of only private subnets.
+https://github.com/aws-samples/spark-kinesis-connector-emr-sample #
+https://github.com/aws-samples/data-governance-w-temp-credentials-vending # Data governance through AWS LakeFormation credentials vending API
+https://github.com/aws-samples/lambda-java-blockchain # Example of a blockchain application in Java interacting with Amazon Managed Blockchain using Fabric Java SDK
+https://github.com/aws-samples/amazon-comprehend-pii-redaction-wrapper #
+https://github.com/aws-samples/datatype-validation-with-apache-spark # Data type and structure validation framework for delimited data using Apache Spark that validates input data against expected schema including number of columns, data types, nullability and assigns error flag and error message column to label specific error details
+https://github.com/aws-samples/amazon-emr-yarn-capacity-scheduler # Configure Hadoop YARN CapacityScheduler on Amazon EMR on Amazon EC2 for multi-tenant heterogeneous workloads
+https://github.com/aws-samples/transactional-datalake-using-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg table format with AWS Glue Streaming and DMS
+https://github.com/aws-samples/emr-iceberg-small-file-optimization #
+https://github.com/aws-samples/sm-model-serving-patterns # SageMaker Model Serving Patterns
+https://github.com/aws-samples/custom-scheduler-eks # Custom kube-scheduler for binpacking targeting Spark on EKS and other jobs workloads
+https://github.com/aws-samples/retrieval-augmented-generation-large-data-sets #
+https://github.com/aws-samples/amazon-emr-on-eks-scale-test-tool # EMR on EKS - Scale testing tool
+https://github.com/aws-samples/cost-optimized-flink-on-kubernetes #
+https://github.com/aws-samples/cql-replicator # CQLReplicator is a migration tool that helps you to replicate data from Cassandra to AWS Services
+https://github.com/aws-samples/amazon-kinesis-data-processor-aws-fargate # Sample code for the AWS Big Data Blog Post Building a scalable streaming data processor with Amazon Kinesis Data Streams on AWS Fargate
+https://github.com/aws-samples/amazon-sagemaker-feature-store-streaming-inference-msk-kda #
+https://github.com/aws-samples/lake-formation-cse-data #
+https://github.com/aws-samples/pyspark-sql-framework #
+https://github.com/aws-samples/aws-emr-eks-log-forwarding #
+https://github.com/aws-samples/remote-debugging-with-emr # A Python-based CDK stack that deploys an EC2 bastion host and EMR Serverless and EMR on EKS environments configured for remote debugging.
+https://github.com/aws-samples/transactional-datalake-using-amazon-msk-serverless-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK Serverless and MSK Connect (Debezium)
+https://github.com/aws-samples/exporting-tool-for-amazon-keyspaces # The exporting tool offloads the Amazon Keyspaces table to HDFS/FS
+https://github.com/aws-samples/aws-analytics-genai-llm-workshop #
+https://github.com/aws-samples/platform-to-migrate-sap-sybaseiq-to-datalake-on-aws-with-fine-grained-control #
+https://github.com/aws-samples/athena-samples #
+https://github.com/aws-samples/aws-glue-job-tracker-ko #
+https://github.com/aws-samples/attribute-amazon-emr-costs-to-your-end-users #
+https://github.com/aws-samples/implement-column-level-encryption-in-amazon-redshift-with-aws-glue-and-aws-lambda-udf #
+https://github.com/aws-samples/monitoring-apache-iceberg-table-metadata-layer # Sample code to collect Apache Iceberg metrics for table monitoring
+https://github.com/aws-samples/transactional-datalake-using-amazon-msk-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK and MSK Connect (Debezium)
+https://github.com/aws-samples/glue-enrich-cost-and-usage # Glue Python Shell Job that adds AWS Organizations account tags to Cost and Usage Reports.
+You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+https://github.com/aws-samples/creating-ml-models-with-pyspark-on-amazon-emr #
+https://github.com/aws-samples/cdc-transactional-datalake-using-debezium-gluestreaming-iceberg #
+https://github.com/aws-samples/serverless-cicd-ml-pipelines #
+https://github.com/aws-samples/amazon-keyspaces-emr-featurestore-kit #
+https://github.com/aws-samples/glue-overwrite-table-sample-cdk #
+https://github.com/aws-samples/gbq-migration-to-s3-using-glue #
+https://github.com/aws-samples/apache-xtable-on-aws-samples #
+https://github.com/aws-samples/cloudformation-handle-dynamic-reference-in-awsglue-streaming # This blog explains a solution architecture to handle fast changing reference data stored in DynamoDB through an AWS Glue Streaming job
+https://github.com/aws-samples/amazon-eks-use-sbom-to-find-container-image-with-vulnerable-software # This repo hosts Terraform code for generating and analyzing Software Bill of Materials (SBOM) for Amazon ECR images. It helps identify Amazon EKS images with vulnerable software components using Amazon Athena.
+https://github.com/aws-samples/aws-analytics-immersion-day # Describes the concepts of lambda architecture and the actual deployment process with an example of building a serverless business intelligence systems using Amazon Kinesis, S3, Athena, OpenSearch Service, and QuickSight.
+https://github.com/aws-samples/pseudonymization-service-consumption-patterns #
+https://github.com/aws-samples/automated-datastore-discovery-with-aws-glue # Automation framework to catalog AWS data sources using Glue
+https://github.com/aws-samples/amazon-sagemaker-data-quality-monitor-custom-preprocessing #
+https://github.com/aws-samples/devday-mwaa-elt-workflows # Materials to support the DevDay Data Analytics session on building ELT workflows using Apache Airflow. Details on how to reproduce the demos used during the session are provided in this repository.
+https://github.com/aws-samples/example-qldb-ledger-migration #
+https://github.com/aws-samples/multi-tenancy-blog-post-collection #
+
+https://github.com/aws/sagemaker-spark # A Spark library for Amazon SageMaker.
+https://github.com/aws/sagemaker-spark-container # Docker image used to run data processing workloads with the Spark framework on Amazon SageMaker.
+https://github.com/aws/aws-sdk-pandas # pandas on AWS
+https://github.com/aws/sagemaker-sparkml-serving-container # Build & run a Docker container for performing predictions against a Spark ML Pipeline.
+https://github.com/aws/aws-emr-best-practices # A best practices guide for using AWS EMR.
+https://github.com/aws/sagemaker-python-sdk # A library for training and deploying machine learning models on Amazon SageMaker
+https://github.com/aws/aws-emr-containers-best-practices # Best practices and recommendations for getting started with Amazon EMR on EKS.
+https://github.com/aws/amazon-finspace-examples # This repo contains sample code and sample notebooks to illustrate how to work with Amazon FinSpace
+https://github.com/aws/sagemaker-feature-store-spark #
+https://github.com/aws/awesome-redshift #
+
+https://github.com/learn-co-curriculum/dsc-spark-introduction
+https://github.com/learn-co-curriculum/dsc-spark-basics
+https://github.com/learn-co-curriculum/dsc-lp-spark-intro
+
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-mapreduce
+https://github.com/learn-co-curriculum/ds-spark-wordcount_with_mapreduce
+https://github.com/learn-co-curriculum/dsc-word-count-with-map-reduce-lab
+
+https://github.com/learn-co-curriculum/ds-spark-rdds
+https://github.com/learn-co-curriculum/ds-spark-rdd_transform1
+https://github.com/learn-co-curriculum/ds-spark-rdd_transform2
+https://github.com/learn-co-curriculum/ds-spark-rdd_transform3
+https://github.com/learn-co-curriculum/dsc-resilient-distributed-datasets-rdd-lab #
+https://github.com/learn-co-curriculum/ds-spark-recommendation_system
+
+https://github.com/learn-co-curriculum/dsc-spark-dataframes
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-creation
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-columns
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-rows
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-querying
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-cleaning
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-dataframe-joining
+
+https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-v2-4
+https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-lab
+
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-sql
+https://github.com/learn-co-curriculum/dsc-spark-docker-installation
+https://github.com/learn-co-curriculum/dsc-sparkcontext
+https://github.com/learn-co-curriculum/dsc-sparkcontext-lab
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-datasets
+
+https://github.com/learn-co-curriculum/dsc-nosql-databases #
+https://github.com/learn-co-curriculum/dsc-xgboost-deloitte-pyspark #
+https://github.com/learn-co-curriculum/dsc-random-forest-pyspark-intro #
+https://github.com/learn-co-curriculum/dsc-random-forest-pyspark-lab #
+https://github.com/learn-co-curriculum/dsc-implementing-recommender-systems-lab #
+https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-lab #
+https://github.com/learn-co-curriculum/dsc-data-science-and-machine-learning-engineering #
+https://github.com/learn-co-curriculum/dsc-cloud-computing #
+https://github.com/learn-co-curriculum/dsc-big-data-pyspark-recap #
+https://github.com/learn-co-curriculum/als-recommender-system-pyspark-lab #
+https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-v2-4 #
+https://github.com/learn-co-curriculum/dsc-sparkcontext #
+https://github.com/learn-co-curriculum/dsc-spark-docker-installation #
+https://github.com/learn-co-curriculum/dsc-parallel-and-distributed-computing-with-mapreduce #
+https://github.com/learn-co-curriculum/dsc-big-data-pyspark-intro #
+https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark #
+https://github.com/learn-co-curriculum/phase-2-hooks-wiki #
+https://github.com/learn-co-curriculum/dsc-big-data-analytics-apache-spark #
+https://github.com/learn-co-curriculum/seattle_chicago_ds_051120 #
+https://github.com/learn-co-curriculum/dsc-spark-section-recap #
+https://github.com/learn-co-curriculum/dsc-spark-introduction #
+https://github.com/learn-co-curriculum/dsc-related-technologies-interview-questions #
+https://github.com/learn-co-curriculum/dc-ds-100719 #
+https://github.com/learn-co-curriculum/dsc-sparkcontext-lab #
+https://github.com/learn-co-curriculum/dsc-lp-SPARK-intro #
+https://github.com/learn-co-curriculum/dsc-nosql-databases-section-recap #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-sql #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-datasets #
+https://github.com/learn-co-curriculum/dsc-enterpise-hsbc-setting-up-scala-and-spark #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-reading-into-a-dataframe #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-apache-spark #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-machine-learning-with-spark-lab #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-machine-learning-with-spark #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-context-lab #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-spark-docker-installation #
+https://github.com/learn-co-curriculum/dsc-enterprise-big-data-analytics-with-spark #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-mapreduce #
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-big-data-introduction #
+https://github.com/learn-co-curriculum/dsc-building-recommendation-system-als-pyspark #
+https://github.com/learn-co-curriculum/dsc-rdd-advanced-operations-lab #
+https://github.com/learn-co-curriculum/dsc-rdd-transformations-and-actions-ii-lab #
+https://github.com/learn-co-curriculum/dsc-rdd-transformations-and-actions-lab #
+https://github.com/learn-co-curriculum/ds-spark-sparkcontext #
