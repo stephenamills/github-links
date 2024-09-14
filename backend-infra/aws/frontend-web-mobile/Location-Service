@@ -1,0 +1,17 @@
+https://github.com/aws-samples/amazon-location-service-geotrack-vuejs #
+https://github.com/aws-samples/amazon-location-service-mobile-tracker-react # Demonstrates the basics of using AWS Amplify to integrate with Amazon Location Service tracker in a javascript react-native cross-platform mobile app.
+https://github.com/aws-samples/amazon-location-service-pettracker-demo # The PetTracker Demo is a cloud native application built using a serverless architecture based on AWS services to showcase AWS IoT integrations for geospatial use cases in conjuction with the Amazon Location Services to help Solution Architects around the world to make use of it in their demos and workshops.
+https://github.com/aws-samples/amazon-location-service-serverless-address-enrichment #
+https://github.com/aws-samples/amazon-location-amplify-ui-geo-explore # Sample app to demonstrate usage of Maps, Places, Routes, Geofences, and Trackers in Amazon Location Service
+https://github.com/aws-samples/amazon-redshift-location-user-defined-functions # Amazon Redshift User Defined Functions to call Amazon Location Service APIs
+https://github.com/aws-samples/pizza-delivery-tracker # Pizza Delivery Tracker using AWS Amplify, Amazon Location Service, AWS AppRunner, and AWS Fargate.
+https://github.com/aws-samples/aws-appsync-iot-core-realtime-dashboard # This sample application demonstrates a React based web dashboard receiving real-time updates from IoT sensors. The solution is built with AWS AppSync, AWS Amplify, Amazon Location Service, and AWS IoT Core technologies.
+https://github.com/aws-samples/aws-serverless-fullstack-swift-apple-carplay-example # This application demonstrates a full-stack Apple CarPlay app that uses Swift for both the UI and the backend services in AWS. The app accesses Lambda functions written in Swift and deployed from Docker images. The app accesses Amazon Location Service and a 3rd party weather api to display information in the vicinity of the user.
+https://github.com/aws-samples/serverless-store-finder # Build a serverless store finder site using Amazon Location Service
+https://github.com/aws-samples/amazon-location-geospatial-agent # Code demonstrating use of LLMs for geospatial analytics built on top of Amazon Location Service and Amazon Bedrock.
+https://github.com/aws-samples/amazon-location-detected-addresses-to-map # AWS CloudFormation template deploying a Step Functions that leverages Amazon Comprehend and Amazon Location Service. The Step Functions embeds the generated map in a HTML file which contains markers on the addresses that have been detected into the input text.
+https://github.com/aws-samples/amazon-location-service-data-analytics #
+https://github.com/aws-samples/mobility-tracking-with-amazon-location-service-and-amplify-pubsub #
+https://github.com/aws-samples/client-side-cesiumjs-demo-with-react-and-amazon-location-service # This is simple demo of using Amazon Location Service maps with CesiumJS and React.
+https://github.com/aws-samples/location-service-filtering-simulation #
+https://github.com/aws-samples/amazon-location-service-iot-asset-tracking #

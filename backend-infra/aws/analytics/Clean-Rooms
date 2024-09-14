@@ -1,0 +1,13 @@
+https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework # This Guidance demonstrates how you can automate your carbon footprint tracking with the Sustainability Insights Framework (SIF) on AWS
+https://github.com/aws-solutions-library-samples/guidance-for-using-google-tag-manager-for-server-side-website-analytics-on-aws # This Guidance helps you implement server-side tagging to collect event data and perform data analysis in near real-time.
+https://github.com/aws-solutions-library-samples/guidance-for-sentiment-analysis-on-aws # This Guidance demonstrates how to use pgvector and Amazon Aurora PostgreSQL for sentiment analysis, a powerful natural language processing (NLP) task.
+
+https://github.com/aws-samples/aws-dynamodb-enterprise-application # A Serverless hotel central reservation System on AWS
+https://github.com/aws-samples/amazon-ivs-real-time-collaboration-web-demo # This project demonstrates a video collaboration application powered by Amazon IVS Real-time, serving as a reference for building compelling social video experiences.
+https://github.com/aws-samples/amazon-ivs-real-time-serverless-demo # This repository contains the backend of the social real-time application for iOS and Android devices.
+https://github.com/aws-samples/connecting-data-from-google-analytics #
+https://github.com/aws-samples/amazon-ivs-ugc-platform-web-demo # This repository shows how you can build a compelling user-generated content (UGC) live streaming platform with Amazon IVS.
+https://github.com/aws-samples/digav-blueprint #
+https://github.com/aws-samples/uploading-audiences-to-meta-business-marketing-platform #
+
+https://github.com/aws/c3r # Cryptographic Computing for Clean Rooms (C3R) encryption client and SDK

@@ -1,0 +1,25 @@
+https://github.com/aws-ia/cfn-ps-codepipeline-bluegreen-deployment #
+
+https://github.com/build-on-aws/aws-elastic-beanstalk-cdk-pipelines # Sample AWS CDK pipeline code for an AWS Elastic Beanstalk application
+
+https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample # Sample web application for the AWS DevOps Engineer Learning Path.
+https://github.com/aws-samples/eb-node-express-sample # Sample Express application for AWS Elastic Beanstalk
+https://github.com/aws-samples/eb-locustio-sample # AWS Elastic Beanstalk sample code to run the load testing tool, locust.
+https://github.com/aws-samples/eb-tomcat-snakes # Tomcat application that shows the use of Amazon RDS in a Java EE web application in AWS Elastic Beanstalk.
+https://github.com/aws-samples/eb-custom-platforms-samples # Elastic Beanstalk samples for running on custom platforms
+https://github.com/aws-samples/eb-php-wordpress # Install WordPress securely and run it in a load balanced AWS Elastic Beanstalk environment with an EFS file system for shared assets.
+https://github.com/aws-samples/cloud-builders-day-elastic-beanstalk-workshop # The objective of Cloud Builders' Day repository is to provide do-it-yourself lab guides for several AWS services including but not limited to EC2, S3, DynamoDB, VPC, Elastic Beanstalk, IoT Core & SageMaker.
+https://github.com/aws-samples/aws-elastic-beanstalk-hardened-security-cdk-sample # This is an open-source sample of a CDK script which deploys an Elastic Beanstalk application with a hardened security configuration, it accompanies this blogpost: https://aws.amazon.com/blogs/security/hardening-the-security-of-your-aws-elastic-beanstalk-application-the-well-architected-way/
+https://github.com/aws-samples/eb-php-drupal # Configuration files and instructions for installing Drupal securely and running it in a load balanced AWS Elastic Beanstalk environment with an EFS file system for shared assets.
+https://github.com/aws-samples/elastic-beanstalk-image-pipeline-trigger # Demonstrates how to detect when an Elastic Beanstalk platform's base AMI has been updated and starts an EC2 Image Builder Pipeline to automate the creation of a golden image.
+https://github.com/aws-samples/aws-elastic-beanstalk-deployment-workflow #
+https://github.com/aws-samples/aws-cfn-umbraco-load-balancing-template # Cloud-formation sample, builds a sample infrastructure to enable Umbraco CMS flexible load balancing using Elastic Beanstalk and RDS for content storage.
+https://github.com/aws-samples/java-meme-generator-sample # Java application that uses Elastic Beanstalk, S3, DynamoDB, and SQS to create a meme generation website and processing pipeline.
+https://github.com/aws-samples/beanstalk-gitlab #
+https://github.com/aws-samples/aws-elastic-beanstalk-dotnet-monitoring # Sample code to monitor AWS Elastic Beanstalk .NET applications with Elastic Beanstalk enhanced health, Amazon CloudWatch, and AWS Managed Service for Grafana
+
+https://github.com/awslabs/windows-web-app-migration-assistant # PowerShell utility that migrates .NET applications from Windows servers to AWS Elastic Beanstalk
+https://github.com/awslabs/aws-kinesis-beanstalk-workers # Elastic Beanstalk Managed Consumer for Amazon Kinesis
+
+https://github.com/aws/aws-elastic-beanstalk-cli-setup # Simplified EB CLI installation mechanism.
+https://github.com/aws/aws-elastic-beanstalk-cli # Command line interface for Elastic Beanstalk that provides interactive commands that simplify creating, updating and monitoring environments from a local repository.

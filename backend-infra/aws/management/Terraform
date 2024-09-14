@@ -1,0 +1,249 @@
+https://github.com/aws-solutions-library-samples/guidance-for-iso20022-messaging-workflows-on-aws # This Guidance demonstrates how payment operators can deploy an event-driven architecture to receive, consume, and release ISO 20022 payment messages.
+
+https://github.com/aws-ia/terraform-aws-eks-blueprints # Configure and deploy complete EKS clusters.
+https://github.com/aws-ia/terraform-aws-control_tower_account_factory # AWS Control Tower Account Factory
+https://github.com/aws-ia/ecs-blueprints # Configure and deploy complete ECS solutions with Terraform or CDK
+https://github.com/aws-ia/terraform-aws-eks-blueprints-addons # Terraform module which provisions addons on Amazon EKS clusters
+https://github.com/aws-ia/terraform-aws-vpc # AWS VPC Module
+https://github.com/aws-ia/terraform-aws-mwaa # Terraform module for Amazon MWAA(Apache Airflow)
+https://github.com/aws-ia/terraform-aws-ipam # Terraform Module for create AWS IPAM Resources
+https://github.com/aws-ia/terraform-repo-template # Terraform Module Template
+https://github.com/aws-ia/terraform-aws-rds-aurora # AWS RDS Aurora Module
+https://github.com/aws-ia/terraform-adobe-magento # Adobe Magento
+https://github.com/aws-ia/terraform-aws-eks-blueprints-addon # Terraform AWS module which creates an EKS addon (helm release + IRSA)
+https://github.com/aws-ia/terraform-aws-eks-data-addons # Terraform Module: Deploy Data/ML Addons Helm Charts on EKS 🚀
+https://github.com/aws-ia/terraform-aws-eks-ack-addons # Terraform AWS module which provisions ACK addons on EKS
+https://github.com/aws-ia/terraform-aws-label # AWS Label Module
+https://github.com/aws-ia/terraform-aws-ecs-fargate # AWS ECS Fargate Module
+https://github.com/aws-ia/terraform-aws-storagegateway #
+https://github.com/aws-ia/terraform-aws-eks-blueprints-teams # Configure and deploy Team based multi-tenant EKS clusters.
+https://github.com/aws-ia/terraform-aws-globalnetwork # AWS Global Network Module
+https://github.com/aws-ia/terraform-aws-codebuild # AWS CodeBuild Module
+https://github.com/aws-ia/terraform-aws-polygon-technology-edge # Polygon Edge Terraform module for building Ethereum-compatible blockchain networks in the AWS Cloud
+https://github.com/aws-ia/terraform-aws-network-hubandspoke #
+https://github.com/aws-ia/terraform-aws-mendix-private-cloud # This AWS Partner Solution uses Terraform to deploy a Mendix infrastructure in the AWS Cloud.
+https://github.com/aws-ia/standards-terraform # AWS I&A Terraform Module Standards
+https://github.com/aws-ia/terraform-aws-amazonconnect # Amazon Connect
+https://github.com/aws-ia/terraform-aws-route53-recovery-controller # Terraform Module to deploy Route53 Application Recovery Controller components
+https://github.com/aws-ia/terraform-aws-iam-identity-center #
+https://github.com/aws-ia/terraform-aws-paloalto-vmseries #
+https://github.com/aws-ia/terraform-prefect-agent-ec2 # Terraform module for deploying the Prefect Agent on AWS EC2
+https://github.com/aws-ia/terraform-aws-cloudwan # AWS Terraform Module for creating AWS CloudWAN
+https://github.com/aws-ia/terraform-hashicorp-cloud_workspace # Terraform Cloud Workspace
+https://github.com/aws-ia/terraform-aws-networkfirewall # Terraform module to deploy AWS Network Firewall
+https://github.com/aws-ia/terraform-elastic-cloud # Terraform module automates Elastic Cloud deployment and optional data migration to the AWS Cloud.
+https://github.com/aws-ia/terraform-aws-ecs-cluster # AWS ECS
+https://github.com/aws-ia/terraform-aws-guardduty # Configure and deploy AWS GuardDuty.
+https://github.com/aws-ia/terraform-tfe-workspace-orchestrator # A module for deploying terraform code to Terraform Cloud Workspaces
+https://github.com/aws-ia/terraform-aws-security-hub # Configure and deploy AWS Security Hub.
+https://github.com/aws-ia/terraform-aws-amazon-vpc-lattice-module #
+https://github.com/aws-ia/terraform-aws-resiliencehub-app # AWS Resilience Hub via Terraform to manage the resilience of your applications
+https://github.com/aws-ia/terraform-aws-vpc_endpoints # Terraform AWS VPC endpoints module
+https://github.com/aws-ia/terraform-aws-runtask-iam-access-analyzer #
+https://github.com/aws-ia/terraform-aws-cloudwatch-log-group #
+https://github.com/aws-ia/terraform-aws-serverless-streamlit-app #
+https://github.com/aws-ia/terraform-awscc-dropshare # Terraform Module to create resources for a Dropshare Connection with AWS S3 and AWS CloudFront.
+https://github.com/aws-ia/terraform-aws-rds-custom-for-oracle #
+https://github.com/aws-ia/terraform-aws-ec2-image-builder # Terraform module for EC2 Image Builder
+https://github.com/aws-ia/terraform-hashicorp-cts-alb_listener-nia #
+https://github.com/aws-ia/terraform-aws-swift-digital-connectivity # The Terraform version of the SWIFT Client Connectivity solution
+https://github.com/aws-ia/terraform-aws-genai-document-ingestion-rag #
+https://github.com/aws-ia/copier-terraform-repo-template #
+https://github.com/aws-ia/terraform-vsphere-tags # The vSphere tags Terraform module either creates or imports a tag category as well as a list of tags in your VMware Cloud on AWS or VMware vSphere on-premises environment, and then outputs the configuration of each for use in other Terraform projects.
+https://github.com/aws-ia/terraform-vsphere-content-library # The vSphere content library Terraform module either creates or imports a content library as well as a list of items in your VMware Cloud on AWS or VMware vSphere on-premises environment, and then outputs the configuration of each for use in other Terraform projects.
+https://github.com/aws-ia/terraform-awscc-refactorspaces # Refactor Spaces Terraform Module
+https://github.com/aws-ia/terraform-aws-shield-advanced # Configure and deploy Amazon Shield Advanced
+https://github.com/aws-ia/terraform-aws-sce-tf-community #
+https://github.com/aws-ia/terraform-aws-tf-cloud-agents # Creates self-hosted Terraform Cloud Agent on AWS (https://registry.terraform.io/modules/aws-ia/tf-cloud-agents/aws/latest)
+https://github.com/aws-ia/terraform-aws-lambda-power-tuning #
+https://github.com/aws-ia/terraform-cloudera-cdp # This Amazon Web Services (AWS) Partner Solution uses a Terraform module to deploy Cloudera Data Platform (CDP) in the AWS Cloud.
+https://github.com/aws-ia/terraform-aws-permission-sets #
+https://github.com/aws-ia/terraform-aws-runtask-tf-plan-analyzer #
+https://github.com/aws-ia/terraform-aws-datasync #
+https://github.com/aws-ia/terraform-cisco-secure-firewall #
+https://github.com/aws-ia/terraform-boomi-kubernetes-molecule #
+https://github.com/aws-ia/terraform-aws-resilience-hub #
+https://github.com/aws-ia/terraform-aws-sce-core #
+https://github.com/aws-ia/terraform-aws-amplify-app #
+
+https://github.com/build-on-aws/bootstrapping-terraform-automation # Sample code to show how to bootstrap Terraform with Amazon CodeCatalyst
+https://github.com/build-on-aws/custom-provider-with-terraform-plugin-framework # This repository contains a complete implementation of a custom provider built using HashiCorp's latest SDK called Terraform plugin framework.
+https://github.com/build-on-aws/building-apache-kafka-connectors # Sample code that shows the important aspects of developing custom connectors for Kafka Connect. It provides the resources for building, deploying, and running the code on-premises using Docker, as well as running the code in the cloud.
+https://github.com/build-on-aws/run-kubernetes-clusters-for-less-with-amazon-ec2-spot-and-karpenter # This repo is part of the Run Kubernetes Clusters for Less with Amazon EC2 Spot and Karpenter tutorial. It includes the Terraform template to create the cluster, and all the final versions of the Kubernetes manifests used during the tutorial.
+https://github.com/build-on-aws/manage-multiple-environments-with-terraform # Sample repo showing the main infrastructure managed by Terraform.
+https://github.com/build-on-aws/cicd-pipeline-for-containers # This repository sets up an end-to-end CI/CD container pipeline with Hashicorp Terraform based on native AWS services for hosting and testing application code, building a container image from the code, pushing and storing the container image to ECR, and deploying this container on EKS as a deployment.
+https://github.com/build-on-aws/manage-multiple-environments-with-terraform-environment-infra # Sample repo showing the environment infrastructure managed by Terraform.
+https://github.com/build-on-aws/uscis-priority-date-tracker # This project contains the sample code for a small utility to pull and store the priority dates from the monthly USCIS Visa Bulletins.
+
+https://github.com/aws-samples/amazon-eks-jenkins-terraform # These samples focus on Continuous Integration, and contain installation and configuration of Jenkins on Amazon EC2 using Hashicorp Terraform (Open Source)
+https://github.com/aws-samples/terraform-eks-code #
+https://github.com/aws-samples/aws2tf # aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
+https://github.com/aws-samples/amazon-ecs-fullstack-app-terraform # Fullstack app using Amazon ECS & DevOps methodologies (IaC with Terraform and CI/CD with AWS CodePipeline)
+https://github.com/aws-samples/aws-codepipeline-terraform-cicd-samples #
+https://github.com/aws-samples/aws-security-services-with-terraform # Code examples for the AWS Security Blog post: How to use CI/CD to deploy and configure AWS security services with Terraform
+https://github.com/aws-samples/aws-service-catalog-terraform-reference-architecture # Apply Terraform configurations using CloudFormation through a proxy lambda
+https://github.com/aws-samples/aws-proton-terraform-sample-templates # Sample Terraform templates for AWS Proton
+https://github.com/aws-samples/aws-proton-workshop-code # AWS Proton workshop - Sample Cloudformation and Terraform Templates
+https://github.com/aws-samples/service-catalog-engine-for-terraform-os #
+https://github.com/aws-samples/terraform-eks-workshop #
+https://github.com/aws-samples/ci-4-terraform-aws-developer-tools-terratest # The module presented in this repository contains code to deploy Continuous Integration (CI) solution based on CodePipeline, CodeBuild and Terratest library, offering the ability to run E2E tests on Terraform modules in an automated way.
+https://github.com/aws-samples/aws-network-firewall-terraform # This repository contains terraform code to deploy the necessary resources to get started to test AWS Network Firewall.
+https://github.com/aws-samples/aws-apprunner-terraform # Build and Deploy Spring Petclinic Application to AWS App Runner using Terraform and AWS CodePipeline
+https://github.com/aws-samples/aws-multi-region-cicd-with-terraform # A multi region CI/CD pipeline with AWS CodePipeline and AWS CodeBuild in Terraform
+https://github.com/aws-samples/aws-network-hub-for-terraform # This repository demonstrates a scalable, segregated, secured AWS network hub for multi-account organizations using Terraform.
+https://github.com/aws-samples/aws-control-tower-controls-terraform # This repository describes how to use AWS Control Tower controls, HashiCorp Terraform, and infrastructure as code (IaC) to implement and administer preventive, detective, and proactive security controls. A control (also known as a guardrail) is a high-level rule that provides ongoing governance for your overall AWS Control Tower environment.
+https://github.com/aws-samples/amazon-eks-machine-learning-with-terraform-and-kubeflow # Distributed training using Kubeflow on Amazon EKS
+https://github.com/aws-samples/aws-scps-with-terraform # Deploy Service Control Policies (SCPs) with Terraform
+https://github.com/aws-samples/eks-blueprints-for-terraform-workshop #
+https://github.com/aws-samples/amazon-sagemaker-ml-pipeline-deploy-with-terraform #
+https://github.com/aws-samples/aws-waf-firewall-manager-terraform #
+https://github.com/aws-samples/terraform-sample-workshop #
+https://github.com/aws-samples/terraform-aws-sap-netweaver-on-hana # Terraform modules for deploying highly configurable SAP products on AWS.
+https://github.com/aws-samples/aws-proton-terraform-github-actions-sample #
+https://github.com/aws-samples/karpenter-terraform # Terraform module and installation script for Karpenter
+https://github.com/aws-samples/sagemaker-mlops-with-terraform #
+https://github.com/aws-samples/amazon-guardduty-for-aws-organizations-with-terraform # Using Terraform to enable Amazon GuardDuty for accounts in AWS Organizations.
+https://github.com/aws-samples/aws-waf-automation-terraform-samples #
+https://github.com/aws-samples/aws-sam-terraform-examples #
+https://github.com/aws-samples/aws-terraform-pipeline # Deploy Terraform ... with Terraform.
+https://github.com/aws-samples/aws-security-reference-architecture-examples # Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terraform.
+https://github.com/aws-samples/hub-and-spoke-with-inspection-vpc-terraform #
+https://github.com/aws-samples/terraform-aws-windows-workloads-on-aws # Terraform modules for deploying highly configurable Windows workloads on AWS.
+https://github.com/aws-samples/multi-region-org-config-rules-terraform #
+https://github.com/aws-samples/aws-ingesting-click-logs-using-terraform # Provision AWS infrastructure using Terraform (By HashiCorp): an example of web application logging customer data
+https://github.com/aws-samples/mlops-multi-account-terraform # Secure and scalable MLOps platform on AWS using Terraform.
+https://github.com/aws-samples/hub-and-spoke-with-shared-services-vpc-terraform # Terraform repository that shows how to create a Shared Services VPC (VPC endpoints and Route 53 Resolver Endpoints) in an Hub and Spoke Architecture with AWS Transit Gateway.
+https://github.com/aws-samples/aft-workshop-sample # Collection of sample Terraform configuration for AFT workshop
+https://github.com/aws-samples/amazon-eks-bottlerocket-mngnodegrp-terraform #
+https://github.com/aws-samples/codepipeline-for-lambda-using-terraform #
+https://github.com/aws-samples/aws-startup-landing-zone-terraform-example #
+https://github.com/aws-samples/opensearch-in-vpc # Terraform module for deploying Amazon OpenSearch Service domain inside VPC
+https://github.com/aws-samples/secured-bastion-host-terraform # This project provides and example of how you can use the combination of AWS Systems Manager Session Manager and Amazon EC2 Instance Connect to securely connect to an Amazon Elastic Compute Cloud (Amazon EC2) bastion host without exposing any inbound ports to the public internet or using long-lived SSH keys.
+https://github.com/aws-samples/aws-emr-serverless-using-terraform #
+https://github.com/aws-samples/aws-infra-policy-as-code-with-terraform # Implements OPA-based preventive security controls for AWS Infrastructure using Terraform Infrastructure as Code (IaC), that can establish a security baseline and safeguard resources before deployment into the AWS Accounts and reduce security risks.
+https://github.com/aws-samples/terraform-ec2-image-builder-container-hardening-pipeline # Terraform modules for an EC2 Image Builder Pipeline with an Amazon Linux 2 Baseline Container Recipe, which is used to deploy a Docker based Amazon Linux 2 Container Image that has been hardened according to RHEL 7 STIG Version 3 Release 7 - Medium.
+https://github.com/aws-samples/devsecops-terraform-dojo-codepipeline #
+https://github.com/aws-samples/cloudwatch-obervability-access-manager-terraform # This repository shows how to setup Centralized CloudWatch Observability Manager using Terraform
+https://github.com/aws-samples/aws-cicd-patch-management-terraform # Software patching with AWS Systems Manager
+https://github.com/aws-samples/mlops-terraform-template #
+https://github.com/aws-samples/configure-keycloak-on-eks-using-terraform #
+https://github.com/aws-samples/gitlab-cicd-runners-terraform # Sample Terraform module to automate the creation and isolation of self-hosted GitLab runners per environment on AWS
+https://github.com/aws-samples/aws-modernization-with-hashicorp-terraform #
+https://github.com/aws-samples/private-eks-for-windows-workloads-with-terraform # This repository provides a Terraform implementation that deploys an Amazon EKS cluster in a private VPC and deploys Windows and Linux worker nodes into the cluster.
+https://github.com/aws-samples/manage-terraform-statefiles-in-aws-pipeline #
+https://github.com/aws-samples/terraform-checkov-validation-pipeline #
+https://github.com/aws-samples/cloudwatch-synthetics-canary-terraform # The objective of this code is to remove as many difficulties as possible when trying to deploy canaries with terraform.
+https://github.com/aws-samples/amazon-eks-self-managed-node-group # Terraform module to create Amazon EKS self-managed node groups on AWS
+https://github.com/aws-samples/amazon-autoscaling-mac1metal-ec2-with-terraform #
+https://github.com/aws-samples/aws-terraform-best-practices #
+https://github.com/aws-samples/terraform-aws-scheduled-switch # Spin up and down your Terraform resources on schedule!
+https://github.com/aws-samples/eks-cluster-upgrades-workshop # Source repo of the eks-upgrades workshop
+https://github.com/aws-samples/terraform-cni-custom-network-sample # Sample terraform code to create an EKS cluster with CNI custom networking alongside security group for pods
+https://github.com/aws-samples/use-github-and-terraform-to-deploy-web-applications # How to use GitHub Actions and Terraform to deploy a Microsoft Web Application
+https://github.com/aws-samples/terraform-rag-template-using-amazon-bedrock #
+https://github.com/aws-samples/sagemaker-domain-vpconly-canvas-with-terraform # Terraform code to deploy a SageMaker domain in VPC-only mode that supports multiple Studio and Canvas features
+https://github.com/aws-samples/aws-security-hub-glue-aggregator-terraform # These Terraform modules aggregate Security Hub findings to centralized account using Amazon Kinesis Firehose and AWS Glue
+https://github.com/aws-samples/eks-blueprints-actions-workflow # How to deploy EKS Clusters with the Terraform EKS Blueprints and GitHub Actions Workflows
+https://github.com/aws-samples/multi-cluster-allocation-demo-for-agones-on-eks # Terraform code to deploy multi-cluster configuration Agones on Amazon EKS
+https://github.com/aws-samples/mlops-with-terraform-sagemaker-and-code-pipelines #
+https://github.com/aws-samples/aws-glue-sagemaker-notebook-terraform-example #
+https://github.com/aws-samples/terraform-workloads-ready-eks-accelerator #
+https://github.com/aws-samples/aws-hub-and-spoke-with-connect-peer-terraform #
+https://github.com/aws-samples/aws-vpc-peering-terraform-inspec #
+https://github.com/aws-samples/aws-central-alb-ingress-for-private-eks-terraform #
+https://github.com/aws-samples/route-53-application-recovery-controller-codepipeline-with-terraform #
+https://github.com/aws-samples/dynamic-iis-website-using-fsx-terraform-code-quickstart # This project addresses typical customer requirement in mass migrations when customer want to re-host their IIS web application on cloud by storing static assets in the shared location. In this use-case FSx for windows file server is used as the shared location and shared across all web servers behind the load-balancer.
+https://github.com/aws-samples/aws-account-alternate-contact-with-terraform # Terraform module for AWS blog post on how to manage AWS account alternate contacts with Terraform
+https://github.com/aws-samples/aws-devops-pipeline-accelerator # Standardised pipeline accelerators for AWS CodePipeline and GitLab CI for Infrastructure provisioning tools like CloudFormation, CDK and Terraform
+https://github.com/aws-samples/aws-terraform-reusable-workflow #
+https://github.com/aws-samples/vmware-cloud-on-aws-terraform-examples # Example HashiCorp Terraform templates for VMware Cloud on AWS
+https://github.com/aws-samples/aws-dms-terraform #
+https://github.com/aws-samples/terraform-aws-compute-optimizer #
+https://github.com/aws-samples/terraform-datalake-scripts #
+https://github.com/aws-samples/aws-terraform-cross-account-kinesis-example # This Example demonstrates how to build a cross-account Data Pipeline using terraform, kinesis, s3 and Amazon EMR
+https://github.com/aws-samples/aws-transit-gateway-vpc-terraform # This project is Terraform Infrastructure as code (IaC) script to create a AWS Transit Gateway, two VPCs, attachments to TGW and updating the route tables.
+https://github.com/aws-samples/aws-control-tower-terraform-modules #
+https://github.com/aws-samples/web-hosting-architecture-examples-for-china-region-terraform # This repo provides sample terraform codes to setup a web hosting architecture in China region (cn-north-1/cn-northwest-1), you could get started with your China region journey easily via this.
+https://github.com/aws-samples/terraform-aws-batch #
+https://github.com/aws-samples/aws-financial-services-framework-secret-for-terraform #
+https://github.com/aws-samples/identity-center-with-terraform # Manage AWS IAM Identity Center permission sets and account assignments with Terraform.
+https://github.com/aws-samples/aws-msk-cross-account-connectivity-sample # This repo is used to implement the Amazon MSK clusters cross-account connectivity using Terraform
+https://github.com/aws-samples/ecs-terraform-capacity-provider #
+https://github.com/aws-samples/network-firewall-supervisor-terraform #
+https://github.com/aws-samples/aws-sap-on-ase-with-jenkins-terraform-ansible #
+https://github.com/aws-samples/aws-tf-prowler-fargate # Terraform module to perform security assessment in AWS Organizations using Prowler on AWS Fargate.
+https://github.com/aws-samples/aws-sample-infra-resources-terraform # A sample infra resources code in Terraform that goes into a target workload account. This code is pushed into the AWS CodeCommit repo for our sample.
+https://github.com/aws-samples/aws-continuous-compliance-for-terraform #
+https://github.com/aws-samples/aws-sec-checkov-terraform #
+https://github.com/aws-samples/aws-network-firewall-strict-rule-ordering-terraform #
+https://github.com/aws-samples/automating-scp-exemptions-in-multi-account-environments-with-terraform #
+https://github.com/aws-samples/aws-cloud9-for-cross-account-cross-region-deployment-of-terraform #
+https://github.com/aws-samples/create-amazon-emr-transient-cluster-using-terraform #
+https://github.com/aws-samples/aws-terraform-template #
+https://github.com/aws-samples/codeartifact-retention-policy # Terraform module implementing the retention policy for the artifacts published in repositories managed in AWS CodeArtifact.
+https://github.com/aws-samples/wickr-enterprise-high-availability-terraform #
+https://github.com/aws-samples/nice-dcv-with-fsx-for-windows-terraform-sample #
+https://github.com/aws-samples/serverless-voting-app-with-terraform #
+https://github.com/aws-samples/cross-account-ami-monitoring-terraform-samples #
+https://github.com/aws-samples/amazon-connect-gitlab-cicd-terraform #
+https://github.com/aws-samples/aws-terraform-db-migration-framework-samples #
+https://github.com/aws-samples/aws-codecommit-s3-backups-with-terraform # Backup your AWS CodeCommit repositories to S3 with Terraform
+https://github.com/aws-samples/terraform-wavelength-infrastructure #
+https://github.com/aws-samples/cdktf-aws-elb-cognito-auth # Website included AWS ALB authenticate users with AWS Cognito using Terraform CDK
+https://github.com/aws-samples/enable-session-manager-terraform #
+https://github.com/aws-samples/rds-proxy-iac-terraform # This project has infrastructure as code to create an Amazon RDS Proxy in your existing architecture with an Amazon RDS PostreSQL database.
+https://github.com/aws-samples/s3-ssl-only-alerting-terraform # Code for solution on s3-ssl-only alerting and remediation
+https://github.com/aws-samples/aws-macie-customization-terraform-samples #
+https://github.com/aws-samples/building-serverless-applications-with-terraform # Building Serverless applications with Terraform
+https://github.com/aws-samples/aws-blu-age-sample-ecs-infrastructure-using-terraform #
+https://github.com/aws-samples/eks-jumphost # Terraform module to create an EC2 instance used as a jumphost to interact with a private EKS cluster.
+https://github.com/aws-samples/identity-center-users-and-groups-with-terraform # Create AWS IAM Identity Center groups, users, and group membership with Terraform.
+https://github.com/aws-samples/apigateway-deployment-lifecycle-management-terraform #
+https://github.com/aws-samples/hub-and-spoke-with-traffic-segmentation # Terraform Repository that shows how traffic segmentation can be achieved in a Hub and Spoke architecture with AWS Transit Gateway Route Tables.
+https://github.com/aws-samples/euc-amazon-appstream2-terraform-automation #
+https://github.com/aws-samples/aws-trusted-advisor-glue-aggregator-terraform # These Terraform modules aggregate the AWS Trusted Advisor results from different accounts to a centralised account, using AWS Lambda, AWS IAM, Amazon S3 and Amazon SQS
+https://github.com/aws-samples/cict-terraform-scripts #
+https://github.com/aws-samples/centralized-iam-key-management-aws-organizations-terraform #
+https://github.com/aws-samples/s3-presignedurl-staticips-endpoint-with-terraform # This solution simplifies access to Amazon S3 by creating secure, custom presigned URLs for object downloads through a single endpoint with a unique domain and static IPs. It's tailored
+for clients who require consolidation of both API and S3 endpoints under a unified domain with static IPs.
+https://github.com/aws-samples/crdb-cluster-eks-terraform #
+https://github.com/aws-samples/amazon-codeguru-terraform-detectors #
+https://github.com/aws-samples/aws-tf-transfer-sftp-efs # AWS Transfer Family SFTP Server using Amazon EFS domain with automated operations
+https://github.com/aws-samples/terraform-sagemaker-canvas-auto-shutdown #
+https://github.com/aws-samples/terraform-eks-blueprints-kong-samples #
+https://github.com/aws-samples/provision-fsx-lustre-with-terraform #
+https://github.com/aws-samples/aws-m2-example-with-terraform # AWS Mainframe Modernization now available in Terraform
+https://github.com/aws-samples/aws-config-detect-environment-variables-secrets-terraform # This Terraform module create a custom rule on AWS Config that detects secrets/tokens in the Lambda functions in the account.
+https://github.com/aws-samples/centralized-backup-with-aws-backup-and-terraform # Use Terraform to automate the deployment of your AWS Backup resources across accounts in your organization.
+https://github.com/aws-samples/safeguarding-payments-fraud-detection-ai-ml-and-data-insights # Safeguarding Payments: Fraud Detection, AI/ML and Data Insights
+https://github.com/aws-samples/pega-on-eks-aurora-postgresql # Welcome to blueprint for running Pega platform on Amazon EKS (Tomcat) and Amazon Aurora PostgreSQL using Terraform and Helm.
+https://github.com/aws-samples/rds-oracle-terraform #
+https://github.com/aws-samples/minimum-viable-dataspace-for-catenax # Minimum Viable Dataspace for Catena-X on AWS
+https://github.com/aws-samples/iam-credential-rotator-terraform # a reusable Terraform module to automate the rotation of IAM user keys in AWS, managing the creation, deletion, and deactivation of keys.
+https://github.com/aws-samples/amazon-eks-use-sbom-to-find-container-image-with-vulnerable-software # This repo hosts Terraform code for generating and analyzing Software Bill of Materials (SBOM) for Amazon ECR images. It helps identify Amazon EKS images with vulnerable software components using Amazon Athena.
+https://github.com/aws-samples/aws-cloudfront-automation-terraform-samples #
+https://github.com/aws-samples/aws-tf-efs # Provision secured Amazon EFS for the enterprise use cases including backup and cross-region replica
+https://github.com/aws-samples/amazon-redshift-sql-deploy-terraform #
+https://github.com/aws-samples/amazon-rds-db2-terraform #
+https://github.com/aws-samples/aws-lambda-ad-cleanup-terraform-samples #
+https://github.com/aws-samples/deploy-self-hosted-github-runner-eks-using-terraform #
+https://github.com/aws-samples/aft-bootstrap-pipeline # This repository contains the infrastructure as code to bootstrap your AWS Control Tower Account Factory for Terraform (AFT) following the best practices.
+https://github.com/aws-samples/aws-tf-kms # Scale usage of AWS KMS keys for AWS Services with multi-region replica and cross-account access
+https://github.com/aws-samples/ai-chat-accelerator # Get up and running quickly with an AI chat application on AWS that provides a foundation to build upon.
+https://github.com/aws-samples/awsome-fmops # Collection of bet practices, reference architectures, examples, and utilities for foundation model development and deployment on AWS.
+https://github.com/aws-samples/cluster-amazon-elastic-compute-cloud-amazon-fsx-microsoft-sql-server # The included terraform module provisions SQL Server Failover Cluster Instances (FCI) across Windows Server Failover Clustering (WSFC) nodes on Amazon EC2 with an Amazon FSx for Windows File Server (Amazon FSx) share acting as the quorum witness and storing shared data and log files.
+https://github.com/aws-samples/crossplane-on-eks-workshop # Repository dedicated for the ACK and Crossplane Workshop provided by AWS
+https://github.com/aws-samples/aft-custom-sso-assignment # This solution will introduce a solution that seamlessly integrates AWS Control Tower Account Factory Terraform (AFT) with 3rd Party Single Sign-On (SSO) products, enhancing large-scale account onboarding process with choice of SSO while creating AWS Accounts
+https://github.com/aws-samples/aft-account-suspend-close-solution # Sample solution that leverages AWS Control Tower Account Factory Terraform (AFT) to streamline the account closure and suspension process. The solution aims to provide a reliable, efficient, and fast way to manage the decommissioning of AWS accounts from organizations.
+
+https://github.com/awslabs/terraform-iam-policy-validator # A command line tool that validates AWS IAM Policies in a Terraform template against AWS IAM best practices
+https://github.com/awslabs/aws-terraform-dev-container # A VSCode Dev Container with tools to help you build and manage AWS infrastructure with Terraform
+https://github.com/awslabs/tecli # In a world where everything is Terraform, teams use Terraform Cloud API to manage their workloads. TECLI increases teams productivity by facilitating such interaction and by providing easy commands that can be executed on a terminal or on CI/CD systems.
+https://github.com/awslabs/serverless-rules # Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
+https://github.com/awslabs/data-on-eks # DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS
+https://github.com/awslabs/well-architected-lab300-aws-organization-data-terraform-module #
+https://github.com/awslabs/well-architected-lab200-pricing-model-analysis-terraform-module #
+https://github.com/awslabs/aws-verified-access-poc-terraform # This artifact uses Terraform IaC to deploy a simple web application behind AWS Verified Access (AVA) as Proof of Concept (POC) that can be used to demonstrate the capabilities of AVA or as a base to build upon with additional features.
+https://github.com/awslabs/clencli # CLENCLI enables you to quickly and predictably create, change, and improve your cloud projects. It is an open source tool that simplifies common tasks that many Cloud engineers have to perform on a daily basis by creating and maintaining the code structure and its documentation always up-to-date.
+https://github.com/awslabs/well-architected-lab300-aws-compute-optimiser-collector-terraform-module #
+https://github.com/awslabs/protonizer # A CLI tool for working with IaC in AWS Proton

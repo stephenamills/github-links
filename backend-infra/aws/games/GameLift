@@ -1,0 +1,24 @@
+https://github.com/aws-solutions-library-samples/guidance-for-persistent-world-game-hosting-on-aws # Guidance for getting quickly started with hosting persistent world games and virtual worlds on AWS leveraging Amazon GameLift, a fully managed game server hosting solution, with a serverless backend service and management layer.
+https://github.com/aws-solutions-library-samples/guidance-for-custom-game-backend-hosting-on-aws # The AWS Game Backend Framework allows you to integrate your game clients with AWS backend services, with secure scalable identity management and authentication, and integrations to commonly used game platform identity providers and game engines.
+
+https://github.com/aws-samples/aws-gamelift-sample # A simple full-stack game sample using GameLift and AWS services.
+https://github.com/aws-samples/aws-gamelift-and-serverless-backend-sample # DEPRECATED: Please refer to the website link for the latest version under AWS Game Backend Framework
+https://github.com/aws-samples/amazon-gamelift-unity # A multi-player game sample (server and client), developed with the Unity game engine, illustrating basic integration with Amazon GameLift. View the sample source code or build the project and experiment with game
+server deployment on the Amazon GameLift service. https://github.com/aws-samples/amazon-gamelift-ultrafrogroyale-large-match-sample # A small sample game that demonstrates how to use GameLift FlexMatch new large match features.
+https://github.com/aws-samples/amazon-gamelift-unreal-engine # This repository contains code used for the video series, Building Games on AWS: Amazon GameLift with Unreal Engine.
+https://github.com/aws-samples/amazon-gamelift-persistent-sample #
+https://github.com/aws-samples/amazon-gamelift-testing-toolkit # Amazon GameLift Testing Toolkit
+https://github.com/aws-samples/amazon-gamelift-remote-plus #
+https://github.com/aws-samples/amazon-gamelift-fleetiq-with-amazon-ecs #
+https://github.com/aws-samples/spatial-computing-index #
+https://github.com/aws-samples/serverless-trivia-game # The Simple Trivia Service example serverless web game. See the Compute Blog series and video series for more information. Contact @timbrucemi for info.
+https://github.com/aws-samples/amazon-gamelift-anywhere-sample #
+https://github.com/aws-samples/use-gamelift-to-integrate-java-game-server-to-build-a-flexible-game-service-cluster #
+https://github.com/aws-samples/jp-contents-hub # AWS の日本語用ハンズオンなどを掲載するウェブサイト
+
+https://github.com/awslabs/fleetiq-adapter-for-agones # For running containerized game servers on Spot instances reliably and safely
+
+https://github.com/aws/amazon-gamelift-plugin-unity # The Amazon GameLift Plugin for Unity contains libraries and native UI that makes it easier to access GameLift resources and integrate GameLift into your Unity game. You can use the GameLift Unity Plugin to access GameLift APIs and deploy AWS CloudFormation templates for common gaming scenarios.
+https://github.com/aws/amazon-gamelift-plugin-unreal # The Amazon GameLift Plugin for Unreal contains libraries and native UI that makes it easier to access GameLift resources and integrate GameLift into your Unreal game. You can use the GameLift Unreal Plugin to access GameLift APIs and deploy AWS CloudFormation templates for common gaming scenarios.
+https://github.com/aws/amazon-gamelift-agent # GameLiftAgent is a Java application that is used to launch game server processes on Amazon GameLift fleets.
+https://github.com/aws/amazon-gamelift-toolkit #

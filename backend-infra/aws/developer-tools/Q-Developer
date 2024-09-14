@@ -1,0 +1,22 @@
+https://github.com/build-on-aws/gen-ai-workshop # Learn how to build generative AI applications on AWS using PartyRock, Amazon Bedrock, and Amazon Q
+https://github.com/build-on-aws/next-gen-workshop-data-playground # Learn to use Amazon Q for coding, debugging, and data analytics
+
+https://github.com/aws-samples/custom-web-experience-with-amazon-q-business # Build a custom user interface for more tailored, controlled, and consolidated interactions with Amazon Q business.
+https://github.com/aws-samples/amazon-q-business-code-analysis #
+https://github.com/aws-samples/aws-appconfig-java-sample # A Sample Java Microservices application to demo the capabilities of Amazon Q Developer agent for Code Transformation.
+https://github.com/aws-samples/amazon-q-teams-gateway #
+https://github.com/aws-samples/amazon-q-business-user-feedback-solution #
+https://github.com/aws-samples/amazon-quicksight-embedding-code-sample #
+https://github.com/aws-samples/support-insights-with-amazon-q # Support Case Insights with Amazon Q
+https://github.com/aws-samples/quickstart-for-amazon-q # This repository includes a Jupyter notebook that will introduce you to Amazon Q for software developers.
+https://github.com/aws-samples/data-insights-with-amazon-q-business # Amazon Q Business enables querying structured data using natural language, leveraging schemas and metadata. This example dem
+onstrates an architecture to query cost and usage data in Amazon Athena with Q Business. The solution can be extended to additional data sources with query validation and prompting techniques for broader use cases.
+https://github.com/aws-samples/amazon-q-in-connect-s3-integration-template # Amazon Q in Connect - S3 Integration Template: Automatically deploy and integrate Amazon Connect with Amazon Q in Con
+nect Knowledge Base using Amazon S3 as its data source. Contact center administrators can quickly and easily manage knowledge content using familiar Amazon S3 actions.
+https://github.com/aws-samples/configuring-qbusiness-with-idc-tti # Sample to configure Amazon Q Business Identity-Aware APIs with AWS IAM Identity Center Trusted Token Propagation
+https://github.com/aws-samples/mediasearch-with-amazon-q-transcribe #
+https://github.com/aws-samples/amazon-q-custom-connectors #
+https://github.com/aws-samples/create-security-observability-using-generative-ai-with-security-lake-and-amazon-q-for-quicksight #
+
+https://github.com/aws/aws-toolkit-vscode # Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+https://github.com/aws/amazon-q-connectjs #

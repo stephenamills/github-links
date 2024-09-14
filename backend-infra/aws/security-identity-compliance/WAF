@@ -1,0 +1,38 @@
+https://github.com/aws-samples/aws-waf-dashboard # 1 click deployment for creating AWS WAF dashboard
+https://github.com/aws-samples/amazon-guardduty-waf-acl # AWS GD2ACL
+https://github.com/aws-samples/aws-waf-ops-dashboards #
+https://github.com/aws-samples/aws-waf-firewall-manager-terraform #
+https://github.com/aws-samples/wafv2-json-yaml-samples #
+https://github.com/aws-samples/aws-cdk-amplify-with-waf # enable WAF for Amplify Hosted web applications
+https://github.com/aws-samples/aws-waf-automation-terraform-samples #
+https://github.com/aws-samples/amazon-cloudfront-waf-secretsmanager # Enhance Amazon CloudFront Origin Security with AWS WAF and AWS Secrets Manager
+https://github.com/aws-samples/aws-waf-embargoed-countries-ofac # The article provides a push-button solution to protect your infrastructure against incoming traffic from embargoed countries as defined by OFAC
+https://github.com/aws-samples/aws-waf-ipset-auto-update-aws-ip-ranges # This project creates two regional WAF IP sets and automatically updates them with AWS service's IP ranges from the ip-ranges.json file. The ranges are configurable as well as the regions for EC2 ranges. Use cases include allowing CloudFront requests, Route53 health checker and EC2 IP range (which includes AWS Lambda and CloudWatch Synthetics).
+https://github.com/aws-samples/aws-waf-managed-rules-blog-post-2020 # AWS CloudFormation templates for the blog post regarding Defense in Depth using AWS Managed Rules
+https://github.com/aws-samples/elevate-api-security-with-cognito-and-waf #
+https://github.com/aws-samples/aws-cdk-deploy-lamp-with-waf-r53-alb # Deploy a secure and highly available LAMP stack application using AWS WAF, Application Load Balancer, AWS Route 53 and secured by a TLS certificate using AWS Certificate Manager. We walk you through how to launch this classic layered architecture LAMP stack application that can host a variety of popular web applications, such as WordPress, Wikipedia, and Drupal in minutes.
+https://github.com/aws-samples/how-to-identify-and-block-fake-crawler-bots-using-aws-waf #
+https://github.com/aws-samples/aws-waf-anomaly-detection #
+https://github.com/aws-samples/aws-waf-rate-based-rule-customized-block-period # Solution to customize the block period for an AWS WAF rate-based rule to prevent malicious actors from reusing the same set of IP addresses for generating HTTP request floods
+https://github.com/aws-samples/aws-waf-for-event-analysis-dashboard #
+https://github.com/aws-samples/aws-waf-bot-control-api-protection-with-captcha #
+https://github.com/aws-samples/waf-config #
+https://github.com/aws-samples/aws-waf-captcha-react-demo #
+https://github.com/aws-samples/waf-log-sample-athena-queries #
+https://github.com/aws-samples/threat-level-automation-for-aws-waf #
+https://github.com/aws-samples/aws-waf-manage-rate-based-rules #
+https://github.com/aws-samples/accelerate-protect-website-using-cloudfront-and-aws-waf #
+https://github.com/aws-samples/injection-sample-for-aws-waf-sdk #
+https://github.com/aws-samples/aws-route53-weighted-alb-waf #
+https://github.com/aws-samples/automated-silicon-wafer-anomaly-detection-using-amazon-lookout-for-vision #
+https://github.com/aws-samples/amazon-guardduty-waf-acl-ssm #
+https://github.com/aws-samples/deploy-waf-rules-using-firewall-manager #
+https://github.com/aws-samples/update-aws-ip-ranges # Lambda function that automatically create or update AWS resource with AWS service's IP ranges from the ip-ranges.json file.
+https://github.com/aws-samples/usage-report-for-aws-waf-classic-rules # Create a report of AWS WAF Classic resources, including Regional Web ACLs and CloudFront Web ACLs, along with their associated resources.
+https://github.com/aws-samples/ps-wafr-custom-lenses # This repository offers operational and application design frameworks addressing the specific challenges of public sector using AWS Well-Architected-Tool.
+https://github.com/aws-samples/waf-and-shield-advanced-price-comparison #
+https://github.com/aws-samples/integrate-httpapi-with-cloudfront-and-waf #
+https://github.com/aws-samples/ip-and-geolocation-restriction-with-waf-cdk #
+https://github.com/aws-samples/prediction-app-with-amazon-redshift-ml-and-api-gateway # A sample on how to create a machine learning prediction API based on data in Amazon Redshift
+
+https://github.com/awslabs/aws-cloudfront-extensions # The CloudFront Extensions is a solution package as handy extension for using Amazon CloudFront.

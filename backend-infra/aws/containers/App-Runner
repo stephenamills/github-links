@@ -1,0 +1,35 @@
+https://github.com/build-on-aws/amazon-bedrock-apprunner-chatterdox-webapp # Use Amazon Bedrock and LangChain to build an application to chat with web pages - deploy the Go web app with AWS CDK and start asking questions!
+
+https://github.com/aws-samples/apprunner-python-app #
+https://github.com/aws-samples/apprunner-hotel-app #
+https://github.com/aws-samples/aws-apprunner-terraform # Build and Deploy Spring Petclinic Application to AWS App Runner using Terraform and AWS CodePipeline
+https://github.com/aws-samples/app-runner-short-clip-demo # This repository demos our AWS App Runner service
+https://github.com/aws-samples/aws-apprunner-cdk # Build and Deploy Spring Petclinic Application to AWS App Runner using AWS CDK.
+https://github.com/aws-samples/pizza-delivery-tracker # Pizza Delivery Tracker using AWS Amplify, Amazon Location Service, AWS AppRunner, and AWS Fargate.
+https://github.com/aws-samples/apprunner-leaderboard-backend #
+https://github.com/aws-samples/apprunner-leaderboard-frontend #
+https://github.com/aws-samples/redcap-on-aws #
+https://github.com/aws-samples/aws-apprunner-netcore #
+https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-aws-app-runner # Train an XGBoost regression model on Amazon SageMaker and host inference as an API on a Docker container running on AWS App Runner.
+https://github.com/aws-samples/aws-app-runner-buildpacks-example #
+https://github.com/aws-samples/apprunner-multiregion # This project contains infrastructure and application source code for deploying a sample, highly resilient, multi-region application running on AWS AppRunner and DynamoDB
+https://github.com/aws-samples/aws-copilot-pubsub # Simple pub/sub architecture with AWS Copilot
+https://github.com/aws-samples/amazon-connect-ivr-searchandplay #
+https://github.com/aws-samples/cdk-apprunner-ecr #
+https://github.com/aws-samples/Rent-A-Room # Single-page application with 4 pages: home, rooms, login, and register.
+https://github.com/aws-samples/codecatalyst-devicefarm-integration #
+https://github.com/aws-samples/textract-boleto-reader # This project aims to show the art of the possible in relation to the use of Amazon Textract to read and extract all fields and values from Brazilian bank slips (Boleto), as well as the barcode number
+https://github.com/aws-samples/aws-cdk-lambda-automated-testing # Demonstrates automatic testing of both AWS Lambda codefiles and the AWS CDK constructs that deploy them. Has both a standalone version, and a continuous delivery version powered by CDK Pipelines.
+https://github.com/aws-samples/waitcondition-hook-for-aws-fargate-task #
+https://github.com/aws-samples/aws-codepipeline-publish-nodejs-modules # Publishing Node.js Modules on AWS CodeArtifact using AWS CodePipeline
+https://github.com/aws-samples/nitro-enclave-blockchain-wallet-on-eks # AWS Nitro Enclave based blockchain workload on Amazon EKS
+
+https://github.com/awslabs/amazon-app-runner-deploy # Registers an AWS AppRunner Service and deploys the application using the source code of a given GitHub repository. Supports both source code and Docker image based service
+https://github.com/awslabs/llrt # LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+https://github.com/awslabs/service-workbench-on-aws # A platform that provides researchers with one-click access to collaborative workspace environments operating across teams, universities, and datasets while enabling university IT stakeholders to manage, monitor, and control spending, apply security best practices, and comply with corporate governance.
+https://github.com/awslabs/aws-greengrass-labs-containerized-secure-tunneling #
+
+https://github.com/aws/copilot-cli # The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
+https://github.com/aws/apprunner-roadmap # This is the public roadmap for AWS App Runner.
+https://github.com/aws/containers-roadmap # This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+https://github.com/aws/aws-dotnet-deploy # Opinionated tooling that simplifies deployment of .NET applications to AWS.

@@ -1,0 +1,84 @@
+https://github.com/aws-solutions-library-samples/aws-insurancelake-infrastructure # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake ETL with CDK Pipelines project.
+https://github.com/aws-solutions-library-samples/aws-insurancelake-etl # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake Infrastructure project
+https://github.com/aws-solutions-library-samples/guidance-for-multi-modal-data-analysis-with-aws-health-and-ml-services # An end-to-end framework for storing, integrating, and analyzing multimodal HCLS data on AWS, using AWS HealthOmics, AWS HealthLake, AWS HealthImaging, Amazon SageMaker, Amazon Athena, Amazon QuickSight, and Amazon S3.
+https://github.com/aws-solutions-library-samples/guidance-for-connecting-data-products-with-amazon-datazone # This Guidance demonstrates how you can extend the data governance capabilities of Amazon DataZone to other Java Database Connectivity (JDBC) sources, such as MySQL, PostgreSQL, Oracle, and SQL Server.
+https://github.com/aws-solutions-library-samples/guidance-for-understanding-your-data-lineage-on-amazon-quickSight # This Guidance demonstrates how to trace and better understand your data lineage in Amazon QuickSight. This allows you to visualize and analyze the usage and relationships of data sources and datasets. With this new automated architecture, you can reduce the time spent tracing QuickSight data lineage from weeks to minutes.
+https://github.com/aws-solutions-library-samples/guidance-for-patient-entity-resolution-with-aws-healthlake # AWS HealthLake patient matching with AWS Entity Resolution.This Guidance shows how to use AWS Entity Resolution to perform patient entity resolution on healthcare data stored in AWS HealthLake.
+https://github.com/aws-solutions-library-samples/guidance-for-secure-access-to-external-package-repositories-on-aws # This Guidance helps organizations provide their data scientists with external package repository access while maintaining information security (infosec) compliance.
+https://github.com/aws-solutions-library-samples/guidance-for-customer-lifetime-value-analytics-on-aws # This Guidance demonstrates how to improve the accuracy of the Customer Lifetime Value (CLV) metric by combining the data from both historical and proprietary databases, unifying operational and real-time data, and delivering that data through a powerful business intelligence service
+https://github.com/aws-solutions-library-samples/guidance-for-data-fabric-on-aws # The Data Fabric sample code focuses on the core data fabric implementation on AWS, providing a complete guide for deploying and using the data fabric capabilities.
+
+https://github.com/aws-samples/aws-glue-samples # AWS Glue code samples
+https://github.com/aws-samples/data-lake-as-code # Data Lake as Code, featuring ChEMBL and OpenTargets
+https://github.com/aws-samples/aws-lakeformation-ml-transforms # Workshop - Using AWS Lake Formation ML Transforms to cleanse the data in a data lake
+https://github.com/aws-samples/data-lineage-for-data-lake-example #
+https://github.com/aws-samples/amazon-forecast-automation #
+https://github.com/aws-samples/aws-data-mesh-utils #
+https://github.com/aws-samples/aws-lakeformation-access-controls-automation #
+https://github.com/aws-samples/aws-cdk-pipelines-datalake-infrastructure # This solution helps you deploy Data Lake Infrastructure on AWS using CDK Pipelines.
+https://github.com/aws-samples/aws-cdk-pipelines-datalake-etl # This solution helps you deploy ETL jobs on data lake using CDK Pipelines.
+https://github.com/aws-samples/amazon-sagemaker-studio-audit #
+https://github.com/aws-samples/aws-ml-data-lake-workshop # As customers move from building data lakes and analytics on AWS to building machine learning solutions, one of their biggest challenges is getting visibility into their data for feature engineering and data format conversions for using AWS SageMaker. In this workshop, we demonstrate best practices and build data pipelines for training data using Amazon Kinesis Data Firehose, AWS Glue, and Amazon SageMaker, and then we use Amazon SageMaker for inference.
+https://github.com/aws-samples/aws-building-data-lake-reinvent-session-stg206 # Collection of Cloud Formation Templates, Lambda Scripts and sample code required to provision an AWS Data Lake for a ReInvent Lab Exercise
+https://github.com/aws-samples/aws-redshift-spectrum-poc # Cloudformation and SQL scripts used to replicate a POC environment from the "Data Lake to Data Warehouse: Enhancing Customer 360 with Amazon Redshift Spectrum" post
+https://github.com/aws-samples/serverless-datalake # Serverless Datalake architecture
+https://github.com/aws-samples/data-engineering-for-aws-immersion-day # Lab Instructions for Data Engineering Immersion Day
+https://github.com/aws-samples/amazon-sagemaker-feature-store-end-to-end-workshop #
+https://github.com/aws-samples/amazon-security-lake-machine-learning #
+https://github.com/aws-samples/dbt-glue # This repository contains de dbt-glue adapter
+https://github.com/aws-samples/amazon-security-lake-quicksight #
+https://github.com/aws-samples/amazon-sagemaker-secure-mlops #
+https://github.com/aws-samples/aws-big-data-blog-dmscdc-walkthrough #
+https://github.com/aws-samples/aws-lakeformation-encrypted-datalakes #
+https://github.com/aws-samples/data-masking-fine-grained-access-using-aws-lake-formation #
+https://github.com/aws-samples/amazon-security-lake-generative-ai #
+https://github.com/aws-samples/automating-datalake-using-lakeformation-and-visualize-using-quicksight #
+https://github.com/aws-samples/query-data-in-s3-with-amazon-athena-and-aws-sdk-for-dotnet # This Project provides a sample implementation that will show how to leverage Amazon Athena from .NET Core Application using AWS SDK for .NET to run standard SQL to analyze a large amount of data in Amazon S3.
+https://github.com/aws-samples/aws-lake-formation-permissions-automation #
+https://github.com/aws-samples/analysis-of-medical-device-data-using-data-lake #
+https://github.com/aws-samples/data-exploration-with-amazon-athena #
+https://github.com/aws-samples/streaming-data-lake-flink-cdc-apache-hudi #
+https://github.com/aws-samples/aws-data-foundations-framework # The Data Foundations Framework accelerates deployment of a modern data platform using AWS native services and best practices.
+https://github.com/aws-samples/amazon-sagemaker-studio-secure-data-science-workshop # Secure data science with Amazon SageMaker Studio workshop. This workshop creates a reference architecture with security and controls to perform machine learning tasks securely with Amazon SageMaker Studio.
+https://github.com/aws-samples/amazon-omics-end-to-end-genomics #
+https://github.com/aws-samples/web-analytics-on-aws # This web analytics demo shows how to collect web logs with API Gateway and store them into S3 through Amazon Kinesis. Then this project shows how to analyze web logs with Amazon Athena.
+https://github.com/aws-samples/amazon-redshift-config-compare #
+https://github.com/aws-samples/amazon-mwaa-extract-metadata #
+https://github.com/aws-samples/aws-glue-blueprint-rel-db-to-s3 #
+https://github.com/aws-samples/amazon-s3-access-point-cross-account #
+https://github.com/aws-samples/lake-formation-permissions-sync #
+https://github.com/aws-samples/aws-health-events-insight # centralized approach to store and analyze AWS Health events(PHD,SHD)
+https://github.com/aws-samples/amazon-security-lake-transformation-library #
+https://github.com/aws-samples/natural-language-queries-for-datalakes #
+https://github.com/aws-samples/aws-glue-table-versions-cleanup-utility #
+https://github.com/aws-samples/building-automated-datalake-content-catalog #
+https://github.com/aws-samples/aws-appsync-with-lake-formation # Application to query a AWS Lake Formation data lake through a AWS AppSync GraphQL API
+https://github.com/aws-samples/aws-glue-streaming-etl-with-delta-lake # Streaming ETL job cases in AWS Glue to integrate Delta Lake and creating an in-place updatable data lake on Amazon S3
+https://github.com/aws-samples/aws-glue-streaming-etl-with-apache-iceberg # Streaming ETL job cases in AWS Glue to integrate Iceberg and creating an in-place updatable data lake on Amazon S3
+https://github.com/aws-samples/build-a-security-monitoring-solution-with-aws-appfabric-and-amazon-security-lake #
+https://github.com/aws-samples/saas-metering-system-on-aws # This project shows how to implement a simple SaaS metering system on AWS
+https://github.com/aws-samples/aws-athena-websocket-api #
+https://github.com/aws-samples/lake-formation-cse-data #
+https://github.com/aws-samples/aws-lake-formation-time-based-temp-access #
+https://github.com/aws-samples/transactional-datalake-using-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg table format with AWS Glue Streaming and DMS
+https://github.com/aws-samples/rsv2-emr-hudi-blog #
+https://github.com/aws-samples/row-level-security-for-amazon-security-lake #
+https://github.com/aws-samples/amazon-datazone-cdk-example # An example CDK app demonstrating how CDK can be utilized to create Amazon DataZone Resources.
+https://github.com/aws-samples/running-sql-on-org-audit-logs-using-partition-projection #
+https://github.com/aws-samples/amazon-sagemaker-lakeformation-datamesh #
+https://github.com/aws-samples/aws-transfer-family-lake-formation-extracted-form-data-product # In this builders’ session, learn how AWS Transfer Family can automate the data processing pipeline for third-party data, validate the integrity of files transferred, apply PGP encryption and decryption and antimalware scans, and enrich and load the data into a secure data mesh integrated with AWS Lake Formation.
+https://github.com/aws-samples/amazon-security-lake-sagemaker-workshop #
+https://github.com/aws-samples/transactional-datalake-using-amazon-msk-serverless-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK Serverless and MSK Connect (Debezium)
+https://github.com/aws-samples/transactional-datalake-using-amazon-msk-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK and MSK Connect (Debezium)
+https://github.com/aws-samples/genai-data-governance-assistant #
+https://github.com/aws-samples/iceberg-streaming-examples # This repo contains examples of high throughput ingestion using Apache Spark and Apache Iceberg. These examples cover IoT and CDC scenarios using best practices. The code can be deployed into any Spark compati
+ble engine like Amazon EMR Serverless or AWS Glue. A fully local developer environment is also provided.
+
+https://github.com/aws-samples/sagemaker-offline-reinforcement-learning-ray-cql #
+https://github.com/aws-samples/devlab-serverless-sentiment-analysis #
+
+https://github.com/awslabs/aws-glue-blueprint-libs #
+https://github.com/awslabs/aws-glue-apache-hudi-operational-data-processing-framework # Operational Data Processing Framework developed using AWS Glue and Apache Hudi. This framework is suitable for Data Lake and Modern Data Platform implementations on the AWS Cloud.
+https://github.com/awslabs/aws-glue-data-catalog-federation #
+https://github.com/aws/aws-lakeformation-best-practices #
+https://github.com/aws/awesome-redshift #

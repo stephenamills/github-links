@@ -1,0 +1,176 @@
+https://github.com/aws-solutions-library-samples/guidance-for-carbon-data-lake-on-aws # This Guidance, with the sample code, can be used to deploy a carbon data lake to the AWS Cloud using an AWS Cloud Development Kit (AWS CDK)
+https://github.com/aws-solutions-library-samples/guidance-for-geospatial-insights-for-sustainability-on-aws # This Guidance helps customers observe land use changes using geospatial data to support supply chain best practices. Customers can monitor changes in forest density using an Amazon SageMaker geospatial capability that simplifies the process of analyzing satellite images for changes in vegetation.
+https://github.com/aws-solutions-library-samples/aws-insurancelake-infrastructure # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake ETL with CDK Pipelines project.
+https://github.com/aws-solutions-library-samples/aws-insurancelake-etl # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake Infrastructure project
+https://github.com/aws-solutions-library-samples/guidance-for-customer-lifetime-value-analytics-on-aws # This Guidance demonstrates how to improve the accuracy of the Customer Lifetime Value (CLV) metric by combining the data from both historical and proprietary databases, unifying operational and real-time data, and delivering that data through a powerful business intelligence service
+https://github.com/aws-solutions-library-samples/guidance-for-understanding-your-data-lineage-on-amazon-quickSight # This Guidance demonstrates how to trace and better understand your data lineage in Amazon QuickSight. This allows you to visualize and analyze the usage and relationships of data sources and datasets. With this new automated architecture, you can reduce the time spent tracing QuickSight data lineage from weeks to minutes.
+https://github.com/aws-solutions-library-samples/guidance-for-multi-account-environment-on-amazon-quicksight # Guidance for helping customers with a prescriptive guidance to build Amazon QuickSight environments spanning across multiple accounts in line with AWS' best practices for multi-account strategy. This approach provides improved isolation, security, access management, and cost tracking.
+https://github.com/aws-solutions-library-samples/guidance-for-personalized-engagement-using-online-and-mobile-user-behaviors-on-aws # A comprehensive digital customer engagement solution by leveraging RudderStack's warehouse-first CDP platform and AWS services
+https://github.com/aws-solutions-library-samples/guidance-for-integrating-3rd-party-saas-data-with-amazon-appflow-on-aws # This Guidance demonstrates how to ingest third-party Software as a Service (SaaS) data into Amazon S3 to build a serverless business intelligence pipeline.
+https://github.com/aws-solutions-library-samples/guidance-for-multi-modal-data-analysis-with-aws-health-and-ml-services # An end-to-end framework for storing, integrating, and analyzing multimodal HCLS data on AWS, using AWS HealthOmics, AWS HealthLake, AWS HealthImaging, Amazon SageMaker, Amazon Athena, Amazon QuickSight, and Amazon S3.
+https://github.com/aws-solutions-library-samples/guidance-for-deploying-a-data-transfer-dashboard-for-adtech-on-aws # This Guidance shows how to use AWS Cost and Usage Reports (AWS CUR) and Amazon Athena to build a dashboard that gives you a centralized view of your data transfer costs and usage
+https://github.com/aws-solutions-library-samples/guidance-for-automating-sap-configuration-health-checks-on-aws # This Guidance shows how to automate evaluation of your SAP landscape on AWS against 100+ health checks and architecture best practices aligned with the AWS Well-Architected Framework.
+https://github.com/aws-solutions-library-samples/guidance-for-chatbot-user-feedback-and-analytics-on-aws # This Guidance demonstrates a prescriptive approach to gathering and storing human feedback on generative artificial intelligence (AI) applications, allowing businesses to estimate the value of their AI investments by collecting user satisfaction data
+https://github.com/aws-solutions-library-samples/guidance-for-using-google-tag-manager-for-server-side-website-analytics-on-aws # This Guidance helps you implement server-side tagging to collect event data and perform data analysis in near real-time.
+https://github.com/aws-solutions-library-samples/guidance-for-object-level-insights-and-cost-savings-with-amazon-s3 # This Guidance shows how to achieve object-level insights in Amazon Simple Storage Service (Amazon S3) and transition or expire objects based on their last access date.
+https://github.com/aws-solutions-library-samples/guidance-for-tracking-assets-and-locating-devices-using-aws-iot # This Guidance demonstrates how to stream location data from your assets and devices with Internet of Things (IoT) sensors, helping you record and monitor the movement of your assets through a centralized management system
+https://github.com/aws-solutions-library-samples/guidance-for-analyzing-customer-conversations-on-aws # This Guidance demonstrates how to use voice analytics to uncover insights from customer phone conversations and improve customer satisfaction.
+
+https://github.com/aws-ia/cfn-ps-datalake-foundation #
+
+https://github.com/aws-samples/aws-cudos-framework-deployment # Command Line Interface tool for Cloud Intelligence Dashboards deployment
+https://github.com/aws-samples/amazon-quicksight-sdk-proserve #
+https://github.com/aws-samples/serverless-data-analytics # CloudFormation templates and scripts to setup the AWS services for the workshop, Athena & Redshift Spectrum queries
+https://github.com/aws-samples/aws-code-snippets # A collection of useful code snippets for interacting with Amazon Web Services
+https://github.com/aws-samples/aws-health-events-insight # centralized approach to store and analyze AWS Health events(PHD,SHD)
+https://github.com/aws-samples/amazon-transcribe-post-call-analytics #
+https://github.com/aws-samples/aws-saas-factory-ref-solution-metrics-analytics #
+https://github.com/aws-samples/aws-glue-samples # AWS Glue code samples
+https://github.com/aws-samples/elevate-your-aws-iam-policy-using-iam-access-analyzer # This implementation demonstrates the AWS Identity and Access Management (IAM) Access Analyzer policy validation capability. Learn how to use it to build a batch job to report on existing policy findings and visualize the results using Amazon Quicksight.
+https://github.com/aws-samples/amazon-lookout-for-metrics-samples #
+https://github.com/aws-samples/amazon-quicksight-assets-as-code-sample #
+https://github.com/aws-samples/amazon-eventbridge-integration-with-auth0 #
+https://github.com/aws-samples/quicksight-sagemaker-integration-blog #
+https://github.com/aws-samples/amazon-security-lake-quicksight #
+https://github.com/aws-samples/aws-version-dashboard #
+https://github.com/aws-samples/automate-amazon-quicksight-user-and-group-management #
+https://github.com/aws-samples/amazon-redshift-modernize-dw # Can you set up a data warehouse and create a dashboard in under 60 minutes? In this workshop, we show you how with Amazon Redshift, a fully managed cloud data warehouse that provides first-rate performance at the lowest cost for queries across your data warehouse and data lake. Learn the steps and best practices for deploying your data warehouse in your organization. Also, learn how to query petabytes of data in your data warehouse and exabytes of data, without loading or moving, in your Amazon S3 data lake. Finally, learn how to easily migrate from traditional or on-premises data warehouses.
+https://github.com/aws-samples/aws-building-data-lake-reinvent-session-stg206 # Collection of Cloud Formation Templates, Lambda Scripts and sample code required to provision an AWS Data Lake for a ReInvent Lab Exercise
+https://github.com/aws-samples/amazon-lookout-for-vision-serverless-app # This project contains source code and supporting files for a serverless application which can be used for detecting defects in products in manufacturing assembly lines, storing inference results and sending real-time email notifications on defect detection.
+https://github.com/aws-samples/amazon-ivs-qos-dashboard-timed-metadata-sample # Sample application for measuring the performance and audience experience of streaming video delivered via Amazon Interactive Video Service
+https://github.com/aws-samples/infrastructure-assessment-iac-automation #
+https://github.com/aws-samples/aws-organizations-tag-inventory # This project provides a solution to AWS customers for reporting on what tags exists, the resources they are applied to, and what resources don't have tags across their entire AWS organization. The solution is designed to be deployed in an AWS Organization with multiple accounts.
+https://github.com/aws-samples/config-resource-compliance-dashboard #
+https://github.com/aws-samples/aws-bikenow-demo # AWS BikeNow Demo is a sample web application that demonstrates the breadth and depth of database, analytics, and AI/ML services on AWS.
+https://github.com/aws-samples/govern-amazon-quicksight-with-okta #
+https://github.com/aws-samples/amazon-quicksight-asset-migration-cicd #
+https://github.com/aws-samples/aws-resilience-hub-tools # This repository includes a collection of solutions and tools for AWS Resilience Hub. You can use one or all of them to customize and enhance your usage of AWS Resilience Hub.
+https://github.com/aws-samples/aws-serverless-nlp-comprehend-using-aws-cdk # This repository describes how to design and implement Natural Language Processing(NLP)-based service using AWS Serverless, Amazon Comprehend and AWS Cloud Development Kit (CDK)
+https://github.com/aws-samples/aws-omnichannel-chatbot-sentiment-analysis #
+https://github.com/aws-samples/aws-edu-exam-analytics # Repository describing how to prepare a data analytics lab in AWS using public data from students scores, providing also template and code.
+https://github.com/aws-samples/visualize-iam-access-analyzer-policy-validation-findings #
+https://github.com/aws-samples/serverless-samples # This repository contains samples of Serverless application code.
+https://github.com/aws-samples/aws-analytics-immersion-day # Describes the concepts of lambda architecture and the actual deployment process with an example of building a serverless business intelligence systems using Amazon Kinesis, S3, Athena, OpenSearch Service, and QuickSight.
+https://github.com/aws-samples/aws-dbs-refarch-edw # Repository for AWS DBS Reference Architectures - Enterprise Data Warehousing
+https://github.com/aws-samples/data-profiler-for-aws-glue-data-catalog # Data Profiler for AWS Glue Data Catalog application as described in the AWS Big Data Blog post "Build an automatic data profiling and reporting solution with Amazon EMR, AWS Glue, and Amazon QuickSight".
+https://github.com/aws-samples/automated-language-analysis # This repository contains a CDK project that deploys a fully automated language analysis pipeline.
+https://github.com/aws-samples/aws-trusted-advisor-co-aggregator # Aggregate trusted advisor data for cost optimisation checks
+https://github.com/aws-samples/aws-waf-for-event-analysis-dashboard #
+https://github.com/aws-samples/aws-service-catalog-product-reporting #
+https://github.com/aws-samples/aws-connect-data-visualization-using-aurora #
+https://github.com/aws-samples/data-discovery-using-glue-comprehend #
+https://github.com/aws-samples/amazon-q-business-user-feedback-solution #
+https://github.com/aws-samples/monitor-vpc-network-patterns #
+https://github.com/aws-samples/aws-reinforce2019-ppe-detection-demo # Personal Protective Equipment detection demo showed at AWS re:Inforce 2019: source code and materials.
+https://github.com/aws-samples/transcribe-comprehend-quicksight-demo # Sample audio transcription and analysis pipeline using Amazon Transcribe, Amazon Comprehend.
+https://github.com/aws-samples/aws-modernization-with-confluent #
+https://github.com/aws-samples/app-2025 # Use architecture patterns from the future to build on AWS today!
+https://github.com/aws-samples/aws-iam-credential-report # AWS CloudFormation templates and Python code for AWS blog post on how to automate IAM credential reports at scale across AWS.
+https://github.com/aws-samples/aws-lakeformation-ml-transforms # Workshop - Using AWS Lake Formation ML Transforms to cleanse the data in a data lake
+https://github.com/aws-samples/ai-powered-text-insights #
+https://github.com/aws-samples/amazon-quicksight-embedding-code-sample #
+https://github.com/aws-samples/aws-glue-flatten-nested-json #
+https://github.com/aws-samples/aws-security-hub-analytic-pipeline #
+https://github.com/aws-samples/aws-iot-greengrass-flat-file-ingestion # This solution ingests flat files into AWS IoT Core using AWS IoT Greengrass at the edge. The data is then stored and analyzed using AWS IoT Analytics and visualized using Amazon QuickSight.
+https://github.com/aws-samples/self-service-patching-solution-for-multi-account-organisation #
+https://github.com/aws-samples/data-engineering-for-aws-immersion-day # Lab Instructions for Data Engineering Immersion Day
+https://github.com/aws-samples/amazon-redshift-infrastructure-automation #
+https://github.com/aws-samples/aws-reinvent-2019-builders-session-opn215 #
+https://github.com/aws-samples/tracking-aws-kms-key-policies-using-amazon-quicksight #
+https://github.com/aws-samples/automating-datalake-using-lakeformation-and-visualize-using-quicksight #
+https://github.com/aws-samples/getiamcredsreport-allaccounts-org #
+https://github.com/aws-samples/amazon-ses-event-data-dashboard-analysis #
+https://github.com/aws-samples/aws-data-pipelines-for-azure-storage # Copy data from Azure Blob Storage to Amazon S3 using code. View Azure costs using Amazon QuickSight
+https://github.com/aws-samples/s3-restore-and-copy-progress-monitoring #
+https://github.com/aws-samples/eb-java-scorekeep # RESTful web API in Java with Spring that provides an HTTP interface for creating and managing game sessions and users.
+https://github.com/aws-samples/glue-metrics-in-quicksight #
+https://github.com/aws-samples/aws-lambda-fireeye-helix-blog # Sample code for the blog post "Creating Custom Analytics Dashboards with FireEye Helix and Amazon QuickSight".
+https://github.com/aws-samples/amazon-chime-voice-connector-automated-reports # This sample project enriches Amazon Chime Voice Connector CDR records with the total cost of the phone call and allows you to visualize the daily, weekly and monthly costs through AWS QuickSight.
+https://github.com/aws-samples/appfabric-data-analytics #
+https://github.com/aws-samples/dynamodb-ml-prediction-amazon-athena #
+https://github.com/aws-samples/amazon-connect-data-analytics-sample #
+https://github.com/aws-samples/amazon-mwaa-extract-metadata #
+https://github.com/aws-samples/case-insights-for-multi-accounts # AWS-CIMA (Consolidated Insights for Multi-Accounts) is a sample solution to provide single pane of glass of support cases for multiple accounts and multiple AWS Organizations
+https://github.com/aws-samples/serverless-datalake # Serverless Datalake architecture
+https://github.com/aws-samples/amazon-forecast-automated-sales-projections #
+https://github.com/aws-samples/digital-user-engagement-events-dashboards #
+https://github.com/aws-samples/communication-developer-services-reference-architectures # AWS Amazon Pinpoint and Amazon Simple Email Service (SES) Digital User Engagement Reference Architectures with CloudFormation templates.
+https://github.com/aws-samples/amazon-ses-analytics-blog # Prerequisites stack for Amazon SES Analytics blog
+https://github.com/aws-samples/amazon-quicksight-permission-file-and-random-ldap-data-generator #
+https://github.com/aws-samples/automatic-mediapackage-access-logs-dashboard #
+https://github.com/aws-samples/contacts-dashboard-for-ground-station # The Contacts dashboard for Ground Station is a solution for customers to have a centralized, single pane of glass view to check the information related to their AWS Ground Station contacts for their entire satellite fleet.
+https://github.com/aws-samples/amazon-kendra-extract-metrics-amazon-quicksight-dashboard #
+https://github.com/aws-samples/cost-explorer-multi-account-forecasting #
+https://github.com/aws-samples/aws-cdk-ingest-email-spreadsheet # Build and automate your email spreadsheets ingestion using AWS CDK!
+https://github.com/aws-samples/safeguarding-payments-fraud-detection-ai-ml-and-data-insights # Safeguarding Payments: Fraud Detection, AI/ML and Data Insights
+https://github.com/aws-samples/instances-on-dedicated-hosts-chargeback #
+https://github.com/aws-samples/automated-llm-insight-discovery-framework #
+https://github.com/aws-samples/aws-cdk-pipelines-datalake-etl # This solution helps you deploy ETL jobs on data lake using CDK Pipelines.
+https://github.com/aws-samples/register-quicksight-users # Python script to automatically register Quicksight users based on a configuration file.
+https://github.com/aws-samples/saas-silo-quicksight-assets-cicd-solution #
+https://github.com/aws-samples/migration-effort-estimator #
+https://github.com/aws-samples/experimental-programmatic-access-ccft # Experimental Programmatic Access to the AWS Customer Carbon Footprint Tool data
+https://github.com/aws-samples/amazon-sagemaker-secure-mlops #
+https://github.com/aws-samples/aws-glue-cdk-observability-dashboard #
+https://github.com/aws-samples/ams-self-service-reporting-aggregator #
+https://github.com/aws-samples/column-level-lineage-for-amazon-quicksight # Code sample repository used in AWS blog Amazon Quicksight Column Lineage
+https://github.com/aws-samples/stale-securitygroup-rule-analysis-with-serverless-architecture #
+https://github.com/aws-samples/aws-cdk-pipelines-datalake-infrastructure # This solution helps you deploy Data Lake Infrastructure on AWS using CDK Pipelines.
+https://github.com/aws-samples/online-ticket-demo-store #
+https://github.com/aws-samples/aws-analytics-fabric-for-sap #
+https://github.com/aws-samples/contact-center-genai-agent #
+https://github.com/aws-samples/amazon-rekognition-custom-labels-a2i-automated-continuous-model-improvement # With Amazon Rekognition Custom Labels, you can easily build and deploy Machine Learning (ML) models to identify custom objects
+https://github.com/aws-samples/aws-etl-orchestrator # A serverless architecture for orchestrating ETL jobs in arbitrarily-complex workflows using AWS Step Functions and AWS Lambda.
+https://github.com/aws-samples/demo-dancing-robot-using-generative-ai #
+https://github.com/aws-samples/amazon-pinpoint-interactive-sms-multilingual # An interactive multi-lingual interactive text messaging workflow for updating member information for Medicaid unwinding.
+https://github.com/aws-samples/data-masking-fine-grained-access-using-aws-lake-formation #
+https://github.com/aws-samples/latency-measurer #
+https://github.com/aws-samples/aws-cdk-adverse-event-detection-app # Building a real-time adverse event monitoring system for social media data using Amazon SageMaker and Amazon QuickSight
+https://github.com/aws-samples/iam-access-key-report #
+https://github.com/aws-samples/devlab-serverless-sentiment-analysis #
+https://github.com/aws-samples/realtime-sentiment-blog-public #
+https://github.com/aws-samples/create-security-observability-using-generative-ai-with-security-lake-and-amazon-q-for-quicksight #
+https://github.com/aws-samples/garnet-framework-dx-snippets # Example of Data Producers and Data Consumers for Garnet Framework
+https://github.com/aws-samples/org-billing-example #
+https://github.com/aws-samples/aws-amplify-and-amazon-quicksight-for-webxr #
+https://github.com/aws-samples/satellite-comms-analytics-aws # Satellite Communication Data Analytics Pipelines using AWS serverless
+https://github.com/aws-samples/amazon-kinesis-sagemaker-promotion-recommendations # CloudFormation templates and scripts demonstrating how to build a promotion recommendation system using Kinesis and SageMaker.
+https://github.com/aws-samples/aws-batch-with-ffmpeg # Deploy a managed FFMPEG with AWS Batch
+https://github.com/aws-samples/operational-insights-bigdata-blog #
+https://github.com/aws-samples/smartcycle-v1 #
+https://github.com/aws-samples/amazon-aurora-s3-redshift-serverless-dwh #
+https://github.com/aws-samples/glue-enrich-cost-and-usage # Glue Python Shell Job that adds AWS Organizations account tags to Cost and Usage Reports. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+https://github.com/aws-samples/aws-cloudfront-realtime-monitoring # A sample solution for converting CloudFront Real-time log records into time-series metrics for monitoring.
+https://github.com/aws-samples/multi-tenancy-blog-post-collection #
+https://github.com/aws-samples/automating-iam-credential-reports-for-large-aws-organizations #
+https://github.com/aws-samples/medicaid-forms-data-extraction-visualization-solution #
+https://github.com/aws-samples/row-level-security-for-amazon-security-lake #
+https://github.com/aws-samples/amazon-lookout-for-vision-workshop #
+https://github.com/aws-samples/aim317-uncover-insights-customer-conversations #
+https://github.com/aws-samples/aws-iot-smart-wastebin-solution # AWS IoT Smart Wastebin solution
+https://github.com/aws-samples/evaluate-bertscore-amazon-translate #
+https://github.com/aws-samples/appfabric-sample-log-generator #
+https://github.com/aws-samples/attribute-amazon-emr-costs-to-your-end-users #
+https://github.com/aws-samples/cloudwatch-to-opensearch # Sample code to demonstrate ingestion of Amazon CloudWatch logs into Amazon OpenSearch Serverless
+https://github.com/aws-samples/harness-the-power-of-ai-and-ml-using-splunk-and-amazon-sagemaker-canvas #
+https://github.com/aws-samples/aws-iot-enabled-sprinkler # Create a scalable fleet of IoT Enabled Sprinklers
+https://github.com/aws-samples/energy-storage-monitoring-and-grid-integration-planning #
+https://github.com/aws-samples/waf-log-sample-athena-queries #
+https://github.com/aws-samples/ds-dashboard # A lightweight, hub-and-spoke dashboard for multi-account Data Science projects
+https://github.com/aws-samples/satellite-comms-forecast-aws # Satellite Communications Capacity Forecasting
+
+https://github.com/awslabs/amazon-quicksight-embedding-sdk # A SDK to help users embed QuickSight dashboards on other pages.
+https://github.com/awslabs/aws-config-engine-for-compliance-as-code # Manage AWS Config Rules at scale in AWS multi-account and/or multi-region environment; with fully configurable deployment (RuleSets) and analytics.
+https://github.com/awslabs/amazon-timestream-tools # Tools and utilities to enable loading data and building applications with Amazon Timestream.
+https://github.com/awslabs/clickstream-analytics-on-aws # Build clickstream analytics on AWS for your mobile and web applications
+https://github.com/awslabs/well-architected-lab200-pricing-model-analysis-terraform-module #
+https://github.com/awslabs/migration-hadoop-to-emr-tco-simulator #
+https://github.com/awslabs/database-migration-assessment-framework-v2 #
+https://github.com/awslabs/aws-fleet-predictive-maintenance # Predictive Maintenance for Vehicle Fleets
+https://github.com/awslabs/containers-cost-allocation-dashboard # A QuickSight dashboard for containers cost allocation based on data from Kubecost
+https://github.com/awslabs/guidance-for-multi-omics-and-multi-modal-data-integration-and-analysis-on-aws # This guidance creates a scalable environment in AWS to prepare genomic, clinical, mutation, expression and imaging data for large-scale analysis and perform interactive queries against a data lake. The solution also demonstrates the use of Amazon Omics for multi-modal analysis.
+https://github.com/awslabs/consolidated-organizations-wide-cases-activity #
+https://github.com/awslabs/cid-gcp-cost-dashboard #
+
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+https://github.com/aws/awesome-redshift #

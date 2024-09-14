@@ -1,0 +1,15 @@
+https://github.com/aws-samples/aws-device-farm-sample-app-for-android # AWS Device Farm sample Android app
+https://github.com/aws-samples/aws-device-farm-appium-tests-for-sample-app # AWS Device Farm Appium tests
+https://github.com/aws-samples/aws-device-farm-sample-app-for-ios #
+https://github.com/aws-samples/aws-device-farm-appium-cucumber-tests-for-sample-app # Sample Appium Cucumber tests for Android sample app that can be used on AWS Device Farm.
+https://github.com/aws-samples/aws-device-farm-appium-python-tests-for-android-sample-app #
+https://github.com/aws-samples/aws-device-farm-sample-web-app-using-appium-python # How to test a web application using AWS Device Farm and Appium Python
+https://github.com/aws-samples/aws-device-farm-sample-web-app-using-appium # How to test a web application using AWS Device Farm and Appium
+https://github.com/aws-samples/aws-device-farm-calabash-tests-for-sample-app #
+https://github.com/aws-samples/aws-device-farm-xctest-ui-tests-for-ios-sample-app #
+https://github.com/aws-samples/aws-device-farm-appium-python-tests-for-ios-sample-app #
+https://github.com/aws-samples/aws-greengrass-ec2-device-farm # Deploys a heterogeneous fleet of AWS IoT Greengrass core devices as Amazon EC2 instances
+
+https://github.com/awslabs/aws-device-farm-jenkins-plugin # Jenkins plugin for AWS Device Farm.
+https://github.com/awslabs/aws-device-farm-gradle-plugin # Gradle plugin for AWS Device Farm.
+https://github.com/awslabs/wdio-aws-device-farm-service # AWS Device Farm service for WebdriverIO

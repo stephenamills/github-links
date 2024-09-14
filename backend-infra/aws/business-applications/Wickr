@@ -1,0 +1,11 @@
+https://github.com/aws-samples/wickr-enterprise-high-availability-terraform #
+https://github.com/aws-samples/secure-messenger-genai-chatbot # Integration of the Wickr secure messaging client with the backend of the AWS GenAI LLM Chatbot
+https://github.com/aws-samples/wickr-enterprise-high-availability-cloudformation #
+https://github.com/aws-samples/integration-framework-for-wickr #
+https://github.com/aws-samples/aws-wickr-data-retention-on-fargate # Sample CloudFormation code to install an AWS Wickr Data Retention bot on AWS Fargate
+https://github.com/aws-samples/wickr-enterprise-integration-with-standalone-llm #
+https://github.com/aws-samples/chat-bot-with-aws-wickr-using-amazon-bedrock-anthropic-claude-instant #
+https://github.com/aws-samples/image-generation-with-aws-wickr-using-amazon-bedrock-stability-stable-diffusion #
+https://github.com/aws-samples/wickrio-inviter-bot # This is a sample WickrIO bot that can list, create, and invite users to AWS Wickr rooms.
+https://github.com/aws-samples/celebrity-image-recognition-bot-aws-wickr-with-amazon-bedrock #
+https://github.com/aws-samples/transcribe-and-translate-voice-memo-in-aws-wickr #

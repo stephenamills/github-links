@@ -1,0 +1,6 @@
+https://github.com/build-on-aws/bookstore-demo-app-with-authz # Add non-trivial authorization rules to your web application using Cedar
+
+https://github.com/aws-samples/amazon-verified-permissions-asp-dotnet-core-custom-auth-policy-provider #
+https://github.com/aws-samples/multiple-identity-providers-amazon-api-gateway # Leverage multiple identity providers with an API Gateway
+https://github.com/aws-samples/amazon-verifiedpermissions-cache-sample # Cache auhthz responses to reduce response time and cost of invoking the AVP API.
+https://github.com/aws-samples/amazon-verified-permissions-iot-amplify-smart-home-application #

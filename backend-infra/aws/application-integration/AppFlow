@@ -1,0 +1,11 @@
+https://github.com/aws-solutions-library-samples/guidance-for-integrating-3rd-party-saas-data-with-amazon-appflow-on-aws # Ingest third-party data into Amazon S3 to build a business intelligence pipeline.
+https://github.com/aws-samples/amazon-appflow # Sample codes, blogs, and demos on how to use Amazon AppFlow.
+https://github.com/aws-samples/amazon-appflow-custom-jdbc-connector #
+https://github.com/aws-samples/amazon-rekognition-and-amazon-appflow-image-moderation-using-aws-cdk-for-slack # This project deploys a fully serverless pipeline to moderate images posted to a Slack channel using the AWS CDK along with AWS Solutions Constructs. Services used are: Amazon Rekognition, Amazon AppFlow, AWS Lambda,Amazon S3 and Amazon SQS
+https://github.com/aws-samples/appflow-custom-connector-for-google-analytics4-realtimereport #
+https://github.com/aws-samples/ada-appflow-extension # Amazon AppFlow extension for Automated Data Analytics (ADA) on AWS
+https://github.com/aws-samples/aws-ai-appflow-veeva-integration #
+https://github.com/aws-samples/amazon-appflow-petstore-custom-connector-example # Amazon AppFlow custom connector example in Python. The source connector reads from an example PetStore API.
+
+https://github.com/awslabs/aws-appflow-custom-connector-python #
+https://github.com/awslabs/aws-appflow-custom-connector-java #

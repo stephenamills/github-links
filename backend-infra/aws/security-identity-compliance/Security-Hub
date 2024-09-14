@@ -1,0 +1,38 @@
+https://github.com/aws-solutions-library-samples/guidance-for-container-runtime-security-monitoring-with-cncf-falco-and-aws-security-hub # This Guidance shows you how to stream security event logs from Falco into AWS Security Hub in near real-time for enriched analysis.
+
+https://github.com/aws-ia/terraform-aws-security-hub # Configure and deploy AWS Security Hub.
+
+https://github.com/aws-samples/aws-security-hub-workshop # A Workshop for AWS Security Hub Integration, Prioritization, and Response
+https://github.com/aws-samples/aws-security-hub-summary-email # Solution and deployment for recurring Security Hub Summary email to provide recipients with a proactive communication summarizing the security posture and improvement within their AWS Accounts.
+https://github.com/aws-samples/aws-security-hub-findings-export #
+https://github.com/aws-samples/aws-security-hub-scan-with-trivy #
+https://github.com/aws-samples/aws-security-hub-prowler-integrations #
+https://github.com/aws-samples/aws-security-hub-cross-account-controls-disabler #
+https://github.com/aws-samples/aws-securityhub-score-generator # A simple python script to generate security hub scores within your AWS account.
+https://github.com/aws-samples/aws-securityhub-config-integration # This repository contains Python code to import the findings from AWS Config into AWS Security Hub.
+https://github.com/aws-samples/aws-securityhub-jira-software-integration # This solution supports a bidirectional integration between Security Hub and JIRA. Issues can be either created automatically or manually by using custom actions.
+https://github.com/aws-samples/SecurityHub-Multiaccount-UpdateControls #
+https://github.com/aws-samples/aws-security-hub-automatic-suppression-rules # AWS Security Hub automatic suppression rules
+https://github.com/aws-samples/cfn-security-scan-integration # Sample code for integrating AWS CloudFormation templates security tests (using CFN-Nag and CFN-Guard) with both AWS Security Hub and AWS CodeBuild reports.
+https://github.com/aws-samples/aws-security-hub-full-report-email # Solution to setup a recurring Security Hub CSV full report with email notification to provide detailed report of the security posture.
+https://github.com/aws-samples/aws-security-hub-csv-manager # CSV Manager for AWS Security Hub exports SecurityHub findings to a CSV file and allows you to mass-update SecurityHub findings by modifying that CSV file.
+https://github.com/aws-samples/aws-securityhub-automated-remediations-workshop # Workshop on how to implement automated remediations of findings submitted to AWS Security Hub leveraging an open source tool named Cloud Custodian
+https://github.com/aws-samples/aws-security-hub-controls-cli #
+https://github.com/aws-samples/aws-security-hub-glue-aggregator-terraform # These Terraform modules aggregate Security Hub findings to centralized account using Amazon Kinesis Firehose and AWS Glue
+https://github.com/aws-samples/aws-security-hub-ssm-inspec-integration # Continuous compliance monitoring with Chef InSpec and AWS Security Hub
+https://github.com/aws-samples/aws-security-hub-analytic-pipeline #
+https://github.com/aws-samples/aws-security-hub-correlation #
+https://github.com/aws-samples/amazon-ec2-aws-security-hub-event-monitoring #
+https://github.com/aws-samples/aws-securityhub-findings-to-msteams # Demonstrates sending AWS Security Hub findings to your Microsoft Teams channel
+https://github.com/aws-samples/iot-device-defender-integration-with-securityhub # Solution to import AWS IoT Device Defender audit and detect findings into AWS Security Hub
+https://github.com/aws-samples/aws-systemsmanager-patchcompliance-to-securityhub # CloudFormation template and index.js used to import critical patch compliance findings into AWS Security Hub across multiple accounts
+https://github.com/aws-samples/automated-security-hub-account-findings-reports # The purpose this solution provides is automated notifications for how many passed, not passed, failed, and warning findings for each member account in AWS Security Hub to the listed email for the account in AWS Security Hub.
+https://github.com/aws-samples/security-hub-macie-remediation #
+https://github.com/aws-samples/mitre-attack-with-aws-security-hub-example #
+https://github.com/aws-samples/aws-cfn-for-optimizing-aws-config-for-aws-security-hub # AWS CloudFormation template to set up AWS Config to record only what’s needed for Security Hub.
+https://github.com/aws-samples/aws-security-hub-findings-account-data-enrichment #
+https://github.com/aws-samples/streaming-syslog-to-aws-security-hub-sample #
+https://github.com/aws-samples/aws-security-hub-findings-historical-export #
+
+https://github.com/awslabs/aws-securityhub-multiaccount-scripts # This script automates the process of running the Security Hub multi-account workflow across a group of accounts that are in your control
+https://github.com/awslabs/security-hub-compliance-analyzer # A compliance analysis tool which enables organizations to more quickly articulate their compliance posture and also generate supporting evidence artifacts

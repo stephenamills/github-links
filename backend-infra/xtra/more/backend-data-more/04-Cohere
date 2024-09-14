@@ -1,0 +1,67 @@
+https://github.com/googlecloudplatform/core-solution-services #
+https://github.com/googleworkspace/gws-genai-addon-sample # A sample Google Workspace add-on for Gmail and Google Drive using Node.js and demonstrating how to use various Generative AI APIs
+
+https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws # Natural language query of an Amazon RDS PostgreSQL database, using SageMaker, Bedrock, LangChain, Streamlit, and Chroma.
+https://github.com/aws-solutions-library-samples/guidance-for-high-speed-rag-chatbots-on-aws # Retrieval chatbot using Amazon Aurora PostgreSQL-Compatible Edition with the open-source pgvector extension.
+https://github.com/aws-solutions-library-samples/guidance-for-improving-application-development-productivity-with-the-sap-abap-assistant-on-aws # Set up the SAP ABAP Assistant, a plugin that integrates with Amazon Bedrock
+https://github.com/build-on-aws/amazon-bedrock-go-sdk-examples # AWS Go SDK examples for Amazon Bedrock
+https://github.com/build-on-aws/dotnet-fm-playground # .NET MAUI Blazor sample application showcasing how to leverage Amazon Bedrock from C# code.
+https://github.com/build-on-aws/amazon-bedrock-with-builder-and-command-patterns # Create the API requests for the different foundation models supported by Amazon Bedrock.
+https://github.com/build-on-aws/workflow-orchestration-bedrock-agent-chaining #
+https://github.com/build-on-aws/amazon-bedrock-lambda-image-generation-golang # Serverless image generation with Amazon Bedrock and AWS Lambda
+https://github.com/build-on-aws/bedrock-agents-infer-models # Use natural language to run inference on various LLMs via Bedrock agents
+https://github.com/build-on-aws/dotnet-visual-guessing-game #
+
+https://github.com/aws-samples/aws-genai-llm-chatbot # Comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot
+https://github.com/aws-samples/bedrock-claude-chat # AWS-native chatbot using Bedrock + Claude (+Mistral)
+https://github.com/aws-samples/Cohere-on-AWS #
+https://github.com/aws-samples/bedrock-access-gateway # OpenAI-Compatible RESTful APIs for Amazon Bedrock
+https://github.com/aws-samples/amazon-chime-sdk-call-analytics-recorder #
+https://github.com/aws-samples/serverless-rag-demo # Amazon Bedrock Anthropic Claude, (Llama2-7B/13B/70B /Falcon-7B/40B/180B on Amazon Sagemaker) LLMs with Amazon Opensearch Serverless as a Vector DB
+https://github.com/aws-samples/foundation-model-benchmarking-tool # Foundation model benchmarking tool. Run any model on any AWS platform and benchmark for performance across instance type and serving stack options.
+https://github.com/aws-samples/question-answering-large-documents #
+https://github.com/aws-samples/amazon-bedrock-voice-conversation #
+https://github.com/aws-samples/amazon-bedrock-rag # Fully managed RAG solution implemented using Knowledge Bases for Amazon Bedrock
+https://github.com/aws-samples/generative-ai-use-cases-jp # すぐに業務活用できるビジネスユースケース集付きの安全な生成 AI アプリ実装
+https://github.com/aws-samples/amazon-bedrock-intro-demo #
+https://github.com/aws-samples/video-understanding-solution #
+https://github.com/aws-samples/agentsforbedrock-retailagent # End to end example of a Retail Agent implemented with agents for Amazon Bedrock
+https://github.com/aws-samples/genai-messaging-hotel-assistant #
+https://github.com/aws-samples/amazon-bedrock-model-customization #
+https://github.com/aws-samples/aws-genai-rfpassistant # Generative AI-powered Request for Proposal (RFP) Assistant leveraging Amazon Bedrock and AWS Cloud Development Kit (CDK).
+https://github.com/aws-samples/bedrock-contact-center-tasks-eval #
+https://github.com/aws-samples/dingtalk-chatbot #
+https://github.com/aws-samples/amazon-bedrock-ai-karaoke # Interactive demonstration of Amazon Bedrock. Users complete the prompt with the microphone and choose the best response.
+https://github.com/aws-samples/policy-security-assistant #
+https://github.com/aws-samples/semantic-image-search-for-articles # Add semantic search to your applications using a multimodal model to find images which are semantically similar to some text.
+https://github.com/aws-samples/amazon-chime-sdk-call-analytics-real-time-summarizer #
+https://github.com/aws-samples/semantic-conversational-search #
+https://github.com/aws-samples/genai-for-energy-manufacturing #
+https://github.com/aws-samples/contact-center-genai-agent #
+https://github.com/aws-samples/secure-messenger-genai-chatbot # Integrate the Wickr secure messaging client with the backend of the AWS GenAI LLM Chatbot
+https://github.com/aws-samples/bedrock-stablediffusion-sampleapp #
+https://github.com/aws-samples/amazon-bedrock-vpc-endpoints #
+
+https://github.com/oracle-samples/genai-langchainjava-sample # Use of the LangChain Java framework with OCI Gen AI Service. The sample supports Large Language Model, HTTP Request Chain and SQL Chain for Oracle Database.
+https://github.com/oracle-devrel/langchain-oci-genai # langchain-oci-genai
+https://github.com/oracle-devrel/oci-genai-finetuning # Learn how to efficiently fine-tune large language models (LLMs) in the OCI Generative AI playground.
+https://github.com/oracle-devrel/oci-ai-industry-dbsolutions # oci-ai-industry-dbsolutions
+https://github.com/oracle-devrel/select-ai-autonomous-db-query-oci # select-ai-autonomous-db-query-oci
+https://github.com/oracle-devrel/oci-ai-cook # oci-ai-cook
+
+https://github.com/cohere-ai/examples # sample apps using the API
+https://github.com/cohere-ai/notebooks # API cookbook in Python notebooks
+https://github.com/cohere-ai/cohere-toolkit # Docker container with Toolkit
+https://github.com/cohere-ai/cohere-aws # AWS Sagemaker & Bedrock
+
+https://github.com/cohere-ai/cohere-python
+https://github.com/cohere-ai/cohere-typescript
+https://github.com/cohere-ai/sandbox-conversant-lib
+https://github.com/cohere-ai/binaryvectordb
+https://github.com/cohere-ai/cohere-terrarium # unsure why this exists
+
+https://github.com/berriai/litellm
+https://github.com/menloparklab/cohere-weaviate-wikipedia-retrieval # Wikipedia (LangChain, Weaviate)
+https://github.com/sangwan70/cohere-chatbot-pdf-langchain # PDF documents (Pinecone)
+https://github.com/menloparklab/langchain-cohere-qdrant-retrieval
+https://github.com/menloparklab/langchain-cohere-qdrant-doc-retrieval

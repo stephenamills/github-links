@@ -1,0 +1,20 @@
+https://github.com/aws-solutions-library-samples/guidance-for-creating-a-customized-coding-companion-with-amazon-q-developer # Aggregate public, open-source code repositories into a central location to customize Amazon Q
+https://github.com/aws-solutions-library-samples/guidance-for-aws-iot-greengrass-foundations # This Guidance shows you how to set up an AWS IoT Greengrass deployment in a highly available cloud environment.
+
+https://github.com/build-on-aws/automate-web-app-amazon-ecs-cdk-codecatalyst # Deploy a containerized python app to Amazon Elastic Container Service using AWS CDK and Amazon CodeCatalyst
+https://github.com/build-on-aws/bootstrapping-terraform-automation # Sample code to show how to bootstrap Terraform with Amazon CodeCatalyst
+https://github.com/build-on-aws/ci-cd-iac-aws-cloudformation # Sample CI/CD pipeline for AWS CloudFormation using Amazon CodeCatalyst
+
+https://github.com/aws-samples/aws-devops-pipeline-accelerator # Standardised pipeline accelerators for AWS CodePipeline and GitLab CI for Infrastructure provisioning tools like CloudFormation, CDK and Terraform
+https://github.com/aws-samples/codecatalyst-java-workflow-sample # This is a simple example of two Continuous Integration workflows created in CodeCatalyst for a Java & SpringBoot based backend application.
+https://github.com/aws-samples/aws-cdk-imagebuilder-sample # Example Container ImageBuilder project using the AWS CDK
+https://github.com/aws-samples/codecatalyst-cloudfront-invalidation-sample # A CI/CD demonstration using Amazon CodeCatalyst to automate the build and deployment of a create-react-app project to an S3 bucket and subsequently invalidating the Cloudfront cache. Includes a fully detailed workflow, integration guidelines, and resources.
+https://github.com/aws-samples/codecatalyst-devicefarm-integration #
+https://github.com/aws-samples/amazon-ecs-for-azure-devops-hosted-agents #
+
+https://github.com/awslabs/codecatalyst-blueprints-for-aws-pdk #
+
+https://github.com/aws/aws-toolkit-vscode # Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+https://github.com/aws/codecatalyst-blueprints #
+https://github.com/aws/actions-dev-kit #
+https://github.com/aws/codecatalyst-runner-cli # CLI to run CodeCatalyst workflows locally 🧰

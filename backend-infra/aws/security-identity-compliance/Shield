@@ -1,0 +1,31 @@
+https://github.com/aws-solutions-library-samples/guidance-for-creating-a-personalized-avatar-with-amazon-sagemaker # This Guidance shows how to calibrate and deploy a Stable Diffusion model to generate personalized avatars with a simple text prompt.
+https://github.com/aws-solutions-library-samples/guidance-for-galaxy-on-aws # Galaxy on AWS Guidance provides all the infrastructure components required to run Galaxy in the cloud and are preconfigured with industry best practices for infrastructure monitoring and security, cost efficiency, and data governance.
+
+https://github.com/aws-ia/terraform-aws-shield-advanced # Configure and deploy Amazon Shield Advanced
+
+https://github.com/aws-samples/image-optimization # Simple, performant and cost efficient solution for optimizing images using Amazon CloudFront, Amazon S3 and AWS Lambda
+https://github.com/aws-samples/aws-shield-advanced-rapid-deployment #
+https://github.com/aws-samples/aws-security-reference-architecture-examples # Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terraform.
+https://github.com/aws-samples/aws-shield-advanced-one-click-deployment #
+https://github.com/aws-samples/aws-amplify-connect # AWS Amplify Agent/Management portal and Amazon Connect dialer
+https://github.com/aws-samples/security-driven-cloud-acceleration #
+https://github.com/aws-samples/aws-shield-protect-dns-from-ddos-blog-post-2020 #
+https://github.com/aws-samples/deploy-streamlit-app #
+https://github.com/aws-samples/aws-ddos-fire-extinguisher #
+https://github.com/aws-samples/aws-waf-firewall-manager-terraform #
+https://github.com/aws-samples/aws-shield-advanced-examples #
+https://github.com/aws-samples/quant-trading #
+https://github.com/aws-samples/waf-and-shield-advanced-price-comparison #
+https://github.com/aws-samples/aws-shield-advanced-auto-resource-enrollment # Automatic resource enrollment for AWS Shield Advanced.
+https://github.com/aws-samples/aws-fargate-with-rstudio-open-source # This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
+https://github.com/aws-samples/transactional-outbox-pattern # Transactional Outbox Pattern Sample
+https://github.com/aws-samples/cloudfront-cognito-login #
+https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo # Deploy Generative AI models from Amazon SageMaker JumpStart using AWS CDK
+https://github.com/aws-samples/short-text-clustering-with-transformers #
+https://github.com/aws-samples/natural-language-queries-for-datalakes #
+https://github.com/aws-samples/resource-autotagger #
+https://github.com/aws-samples/injection-sample-for-aws-waf-sdk #
+https://github.com/aws-samples/amazon-ec2-mac-mdm-enrollment-automation # enroll-ec2-mac is a script to automatically enroll Amazon EC2 Mac instances into MDM. API calls for Jamf Pro are included, as are templates for credential setup.
+https://github.com/aws-samples/amazon-verifiedpermissions-cache-sample # Amazon Verified Permissions Cache sample caches auhthz responses to reduce response time and cost of invoking AVP API.
+https://github.com/aws-samples/appsync-load-testing-k6 #
+https://github.com/aws-samples/aws-route53-weighted-alb-waf #

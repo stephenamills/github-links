@@ -1,0 +1,362 @@
+https://github.com/aws-solutions-library-samples/guidance-for-automating-network-monitoring-and-alerting-on-aws # Tag based CloudWatch dashboard uses CDK and resource groups tagging API to automatically produce CloudFormation templates for CloudWatch dashboard.
+https://github.com/aws-solutions-library-samples/aws-insurancelake-etl # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake Infrastructure project
+https://github.com/aws-solutions-library-samples/aws-insurancelake-infrastructure # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake ETL with CDK Pipelines project.
+https://github.com/aws-solutions-library-samples/guidance-for-game-analytics-pipeline-on-aws # The Game Analytics Pipeline solution helps game developers to apply a flexible, and scalable DataOps methodology to their games. Allowing them to continuously integrate, and
+continuously deploy a scalable serverless data pipeline for ingesting, storing, and analyzing telemetry data generated from games, and services.
+https://github.com/aws-solutions-library-samples/guidance-for-carbon-data-lake-on-aws # This Guidance, with the sample code, can be used to deploy a carbon data lake to the AWS Cloud using an AWS Cloud Development Kit (AWS CDK)
+https://github.com/aws-solutions-library-samples/guidance-for-automating-ethereum-node-validator-using-graviton-on-aws # In this project, we introduce a AWS Cloud Development Kit (AWS CDK) app that simplifies the deployment of Rocket Pool on EC2.
+https://github.com/aws-solutions-library-samples/osml-cdk-constructs #
+https://github.com/aws-solutions-library-samples/guidance-for-generative-ai-deployments-using-amazon-sagemaker-jumpstart # This Guidance demonstrates how to deploy a generative artificial intelligence (AI) model provided by Amazon SageMaker JumpStart to create an asynchronous SageMaker endpoint with the ease of the AWS Cloud Development Kit (AWS CDK).
+
+https://github.com/aws-ia/ecs-blueprints # Configure and deploy complete ECS solutions with Terraform or CDK
+https://github.com/aws-ia/cdk-ps-aws-data-fabric-security #
+
+https://github.com/build-on-aws/automate-web-app-amazon-ecs-cdk-codecatalyst # Deploy a containerized python app to Amazon Elastic Container Service using AWS CDK and Amazon CodeCatalyst
+https://github.com/build-on-aws/amazon-bedrock-apprunner-chatterdox-webapp # Use Amazon Bedrock and LangChain to build an application to chat with web pages - deploy the Go web app with AWS CDK and start asking questions!
+https://github.com/build-on-aws/rag-postgresql-agent-bedrock # This application is built in four stages using infrastructure as code with CDK with Python to deploy. In the first stage, an Amazon Aurora PostgreSQL vector database is set up. In the second stage, the Knowledge Base for Amazon Bedrock is created using the established database. The third stage involves creating an Amazon
+https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb # I'll guide you through setting up the resources, defining the agent's action groups, associating AWS Lambda functions to execute DynamoDB operations, and integrating the knowledge base for enhanced conversational experiences to provide more personalized and context-aware responses to user queries. All this with a 'CDK deploy' command using the AWS
+https://github.com/build-on-aws/stateful-workloads-in-iac # When applying DevOps best practices and implementing infrastructure as code (IaC) for your projects, you have to make a decision: should you combine or separate components that store information (like databases) and other components that don’t? The duality of the question suggests that there is only one right answer. But is it, really?
+https://github.com/build-on-aws/aws-elastic-beanstalk-cdk-pipelines # Sample AWS CDK pipeline code for an AWS Elastic Beanstalk application
+https://github.com/build-on-aws/realtime-dynamodb-zero-etl-opensearch-visualization # In the fast-paced world of data-driven decision making, real-time insights are crucial for staying ahead of the competition. Amazon OpenSearch Service and Amazon DynamoDB offer a powerful combination that enables organizations to visualize and analyze data in near real-time, without the need for complex Extract, Transform, Load (ETL) processes
+https://github.com/build-on-aws/request-response-with-amazon-api-gateway # Companion repository for the tutorial Request-Response with Amazon API Gateway and AWS Lambda
+
+https://github.com/aws-samples/aws-cdk-examples # Example projects using the AWS CDK
+https://github.com/aws-samples/cdk-eks-blueprints-patterns # Patterns repository for the Amazon EKS Bluepints for CDK
+https://github.com/aws-samples/cdk-pipelines-demo # AWS CDK Pipelines Demo Projects
+https://github.com/aws-samples/amazon-eks-cdk-blue-green-cicd # Repo to build CI/CD pipeline for Blue/Green deployments on EKS using CDK
+https://github.com/aws-samples/amazon-ecs-fargate-cdk-v2-cicd # Amazon CI/CD pipeline deploying to ECS Fargate using CDK V2
+https://github.com/aws-samples/cdk-keycloak # CDK construct library that allows you to create KeyCloak on AWS in TypeScript or Python
+https://github.com/aws-samples/aws-cdk-pipelines-datalake-infrastructure # This solution helps you deploy Data Lake Infrastructure on AWS using CDK Pipelines.
+https://github.com/aws-samples/aws-ecs-devops-using-aws-cdk # This repository provides a general DevOps practices such MSA, IaC, CICD and Monitoring. AWS various services are used to provide DevOps best practices.
+https://github.com/aws-samples/aws-cdk-pipelines-eks-cluster # This project uses CDK Pipelines to define a self mutating pipeline to deploy EKS Cluster(s). It uses CDK for cluster, node, infrastructure and app configuration.
+https://github.com/aws-samples/aws-cdk-pipelines-datalake-etl # This solution helps you deploy ETL jobs on data lake using CDK Pipelines.
+https://github.com/aws-samples/prisma-lambda-cdk # Build and deploy a Lambda function with Prisma ORM by AWS Cloud Development Kit.
+https://github.com/aws-samples/aws-cdk-project-structure-python # Recommended AWS CDK project structure for Python applications
+https://github.com/aws-samples/aws-cdk-project-template-for-devops # This repository provides best practices and template framework for developing AWS Cloud Development Kit(CDK)-based applications effectively, quickly and collaboratively.
+https://github.com/aws-samples/cdk-eks-fargate #
+https://github.com/aws-samples/aws-cdk-openapi # The code is this repository accompanies the blog post "Deploy and manage OpenAPI (Swagger) RESTful APIs with the AWS Cloud Development Kit (AWS CDK)"
+https://github.com/aws-samples/cdk-lambda-packaging-java #
+https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo # Deploy Generative AI models from Amazon SageMaker JumpStart using AWS CDK
+https://github.com/aws-samples/aws-cdk-eks-flux #
+https://github.com/aws-samples/multi-branch-cdk-pipelines # Multi-Branch CI/CD Pipeline using CDK Pipelines.
+https://github.com/aws-samples/automate-cross-account-cicd-cfn-cdk #
+https://github.com/aws-samples/aws-cdk-managed-elkk # Managed ELKK stack implemented with the AWS CDK
+https://github.com/aws-samples/mlops-e2e # MLOps End-to-End Example using Amazon SageMaker Pipeline, AWS CodePipeline and AWS CDK
+https://github.com/aws-samples/aws-glue-cdk-cicd # Build, Test and Deploy ETL solutions using AWS Glue and AWS CDK based CI/CD pipelines
+https://github.com/aws-samples/cdk-eks-karpenter # CDK construct for installing and configuring Karpenter on EKS clusters
+https://github.com/aws-samples/amazon-msk-java-app-cdk # This project provides and example of end to end data processing application created using the combination of Amazon Managed Streaming for Apache Kafka (Amazon MSK), AWS Fargate, AWS Lambda and Amazon DynamoDB. B
+usiness logic is implemented in Java and Typescript. The build and deployment of the application is fully automated using AWS CDK.
+https://github.com/aws-samples/aws-cdk-grafana # AWS CDK implementation of Grafana Docker image
+https://github.com/aws-samples/generative-ai-cdk-constructs-samples # This repo provides sample generative AI stacks built atop the AWS Generative AI CDK Constructs.
+https://github.com/aws-samples/glue-workflow-aws-cdk #
+https://github.com/aws-samples/amazon-eks-using-cdk-typescript # A sample project that deploys an EKS Cluster following a set of best practices with options to install additional addons.
+https://github.com/aws-samples/aws-cdk-stack-builder-tool # AWS CDK Builder is a browser-based tool designed to streamline bootstrapping of Infrastructure as Code (IaC) projects using the AWS Cloud Development Kit (CDK).
+https://github.com/aws-samples/aws-cdk-pipelines-demo # Demo of using CDK Pipelines for CI/CD.
+https://github.com/aws-samples/aws-cdk-microservices-workshop #
+https://github.com/aws-samples/cdk-microservices-labs # Hugo Style Documents
+https://github.com/aws-samples/aws-vpc-builder-cdk # Using a configuration file alone, deploy complex AWS Network Architectures using the AWS CDK to learn from and explore!
+https://github.com/aws-samples/aws-serverless-using-aws-cdk # This repository provides the basic patterns of AWS Serverless using AWS CDK.
+https://github.com/aws-samples/aws-cdk-amplify-with-waf # enable WAF for Amplify Hosted web applications
+https://github.com/aws-samples/amazon-sagemaker-model-serving-using-aws-cdk # This repository provides AI/ML service (MachineLearning model serving) modernization solution using Amazon SageMaker, AWS CDK, and AWS Serverless services.
+https://github.com/aws-samples/aws-sam-support-aws-cdk #
+https://github.com/aws-samples/cdk-fargate-gitlab-runner #
+https://github.com/aws-samples/aws-genai-llm-chatbot # A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
+https://github.com/aws-samples/amazon-connect-custom-ccp # Sample code for building a serverless CCP dashboard for Amazon Connect.
+https://github.com/aws-samples/aws-cdk-eks-fluxv2-example # AWS CDK example for EKS and Flux v2
+https://github.com/aws-samples/aws-cdk-sagemaker-studio # Build and automatize the management of your Sagemaker Studio Users using AWS CDK!
+https://github.com/aws-samples/cdk-cognito-idp #
+https://github.com/aws-samples/aws-serverless-app-sam-cdk # Serverless app with CI/CD pipeline using AWS SAM and AWS CDK
+https://github.com/aws-samples/aws-cdk-examples-proserve # Sample CDK projects developed by AWS Professional Services (ProServe)
+https://github.com/aws-samples/multidomain-spa-with-cdk-and-cloudfront #
+https://github.com/aws-samples/rekognition-video-people-blurring-cdk #
+https://github.com/aws-samples/amazon-textract-idp-cdk-constructs #
+https://github.com/aws-samples/aws-cdk-deploy-pipeline-using-aws-codepipeline # This repository describes how to customize AWS CodePipeline to deploy AWS CDK application.
+https://github.com/aws-samples/multiple-account-cdk-cicd-pipeline # In this guide, we will introduce a way to build up CI/CD piplelines to realize services multi account/region deployments using CDK.
+https://github.com/aws-samples/amazon-rds-init-cdk #
+https://github.com/aws-samples/cdk-deployment-of-locust #
+https://github.com/aws-samples/amazon-eventbridge-cdk-audit-service-sample # Sample of a decoupled audit service using Amazon EventBridge and AWS Step Functions. Provisioned with AWS CDK.
+https://github.com/aws-samples/baseline-environment-on-aws # Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalone-account or ControlTower based multi-account AWS environment. This solution provides basic and e
+xtensible guardrail with AWS security services and end-to-end sample CDK code for typical system architecture.
+https://github.com/aws-samples/cdk-image-pipeline # L3 construct that can be used to quickly deploy a complete EC2 Image Builder Image Pipeline
+https://github.com/aws-samples/cdk-bootstrapless-synthesizer # Generate directly usable AWS CloudFormation template
+https://github.com/aws-samples/magento-ecs-cdk #
+https://github.com/aws-samples/multiarch-eks-springboot-deployment-pipeline-with-cdk #
+https://github.com/aws-samples/orthanc-cdk-deployment #
+https://github.com/aws-samples/aws-cdk-k8s-dotnet-todo #
+https://github.com/aws-samples/aws-cdk-tfsec #
+https://github.com/aws-samples/aws-cdk-for-emr-on-eks #
+https://github.com/aws-samples/rds-snapshot-export-to-s3-pipeline # RDS Snapshot Export to S3 Pipeline
+https://github.com/aws-samples/aws-cdk-loan-broker # This project is an AWS Cloud Development Kit (CDK) implementation of Gregor Hohpe's Loan Broker example. The purpose is to show how serverless orchestration with integration patterns could be implemented with CDK.
+https://github.com/aws-samples/aws-cdk-transit-gateway-peering # This AWS CDK project goes through the creation of a global network that spans multiple AWS Regions using AWS Transit Gateway Inter-Region peering.
+https://github.com/aws-samples/micro-frontends-on-aws # Sample project for Micro Frontends with React/Typescript and AWS CDK
+https://github.com/aws-samples/aws-cdk-imagebuilder-pipeline #
+https://github.com/aws-samples/cdk-neptune-knowledge-graph #
+https://github.com/aws-samples/simple-nft-marketplace # This project provides sample codes to build a simple NFT marketplace with Amazon Managed Blockchain.
+https://github.com/aws-samples/aws-cdk-spa-bg-deployment # AWS CDK sample for Blue/Green deployments of Single Page Web Applications.
+https://github.com/aws-samples/cdk-build-bundle-deploy-example #
+https://github.com/aws-samples/aws-cdk-cicd-boot-sample # This repository contains the infrastructure as code to bootstrap your next CI/CD project. It is developed with security best practices in mind, provides a robust and automated deployment process that utilizes a
+combination of CDK Stacks primarily written in TypeScript. It also deploys sample Python Lambda functions.
+https://github.com/aws-samples/cdk-aws-iotfleetwise # L2 CDK construct to provision AWS IoT Fleetwise
+https://github.com/aws-samples/amazon-cognito-and-api-gateway-based-machine-to-machine-authorization-using-aws-cdk # This repository describes how to integrate Amazon Cognito User Pool(OAuth 2.0 Client credentials grant) and Amazon API Gateway(Cognito Authorizer) usin
+g AWS CDK.
+https://github.com/aws-samples/distributed-load-testing-with-locust-on-ecs # Deploy Locust load testing framework on Amazon ECS
+https://github.com/aws-samples/localstack-aws-cdk-example # This repo aims to showcase the usage of Localstack and AWS CDK to address specific integration challenges regarding local development where the end target is the AWS platform.
+https://github.com/aws-samples/sqs-fargate-ddb-cdk-go #
+https://github.com/aws-samples/cdk-amazon-mwaa-cicd #
+https://github.com/aws-samples/aws-cdk-elasticache-redis-iam-rbac # Demonstrates a sample architecture that will allow you to define AWS IAM roles that are mapped to Amazon ElastiCache Redis RBAC users by using AWS Secrets Manager as a proxy to manage access to login
+credentials.
+https://github.com/aws-samples/aws-control-tower-controls-cdk # This pattern describes how to use AWS Control Tower Controls, AWS Cloud Development Kit (CDK) and infrastructure as code to implement and administer preventive, detective and proactive security on AWS.
+https://github.com/aws-samples/aws-centralize-logs-using-cdk #
+https://github.com/aws-samples/amazon-sagemaker-built-in-algorithms-mlops-pipeline-using-aws-cdk # MLOps Pipeline Using SageMaker & CDK, where models are from SageMaker built-in algorithms.
+https://github.com/aws-samples/aws-appconfig-codepipeline-cdk #
+https://github.com/aws-samples/aws-cdk-ecs-refarch-moodle #
+https://github.com/aws-samples/cdk-pipelines-ecs-cross-account # This repository shows how to use CDK Pipelines to create a cross-account CI/CD pipeline for Amazon Elastic Container Service (ECS)
+https://github.com/aws-samples/aws-cdk-healthlake-knowledge-analyzer #
+https://github.com/aws-samples/aws-iot-greengrass-v2-using-aws-cdk # aws greengrass version2 based realtime data ingestion - all resources are created by aws cdk
+https://github.com/aws-samples/subtitle-generator-cdk-app #
+https://github.com/aws-samples/aws-cdk-lambda-layer-builder #
+https://github.com/aws-samples/microservices-dotnet-aws-cdk # This repository contains a sample implementation of Fanout Architecture using .NET6 Worker Services to process messages from Amazon SNS Topic and Amazon SQS Queue. Since the Worker Services would have no UI
+, to operate this solution, you need Observability implemented. In this repository, you can also find sample .NET Observability implementation using the combination of AWS X-Ray and Amazon CloudWatch. To provision this solution, you can use AWS CDK to implement your modern Infrastructure as Code, using .NET C# to provision all AWS Resources your application needs. https://github.com/aws-samples/aws-apprunner-cdk # Build and Deploy Spring Petclinic Application to AWS App Runner using AWS CDK.
+https://github.com/aws-samples/aws-cdk-transparent-squid-proxy # Repo to build a transparent egress proxy (DNS Filtering) in AWS using the AWS Cloud Development Kit (CDK)
+https://github.com/aws-samples/aws-cdk-deep-learning-image-vector-embeddings-at-scale-using-aws-batch # AWS Blog post code for running feature-extraction on images using AWS Batch and Cloud Development Kit (CDK).
+https://github.com/aws-samples/aws-cross-account-cicd-pipeline # Example of how to use CDK to create a CodePipeline CI/CD pipeline, and how to configure it to deploy resources on different AWS Accounts.
+https://github.com/aws-samples/aws-saas-parallel-deployments # Sample code in Typescript for an AWS CDK Pipelines based cross-region and cross-account enabled SaaS application component deployment factory.
+https://github.com/aws-samples/http-api-aws-fargate-cdk # Build HTTP API Based Services using Amazon API Gateway, AWS PrivateLink, AWS Fargate and AWS CDK
+https://github.com/aws-samples/aws-netcoreapi-aurora-cdk #
+https://github.com/aws-samples/websocket-chat-application # This sample provides a CDK project that allows you to deploy a serverless chat application based on API Gateway's WebSocket-based API feature.
+https://github.com/aws-samples/amazon-elasticache-demo-using-aws-cdk # Deploy Amazon ElastiCache for Redis using AWS CDK
+https://github.com/aws-samples/extended-cdk-workshop-coffee-listing-app # This is the initial code for Extended CDK Workshop, where we will be building the infrastructure for a Coffee Listing application. You will be able to upload, list and vote on coffee photos, whi
+le deployinig everything to the cloud with AWS CDK.
+https://github.com/aws-samples/dms-cdk #
+https://github.com/aws-samples/aws-cdk-constructs-for-java #
+https://github.com/aws-samples/aws-comparing-algorithms-performance-mlops-cdk #
+https://github.com/aws-samples/aws-agentic-document-assistant # An agent based LLM assistant that extends RAG with batch entity extraction and SQL querying to improve performance on multi-step and analytical questions.
+https://github.com/aws-samples/single-ec2-cdk #
+https://github.com/aws-samples/aws-cdk-developing-application-patterns-blog #
+https://github.com/aws-samples/streaming-solution-aws-cdk #
+https://github.com/aws-samples/aws-cdk-zaloni-arena #
+https://github.com/aws-samples/aws-elastic-beanstalk-hardened-security-cdk-sample # This is an open-source sample of a CDK script which deploys an Elastic Beanstalk application with a hardened security configuration, it accompanies this blogpost: https://aws.amazon.co
+m/blogs/security/hardening-the-security-of-your-aws-elastic-beanstalk-application-the-well-architected-way/
+https://github.com/aws-samples/aws-cdk-codecommit-snyk #
+https://github.com/aws-samples/amazon-sagemaker-deepar-mlops-pipeline-cdk # This CDK implementation demonstrates how MLOps workflow for Time Series Forecasting with SageMaker Built-in DeepAR can be automated with AWS Serverless Services.
+https://github.com/aws-samples/cdk-wakeful #
+https://github.com/aws-samples/amazon-ecr-replication-for-pub-container-images # Amazon ECR replication for public container images
+https://github.com/aws-samples/cdk-sagemaker-notebook-workflow # Notifies users that their notebook instance is still running in case they forgot to shut it down.
+https://github.com/aws-samples/aws-cdk-emr-s3-trigger #
+https://github.com/aws-samples/aws-kms-ethereum-accounts # Example implementation of an AWS customer master key (CMK) based Ethereum account using AWS Cloud Development Kit (CDK) and Python.
+https://github.com/aws-samples/cdk-typescript-lambda #
+https://github.com/aws-samples/aws-fargate-with-rstudio-open-source # This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
+https://github.com/aws-samples/aws-cdk-quickstart-lambda-insights # Use this cdk project to test AWS CloudWatch Lambda Insights.
+https://github.com/aws-samples/deploying-siem-with-aws-cdk #
+https://github.com/aws-samples/aws-cdk-dotnet-graviton-ecs-example # Build and deploy .NET web applications to Arm-powered AWS Graviton 2 Amazon ECS Clusters using AWS CDK
+https://github.com/aws-samples/aws-serverless-books-api-sample # Books API using Amazon API Gateway, AWS Lambda and Amazon DynamoDB while AWS SAM for IaC. CI/CD pipeline provisioned with AWS CDK.
+https://github.com/aws-samples/cost-effective-aws-deployment-of-comfyui # Cost effective solution to deploy ComfyUI on AWS with simple deployment process using ECS and CDK.
+https://github.com/aws-samples/aws-cdk-serverless-app-deployment-example #
+https://github.com/aws-samples/amazon-frauddetector-mlops-multiaccount-cdk # This MLOPS solution uses code pipeline to deploy Amazon Fraud Detector into multiple accounts using CDK
+https://github.com/aws-samples/cdk-qldb-streaming #
+https://github.com/aws-samples/amazon-cognito-abac-authorization-with-react-example # Sample CDK project with React App using ABAC and Amazon Cognito Identity Pools to access AWS resources
+https://github.com/aws-samples/cdk-alexa-skill #
+https://github.com/aws-samples/amazon-aurora-eventbridge-webhooks # An AWS Cloud Development Kit (CDK) sample showing how to configure the aws_lambda extension to send outgoing webhooks via Amazon EventBridge
+https://github.com/aws-samples/aws-usage-queries # This application bootstraps everything needed to query the AWS Cost and Usage reports through Amazon Athena. It also includes reference data and preconfigured SQL queries.
+https://github.com/aws-samples/emr-serverless-samples # Example code for running Spark and Hive jobs on EMR Serverless.
+https://github.com/aws-samples/aws-cdk-golden-ami-pipeline #
+https://github.com/aws-samples/amazon-ecs-anywhere-cicd-pipeline-cdk-sample #
+https://github.com/aws-samples/amazon-cloudwatch-alarms-repeated-notification-cdk #
+https://github.com/aws-samples/aws-cdk-lambda-cloudwatch-dashboard # Building a CloudWatch Dashboard for Lambdas to visualize the Invocations, Concurrent Executions, Duration, and Errors using CDK
+https://github.com/aws-samples/apigateway-vpcendpoints # This repository demonstrates an approach to set up a central API Gateway with integrations to multiple APIs in different AWS accounts, using VPC Endpoints. All of the network traffic from the Central HTTP ApiGat
+eway is private, using PrivateLink via the VPC Endpoints and VPC Endpoint Services which are created in the providing accounts.
+https://github.com/aws-samples/aws-jenkins-ecs-cdk # Build and Deploy Jenkins as code to ECS Fargate using AWS CDK.
+https://github.com/aws-samples/rds-db-schema-migrations-cicd # Integrating RDS databases' schema migrations in the CI/CD pipeline.
+https://github.com/aws-samples/lambda-edge-resizing-images-custom-origin # Sample code for resizing Images with Lambda@Edge using the Custom Origin. You can deploy using AWS CDK.
+https://github.com/aws-samples/devsecops-quickstart # Quickly set up a ready to use development environment integrated with a multi-account CI/CD pipeline following security and DevOps best practices
+https://github.com/aws-samples/aws-quarkus-demo # Quarkus example projects for Amazon ECS and Amazon EKS with AWS Fargate and AWS Lambda
+https://github.com/aws-samples/secure-bastion-cdk # This project provides high level CDK construct describe how customers would be able to provision secure Bastion Hosts based on AWS best practices across various stages and environments.
+https://github.com/aws-samples/aws-codeguru-reviewer-cicd-cdk-sample # CDK stack to enable CodeGuru Reviewer for selected GitHub repositories
+https://github.com/aws-samples/aws-cdk-apigateway-cloudwatch-dashboard # CloudWatch Dashboard for API Gateway to visualize the API Calls, Latency, Integration Latency, and Errors
+https://github.com/aws-samples/inventory-management-for-amazon-ec2 # Inventory Management for amazon EC2 Demo CDK
+https://github.com/aws-samples/aws-devops-pipeline-accelerator # Standardised pipeline accelerators for AWS CodePipeline and GitLab CI for Infrastructure provisioning tools like CloudFormation, CDK and Terraform
+https://github.com/aws-samples/aws-netcore-app-using-batch # Orchestrating an Application Process with AWS Batch using AWS Cloud Development Kit (CDK)
+https://github.com/aws-samples/dynamodb-local-testing # An example of a webservice built in Go and deployed with CDK. Demonstrates how to build webservices in Go, deploy to AWS using CDK, use multistage build, use DynamoDB Local for running unit tests locally.
+https://github.com/aws-samples/vscode-on-ec2-for-prototyping # This repository introduces how to access and use VSCode hosted on EC2 from a browser. The connection is made via Session Manager, so IAM permissions are used for authentication. The access destination will be localhost.
+https://github.com/aws-samples/hub-and-spoke-with-inspection-vpc-cdk #
+https://github.com/aws-samples/cdk-integ-tests-sample #
+https://github.com/aws-samples/amazon-sagemaker-mlops-byoc-using-codepipeline-aws-cdk # Sample solution to build a deployment pipeline for Amazon SageMaker.
+https://github.com/aws-samples/aws-cdk-for-discourse # AWS CDK for Discourse
+https://github.com/aws-samples/aws-cdk-web-app-example #
+https://github.com/aws-samples/generative-ai-marketing-portal # CDK Deployment for a sample marketing portal using generative AI for content generation and distribution
+https://github.com/aws-samples/aws-cdk-v2-bootstrap #
+https://github.com/aws-samples/aws-lambda-java-custom-runtime # An example project showing how to create a Java custom runtime for AWS Lambda
+https://github.com/aws-samples/aws-lambda-java-tiered-compilation-example # An example project showing how to enable tiered compilation on a Java AWS Lambda function.
+https://github.com/aws-samples/ec2-former2 # EC2 instance running Former2 for generating IaC scripts from existing AWS resources with temporary security credentials
+https://github.com/aws-samples/aws-cdk-deploy-lamp-with-waf-r53-alb # Deploy a secure and highly available LAMP stack application using AWS WAF, Application Load Balancer, AWS Route 53 and secured by a TLS certificate using AWS Certificate Manager. We walk you through how to launch this classic layered architecture LAMP stack application that can host a variety of popular web applications, such as WordPress, Wikipedia, and Drupal in minutes.
+https://github.com/aws-samples/cdk-devsecops-cicd-pipeline #
+https://github.com/aws-samples/keycloak-on-aws # This is a solution for deploying Keycloak to AWS with high availability.
+https://github.com/aws-samples/amazon-opensearch-service-sample-cdk #
+https://github.com/aws-samples/aws-gatk-recipe-cdk-stack #
+https://github.com/aws-samples/aws-amplify-stepfunctions-example # Learn how to extend AWS Amplify resources with CDK v2 with this example that deploys a Step Functions workflow triggered via an Amplify-managed AppSync API
+https://github.com/aws-samples/mssql-on-fsx-with-cdk #
+https://github.com/aws-samples/serverless-realtime-analytics # Demo application on how to create a serverless realtime analytics application using Kinesis Data Streams, Kinesis Firehose, DynamoDB and Lambda, using Cognito to secure the App.
+https://github.com/aws-samples/amazon-managed-blockchain-document-ledger # Code to deploy a complete Amazon Managed Blockchain solution that can write and read documents to Hyperledger Fabric via API Gateway and Lambda interfaces, plus Hyperledger Explorer for visualizing the blockchain network and its contents.
+https://github.com/aws-samples/imputation-aws-cdk #
+https://github.com/aws-samples/cdk-graviton2-gh-sh-runner #
+https://github.com/aws-samples/aws-cdk-powershell #
+https://github.com/aws-samples/aws-dms-deployment-using-aws-cdk # Automate the AWS DMS deployment process using AWS CDK in few command line actions.
+https://github.com/aws-samples/aws-cdk-build-package-publish-dotnet-lambda-function # This Repository contents sample source code that shows how to streamline building, packaging, and publishing .NET Lambda functions using AWS CDK with C#.
+https://github.com/aws-samples/aws-cdk-cfn-hook #
+https://github.com/aws-samples/amazon-chime-sdk-aws-appsync-sample # This sample demonstrates the use of the Chime SDK React components together with an AppSync local resolver implemented with the "None" data source to provide GraphQL mutation driven subscription noti
+fications without being backed by a persistent data store. It is a simple video chat React UI built and deployed using the AWS CDK.
+https://github.com/aws-samples/serverless-genai-food-analyzer-app # Personalized nutritional app, serverless, tailored to your shopping and cooking needs, empowered by generative AI technology (Amazon Bedrock, Anthropic, Claude Haiku, Claude Sonnet) using AWS CDK on AWS
+https://github.com/aws-samples/video-search-rust-demo # This repo is a sample video search app using AWS services.
+https://github.com/aws-samples/aws-cdk-service-catalog-pipeline #
+https://github.com/aws-samples/cdk-graviton2-alb-aga-route53 #
+https://github.com/aws-samples/amazon-cognito-saml-idp # This project is a simple template for getting started with a React app that has SSO configured using Cognito's SAML interface
+https://github.com/aws-samples/aws-serverless-nlp-comprehend-using-aws-cdk # This repository describes how to design and implement Natural Language Processing(NLP)-based service using AWS Serverless, Amazon Comprehend and AWS Cloud Development Kit(CDK)
+https://github.com/aws-samples/aws-graph-blockchain-indexer # CDK for running a Graph node on AWS
+https://github.com/aws-samples/aws-devops-blog-alexa-cdk-walkthrough #
+https://github.com/aws-samples/amazon-ecs-anywhere-cdk-samples #
+https://github.com/aws-samples/aws-glue-crawler-utilities # This repository has a collection of utilities for Glue Crawlers. These utilities come in the form of AWS CloudFormation templates or AWS CDK applications.
+https://github.com/aws-samples/amazon-forecast-mlops-pipeline-cdk # MLOps Pipeline for Amazon Forecast written in AWS CDK
+https://github.com/aws-samples/aws-cdk-servicecatalog-automation #
+https://github.com/aws-samples/aws-cdk-centralize-logs-typescript # This is a CDK project that set up centralized logging to an S3 bucket via a Kinesis Firehose. The solution allows you to specify trusted accounts for different regions and then will configure the Clou
+dWatch Log Delivery Endpoint with proper permission in those regions Solution is based heavily on Centralize Cloudwatch Log with CDK
+https://github.com/aws-samples/aws-centralize-logs-using-cdk
+https://github.com/aws-samples/amazon-ec2-mac-instance-jenkins-agent # This sample contains the example mobile application for the blog post "Unify your iOS mobile app CI/CD pipeline with Amazon EC2 Mac Instances" by Benjamin Meyer. It also contains a CDK to set up a Jenkins and jenkins agent as explained in the blog post.
+https://github.com/aws-samples/aws-cdk-emr-atlas #
+https://github.com/aws-samples/aws-dynamodb-cross-region-replication # DynamoDB bi-directional replication solution between China regions and AWS commercial regions
+https://github.com/aws-samples/amazon-location-service-pettracker-demo # The PetTracker Demo is a cloud native application built using a serverless architecture based on AWS services to showcase AWS IoT integrations for geospatial use cases in conjuction with the Amazon Location Services to help Solution Architects around the world to make use of it in their demos and workshops.
+https://github.com/aws-samples/amazon-opensearch-service-monitor # This repository contains step by step demonstration to setup monitoring Stack for Amazon OpenSearch Service domains across all specified regions. This example uses AWS CDK and Python.
+https://github.com/aws-samples/aws-cdk-ingest-email-spreadsheet # Build and automate your email spreadsheets ingestion using AWS CDK!
+https://github.com/aws-samples/aws-bedrock-langchain-python-cdk # This repo will hold a sample code to have the bedrock api via Boto3 and langchain integration
+https://github.com/aws-samples/amazon-athena-queries-via-aws-lambda-cdk #
+https://github.com/aws-samples/amazon-sqs-best-practices-cdk #
+https://github.com/aws-samples/simple-crud-api # This project creates simple crud API using AWS CDK code. API will have an API gateway, lambda as back-end and DynamoDB as database.
+https://github.com/aws-samples/deploy-langfuse-on-ecs-with-fargate # Hosting Langfuse on Amazon ECS with Fargate using CDK Python
+https://github.com/aws-samples/eks-cdk-stack-dotnet #
+https://github.com/aws-samples/multi-pipeline-serverless-web-application-with-cdk #
+https://github.com/aws-samples/aws-storage-gateway-file-notification-processing # AWS CDK application workshop to process AWS Storage Gateway (File Gateway) file upload notifications.
+https://github.com/aws-samples/amazon-devopsguru-cdk-samples #
+https://github.com/aws-samples/biotech-blueprint-multi-account # The AWS Biotech Blueprint Multi Account is a landing zone for life sciences startups looking to build well architected research environments in the cloud. This CDK based solution creates the infrastructu
+re as code to manage security, identity, and networking across 10s or 100s of accounts.
+https://github.com/aws-samples/automated-language-analysis # This repository contains a CDK project that deploys a fully automated language analysis pipeline.
+https://github.com/aws-samples/aws-cdk-codecommit-pull-request-hook #
+https://github.com/aws-samples/aws-cdk-mediaservices-refarch #
+https://github.com/aws-samples/unity-build-server-with-aws-cdk # Helps you build a Unity Build Server (License server) with AWS CDK.
+https://github.com/aws-samples/bluegreen-to-amazon-ecs-using-aws-cdk-aws-codedeploy # This is a sample app created to illustrate the best practices outlined in the following blog post
+https://github.com/aws-samples/rosa-patterns # AWS CloudFormation and AWS Cloud Development Kit (AWS CDK) templates that can be used to create example architectures applicable to Red Hat OpenShift Service on AWS (ROSA)
+https://github.com/aws-samples/aws-cdk-ecs-windows-fsx # Python based CDK sample of Windows ECS containers with a FSx for Windows file share
+https://github.com/aws-samples/retryable-ecs-run-task-step-functions # CDK example for ECS RunTask API call with Step Functions that handles error and retry
+https://github.com/aws-samples/aws-cdk-codeartifact-pipeline-sample #
+https://github.com/aws-samples/amazon-cloudwatch-synthetics-page-performance # The purpose of this repository is to demonstrate how Amazon Cloudwatch Synthetics can be used to measure the page load time.
+https://github.com/aws-samples/aws-cdk-typescript-codepipeline-codeartifact-sample #
+https://github.com/aws-samples/cdk-backup-plan #
+https://github.com/aws-samples/aws-ecs-cdk-moodle #
+https://github.com/aws-samples/aws-amplify-cdk-iot-ble-swift-app #
+https://github.com/aws-samples/multi-region-python-package-publishing-pipeline # This git repository is designed to demonstrate how to build and publish pip packages to CodeArtifact Repositories in Multiple Regions by using CodePipeline and the AWS CDK.
+https://github.com/aws-samples/aws-cdk-python-codepipeline-codeartifact-sample #
+https://github.com/aws-samples/aws-iam-identity-center-automation # Accelerate AWS IAM Identity Center (successor to AWS Single Sign-On (SSO)) implementation using AWS CDK. This CDK program allows you to conveniently define your own permission sets and assignments without the need to tediously create your own AWS CloudFormation templates for your AWS IAM Identity Center deployment minimizing the risk of human misconfigurations.
+https://github.com/aws-samples/amazon-sagemaker-personalized-generative-ai # This project simplifies personalized Gen-AI SaaS apps. We fine-tune pre-trained models for users, use single GPUs, and ensure real-time responsiveness. A base txt2img Stable Diffusion model from SageMaker JumpStart is used. Challenges include traffic spikes, low-latency, and cost-efficiency. We aim for efficient, user-centric AI solutions.
+https://github.com/aws-samples/aws-greengrass-cicd # This code repository is used with the CI/CD with AWS Greengrass workshop which can be found herehttps://greengrass-cicd.workshop.aws
+https://github.com/aws-samples/employee-shift-scheduling-optimization-cdk # Employee Scheduling Optimization Project with AWS CDK
+https://github.com/aws-samples/cdk-use-cases #
+https://github.com/aws-samples/serverless-alert-notifier # One-click serverless solution for sending alert notification to common communication or alert platforms.
+https://github.com/aws-samples/amplify-cdkv2-stepfunctions #
+https://github.com/aws-samples/aws-cdk-lambda-automated-testing # Demonstrates automatic testing of both AWS Lambda codefiles and the AWS CDK constructs that deploy them. Has both a standalone version, and a continuous delivery version powered by CDK Pipelines.
+https://github.com/aws-samples/opensearch-vpc-cdk # This is a sample implementation for Amazon OpenSearch Service deployed in VPC with CDK (TypeScript).
+https://github.com/aws-samples/kendra-cognito-apigateway-cdk-sample # An Amazon Kendra REST API CDK example with an API Gateway, including authentication with AWS Cognito and AWS X-Ray Tracing
+https://github.com/aws-samples/aws-cdk-detect-ppe #
+https://github.com/aws-samples/cdktf-aws-elb-cognito-auth # Website included AWS ALB authenticate users with AWS Cognito using Terraform CDK
+https://github.com/aws-samples/amazon-managed-blockchain-network-provision-with-cdk-java #
+https://github.com/aws-samples/nimblestudio-game-development-suite # Collection of CDK applications to deploy game development tools for use with Amazon Nimble Studio
+https://github.com/aws-samples/cdk-deploy-glue-jobs-with-shared-utils #
+https://github.com/aws-samples/k6-fargate-cloudwatch-with-cdk # This sample project provides an easy way to run load test with a K6 container in an ECS Fargate Task. The metrics are collected by the CloudWatch Agent sidecar in the Fargate Task. This project also provides a CloudWatch Dashboard to view the load testing result in the CloudWatch.
+https://github.com/aws-samples/aws-autonomous-driving-data-lake-image-extraction-pipeline-from-ros-bagfiles # This workshop will familiarize you with some of the key steps towards building an autonomous driving data lake and extracting images from ROS bag files. Using
+these images, you will be able label them using SageMaker Ground Truth and fine-tuning a Machine Learning Model to detect cars.
+https://github.com/aws-samples/con317-reinvent19 # Builder session on securing your EKS
+https://github.com/aws-samples/aws-transit-gateway-vpc-migration-cdk-sample-code #
+https://github.com/aws-samples/multi-region-lambda-layers # AWS CDK project that demonstrates how to automate the creation and deployment of Lambda layers across multiple Regions from a centralized pipeline.
+https://github.com/aws-samples/amazon-rekognition-and-amazon-appflow-image-moderation-using-aws-cdk-for-slack # This project deploys a fully serverless pipeline to moderate images posted to a Slack channel using the AWS CDK along with AWS Solutions Constructs. Services used are: Amazon Rekognition, Amazon AppFlow, AWS Lambda,Amazon S3 and Amazon SQS
+https://github.com/aws-samples/aws-cdk-in-electron # Build and deploy AWS CDK apps and CFN templates from within Electron
+https://github.com/aws-samples/serverless-django-cdk-sample #
+https://github.com/aws-samples/aws-cdk-imagebuilder-sample # Example Container ImageBuilder project using the AWS CDK
+https://github.com/aws-samples/aws-appsync-multi-region-deployment # This repository contains code written in the AWS Cloud Development Kit (CDK) which launches infrastructure across two different regions to demonstrate using AWS AppSync in a multi-region setup.
+https://github.com/aws-samples/trpc-nextjs-ssr-prisma-lambda # Run Next.js, tRPC, and Prisma on AWS Lambda
+https://github.com/aws-samples/aws-glue-cdk-baseline #
+https://github.com/aws-samples/cdk-lambda-bundling #
+https://github.com/aws-samples/ab-testing-at-edge # Implement an A/B testing solution at edge using AWS Lambda@Edge, Amazon CloudFront Functions, Amazon CloudFront KeyValueStore and Amazon DynamoDB
+https://github.com/aws-samples/amazon-ivs-clip-web-demo # This repository contains a demo web application intended as an educational tool for demonstrating how you can implement a stream "clipping" functionality with Amazon IVS. This project uses AWS Cloud Development Kit (AWS CDK).
+https://github.com/aws-samples/cdk-testable-infrastructure #
+https://github.com/aws-samples/aws-stepfunctions-automl-workflow # This repository shows how to use AWS step functions to train and deploy Autogluon tabular models on Amazon SageMaker
+https://github.com/aws-samples/aws-cdk-localgov-drupal-fargate-efs-auroraserverlessv2 #
+https://github.com/aws-samples/ftp-with-password-authentication-cdk-sample # Transfer Family FTP/SFTP server with password authentication sample with TypeScript CDK
+https://github.com/aws-samples/amazon-managed-blockchain-client-provision-with-cdk-java #
+https://github.com/aws-samples/miro-react-sample-app # This sample demonstrates the deployment of a Miro App on AWS using the AWS Cloud Development Kit (CDK).
+https://github.com/aws-samples/aws-cdk-fsx-lustre-batch-mount # Sample AWS Cloud Development Kit (CDK) code for accessing S3 data from AWS Batch tasks using an AWS FSx for Lustre filesystem.
+https://github.com/aws-samples/aws-cdk-adverse-event-detection-app # Building a real-time adverse event monitoring system for social media data using Amazon SageMaker and Amazon QuickSight
+https://github.com/aws-samples/github-actions-oidc-cdk-construct #
+https://github.com/aws-samples/aws-iot-cqrs-example # Sample illustrating how to setup an IoT client to use a CQRS (Command Query Responsibility Segregation) architecture pattern. Demonstrating how CQRS can be used to separate request/reply and publish/wake up messages from update and status messages
+https://github.com/aws-samples/build-neptune-graphapp-cdk # Build a graph application with Amazon Neptune and AWS Amplify.
+https://github.com/aws-samples/delivery-routes-optimization-for-logistics # Optimize Delivery Route and Order Dispatching
+https://github.com/aws-samples/aws-serverless-fullstack-swift-apple-carplay-example # This application demonstrates a full-stack Apple CarPlay app that uses Swift for both the UI and the backend services in AWS. The app accesses Lambda functions written in Swift and deployed from Docker images. The app accesses Amazon Location Service and a 3rd party weather api to display information in the vicinity of the user.
+https://github.com/aws-samples/aws-cdk-pipelines-cucumber-bdd # Behavioral Driven Development is an extension of Test Driven Development (TDD). Here's a sample of how to do it on AWS.
+https://github.com/aws-samples/aws-cdk-l2-constructs #
+https://github.com/aws-samples/aws-backup-amplify-appsync # This repository provides an automated solution for adding AWS Backup to AWS Amplify applications that use AWS AppSync with default GraphQL resolvers for DynamoDB tables.
+https://github.com/aws-samples/twinmaker-cdk-automation #
+https://github.com/aws-samples/connect-cdk-blog #
+https://github.com/aws-samples/aws-glue-test-data-generator # AWS Glue Configurable Test Data Generator for S3 Data Lakes and DynamoDB
+https://github.com/aws-samples/eks-ami-tester # This solution uses AWS CDK to simplify the deployment and testing of EKS clusters with customized amazon machine images.
+https://github.com/aws-samples/apigateway-custom-domain-for-private-api-cdk #
+https://github.com/aws-samples/ml-edge-getting-started #
+https://github.com/aws-samples/cdk-eks-container-insight #
+https://github.com/aws-samples/aws-cdk-simulated-vpn #
+https://github.com/aws-samples/amazon-kinesis-load-testing-with-locust # Easy Amazon Kinesis load testing with Locust - a modern load testing framework
+https://github.com/aws-samples/cdk-pipelines-deploy-sagemaker-endpoint #
+https://github.com/aws-samples/aws-cdk8s-deployment-sample #
+https://github.com/aws-samples/aws-test-automation-for-devops-using-aws-cdk #
+https://github.com/aws-samples/resource-organization-with-nested-stacks-in-aws-cdk #
+https://github.com/aws-samples/aws-elastic-disaster-recovery-with-aws-site-to-site-vpn # This project shows how to set up AWS Elastic Disaster Recovery (DRS) using an AWS Site-To-Site VPN connection between a simulated on-premise environment and an AWS VPC.
+https://github.com/aws-samples/step-up-auth # How to implement Step-up Authentication using Amazon Cognito
+https://github.com/aws-samples/amazon-rekognition-face-detection-video-stream # This sample demonstrates how to create a Face Recognition through Stream Video application with a serverless architecture using Python CDK. This repository is an extension of this blog post 👇
+https://github.com/aws-samples/pace-genai-demos # This repository features three demos that can be effortlessly integrated into your AWS environment. They serve as a practical guide to leveraging AWS services for crafting a sophisticated Large Language Model (LLM) Gen
+erative AI, geared towards creating a responsive Question and Answer Bot and localizing content generation.
+https://github.com/aws-samples/image-search-titan-multimodal-cdk #
+https://github.com/aws-samples/amazon-fraud-detector-with-cognito # A CDK Application containing Stacks that deploy necessary resources required to implement a real-time fraud detection and prevention system using Amazon Fraud Detector and Amazon Cognito.
+https://github.com/aws-samples/hello-go-cdk # AWS CDK development with Go
+https://github.com/aws-samples/sagemaker-studio-and-lifecycle-configurations-with-cdk #
+https://github.com/aws-samples/nvidia-omniverse-modular-solution-with-aws-cdk # Modular AWS CDK solution to start with NVIDIA Omniverse on AWS.
+https://github.com/aws-samples/aws-cdk-iac-pipeline-with-cfn-nag # A sample pipeline that allows you to manage your infrastructure via cdk while using the aws multi-account strategy.
+https://github.com/aws-samples/msk-flink-streaming-cdk #
+https://github.com/aws-samples/aws-neptune-sitewise-industrial-ml-cdk #
+https://github.com/aws-samples/amazon-rds-over-privatelink-cdk-demo #
+https://github.com/aws-samples/amazon-datazone-cdk-example # An example CDK app demonstrating how CDK can be utilized to create Amazon DataZone Resources.
+https://github.com/aws-samples/configurable-dynamic-cdk-resource-provisioning-typescript # How to configure a CDK App and dynamically provision resource quantities in TypeScript
+https://github.com/aws-samples/ec2-imagebuilder-ami-share # CloudFormation template and CDK stack that contains a CustomResource with Lambda function to allow the setting of the targetAccountIds attribute of the EC2 Image Builder AMI distribution settings which is not currently supported (as of October 2021) in CloudFormation or CDK.
+https://github.com/aws-samples/aws-cdk-web-administered-apps # Run web administered apps (like WordPress) more securely and with high availability using this CDK python project.
+https://github.com/aws-samples/eks-container-pipeline-cdk-template # This is a CDK TypeScript project that packages an application to a container and deploys to EKS.
+https://github.com/aws-samples/eks-multi-environment-cdk-pipeline #
+https://github.com/aws-samples/aws-cdk-service-discovery-example # Quick example of using AWS Cloudmap to look up APIs by namespace and service name.
+
+https://github.com/awslabs/cdk-serverless-clamscan #
+https://github.com/awslabs/generative-ai-cdk-constructs # AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
+https://github.com/awslabs/aws-solutions-constructs # The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
+https://github.com/awslabs/aws-cloudfront-extensions # The CloudFront Extensions is a solution package as handy extension for using Amazon CloudFront.
+https://github.com/awslabs/iac-devtools-cli-for-cdk #
+https://github.com/awslabs/aws-greengrass-labs-component-for-home-assistant # Home Assistant packaged as an AWS IoT Greengrass component
+https://github.com/awslabs/aws-break-glass-role # Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activities in the role to secure its use in production environments.
+https://github.com/awslabs/green-boost # Build Full Stack Cloud Native Web Apps on AWS Fast
+https://github.com/awslabs/aws-greengrass-labs-component-for-the-things-stack-lorawan # The Things Stack packaged as an AWS IoT Greengrass component
+https://github.com/awslabs/simple-database-archival-solution # Simple Database Archival Solution (SDAS) is an open source solution which you can deploy in your AWS account to archive data to AWS. SDAS provides organizations with an efficient, easy and cost-effective s
+olution for archiving Oracle, Microsoft SQL, PostgreSQL, and MySQL databases. https://github.com/awslabs/aws-greengrass-labs-certificate-rotator # Greengrass component and companion cloud backend for rotating the core device certificate and private key
+https://github.com/awslabs/cdk-apigateway-s3-construct #
+https://github.com/awslabs/simpleiot # Installer source for SimpleIOT back-end.
+
+https://github.com/awsdocs/aws-cdk-guide # User guide for the AWS Cloud Development Kit (CDK).
+
+https://github.com/aws/aws-cdk # The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+https://github.com/aws/aws-cdk-rfcs # RFCs for the AWS CDK
+https://github.com/aws/aws-cdk-go # AWS CDK bindings for Go.
+https://github.com/aws/aws-rfdk # The Render Farm Deployment Kit on AWS is a library for use with the AWS Cloud Development Kit that helps you define your render farm cloud infrastructure as code.
+https://github.com/aws/aws-toolkit-vscode # Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+https://github.com/aws/aws-pdk # The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
+https://github.com/aws/jsii-compiler # The jsii compiler for TypeScript
+https://github.com/aws/jsii-rosetta # The jsii sample code transliterator
+https://github.com/aws/sagemaker-example-notebooks-testing # A continuous integration (CI) system for 📓 Jupyter notebooks, built using 🧠 Amazon SageMaker.

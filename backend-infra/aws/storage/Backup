@@ -1,0 +1,21 @@
+https://github.com/aws-samples/aws-backup-automation # AWS CloudFormation templates and Python code for AWS blog post on how to automate centralized backup at scale across AWS services using AWS Backup.
+https://github.com/aws-samples/backup-recovery-with-aws-backup # Implement backup and recovery with AWS Backup across your AWS Organizations using a CI/CD pipeline (AWS CodePipeline).
+https://github.com/aws-samples/aws-backup-report-generator #
+https://github.com/aws-samples/aws-blog-automate-amazon-rds-cross-account-backups # Automating cross-account backup of Amazon RDS Oracle databases with AWS Backup - Sample Code
+https://github.com/aws-samples/aws-cross-region-elasticsearch-backup-restore # AWS Cross Region OpenSearch Backup Restore
+https://github.com/aws-samples/aws-backup-amplify-appsync # This repository provides an automated solution for adding AWS Backup to AWS Amplify applications that use AWS AppSync with default GraphQL resolvers for DynamoDB tables.
+https://github.com/aws-samples/setup-scheduled-backups-using-aws-backup #
+https://github.com/aws-samples/aws-backup-alarms # AWS Backup alarms build a centralized solution to notify via email when a backup job or backup copy has failed and when an AWS Organizations backup policy has been modified.
+https://github.com/aws-samples/aws-backup-actions-framework # AWS Backup Actions is a framework for automating actions triggered by AWS Backup events.
+https://github.com/aws-samples/aws-backup-with-tags-and-vault-lock #
+https://github.com/aws-samples/centralized-backup-with-aws-backup-and-terraform # Use Terraform to automate the deployment of your AWS Backup resources across accounts in your organization.
+https://github.com/aws-samples/aws-backup-compliance #
+https://github.com/aws-samples/aws-centralized-immutable-backup #
+https://github.com/aws-samples/tag-based-scheduled-backup-of-dynamodb-using-aws-backup #
+https://github.com/aws-samples/aws-storage-backup-tagging-api #
+https://github.com/aws-samples/aws-backup-prepost-script-sample #
+https://github.com/aws-samples/build-resilient-applications-using-aws-backup-and-resilience-hub #
+https://github.com/aws-samples/nextcloud-server # Nextcloud server on EC2 with S3 primary object storage and AWS Backup data protection, with option to mount existing S3 bucket
+
+https://github.com/awslabs/aws-backup-dynamodb-rotator # The AWS Backup DynamoDB Rotator restores DynamoDB backups to a new timestamped table based on patterns you specify.
+

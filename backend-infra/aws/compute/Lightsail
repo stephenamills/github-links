@@ -1,0 +1,10 @@
+https://github.com/aws-solutions-library-samples/guidance-for-simple-ecommerce-website-on-aws # This Guidance helps customers set up an ecommerce website on WordPress.
+
+https://github.com/build-on-aws/sample-php-app # Sample PHP TODO app used for tutorials
+
+https://github.com/aws-samples/amazon-lightsail-examples # Examples related to Amazon Lightsail
+https://github.com/aws-samples/cloudfront-cmcd-realtime-dashboard # A sample solution for building a dashboard in Grafana for CloudFront logs enriched with CMCD metrics.
+https://github.com/aws-samples/aws-opensource-mailserver #
+
+https://github.com/aws/lightsailctl # Amazon Lightsail CLI Extensions
+https://github.com/aws/lightsail-setup-instance-https # These scripts are run when Lightsail SetupInstanceHttps API is invoked.

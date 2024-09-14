@@ -1,0 +1,12 @@
+https://github.com/aws-samples/app-mesh-application-helm-charts #
+https://github.com/aws-samples/aws-app-mesh-multi-cell-multi-account-service-discovery #
+https://github.com/aws-samples/aws-app-mesh-cloudwatch-agent # AWS Cloud Watch Agent optimized for App Mesh usage
+https://github.com/aws-samples/amazon-eks-argo-rollouts # Sample code for blue/green and canary deployments on Amazon EKS using AWS App Mesh/Istio and Argo Rollouts
+https://github.com/aws-samples/aws-app-mesh-helm-chart #
+https://github.com/aws-samples/aws-tekton-canary-testing-app # Code for the demo which is part of the Canary Testing with AWS App Mesh and Tekton blog post
+https://github.com/aws-samples/aws-tekton-canary-testing-deploy # Code for the demo which is part of the Canary Testing with AWS App Mesh and Tekton blog post
+https://github.com/aws-samples/aws-tekton-canary-testing-prerequisites # Code for the demo which is part of the Canary Testing with AWS App Mesh and Tekton blog post
+
+https://github.com/aws/aws-app-mesh-examples # AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
+https://github.com/aws/aws-app-mesh-controller-for-k8s # A controller to help manage App Mesh resources for a Kubernetes cluster.
+https://github.com/aws/aws-app-mesh-roadmap # AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication

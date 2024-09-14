@@ -1,0 +1,106 @@
+https://github.com/aws-solutions-library-samples/real-time-analytics-spark-streaming # A solution describing data-processing design pattern for streaming data through Kinesis and Spark Streaming at real-time.
+https://github.com/aws-solutions-library-samples/guidance-for-secure-access-to-external-package-repositories-on-aws # This Guidance helps organizations provide their data scientists with external package repository access while maintaining information security (infosec) compliance.
+https://github.com/aws-solutions-library-samples/guidance-for-connecting-data-products-with-amazon-datazone # This Guidance demonstrates how you can extend the data governance capabilities of Amazon DataZone to other Java Database Connectivity (JDBC) sources, such as MySQL, PostgreSQL, Oracle, and SQL Server.
+
+https://github.com/aws-ia/terraform-aws-control_tower_account_factory # AWS Control Tower Account Factory
+https://github.com/aws-ia/terraform-aws-sce-tf-community #
+https://github.com/aws-ia/cfn-ps-brillio-aws-service-catalog-amazon-sagemaker #
+https://github.com/aws-ia/terraform-aws-sce-core #
+https://github.com/aws-ia/cfn-ps-connect-integration-deloitte-truevoice #
+https://github.com/aws-ia/cfn-ps-cherwell #
+
+https://github.com/aws-samples/aws-service-catalog-reference-architectures # Sample CloudFormation templates and architecture for AWS Service Catalog
+https://github.com/aws-samples/aws-service-catalog-terraform-reference-architecture # Apply Terraform configurations using CloudFormation through a proxy lambda
+https://github.com/aws-samples/sagemaker-custom-project-templates #
+https://github.com/aws-samples/aws-golden-ami-pipeline-sample # Golden AMI pipeline setup sample
+https://github.com/aws-samples/service-catalog-engine-for-terraform-os #
+https://github.com/aws-samples/aws-pipeline-to-service-catalog # CloudFormation templates and Python scripts showing how to use Boto3 libraries to sync Version control with Service Catalog.
+https://github.com/aws-samples/amazon-sagemaker-secure-mlops #
+https://github.com/aws-samples/aws-service-catalog-tools-workshop # Independent, self paced lab for learning how to install, configure and use the Service Catalog Tools.
+https://github.com/aws-samples/aws-service-catalog-preventive-control # Large enterprises try to find a balance between controlling risk and empowering their developers in alignment with DevOps practices. Ideally developers are able to leverage AWS services and create optimized architectures for their applications. This solution addresses the risk and empowerment concerns by using AWS Service Catalog to exposed hardened AWS services to developers. By leveraging AWS Service Catalog products for each AWS Service; developers can create their own architectures with a self-service experience. This solution provides CloudFormation templates to make it easier for developers to automate the provisioning of the Service Catalog products.
+https://github.com/aws-samples/amazon-sagemaker-ab-testing-pipeline # Amazon SageMaker MLOps deployment pipeline for A/B Testing of machine learning models.
+https://github.com/aws-samples/secure-data-science-reference-architecture # A collection of recommended practices to accelerate the building of secure data science environments in regulated environments.
+https://github.com/aws-samples/aws-control-tower-automate-account-creation # Automate the creation of multiple accounts in AWS Control Tower using a batch account creation process
+https://github.com/aws-samples/aws-tag-enforcement-service-catalog # Tag enforcement using AWS Service Catalog, Amazon DynamoDB, Cloudwatch Events, and AWS Lambda
+https://github.com/aws-samples/amazon-sagemaker-drift-detection # This sample demonstrates how to setup an Amazon SageMaker MLOps end-to-end pipeline for Drift detection
+https://github.com/aws-samples/golden-ami-pipeline-with-qualys # Create a Golden AMI Pipeline integrated with a Qualys Scanner for vulnerability assessments
+https://github.com/aws-samples/aws-control-tower-account-factory #
+https://github.com/aws-samples/amazon-sagemaker-studio-secure-data-science-workshop # Secure data science with Amazon SageMaker Studio workshop. This workshop creates a reference architecture with security and controls to perform machine learning tasks securely with Amazon SageMaker Studio.
+https://github.com/aws-samples/aws-service-catalog-portfolio-partition # An AWS Lambda package including two functions to dynamically maintain a security partition around a group of AWS resources which originated in AWS Service Catalog Products of the same Portfolio.
+https://github.com/aws-samples/aws-vending-pipelines-workshop # Sample code for "Empowering developers in highly compliant environments" workshop
+https://github.com/aws-samples/aws-control-tower-account-setup-using-step-functions # Automated AWS account hardening with AWS Control Tower and AWS Step Functions
+https://github.com/aws-samples/aws-cidr-finder # A lambda function, a cloudformation template to get it running, and example templates showing how to use a custom resource (calling the lambda) to automatically calculate CIDR ranges for subnets based on the VPC range.
+https://github.com/aws-samples/emr-studio-samples # This repo contains samples for EMR Studio feature.
+https://github.com/aws-samples/aws-control-tower-org-setup-sample # Automated AWS Organizations configuration for security operations
+https://github.com/aws-samples/aws-cost-control-approval-workflow # SAM project that deploys sample aws cost control approval workflow
+https://github.com/aws-samples/sagemaker-studio-emr #
+https://github.com/aws-samples/aws-cloud-compliance-assurance #
+https://github.com/aws-samples/aws-service-catalog-auto-import # Automatically import shared portfolios from AWS Service Catalog hub account and create local portfolios in spoke accounts
+https://github.com/aws-samples/automate-centralized-deployment-sagemaker-studio #
+https://github.com/aws-samples/aws-service-catalog-sagemaker-studio-domain # Workshop to launch Amazon SageMaker Studio domain using AWS Service Catalog and AWS SSO in the AWS Control Tower environment, using AWS CloudFormation templates and lambda functions.
+https://github.com/aws-samples/service-catalog-framework-with-cross-account-codepipeline #
+https://github.com/aws-samples/self-service-patching-solution-for-multi-account-organisation #
+https://github.com/aws-samples/automated-blueprints-service-catalog # Sample code for AWS blog post "Sharing automated blueprints for Amazon ECS continuous delivery using AWS Service Catalog"
+https://github.com/aws-samples/aws-cdk-service-catalog-pipeline #
+https://github.com/aws-samples/aws-integration-for-apache-guacamole # An AWS automation to integrate with Apache Guacamole. This solution use Eventbridge Rules and Lambda Functions to detect EC2 events in the VPC and create or remove connections in the Guacamole
+https://github.com/aws-samples/aws-vpc-cidr-mgmt #
+https://github.com/aws-samples/aws-service-catalog-for-data-lake-hydration # This repository will contain sample code to be released for a blog
+https://github.com/aws-samples/service-catalog-cloud9 #
+https://github.com/aws-samples/mlops-terraform-template #
+https://github.com/aws-samples/aws-service-catalog-product-reporting #
+https://github.com/aws-samples/golden-ami-pipeline-with-tenable-sample # The golden AMI pipeline enables creation, distribution, verification, launch-compliance, and decommissioning of the golden AMI out of the box. This version of the pipeline integrates with Tenable.io for vulnerability assessments.
+https://github.com/aws-samples/aws-devops-trendmicro #
+https://github.com/aws-samples/aws-cdk-servicecatalog-automation #
+https://github.com/aws-samples/amazon-sagemaker-reusable-components # This solution shows how to deliver reusable and self-contained custom components to Amazon SageMaker environment using AWS Service Catalog, AWS CloudFormation, SageMaker Projects and SageMaker Pipelines.
+https://github.com/aws-samples/aws-datadog-controltower #
+https://github.com/aws-samples/vpc-service-catalog-product-infoblox-ipam # A solution that allows customers to create a dedicated VPC in a child account which reaches out to the Infoblox IPAM system to allocate the next available CIDR Block for a region.
+https://github.com/aws-samples/aws-elastic-beanstalk-deployment-workflow #
+https://github.com/aws-samples/ci-cd-servicecatalog-ams #
+https://github.com/aws-samples/amazon-forecast-sagemaker-mlops-immersionday # This repo contains the necessary scripts to follow the SageMaker Amazon Forecast MLOps Integration Immersion Day
+https://github.com/aws-samples/amazon-sagemaker-automatic-deploy-mlflow-model #
+https://github.com/aws-samples/aws-secrets-manager-cross-account-backup # AWS Secrets Manager Backup will automatically backup secrets to a separate account.
+https://github.com/aws-samples/aws-enterprise-mlops-framework #
+https://github.com/aws-samples/chaos-engineering-with-aws-fault-injection-simulator-cfct-and-aws-service-catalog #
+https://github.com/aws-samples/multi-environment-chatops-bot-for-controltower #
+https://github.com/aws-samples/improving-security-incident-response-times-by-decentralizing-notifications #
+https://github.com/aws-samples/bulk-aws-migration-using-cloudendure-automation # Templates and scripts to automate the aws migration using CloudEndure.
+https://github.com/aws-samples/mlops-sagemaker-github-actions # MLOps example using Amazon SageMaker Pipeline and GitHub Actions
+https://github.com/aws-samples/aws-enterprise-blueprint-factory-code-repo #
+https://github.com/aws-samples/enterprise-grade-vpc-product-with-aws-service-catalog #
+https://github.com/aws-samples/amazon-sagemaker-canvas-service-catalog #
+https://github.com/aws-samples/orgs-prescriptive-guidance # Guidance for Organization on AWS
+https://github.com/aws-samples/dns-using-service-catalog-and-control-tower-customizations #
+https://github.com/aws-samples/aws-account-tag-association-imported-portfolios #
+https://github.com/aws-samples/aws-rtb-intelligence-kit #
+https://github.com/aws-samples/self-service-cloud-custodian-policies-using-aws-service-catalog #
+https://github.com/aws-samples/aws-mgn-drs-init-automation #
+https://github.com/aws-samples/biotech-blueprint-multi-account # The AWS Biotech Blueprint Multi Account is a landing zone for life sciences startups looking to build well architected research environments in the cloud. This CDK based solution creates the infrastructure as code to manage security, identity, and networking across 10s or 100s of accounts.
+https://github.com/aws-samples/amazon-vpc-ip-address-manager-service-catalog #
+https://github.com/aws-samples/aws-microservices-aiops #
+https://github.com/aws-samples/sagemaker-mlops-project-autopilot-pipeline #
+https://github.com/aws-samples/providing-self-service-multiaccount-access-to-aws-managed-microsoft-ad #
+https://github.com/aws-samples/secure-service-catalog-siem-sample #
+https://github.com/aws-samples/sagemaker-project-mlops-byoc #
+https://github.com/aws-samples/dynamic_hotfix_codepipeline #
+https://github.com/aws-samples/hybrid-pki-on-aws #
+https://github.com/aws-samples/aws-enterprise-blueprint-factory-config-repo #
+https://github.com/aws-samples/aws-enterprise-blueprint-factory-blueprint-repo #
+https://github.com/aws-samples/automate-vending-sagemaker-notebooks-with-eventbridge-and-lambda #
+https://github.com/aws-samples/lza-account-creation-workflow #
+https://github.com/aws-samples/amazon-route-53-delegation-vending-machine # Self-service DNS delegation with Route 53 for organizations.
+https://github.com/aws-samples/amazon-sagemaker-studio-vpc-networkfirewall # This solution demonstrates the setup and deployment of Amazon SageMaker Studio into a private VPC and implementation of multi-layer security controls, such as data encryption, network traffic monitoring and restriction, usage of VPC endpoints, subnets and security groups, IAM resource policies.
+https://github.com/aws-samples/data-and-ml-governance-workshop #
+https://github.com/aws-samples/subnet-calculator-custom-resource #
+https://github.com/aws-samples/amazon-rds-over-privatelink-cdk-demo #
+https://github.com/aws-samples/aws-control-tower-extended-region-support # Extend AWS Control Tower governance using AWS Config Conformance Packs
+https://github.com/aws-samples/aws-service-management-connector #
+https://github.com/aws-samples/fault-tolerance-analyser #
+
+https://github.com/awslabs/aws-service-catalog-factory # This is a framework where you define a Service Catalog portfolio, products and versions using YAML. For versions of your products you specify where the source code for them can be found and the framework publishes the portfolio, products and versions in every\* AWS Region after validating, linting and testing them.
+https://github.com/awslabs/aws-service-catalog-products # This repository contains a number of CloudFormation templates which can be used independently or as Products with AWS Service Catalog including the Open Source Tools AWS Service Catalog Factory and AWS Service Catalog Puppet. The templates include a number of the foundational AWS Services you may choose to manage Account Compliance including AWS Config, AWS CloudTrail and GuardDuty
+https://github.com/awslabs/aws-service-catalog-puppet # This is a framework where you list your AWS accounts with tags and your AWS Service Catalog products with tags or target accounts. The framework works through your lists, dedupes and spots collisions and then provisions the products into your AWS accounts for you. It handles the Portfolio sharing, its acceptance and can provision products cross account and cross region.
+https://github.com/awslabs/service-workbench-on-aws # A platform that provides researchers with one-click access to collaborative workspace environments operating across teams, universities, and datasets while enabling university IT stakeholders to manage, monitor, and control spending, apply security best practices, and comply with corporate governance.
+https://github.com/awslabs/aws-service-catalog-enforce-template-constraints # Lambda function to freeze EC2 instance creation to t2.medium/small for Service Catalog portfolios
+https://github.com/awslabs/aiops-modules # AIOps modules is a collection of reusable Infrastructure as Code (IaC) modules for Machine Learning (ML), Foundation Models (FM), Large Language Models (LLM) and GenAI development and operations on AWS
+https://github.com/awslabs/aws-sdlc-controltower-extension #
+https://github.com/awslabs/llrt # LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.

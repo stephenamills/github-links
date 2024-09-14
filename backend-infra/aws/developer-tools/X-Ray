@@ -1,0 +1,111 @@
+https://github.com/aws-solutions-library-samples/guidance-for-custom-game-backend-hosting-on-aws # The AWS Game Backend Framework allows you to integrate your game clients with AWS backend services, with secure scalable identity management and authentication, and integrations to commonly used game platform identity providers and game engines.
+https://github.com/aws-solutions-library-samples/guidance-for-payment-systems-using-event-driven-architecture-on-aws # This guidance focuses on the part of payments processing systems that post payments to recieving accounts. In this phase, inbound transactions are evaluated, have accounting rules applied to them, then are posted into customer accounts.
+
+https://github.com/aws-ia/terraform-aws-genai-document-ingestion-rag #
+https://github.com/aws-ia/terraform-aws-sce-tf-community #
+https://github.com/aws-ia/terraform-aws-sce-core #
+
+https://github.com/build-on-aws/instrumenting-java-apps-using-opentelemetry # Microservice written in Java that shows how to instrument applications using OpenTelemetry, to produce telemetry data for traces and metrics. Also how to switch the observability backend without code changes.
+
+https://github.com/aws-samples/aws-xray-dotnet-webapp # An ASP.NET Web API application that has been instrumented for AWS X-Ray
+https://github.com/aws-samples/aws-xray-sdk-node-sample # The official sample app for the AWS X-Ray SDK for Node.js
+https://github.com/aws-samples/eb-java-scorekeep # RESTful web API in Java with Spring that provides an HTTP interface for creating and managing game sessions and users.
+https://github.com/aws-samples/apprunner-hotel-app #
+https://github.com/aws-samples/websocket-chat-application # This sample provides a CDK project that allows you to deploy a serverless chat application based on API Gateway's WebSocket-based API feature.
+https://github.com/aws-samples/serverless-graalvm-demo # Sample serverless application written in Java compiled with GraalVM native-image
+https://github.com/aws-samples/aws-xray-kubernetes-serverless # Show distributed debugging in Kubernetes and Serverless applications using AWS X-Ray
+https://github.com/aws-samples/aws-xray-cloudwatch-event # Sample using Amazon CloudWatch Events and Alarms to notify AWS X-Ray users when their services have elevated levels of latency, errors and faults.
+https://github.com/aws-samples/aws-serverless-workshops # Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+https://github.com/aws-samples/serverless-observability-workshop #
+https://github.com/aws-samples/eventbridge-xray-integration-examples # Learn more at https://aws.amazon.com/blogs/compute/using-aws-x-ray-tracing-with-amazon-eventbridge/
+https://github.com/aws-samples/aws-xray-scatter-sample # Sample providing showcasing long-term trends for AWS X-Ray users
+https://github.com/aws-samples/aws-xray-sdk-go-sample # Sample App for the X-Ray SDK for Go
+https://github.com/aws-samples/dynamically-adjust-aws-xray-sampling-rules # Blog post about dynamic sampling rules in X-Ray
+https://github.com/aws-samples/aws-xray-apache-kafka-sample # Trace end-to-end performance of messaging applications built on Apache Kafka using AWS X-Ray
+https://github.com/aws-samples/amazon-cognito-aspnetcore-webapp-for-serverless # Code and walkthrough labs to set up an asp.netcore serverless solution that integrates with Amazon Cognito and AWS X-Ray.
+https://github.com/aws-samples/aws-ecs-springboot-opentelemetry-sample # SpringBoot integration with AWS Distro for OpenTelemetry on Amazon ECS
+https://github.com/aws-samples/aws-serverless-feedback-app #
+https://github.com/aws-samples/microservices-dotnet-aws-cdk # This repository contains a sample implementation of Fanout Architecture using .NET6 Worker Services to process messages from Amazon SNS Topic and Amazon SQS Queue. Since the Worker Services would have no UI, to operate this solution, you need Observability implemented. In this repository, you can also find sample .NET Observability implementation using the combination of AWS X-Ray and Amazon CloudWatch. To provision this solution, you can use AWS CDK to implement your modern Infrastructure as Code, using .NET C# to provision all AWS Resources your application needs.
+https://github.com/aws-samples/amazon-eks-observability-demo #
+https://github.com/aws-samples/aws-aurora-serverless-data-api-sam # Using Amazon Aurora Serverless (MySQL) and the Data API to build a Serverless Application on AWS
+https://github.com/aws-samples/serverless-lifo-queue-demonstration # A demonstration application which implements a Last-In, First-Out (LIFO) queue, using AWS Lambda, Amazon DynamoDB and other AWS Serverless technologies. The demonstration is an AWS Serverless Applica
+tion Model (AWS SAM) application and is written in JavaScript. https://github.com/aws-samples/example-for-aws-xray-in-amazon-ecs #
+https://github.com/aws-samples/logging-monitoring-apg-guide-examples # The CloudFormation templates included in this repository are intended to assist you in configuring and installing Amazon CloudWatch and AWS X-Ray for on premises servers, Amazon EC2, Amazon ECS, an
+d Amazon EKS. Templates are also provided for deploying ECS and EKS clusters and services with Amazon CloudWatch preconfigured. https://github.com/aws-samples/aws-serverless-books-api-sample # Books API using Amazon API Gateway, AWS Lambda and Amazon DynamoDB while AWS SAM for IaC. CI/CD pipeline provisioned with AWS CDK.
+https://github.com/aws-samples/aws-step-functions-saga-pattern-with-sam #
+https://github.com/aws-samples/alarm-context-tool # The Alarm Context Tool (ACT) enhances AWS CloudWatch Alarms by providing additional context to aid in troubleshooting and analysis.
+https://github.com/aws-samples/aws-xray-call-tracing-for-nodejs-app-demo #
+https://github.com/aws-samples/aws-lambda-python-oracle-connection # This example shows how to connect to an Oracle database (RDS or on-prem) from AWS Lambda using python.
+https://github.com/aws-samples/aws-batch-with-ffmpeg # Deploy a managed FFMPEG with AWS Batch
+https://github.com/aws-samples/lambda-refarch-fileprocessing # Serverless Reference Architecture for Real-time File Processing
+https://github.com/aws-samples/amazon-sagemaker-ab-testing-pipeline # Amazon SageMaker MLOps deployment pipeline for A/B Testing of machine learning models.
+https://github.com/aws-samples/aws-dynamodb-kinesisfirehose-s3-ingestion #
+https://github.com/aws-samples/serverless-groovy-demo #
+https://github.com/aws-samples/amazon-ec2-nice-dcv-samples # AWS CloudFormation templates to provision Linux or Windows EC2 instances with GUI running NICE DCV remote display server. Includes option to install GPU drivers
+https://github.com/aws-samples/amazon-pinpoint-lex-bot # Use Amazon Pinpoint, Lambda, and Lex to let your customers have two-way chats with bots via SMS.
+https://github.com/aws-samples/llm-radiology-reports #
+https://github.com/aws-samples/aws-xray-multi-api-gateway-tracing-example # Example showing how to pass a tracing header between API Gateways with AWS X-Ray SDK instrumentation using Serverless Framework and Node.js
+https://github.com/aws-samples/failure-analysis-assistant # Failure Analysis Assistant (FA2) is a sample that supports failure analysis when a failure occurs using LLM in Amazon Bedrock. It was shown as an exhibition demo for AWS Summit Japan 2024.
+https://github.com/aws-samples/ec2-lamp-server # CloudFormation (IaC) template to provision EC2 instance with PHP, Apache/Nginx and MySQL/MariaDB/PostgreSQL
+https://github.com/aws-samples/amazon-eks-cicd-codepipeline-java-microservices # Sample code to demonstrate Containerized and Kubernetized microservices deployment on Amazon EKS through CI/CD Pipeline using AWS DevOps Tools.
+https://github.com/aws-samples/app-mesh-workshop-greater-china #
+https://github.com/aws-samples/cloudwatch-obervability-access-manager-terraform # This repository shows how to setup Centralized CloudWatch Observability Manager using Terraform
+https://github.com/aws-samples/Serverless-Semantic-Video-Search-Vector-Database-and-a-Multi-Modal-Generative-Al-Embeddings-Model # Implementing serverless semantic search of image and live video with Amazon OpenSearch and Amazon Bedrock
+https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor # Use Amazon (AWS) Pinpoint, Lambda and Connect to transparently put customers into a phone callback queue upon an SMS request from them.
+https://github.com/aws-samples/amazon-sqs-message-attributes-starter-kit # This is a companion source code for Amazon Compute Blog - Enhancing message-based applications with Message Attributes. The samples in this project demonstrate how to use Message Attributes fea
+ture of Amazon Simple Queue Service (SQS). https://github.com/aws-samples/kendra-cognito-apigateway-cdk-sample # An Amazon Kendra REST API CDK example with an API Gateway, including authentication with AWS Cognito and AWS X-Ray Tracing
+https://github.com/aws-samples/aws-serverless-face-recognition-sentiment-analysis-on-twitter #
+https://github.com/aws-samples/amazon-aurora-http-client # Amazon Aurora HTTP Client in AWS Lambda
+https://github.com/aws-samples/aws-serverless-file-download #
+https://github.com/aws-samples/aws-amazon-eks-ansible-example # The project demonstrates how to use Ansible to deploy an Amazon EKS cluster incl. extensions and example workload
+https://github.com/aws-samples/opentelemetry-lambda-container #
+https://github.com/aws-samples/serverless-partner-integration-endless-aisle #
+https://github.com/aws-samples/geo-location-api # .NET Web API for retrieving geolocations. Geolocation data provided by MaxMind GeoLite2.
+https://github.com/aws-samples/observability-driven-development #
+https://github.com/aws-samples/sns-xray-active-tracing-blog-source-code # This sample application demonstrates Amazon SNS with AWS X-Ray active tracing
+https://github.com/aws-samples/improve-employee-productivity-using-genai # Employee Productivity GenAI Assistant Example is an innovative code sample and architecture pattern designed to enhance writing tasks efficiency using AWS serverless technologies and Amazon Bed
+rock's generative AI models. https://github.com/aws-samples/easy-ml-pocs #
+https://github.com/aws-samples/eval-genai-techniques-clinicalreport #
+https://github.com/aws-samples/mammography-classification-workshop #
+https://github.com/aws-samples/aws-lambda-snapstart-xray-example #
+https://github.com/aws-samples/aws-appmesh-xray-with-copilot #
+https://github.com/aws-samples/aws-dotnet-ecs-containers-observability #
+https://github.com/aws-samples/four-level-observability-example-for-GenAI #
+https://github.com/aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app #
+https://github.com/aws-samples/aws-edge-accelerate #
+https://github.com/aws-samples/semantic-image-search-for-articles # How you can add semantic search to your applications. This sample shows how you can use a multimodal model to find images which are semantically similar to some text. New blog coming out soon.
+https://github.com/aws-samples/textract-boleto-reader # This project aims to show the art of the possible in relation to the use of Amazon Textract to read and extract all fields and values from Brazilian bank slips (Boleto), as well as the barcode number
+https://github.com/aws-samples/aws-serverless-product-data-generator # A generative AI demo to help sellers create product titles and descriptions using product images and optional metadata.
+https://github.com/aws-samples/federated-appsync-api-demo #
+https://github.com/aws-samples/path-based-versioning-with-api-gateway #
+https://github.com/aws-samples/amazon-rds-proxy-multitenant-load-test # An AWS CloudFormation template that builds, load tests, and compares results of two multi-tenant Amazon Aurora MySQL clusters, one with and one without Amazon RDS Proxy.
+https://github.com/aws-samples/appfabric-log-transformer #
+https://github.com/aws-samples/amazon-connect-global-resiliency # Starter project to create a dashboard to interact with Amazon Connect Global Resiliency APIs
+https://github.com/aws-samples/appfabric-sample-log-generator #
+https://github.com/aws-samples/sagemaker-offline-reinforcement-learning-ray-cql #
+https://github.com/aws-samples/email-one-click-unsubscribe #
+https://github.com/aws-samples/multi-tenancy-blog-post-collection #
+https://github.com/aws-samples/custom-cdk-pipeline-construct #
+https://github.com/awslabs/cloudwatch-xray-apm-demo # Demo on how to use Amazon CloudWatch custom metrics with either Collectd or CloudWatch logs, so you don't introduce latency on your apps. This demo also uses the AWS X-Ray daemon to send tracing information to X-Ra
+y. https://github.com/awslabs/aws-iatk #
+https://github.com/awslabs/disco # A suite of tools including a framework for creating Java Agents, for aspect-oriented tooling for distributed systems.
+https://github.com/awslabs/aws-dotnet-messaging # An AWS-native framework that simplifies the development of .NET message processing applications that use AWS services, such as SQS, SNS, and EventBridge.
+https://github.com/awslabs/aws-break-glass-role # Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activities in the role to secure its use in production environments.
+https://github.com/awsdocs/elastic-beanstalk-samples # This repository contains code and configuration samples (e.g. .ebextensions) for AWS Elastic Beanstalk.
+
+https://github.com/aws/aws-xray-sdk-node # The official AWS X-Ray SDK for Node.js.
+https://github.com/aws/aws-xray-sdk-python # AWS X-Ray SDK for the Python programming language
+https://github.com/aws/aws-xray-daemon # The AWS X-Ray daemon listens for traffic on UDP port 2000, gathers raw segment data, and relays it to the AWS X-Ray API.
+https://github.com/aws/aws-xray-sdk-go # AWS X-Ray SDK for the Go programming language.
+https://github.com/aws/aws-xray-sdk-java # The official AWS X-Ray Recorder SDK for Java.
+https://github.com/aws/aws-xray-sdk-dotnet # The official AWS X-Ray SDK for .NET.
+https://github.com/aws/aws-xray-sdk-ruby # The official AWS X-Ray Recorder SDK for Ruby
+https://github.com/aws/aws-xray-java-agent # The official AWS X-Ray Auto Instrumentation Agent for Java.
+https://github.com/aws/aws-xray-dotnet-agent # The official AWS X-Ray Auto Instrumentation Agent for .Net.
+https://github.com/aws/aws-sam-cli # CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+https://github.com/aws/dotnet # GitHub home for .NET development on AWS
+https://github.com/aws/aws-lambda-runtime-interface-emulator #
+https://github.com/aws/amazon-ecs-service-connect-agent # Amazon ECS Service Connect Agent
+https://github.com/aws/amazon-cloudwatch-agent # CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.
+https://github.com/aws/aws-appsync-community # The AWS AppSync community
+https://github.com/aws/aws-connected-device-framework #

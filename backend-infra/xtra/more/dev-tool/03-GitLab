@@ -1,0 +1,78 @@
+https://github.com/googlecloudplatform/smart-sdlc # Set of tools to implement an AI workflow on your SDLC
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
+https://github.com/googlecloudplatform/terraformer # CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+https://github.com/googlecloudplatform/friendly-cicd-helper #
+https://github.com/googlecloudplatform/anthos-security-blueprints # Implementation steps and assets for Google Cloud Anthos blueprints
+https://github.com/googlecloudplatform/marketing-analytics-jumpstart # Analyze marketing data and send predictive events to Google Analytics
+https://github.com/googlecloudplatform/git-gerrit-subcommand #
+
+https://github.com/google/clusterfuzzlite # ClusterFuzzLite - Simple continuous fuzzing that runs in CI.
+https://github.com/google/devops-governance # A CI/CD Approach & Framework for infrastructure following DevOps & GitOps principles.
+https://github.com/google/deps.dev # Resources for the deps.dev API
+https://github.com/google/vertex-pipelines-boilerplate # Boilerplate code for setting up a Kubeflow pipeline to run in Cloud Vertex AI Pipelines.
+
+https://github.com/azure-samples/azure-function-custom-handler-with-golang # Example of an Azure Function App golang custom handler and multiple functions
+https://github.com/azure-samples/azure-data-manager-for-energy-openai-demo # This is an end-to-end demo showing the power of LLM on top of Azure Data Manager for Energy data
+https://github.com/azure-samples/aks-front-door-private-link-service # This sample shows how Azure Front Door Premium can be set to use a Private Link Service to expose an AKS-hosted workload via NGINX Ingress Controller configured to use a private IP address on the internal load balancer.
+https://github.com/azure-samples/aks-front-door-end-to-end-tls # This project demonstrates how to set up end-to-end TLS encryption using Azure Front Door Premium and AKS. It utilizes an Azure Private Link Service to expose a workload hosted on AKS, with the NGINX Ingress Controller configured to utilize a private IP address on the internal load balancer.
+https://github.com/azure-samples/use-harbor-with-aks-and-acr # This article provides a comprehensive guide on utilizing Harbor as a container registry in a multi-region and multi-cloud setup with Azure Kubernetes Service (AKS) and Azure Container Registry (ACR).
+https://github.com/azure/azops-gitlab-starter # This repository contains scripts, starter pipelines and instructions on how to get started with AzOps on GitLab
+
+https://github.com/microsoft/auteur # Live GStreamer node compositor service, implemented in rust
+https://github.com/microsoft/sarif-tools # A set of Python command line tools for working with SARIF files produced by code analysis tools
+https://github.com/microsoft/rusty-radamsa # Radamsa fuzzer ported to rust lang
+https://github.com/microsoft/toga #
+https://github.com/microsoft/mstunnel-ocserv #
+
+https://github.com/aws-ia/cloudformation-gitlab-resource-providers # GitLab CFN Registry resource
+
+https://github.com/aws-samples/amazon-ec2-gitlab-runner # This repository contains code to deploy and manage Gitlab Runners on Amazon EC2.
+https://github.com/aws-samples/aws-appmesh-eks-gitlab-cicd #
+https://github.com/aws-samples/cdk-fargate-gitlab-runner #
+https://github.com/aws-samples/gitlab-to-codecommit-migration # Script to migrate from GitLab to Amazon CodeCommit easily and setup your AWS environment with CodeCommit, CodePipeline and CodeDeploy as well.
+https://github.com/aws-samples/gitlab-cicd-runners-terraform # Sample Terraform module to automate the creation and isolation of self-hosted GitLab runners per environment on AWS
+https://github.com/aws-samples/gitlab-codebuild-quickstart # Integrate your GitLab to AWS CodeBuild quickly.
+https://github.com/aws-samples/aws-modernization-with-gitlab-hashicorp-gremlin #
+https://github.com/aws-samples/eks-mac1-gitlab # Integrating the AWS Mac1 instance with GitLab
+https://github.com/aws-samples/aws-devops-pipeline-accelerator # Standardised pipeline accelerators for AWS CodePipeline and GitLab CI for Infrastructure provisioning tools like CloudFormation, CDK and Terraform
+https://github.com/aws-samples/beanstalk-gitlab #
+https://github.com/aws-samples/gitlab-for-eks #
+https://github.com/aws-samples/aws-modernization-workshop-with-gitlab #
+https://github.com/aws-samples/amazon-connect-gitlab-cicd-terraform #
+https://github.com/aws-samples/cross-account-gitlab-pipeline #
+https://github.com/aws-samples/cdk-python-module-gitlab-pipeline # This code sample shows how to create a reusable python module from custom CDK stacks or constructs and publish the module with CodeArtifact..
+https://github.com/aws-samples/aws-ecs-gitlab-copilot #
+
+https://github.com/oracle-devrel/terraform-oci-arch-oke-autoscale-gitlab-runners # terraform-oci-arch-oke-autoscale-gitlab-runners
+
+https://github.com/gitlabhq/gitlabhq # GitLab CE
+
+https://gitlab.com/gitlab-org/cli # A GitLab CLI tool bringing GitLab to your command line
+
+https://gitlab.com/gitlab-org/express-example #
+https://gitlab.com/gitlab-org/app-modernization-2021 #
+https://gitlab.com/gitlab-org/app-modernization #
+https://gitlab.com/gitlab-org/ci-cd-testing-ux # This is a project for keeping demo or test files for learning GitLab's CI/CD functionality.
+https://gitlab.com/gitlab-org/graphql-sandbox # This project only exists as a testbed for trying out GraphQL queries without affecting production.
+https://gitlab.com/gitlab-org/gitlab-aws-quickstart # AWS quickstart template
+
+https://github.com/gitlabhq/omnibus-gitlab # GitLab Omnibus
+https://gitlab.com/gitlab-org/gitlab-development-kit # Get started with GitLab Rails development using the GDK.
+https://gitlab.com/gitlab-org/gitlab-compose-kit # An alternative to GitLab Development Kit that is fully container-based and immutable
+https://gitlab.com/gitlab-com/runbooks # Runbooks for the stressed on-call
+
+https://github.com/gitlabhq/terraform-provider-gitlab # Terraform GitLab Provider
+https://github.com/gitlabhq/gitlab-runner # GitLab Runner
+https://github.com/gitlabhq/gitlab-recipes # GitLab recipes for setup on different platforms, updating, and more
+https://gitlab.com/gitlab-org/config-audit-tool #
+https://gitlab.com/sethgitlab/ci-template-file #
+https://gitlab.com/gitlab-org/gitlab-terraform-aws-rds-aurora # This project is a working example for managing a database in Amazon RDS Aurora with GitLab and Terraform
+https://gitlab.com/gitlab-org/gitlab-figma-plugin # GitLab Figma Plugin
+https://gitlab.com/gitlab-org/auto-devops-v12-10 # A copy of the Auto DevOps CI templates as they were in GitLab 12.10, prior to the breaking changes
+https://gitlab.com/gitlab-org/gitlab-environment-toolkit # Deploy scaled self-managed GitLab environments using Ansible and Terraform
+https://gitlab.com/gitlab-org/step-runner #
+https://gitlab.com/gitlab-org/vsd-reports-generator #
+https://gitlab.com/gitlab-org/gitlab-zoekt-indexer #
+https://github.com/gitlabhq/gitlab-shell # Replacement for gitolite.
+https://gitlab.com/gitlab-org/gitlab-vscode-extension

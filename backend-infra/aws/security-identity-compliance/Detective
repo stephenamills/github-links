@@ -1,0 +1,26 @@
+https://github.com/aws-samples/amazon-detective-multiaccount-scripts # interact with Amazon Detective in multiple accounts and regions
+https://github.com/aws-samples/aws-security-reference-architecture-examples # Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terra
+form. https://github.com/aws-samples/aws-control-tower-controls-terraform # This repository describes how to use AWS Control Tower controls, HashiCorp Terraform, and infrastructure as code (IaC) to implement and administer preventive, detective, and proactive security contr
+ols. A control (also known as a guardrail) is a high-level rule that provides ongoing governance for your overall AWS Control Tower environment. https://github.com/aws-samples/hardeneks # Runs checks to see if an EKS cluster follows EKS Best Practices.
+https://github.com/aws-samples/aws-control-tower-org-setup-sample # Automated AWS Organizations configuration for security operations
+https://github.com/aws-samples/aws-cloud-custodian-sample-collection #
+https://github.com/aws-samples/secure-data-science-reference-architecture # A collection of recommended practices to accelerate the building of secure data science environments in regulated environments.
+https://github.com/aws-samples/aws-control-tower-controls-cdk # This pattern describes how to use AWS Control Tower Controls, AWS Cloud Development Kit (CDK) and infrastructure as code to implement and administer preventive, detective and proactive security on AWS.
+https://github.com/aws-samples/duplicate-rule-detection-tool # A project to assess the current active AWS Config rules with potential duplicate scope in an AWS account. Our goal is to help customers can make informed decisions on how to streamline their AWS Config rul
+es and reduce complexity. https://github.com/aws-samples/amazon-sagemaker-studio-secure-data-science-workshop # Secure data science with Amazon SageMaker Studio workshop. This workshop creates a reference architecture with security and controls to perform machine learning tasks securely with A
+mazon SageMaker Studio. https://github.com/aws-samples/multi-account-security-governance-workshop # Artifacts to support the multi-account security governance workshop.
+https://github.com/aws-samples/eks-security-compromised-cluster-remediation #
+https://github.com/aws-samples/serverless-governance #
+https://github.com/aws-samples/amazon-sagemaker-secure-mlops #
+https://github.com/aws-samples/deploy-conformance-pack-for-aws-startup-security-baseline #
+https://github.com/aws-samples/detective-security-lake-integration #
+https://github.com/aws-samples/enroll-account-with-config-in-ct #
+https://github.com/aws-samples/jp-contents-hub # AWS の日本語用ハンズオンなどを掲載するウェブサイト
+https://github.com/aws-samples/aws-control-tower-extended-region-support # Extend AWS Control Tower governance using AWS Config Conformance Packs
+https://github.com/aws-samples/sagemaker-image-container-detective-control #
+https://github.com/aws-samples/privatelink-multi-account-governance #
+https://github.com/aws-samples/eks-configrules-with-cdk #
+https://github.com/aws-samples/digav-blueprint #
+https://github.com/awslabs/aws-security-analytics-bootstrap # AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena analysis environment that's quick to deploy, ready to use, and easy to
+maintain. https://github.com/aws/aws-sdk-ruby # The official AWS SDK for Ruby.
+https://github.com/aws/aws-sdk-net # The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:

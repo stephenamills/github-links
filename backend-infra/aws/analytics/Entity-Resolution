@@ -1,0 +1,9 @@
+https://github.com/aws-solutions-library-samples/guidance-for-preparing-and-validating-records-for-entity-resolution-on-aws # This Guidance demonstrates how to prepare and validate Personally Identifiable Information (PII) data, including physical address, phone, and email, for use with AWS Entity Resolution.
+https://github.com/aws-solutions-library-samples/guidance-for-patient-entity-resolution-with-aws-healthlake # AWS HealthLake patient matching with AWS Entity Resolution.This Guidance shows how to use AWS Entity Resolution to perform patient entity resolution on healthcare data stored in AWS HealthLake.
+https://github.com/aws-solutions-library-samples/guidance-for-customizing-normalization-library-for-aws-entity-resolution # This Guidance demonstrates how to customize and apply normalization rules on data as it arrives and prepare it for AWS Entity Resolution.
+https://github.com/aws-solutions-library-samples/guidance-for-using-google-tag-manager-for-server-side-website-analytics-on-aws # This Guidance helps you implement server-side tagging to collect event data and perform data analysis in near real-time.
+https://github.com/aws-solutions-library-samples/guidance-for-implementing-google-privacy-sandbox-key-value-service-on-aws # This Guidance demonstrates how to deploy the Google Chrome Privacy Sandbox Key/Value service within a trusted execution environment (TEE) on AWS
+
+https://github.com/aws-samples/anonymous-to-known-unified-customer-view #
+
+https://github.com/awslabs/sagemaker-graph-entity-resolution #

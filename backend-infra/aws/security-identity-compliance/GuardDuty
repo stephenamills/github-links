@@ -1,0 +1,25 @@
+https://github.com/aws-ia/terraform-aws-guardduty # Configure and deploy AWS GuardDuty.
+https://github.com/aws-ia/cloudformation-tines-guardduty # Tines for Amazon GuardDuty AWS Partner Solution
+
+https://github.com/build-on-aws/automating-amazon-guardduty-with-iac #
+
+https://github.com/aws-samples/amazon-guardduty-multiaccount-scripts # This script automates the process of running the GuardDuty multi-account workflow across a group of accounts that are in your control
+https://github.com/aws-samples/amazon-guardduty-waf-acl # AWS GD2ACL
+https://github.com/aws-samples/aws-control-tower-guardduty-enabler #
+https://github.com/aws-samples/amazon-guardduty-for-aws-organizations-with-terraform # Using Terraform to enable Amazon GuardDuty for accounts in AWS Organizations.
+https://github.com/aws-samples/amazon-guardduty-alexa-sample # Alexa GuardDuty Sample Skill
+https://github.com/aws-samples/amazon-guardduty-automated-response-sample # Automated Amazon GuardDuty Security Response
+https://github.com/aws-samples/aws-incident-response-playbooks-workshop #
+https://github.com/aws-samples/aws-networkfirewall-guardduty #
+https://github.com/aws-samples/amazon-guardduty-to-splunk-enterprise-demo #
+https://github.com/aws-samples/amazon-guardduty-cloudwatch-frequency-script #
+https://github.com/aws-samples/aws-control-tower-org-setup-sample # Automated AWS Organizations configuration for security operations
+https://github.com/aws-samples/amazon-guardduty-threatintelset-script #
+https://github.com/aws-samples/guardduty-malware-protection # This solution is designed to streamline the deployment of GuardDuty Malware Protection for S3, helping you to maintain a secure and reliable S3 storage environment while minimizing the risk of malware infections and their potential consequences. The solution is supporting an AWS Blog
+https://github.com/aws-samples/aws-dnsfirewall-guardduty #
+https://github.com/aws-samples/guardduty-to-sns-mail #
+https://github.com/aws-samples/amazon-guardduty-waf-acl-ssm #
+https://github.com/aws-samples/Multi-account-on-demand-malware-scan-with-Amazon-GuardDuty #
+https://github.com/aws-samples/drs-malware-scan # Perform file-based malware scan on your on-prem servers with AWS
+https://github.com/aws-samples/ingest-and-analyze-aws-security-logs-in-microsoft-sentinel # This pattern describes how to automate the ingestion of security logs, e.g., AWS CloudTrail, Amazon CloudWatch Logs, AWS VPC Flow Logs and Amazon GuardDuty, in Microsoft Sentinel to centrally monitor, detect and analyze security related events and logs.
+https://github.com/awslabs/aws-service-catalog-products # This repository contains a number of CloudFormation templates which can be used independently or as Products with AWS Service Catalog including the Open Source Tools AWS Service Catalog Factory and AWS Service Catalog Puppet. The templates include a number of the foundational AWS Services you may choose to manage Account Compliance including AWS Config, AWS CloudTrail and GuardDuty

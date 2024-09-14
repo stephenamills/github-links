@@ -1,0 +1,31 @@
+https://github.com/aws-ia/cfn-ps-duo-mfa #
+https://github.com/aws-ia/cfn-ps-fsx-windows-file-server #
+
+https://github.com/aws-samples/automate-saml-federation # AWS IAM Role sync with Azure Active Directory
+https://github.com/aws-samples/aws-workspaces-cloudformation-template #
+https://github.com/aws-samples/aws-managed-microsoft-ad-reverse-dns-amazon-route-53-example # Leverage Amazon Route 53 for their AWS Directory Service for Microsoft Active Directory environments.
+https://github.com/aws-samples/getting-started-with-amazon-workspaces-workshop-template #
+https://github.com/aws-samples/aws-secure-environment-accelerator # The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
+https://github.com/aws-samples/aws-amplify-react-native-ios-todo-app #
+https://github.com/aws-samples/amazon-ecs-windows-authentication-blog #
+https://github.com/aws-samples/siem-on-amazon-opensearch-service # A solution for collecting, correlating and visualizing multiple types of logs to help investigate security incidents.
+https://github.com/aws-samples/amazon-workspaces-demo # This guide helps you build an Amazon Workspaces demo environment, including the deployment and configuration of a new Active Directory Domain Forest (corp.example.com) with a two-way trust to an AWS Managed AD Directory.
+https://github.com/aws-samples/workdocs-s3-integration #
+https://github.com/aws-samples/aws-tf-transfer-sftp-efs # AWS Transfer Family SFTP Server using Amazon EFS domain with automated operations
+https://github.com/aws-samples/smb-starter-kits # Designed for AWS Distribution Partners, SMB Starter Kits are packaged customer solutions that address key SMB greenfield use cases. They consist of templated go-to-market and technical content which AWS Distribution Partners can customize and launch with their Distribution sellers to begin selling AWS solutions to customers.
+https://github.com/aws-samples/aws-cdk-ecs-windows-fsx # Python based CDK sample of Windows ECS containers with a FSx for Windows file share
+https://github.com/aws-samples/biotech-blueprint-multi-account # The AWS Biotech Blueprint Multi Account is a landing zone for life sciences startups looking to build well architected research environments in the cloud. This CDK based solution creates the infrastructure as code to manage security, identity, and networking across 10s or 100s of accounts.
+https://github.com/aws-samples/kerberos-linux-clients-rds-sql-server-with-aws-managed-microsoft-ad #
+https://github.com/aws-samples/aws-lambda-ad-cleanup-terraform-samples #
+https://github.com/aws-samples/landing-zone-accelerator-on-aws-for-education # Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+https://github.com/aws-samples/ec2-mac-remote-dev-env # This repository contains the code for the AWS Compute Blog Post "Setting up EC2 Mac instances as shared remote development environments"
+https://github.com/aws-samples/automate-management-of-amazon-workspaces-and-appstream-2-workshop-template #
+https://github.com/aws-samples/aws-saas-factory-hybrid-saas-identity #
+https://github.com/aws-samples/efs-samba-ad-integration-for-windows-access # How to access Amazon Elastic File System volumes from Windows hosts using Samba with Active Directory integration
+
+https://github.com/awslabs/aws-sdk-kotlin # Multiplatform AWS SDK for Kotlin
+https://github.com/awslabs/specctl # CLI to convert Kubernetes specifications to ECS Fargate and vice-versa
+
+https://github.com/aws/aws-parallelcluster-cookbook # The Chef cookbook used to build and bootstrap AWS ParallelCluster
+https://github.com/aws/aws-sdk-ruby # The official AWS SDK for Ruby.
+https://github.com/aws/aws-sdk-net # The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:

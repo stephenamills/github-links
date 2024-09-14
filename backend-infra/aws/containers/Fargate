@@ -1,0 +1,97 @@
+https://github.com/aws-solutions-library-samples/cfn-ps-dotnetcore-fargate-cicd #
+https://github.com/aws-solutions-library-samples/c2pa-workloads-on-aws # C2PA on AWS Blog
+
+https://github.com/aws-ia/terraform-aws-eks-blueprints # Configure and deploy complete EKS clusters.
+https://github.com/aws-ia/terraform-aws-ecs-fargate # AWS ECS Fargate Module
+https://github.com/aws-ia/cfn-ps-mongodb-atlas-mean-stack-aws-fargate-integration #
+
+https://github.com/aws-samples/serverless-jenkins-on-aws-fargate #
+https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate # Managing your machine learning lifecycle with MLflow and Amazon SageMaker
+https://github.com/aws-samples/amazon-ecs-fargate-cdk-v2-cicd # Amazon CI/CD pipeline deploying to ECS Fargate using CDK V2
+https://github.com/aws-samples/amazon-ecs-fargate-aspnetcore # A prescriptive guidance on how to host an ASP.NET core application in AWS Fargate using Linux containers.
+https://github.com/aws-samples/aws-fargate-fast-autoscaler # AWS Fargate Fast Autosaler - A Serverless Implementation that Triggers your Fargate Autoscaling in Seconds
+https://github.com/aws-samples/aws-xray-fargate # Code examples showing how to run AWS X-Ray as a sidecar container on Fargate for deep application insights.
+https://github.com/aws-samples/amazon-ecs-firelens-examples # Sample logging architectures for FireLens on Amazon ECS and AWS Fargate.
+https://github.com/aws-samples/cdk-eks-fargate #
+https://github.com/aws-samples/aws-reinvent-trivia-game # Sample trivia game built with AWS Fargate.
+https://github.com/aws-samples/distributed-load-testing-using-aws-fargate # Solution to setup AWS Fargate to run multi-region distributed performance testing.
+https://github.com/aws-samples/startup-kit-templates # CloudFormation templates to accelerate getting started on AWS.
+https://github.com/aws-samples/ecs-blue-green-deployment # Reference architecture for doing blue green deployments on ECS.
+https://github.com/aws-samples/aws-stepfunctions-ecs-fargate-process #
+https://github.com/aws-samples/aws-ecs-cicd-terraform # Build and Deploy Spring Petclinic Application to Amazon ECS (Fargate) using Terraform and AWS CodePipeline
+https://github.com/aws-samples/aws-fargate-with-rstudio-open-source # Run open-source RStudio Server and Shiny.
+https://github.com/aws-samples/cdk-fargate-gitlab-runner #
+https://github.com/aws-samples/run-selenium-tests-at-scale-using-ecs-fargate # Run integration and regression tests quicker and cheaper to improve the CI/CD process.
+https://github.com/aws-samples/aws-fargate-pipeline-lambda-autoscaling # Fargate autoscaling pipeline for batch processing events from SQS
+https://github.com/aws-samples/drupal-on-ecs-fargate #
+https://github.com/aws-samples/aws-copilot-sample-service # Use AWS Copilot to deploy this simple application to Amazon ECS and AWS Fargate.
+https://github.com/aws-samples/amazon-ecs-fargate-workshop-dev-ops-data # Amazon ECS Fargate workshop for developers, operators, and data engineers
+https://github.com/aws-samples/aws-fargate-log-aggregator-with-fluentd # A reference architecture for running a Fluentd Log Aggregator on AWS Fargate, which forwards logs to Kinesis Firehose
+https://github.com/aws-samples/amazon-kinesis-data-processor-aws-fargate # Sample code for the AWS Big Data Blog Post Building a scalable streaming data processor with Amazon Kinesis Data Streams on AWS Fargate
+https://github.com/aws-samples/amazon-ecs-fargate-consul-connect-example #
+https://github.com/aws-samples/eks-efs-share-within-fargate #
+https://github.com/aws-samples/fargate-game-servers # Scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend.
+https://github.com/aws-samples/aws-quarkus-demo # Quarkus example projects for Amazon ECS and Amazon EKS with AWS Fargate and AWS Lambda
+https://github.com/aws-samples/aws-mlflow-sagemaker-cdk # MLflow on AWS Fargate integrated with Amazon SageMaker.
+https://github.com/aws-samples/sqs-fargate-ddb-cdk-go #
+https://github.com/aws-samples/ipfs-cluster-fargate #
+https://github.com/aws-samples/ecs-fargate-drain-function #
+https://github.com/aws-samples/http-api-aws-fargate-cdk # Build HTTP API Based Services using Amazon API Gateway, AWS PrivateLink, AWS Fargate and AWS CDK
+https://github.com/aws-samples/retail-demo-store # Sample retail web application and workshop platform
+https://github.com/aws-samples/containers-fargateprofile-devops-via-codepipeline #
+https://github.com/aws-samples/aws-copilot-fargate #
+https://github.com/aws-samples/twelve-factor-app-ecs-blog # Blog post about developing Twelve Factor Apps on ECS using Fargate.
+https://github.com/aws-samples/fargate-reverse-proxy-with-static-ips #
+https://github.com/aws-samples/designing-cloud-native-microservices-on-aws # Workshop to design microservices via EventStorming workshop, this is a hands-on workshop.
+https://github.com/aws-samples/java-spring-boot-ecs-fargate-redis-caching #
+https://github.com/aws-samples/pizza-delivery-tracker # Pizza Delivery Tracker using AWS Amplify, Amazon Location Service, AWS AppRunner, and AWS Fargate.
+https://github.com/aws-samples/aws-stepfunctions-eks-fargate-process #
+https://github.com/aws-samples/fargate-serverless-platform-operator-kit # Serverless Platform Operator Kit (SPOK)
+https://github.com/aws-samples/aws-tf-prowler-fargate # Terraform module to perform security assessment in AWS Organizations using Prowler on AWS Fargate.
+https://github.com/aws-samples/amazon-ecs-for-beginners-catsdogs # Workshop on Amazon ECS and Fargate
+https://github.com/aws-samples/aws-codepipeline-docker-vulnerability-scan # CoreOS Clair and Nginx Website on ECS Fargate as an ECS Service. Also create a CodePipeline for updating the Nginx ECS service on code change.
+https://github.com/aws-samples/ssr-micro-frontends # This is an SSR and micro-frontends example using AWS services such as Lambda functions, Step Functions and Fargate
+https://github.com/aws-samples/fargate-efs-cloudformation-deployment-example # Automating Amazon EFS file systems mounts for AWS Fargate
+https://github.com/aws-samples/amazon-efs-integrations # Amazon EFS Integrations
+https://github.com/aws-samples/deploy-langfuse-on-ecs-with-fargate # Hosting Langfuse on Amazon ECS with Fargate using CDK Python
+https://github.com/aws-samples/amazon-ecr-privatelink-blog # Source code for Private Link ECR cross account Fargate Deployment
+https://github.com/aws-samples/aws-fargate-seekable-oci-toolbox #
+https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop # AWS Fargate tutorial to build a sample website
+https://github.com/aws-samples/eks-fargate-example #
+https://github.com/aws-samples/aws-jenkins-ecs-cdk # Build and Deploy Jenkins as code to ECS Fargate using AWS CDK.
+https://github.com/aws-samples/aws-codedeploy-linear-canary-deployments-blog # AWS CodeDeploy blue/green deployment support for Elastic Container Service (Amazon ECS) to include canary and linear deployments
+https://github.com/aws-samples/aws-fargate-outbound-connector-transfer-family #
+https://github.com/aws-samples/aws-sagemaker-fargate-dask #
+https://github.com/aws-samples/research-pacs-on-aws # The Research PACS on AWS solution facilitates researchers' access medical images stored in the clinical PACS in a secure and seamless manner
+https://github.com/aws-samples/amazon-kinesis-eks-fargate-consumer #
+https://github.com/aws-samples/cdk-pipelines-ecs-cross-account # This repository shows how to use CDK Pipelines to create a cross-account CI/CD pipeline for Amazon Elastic Container Service (ECS)
+https://github.com/aws-samples/k6-fargate-cloudwatch-with-cdk # This sample project provides an easy way to run load test with a K6 container in an ECS Fargate Task. The metrics are collected by the CloudWatch Agent sidecar in the Fargate Task. This project also provides a CloudWatch Dashboard to view the load testing result in the CloudWatch.
+https://github.com/aws-samples/aws-fargate-falco-examples #
+https://github.com/aws-samples/aws-copilot-cli-streamlit # Rapidly deploy a Machine Learning ML service on Amazon Web Services (AWS) Cloud, using AWS Farget and Streamlit
+https://github.com/aws-samples/tweet-classification # Tweet classification for real-time alerts with Amazon SageMaker and Hugging Face
+https://github.com/aws-samples/aws-cdk-localgov-drupal-fargate-efs-auroraserverlessv2 #
+https://github.com/aws-samples/aws-fargate-server-sent-events-sse-amazon-kinesis-data-streams # Ingest Server-Sent Events (SSE) using AWS Fargate and Kinesis
+https://github.com/aws-samples/amazon-msk-java-app-cdk # Data processing application created using Amazon Managed Streaming for Apache Kafka (Amazon MSK), Fargate, Lambda and DynamoDB.
+https://github.com/aws-samples/eks-fargate-aquasec #
+https://github.com/aws-samples/aws-ecs-springboot-opentelemetry-sample # SpringBoot integration with AWS Distro for OpenTelemetry on Amazon ECS
+https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-amazon-ecs-fargate-and-amazon-api-gateway # Train an XGBoost regression model on SageMaker and host inference on a Docker container running on Fargate and optionally expose it as an API with Amazon API Gateway.
+https://github.com/aws-samples/fargate-ses-relay #
+https://github.com/aws-samples/cdk-fargate-bulkload-dynamodb #
+https://github.com/aws-samples/aws-autonomous-driving-data-lake-ros-bag-visualization-using-webviz # Sample application to deploy Webviz to ECS Fargate and use it to visualize ROS Bag files streamed from S3
+https://github.com/aws-samples/aws-do-docker # Sample project to help you build Docker containers and run them locally or on AWS.
+https://github.com/aws-samples/bcs-disaster-recovery-portal-dynamodb-stream # This package contains AWS Fargate task to manage and process Amazon DynamoDB stream.
+https://github.com/aws-samples/amazon-ecs-fargate-clock-accuracy #
+https://github.com/aws-samples/aws-wickr-data-retention-on-fargate # Sample CloudFormation code to install an AWS Wickr Data Retention bot on AWS Fargate
+https://github.com/aws-samples/ecs-blue-green-global-deployment-with-multiregion-cmk-codepipeline # Global Blue/Green deployments in multiple regions and accounts for ECS Fargate using AWS Codepipeline and Cloudformation
+https://github.com/aws-samples/ai-powered-text-insights #
+https://github.com/aws-samples/waitcondition-hook-for-aws-fargate-task #
+https://github.com/aws-samples/aws-cdk-sample-devsecops-ecs-fargate # Sample CDK script to build DevSecOps pipeline for AWS ECS Fargate using open source tools.
+https://github.com/aws-samples/capturing-aws-fargate-task-retirement-notifications #
+https://github.com/aws-samples/amazon-ecs-fargate-nlb-external-deployment-with-scaledown #
+https://github.com/aws-samples/cloudformation-transfer-family-efs-ecs-example # Example project to integrate Amazon ECS, Amazon EFS and AWS Transfer Family
+https://github.com/aws-samples/amazon-codeguru-reviewer-github-actions-shift-left-example # Deep dive demo for the Amazon CodeGuru Reviewer with GitHub Actions, and Amazon CodeGuru Profiler with Java and Python on AWS Lambda
+
+https://github.com/aws/containers-roadmap # This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+https://github.com/aws/amazon-ecs-cli # Command-line tool to run applications on ECS/Fargate using the Docker Compose file format
+https://github.com/aws/copilot-cli # Command-line tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
+https://github.com/aws/shim-loggers-for-containerd # Shim logger repository for streaming container logs when using Containerd

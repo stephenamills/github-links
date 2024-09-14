@@ -1,0 +1,30 @@
+https://github.com/aws-solutions-library-samples/guidance-for-disaster-recovery-using-amazon-aurora # Comprehensive disaster recovery (DR) solution for Amazon Aurora.
+
+https://github.com/aws-samples/disaster-recovery-workshop # Workshop about techniques to implement your disaster recovery strategies based on an AWS multi-region approach.
+https://github.com/aws-samples/amazon-workspaces-disaster-recovery-example # A CloudFormation template that creates a multi-region Disaster Recovery environment for Amazon WorkSpaces.
+https://github.com/aws-samples/disaster-recovery-playbook-for-aws-cn # Disaster Recovery, DR, Backup for AWS CN
+https://github.com/aws-samples/mwaa-disaster-recovery # Disaster recovery solution for Amazon Managed Workflows for Apache Airflow (MWAA)
+https://github.com/aws-samples/aws-draco # Serverless Event Driven framework for Copying of Snapshots to a Disaster Recovery Account
+https://github.com/aws-samples/drs-tools # Collection of solutions and tools for the AWS Elastic Disaster Recovery (DRS) service.
+https://github.com/aws-samples/bcs-disaster-recovery-portal-vpc # This package contains AWS Lambda handlers to manage Amazon Virtual Private Cloud (Amazon VPC).
+https://github.com/aws-samples/bcs-disaster-recovery-portal-lambda-base # This package contains commonly used classes shared by other AWS Lambda packages of this project.
+https://github.com/aws-samples/bcs-disaster-recovery-portal-s3 #
+https://github.com/aws-samples/bcs-disaster-recovery-portal-common #
+https://github.com/aws-samples/bcs-disaster-recovery-portal-dynamodb # AWS Lambda handlers to manage Amazon DynamoDB.
+https://github.com/aws-samples/bcs-disaster-recovery-portal-formation #
+https://github.com/aws-samples/bcs-disaster-recovery-portal-lambda # AWS Lambda handlers to perform common tasks, such as project management and network configuration
+https://github.com/aws-samples/bcs-disaster-recovery-portal-server # This package contains the backend service for this project.
+https://github.com/aws-samples/bcs-disaster-recovery-portal-mysql-dump # This package contains AWS Lambda handlers to manage MySQL database dump and restore by the official tools.
+https://github.com/aws-samples/bcs-disaster-recovery-portal-dynamodb-stream # This package contains AWS Fargate task to manage and process Amazon DynamoDB stream.
+https://github.com/aws-samples/bcs-disaster-recovery-portal-cloud-endure # This package contains AWS Lambda handlers to manage CloudEndure.
+https://github.com/aws-samples/aws-elastic-disaster-recovery-with-aws-site-to-site-vpn # Set up AWS Elastic Disaster Recovery (DRS) using an AWS Site-To-Site VPN connection between a simulated on-premise environment and a VPC.
+https://github.com/aws-samples/amazon-redshift-disaster-recovery # Guidance on how to restore an Amazon Redshift cluster to a secondary region if the cluster becomes unavailable/unreachable in the primary region.
+https://github.com/aws-samples/automate-disaster-recovery-for-self-managed-active-directory-on-aws # Sample code and walk through for automating disaster recovery for self-managed Active Directory on AWS.
+https://github.com/aws-samples/aws-kinesis-data-streams-replicator # Real-time replication of data between Kinesis Data Streams in two regions, for easy disaster recovery facilitation
+https://github.com/aws-samples/sagemaker-domain-disaster-recovery # SageMaker Domain (SageMaker Classic) Disaster Recovery
+https://github.com/aws-samples/serverless-disaster-recovery-with-global-accelerator # Serverless Disaster Recovery with AWS Global Accelerator Demo
+https://github.com/aws-samples/disaster-recovery-for-on-premise-hyperv-using-drs #
+https://github.com/aws-samples/aws-cdk-drs-agent-installer # This project provides a set of examples for installing the AWS Elastic Disaster Recover agent to EC2 instances within an AWS environment
+https://github.com/aws-samples/sagemaker-domain-cross-region-disaster-recovery-using-custom-efs # CDK code for the AWS blog "SageMaker Domain Cross Region Disaster Recovery Using Custom EFS"
+
+https://github.com/awslabs/disaster-recovery-for-aws-iot # Store and process their data in a second AWS Region if the primary Region is not available.

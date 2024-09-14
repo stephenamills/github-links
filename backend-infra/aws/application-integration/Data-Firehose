@@ -1,0 +1,173 @@
+https://github.com/aws-solutions-library-samples/guidance-for-using-google-tag-manager-for-server-side-website-analytics-on-aws # This Guidance helps you implement server-side tagging to collect event data and perform data analysis in near real-time.
+https://github.com/aws-solutions-library-samples/guidance-for-predictive-maintenance-with-amazon-monitron # This Guidance helps you generate actionable insights for predictive maintenance management in industrial environments using Amazon Monitron and other AWS services.
+https://github.com/aws-solutions-library-samples/guidance-for-game-analytics-pipeline-on-aws # The Game Analytics Pipeline solution helps game developers to apply a flexible, and scalable DataOps methodology to their games. Allowing them to continuously integrate, and continuously deploy a scalable serverless data pipeline for ingesting, storing, and analyzing telemetry data generated from games, and services.
+https://github.com/aws-solutions-library-samples/guidance-for-tracking-assets-and-locating-devices-using-aws-iot # This Guidance demonstrates how to stream location data from your assets and devices with Internet of Things (IoT) sensors, helping you record and monitor the movement of your assets through a centralized management system
+
+https://github.com/aws-ia/terraform-aws-networkfirewall # Terraform module to deploy AWS Network Firewall
+https://github.com/aws-ia/terraform-aws-amazonconnect # Amazon Connect
+https://github.com/aws-ia/terraform-aws-vpc_endpoints # Terraform AWS VPC endpoints module
+
+https://github.com/aws-samples/aws-waf-firewall-manager-terraform #
+https://github.com/aws-samples/aws-lambda-extensions # A collection of sample extensions to help you get started with AWS Lambda Extensions
+https://github.com/aws-samples/aws-blog-firehose-custom-prefixes-for-s3-objects # Sample code for blog - Custom S3 Prefixes and Kinesis Data Firehose
+https://github.com/aws-samples/analyzing-reddit-sentiment-with-aws # Learn how to use Kinesis Firehose, AWS Glue, S3, and Amazon Athena by streaming and analyzing reddit comments in realtime. 100-200 level tutorial.
+https://github.com/aws-samples/aws-ingesting-click-logs-using-terraform # Provision AWS infrastructure using Terraform (By HashiCorp): an example of web application logging customer data
+https://github.com/aws-samples/amazon-ecs-fluent-bit-daemon-service # Fluent Bit plugin-based centralized log analysis across Amazon ECS & EKS clusters
+https://github.com/aws-samples/aws-waf-dashboard # 1 click deployment for creating AWS WAF dashboard
+https://github.com/aws-samples/aws-fargate-log-aggregator-with-fluentd # A reference architecture for running a Fluentd Log Aggregator on AWS Fargate, which forwards logs to Kinesis Firehose
+https://github.com/aws-samples/app-2025 # Use architecture patterns from the future to build on AWS today!
+https://github.com/aws-samples/aws-serverless-workshops # Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+https://github.com/aws-samples/aws-ml-data-lake-workshop # As customers move from building data lakes and analytics on AWS to building machine learning solutions, one of their biggest challenges is getting visibility into their data for feature engineering and data format conversions for using AWS SageMaker. In this workshop, we demonstrate best practices and build data pipelines for training data using Amazon Kinesis Data Firehose, AWS Glue, and Amazon SageMaker, and then we use Amazon SageMaker for inference.
+https://github.com/aws-samples/aws-centralize-logs-using-cdk #
+https://github.com/aws-samples/aws-waf-ops-dashboards #
+https://github.com/aws-samples/aws-proton-sample-lambda-data-processing-service #
+https://github.com/aws-samples/integration-sample-lambda-msk #
+https://github.com/aws-samples/amazon-ecs-firelens-examples # Sample logging architectures for FireLens on Amazon ECS and AWS Fargate.
+https://github.com/aws-samples/aws-serverless-centralized-logs # The purpose of this sample is to show how to create a serverless and centralized architecture to ingest, store and query logs utilizing Amazon Kinesis Data Firehose, Amazon S3 and Amazon Athena.
+https://github.com/aws-samples/serverless-realtime-analytics # Demo application on how to create a serverless realtime analytics application using Kinesis Data Streams, Kinesis Firehose, DynamoDB and Lambda, using Cognito to secure the App.
+https://github.com/aws-samples/amazon-emr-optimize-data-processing # Optimizing downstream data processing with Amazon Kinesis Data Firehose and Amazon EMR running Apache Spark
+https://github.com/aws-samples/aws-saas-factory-ref-solution-metrics-analytics #
+https://github.com/aws-samples/aws-security-hub-findings-export #
+https://github.com/aws-samples/communication-developer-services-reference-architectures # AWS Amazon Pinpoint and Amazon Simple Email Service (SES) Digital User Engagement Reference Architectures with CloudFormation templates.
+https://github.com/aws-samples/aws-research-workshops # This repo provides a managed SageMaker jupyter notebook with a number of notebooks for hands on workshops in data lakes, AI/ML, Batch, IoT, and Genomics.
+https://github.com/aws-samples/finding-missing-persons-using-social-media-and-amazon-rekognition # Collection of Python and AWS Lambda scripts to find a missing person using twitter streaming data and Amazon Rekognition
+https://github.com/aws-samples/aws-security-hub-glue-aggregator-terraform # These Terraform modules aggregate Security Hub findings to centralized account using Amazon Kinesis Firehose and AWS Glue
+https://github.com/aws-samples/aws-emr-serverless-using-terraform #
+https://github.com/aws-samples/sitewise-data-ingestion-demo # This project provides a demonstration of up to 10,000 industrial assets, each with four tags, that can flow data through AWS IoT SiteWise and into a data lake built across Amazon S3 and Amazon Timestream.
+https://github.com/aws-samples/aws-5g-network-performance-analytics # Code to support the AWS Big Data Blog post Build a cloud-native network performance analytics solution on AWS for wireless service providers.
+https://github.com/aws-samples/building-a-realtime-data-platform-workshop # A self-paced workshop designed to allow you to get hands on with building a real-time data platform using serverless technologies such as Kinesis Firehose, AWS Lambda and Amazon Elasticsearch.
+https://github.com/aws-samples/aws-dms-cdc-data-pipeline # Data Pipeline for CDC data from MySQL DB to Amazon OpenSearch Service through Amazon Kinesis using Amazon Data Migration Service(DMS).
+https://github.com/aws-samples/aws-stepfunctions-ecs-fargate-process #
+https://github.com/aws-samples/aws-iot-greengrass-v2-using-aws-cdk # aws greengrass version2 based realtime data ingestion - all resources are created by aws cdk
+https://github.com/aws-samples/amazon-sagemaker-ab-testing-pipeline # Amazon SageMaker MLOps deployment pipeline for A/B Testing of machine learning models.
+https://github.com/aws-samples/client-event-sample #
+https://github.com/aws-samples/how-to-identify-and-block-fake-crawler-bots-using-aws-waf #
+https://github.com/aws-samples/aws-analytics-immersion-day # Describes the concepts of lambda architecture and the actual deployment process with an example of building a serverless business intelligence systems using Amazon Kinesis, S3, Athena, OpenSearch Service, and QuickSight.
+https://github.com/aws-samples/serverless-stream-processing-at-scale #
+https://github.com/aws-samples/r53resolver-query-log-parser #
+https://github.com/aws-samples/api-eventbridge-lambda-typescript #
+https://github.com/aws-samples/aws-soc-dashboard #
+https://github.com/aws-samples/aws-dynamodb-kinesisfirehose-s3-ingestion #
+https://github.com/aws-samples/opensearch-serverless-common-usage-patterns # Typical use cases of opensearch serverelss: search, time-series, kinesis firehose integration, securing with VPC
+https://github.com/aws-samples/aws-serverless-tracking-pixel # This solution deploys a lambda function and an API Gateway HTTP API to process tracking information from the HTTP request, returning a 1x1 transparent pixel so it can be invoked from an IMG HTML tag. The p
+rocessing AWS Lambda Function sends the parsed information to an Amazon Kinesis Data Firehose Stream that should already exist. This solution is created as a baseline to be modified so it adapts to the specific use-case, according to the incoming information that should be processed.
+https://github.com/aws-samples/build-dynamodb-integration-with-kinesis #
+https://github.com/aws-samples/aws-bikenow-demo # AWS BikeNow Demo is a sample web application that demonstrates the breadth and depth of database, analytics, and AI/ML services on AWS.
+https://github.com/aws-samples/aws-dbs-refarch-edw # Repository for AWS DBS Reference Architectures - Enterprise Data Warehousing
+https://github.com/aws-samples/unified-log-aggregation-and-analytics # The proposed solution shows and approach to unify and centralize logs across different compute platforms like EC2, ECS, EKS and Lambda with Kinesis Data Firehose using log collection agents (EC2 Kinesis agent), log routers (Fluentbit and Firelens) and lambda extension. We can easily deploy the solution presented here on the customer site using the CDK scripts packaged part of this article. Amazon managed Elastic search with Kibana is used to visualize the logs collected across different applications running on different compute platforms.
+https://github.com/aws-samples/amazon-chime-voiceconnector-cdr-processing #
+https://github.com/aws-samples/amazon-lookout-for-vision-serverless-app # This project contains source code and supporting files for a serverless application which can be used for detecting defects in products in manufacturing assembly lines, storing inference results and sending real-time email notifications on defect detection.
+https://github.com/aws-samples/serverless-datalake # Serverless Datalake architecture
+https://github.com/aws-samples/aws-building-data-lake-reinvent-session-stg206 # Collection of Cloud Formation Templates, Lambda Scripts and sample code required to provision an AWS Data Lake for a ReInvent Lab Exercise
+https://github.com/aws-samples/aws-waf-automation-terraform-samples #
+https://github.com/aws-samples/aws-financial-data-discovery-samples # Sample code to discover financial data in S3 using Amazon Macie and automatically apply lifecycle policies
+https://github.com/aws-samples/aurora-das-processing #
+https://github.com/aws-samples/amazon-ivs-qos-dashboard-timed-metadata-sample # Sample application for measuring the performance and audience experience of streaming video delivered via Amazon Interactive Video Service
+https://github.com/aws-samples/automate-cloud-watch-subscription-filters #
+https://github.com/aws-samples/amazon-eventbridge-freshdesk-example #
+https://github.com/aws-samples/cdk-qldb-streaming #
+https://github.com/aws-samples/aws-cdk-centralize-logs-typescript # This is a CDK project that set up centralized logging to an S3 bucket via a Kinesis Firehose. The solution allows you to specify trusted accounts for different regions and then will configure the CloudWatch Log Delivery Endpoint with proper permission in those regions Solution is based heavily on Centralize Cloudwatch Log with CDK
+https://github.com/aws-samples/aws-centralize-logs-using-cdk https://github.com/aws-samples/web-analytics-on-aws # This web analytics demo shows how to collect web logs with API Gateway and store them into S3 through Amazon Kinesis. Then this project shows how to analyze web logs with Amazon Athena.
+https://github.com/aws-samples/aws-stepfunctions-eks-fargate-process #
+https://github.com/aws-samples/amazon-kinesis-analytics-realtime-anomaly-detection # Sample for the German article "Anomalie-Erkennung für Echtzeit-Datenströme" by Constantin Gonzalez and Florian Mair published in Big Data Insider.
+https://github.com/aws-samples/amazon-ses-analytics-blog # Prerequisites stack for Amazon SES Analytics blog
+https://github.com/aws-samples/aws-health-events-insight # centralized approach to store and analyze AWS Health events(PHD,SHD)
+https://github.com/aws-samples/data-masking-fine-grained-access-using-aws-lake-formation #
+https://github.com/aws-samples/amazon-codewhisperer-usage-analyzer # The Amazon CodeWhisperer usage analyzer is used to perform analysis on code suggestions and security scans for Organizations using the CodeWhisperer professional tier.
+https://github.com/aws-samples/rekognition-streaming-video-events # This repository provides a step-by-step setup of Amazon Rekognition’s Streaming Video Events for connected home use cases.
+https://github.com/aws-samples/serverless-streaming-data-application # Code companion to AWS Compute Series on building a serverless backend for a streaming application. Questions? Contact @jbesw.
+https://github.com/aws-samples/aws-vpc-flowlogs-enricher #
+https://github.com/aws-samples/amazon-cloudwatch-agent-to-archive-logs #
+https://github.com/aws-samples/saas-metering-system-on-aws # This project shows how to implement a simple SaaS metering system on AWS
+https://github.com/aws-samples/decrypt-das-aws-rds #
+https://github.com/aws-samples/streaming-data-pipeline-from-kafka-to-s3-using-aws-kinesis-firehose # Streaming data pipeline to continuously load data from an Amazon MSK or MSK Serverless cluster to Amazon S3 using Amazon Kinesis Data Firehose.
+https://github.com/aws-samples/genai-llm-application-monitoring-on-aws #
+https://github.com/aws-samples/flink-industrial-anomaly-detector #
+https://github.com/aws-samples/sending-cloudwatch-logs-to-splunk-using-amazon-kinesis-data-firehose # This solution helps customers to send logs from CloudWatch via Amazon Kinesis Firehose to Splunk Enterprise or Splunk Cloud as a delivery destination. Amazon Kinesis Firehose allows fully-managed, reliable and scalable data streaming to Splunk.
+https://github.com/aws-samples/aws-network-firewall-strict-rule-ordering-terraform #
+https://github.com/aws-samples/cloudwatch-to-opensearch # Sample code to demonstrate ingestion of Amazon CloudWatch logs into Amazon OpenSearch Serverless
+https://github.com/aws-samples/build-a-security-monitoring-solution-with-aws-appfabric-and-amazon-security-lake #
+https://github.com/aws-samples/amazon-personalize-data-conversion-pipeline # Sample data conversion pipeline for importing data into Amazon Personalize.
+https://github.com/aws-samples/automatically-archive-items-to-s3-using-dynamodb-ttl #
+https://github.com/aws-samples/aws-glue-cdk-observability-dashboard #
+https://github.com/aws-samples/connect-cdk-blog #
+https://github.com/aws-samples/kafkatopics-to-deliverystream-mapper #
+https://github.com/aws-samples/personalization-apis # Real-time low latency API framework that sits between your applications and recommender systems such as Amazon Personalize
+https://github.com/aws-samples/hub-and-spoke-with-inspection-vpc-cdk #
+https://github.com/aws-samples/load-cdc-data-by-table-and-shape-firehose-dynamic-partitioning #
+https://github.com/aws-samples/aws-msk-cdc-data-pipeline-with-debezium # Data Pipeline for CDC data from MySQL DB to Amazon S3 through Amazon MSK using Amazon MSK Connect (Debezium).
+https://github.com/aws-samples/ingesting-iot-data-into-amazon-s3-using-amazon-kinesis-data-firehose #
+https://github.com/aws-samples/automatic-mediapackage-access-logs-dashboard #
+https://github.com/aws-samples/customer-profiles-export-demo # Export Amazon Connect Customer Profiles events to S3 and Salesforce
+https://github.com/aws-samples/serverless-data-analytics # CloudFormation templates and scripts to setup the AWS services for the workshop, Athena & Redshift Spectrum queries
+https://github.com/aws-samples/shopfloor-connectivity # Shop Floor Connectivity (SFC) is an industrial data ingestion enabler, that can quickly deliver customizable greenfield & brownfield connectivity solutions.
+https://github.com/aws-samples/amazon-location-service-data-analytics #
+https://github.com/aws-samples/appfabric-sample-log-generator #
+https://github.com/aws-samples/audit-aws-service-events-with-event-bridge-firehose #
+https://github.com/aws-samples/amazon-ses-event-data-dashboard-analysis #
+https://github.com/aws-samples/waf-log-sample-athena-queries #
+https://github.com/aws-samples/amazon-connect-data-analytics-sample #
+https://github.com/aws-samples/aws-fargate-server-sent-events-sse-amazon-kinesis-data-streams # When dealing with real-time data it is often required to send that data over the internet to various sources. Various technologies have enabled this such as web sockets and long polling. Recently server-sent events (SSE) has become a popular technology to push updates to clients. Ingesting this type of data source into AWS requires a client to be running continuously to receive those events. This sample shows how to connect to an SSE endpoint using AWS Fargate. This sample creates a docker image with a simple SSE client which publishes to an Amazon Kinesis Data Streams stream, then we simply store the event data in Amazon S3.
+https://github.com/aws-samples/appfabric-data-analytics #
+https://github.com/aws-samples/aws-reinvent-2019-builders-session-opn215 #
+https://github.com/aws-samples/hub-and-spoke-with-traffic-segmentation # Terraform Repository that shows how traffic segmentation can be achieved in a Hub and Spoke architecture with AWS Transit Gateway Route Tables.
+https://github.com/aws-samples/energy-storage-monitoring-and-grid-integration-planning #
+https://github.com/aws-samples/pinpoint-api-blog #
+https://github.com/aws-samples/satellite-comms-analytics-aws # Satellite Communication Data Analytics Pipelines using AWS serverless
+https://github.com/aws-samples/secure-web-application-with-firewall-logging-alerting #
+https://github.com/aws-samples/aws-kinesis-firehose-resources #
+https://github.com/aws-samples/multiple-accounts-multiple-amazon-pinpoint-projects # This AWS CDK project is an example implementation of the "Multiple Accounts & Multi Pinpoint Projects (MA/MP)"
+https://github.com/aws-samples/aws-glue-apache-spark-unittesting-using-localstack # This codebase covers a use-case that describes how to setup local AWS Glue and Apache Spark environment to perform automated unit testing using localstack. The code and tests here are intended as examples and helps getting started on the local setup. The setup script helps setup the required environment that can be used as a base to write codebase and tests required for specific application requirements.
+https://github.com/aws-samples/apache-flink-near-online-data-enrichment-patterns #
+https://github.com/aws-samples/social-graph-based-people-recommender-using-amazon-neptune-and-textract # biz card management & social network analysis system (PoC version a.k.a Remember)
+https://github.com/aws-samples/amazon-cloudfront-pixel-tracking # Sample application for pixel tracking using edge services on AWS
+https://github.com/aws-samples/amazon-rds-audit-log #
+https://github.com/aws-samples/unlocking-the-potential-of-generative-ai-in-industrial-operations #
+https://github.com/aws-samples/build-an-air-quality-anomaly-detector #
+https://github.com/aws-samples/aws-opensearch-ingestion-tutorials # This sample codes show how to ingest data into Amazon OpenSearch or OpenSearch Serverless using OpenSearch Ingestion. Amazon OpenSearch Ingestion is a kind of alternative for OpenSource Logstash or Amazon Kinesis Data Firehose.
+https://github.com/aws-samples/amazon-pinpoint-manage-email-unsubscribes #
+https://github.com/aws-samples/realtime-sentiment-blog-public #
+https://github.com/aws-samples/aws-iot-device-defender-and-splunk #
+https://github.com/aws-samples/aws-pipelines-stepfn-integ-cdk #
+https://github.com/aws-samples/amazon-vpc-flowlogs-to-netflow #
+https://github.com/aws-samples/amazon-kinesis-data-analytics-apache-flink-server-sent-events-sse # When dealing with real-time data it is often required to send that data over the internet to various sources. Various technologies have enabled this such as web sockets and long polling. Recently server-sent events (SSE) has become a popular technology to push updates to clients. Ingesting this type of data source into AWS requires a client to be running continuously to receive those events. This sample shows how to connect to an SSE endpoint using an Amazon Kinesis Data Analytics application using Apache Flink. As the events arrive they are published to an Amazon Kinesis Data Streams stream then in this sample we simply store the event data in Amazon S3.
+https://github.com/aws-samples/amazon-eventbridge-for-ecr-api-calls # In this GitHub repository, you will get a step by step guidance to deploy an Amazon CloudFormation (CFN) template to automatically create all the resources and settings required to enable SNS Notification for EventBridge Rule API Calls for Elastic Container Registry (ECR) Service.
+https://github.com/aws-samples/aws-iot-lorawan-coverage-map-calculator #
+https://github.com/aws-samples/aws-saas-factory-multi-tenant-data-pipeline #
+https://github.com/aws-samples/anonymous-to-known-unified-customer-view #
+https://github.com/aws-samples/appfabric-log-transformer #
+https://github.com/aws-samples/aws-msk-serverless-cdc-data-pipeline-with-debezium # Data Pipeline for CDC data from MySQL DB to Amazon S3 through Amazon MSK Serverless using Amazon MSK Connect (Debezium).
+https://github.com/aws-samples/aws-trip-aggregation-sample # Sample Serverless architecture for automatically ingesting, reducing and aggregating telemetry information of devices and trips, available to end users through REST APIs
+https://github.com/aws-samples/aws-realtime-image-analysis # This sample project is a real-time image analysis system. As an image is uploaded, the real-time image analysis system annotates tags on the image using Amazon Rekognition and ingests image tags into Amazon Elasticsearch for analyzing image labels.
+https://github.com/aws-samples/personalize-pet-recommendations #
+https://github.com/aws-samples/sns-xray-active-tracing-blog-source-code # This sample application demonstrates Amazon SNS with AWS X-Ray active tracing
+https://github.com/aws-samples/appstream-session-latency-dashboard #
+https://github.com/aws-samples/iceberg-streaming-examples # This repo contains examples of high throughput ingestion using Apache Spark and Apache Iceberg. These examples cover IoT and CDC scenarios using best practices. The code can be deployed into any Spark compatible engine like Amazon EMR Serverless or AWS Glue. A fully local developer environment is also provided.
+https://github.com/aws-samples/sagemaker-offline-reinforcement-learning-ray-cql #
+https://github.com/aws-samples/mqtt-load-test-generator #
+https://github.com/aws-samples/Amazon-EKS-pod-logs-to-CloudTrail-Lake #
+https://github.com/aws-samples/aws-blog-grpc-kinesis #
+https://github.com/aws-samples/transactional-datalake-using-amazon-msk-and-apache-iceberg-on-aws-glue # Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK and MSK Connect (Debezium)
+https://github.com/aws-samples/contact-center-genai-agent #
+
+https://github.com/awslabs/lambda-streams-to-firehose # AWS Lambda function to forward Stream data to Kinesis Firehose
+https://github.com/awslabs/kinesis-kafka-connector # kinesis-kafka-connector is connector based on Kafka Connect to publish messages to Amazon Kinesis streams or Amazon Kinesis Firehose.
+https://github.com/awslabs/amazon-kinesis-agent # Continuously monitors a set of log files and sends new data to the Amazon Kinesis Stream and Amazon Kinesis Firehose in near-real-time.
+https://github.com/awslabs/aws-fluent-plugin-kinesis # Amazon Kinesis output plugin for Fluentd
+https://github.com/awslabs/amazon-kinesis-data-generator # A UI that simplifies testing with Amazon Kinesis Streams and Firehose. Create and save record templates, and easily send data to Amazon Kinesis.
+https://github.com/awslabs/aws-ddk # An open source development framework to help you build data workflows and modern data architecture on AWS.
+https://github.com/awslabs/aws-akka-firehose # An Akka actor that writes JSON data into Amazon Kinesis Firehose.
+https://github.com/awslabs/aws-saas-boost # AWS SaaS Boost is a ready-to-use toolset that removes the complexity of successfully running SaaS workloads in the AWS cloud.
+https://github.com/awslabs/streaming-endpoint-for-apache-hbase # This is a custom Apache HBase replication endpoint, to stream records into Apache Kafka, Amazon Kinesis, etc.
+https://github.com/awslabs/kinesis-agent-windows # An extensible Windows agent that ingests logs and metrics to AWS services such as Kinesis Stream, Kinesis Firehose, CloudWatch Logs and CloudWatch.
+https://github.com/awslabs/fraud-detection-using-machine-learning # Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker
+https://github.com/awslabs/llrt # LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+https://github.com/awslabs/amazon-personalize-optimizer-using-amazon-pinpoint-events # Enabling the automated process of using the events generated by their Pinpoint campaigns to rapidly train and optimize their Personalize campaigns.
+https://github.com/awslabs/aws-iot-core-integration-with-nvidia-deepstream #
+https://github.com/awslabs/amazon-kinesis-archiver # An AWS Lambda module and node.js library to facilitate Amazon Kinesis archival and replay
+https://github.com/awslabs/aws-lambda-redshift-loader # Amazon Redshift Database Loader implemented in AWS Lambda
+
+https://github.com/aws/amazon-kinesis-firehose-for-fluent-bit # A Fluent Bit output plugin for Amazon Kinesis Data Firehose
+https://github.com/aws/aws-for-fluent-bit # The source of the amazon/aws-for-fluent-bit container image
+https://github.com/aws/aws-kinesisanalytics-flink-connectors # This library contains various Apache Flink connectors to connect to AWS data sources and sinks.
+https://github.com/aws/amazon-kinesis-streams-for-fluent-bit # A Fluent Bit output plugin for Kinesis Streams

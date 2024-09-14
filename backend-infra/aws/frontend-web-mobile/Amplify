@@ -1,0 +1,240 @@
+https://github.com/aws-solutions-library-samples/guidance-for-carbon-data-lake-on-aws # This Guidance, with the sample code, can be used to deploy a carbon data lake to the AWS Cloud using an AWS Cloud Development Kit (AWS CDK)
+https://github.com/aws-solutions-library-samples/guidance-for-text-generation-using-embeddings-from-enterprise-data-on-aws # This Guidance demonstrates question answering using Retrieval Augmented Generation (RAG) with foundation models in Amazon SageMaker JumpStart
+https://github.com/aws-solutions-library-samples/guidance-for-intelligent-route-optimization-on-aws # This solution provides a reference implementation for route optimization and tracking that can be leveraged by organizations that serve their own customers “in the field.”
+https://github.com/aws-solutions-library-samples/guidance-for-virtual-personal-stylist-on-aws # This Guidance demonstrates how an AI-generated virtual personal stylist can provide a convenient and personalized styling experience for retail consumers.
+
+https://github.com/aws-ia/cfn-ia-rules # Python Package (CFN Lint Rules)
+https://github.com/aws-ia/terraform-aws-amplify-app #
+https://github.com/aws-ia/cfn-mp-ql-rules # Custom cfn-lint ruleset
+
+https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk # Get ready to embark on an exciting journey as we combine the power of Amazon Bedrock, ReactJS and the AWS JavaScript SDK to create a generative AI application with minimal integration code.
+https://github.com/build-on-aws/bookstore-demo-app-with-authz # Authorization is one of the foundational needs when building your applications and services. Learn how, with the help of Cedar and Amazon Verified Permissions, to to add non-trivial authorization rules to your web application.
+https://github.com/build-on-aws/my-event-planner-sample-app # This repo contains sample app code for an event planning app for students on campus.
+https://github.com/build-on-aws/llm-rag-vectordb-python # Explore sample applications and tutorials demonstrating the prowess of Amazon Bedrock with Python. Learn to integrate Bedrock with databases, use RAG techniques, and showcase experiments with langchain and streamlit.
+
+https://github.com/aws-samples/amplify-next-template # This is a Next.js starter for building a fullstack app with AWS Amplify.
+https://github.com/aws-samples/aws-serverless-airline-booking # Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.
+https://github.com/aws-samples/aws-amplify-graphql # Sample using AWS Amplify and AWS AppSync together for user login and authorization when making GraphQL queries and mutations. Also includes complex objects for uploading and downloading data to and from S3 with a React app.
+https://github.com/aws-samples/amazon-api-gateway-url-shortener # Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
+https://github.com/aws-samples/aws-healthscribe-demo # Submit audio files to AWS HealthScribe, view the status of the job, and visualize the transcript and summarized clinical notes, including sections like complaint, history of present illness, assessment, and treatment plan.
+https://github.com/aws-samples/amazon-cognito-passwordless-auth # Passwordless authentication with Amazon Cognito: FIDO2 (WebAuthn, support for Passkeys), Magic Link, SMS OTP Step Up
+https://github.com/aws-samples/aws-starter-react-for-github-actions # A template to create a React app and deploy it with the AWS CloudFormation Action for GitHub Actions on the AWS cloud
+https://github.com/aws-samples/serverless-pdf-chat # LLM-powered document chat using Amazon Bedrock and AWS Serverless
+https://github.com/aws-samples/aws-plaid-demo-app # Build a fintech app on AWS to link bank accounts using Plaid API
+https://github.com/aws-samples/create-react-app-amplify-auth-typescript #
+https://github.com/aws-samples/aws-appsync-iot-core-realtime-dashboard # This sample application demonstrates a React based web dashboard receiving real-time updates from IoT sensors. The solution is built with AWS AppSync, AWS Amplify, Amazon Location Service, and A
+WS IoT Core technologies. https://github.com/aws-samples/s3uploader-ui #
+https://github.com/aws-samples/aws-appsync-iot-core-realtime-example # This sample application demonstrates an iPhone receiving real-time updates from an IoT sensor. The solution is built with AWS AppSync and AWS IoT Core technologies.
+https://github.com/aws-samples/amazon-connect-chat-translate # AWS Amplify project to demonstrate Amazon Connect Chat with realtime language detection and translation
+https://github.com/aws-samples/aws-amplify-oidc-federation #
+https://github.com/aws-samples/avp-petstore-sample #
+https://github.com/aws-samples/recipe-ai # A Next.js sample app utilizing AWS Amplify, AWS AppSync, and Amazon Bedrock to develop an AI-powered Recipe Generator
+https://github.com/aws-samples/aws-cdk-amplify-with-waf # enable WAF for Amplify Hosted web applications
+https://github.com/aws-samples/automating-livestream-video-monitoring # This repo presents a demo application for realtime livestream video quality monitoring using AWS serverless and AI/ML services.
+https://github.com/aws-samples/serverless-trivia-game # The Simple Trivia Service example serverless web game. See the Compute Blog series and video series for more information. Contact @timbrucemi for info.
+https://github.com/aws-samples/aws-media-asset-preparation-system #
+https://github.com/aws-samples/amazon-rekognition-engagement-meter # The Engagement Meter calculates and shows engagement levels of an audience participating in a meeting
+https://github.com/aws-samples/cloudfront-secure-media # Referece code for protecting your Amazon CloudFront media distributions with AWS Cognito JWT Token, Lambda@Edge and Video.js
+https://github.com/aws-samples/amplify-nextjs-ssg #
+https://github.com/aws-samples/amplify-vite-react-template # This is a React starter for building a fullstack app with AWS Amplify.
+https://github.com/aws-samples/aws-end-to-end-iot-amplify-demo #
+https://github.com/aws-samples/aws-rekognition-liveness-detection #
+https://github.com/aws-samples/online-document-manager-amplify # Online Document Manager is a web storage solution where authenticated users can store, access, and share files such as documents, photos, videos, etc. from anywhere with an internet connection. It allows you to keep your files organized, backed up, and easily accessible. You can also save files or documents privately or publicly backed by S3.
+https://github.com/aws-samples/serverless-tasks-webapp # Getting Started with Serverless Workshop — Tasks web application
+https://github.com/aws-samples/amazon-location-service-mobile-tracker-react # Demonstrates the basics of using AWS Amplify to integrate with Amazon Location Service tracker in a javascript react-native cross-platform mobile app.
+https://github.com/aws-samples/amazon-sumerian-arcore-starter-app # A sample Android project that demonstrates how to create a simple augmented reality experience using Google's ARCore with the Amazon Sumerian service.
+https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example #
+https://github.com/aws-samples/aws-tools-for-babylonjs-editor # AWS Tools for Babylon.JS Editor is a suite of tools meant to interact with Babylon.JS Editor by utilizing the capabilities of AWS products.
+https://github.com/aws-samples/serverless-eda-insurance-claims-processing #
+https://github.com/aws-samples/aws-agentic-document-assistant # An agent based LLM assistant that extends RAG with batch entity extraction and SQL querying to improve performance on multi-step and analytical questions.
+https://github.com/aws-samples/amazon-sumerian-arkit-starter-app # A sample XCode project that demonstrates how to create a simple augmented reality experience using Apple's ARKit with the Amazon Sumerian service
+https://github.com/aws-samples/amazon-s3-presigned-urls-aws-sam # For more serverless learning resources, visit https://serverlessland.com/.
+https://github.com/aws-samples/avp-petstore-sample-v2 #
+https://github.com/aws-samples/aws-amplify-sample-registrationapp #
+https://github.com/aws-samples/pizza-delivery-tracker # Pizza Delivery Tracker using AWS Amplify, Amazon Location Service, AWS AppRunner, and AWS Fargate.
+https://github.com/aws-samples/smart-shopping-list # Sample demo that shows how to build an AI powered app using Amplify, AppSync, DynamoDB, Cognito and Rekognition.
+https://github.com/aws-samples/reinvent-2018-social-news-app # Build a social news app.
+https://github.com/aws-samples/aws-amplify-react-native-ios-todo-app #
+https://github.com/aws-samples/aws-serverless-workshops # Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+https://github.com/aws-samples/aws-serverless-fullstack-swift-apple-carplay-example # This application demonstrates a full-stack Apple CarPlay app that uses Swift for both the UI and the backend services in AWS. The app accesses Lambda functions written in Swift and deployed from Docker images. The app accesses Amazon Location Service and a 3rd party weather api to display information in the vicinity of the user.
+https://github.com/aws-samples/aws-amplify-example-recipe-app-react-native #
+https://github.com/aws-samples/Serverless-Semantic-Video-Search-Vector-Database-and-a-Multi-Modal-Generative-Al-Embeddings-Model # Implementing serverless semantic search of image and live video with Amazon OpenSearch and Amazon Bedrock
+https://github.com/aws-samples/build-full-stack-application-with-cloudscape-and-aws-amplify #
+https://github.com/aws-samples/aws-simple-streaming-webapp # Simplifying live streaming contribution with Amazon IVS
+https://github.com/aws-samples/amazon-location-amplify-ui-geo-explore # Sample app to demonstrate usage of Maps, Places, Routes, Geofences, and Trackers in Amazon Location Service
+https://github.com/aws-samples/amplify-authentication-for-astro # An Astro website template with AWS Amplify authentication for rapid, secure web app development
+https://github.com/aws-samples/aws-amplify-predictions-ai-ml-with-react # Language Translation and Syntax Tool Made With React Using AWS Amplify Predictions Library to Integrate Artificial Intelligence and Machine Learning
+https://github.com/aws-samples/amazon-rekognition-face-liveness-demo #
+https://github.com/aws-samples/amazon-chime-sdk-click-to-call #
+https://github.com/aws-samples/amazon-deequ-glue # Automated data quality suggestions and analysis with Deequ on AWS Glue
+https://github.com/aws-samples/amplify-vue-search-example #
+https://github.com/aws-samples/chime-voiceconnector-agent-assist #
+https://github.com/aws-samples/amazon-pinpoint-event-trigger-demo # Simple demo to register endpoints and generating events to show off the capabilities of Amazon Pinpoints event trigger functionality.
+https://github.com/aws-samples/amazon-location-delivery-app #
+https://github.com/aws-samples/cloud-queue-for-quantum-devices # Cloud Queue for Quantum Devices
+https://github.com/aws-samples/aws-amplify-react-iot-pub-sub-using-lambda #
+https://github.com/aws-samples/aws-amplify-webassembly # Sample demonstration for building WebAssembly (WASM) modules alongside your webapps in AWS Amplify.
+https://github.com/aws-samples/aws-serverless-feedback-app #
+https://github.com/aws-samples/serverless-smart-streaming-engine #
+https://github.com/aws-samples/aws-amplify-connect # AWS Amplify Agent/Management portal and Amazon Connect dialer
+https://github.com/aws-samples/aws-amplify-stepfunctions-example # Learn how to extend AWS Amplify resources with CDK v2 with this example that deploys a Step Functions workflow triggered via an Amplify-managed AppSync API
+https://github.com/aws-samples/aws-amplify-flutter-example #
+https://github.com/aws-samples/medical-image-search #
+https://github.com/aws-samples/aws-amplify-social-network-app-workshop #
+https://github.com/aws-samples/amazon-location-safety-tracker #
+https://github.com/aws-samples/serverless-realtime-analytics # Demo application on how to create a serverless realtime analytics application using Kinesis Data Streams, Kinesis Firehose, DynamoDB and Lambda, using Cognito to secure the App.
+https://github.com/aws-samples/amplify-social-room # A React and Vite app using AWS Amplify to build a realtime game with generative AI, auth, data, storage, and serverless functions
+https://github.com/aws-samples/amazon-ivs-chime-messaging-ugc-demo # This demo is designed to educate people who want to build live streaming platform with chatting feature. This demo is implemented using Amplify with Amazon IVS, ChimeSDK Messaging.
+https://github.com/aws-samples/aws-presentation-evaluation-tool #
+https://github.com/aws-samples/sagemaker-amplify-activity-tracker-workshop # This project deploys a mobile web app, that uses a machine learning model you train, to detect activities you're doing.
+https://github.com/aws-samples/aws-healthimaging-samples # Sample projects on working with AWS HealthImaging, an AWS service that allows you to store, analyze, and share medical images in the cloud at petabyte scale.
+https://github.com/aws-samples/amazon-chime-sdk-meetings-with-amplify #
+https://github.com/aws-samples/aws-mobile-appsync-events-starter-ios # GraphQL starter application with Realtime and Offline functionality using AWS AppSync
+https://github.com/aws-samples/micro-frontend-using-polyglot-javascript-frameworks #
+https://github.com/aws-samples/amazon-sumerian-hosts # Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It leverages AWS s
+ervices including Amazon Polly (text-to-speech) and Amazon Lex (chatbot). https://github.com/aws-samples/jp-contents-hub # AWS の日本語用ハンズオンなどを掲載するウェブサイト
+https://github.com/aws-samples/amazon-ai-building-better-bots # Code samples related to Building Better Bots published on the AI Blog
+https://github.com/aws-samples/amazon-cognito-example-for-external-idp # An example for using Amazon Cognito together with an external IdP
+https://github.com/aws-samples/amazon-ec2-compute-fleet-optimizer #
+https://github.com/aws-samples/amazon-location-service-geotrack-vuejs #
+https://github.com/aws-samples/amplify-trips-planner #
+https://github.com/aws-samples/realtime-toxicity-detection # This repository contains a complete solution for detecting toxicity across voice and text chats, cost efficiently and at scale, in near real time. It makes use of a number of Serverless and Fully Managed AWS services, including Amazon SageMaker, Amazon Cognito, AWS Lambda, AWS Amplify, and Amazon Transcribe
+https://github.com/aws-samples/aws-real-user-monitoring-amplifyapps # Example of how to instrument an AWS Amplify React application with Amazon CloudWatch RUM to monitor the experience of end users
+https://github.com/aws-samples/avp-toy-store-sample-frontend #
+https://github.com/aws-samples/cloudfront-authorization-at-edge # Protect downloads of your content hosted on CloudFront with Cognito authentication using cookies and Lambda@Edge
+https://github.com/aws-samples/rekognition-congestion-monitoring # This is a sample web application for monitoring facility congestion using Amazon Rekognition. Images taken with a webcam are sent to the cloud, and the number of people in the images is calculated based on the response of Amazon Rekognition. Using AWS AppSync to notify end users of the number of facilities in real time. The backend of this application is developed by Amplify CLI. https://github.com/aws-samples/cognito-at-edge-federated-ui-sample #
+https://github.com/aws-samples/sagemaker-studio-mlflow-integration #
+https://github.com/aws-samples/live-streaming-with-media-services-and-appsync #
+https://github.com/aws-samples/aws-lakeformation-datasharing-workflow #
+https://github.com/aws-samples/amazon-cds-meeting-sandbox #
+https://github.com/aws-samples/multitenant-application-on-aws-amplify # Serverless Multi-Tenant Application on AWS Amplify
+https://github.com/aws-samples/amazon-athena-execution-parameters-blog #
+https://github.com/aws-samples/video-labeling-angular-blog # This was a part of a prototype used in an internal "onboarding" program (PoC), and later used as source code for a set of blog posts. This repo is related to the (Angular 10) User Interface module (SPA Front-End), focused on AWS Amplify service.
+https://github.com/aws-samples/aws-amplify-cloud-assistant-app #
+https://github.com/aws-samples/amazon-cognito-authentication-sample-react-app #
+https://github.com/aws-samples/aws-iot-enhanced-custom-authorizer-demo # Demo Application using the new AWS IoT Core Enhanced Custom Authorizer
+https://github.com/aws-samples/aws-backup-amplify-appsync # This repository provides an automated solution for adding AWS Backup to AWS Amplify applications that use AWS AppSync with default GraphQL resolvers for DynamoDB tables.
+https://github.com/aws-samples/s3-object-lambda-workshop #
+https://github.com/aws-samples/amazon-lex-v2-dialogaction #
+https://github.com/aws-samples/aws-lambda-java-appsync-amplify-examples # Invoke AppSync API through Java based Lambda functions generated from AWS Amplify
+https://github.com/aws-samples/aws-cdk-stack-builder-tool # AWS CDK Builder is a browser-based tool designed to streamline bootstrapping of Infrastructure as Code (IaC) projects using the AWS Cloud Development Kit (CDK).
+https://github.com/aws-samples/amazon-kinesis-video-streams-media-screencast-android #
+https://github.com/aws-samples/aws-lambda-function-url-security #
+https://github.com/aws-samples/aws-amplify-react-iot-pub-sub-using-cp #
+https://github.com/aws-samples/aws-kendra-transcribe-media-search #
+https://github.com/aws-samples/cloudscape-examples # Examples of ready-to-use Cloudscape apps
+https://github.com/aws-samples/api-gateway-multitenant-tiering-usageplans #
+https://github.com/aws-samples/aws-omnichannel-chatbot-sentiment-analysis #
+https://github.com/aws-samples/serverless-registration-app-genai # re:Invent 2023 - SVS209 - Using generative AI to build a serverless registration app
+https://github.com/aws-samples/amplify-next-pages-template # This is a Next.js starter for building a fullstack app with AWS Amplify.
+https://github.com/aws-samples/bedrock-serverless-workshop #
+https://github.com/aws-samples/aws-global-pubsub-api #
+https://github.com/aws-samples/amazon-rekognition-custom-labels-demo # A demo to test Custom Labels with models trained by Amazon Rekognition
+https://github.com/aws-samples/amazon-cognito-example-for-multi-tenant #
+https://github.com/aws-samples/rekognition-identity-verification # Example implementation of the Identity Verification using Amazon Rekognition whitepaper.
+https://github.com/aws-samples/liveness-detection # Backend and a JavaScript frontend of a liveness detection application.
+https://github.com/aws-samples/amazon-sagemaker-visual-search # This repository is part of a blog post that guides users through creating a visual search application using Amazon SageMaker and Amazon Elasticsearch service
+https://github.com/aws-samples/aws-energy-kit-workshop #
+https://github.com/aws-samples/iot-jobs-for-rapid-large-scale-device-updates #
+https://github.com/aws-samples/aws-amplify-cdk-iot-ble-swift-app #
+https://github.com/aws-samples/serverless-route-optimization #
+https://github.com/aws-samples/aws-appsync-presence-api #
+https://github.com/aws-samples/amazon-cognito-saml-idp # This project is a simple template for getting started with a React app that has SSO configured using Cognito's SAML interface
+https://github.com/aws-samples/amplify-cdkv2-stepfunctions #
+https://github.com/aws-samples/deployment-console-for-multi-tenant-software #
+https://github.com/aws-samples/realtime-slot-car-racing-with-aws-amplify-aws-iot-core-and-amazon-kinesis-video-streams #
+https://github.com/aws-samples/genai-asl-avatar-generator #
+https://github.com/aws-samples/aws-appsync-multi-region-active-active #
+https://github.com/aws-samples/gen-ai-video-short-form-generator # Generative AI video short-form generator using Amazon Bedrock and AWS serverless services.
+https://github.com/aws-samples/aws-here-optimize-fleet-utilization #
+https://github.com/aws-samples/aws-amplify-react-101 #
+https://github.com/aws-samples/lucky-money-ar-workshop # Learn how to add an Argumented Reality(AR) Red Packet feature to your application using Amazon Sumerian, AWS Amplify
+https://github.com/aws-samples/amazon-opensearchserverless-searchapp #
+https://github.com/aws-samples/personnel-hazard-tracking-blog #
+https://github.com/aws-samples/amplify-studio-clone-components # Utilize Amplify CLI hooks to clone Amplify Studio components
+https://github.com/aws-samples/aws-augmentability # AWS AugmentAbility is a mobile web app which showcases 5 AWS AI services (Amazon Transcribe, Amazon Translate, Amazon Polly, Amazon Rekognition and Amazon Textract) and, at the same time, provides features that may benefit people with a visual or communication impairment, including difficulties in reading written text (text recognition), hearing (live transcription), speaking (text-to-speech), or having a conversation in a foreign language (voice-to-voice live translation).
+https://github.com/aws-samples/jp-rag-sample # このソリューションは AWS 上で検索用途の Retrieval Augmented Generation (RAG) を構築するサンプルコードです。
+https://github.com/aws-samples/amazon-amplify-passwordless-login-authenticator # Art of the possible with Amplify + iOS passwordless login
+https://github.com/aws-samples/aws-amplify-android-simple-app #
+https://github.com/aws-samples/aws-digital-twin-frontend #
+https://github.com/aws-samples/amplify-angular-template # This is a Angular starter for building a fullstack app with AWS Amplify.
+https://github.com/aws-samples/amplify-backend-template # This is a starter for building a backend only app with AWS Amplify.
+https://github.com/aws-samples/amazon-lookout-for-vision-demo # A demo to test models trained by Amazon Lookout for Vision
+https://github.com/aws-samples/aws-device-lobby # Flexible onboarding and routing of IoT devices to any IoT Core account and region using a QR code.
+https://github.com/aws-samples/amazon-connect-ivr-searchandplay #
+https://github.com/aws-samples/amplify-vue-template # This is a Vue starter for building a fullstack app with AWS Amplify.
+https://github.com/aws-samples/push-to-talk-batch-translations #
+https://github.com/aws-samples/genai-machine-translation-traffic-light # A code sample to deploy an application that leverages Large Language Models (LLMs) to assess the quality of translations for some common language pairs.
+https://github.com/aws-samples/online-identity-verification #
+https://github.com/aws-samples/live-streaming-app-with-amplify-and-ivs #
+https://github.com/aws-samples/mobility-tracking-with-amazon-location-service-and-amplify-pubsub #
+https://github.com/aws-samples/aws-cognito-kakao-oidc-react #
+https://github.com/aws-samples/aws-amplify-and-amazon-quicksight-for-webxr #
+https://github.com/aws-samples/multi-region-data-residency # Example multi-region application with data residency. Suitable for global and regulated businesses.
+https://github.com/aws-samples/amplify-authentication-with-expo-and-okta #
+https://github.com/aws-samples/cognito-amplify-nodejs #
+https://github.com/aws-samples/aws-appsync-with-lake-formation # Application to query a AWS Lake Formation data lake through a AWS AppSync GraphQL API
+https://github.com/aws-samples/build-neptune-graphapp-cdk # Build a graph application with Amazon Neptune and AWS Amplify.
+https://github.com/aws-samples/avp-toy-store-sample #
+https://github.com/aws-samples/video-understanding-solution #
+https://github.com/aws-samples/offline-blog-title-creator #
+https://github.com/aws-samples/aws-iot-sagemaker-waste-classification #
+https://github.com/aws-samples/web3-wallet-workshop # Welcome to the Web3 Wallet Workshop repository. In this repo you can find all code artifacts requried to build a Web3 Wallet on the top of AWS
+https://github.com/aws-samples/appsync-similarity-search #
+https://github.com/aws-samples/amazon-ivs-for-education-sample #
+https://github.com/aws-samples/amazon-verified-permissions-iot-amplify-smart-home-application #
+https://github.com/aws-samples/aws-mqtt-wavelength-latency #
+https://github.com/aws-samples/amazon-serverless-chatbot-using-bedrock #
+https://github.com/aws-samples/amazon-transcribe-post-call-analytics #
+https://github.com/aws-samples/eventdriven-frontend-patterns # Sample code accompanying Goto EDA Day 2024 talk - Patterns for building event-driven web and mobile app backends
+https://github.com/aws-samples/garnet-framework-dx-snippets # Example of Data Producers and Data Consumers for Garnet Framework
+https://github.com/aws-samples/wastecollector-planner #
+https://github.com/aws-samples/iot-client-data-controller # IoT data flow controller for client app
+https://github.com/aws-samples/sample-generative-ai-gallery #
+https://github.com/aws-samples/content-repository-with-dynamic-access-control # Code and walkthrough to build an end-to-end content repository for unstructured data with dynamic access control.
+https://github.com/aws-samples/aws-car-angle-blog #
+https://github.com/aws-samples/mediasearch-with-amazon-q-transcribe #
+https://github.com/aws-samples/kvs-connection-time-optimization-for-webrtc-sample #
+https://github.com/aws-samples/aws-sam-transform-aws-appsync # This repository provides an example of using the SAM GraphQL transform to build AWS AppSync APIs
+https://github.com/aws-samples/amazon-kendra-cdk-sample #
+https://github.com/aws-samples/conversation-intelligence-using-aiml-on-aws # Sample solution to build conversation intelligence using AIML and Generative AI services on AWS
+https://github.com/aws-samples/amazon-location-service-iot-asset-tracking #
+https://github.com/aws-samples/amazon-msk-appsync-datadistribution-blog #
+https://github.com/aws-samples/create-custom-map-style #
+https://github.com/aws-samples/aws-serverless-example-for-webxr # This repository contains an example solution on how to enhance your WebXR applications using AWS Serverless Services, providing scalable, efficient, and seamless user experiences.
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-pgvector # Opinionated sample on how to build/deploy a RAG web app on AWS powered by Amazon Bedrock and PGVector (on Amazon RDS)
+https://github.com/aws-samples/client-side-cesiumjs-demo-with-react-and-amazon-location-service # This is simple demo of using Amazon Location Service maps with CesiumJS and React.
+https://github.com/aws-samples/communication-developer-services-reference-architectures # AWS Amazon Pinpoint and Amazon Simple Email Service (SES) Digital User Engagement Reference Architectures with CloudFormation templates.
+https://github.com/aws-samples/amazon-vpc-ip-address-manager-service-catalog #
+https://github.com/aws-samples/content-repository-with-multilingual-search # Code and walkthrough to build an end-to-end content repository for unstructured data with multilingual semantic search and dynamic access control.
+https://github.com/aws-samples/multi-tenancy-blog-post-collection #
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-opensearch # Opinionated sample on how to build and deploy a RAG application with Amazon Bedrock and OpenSearch
+https://github.com/aws-samples/amazon-ivs-realtime-web-demo-reactjs # This repository provides ReactJS code and a walkthrough to build a demo web app for multi-participant live streaming in a grid layout with latency <300ms. It demonstrates Amazon IVS Web Broadcasting
+SDK integration for real-time streaming.
+
+https://github.com/awslabs/aws-mobile-appsync-sdk-js # JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
+https://github.com/awslabs/aws-mobile-appsync-sdk-ios # iOS SDK for AWS AppSync.
+https://github.com/awslabs/unicornflix # Learn how to manage, process, host, and authorize access to streaming video content by building UnicornFlix
+https://github.com/awslabs/aws-amplify-identity-broker # A centralized login and SSO application to authenticate several websites and mobile apps.
+https://github.com/awslabs/sandbox-accounts-for-events # "Sandbox Accounts for Events" allows to provide multiple, temporary AWS accounts to a number of authenticated users simultaneously via a browser-based GUI.
+https://github.com/awslabs/aws-mobile-appsync-sdk-android # Android SDK for AWS AppSync.
+https://github.com/awslabs/cognito-at-edge # Serverless authentication solution to protect your website or Amplify application
+https://github.com/awslabs/aws-amplify-identity-broker-client # Client demo code sample for the project "AWS Amplify identity broker" https://github.com/awslabs/aws-amplify-identity-broker
+https://github.com/awslabs/amazon-sagemaker-inference-client # Amazon Sagemaker Object Detection Inference Endpoint visualization client web application hosted and managed by AWS Amplify.
+https://github.com/awslabs/amplify-graphql-seed-plugin # This is an Amplify Plugin which helps your to seed the databases of your Amplify projects with data using an AppSync GraphQL API. It can be used to seed local mock databases, as well as remote databases, e.g. for testing purposes. This plugin allows you to customize and auto-generate mock data, including data with relationships between models.
+https://github.com/awslabs/aws-sdk-android-samples # Samples that demonstrate various aspects of the AWS SDK for Android
+https://github.com/awslabs/aws-sdk-ios-samples # Samples that demonstrate various aspects of the AWS SDK for iOS
+https://github.com/awslabs/aws-media-replay-engine # Media Replay Engine (MRE) is a framework to build automated video clipping and replay (highlight) generation pipelines for live and video-on-demand content.
+https://github.com/awslabs/llrt # LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+https://github.com/awslabs/aws-data-api-ux # This project contains a simple web interface for AWS Data API. Data API's give you the ability to create a back end web service to handle core business data, without any coding or servers to manage.
+https://github.com/awslabs/clickstream-swift # Swift SDK for Clickstream Analytics on AWS
+https://github.com/awslabs/clickstream-web # Web SDK for Clickstream Analytics on AWS
+https://github.com/awslabs/clickstream-android # Android SDK for Clickstream Analytics on AWS
+
+https://github.com/aws/aws-sdk-js # AWS SDK for JavaScript in the browser and Node.js
+https://github.com/aws/aws-appsync-community # The AWS AppSync community
+https://github.com/aws/aws-sdk-ruby # The official AWS SDK for Ruby.
+https://github.com/aws/amazon-chime-sdk-component-library-react # Amazon Chime React Component Library with integrations with the Amazon Chime SDK.
+https://github.com/aws/aws-sdk-net # The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
+https://github.com/aws/dotnet-foss #
+https://github.com/aws/amazon-chime-sdk-js # A JavaScript client library for integrating multi-party communications powered by the Amazon Chime service.

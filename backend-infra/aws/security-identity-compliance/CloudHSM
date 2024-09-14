@@ -1,0 +1,13 @@
+https://github.com/aws-samples/aws-cloudhsm-jce-examples # Sample applications demonstrating how to use the CloudHSM JCE
+https://github.com/aws-samples/aws-cloudhsm-pkcs11-examples # Sample applications demonstrating how to use the CloudHSM PKCS#11 library
+https://github.com/aws-samples/pix-proxy-samples # This project contains source code and supporting files to exemplify digital signature and secure message transmission to the Brazilian Instant Payment System (PIX). The architectures represent a proxy for communication with Brazilian Central Bank (BACEN).
+https://github.com/aws-samples/aws-cloudhsm-cloudformation-template # Automated deployment of AWS CloudHSM resources using AWS CloudFormation
+https://github.com/aws-samples/aws-cloudhsm-on-aws-lambda-sample # A sample showing how to run AWS CloudHSM workloads on AWS Lambda.
+https://github.com/aws-samples/hybrid-pki-on-aws #
+https://github.com/aws-samples/data-protection # Workshop and sample code that builders can use for experiential learning of AWS services that provide data protection. Services such as AWS KMS, AWS ACM, AWS CloudHSM and others will be explored
+https://github.com/aws-samples/aws-kms-xks-proxy # AWS KMS External Keystore (XKS) Proxy reference implementation
+https://github.com/aws-samples/field-level-encryption-sample # Add Description
+https://github.com/aws-samples/siem-on-amazon-opensearch-service # A solution for collecting, correlating and visualizing multiple types of logs to help investigate security incidents.
+https://github.com/aws-samples/cloudhsm-workshop #
+https://github.com/aws-samples/aws-cloudhsm-tls-offload-blog #
+https://github.com/aws-samples/fault-tolerance-analyser #

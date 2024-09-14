@@ -1,0 +1,172 @@
+https://github.com/aws-solutions-library-samples/real-time-analytics-spark-streaming # A solution describing data-processing design pattern for streaming data through Kinesis and Spark Streaming at real-time.
+https://github.com/aws-solutions-library-samples/guidance-for-sql-based-etl-with-apache-spark-on-amazon-eks # A guidance that provides declarative data processing capability, and workflow orchestration automation to help your business users (such as analysts and data scientists) access their data and create meaningful insights without the need for manual IT processes.
+https://github.com/aws-solutions-library-samples/guidance-for-analytics-observability-on-aws # This Guidance demonstrates how you can improve the observability of your data pipelines running on Apache Spark.
+https://github.com/aws-solutions-library-samples/guidance-for-incremental-data-exports-on-aws # This Guidance demonstrates a robust approach to incrementally export and maintain a centralized data repository reflecting ongoing changes in a distributed database.
+https://github.com/aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker # This Guidance shows how to build an Amazon Elastic Compute Cloud (Amazon EC2) Spot placement score tracker to monitor unused Amazon EC2 Spot Instance capacity.
+
+https://github.com/aws-ia/terraform-aws-eks-data-addons # Terraform Module: Deploy Data/ML Addons Helm Charts on EKS 🚀
+https://github.com/aws-ia/terraform-aws-eks-ack-addons # Terraform AWS module which provisions ACK addons on EKS
+https://github.com/aws-ia/terraform-aws-vpc_endpoints # Terraform AWS VPC endpoints module
+
+https://github.com/build-on-aws/ci-cd-serverless-spark # Sample CI/CD pipeline for using GitHub Actions with Amazon EMR Serverless Spark.
+
+https://github.com/aws-samples/emr-bootstrap-actions # This repository hold the Amazon Elastic MapReduce sample bootstrap actions
+https://github.com/aws-samples/emr-serverless-samples # Example code for running Spark and Hive jobs on EMR Serverless.
+https://github.com/aws-samples/serverless-data-analytics # CloudFormation templates and scripts to setup the AWS services for the workshop, Athena & Redshift Spectrum queries
+https://github.com/aws-samples/emr-studio-notebook-examples # This repository contains ready-to-use notebook examples for a wide variety of use cases in Amazon EMR Studio.
+https://github.com/aws-samples/aws-emr-apache-ranger #
+https://github.com/aws-samples/aws-concurrent-data-orchestration-pipeline-emr-livy # This code demonstrates the architecture featured on the AWS Big Data blog (https://aws.amazon.com/blogs/big-data/ ) which creates a concurrent data pipeline by using Amazon EMR and Apache Livy. This pipeline is orchestrated by Apache Airflow.
+https://github.com/aws-samples/sagemaker-studio-emr #
+https://github.com/aws-samples/emr-studio-samples # This repo contains samples for EMR Studio feature.
+https://github.com/aws-samples/aws-samples-for-ray #
+https://github.com/aws-samples/aws-ai-ml-workshop-kr # A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.
+https://github.com/aws-samples/aws-emr-utilities #
+https://github.com/aws-samples/amazon-mwaa-complex-workflow-using-step-functions #
+https://github.com/aws-samples/amazon-emr-with-delta-lake # Amazon EMR Notebook to show how to read from and write to Delta tables with Amazon EMR
+https://github.com/aws-samples/emr-presto-query-event-listener # Implementation of the query event listener plugin in Java to log Presto statistics on Amazon EMR for auditing and performance insights
+https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples # A collection of sample scripts to customize Amazon SageMaker Notebook Instances using Lifecycle Configurations
+https://github.com/aws-samples/aws-cdk-for-emr-on-eks #
+https://github.com/aws-samples/aws-emr-serverless-using-terraform #
+https://github.com/aws-samples/graviton-workshop #
+https://github.com/aws-samples/analysing-realtime-streaming-data-using-msk-emr #
+https://github.com/aws-samples/flink-stream-processing-refarch # Reference architecture for real-time stream processing with Apache Flink on Amazon EMR, Amazon Kinesis, and Amazon Elasticsearch Service.
+https://github.com/aws-samples/emr-tls-security # An example of a EMR TLS Custom Certificate Provider
+https://github.com/aws-samples/emr-on-eks-benchmark #
+https://github.com/aws-samples/ec2-classic-resource-finder # This script enables the identification of resources running in Amazon EC2 Classic
+https://github.com/aws-samples/hive-emr-on-eks #
+https://github.com/aws-samples/aws-service-catalog-reference-architectures # Sample CloudFormation templates and architecture for AWS Service Catalog
+https://github.com/aws-samples/realtime-bushfire-alert-with-apache-flink-cep # Code and documentation for the demonstration example of the real-time bushfire alerting with the Complex Event Processing (CEP) in Apache Flink on Amazon EMR and a simulated IoT sensor network as described on the AWS Big Data Blog: Real-time bushfire alerting with Complex Event Processing in Apache Flink on Amazon EMR and IoT sensor network.
+https://github.com/aws-samples/amazon-mwaa-examples # Amazon Managed Workflows for Apache Airflow (MWAA) Examples repository contains example DAGs, requirements.txt, plugins, and CloudFormation templates focused on Amazon MWAA.
+https://github.com/aws-samples/aws-emr-basketball-tool # This software compares the output and running time of the EMR cluster. The architecture has been designed that users can throw(like shooting) a request, and receive a result(like score) by email, as if they were playing a basketball game.
+https://github.com/aws-samples/quant-research #
+https://github.com/aws-samples/sagemaker-studio-sparkmagic-lib #
+https://github.com/aws-samples/aws-cdk-emr-s3-trigger #
+https://github.com/aws-samples/stream-emr-on-eks #
+https://github.com/aws-samples/emr-trino-autoscale #
+https://github.com/aws-samples/emr-on-eks-hudi-iceberg-delta #
+https://github.com/aws-samples/amazon-emr-optimize-data-processing # Optimizing downstream data processing with Amazon Kinesis Data Firehose and Amazon EMR running Apache Spark
+https://github.com/aws-samples/data-profiler-for-aws-glue-data-catalog # Data Profiler for AWS Glue Data Catalog application as described in the AWS Big Data Blog post "Build an automatic data profiling and reporting solution with Amazon EMR, AWS Glue, and Amazon QuickSight".
+https://github.com/aws-samples/rdbms-to-dynamodb-with-awsglue # Code Samples for Refactoring to DyanamoDB
+https://github.com/aws-samples/spark-on-aws-lambda # Spark runtime on AWS Lambda
+https://github.com/aws-samples/aws-rtb-intelligence-kit #
+https://github.com/aws-samples/aws-secure-cross-account-data-loader # This code demonstrates the architecture featured on the AWS big data blog (https://aws.amazon.com/blogs/big-data/ ) on securely accessing Amazon Redshift clusters across accounts by dynamically controlling the ingress rules of the clusters.
+https://github.com/aws-samples/automation-ml-step-data-pipeline #
+https://github.com/aws-samples/sql-based-etl-on-amazon-eks #
+https://github.com/aws-samples/amazon-emr-ui-access-via-alb # Securely Access Web Interfaces on Amazon EMR Launched in a Private Subnet using an Application Load Balancer
+https://github.com/aws-samples/amazon-kinesis-sagemaker-promotion-recommendations # CloudFormation templates and scripts demonstrating how to build a promotion recommendation system using Kinesis and SageMaker.
+https://github.com/aws-samples/emr-remote-shuffle-service #
+https://github.com/aws-samples/aws-dbs-refarch-datalake # Reference Architectures for Datalakes on AWS
+https://github.com/aws-samples/amazon-emr-on-eks-emr-studio #
+https://github.com/aws-samples/aws-etl-orchestrator # A serverless architecture for orchestrating ETL jobs in arbitrarily-complex workflows using AWS Step Functions and AWS Lambda.
+https://github.com/aws-samples/sagemaker-studio-foundation-models #
+https://github.com/aws-samples/aws-genomics-datalake #
+https://github.com/aws-samples/emr-spark-benchmark #
+https://github.com/aws-samples/aws-emr-cost-toolbox #
+https://github.com/aws-samples/emr-on-eks-for-transient-emr-clusters #
+https://github.com/aws-samples/aws-cdk-emr-atlas #
+https://github.com/aws-samples/imputation-aws-cdk #
+https://github.com/aws-samples/create-amazon-emr-transient-cluster-using-terraform #
+https://github.com/aws-samples/amazon-s3-crr-preexisting-objects # Trigger Cross-Region Replication of Pre-Existing Objects with S3 Inventory and Amazon EMR
+https://github.com/aws-samples/aws-glue-samples # AWS Glue code samples
+https://github.com/aws-samples/private-llm-qa-bot #
+https://github.com/aws-samples/aws-terraform-cross-account-kinesis-example # This Example demonstrates how to build a cross-account Data Pipeline using terraform, kinesis, s3 and Amazon EMR
+https://github.com/aws-samples/amazon-mwaa-workflow-demo #
+https://github.com/aws-samples/multi-tenant-chatbot-using-rag-with-amazon-bedrock #
+https://github.com/aws-samples/amazon-sagemaker-r-kernel-access-data-sources # Access data sources from SageMaker R kernel using JDBC
+https://github.com/aws-samples/patient-matching-of-clinical-trials-using-generative-ai #
+https://github.com/aws-samples/cql-replicator # CQLReplicator is a migration tool that helps you to replicate data from Cassandra to AWS Services
+https://github.com/aws-samples/emr-cloudwatch-metrics-sink-spark #
+https://github.com/aws-samples/dynamodb-restore-continuous-backup # Build a DataPipeline stack to do point-in-time DynamoDB restore operations (see https://github.com/awslabs/dynamodb-continuous-backup for backup operations)
+https://github.com/aws-samples/aws-big-data-blog-transactional-to-stateful-batch-processing #
+https://github.com/aws-samples/otl-service-launcher #
+https://github.com/aws-samples/cdk-eks-blueprints-patterns # Patterns repository for the Amazon EKS Bluepints for CDK
+https://github.com/aws-samples/data-masking-framework #
+https://github.com/aws-samples/iceberg-streaming-examples # This repo contains examples of high throughput ingestion using Apache Spark and Apache Iceberg. These examples cover IoT and CDC scenarios using best practices. The code can be deployed into any Spark compatible engine like Amazon EMR Serverless or AWS Glue. A fully local developer environment is also provided.
+https://github.com/aws-samples/eb-java-scorekeep # RESTful web API in Java with Spring that provides an HTTP interface for creating and managing game sessions and users.
+https://github.com/aws-samples/emr-on-eks-cost-tracking-solution #
+https://github.com/aws-samples/iceberg-aws-event-based-table-management # The MetricsReporter implementation lets users to collect table activities during writes to make better decisions on how to optimize each table differently.
+https://github.com/aws-samples/aws-low-code-data-pipeline-emr-apache-hop # Low Code Data pipelines on EMR using Apache Hop
+https://github.com/aws-samples/sas-token-provider-azure # Custom implementation of SASTokenProvider interface provided by Hadoop. This custom class implementation is required to enable SAS token access to Azure Data Lake Storage (ADLS) from AWS services like Amazon EMR, AWS Glue and Amazon SageMaker.
+https://github.com/aws-samples/amazon-genai-datalake #
+https://github.com/aws-samples/emr-iceberg-small-file-optimization #
+https://github.com/aws-samples/amazon-s3-access-points-for-cross-account-integration-samples # This repo provides cross-account integration code samples using Amazon S3 Access points
+https://github.com/aws-samples/remote-debugging-with-emr # A Python-based CDK stack that deploys an EC2 bastion host and EMR Serverless and EMR on EKS environments configured for remote debugging.
+https://github.com/aws-samples/amazon-athena-serverless-ehms-connector #
+https://github.com/aws-samples/aws-emr-advisor #
+https://github.com/aws-samples/amazon-emr-on-eks-scale-test-tool # EMR on EKS - Scale testing tool
+https://github.com/aws-samples/run-interactive-workloads-on-amazon-emr-serverless-from-amazon-emr-studio #
+https://github.com/aws-samples/aws-autonomous-driving-data-lake-ros-bag-scene-detection-pipeline # AWS Sample for extracting sensor data and detecting scenes from autonomous driving data collected in ROS bag files.
+https://github.com/aws-samples/amazon-emr-yarn-capacity-scheduler # Configure Hadoop YARN CapacityScheduler on Amazon EMR on Amazon EC2 for multi-tenant heterogeneous workloads
+https://github.com/aws-samples/devday-mwaa-elt-workflows # Materials to support the DevDay Data Analytics session on building ELT workflows using Apache Airflow. Details on how to reproduce the demos used during the session are provided in this repository.
+https://github.com/aws-samples/sagemaker-rstudio-emr #
+https://github.com/aws-samples/spark-kinesis-connector-emr-sample #
+https://github.com/aws-samples/batch-processing-gateway-on-emr-on-eks # Use Batch Processing Gateway to automate job management in multi-cluster Amazon EMR on EKS environments
+https://github.com/aws-samples/aws-bikenow-demo # AWS BikeNow Demo is a sample web application that demonstrates the breadth and depth of database, analytics, and AI/ML services on AWS.
+https://github.com/aws-samples/amazon-keyspaces-emr-featurestore-kit #
+https://github.com/aws-samples/amazon-sagemaker-secure-mlops #
+https://github.com/aws-samples/glue-enrich-cost-and-usage # Glue Python Shell Job that adds AWS Organizations account tags to Cost and Usage Reports. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+https://github.com/aws-samples/unified-data-operations # The data product processor is a library for dynamically creating and executing Apache Spark Jobs based on a declarative description of a data product.
+https://github.com/aws-samples/da-top-monitoring #
+https://github.com/aws-samples/pseudonymization-service-consumption-patterns #
+https://github.com/aws-samples/data-lake-as-code # Data Lake as Code, featuring ChEMBL and OpenTargets
+https://github.com/aws-samples/ec2-spot-interrupter-cli # A CLI tool to simulate EC2 Spot Instances interruptions using AWS Fault Injection Simulator.
+https://github.com/aws-samples/attribute-amazon-emr-costs-to-your-end-users #
+https://github.com/aws-samples/retrieval-augmented-generation-large-data-sets #
+https://github.com/aws-samples/aws-emr-eks-log-forwarding #
+https://github.com/aws-samples/emr-logs-in-opensearch #
+https://github.com/aws-samples/amazon-convert-sqoopcodes-to-emr-sample #
+https://github.com/aws-samples/rsv2-emr-hudi-blog #
+https://github.com/aws-samples/lake-formation-cse-data #
+https://github.com/aws-samples/amazon-kinesis-data-processor-aws-fargate # Sample code for the AWS Big Data Blog Post Building a scalable streaming data processor with Amazon Kinesis Data Streams on AWS Fargate
+https://github.com/aws-samples/emr-tls-provider-secrets-manager-example #
+https://github.com/aws-samples/amazon-emr-on-outposts-blogpost #
+https://github.com/aws-samples/creating-ml-models-with-pyspark-on-amazon-emr #
+https://github.com/aws-samples/automated-data-validation-framework #
+https://github.com/aws-samples/pyspark-sql-framework #
+https://github.com/aws-samples/spark-streaming-sql-s3-connector # An Apache Spark Structured Streaming S3 connector for reading S3 files using Amazon S3 event notifications to AWS SQS
+https://github.com/aws-samples/emr-iceberg-storage-optimization #
+https://github.com/aws-samples/multi-tenancy-blog-post-collection #
+https://github.com/aws-samples/data-purging-aws-data-lake #
+https://github.com/aws-samples/aws-glue-streaming-etl-with-delta-lake # Streaming ETL job cases in AWS Glue to integrate Delta Lake and creating an in-place updatable data lake on Amazon S3
+https://github.com/aws-samples/datatype-validation-with-apache-spark # Data type and structure validation framework for delimited data using Apache Spark that validates input data against expected schema including number of columns, data types, nullability and assigns error flag and error message column to label specific error details
+https://github.com/aws-samples/athena-materialize-query-using-batch #
+https://github.com/aws-samples/aws-analytics-immersion-day # Describes the concepts of lambda architecture and the actual deployment process with an example of building a serverless business intelligence systems using Amazon Kinesis, S3, Athena, OpenSearch Service, and QuickSight.
+https://github.com/aws-samples/glue-data-sanitization-from-production-s3-bucket-to-lower-environment-s3-bucket-apg-example #
+https://github.com/awslabs/emr-dynamodb-connector # Implementations of open source Apache Hadoop/Hive interfaces which allow for ingesting data from Amazon DynamoDB
+https://github.com/awslabs/data-on-eks # DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS
+https://github.com/awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore # The AWS Glue Data Catalog is a fully managed, Apache Hive Metastore compatible, metadata repository. Customers can use the Data Catalog as a central repository to store structural and operational metadata for their data. AWS Glue provides out-of-box integration with Amazon EMR that enables customers to use the AWS Glue Data Catalog as an external Hive Metastore. This is an open-source implementation of the Apache Hive Metastore client on Amazon EMR clusters that uses the AWS Glue Data Catalog as an external Hive Metastore. It serves as a reference implementation for building a Hive Metastore-compatible client that connects to the AWS Glue Data Catalog. It may be ported to other Hive Metastore-compatible platforms such as other Hadoop and Apache Spark distributions
+https://github.com/awslabs/autonomous-driving-data-framework # ADDF is a collection of modules, deployed using the SeedFarmer orchestration tool. ADDF modules enable users to quickly bootstrap environments for the process and analysis of autonomous driving data.
+https://github.com/awslabs/aws-emr-launch #
+https://github.com/awslabs/deeplearning-emr # Scripts and instructions to facilitate running Deep Learning Tasks on Amazon EMR
+https://github.com/awslabs/service-workbench-on-aws # A platform that provides researchers with one-click access to collaborative workspace environments operating across teams, universities, and datasets while enabling university IT stakeholders to manage, monitor, and control spending, apply security best practices, and comply with corporate governance.
+https://github.com/awslabs/amazon-emr-cli # A command-line interface for packaging, deploying, and running your EMR Serverless Spark jobs
+https://github.com/awslabs/amazon-emr-user-role-mapper # Application to securely map users on a multi tenant Amazon EMR cluster to different IAM Roles and then assume the mapped Role.
+https://github.com/awslabs/amazon-emr-on-eks-custom-image-cli # Amazon EMR on EKS Custom Image CLI
+https://github.com/awslabs/aws-sagemaker-emr-tutorial # Supporting code, Dockerfile, and Jupyter notebook for an end to end tutorial on Amazon SageMaker and EMR.
+https://github.com/awslabs/open-data-registry # A registry of publicly available datasets on AWS
+https://github.com/awslabs/open-data-docs # Additional documentation for publicly available datasets on AWS
+https://github.com/awslabs/amazon-emr-vscode-toolkit # A VS Code Extension to make it easier to manage and develop Spark jobs on EMR
+https://github.com/awslabs/aws-athena-query-federation # The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.
+https://github.com/awslabs/migration-hadoop-to-emr-tco-simulator #
+https://github.com/awslabs/amazon-s3-tagging-spark-util #
+https://github.com/awslabs/emr-notebooks-magics # Jupyter magics for EMR Notebooks.
+https://github.com/awslabs/clickstream-analytics-on-aws # Build clickstream analytics on AWS for your mobile and web applications
+https://github.com/awslabs/analytics-poc-accelerator-for-aws #
+https://github.com/awslabs/mlspace #
+https://github.com/awslabs/streaming-endpoint-for-apache-hbase # This is a custom Apache HBase replication endpoint, to stream records into Apache Kafka, Amazon Kinesis, etc.
+https://github.com/awslabs/resource-lister #
+https://github.com/awslabs/boto-formatter # boto3 response formatter
+https://github.com/awslabs/amazon-emr-serverless-image-cli #
+https://github.com/awslabs/aws-glue-data-catalog-federation #
+https://github.com/awslabs/spark-sql-kinesis-connector # Spark Structured Streaming Kinesis Data Streams connector supports both GetRecords and SubscribeToShard (Enhanced Fan-Out, EFO)
+https://github.com/awslabs/aws-lambda-redshift-loader # Amazon Redshift Database Loader implemented in AWS Lambda
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+https://github.com/aws/sagemaker-spark # A Spark library for Amazon SageMaker.
+https://github.com/aws/homebrew-tap # Homebrew formulae that allows installation of AWS tools through the Homebrew package manager.
+https://github.com/aws/aws-emr-best-practices # A best practices guide for using AWS EMR. The guide will cover best practices on the topics of cost, performance, security, operational excellence, reliability and application specific best practices across Spark, Hive, Hudi, Hbase and more.
+https://github.com/aws/aws-emr-containers-best-practices # Best practices and recommendations for getting started with Amazon EMR on EKS.
+https://github.com/aws/aws-sdk-ruby # The official AWS SDK for Ruby.
+https://github.com/aws/sagemaker-feature-store-spark #
+https://github.com/aws/awesome-redshift #
+https://github.com/aws/aws-sdk-net # The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
+https://github.com/aws/amazon-ec2-instance-selector # A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory

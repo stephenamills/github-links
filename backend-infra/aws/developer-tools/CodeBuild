@@ -1,0 +1,50 @@
+https://github.com/aws-ia/terraform-aws-codebuild # AWS CodeBuild Module
+
+https://github.com/aws-samples/aws-codebuild-samples # Utilities and samples for building on CodeBuild
+https://github.com/aws-samples/aws-codepipeline-codebuild-with-postman # Automating your API testing with AWS CodeBuild, AWS CodePipeline, and Postman
+https://github.com/aws-samples/amazon-eks-cicd-codebuild # Amazon EKS CI/CD with CodeBuild in AWS CDK
+https://github.com/aws-samples/codepipeline-nested-cfn # CloudFormation templates, CodeBuild build specification & Python scripts to perform unit tests of a nested CloudFormation template.
+https://github.com/aws-samples/amazon-sagemaker-safe-deployment-pipeline # Safe blue/green deployment of Amazon SageMaker endpoints using AWS CodePipeline, CodeBuild and CodeDeploy.
+https://github.com/aws-samples/aws-codecommit-pull-request-aws-codebuild # Validating AWS CodeCommit Pull Requests with AWS CodeBuild and AWS Lambda
+https://github.com/aws-samples/aws-codebuild-multiple-buildspec # Sample code to demonstrate the possibilities of running multiple different builds from the same repository using multiple AWS CodeBuild build specification files.
+https://github.com/aws-samples/codebuild-images # Contributed custom build environments for AWS CodeBuild
+https://github.com/aws-samples/ecs-blue-green-deployment # Reference architecture for doing blue green deployments on ECS.
+https://github.com/aws-samples/sagemaker-studio-image-build-cli # CLI for building Docker images in SageMaker Studio using AWS CodeBuild.
+https://github.com/aws-samples/aws-multi-region-cicd-with-terraform # A multi region CI/CD pipeline with AWS CodePipeline and AWS CodeBuild in Terraform
+https://github.com/aws-samples/aws-codebuild-webhooks # A solution for CodeBuild custom webhook notifications
+https://github.com/aws-samples/aws-kube-code-service # The Code Services Continuous Deployment reference architecture demonstrates how to achieve continuous deployment of an application to a Kubernetes cluster using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild and AWS Lambda.
+https://github.com/aws-samples/aws-codebuild-polyglot-application # Build and Test Polyglot Applications using AWS CodeBuild
+https://github.com/aws-samples/aws-codecommit-selective-build-trigger # Demo code to trigger AWS CodeBuild jobs for selective file changes in AWS CodeCommit repositories
+https://github.com/aws-samples/aws-codebuild-custom-raspbian-builder # Build custom Raspbian OS images from verified Source with AWS CodeBuild. Supports bare-metal & Docker container installs. Provisioned via AWS CloudFormation.
+https://github.com/aws-samples/gitlab-codebuild-quickstart # Integrate your GitLab to AWS CodeBuild quickly.
+https://github.com/aws-samples/aws-cdk-deploy-pipeline-using-aws-codepipeline # This repository describes how to customize AWS CodePipeline to deploy AWS CDK application.
+https://github.com/aws-samples/aws-glue-jobs-unit-testing # Demo code to illustrate the execution of PyTest unit test cases for AWS Glue jobs in AWS CodePipeline using AWS CodeBuild projects
+https://github.com/aws-samples/aws-efa-nccl-baseami-pipeline # EFA/NCCL base AMI build Packer and CodeBuild/Pipeline files. Also base Docker build files to enable EFA/NCCL in containers
+https://github.com/aws-samples/cross-account-codebuild-proxy # This repository contains sample code which may be used to call AWS CodeBuild projects across AWS account boundaries.
+https://github.com/aws-samples/aws-codebuild-lambda-deploy #
+https://github.com/aws-samples/aws-codebuild-rds-job-scheduling #
+https://github.com/aws-samples/ci-4-terraform-aws-developer-tools-terratest # The module presented in this repository contains code to deploy Continuous Integration (CI) solution based on CodePipeline, CodeBuild and Terratest library, offering the ability to run E2E tests on Terraform modules in an automated way.
+https://github.com/aws-samples/provision-codepipeline-glue-workflows # Git repo to accompany the AWS DevOps Blog: Using AWS DevOps Tools to model and provision AWS Glue workflows
+https://github.com/aws-samples/aws-mlops-pipelines-terraform # MLOps on AWS using Amazon SageMaker Pipelines
+https://github.com/aws-samples/iam-policy-tester-pipeline # Test IAM Policies in Multi Account Structures in your CI/CD pipeline
+https://github.com/aws-samples/cfn-security-scan-integration # Sample code for integrating AWS CloudFormation templates security tests (using CFN-Nag and CFN-Guard) with both AWS Security Hub and AWS CodeBuild reports.
+https://github.com/aws-samples/cross-platform-go-builds-with-aws-codebuild #
+https://github.com/aws-samples/aws-glue-cdk-cicd # Build, Test and Deploy ETL solutions using AWS Glue and AWS CDK based CI/CD pipelines
+https://github.com/aws-samples/aws-codebuild-cloudwatch-trace-timing-metrics #
+https://github.com/aws-samples/ml-edge-getting-started #
+https://github.com/aws-samples/gitops-amazon-ecs-sample # A single pipeline to deploy multiple services on amazon ecs using gitops
+https://github.com/aws-samples/devsecops-terraform-dojo-codepipeline #
+https://github.com/aws-samples/aws-codebuild-cfn-package #
+https://github.com/aws-samples/neuvector-vulnerability-scan-in-aws-codebuild # Code example to perform a NeuVector vulnerability scan of a locally build container image in AWS CodeBuild.
+https://github.com/aws-samples/greengrass-v2-spot-robot-demo #
+https://github.com/aws-samples/amazon-eks-use-sbom-to-find-container-image-with-vulnerable-software # This repo hosts Terraform code for generating and analyzing Software Bill of Materials (SBOM) for Amazon ECR images. It helps identify Amazon EKS images with vulnerable software components using Amazon Athena.
+https://github.com/aws-samples/s3-devicefarm-pipeline # The objective of this sample is to help you to build a CI-CD pipeline to test mobile devices using the AWS Devicefarm. The sample makes use of the AWS Codepipeline service to connect build assets published to an Amazon S3 bucket to an AWS Devicefarm project. The code pipeline uses AWS CodeBuild for its testing stage to initiate the test runs on Devicefarm and gathers test results. These test results are then published back to an S3 bucket for further processing
+https://github.com/aws-samples/invisible-codepipeline-unsupported-regions # End-to-end workflow pipeline where the AWS CodePipeline is not yet supported using existing AWS CI and CD services like AWS CodeCommit, AWS CodeBuild and AWS CodeDeploy.
+
+https://github.com/awslabs/aws-codebuild-jenkins-plugin # AWS CodeBuild integration as a Jenkins build step.
+https://github.com/awslabs/ami-builder-packer # An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible.
+https://github.com/awslabs/aws-sam-codebuild-ci # A serverless app sets up an AWS CodeBuild Project as a CI solution for a GitHub-based SAM project. This app allows people developing SAM applications to quickly get a CodeBuild-based CI setup for their project.
+https://github.com/awslabs/aws-codeseeder # The aws-codeseeder project enables builders to easily "seed" python code to AWS CodeBuild for remote execution in their cloud environments.
+https://github.com/awslabs/serverless-automated-ui-testing # This repository will contains HTML and Javascript files for static S3 websites (Test Website & Status page), CodeBuild build specification, Python script to perform the testing ans CloudFormation template to launch the stack which will be used in a blog post.
+
+https://github.com/aws/aws-codebuild-docker-images # Official AWS CodeBuild repository for managed Docker images http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html

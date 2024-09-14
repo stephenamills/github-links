@@ -1,0 +1,137 @@
+https://github.com/aws-solutions-library-samples/guidance-for-automating-network-monitoring-and-alerting-on-aws # Tag based CloudWatch dashboard uses CDK and resource groups tagging API to automatically produce CloudFormation templates for CloudWatch dashboard.
+https://github.com/aws-solutions-library-samples/guidance-for-modernizing-electric-vehicle-charging-on-aws # This guidance demonstrates how the OCPP Gateway acts as a proxy between OCPP and MQTT, enabling integration with AWS IoT Core and downstream CPO services built on AWS.
+https://github.com/aws-solutions-library-samples/guidance-for-digital-thread-using-graph-and-generative-ai-on-aws # This Guidance demonstrates how to create an intelligent manufacturing digital thread through a combination of knowledge graph and generative artificial intelligence (AI) technologies. A digital thread offers an integrated approach to combine disparate data sources across enterprise systems, increasing traceability, accessibility, collaboration.
+https://github.com/aws-solutions-library-samples/guidance-for-machine-learning-inference-on-aws # This Guidance demonstrates how to deploy a machine learning inference architecture on Amazon Elastic Kubernetes Service (Amazon EKS). It addresses the basic implementation requirements as well as ways you can pack thousands of unique PyTorch deep learning (DL) models into a scalable architecture and evaluate performance at scale
+https://github.com/aws-solutions-library-samples/jenkins-unity-build-on-aws # Build Unity mobile apps on AWS
+https://github.com/aws-solutions-library-samples/guidance-for-custom-domain-names-on-amazon-api-gateway-private-endpoints # This Guidance shows how to create and facilitate access to private REST APIs on AWS
+https://github.com/aws-solutions-library-samples/guidance-for-optimizing-heterogeneous-auto-scaling-group-resource-utilization-on-aws # This Guidance shows how to use Elastic Load Balancing (ELB) to efficiently distribute traffic across heterogeneous Auto Scaling groups
+https://github.com/aws-solutions-library-samples/guidance-for-galaxy-on-aws # Galaxy on AWS Guidance provides all the infrastructure components required to run Galaxy in the cloud and are preconfigured with industry best practices for infrastructure monitoring and sec
+urity, cost efficiency, and data governance.
+https://github.com/aws-solutions-library-samples/guidance-for-active-active-replication-on-amazon-rds-for-mysql # This Guidance demonstrates how to configure active-active replication with up to nine Amazon Relational Database Service (Amazon RDS) for MySQL instances using the Group Replication plugin
+https://github.com/aws-solutions-library-samples/guidance-for-implementing-google-privacy-sandbox-key-value-service-on-aws # This Guidance demonstrates how to deploy the Google Chrome Privacy Sandbox Key/Value service within a trusted execution environment (TEE) on AWS
+https://github.com/aws-solutions-library-samples/guidance-for-multi-cluster-application-management-with-karmada-and-amazon-eks # This guidance shows how to deploy a federated Kubernetes environment in Amazon Web Services (AWS) cloud using Amazon Elastic Kubernetes Service (Amazon EKS) and the open source CNCF Karmada project - multi-cluster Kubernetes management system with advanced scheduling capabilities that enable running containerized applications across clusters
+
+https://github.com/aws-ia/terraform-aws-route53-recovery-controller # Terraform Module to deploy Route53 Application Recovery Controller components
+https://github.com/aws-ia/cloudformation-base-eks #
+https://github.com/aws-ia/cfn-ps-docker #
+
+https://github.com/build-on-aws/automated-arc-zonal-shift # Fix Gray Failures Fast Using Automation and Route 53 ARC Zonal Shift
+
+https://github.com/aws-samples/aws-three-tier-web-architecture-workshop #
+https://github.com/aws-samples/ecs-blue-green-deployment # Reference architecture for doing blue green deployments on ECS.
+https://github.com/aws-samples/generative-bi-using-rag # A solution guidance for Generative BI using Amazon Bedrock, Amazon OpenSearch with RAG
+https://github.com/aws-samples/hostname-as-target-for-elastic-load-balancer #
+https://github.com/aws-samples/aws-waf-automation-terraform-samples #
+https://github.com/aws-samples/aws-refarch-wordpress # This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
+https://github.com/aws-samples/flux-eks-gitops-config # Sample configuration blueprint for configuring multiple Amazon EKS clusters (test and production) using GitOps with Flux. This repository installs a set of commonly used Kubernetes add-ons to perform policy enforcement, restrict network traffic with network policies, cluster monitoring, extend Kubernetes deployment capabilities enabling Canary deployments for your applications... https://github.com/aws-samples/aws-sts-network-query-tool # AWS STS Network Query Tool uses cross account roles to collect networking related information for multiple accounts and outputs a CSV.
+https://github.com/aws-samples/distributed-load-testing-with-locust-on-ecs # Deploy Locust load testing framework on Amazon ECS
+https://github.com/aws-samples/amazon-aurora-proxysql-example # Amazon Aurora MySQL Compatible with ProxySQL
+https://github.com/aws-samples/amazon-aurora-pgpool-example # A set of CloudFormation templates that demonstrates using pgool middleware to provide a single endpoint for both the primary and read replica instances of an Amazon Aurora PostgreSQL-compatible cluster.
+https://github.com/aws-samples/resource-tagging-automation # A Lambda function for Resource Tagging Automation
+https://github.com/aws-samples/eks-alb-istio-with-tls # This repository demonstrate how to configure end-to-end encryption on EKS platform using TLS certificate from Amazon Certificate Manager, AWS Application LoadBalancer and Istio as service mesh.
+https://github.com/aws-samples/microservices-dotnet-aws-cdk # This repository contains a sample implementation of Fanout Architecture using .NET6 Worker Services to process messages from Amazon SNS Topic and Amazon SQS Queue. Since the Worker Services would have no UI, to operate this solution, you need Observability implemented. In this repository, you can also find sample .NET Observability implementation using the combination of AWS X-Ray and Amazon CloudWatch. To provision this solution, you can use AWS CDK to implement your modern Infrastructure as Code, using .NET C# to provision all AWS Resources your application needs.
+https://github.com/aws-samples/eksctl-cluster-provision #
+https://github.com/aws-samples/aws-ecs-devops-using-aws-cdk # This repository provides a general DevOps practices such MSA, IaC, CICD and Monitoring. AWS various services are used to provide DevOps best practices.
+https://github.com/aws-samples/amazon-eks-example-for-stateful-java-service # This repository aims to show how a stateful Java Service can be deployed on EKS
+https://github.com/aws-samples/achieving-operational-excellence-using-automated-playbook-and-runbook #
+https://github.com/aws-samples/fhir-hl7v2-integration-transform # A sample of implementing FHIR Works on AWS Integration Transform
+https://github.com/aws-samples/aws-secure-environment-accelerator # The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
+https://github.com/aws-samples/aws-braziltechtalk2019-cicd-demo # CI/CD demo showed at AWS Brazil TechTalk 2019: source code and materials.
+https://github.com/aws-samples/question-answering-large-documents #
+https://github.com/aws-samples/eks-mac1-gitlab # Integrating the AWS Mac1 instance with GitLab
+https://github.com/aws-samples/iot-network-traffic-control-and-load-testing-simulator #
+https://github.com/aws-samples/bedrock-access-gateway # OpenAI-Compatible RESTful APIs for Amazon Bedrock
+https://github.com/aws-samples/multiarch-eks-springboot-deployment-pipeline-with-cdk #
+https://github.com/aws-samples/startup-kit-templates # CloudFormation templates to accelerate getting started on AWS.
+https://github.com/aws-samples/aws-refarch-shibboleth # Containerized version of the Shibboleth IdP running on AWS with AWS Secrets Manager and AWS CodePipeline integrations. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+https://github.com/aws-samples/ecs-refarch-mixed-mode # Provides reference architecture and CloudFormation templates to power ECS using a mix of spot instances and ondemand instances with independent autoscaling
+https://github.com/aws-samples/arc-zonal-shift-demo #
+https://github.com/aws-samples/eb-java-scorekeep # RESTful web API in Java with Spring that provides an HTTP interface for creating and managing game sessions and users.
+https://github.com/aws-samples/cdktf-aws-elb-cognito-auth # Website included AWS ALB authenticate users with AWS Cognito using Terraform CDK
+https://github.com/aws-samples/amazon-eks-cdk-blue-green-cicd # Repo to build CI/CD pipeline for Blue/Green deployments on EKS using CDK
+https://github.com/aws-samples/cdk-devsecops-cicd-pipeline #
+https://github.com/aws-samples/aws-api-manipulation-workshop # A workshop demonstrating how AWS APIs can be manipulated using AWS CLI and AWS SDK
+https://github.com/aws-samples/minimum-eks-devsecops-with-monitoring-options # Minimum DevSecOps with Monitoring Options on Amazon EKS
+https://github.com/aws-samples/packet-capture-using-vpc-traffic-mirroring-s3-mount #
+https://github.com/aws-samples/cdk-wakeful #
+https://github.com/aws-samples/aws-elasticache-cluster-mode # Exercises AWS ElastiCache for Redis with Cluster Mode Enabled
+https://github.com/aws-samples/hybrid-pki-on-aws #
+https://github.com/aws-samples/custom-web-experience-with-amazon-q-business # Build a custom user interface for more tailored, controlled, and consolidated interactions with Amazon Q business.
+https://github.com/aws-samples/aws-cdk-project-template-for-devops # This repository provides best practices and template framework for developing AWS Cloud Development Kit(CDK)-based applications effectively, quickly and collaboratively.
+https://github.com/aws-samples/web-hosting-architecture-examples-for-china-region-terraform # This repo provides sample terraform codes to setup a web hosting architecture in China region (cn-north-1/cn-northwest-1), you could get started with your China region journey easily via this.
+https://github.com/aws-samples/amazon-eks-bottlerocket-nodes-on-graviton2 #
+https://github.com/aws-samples/fiware-orion-on-aws # An implementation for FIWARE Orion and Cygnus on AWS.
+https://github.com/aws-samples/audio-to-notes-demo-ai #
+https://github.com/aws-samples/kubernetes-for-java-developers # A Day in Java Developer’s Life, with a taste of Kubernetes
+https://github.com/aws-samples/unified-log-aggregation-and-analytics # The proposed solution shows and approach to unify and centralize logs across different compute platforms like EC2, ECS, EKS and Lambda with Kinesis Data Firehose using log collection agents (EC2 Kinesis agent), log routers (Fluentbit and Firelens) and lambda extension. We can easily deploy the solution presented here on the customer site using the CDK scripts packaged part of this article. Amazon managed Elastic search with Kibana is used to visualize the logs collected across different applications running on different compute platforms.
+https://github.com/aws-samples/Implementing-custom-domain-names-for-Amazon-API-Gateway-private-endpoints #
+https://github.com/aws-samples/aws-financial-services-framework #
+https://github.com/aws-samples/serverless-django-cdk-sample #
+https://github.com/aws-samples/minimum-viable-dataspace-for-catenax # Minimum Viable Dataspace for Catena-X on AWS
+https://github.com/aws-samples/aws-financial-services-framework-secret-for-terraform #
+https://github.com/aws-samples/security-driven-cloud-acceleration #
+https://github.com/aws-samples/amazon-emr-on-eks-scale-test-tool # EMR on EKS - Scale testing tool
+https://github.com/aws-samples/amazon-eks-kubeflow-multitenancy #
+https://github.com/aws-samples/genai-media-upscaling-and-testing #
+https://github.com/aws-samples/eks-nginx-aws-lb-controller-migration # This project demonstrates how to migrate your EKS cluster from NGINX Ingress Controller to AWS Load Balancer Controller
+https://github.com/aws-samples/cost-effective-aws-deployment-of-comfyui # Cost effective solution to deploy ComfyUI on AWS with simple deployment process using ECS and CDK.
+https://github.com/aws-samples/accelerate-protect-website-using-cloudfront-and-aws-waf #
+https://github.com/aws-samples/aws-iot-downlink-sigfox #
+https://github.com/aws-samples/amazon-cloudfront-secure-accelerate-wordpress #
+https://github.com/aws-samples/deploy-datahub-using-aws-managed-services-ingest-metadata #
+https://github.com/aws-samples/aws-config-rule-elbv2-scheme-to-tag #
+https://github.com/aws-samples/aws-sample-app-with-ipv6-support # The purpose of this repository is to demo how to build a sample application with IPV6 support.
+https://github.com/aws-samples/amazon-kda-studio-flinksql-example # This sample gets you started to run Flink SQL on AWS.
+https://github.com/aws-samples/aws-cdk-k8s-dotnet-todo #
+https://github.com/aws-samples/eks-shared-subnets #
+https://github.com/aws-samples/aws-cdk8s-deployment-sample #
+https://github.com/aws-samples/ecs-service-connect-yelb-sample-app #
+https://github.com/aws-samples/sending-cloudwatch-logs-to-splunk-using-aws-lambda #
+https://github.com/aws-samples/dr-with-eks-efs #
+https://github.com/aws-samples/swift-ecs-workshop # Example code for container workshop for re:Invent.
+https://github.com/aws-samples/aws-shield-advanced-auto-resource-enrollment # Automatic resource enrollment for AWS Shield Advanced.
+https://github.com/aws-samples/redcap-on-aws #
+https://github.com/aws-samples/amazon-eks-pod-identity-demo # Amazon EKS Pod Identity Demo
+https://github.com/aws-samples/cost-config-rules #
+https://github.com/aws-samples/aws-modernization-with-cloud-one-network-security #
+https://github.com/aws-samples/pega-on-eks-aurora-postgresql # Welcome to blueprint for running Pega platform on Amazon EKS (Tomcat) and Amazon Aurora PostgreSQL using Terraform and Helm.
+https://github.com/aws-samples/data-insights-with-amazon-q-business # Amazon Q Business enables querying structured data using natural language, leveraging schemas and metadata. This example demonstrates an architecture to query cost and usage data in Amazon Athena wi
+th Q Business. The solution can be extended to additional data sources with query validation and prompting techniques for broader use cases.
+https://github.com/aws-samples/eventbridge-events-to-vpc #
+https://github.com/aws-samples/aws-blog-grpc-kinesis #
+https://github.com/aws-samples/eip-and-dns-auto-binding-for-karpenter-worker #
+https://github.com/aws-samples/r53-arc-iad #
+https://github.com/aws-samples/amazon-eks-node-express-sample #
+https://github.com/aws-samples/proton-bitbucket-server-integration #
+https://github.com/aws-samples/example-for-aws-xray-in-amazon-ecs #
+https://github.com/aws-samples/iam-permissions-boundary-api-sls #
+https://github.com/aws-samples/aws-fargate-with-rstudio-open-source # This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
+https://github.com/aws-samples/bedrock-litellm #
+https://github.com/aws-samples/aws-edge-native-nomad #
+https://github.com/aws-samples/con317-reinvent19 # Builder session on securing your EKS
+https://github.com/aws-samples/aws-route53-weighted-alb-waf #
+https://github.com/aws-samples/stowrs-to-s3 #
+https://github.com/aws-samples/amazon-ecs-fargate-nlb-external-deployment-with-scaledown #
+https://github.com/aws-samples/eks-localzone-demo #
+https://github.com/aws-samples/aws-gloo-flux #
+https://github.com/aws-samples/aws-ecs-on-outposts #
+https://github.com/aws-samples/cilium-service-mesh-on-eks #
+https://github.com/aws-samples/hybrid-eks-cp-localzone #
+https://github.com/aws-samples/aws-ibm-mq-adapter #
+https://github.com/aws-samples/fast-secure-ecommerce-demo #
+https://github.com/aws-samples/custom-cdk-pipeline-construct #
+https://github.com/aws-samples/multi-tenancy-blog-post-collection #
+
+https://github.com/awslabs/cloudformation-ldaps-haproxy-template # Configure an LDAPS Endpoint for Simple AD
+https://github.com/awslabs/aws-lambda-redshift-loader # Amazon Redshift Database Loader implemented in AWS Lambda
+https://github.com/awslabs/kubernetes-iteration-toolkit #
+https://github.com/awslabs/assisted-log-enabler-for-aws # Assisted Log Enabler for AWS - Find AWS resources that are not logging, and turn them on.
+https://github.com/awslabs/pgbouncer-fast-switchover # Adds query routing and rewriting extensions to pgbouncer
+https://github.com/awslabs/specctl # CLI to convert Kubernetes specifications to ECS Fargate and vice-versa
+https://github.com/awslabs/weaviate-on-eks #
+https://github.com/awslabs/LISA # LLM inference solution for Amazon Dedicated Cloud (LISA).
+
+https://github.com/aws/elastic-load-balancing-tools # AWS Elastic Load Balancing Tools
+https://github.com/aws/aws-elb-best-practices # ELB Best Practices Guides
+https://github.com/aws/aws-app-mesh-examples # AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
+https://github.com/aws/elb-doctor # This is a user friendly console style command line tool for troubleshooting ELB issues with many additional features to come.

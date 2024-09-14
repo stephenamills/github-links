@@ -1,0 +1,4 @@
+https://github.com/aws-samples/aws-cloudmap-grpc-name-resolver # This sample shows how AWS Cloud Map can be leveraged for service name resolution in gRPC.
+
+https://github.com/awslabs/aws-cloudmap-prometheus-sd # A custom service discovery adapter for Prometheus that integrates with AWS Cloud Map
+https://github.com/aws/aws-cloud-map-mcs-controller-for-k8s # K8s controller implementing Multi-Cluster Services API based on AWS Cloud Map.

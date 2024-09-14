@@ -1,0 +1,20 @@
+https://github.com/aws-ia/terraform-aws-networkfirewall # Terraform module to deploy AWS Network Firewall
+
+https://github.com/build-on-aws/testing-egress-controls-for-cloud-workloads # Egress testing tutorials
+
+https://github.com/aws-samples/aws-network-firewall-terraform # This repository contains terraform code to deploy the necessary resources to get started to test AWS Network Firewall.
+https://github.com/aws-samples/aws-network-firewall-automation-examples # automated approaches involving an AWS Network Firewall Rule Group, paired with an AWS Lambda function to perform steps
+https://github.com/aws-samples/aws-network-firewall-demo # This repository contains sample code to automate the deployment of an AWS Network Firewall demo.
+https://github.com/aws-samples/aws-network-firewall-rulegroups-with-proofpoints-emerging-threats-open-ruleset #
+https://github.com/aws-samples/network-firewall-supervisor-terraform #
+https://github.com/aws-samples/aws-network-firewall-deployment-with-transit-gateway #
+https://github.com/aws-samples/aws-network-firewall-egress-domain-filter #
+https://github.com/aws-samples/migrating-to-aws-network-firewall-from-squid-web-proxy #
+https://github.com/aws-samples/aws-network-firewall-strict-rule-ordering-terraform #
+https://github.com/aws-samples/aws-vpc-builder-cdk # Using a configuration file alone, deploy complex AWS Network Architectures using the AWS CDK to learn from and explore!
+https://github.com/aws-samples/manage-aws-network-firewall-multi-account-aws-firewall-manager #
+https://github.com/aws-samples/controlling-access-to-domains-with-aws-network-firewall-and-aws-lambda #
+https://github.com/aws-samples/query-aws-network-firewall-logs # This template deploys resources required to query Amazon Network Firewall logs in a predefined log destination S3 bucket.
+https://github.com/aws-samples/automated-network-firewall-rules-for-cloudfront-ip-ranges #
+
+https://github.com/awslabs/anfw-automate # Automate rule management for AWS Network Firewall

@@ -1,0 +1,176 @@
+https://github.com/aws-solutions-library-samples/guidance-for-building-a-real-time-bidder-for-advertising-on-aws # This Guidance helps you assess ad opportunities at scale using real time bidding (RTB)
+https://github.com/aws-solutions-library-samples/guidance-for-automated-deletion-of-vault-archives-in-amazon-s3-glacier # This Guidance shows how to automate the complex and repetitive tasks associated with deleting data stored in an Amazon S3 Glacier vault.
+https://github.com/aws-solutions-library-samples/guidance-for-automating-sap-configuration-health-checks-on-aws # This Guidance shows how to automate evaluation of your SAP landscape on AWS against 100+ health checks and architecture best practices aligned with the AWS Well-Architected Framework.
+https://github.com/aws-solutions-library-samples/guidance-for-understanding-your-data-lineage-on-amazon-quickSight # This Guidance demonstrates how to trace and better understand your data lineage in Amazon QuickSight. This allows you to visualize and analyze the usage and relationships of data sources and datasets. With this new automated architecture, you can reduce the time spent tracing QuickSight data lineage from weeks to minutes.
+https://github.com/aws-solutions-library-samples/guidance-for-chatbot-user-feedback-and-analytics-on-aws # This Guidance demonstrates a prescriptive approach to gathering and storing human feedback on generative artificial intelligence (AI) applications, allowing businesses to estimate the value of their AI investments by collecting user satisfaction data
+https://github.com/aws-solutions-library-samples/guidance-for-payment-systems-using-event-driven-architecture-on-aws # This guidance focuses on the part of payments processing systems that post payments to recieving accounts. In this phase, inbound transactions are evaluated, have accounting rules applied to them, then are posted into customer accounts.
+https://github.com/aws-solutions-library-samples/guidance-for-battery-digital-twin-on-aws # This Guidance shows how to create a battery digital twin, a virtual representation of a physical electric vehicle battery or battery energy storage system (BESS), and overlay real-time data such as voltage, current, and temperature.
+https://github.com/aws-solutions-library-samples/guidance-for-automated-restore-and-copy-for-amazon-s3-glacier-objects # This Guidance provides an automated workflow to restore archived Amazon Simple Storage Service (Amazon S3) data stored in S3 Glacier Flexible Retrieval and Deep Archive storage classes to a new storage class
+
+https://github.com/aws-ia/terraform-aws-control_tower_account_factory # AWS Control Tower Account Factory
+https://github.com/aws-ia/terraform-aws-eks-ack-addons # Terraform AWS module which provisions ACK addons on EKS
+https://github.com/aws-ia/terraform-elastic-cloud # Terraform module automates Elastic Cloud deployment and optional data migration to the AWS Cloud.
+https://github.com/aws-ia/terraform-aws-vpc_endpoints # Terraform AWS VPC endpoints module
+https://github.com/aws-ia/cfn-ps-cribl-cloudtrail #
+https://github.com/aws-ia/terraform-aws-genai-document-ingestion-rag #
+
+https://github.com/aws-samples/aws-cloudtrail-analyzer-workshop # Workshop exercise materials for re:Invent 2017 - SID 341: Using AWS CloudTrail Logs for Scalable, Automated Anomaly Detection
+https://github.com/aws-samples/arc325-multiple-accounts-workshop # Lab materials and documentation for the workshop ARC325 Managing Multiple Accounts at Scale at re:Invent 2017
+https://github.com/aws-samples/aws-incident-response-playbooks-workshop #
+https://github.com/aws-samples/jupyter-notebook-for-incident-response # A library of Incident Response notebooks using Jupyter. We will show how you can leverage pre-defined notebook files to guide your incident responders in identifying, containing, eradicating, and recovering from an incident.
+https://github.com/aws-samples/cloud-trail-lake-query-samples #
+https://github.com/aws-samples/aws-management-and-governance-samples # Collection of samples for Management and Governance services
+https://github.com/aws-samples/aws-secure-environment-accelerator # The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
+https://github.com/aws-samples/aws-security-reference-architecture-examples # Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terraform.
+https://github.com/aws-samples/aws-config-pci-fsbp-ssmremediations #
+https://github.com/aws-samples/aws-cloud-compliance-assurance #
+https://github.com/aws-samples/aws-systems-manager-amazon-ebs-management # Control your AWS costs by deleting unused Elastic Block Store volumes
+https://github.com/aws-samples/aws-security-odyssey # AWS Security Odyssey: A hands-on journey with security services and controls in the AWS cloud.
+https://github.com/aws-samples/amazon-sagemaker-safe-deployment-pipeline # Safe blue/green deployment of Amazon SageMaker endpoints using AWS CodePipeline, CodeBuild and CodeDeploy.
+https://github.com/aws-samples/aws-modernization-with-sysdig #
+https://github.com/aws-samples/aws-scaling-threat-detection-workshop-jp # A hands-on workshop to learn how to do threat detection and response in AWS.
+https://github.com/aws-samples/aws-cloudtrail-lake-github-audit-log # A reference architecture to integrate GitHub Audit Log to AWS CloudTrail Lake
+https://github.com/aws-samples/security-baseline-self-test #
+https://github.com/aws-samples/automated-iam-access-analyzer #
+https://github.com/aws-samples/aws-cloud-and-hybrid-operations-workshop #
+https://github.com/aws-samples/aws-s3-copy-sync-using-batch #
+https://github.com/aws-samples/service-screener-v2 # A tool for customers to evaluate their AWS service configurations based on AWS and community best practices and receive recommendations on potential improvements.
+https://github.com/aws-samples/multi-env-oss-deployment-pipeline #
+https://github.com/aws-samples/siem-on-amazon-opensearch-service # A solution for collecting, correlating and visualizing multiple types of logs to help investigate security incidents.
+https://github.com/aws-samples/resource-tagging-automation # A Lambda function for Resource Tagging Automation
+https://github.com/aws-samples/amazon-security-lake-ocsf-validation #
+https://github.com/aws-samples/devsecops-cicd-containers #
+https://github.com/aws-samples/aws-iam-root-user-activity-monitor #
+https://github.com/aws-samples/aws-iam-access-analyzer-kms-blog # How to use AWS IAM Access Analyzer API to detect public access to AWS resources on example of AWS KMS CMK
+https://github.com/aws-samples/aws-cloudtrail-lake-okta-system-log-events #
+https://github.com/aws-samples/ec2-image-builder-pipeline-notification-and-integration #
+https://github.com/aws-samples/monitor-vpc-network-patterns #
+https://github.com/aws-samples/amazon-vpc-reachability-analyzer-automated-analysis #
+https://github.com/aws-samples/near-realtime-aws-usage-anomaly-detection # Detect AWS usage anomalies in near-real time using OpenSearch Anomaly Detection and CloudTrail for improved cost management and security
+https://github.com/aws-samples/aws-cross-account-break-glass-example #
+https://github.com/aws-samples/aws-cloud-custodian-sample-collection #
+https://github.com/aws-samples/runtime-security-with-falco-on-aws #
+https://github.com/aws-samples/amazon-ecr-dynamic-repository-creation #
+https://github.com/aws-samples/aws-expense-handling-workflow #
+https://github.com/aws-samples/amazon-sagemaker-studio-audit #
+https://github.com/aws-samples/ec2-flexibility-score-dashboard # EC2 Flexibility Score assesses any configuration used to launch instances through an Auto Scaling Group (ASG) against the recommended EC2 best practices. It converts the best practice adoption into a “flexibility score” that can be used to identify, improve, and monitor the configurations.
+https://github.com/aws-samples/data-perimeter-helper # Data perimeter helper is a tool that helps you design and anticipate the impact of your data perimeter controls
+https://github.com/aws-samples/euc-toolkit #
+https://github.com/aws-samples/aws-management-and-governance-samples-youtube # Collection of samples that pertain to videos included in the AWS Management and Governance YouTube playlist.
+https://github.com/aws-samples/infrastructure-assessment-iac-automation #
+https://github.com/aws-samples/baseline-environment-on-aws # Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalone-account or ControlTower based multi-account AWS environment. This solution provides basic and extensible guardrail with AWS security services and end-to-end sample CDK code for typical system architecture.
+https://github.com/aws-samples/amazon-route53-hosted-zone-sync #
+https://github.com/aws-samples/controltower-events-automation-with-cfn #
+https://github.com/aws-samples/aws-control-tower-controls-terraform # This repository describes how to use AWS Control Tower controls, HashiCorp Terraform, and infrastructure as code (IaC) to implement and administer preventive, detective, and proactive security controls. A control (also known as a guardrail) is a high-level rule that provides ongoing governance for your overall AWS Control Tower environment.
+https://github.com/aws-samples/setup-sns-notifications-on-resource-modifications-using-aws-config-and-cloudtrail # How to setup notifications of which user or role made changes to a resource using AWS Config and CloudTrail.
+https://github.com/aws-samples/amazon-forecast-automated-sales-projections #
+https://github.com/aws-samples/aws-ssm-automation-export-logevents-to-cloudtraillake #
+https://github.com/aws-samples/running-sql-on-org-audit-logs-using-partition-projection #
+https://github.com/aws-samples/s3-small-object-compaction #
+https://github.com/aws-samples/aws-private-decoy-resources #
+https://github.com/aws-samples/amazon-codewhisperer-usage-analyzer # The Amazon CodeWhisperer usage analyzer is used to perform analysis on code suggestions and security scans for Organizations using the CodeWhisperer professional tier.
+https://github.com/aws-samples/single-account-security-accelerator # The Single Account Security Accelerator (SASA) provides a quick way to improve your security posture on AWS in a single-account environment.
+https://github.com/aws-samples/aws-cloudtrail-auto-remediate # Automatically Enable CloudTrail when Disabled
+https://github.com/aws-samples/generating-credential-and-role-usage-reports-for-aws-identity-centre-users-leveraging-cloudtraillake #
+https://github.com/aws-samples/event-driven-arch-eventbridge-lambda #
+https://github.com/aws-samples/aws-reinvent2018-data-protection # Materials for the 2018 re:Invent SEC372 Data Protection in AWS builder session
+https://github.com/aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app #
+https://github.com/aws-samples/landing-zone-accelerator-on-aws-for-education # Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+https://github.com/aws-samples/revoke-eks-cluster-security-group-egress-rule # This revokes the Amazon EKS cluster security group egress rule. This is intended for use by anyone who does not want egress rules to unrestricted destinations. This is an alternative to revoking the rule manually every time. You must allow egress traffic to your nodes' security groups when they are created.
+https://github.com/aws-samples/ingest-and-analyze-aws-security-logs-in-microsoft-sentinel # This pattern describes how to automate the ingestion of security logs, e.g., AWS CloudTrail, Amazon CloudWatch Logs, AWS VPC Flow Logs and Amazon GuardDuty, in Microsoft Sentinel to centrally monitor, detect and analyze security related events and logs.
+https://github.com/aws-samples/secure-data-science-reference-architecture # A collection of recommended practices to accelerate the building of secure data science environments in regulated environments.
+https://github.com/aws-samples/failure-analysis-assistant # Failure Analysis Assistant (FA2) is a sample that supports failure analysis when a failure occurs using LLM in Amazon Bedrock. It was shown as an exhibition demo for AWS Summit Japan 2024.
+https://github.com/aws-samples/aws-secrets-manager-jira-integration #
+https://github.com/aws-samples/aws-iam-identity-center-extensions # This solution is intended for enterprises that need a streamlined way of managing user access to their AWS accounts. Using this solution, your identity and access management teams can extend AWS SSO f
+unctionality by automating common access management and governance use cases
+https://github.com/aws-samples/lake-formation-permissions-sync #
+https://github.com/aws-samples/cloudfront-invalidation-scheduler # Scheduler for CloudFront Invalidation
+https://github.com/aws-samples/aws-glue-control-interactive-sessions #
+https://github.com/aws-samples/aws-cdk-drs-agent-installer # This project provides a set of examples for installing the AWS Elastic Disaster Recover agent to EC2 instances within an AWS environment
+https://github.com/aws-samples/deploy-conformance-pack-for-aws-startup-security-baseline #
+https://github.com/aws-samples/s3-bucketkey-poc # S3 Bucket Key Proof of concept (POC) will demonstrate how request traffic decreases (up to 99%) from Amazon S3 to AWS KMS when you enable the S3 Bucket Key.
+https://github.com/aws-samples/service-catalog-cloud9 #
+https://github.com/aws-samples/amazon-route-53-record-auto-linker #
+https://github.com/aws-samples/aws-account-alternate-contact-with-terraform # Terraform module for AWS blog post on how to manage AWS account alternate contacts with Terraform
+https://github.com/aws-samples/aws-cloudtrail-lake-ingesting-non-aws-events #
+https://github.com/aws-samples/amazon-eventbridge-for-ecr-api-calls # In this GitHub repository, you will get a step by step guidance to deploy an Amazon CloudFormation (CFN) template to automatically create all the resources and settings required to enable SNS Notification for EventBridge Rule API Calls for Elastic Container Registry (ECR) Service.
+https://github.com/aws-samples/requesting-just-in-time-privileged-access-using-managed-services #
+https://github.com/aws-samples/aws-cdk-imagebuilder-sample # Example Container ImageBuilder project using the AWS CDK
+https://github.com/aws-samples/aws-control-tower-existing-cloudtrail-integration #
+https://github.com/aws-samples/amazon-security-lake-machine-learning #
+https://github.com/aws-samples/aws-service-catalog-product-reporting #
+https://github.com/aws-samples/vpc-flowlogs-for-data-transfer-calculation #
+https://github.com/aws-samples/Amazon-EKS-pod-logs-to-CloudTrail-Lake #
+https://github.com/aws-samples/tracking-aws-kms-key-policies-using-amazon-quicksight #
+https://github.com/aws-samples/aws-audit-manager-manual-evidence-automation #
+https://github.com/aws-samples/aws-iam-refining-policy-permissions #
+https://github.com/aws-samples/amazon-athena-execution-parameters-blog #
+https://github.com/aws-samples/aws-security-stepfunction-integration #
+https://github.com/aws-samples/amazon-security-lake-generative-ai #
+https://github.com/aws-samples/aws-cloudtrail-lake-ingesting-activity-logs #
+https://github.com/aws-samples/dynamodb-pitr-restore-cdc #
+https://github.com/aws-samples/generate-aws-security-services-findings #
+https://github.com/aws-samples/lambda-load-splitter-sample #
+https://github.com/aws-samples/aws-control-tower-controls-cdk # This pattern describes how to use AWS Control Tower Controls, AWS Cloud Development Kit (CDK) and infrastructure as code to implement and administer preventive, detective and proactive security on AWS.
+https://github.com/aws-samples/aws-cdk-rekognition-ppedetection #
+https://github.com/aws-samples/aws-account-closure-notifier #
+https://github.com/aws-samples/aws-accesscontrol-monitoring-dynamodb #
+https://github.com/aws-samples/reinforce-dap341-genai-data-protection # This repository hosts sample code that supports the re:Inforce 2024 Code Talk with session ID DAP341.
+https://github.com/aws-samples/aws-cdk-glue-table-sync-with-snowflake #
+https://github.com/aws-samples/SecurityHub-Multiaccount-UpdateControls #
+https://github.com/aws-samples/create-security-observability-using-generative-ai-with-security-lake-and-amazon-q-for-quicksight #
+https://github.com/aws-samples/aws-iot-security-baseline # AWS IoT security baseline (AISB) is a set of security controls that create a minimum foundation for customers to build secure IoT solutions on AWS.
+https://github.com/aws-samples/amazon-msk-topic-resource # Custom CloudFormation resource that can be used to create and manage Kafka topics in MSK clusters.
+https://github.com/aws-samples/cost-control-for-amazon-braket # Solution for near real-time monitoring and control of costs incurred by Amazon Braket quantum tasks.
+https://github.com/aws-samples/amazon-sagemaker-advanced-monitoring-and-reporting #
+https://github.com/aws-samples/contentmoderation-custom-model-rekognition #
+https://github.com/aws-samples/aws-backup-alarms # AWS Backup alarms build a centralized solution to notify via email when a backup job or backup copy has failed and when an AWS Organizations backup policy has been modified.
+https://github.com/aws-samples/amazon-q-business-user-feedback-solution #
+https://github.com/aws-samples/aws-marketplace-vendor-insights #
+https://github.com/aws-samples/natural-language-queries-for-datalakes #
+https://github.com/aws-samples/aws-well-architected-tool-template-automation #
+https://github.com/aws-samples/reinvent2020-aim404-productionize-r-using-amazon-sagemaker # Customers using R can run simulation and machine learning securely and at scale with Amazon SageMaker while also reducing the cost of development by using the fully elastic resources in the cloud. In this demo, learn how to build, train, and deploy statistical and ML models in R at scale using Amazon SageMaker from your IDE.
+https://github.com/aws-samples/aws-identitycenter-codepipeline-auto-assignment #
+https://github.com/aws-samples/validate-policy # This project creates Lambda function that automatically validates policy document defined when a policy or role is created or updated.
+https://github.com/aws-samples/discover-aws-iam-resource-access # A Python script to discover AWS IAM identities (users and roles) with specified access to specified resources.
+https://github.com/aws-samples/security-driven-cloud-acceleration #
+https://github.com/aws-samples/sending-cloudwatch-logs-to-splunk-using-aws-lambda #
+https://github.com/aws-samples/vpc-flow-log-filtering-and-ingestion-in-splunk-using-aws-lambda # The sample code published here is an AWS Lambda python code to push VPC Flow logs from S3 logging buckets into Splunk via HTTP Event Collector.
+https://github.com/aws-samples/amazon-sagemaker-studio-secure-data-science-workshop # Secure data science with Amazon SageMaker Studio workshop. This workshop creates a reference architecture with security and controls to perform machine learning tasks securely with Amazon SageMaker Studio.
+https://github.com/aws-samples/es-auto-request # The goal of this repository is to help you deploy a simple solution to watch for newly created accounts in your organization and submit a support case requesting the new account to have Enterprise Support enabled.
+https://github.com/aws-samples/aws-fargate-with-rstudio-open-source # This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
+https://github.com/aws-samples/aws-custom-guardrail-event-driven # Using this template, you can deploy a Custom Guardrail for AWS Glue Encryption using Event-driven Architecture.
+https://github.com/aws-samples/sagemaker-studio-efs-recovery-serverless #
+https://github.com/aws-samples/automating-fsx-for-netapp-ontap-password-rotation #
+https://github.com/aws-samples/con317-reinvent19 # Builder session on securing your EKS
+https://github.com/aws-samples/automated-datastore-discovery-with-aws-glue # Automation framework to catalog AWS data sources using Glue
+https://github.com/aws-samples/aws-tf-kms # Scale usage of AWS KMS keys for AWS Services with multi-region replica and cross-account access
+https://github.com/aws-samples/cloudwatch-to-opensearch # Sample code to demonstrate ingestion of Amazon CloudWatch logs into Amazon OpenSearch Serverless
+https://github.com/aws-samples/biotech-blueprint-multi-account # The AWS Biotech Blueprint Multi Account is a landing zone for life sciences startups looking to build well architected research environments in the cloud. This CDK based solution creates the infrastructure as code to manage security, identity, and networking across 10s or 100s of accounts.
+https://github.com/aws-samples/ddl-deployment-for-amazon-rds # Automated intialization of Amazon RDS databases
+https://github.com/aws-samples/aws-trip-aggregation-sample # Sample Serverless architecture for automatically ingesting, reducing and aggregating telemetry information of devices and trips, available to end users through REST APIs
+https://github.com/aws-samples/lza-account-creation-workflow #
+https://github.com/aws-samples/aws-control-tower-extended-region-support # Extend AWS Control Tower governance using AWS Config Conformance Packs
+https://github.com/aws-samples/automatically-replicate-your-card-payment-keys #
+https://github.com/aws-samples/amazon-connect-data-analytics-sample #
+
+https://github.com/awslabs/aws-security-automation # Collection of scripts and resources for DevSecOps and Automated Incident Response Security
+https://github.com/awslabs/aws-security-analytics-bootstrap # AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena analysis environment that's quick to deploy, ready to use, and easy to maintain.
+https://github.com/awslabs/assisted-log-enabler-for-aws # Assisted Log Enabler for AWS - Find AWS resources that are not logging, and turn them on.
+https://github.com/awslabs/cwe-monitor-secgrp # This CloudWatch Events rule Lambda function evaluates AWS API calls that change Amazon EC2 security group ingress rules. The function flags rules that violate a preconfigured policy.
+https://github.com/awslabs/eksdemo # The easy button for learning, testing and demoing Amazon EKS
+https://github.com/awslabs/aws-security-assessment-solution # An AWS tool to help you create a point in time assessment of your AWS account using Prowler.
+https://github.com/awslabs/ec2-classic-mirror # ClassicLink Mirror is an automation tool that assists with an in-progress migration of your EC2 resources from EC2-Classic to a VPC.
+https://github.com/awslabs/aws-service-catalog-products # This repository contains a number of CloudFormation templates which can be used independently or as Products with AWS Service Catalog including the Open Source Tools AWS Service Catalog Factory and AWS Service Catalog Puppet. The templates include a number of the foundational AWS Services you may choose to manage Account Compliance including AWS Config, AWS CloudTrail and GuardDuty
+https://github.com/awslabs/aws-automated-incident-response-and-forensics #
+https://github.com/awslabs/aws-dotnet-distributed-cache-provider # An IDistributedCache implementation backed by Amazon DynamoDB.
+https://github.com/awslabs/amazon-s3-tar-tool # A utility tool to create a tarball of existing objects in Amazon S3
+https://github.com/awslabs/mlspace #
+https://github.com/awslabs/resource-lister #
+https://github.com/awslabs/boto-formatter # boto3 response formatter
+
+https://github.com/aws/aws-cloudtrail-processing-library # The AWS CloudTrail Processing Library helps Java developers to easily consume and process log files from AWS CloudTrail.
+https://github.com/aws/aws-js-sns-message-validator #
+https://github.com/aws/aws-php-sns-message-validator # Amazon SNS message validation for PHP
+https://github.com/aws/aws-auto-scaling-custom-resource # Libraries, samples, and tools to help AWS customers onboard with custom resource auto scaling.
+https://github.com/aws/aws-secretsmanager-agent # The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.

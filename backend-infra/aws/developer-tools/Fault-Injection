@@ -1,0 +1,21 @@
+https://github.com/aws-solutions-library-samples/guidance-for-multi-region-serverless-batch-applications-on-aws # This Guidance helps customers design a resilient batch process application using AWS services
+
+https://github.com/aws-samples/aws-fault-injection-simulator-workshop #
+https://github.com/aws-samples/fis-template-library #
+https://github.com/aws-samples/aws-fault-injection-simulator-workshop-v2 #
+https://github.com/aws-samples/chaos-engineering-with-aws-fault-injection-simulator #
+https://github.com/aws-samples/chaos-engineering-with-aws-fault-injection-simulator-cfct-and-aws-service-catalog #
+https://github.com/aws-samples/aws-eda-slurm-cluster # AWS Slurm Cluster for EDA Workloads
+https://github.com/aws-samples/chaosinjection-lambda-samples #
+https://github.com/aws-samples/ec2-spot-interrupter-cli # A CLI tool to simulate EC2 Spot Instances interruptions using AWS Fault Injection Simulator.
+https://github.com/aws-samples/spot-interruption-simulation # This repository has sample that provides end to end automation of EC2 Spot Interruption simulation with application availability testing during Spot interruption.
+https://github.com/aws-samples/serverless-chaos-experiments #
+https://github.com/aws-samples/arc-zonal-shift-demo #
+https://github.com/aws-samples/fis-template-library-tooling #
+https://github.com/aws-samples/fis-api-failure-injection-using-iam #
+https://github.com/aws-samples/rds-chaos-engineering #
+https://github.com/aws-samples/aws-fis-exp-tem-using-cft-automation #
+https://github.com/aws-samples/aws-anz-devlabs-ecs-fis #
+https://github.com/aws-samples/iot-network-traffic-control-and-load-testing-simulator #
+
+https://github.com/aws/amazon-ec2-spot-interrupter # The ec2-spot-interrupter is a simple CLI tool that triggers Amazon EC2 Spot Interruption Notifications and Rebalance Recommendations.

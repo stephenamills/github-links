@@ -1,0 +1,71 @@
+https://github.com/aws-solutions-library-samples/guidance-for-recency-frequency-and-monetization-analysis-on-amazon-pinpoint # Recency, Frequency and Monetary (RFM) Segmentation guidance for Amazon Pinpoint.
+https://github.com/aws-solutions-library-samples/guidance-for-personalized-engagement-using-online-and-mobile-user-behaviors-on-aws # A comprehensive digital customer engagement solution by leveraging RudderStack's warehouse-first CDP platform and AWS services
+
+https://github.com/aws-samples/communication-developer-services-reference-architectures # AWS Amazon Pinpoint and Amazon Simple Email Service (SES) Digital User Engagement Reference Architectures with CloudFormation templates.
+https://github.com/aws-samples/amazon-pinpoint-lex-bot # Use Amazon Pinpoint, Lambda, and Lex to let your customers have two-way chats with bots via SMS.
+https://github.com/aws-samples/amazon-rds-data-api-demo # Its an example Lambda app which showcases how to run queries using SDK for Aurora Serverless Data API.
+https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor # Use Amazon (AWS) Pinpoint, Lambda and Connect to transparently put customers into a phone callback queue upon an SMS request from them.
+https://github.com/aws-samples/amazon-pinpoint-call-generator # Use Lambda to trigger outbound voice phone calls with Pinpoint
+https://github.com/aws-samples/send-real-time-notification-using-amazon-pinpoint-samples #
+https://github.com/aws-samples/generative-ai-marketing-portal # CDK Deployment for a sample marketing portal using generative AI for content generation and distribution
+https://github.com/aws-samples/amazon-pinpoint-event-trigger-demo # Simple demo to register endpoints and generating events to show off the capabilities of Amazon Pinpoints event trigger functionality.
+https://github.com/aws-samples/amazon-connect-power-dialer # Serverless Dialer for Amazon Connect.
+https://github.com/aws-samples/amazon-pinpoint-whatsapp #
+https://github.com/aws-samples/multi-language-notification-with-amazon-translate-amazon-pinpoint # In this project, we demonstrate how to build a simple, cost effective, and scalable application using AWS Serverless technologies. The application takes a notification in English language as the input, converts it into different languages. Additionally, deliver these translated notifications in the form of either an email, voice, or a text message.
+https://github.com/aws-samples/reinvent-2018-social-news-app # Build a social news app.
+https://github.com/aws-samples/aurora-and-database-migration-labs # This github repo contains Aurora MySQL and PostgreSQL Labs, Aurora Serverless Lab and Heterogeneous database migration with DMS Labs.
+https://github.com/aws-samples/pinpoint-two-way-sms #
+https://github.com/aws-samples/amazon-documentdb-streams-msk #
+https://github.com/aws-samples/serverless-appointment-scheduler-amazon-connect #
+https://github.com/aws-samples/amazon-pinpoint-voice-channel #
+https://github.com/aws-samples/amazon-pinpoint-connect-channel #
+https://github.com/aws-samples/amazon-personalize-pinpoint-contextual-targeting #
+https://github.com/aws-samples/amazon-pinpoint-whatsapp-channel #
+https://github.com/aws-samples/aws-amplify-flutter-example #
+https://github.com/aws-samples/amazon-pinpoint-googleads-channel #
+https://github.com/aws-samples/amazon-pinpoint-dynamodb-channel #
+https://github.com/aws-samples/amazon-pinpoint-slack-channel #
+https://github.com/aws-samples/build-full-stack-application-with-cloudscape-and-aws-amplify #
+https://github.com/aws-samples/amazon-pinpoint-integration-line-messaging-api #
+https://github.com/aws-samples/amazon-redshift-modernize-dw # Can you set up a data warehouse and create a dashboard in under 60 minutes? In this workshop, we show you how with Amazon Redshift, a fully managed cloud data warehouse that provides first-rate performance
+at the lowest cost for queries across your data warehouse and data lake. Learn the steps and best practices for deploying your data warehouse in your organization. Also, learn how to query petabytes of data in your data warehouse and exabytes of data, without loading or moving, in your Amazon S3 data lake. Finally, learn how to easily migrate from traditional or on-premises data warehouses.
+https://github.com/aws-samples/amazon-pinpoint-rds-integration # CloudFormation templates for the "Updating Opt-in Status for Amazon Pinpoint Channels" blog.
+https://github.com/aws-samples/genai-model-evaluator #
+https://github.com/aws-samples/amazon-connect-callback-helper #
+https://github.com/aws-samples/amazon-pinpoint-twitter-channel #
+https://github.com/aws-samples/amazon-api-gateway-pinpoint-otp-demo # This application demonstrates how you can leverage Amazon Pinpoint's One Time Password (OTP) feature, to authenticate Amazon API Gateway requests.
+https://github.com/aws-samples/amazon-pinpoint-wechat-channel #
+https://github.com/aws-samples/pinpoint-api-blog #
+https://github.com/aws-samples/amazon-pinpoint-ifttt-channel #
+https://github.com/aws-samples/amazon-pinpoint-updateendpoint-channel #
+https://github.com/aws-samples/amazon-pinpoint-interactive-sms-multilingual # An interactive multi-lingual interactive text messaging workflow for updating member information for Medicaid unwinding.
+https://github.com/aws-samples/amazon-fraud-detector-with-cognito # A CDK Application containing Stacks that deploy necessary resources required to implement a real-time fraud detection and prevention system using Amazon Fraud Detector and Amazon Cognito.
+https://github.com/aws-samples/amazon-pinpoint-call-retry #
+https://github.com/aws-samples/multiple-accounts-multiple-amazon-pinpoint-projects # This AWS CDK project is an example implementation of the "Multiple Accounts & Multi Pinpoint Projects (MA/MP)"
+https://github.com/aws-samples/amazon-pinpoint-manage-email-unsubscribes #
+https://github.com/aws-samples/serverless-patient-engagement-stack #
+https://github.com/aws-samples/amazon-pinpoint-facebookads-channel # Amazon Pinpoint custom channel that helps on integrating with Facebook Ads
+https://github.com/aws-samples/aws-iot-events-detection-sample #
+https://github.com/aws-samples/nonprofit-samples # A curated set of solutions that have been purpose-built for the nonprofit community.
+https://github.com/aws-samples/voice-channel-for-outbound-campaigns #
+https://github.com/aws-samples/digital-user-engagement-events-dashboards #
+https://github.com/aws-samples/pinpoint-shift-management-2-way-sms #
+https://github.com/aws-samples/amazon-security-lake-machine-learning #
+https://github.com/aws-samples/amazon-pinpoint-incident-notifications-mechanism #
+https://github.com/aws-samples/amazon-pinpoint-segment-campaign-automation #
+https://github.com/aws-samples/amazon-pinpoint-urlshortener #
+https://github.com/aws-samples/amazon-pinpoint-realtime-campaign-optimization-example #
+https://github.com/aws-samples/amazon-connect-config-rules #
+https://github.com/aws-samples/amazon-connect-transcript-sender #
+https://github.com/aws-samples/aws-waf-for-event-analysis-dashboard #
+https://github.com/aws-samples/amazon-cognito-user-pool-development-and-testing-with-sms-redirected-to-email #
+https://github.com/aws-samples/dynamic-sagemaker-pipelines-framework #
+https://github.com/aws-samples/amazon-eks-use-sbom-to-find-container-image-with-vulnerable-software # This repo hosts Terraform code for generating and analyzing Software Bill of Materials (SBOM) for Amazon ECR images. It helps identify Amazon EKS images with vulnerable software components using Amazon Athena.
+https://github.com/aws-samples/aws-modernization-with-sumologic #
+https://github.com/aws-samples/amazon-cognito-unity-integration # Amazon Cognito and AWS services for your next Unity VR application.
+https://github.com/aws-samples/ai-powered-text-insights #
+https://github.com/aws-samples/federated-access-to-redshift-in-china #
+https://github.com/aws-samples/drs-malware-scan # Perform file-based malware scan on your on-prem servers with AWS
+https://github.com/aws-samples/email-one-click-unsubscribe #
+
+https://github.com/awslabs/amazon-personalize-optimizer-using-amazon-pinpoint-events # Enabling the automated process of using the events generated by their Pinpoint campaigns to rapidly train and optimize their Personalize campaigns.

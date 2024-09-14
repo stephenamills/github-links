@@ -1,0 +1,17 @@
+https://github.com/aws-ia/terraform-aws-vpc_endpoints # Terraform AWS VPC endpoints module
+
+https://github.com/aws-samples/aws-proton-cloudformation-sample-templates # Sample templates for AWS Proton
+https://github.com/aws-samples/aws-proton-sample-services # Sample application code for AWS Proton
+https://github.com/aws-samples/aws-proton-sample-lambda-crud-service # Sample application code for AWS Proton
+https://github.com/aws-samples/aws-proton-terraform-sample-templates # Sample Terraform templates for AWS Proton
+https://github.com/aws-samples/aws-proton-workshop-code # AWS Proton workshop - Sample Cloudformation and Terraform Templates
+https://github.com/aws-samples/aws-proton-terraform-github-actions-sample #
+https://github.com/aws-samples/eks-blueprints-for-proton #
+https://github.com/aws-samples/aws-proton-sample-lambda-data-processing-service #
+https://github.com/aws-samples/aws-proton-saas-tenant-provisioning-and-deployments #
+https://github.com/aws-samples/aws-proton-template-helper #
+https://github.com/aws-samples/aws-proton-template-checker-action # A GitHub Action to render and validate AWS Proton Templates before pushing them
+https://github.com/aws-samples/proton-bitbucket-server-integration #
+
+https://github.com/awslabs/aws-proton-plugins-for-backstage #
+https://github.com/awslabs/protonizer # A CLI tool for working with IaC in AWS Proton

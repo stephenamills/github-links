@@ -1,0 +1,9 @@
+https://github.com/aws-samples/amazon-workmail-lambda-templates # Serverless applications for Amazon WorkMail.
+https://github.com/aws-samples/amazon-transcribe-email-workflow # An Amazon Transcribe demo for "speech-to-text" conversion performed through an Email workflow.
+https://github.com/aws-samples/amazon-textract-idp-cdk-constructs #
+https://github.com/aws-samples/amazon-workmail-demo-ews-push-notifications # A sample application demonstrating the use of EWS Push Notifications. It creates a push responder using AWS Lambda and API Gateway to respond to changes in your mailbox.
+https://github.com/aws-samples/serverless-mail # Enterprise email services without managing servers
+https://github.com/aws-samples/email-response-automation-comprehend #
+https://github.com/aws-samples/amazon-workmail-email-flow-rule-lambda-sample-code #
+https://github.com/aws-samples/email-intelligent-automation-bedrock #
+https://github.com/aws-samples/aws-partner-custom-crm-connector # Share opportunities from your own CRM with AWS to automate and speed up operations.

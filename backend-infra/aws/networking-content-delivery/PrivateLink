@@ -1,0 +1,13 @@
+https://github.com/aws-ia/cfn-ps-cribl-stream-privatelink-ami #
+
+https://github.com/aws-samples/aws-privatelink-interface-endpoint-monitoring #
+https://github.com/aws-samples/private-saas-with-aws-privatelink # Private Software-As-A-Service (SaaS) connectivity with AWS Privatelink
+https://github.com/aws-samples/apigateway-vpcendpoints # Ensure network traffic from a Central HTTP ApiGateway is private, using PrivateLink
+https://github.com/aws-samples/amazon-ecr-privatelink-blog # Private Link ECR cross account Fargate deployment
+https://github.com/aws-samples/http-api-aws-fargate-cdk # Build HTTP API Based Services using Amazon API Gateway, AWS PrivateLink, AWS Fargate and AWS CDK
+https://github.com/aws-samples/s3-gatewayendpoint-privatelink-privatesubnet #
+https://github.com/aws-samples/aws-multi-account-hybrid-access-privatelink # This repository contains sample code to automate the deployment of multi-account hybrid access using AWS PrivateLink.
+https://github.com/aws-samples/amazon-rds-over-privatelink-cdk-demo #
+https://github.com/aws-samples/rosa-install-codepipeline # AWS CodePipeline to automate installation of PrivateLink STS Red Hat OpenShift Service on AWS (ROSA) clusters
+https://github.com/aws-samples/aws-iot-with-privatelink #
+https://github.com/aws-samples/privatelink-multi-account-governance #

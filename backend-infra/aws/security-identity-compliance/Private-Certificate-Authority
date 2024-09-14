@@ -1,0 +1,67 @@
+https://github.com/aws-samples/amazon-msk-client-authentication #
+https://github.com/aws-samples/api-gateway-auth #
+https://github.com/aws-samples/aws-kube-code-service # The Code Services Continuous Deployment reference architecture demonstrates how to achieve continuous deployment of an application to a Kubernetes cluster using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild and AWS Lambda.
+https://github.com/aws-samples/custom-web-experience-with-amazon-q-business # Build a custom user interface for more tailored, controlled, and consolidated interactions with Amazon Q business.
+https://github.com/aws-samples/simplerobotservice # A cloud-connected robot arm that subscribes to a gesture input device (Leap Motion) via the AWS IoT service.
+https://github.com/aws-samples/sql-based-etl-on-amazon-eks #
+https://github.com/aws-samples/vpn-gateway-strongswan # AWS CloudFormation template to deploy the open source strongSwan VPN solution to act as a VPN gateway in support of site-to-site VPN connections.
+https://github.com/aws-samples/streamlit-application-deployment-on-aws # Streamlit EDA Dashboard Powered by AWS Cloud
+https://github.com/aws-samples/serverless-mutual-tls #
+https://github.com/aws-samples/aws-private-ca-matter-infrastructure # Create AWS infrastructure for Matter
+https://github.com/aws-samples/aws-iot-device-defender-agent-c # Example C implementation of a AWS IoT Device Defender metrics collection agent, and other AWS IoT Device Defender C samples.
+https://github.com/aws-samples/cross-account-private-api-patterns # Examples for consuming Private API Gateway across AWS Accounts
+https://github.com/aws-samples/amazon-sagemaker-object-detection-from-scratch # Build a Custom Object Detection Model from Scratch with Amazon SageMaker and Deploy it at the Edge with AWS DeepLens. This workshop explains how you can leverage DeepLens to capture data at the edge and build a training data set with Amazon SageMaker Ground Truth. Then, train an object detection model with Amazon SageMaker and deploy it to AWS DeepLens.
+https://github.com/aws-samples/aws-jenkins-ecs-cdk # Build and Deploy Jenkins as code to ECS Fargate using AWS CDK.
+https://github.com/aws-samples/acmpca-hierarchy # An AWS CloudFormation template for the rapid deployment of a multi-level CA hierarchy and consistent provisioning experience. Optionally use AWS Resource Access Manager (AWS RAM) to securely share the CA within your AWS Organizations, centralizing the CA while using the AWS RAM to manage the permissions. Optionally use Amazon S3 to store the CRL and access logs.
+https://github.com/aws-samples/aws-ncsc-vpn-configurations #
+https://github.com/aws-samples/integrate-amazon-connect-with-smart-on-fhir-backend-services #
+https://github.com/aws-samples/decentralized-identity-sample #
+https://github.com/aws-samples/aws-iot-device-provisioning-with-certificate-manager #
+https://github.com/aws-samples/aws-cloudhsm-cloudformation-template # Automated deployment of AWS CloudHSM resources using AWS CloudFormation
+https://github.com/aws-samples/iot-device-on-boarding #
+https://github.com/aws-samples/aws-iot-robot-connectivity-samples-ros2 #
+https://github.com/aws-samples/trading-latency-benchmark #
+https://github.com/aws-samples/api-gateway-certificate-propagation #
+https://github.com/aws-samples/dicomweb-wado-qido-stow-serverless #
+https://github.com/aws-samples/aws-device-lobby # Flexible onboarding and routing of IoT devices to any IoT Core account and region using a QR code.
+https://github.com/aws-samples/aws-iam-temporary-elevated-access-broker # Allow users to request temporary elevated access to your AWS environment
+https://github.com/aws-samples/aws-private-ca-enforce-dns-name-constraints #
+https://github.com/aws-samples/aws-edge-native-nomad #
+https://github.com/aws-samples/amazon-eks-kubeflow-multitenancy #
+https://github.com/aws-samples/aws-secrets-manager-abac-authorization-samples # This repository is a set of reference CDK templates and client utility to show how to use attribute-based access control (ABAC) authorization to access AWS Secrets Manager secrets from on-premise application using IAM Role Anywhere and on AWS cloud using IAM role from a sample serverless application. 
+https://github.com/aws-samples/private-application-with-custom-domain-name # Custom domain name for API Gateway + static S3 website in private subnets
+https://github.com/aws-samples/config-rds-ca-expiry # Sample code to create a custom AWS Config rule to detect expiring Amazon RDS CA certificates
+https://github.com/aws-samples/aws-privateca-certificate-deployment-automator #
+https://github.com/aws-samples/msk-third-party-mtls #
+https://github.com/aws-samples/amazon-managed-blockchain-client-provision-with-cdk-java #
+https://github.com/aws-samples/acmpca-hierarchy-build #
+https://github.com/aws-samples/aws-iot-securetunneling-localproxy # AWS Iot Secure Tunneling local proxy reference C++ implementation
+https://github.com/aws-samples/msk-flink-streaming-cdk #
+https://github.com/aws-samples/stowrs-to-s3 #
+https://github.com/aws-samples/ec2-imagebuilder-secure-proxy # CDK stack with an EC2 Image Builder component that installs a NGINX proxy which performs wss:// to tcp:// protocol conversion and JWT token validation.
+https://github.com/aws-samples/access-amazon-fsx-through-clientvpn #
+https://github.com/aws-samples/encrypted-mqtt-communication-using-gnu-radio # Encrypted MQTT using GNU Radio on AWS
+https://github.com/aws-samples/deploy-cloudfront-in-china-with-cdk #
+https://github.com/aws-samples/China-CloudFront-SSL-Plugin #
+https://github.com/aws-samples/aws-tf-cdu #
+https://github.com/aws-samples/aws-iot-enabled-sprinkler # Create a scalable fleet of IoT Enabled Sprinklers
+https://github.com/aws-samples/iot-fleetwise-vehicle-simulator #
+https://github.com/aws-samples/end-to-end-tls-encryption-for-client-server-webapps-with-amazon-vpc-lattice-tls-passthrough #
+https://github.com/aws-samples/provision-aws-iot-device-via-api-gateway-with-csr #
+https://github.com/aws-samples/amazon-pinpoint-urlshortener #
+https://github.com/aws-samples/aws-iot-with-privatelink #
+
+https://github.com/awslabs/aws-iot-certificate-vending-machine # The CVM allows a device to apply for its own certificate and installation.
+https://github.com/awslabs/aws-greengrass-labs-local-web-server #
+https://github.com/awslabs/iam-roles-anywhere-session # This package provides an easy way to create a refreshable boto3 Session with AWS Roles Anywhere.
+https://github.com/awslabs/aws-iot-framework-for-agl # AWS IoT Framework for AGL is the reference implementation to enable native integration of AWS Greengrass and AWS IoT into the AGL software stack. This allows developers, OEMS, suppliers and Auto Tech start-ups to easily connect their implementations to the AWS cloud.
+https://github.com/awslabs/amazon-msk-config-detector #
+https://github.com/awslabs/compliant-framework-for-federal-and-dod-workloads-in-aws-govcloud-us # This solution enables you to quickly deploy a secure, scalable, multi-account environment in AWS GovCloud (US) based on AWS best practices. This solution is architected to follow the Defense Information Systems Agency (DISA) Cloud Computing Security Requirements Guide (SRG) for hosting Impact Level (IL) 4 and 5 workloads in the cloud. Using the Compliant Framework solution, you are able to quickly deploy an architecture baseline that accommodates U.S. federal and Department of Defense (DoD) requirements to rapidly achieve Authority to Operate (ATO). In addition, the Compliant Framework solution is also architected to support Cybersecurity Maturity Model Certification (CMMC) readiness.
+https://github.com/awslabs/aws-greengrass-labs-certificate-rotator # Greengrass component and companion cloud backend for rotating the core device certificate and private key
+https://github.com/awslabs/llrt # LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+https://github.com/awslabs/lisa # LLM inference solution for Amazon Dedicated Cloud (LISA).
+https://github.com/awslabs/amazon-timestream-connector-prometheus #
+https://github.com/awslabs/aws-greengrass-labs-dashboard-grafana # The AWS IoT Greengrass Labs Grafana Component (aws.greengrass.labs.dashboard.Grafana) allows you to provision and manage a local Grafana instance on your device.
+https://github.com/awslabs/aws-greengrass-labs-database-influxdb # The AWS IoT Greengrass Labs InfluxDB Component (aws.greengrass.labs.database.InfluxDB) allows you to provision and manage an InfluxDB database on your device.
+
+https://github.com/aws/aws-ec2-instance-connect-config # SSH daemon configuration and necessary EC2 instance scripting to enable EC2 Instance Connect. 

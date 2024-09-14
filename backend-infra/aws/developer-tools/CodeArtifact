@@ -1,0 +1,35 @@
+https://github.com/aws-solutions-library-samples/guidance-for-secure-access-to-external-package-repositories-on-aws # This Guidance helps organizations provide their data scientists with external package repository access while maintaining information security (infosec) compliance.
+
+https://github.com/aws-ia/terraform-aws-vpc_endpoints # Terraform AWS VPC endpoints module
+
+https://github.com/aws-samples/aws-codeartifact-npm-example # Example repository for creating, publishing, and installing npm packages with AWS CodeArtifact
+https://github.com/aws-samples/building-java-apps-using-code-pipeline #
+https://github.com/aws-samples/amazon-mwaa-examples # Amazon Managed Workflows for Apache Airflow (MWAA) Examples repository contains example DAGs, requirements.txt, plugins, and CloudFormation templates focused on Amazon MWAA.
+https://github.com/aws-samples/codeartifact-jenkins-python-sample #
+https://github.com/aws-samples/aws-cdk-developing-application-patterns-blog #
+https://github.com/aws-samples/aws-cdk-openapi # The code is this repository accompanies the blog post "Deploy and manage OpenAPI (Swagger) RESTful APIs with the AWS Cloud Development Kit (AWS CDK)"
+https://github.com/aws-samples/multi-region-python-package-publishing-pipeline # This git repository is designed to demonstrate how to build and publish pip packages to CodeArtifact Repositories in Multiple Regions by using CodePipeline and the AWS CDK.
+https://github.com/aws-samples/preventive-security-controls-in-pulumi-iac-pipeline # Sample code with security policies in Pulumi CrossGuard to implement preventive security checks in Infrastructure pipelines
+https://github.com/aws-samples/aws-codeartifact-semantic-release-example # An example project using semantic-release-codeartifact
+https://github.com/aws-samples/aws-codeartifact-samples # Samples (code, patterns, templates) highlighting how to design, deploy, and use AWS Code Artifact resources such as "domains, repositories, and connections to upstream, downstream repositories".
+https://github.com/aws-samples/amazon-sagemaker-studio-secure-data-science-workshop # Secure data science with Amazon SageMaker Studio workshop. This workshop creates a reference architecture with security and controls to perform machine learning tasks securely with Amazon SageMaker Studio.
+https://github.com/aws-samples/codeartifact-retention-policy # Terraform module implementing the retention policy for the artifacts published in repositories managed in AWS CodeArtifact.
+https://github.com/aws-samples/extended-cdk-workshop-coffee-listing-app # This is the initial code for Extended CDK Workshop, where we will be building the infrastructure for a Coffee Listing application. You will be able to upload, list and vote on coffee photos, while deployinig everything to the cloud with AWS CDK.
+https://github.com/aws-samples/aws-cdk-typescript-codepipeline-codeartifact-sample #
+https://github.com/aws-samples/aws-cdk-codeartifact-pipeline-sample #
+https://github.com/aws-samples/aws-cdk-python-codepipeline-codeartifact-sample #
+https://github.com/aws-samples/codecommit-crawler-innersource # A custom crawler written for AWS CodeCommit that generates the repos.json that can be used by the SAP InnerSource Portal.
+https://github.com/aws-samples/amazon-eventbridge-sample-feedback-loop-for-shared-libraries #
+https://github.com/aws-samples/cdk-python-module-gitlab-pipeline # This code sample shows how to create a reusable python module from custom CDK stacks or constructs and publish the module with CodeArtifact..
+https://github.com/aws-samples/aws-codeartifact-nuget-dotnet-pipelines #
+https://github.com/aws-samples/python-lib-management-without-internet-for-aws-glue-in-private-subnets # CDK Code for Python Package management for AWS Glue Pyspark
+https://github.com/aws-samples/codecatalyst-java-workflow-sample # This is a simple example of two Continuous Integration workflows created in CodeCatalyst for a Java & SpringBoot based backend application.
+https://github.com/aws-samples/aws-codepipeline-publish-nodejs-modules # Publishing Node.js Modules on AWS CodeArtifact using AWS CodePipeline
+https://github.com/aws-samples/eks-bootstrap-scripts # Bootstrap EKS clusters with add on helm charts in automated way
+https://github.com/aws-samples/sagemaker-remote-decorator-with-private-package-repositories #
+https://github.com/aws-samples/aws-cdk-java-codepipeline-codeartifact-sample #
+https://github.com/aws-samples/software-composition-analysis #
+https://github.com/aws-samples/codepipeline-for-lambda-using-cdk-constructs #
+https://github.com/aws-samples/sagemaker-studio-and-lifecycle-configurations-with-cdk #
+
+https://github.com/aws/codeartifact-origin-control-toolkit #

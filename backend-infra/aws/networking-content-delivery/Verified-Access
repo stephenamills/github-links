@@ -1,0 +1,2 @@
+https://github.com/awslabs/aws-verified-access-poc-terraform # This artifact uses Terraform IaC to deploy a simple web application behind AWS Verified Access (AVA) as Proof of Concept (POC) that can be used to demonstrate the capabilities of AVA or as a base to build
+upon with additional features.

@@ -1,0 +1,15 @@
+https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework # Automate your carbon footprint tracking with the Sustainability Insights Framework (SIF) on AWS
+https://github.com/aws-solutions-library-samples/guidance-for-connecting-data-products-with-amazon-datazone # Extend the data governance capabilities of Amazon DataZone to other Java Database Connectivity (JDBC) sources, such as
+MySQL, PostgreSQL, Oracle, and SQL Server.
+https://github.com/aws-solutions-library-samples/guidance-for-building-a-sustainability-data-fabric-on-aws # This Guidance demonstrates how you can manage and share data to help drive your organization's sustainability initiatives
+https://github.com/aws-solutions-library-samples/guidance-for-data-fabric-on-aws # The Data Fabric sample code focuses on the core data fabric implementation on AWS, providing a complete guide for deploying and using the data fabric capabilities.
+https://github.com/aws-solutions-library-samples/aws-insurancelake-etl # This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake Infrastructure project
+
+https://github.com/aws-samples/amazon-datazone-examples #
+https://github.com/aws-samples/amazon-datazone-cdk-example # An example CDK app demonstrating how CDK can be utilized to create Amazon DataZone Resources.
+https://github.com/aws-samples/data-mesh-datazone-cdk-cloudformation # This solution provides the AWS CDK and AWS CloudFormation infrastructure to build an enterprise data mesh with Amazon DataZone.
+https://github.com/aws-samples/genai-data-governance-assistant #
+https://github.com/aws-samples/aws-stepfunctions-data-processing-pipeline #
+https://github.com/aws-samples/automate-and-simplify-aws-glue-data-asset-publish-to-amazon-datazone #
+https://github.com/aws-samples/jp-contents-hub # AWS の日本語用ハンズオンなどを掲載するウェブサイト
+https://github.com/aws-samples/natural-language-queries-for-datalakes #

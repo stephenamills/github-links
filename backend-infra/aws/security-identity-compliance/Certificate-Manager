@@ -1,0 +1,213 @@
+https://github.com/aws-solutions-library-samples/guidance-for-modernizing-electric-vehicle-charging-on-aws # This solution demonstrates how the OCPP Gateway acts as a proxy between OCPP and MQTT, enabling integration with AWS IoT Core and downstream CPO services built
+on AWS.
+https://github.com/aws-solutions-library-samples/guidance-for-game-server-hosting-using-agones-and-open-match-on-amazon-eks # This guidance provides code and instructions to create a multi Kubernetes cluster environment to host a match making and game server solution,
+integrating Open Match, Agones and Amazon Elastic Kubernetes Service (Amazon EKS), for a session-based multiplayer game.
+https://github.com/aws-solutions-library-samples/guidance-for-iso20022-messaging-workflows-on-aws # This Guidance demonstrates how payment operators can deploy an event-driven architecture to receive, consume, and release ISO 20022 payment messages.
+https://github.com/aws-solutions-library-samples/guidance-for-content-management-using-salesforce-on-aws # This Guidance demonstrates how to utilize advanced artificial intelligence (AI) capabilities within your existing Salesforce environment to gain more valuable in
+sights about your customers. It allows you to seamlessly integrate the user-friendly interface of Salesforce with the powerful data storage and processing capabilities of AWS.
+https://github.com/aws-solutions-library-samples/guidance-for-using-google-tag-manager-for-server-side-website-analytics-on-aws # This Guidance helps you implement server-side tagging to collect event data and perform data analysis in near real-time.
+https://github.com/aws-solutions-library-samples/guidance-for-digital-thread-using-graph-and-generative-ai-on-aws # This Guidance demonstrates how to create an intelligent manufacturing digital thread through a combination of knowledge graph and generative artificial intelligence (AI) technologies. A digital thread offers an integrated approach to combine disparate data sources across enterprise systems, increasing traceability, accessibility, collaboration. https://github.com/aws-solutions-library-samples/guidance-for-intelligent-route-optimization-on-aws # This solution provides a reference implementation for route optimization and tracking that can be leveraged by organizations that serve their own customers “in the field.”
+https://github.com/aws-solutions-library-samples/jenkins-unity-build-on-aws # Build Unity mobile apps on AWS
+https://github.com/aws-solutions-library-samples/guidance-for-galaxy-on-aws # Galaxy on AWS Guidance provides all the infrastructure components required to run Galaxy in the cloud and are preconfigured with industry best practices for infrastructure monitoring and sec
+urity, cost efficiency, and data governance.
+https://github.com/aws-solutions-library-samples/guidance-for-media-provenance-with-c2pa-on-aws # This Guidance demonstrates how to run the Coalition for Content Provenance and Authenticity (C2PA) standard for tracking provenance with media workloads on AWS.
+https://github.com/aws-solutions-library-samples/guidance-for-custom-domain-names-on-amazon-api-gateway-private-endpoints # This Guidance shows how to create and facilitate access to private REST APIs on AWS
+https://github.com/aws-solutions-library-samples/guidance-for-data-fabric-on-aws # The Data Fabric sample code focuses on the core data fabric implementation on AWS, providing a complete guide for deploying and using the data fabric capabilities.
+https://github.com/aws-solutions-library-samples/guidance-for-real-time-text-search-using-amazon-opensearch-service # This Guidance enables you to integrate Amazon DynamoDB with Amazon OpenSearch Service to enable real-time search
+https://github.com/aws-solutions-library-samples/guidance-for-full-duplex-open-platform-communication-on-aws # Develop custom AWS Greengrass IoT Components to convert/unify OPC UA/DA Industrial IOT Protocols & exchange control signals & messages between the edge & AWS
+cloud
+
+https://github.com/aws-samples/aws-refarch-wordpress # This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
+https://github.com/aws-samples/aws-refarch-moodle # Moodle Reference Architecture with supporting Cloud Formation templates
+https://github.com/aws-samples/aws-secure-environment-accelerator # The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configura
+tion file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
+https://github.com/aws-samples/vpn-gateway-strongswan # AWS CloudFormation template to deploy the open source strongSwan VPN solution to act as a VPN gateway in support of site-to-site VPN connections.
+https://github.com/aws-samples/keycloak-on-aws # This is a solution for deploying Keycloak to AWS with high availability.
+https://github.com/aws-samples/openbanking-brazilian-auth-samples #
+https://github.com/aws-samples/eks-alb-istio-with-tls # This repository demonstrate how to configure end-to-end encryption on EKS platform using TLS certificate from Amazon Certificate Manager, AWS Application LoadBalancer and Istio as service mesh.
+https://github.com/aws-samples/api-gateway-auth #
+https://github.com/aws-samples/aws-nitro-enclaves-certificate-manager-sample #
+https://github.com/aws-samples/serverless-jenkins-on-aws-fargate #
+https://github.com/aws-samples/aws-refarch-shibboleth # Containerized version of the Shibboleth IdP running on AWS with AWS Secrets Manager and AWS CodePipeline integrations. You can submit feedback & requests for changes by submitting issues in this repo or by makin
+g proposed changes & submitting a pull request. https://github.com/aws-samples/aws-cdk-grafana # AWS CDK implementation of Grafana Docker image
+https://github.com/aws-samples/arduino-aws-greengrass-iot # This library uses AWS C-SDK to implement an Arduino class AWSGreenGrassIoT to make it easy to securely connect sensors/actuator to AWS IoT core, directly or by mean of an AWS greengrass device (i.e. Raspberry
+PI) using X509 certificates. https://github.com/aws-samples/custom-web-experience-with-amazon-q-business # Build a custom user interface for more tailored, controlled, and consolidated interactions with Amazon Q business.
+https://github.com/aws-samples/aws-iam-ra-for-kubernetes #
+https://github.com/aws-samples/amazon-cloudfront-secure-static-site # Create a secure static website with CloudFront for your registered domain.
+https://github.com/aws-samples/aws-iot-device-provisioning-with-certificate-manager #
+https://github.com/aws-samples/serverless-mutual-tls #
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-pgvector # Opinionated sample on how to build/deploy a RAG web app on AWS powered by Amazon Bedrock and PGVector (on Amazon RDS)
+https://github.com/aws-samples/aws-secrets-manager-acm-certificate-rotation #
+https://github.com/aws-samples/amazon-sagemaker-edge-manager-workshop # Amazon SageMaker Edge Manager Workshop
+https://github.com/aws-samples/aws-cloudhsm-cloudformation-template # Automated deployment of AWS CloudHSM resources using AWS CloudFormation
+https://github.com/aws-samples/aws-scalable-big-blue-button-example # Demonstration of how to deploy a scalable video conference solution based on Big Blue Button
+https://github.com/aws-samples/cdk-cognito-idp #
+https://github.com/aws-samples/amazon-eks-custom-amis # Amazon EKS custom AMIs based on Amazon Linux 2.
+https://github.com/aws-samples/aws-iot-device-defender-agent-c # Example C implementation of a AWS IoT Device Defender metrics collection agent, and other AWS IoT Device Defender C samples.
+https://github.com/aws-samples/amazon-msk-client-authentication #
+https://github.com/aws-samples/bobs-used-bookstore-sample # A sample .NET application representing a fictional used books store.
+https://github.com/aws-samples/aws-iot-workshop # An IoT Workshop designed to get you up and running on AWS. It utilises several AWS Services along with a physical micro-controller based on the ESP32 chipset. Learn how to perform simple workloads such as executing a Lambda function or sending an SMS via AWS IoT!
+https://github.com/aws-samples/dcv-session-manager-infrastructure #
+https://github.com/aws-samples/aws-private-ca-matter-infrastructure # Create AWS infrastructure for Matter
+https://github.com/aws-samples/codenator-automatic-code-generation-and-execution-using-llm #
+https://github.com/aws-samples/aws-digital-content-creation-render-environment # AWS Digital Content Creation Architecture - AWS ThinkBox Deadline. (Linux Workstation)
+https://github.com/aws-samples/streamlit-application-deployment-on-aws # Streamlit EDA Dashboard Powered by AWS Cloud
+https://github.com/aws-samples/aws-secrets-manager-abac-authorization-samples # This repository is a set of reference CDK templates and client utility to show how to use attribute-based access control (ABAC) authorization to access AWS Secrets Manager secrets from on-premise application using IAM Role Anywhere and on AWS cloud using IAM role from a sample serverless application.  https://github.com/aws-samples/aws-dev-hour-backend #
+https://github.com/aws-samples/magento-ecs-cdk #
+https://github.com/aws-samples/cdk-graviton2-alb-aga-route53 #
+https://github.com/aws-samples/aws-cdk-deploy-lamp-with-waf-r53-alb # Deploy a secure and highly available LAMP stack application using AWS WAF, Application Load Balancer, AWS Route 53 and secured by a TLS certificate using AWS Certificate Manager. We walk you through how to launch this classic layered architecture LAMP stack application that can host a variety of popular web applications, such as WordPress, Wikipedia, and Drupal in minutes. https://github.com/aws-samples/aws-integration-for-apache-guacamole # An AWS automation to integrate with Apache Guacamole. This solution use Eventbridge Rules and Lambda Functions to detect EC2 events in the VPC and create or remove connections in the Guacamole
+https://github.com/aws-samples/aws-iot-downlink-sigfox #
+https://github.com/aws-samples/digital-pathology-on-aws #
+https://github.com/aws-samples/cross-account-private-api-patterns # Examples for consuming Private API Gateway across AWS Accounts
+https://github.com/aws-samples/content-creation-workstation # Deploy Teradici Cloud Access Software on either CentOS 7 or Windows Server 2019 GPU-Enabled EC2 instances. The sample also provides the ability to provision Client VPN Endpoint if elected during deployment.
+https://github.com/aws-samples/private-saas-with-aws-privatelink # Private Software-As-A-Service (SaaS) connectivity with AWS Privatelink
+https://github.com/aws-samples/aws-jenkins-ecs-cdk # Build and Deploy Jenkins as code to ECS Fargate using AWS CDK.
+https://github.com/aws-samples/aws-elastic-beanstalk-hardened-security-cdk-sample # This is an open-source sample of a CDK script which deploys an Elastic Beanstalk application with a hardened security configuration, it accompanies this blogpost: https://aws.amazon.co
+m/blogs/security/hardening-the-security-of-your-aws-elastic-beanstalk-application-the-well-architected-way/
+https://github.com/aws-samples/aws-iam-temporary-elevated-access-broker # Allow users to request temporary elevated access to your AWS environment
+https://github.com/aws-samples/diy-code-signing-kms-private-ca # DIY Code signing using AWS ACM Private CA and AWS KMS
+https://github.com/aws-samples/integrate-amazon-connect-with-smart-on-fhir-backend-services #
+https://github.com/aws-samples/gitlab-codebuild-quickstart # Integrate your GitLab to AWS CodeBuild quickly.
+https://github.com/aws-samples/amazon-emr-ui-access-via-alb # Securely Access Web Interfaces on Amazon EMR Launched in a Private Subnet using an Application Load Balancer
+https://github.com/aws-samples/amazon-sagemaker-edge-defect-detection-computer-vision # Workshop showcasing how to run defect detection using computer vision at the edge with Amazon SageMaker
+https://github.com/aws-samples/acmpca-hierarchy # An AWS CloudFormation template for the rapid deployment of a multi-level CA hierarchy and consistent provisioning experience. Optionally use AWS Resource Access Manager (AWS RAM) to securely share the CA within your AW
+S Organizations, centralizing the CA while using the AWS RAM to manage the permissions. Optionally use Amazon S3 to store the CRL and access logs. https://github.com/aws-samples/aws-end-to-end-iot-amplify-demo #
+https://github.com/aws-samples/aws-ncsc-vpn-configurations #
+https://github.com/aws-samples/iot-device-on-boarding #
+https://github.com/aws-samples/ec2-lamp-server # CloudFormation (IaC) template to provision EC2 instance with PHP, Apache/Nginx and MySQL/MariaDB/PostgreSQL
+https://github.com/aws-samples/amazon-eks-kubeflow-multitenancy #
+https://github.com/aws-samples/aws-cdk-for-discourse # AWS CDK for Discourse
+https://github.com/aws-samples/amazon-ivs-real-time-collaboration-web-demo # This project demonstrates a video collaboration application powered by Amazon IVS Real-time, serving as a reference for building compelling social video experiences.
+https://github.com/aws-samples/redcap-on-aws #
+https://github.com/aws-samples/aws-content-creation-render-environment-for-windows # AWS Digital Content Creation Architecture - AWS ThinkBox Deadline. (Windows Workstation)
+https://github.com/aws-samples/aws-marketplace-vendor-insights #
+https://github.com/aws-samples/aws-iot-msk-rule-cloudformation-example # CloudFormation templates to create AWS IoT Rule with Amazon MSK cluster integration.
+https://github.com/aws-samples/amazon-lex-conversational-interface-for-twilio # Use Amazon Lex as a conversational interface with Twilio Media Streams
+https://github.com/aws-samples/aws-lambda-msk-mtls-integration #
+https://github.com/aws-samples/orthanc-cdk-deployment #
+https://github.com/aws-samples/llm-app-genie #
+https://github.com/aws-samples/aws-iot-securetunneling-localproxy # AWS Iot Secure Tunneling local proxy reference C++ implementation
+https://github.com/aws-samples/genai-llm-application-monitoring-on-aws #
+https://github.com/aws-samples/lambda-java-blockchain # Example of a blockchain application in Java interacting with Amazon Managed Blockchain using Fabric Java SDK
+https://github.com/aws-samples/amazon-cloudfront-secure-accelerate-drupal #
+https://github.com/aws-samples/private-application-with-custom-domain-name # Custom domain name for API Gateway + static S3 website in private subnets
+https://github.com/aws-samples/oidc-provider-keycloak #
+https://github.com/aws-samples/aws-amazon-eks-ansible-example # The project demonstrates how to use Ansible to deploy an Amazon EKS cluster incl. extensions and example workload
+https://github.com/aws-samples/aws-iot-sap-condition-monitoring-demo #
+https://github.com/aws-samples/aws-central-alb-ingress-for-private-eks-terraform #
+https://github.com/aws-samples/aws-reinvent2018-data-protection # Materials for the 2018 re:Invent SEC372 Data Protection in AWS builder session
+https://github.com/aws-samples/financial-crimes-discovery-using-graph-database #
+https://github.com/aws-samples/aws-privateca-certificate-deployment-automator #
+https://github.com/aws-samples/Implementing-custom-domain-names-for-Amazon-API-Gateway-private-endpoints #
+https://github.com/aws-samples/aws-opensource-mailserver #
+https://github.com/aws-samples/wickr-enterprise-high-availability-terraform #
+https://github.com/aws-samples/rag-with-amazon-bedrock-and-opensearch # Opinionated sample on how to build and deploy a RAG application with Amazon Bedrock and OpenSearch
+https://github.com/aws-samples/llm-gateway #
+https://github.com/aws-samples/multitenancy-app-with-keycloak-closed-network # This sample can deploy the multi-tenancy application with Keycloak including consumer environments on a closed network.
+https://github.com/aws-samples/opensearch-vpc-cdk # This is a sample implementation for Amazon OpenSearch Service deployed in VPC with CDK (TypeScript).
+https://github.com/aws-samples/aws-fargate-with-rstudio-open-source # This project delivers AWS CDK Python code to provision serverless infrastructure in AWS Cloud to run Open Source RStudio Server and Shiny.
+https://github.com/aws-samples/acmpca-hierarchy-build #
+https://github.com/aws-samples/aws-cdk-ecs-windows-fsx # Python based CDK sample of Windows ECS containers with a FSx for Windows file share
+https://github.com/aws-samples/iot-fleet-provisioning-with-on-demand-ssm #
+https://github.com/aws-samples/apigw-multi-region-failover #
+https://github.com/aws-samples/wickr-enterprise-high-availability-cloudformation #
+https://github.com/aws-samples/amazon-connect-with-bankid-integration # This code will set up a contact flow/IVR for real time authentication with Mobile BankID and can be deployed in minutes.
+https://github.com/aws-samples/comfyui-personalized-generative-ai-avatars-app #
+https://github.com/aws-samples/audit-manager-custom-security-frameworks # In addition to providing a solution to create and manage custom security controls and frameworks this repository provide an integration of the security frameworks of France within AWS Audit Mana
+ger in order to simplify security assessments. https://github.com/aws-samples/amazon-elasticache-demo-using-aws-cdk # Deploy Amazon ElastiCache for Redis using AWS CDK
+https://github.com/aws-samples/playground-persistent-cluster # Experimental scripts for Amazon SageMaker HyperPod
+https://github.com/aws-samples/sync-agent-presence-with-ms-teams # Showcases integration ability between Amazon Connect and MS Office 365
+https://github.com/aws-samples/serverless-rss-filtered-feed-gen #
+https://github.com/aws-samples/aws-transfer-family-portal # Management Portal for AWS Transfer Family
+https://github.com/aws-samples/monitor-ml-models-efficiently-across-fleets-of-devices-aim325 #
+https://github.com/aws-samples/ec2-imagebuilder-secure-proxy # CDK stack with an EC2 Image Builder component that installs a NGINX proxy which performs wss:// to tcp:// protocol conversion and JWT token validation.
+https://github.com/aws-samples/uncovering-hidden-connections-in-unstructured-financial-data # Uncovering Hidden Connections in Unstructured Financial Data using Amazon Bedrock and Amazon Neptune
+https://github.com/aws-samples/ecs-blue-green-deployment-with-codedeploy #
+https://github.com/aws-samples/data-insights-with-amazon-q-business # Amazon Q Business enables querying structured data using natural language, leveraging schemas and metadata. This example demonstrates an architecture to query cost and usage data in Amazon Athena wi
+th Q Business. The solution can be extended to additional data sources with query validation and prompting techniques for broader use cases. https://github.com/aws-samples/encrypted-mqtt-communication-using-gnu-radio # Encrypted MQTT using GNU Radio on AWS
+https://github.com/aws-samples/enginframe-aurora-serverless #
+https://github.com/aws-samples/serverless-exam-generator-from-your-lecture-amazon-bedrock #
+https://github.com/aws-samples/msk-third-party-mtls #
+https://github.com/aws-samples/fleet-manager-for-aws-iot-fleetwise #
+https://github.com/aws-samples/nextcloud-server # Nextcloud server on EC2 with S3 primary object storage and AWS Backup data protection, with option to mount existing S3 bucket
+https://github.com/aws-samples/amazon-q-teams-gateway #
+https://github.com/aws-samples/bedrock-litellm #
+https://github.com/aws-samples/cloudfront-hybrid-origin-failover #
+https://github.com/aws-samples/emr-tls-provider-secrets-manager-example #
+https://github.com/aws-samples/aws-tf-cdu #
+https://github.com/aws-samples/aws-greengrass-ec2-device-farm # Deploys a heterogeneous fleet of AWS IoT Greengrass core devices as Amazon EC2 instances
+https://github.com/aws-samples/elastic-vdi-infrastructure #
+https://github.com/aws-samples/access-amazon-fsx-through-clientvpn #
+https://github.com/aws-samples/multi-region-failover-pattern-standby-takes-over-primary #
+https://github.com/aws-samples/eks-mac1-gitlab # Integrating the AWS Mac1 instance with GitLab
+https://github.com/aws-samples/aws-appsync-multi-region-active-active #
+https://github.com/aws-samples/End-to-End-TLS-Encryption-for-Client-Server-WebApps-with-Amazon-VPC-Lattice-TLS-Passthrough #
+https://github.com/aws-samples/aws-cft-digital-preservation-archivematica-on-aws # Archivematica on AWS - Deploy Artefactual Archivematica and configure integration with Amazon S3 in 60 minutes.
+https://github.com/aws-samples/jp-contents-hub # AWS の日本語用ハンズオンなどを掲載するウェブサイト
+https://github.com/aws-samples/s3-presignedurl-staticips-endpoint-with-cdk # This solution simplifies access to Amazon S3 by creating secure, custom presigned URLs for object downloads through a single endpoint with a unique domain and static IPs. It's tailored for cl
+ients who require consolidation of both API and S3 endpoints under a unified domain with static IPs. https://github.com/aws-samples/api-gateway-vpc-link #
+https://github.com/aws-samples/aws-cdk8s-deployment-sample #
+https://github.com/aws-samples/hello-go-cdk # AWS CDK development with Go
+https://github.com/aws-samples/minimum-viable-dataspace-for-catenax # Minimum Viable Dataspace for Catena-X on AWS
+https://github.com/aws-samples/aws-cdk-web-administered-apps # Run web administered apps (like WordPress) more securely and with high availability using this CDK python project.
+https://github.com/aws-samples/s3-presignedurl-staticips-endpoint-with-terraform # This solution simplifies access to Amazon S3 by creating secure, custom presigned URLs for object downloads through a single endpoint with a unique domain and static IPs. It's tailored
+for clients who require consolidation of both API and S3 endpoints under a unified domain with static IPs. https://github.com/aws-samples/ec2-imagebuilder-ami-lifecycle #
+https://github.com/aws-samples/provision-aws-iot-device-via-api-gateway-with-csr #
+https://github.com/aws-samples/kong-konnect-runtime-cert-generator #
+https://github.com/aws-samples/moving-to-a-zero-trust-architecture-in-aws #
+https://github.com/aws-samples/alb-sso-mwaa #
+https://github.com/aws-samples/amazon-eks-gmsa-admission-webhook-autoinstall #
+https://github.com/aws-samples/connect-ecs-lambda-workloads-using-amazon-vpc-lattice #
+https://github.com/aws-samples/genai-media-upscaling-and-testing #
+https://github.com/aws-samples/aws-iot-sagemaker-waste-classification #
+https://github.com/aws-samples/dicom-ingestion-to-s3-healthlake-imaging #
+https://github.com/aws-samples/aws-iot-device-defender-and-splunk #
+https://github.com/aws-samples/secure-messenger-genai-chatbot # A demonstration for the integration of the Wickr secure messaging client with the backend of the AWS GenAI LLM Chatbot open source sample project..
+https://github.com/aws-samples/device-software-for-aws-connected-mobility-solution #
+https://github.com/aws-samples/42dot-cdk-fleetmanagement-system #
+https://github.com/aws-samples/aws-ibm-mq-adapter #
+https://github.com/aws-samples/crdb-cluster-eks-terraform #
+https://github.com/aws-samples/eks-localzone-demo #
+https://github.com/aws-samples/aws-energy-kit-workshop #
+https://github.com/aws-samples/openondemand-dcv #
+https://github.com/aws-samples/aws-contactus-serverless-website #
+https://github.com/aws-samples/aws-iot-core-to-mosquitto # Application that interfaces with the cloud and sends data to a local mosquitto Mqtt Broker
+https://github.com/aws-samples/amazon-verifiedpermissions-cache-sample # Amazon Verified Permissions Cache sample caches auhthz responses to reduce response time and cost of invoking AVP API.
+https://github.com/aws-samples/amazon-verified-permissions-iot-amplify-smart-home-application #
+https://github.com/aws-samples/amazon-pinpoint-urlshortener #
+https://github.com/aws-samples/nitro-enclave-blockchain-wallet-on-eks # AWS Nitro Enclave based blockchain workload on Amazon EKS
+https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c # Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.
+https://github.com/awslabs/eksdemo # The easy button for learning, testing and demoing Amazon EKS
+https://github.com/awslabs/aws-greengrass-labs-component-for-home-assistant # Home Assistant packaged as an AWS IoT Greengrass component
+https://github.com/awslabs/aws-greengrass-labs-local-web-server #
+https://github.com/awslabs/threat-composer # A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
+https://github.com/awslabs/aws-greengrass-labs-component-for-the-things-stack-lorawan # The Things Stack packaged as an AWS IoT Greengrass component
+https://github.com/awslabs/windows-web-app-migration-assistant # PowerShell utility that migrates .NET applications from Windows servers to AWS Elastic Beanstalk
+https://github.com/awslabs/aws-greengrass-labs-dashboard-grafana # The AWS IoT Greengrass Labs Grafana Component (aws.greengrass.labs.dashboard.Grafana) allows you to provision and manage a local Grafana instance on your device.
+https://github.com/awslabs/llrt # LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+https://github.com/awslabs/aws-verified-access-poc-terraform # This artifact uses Terraform IaC to deploy a simple web application behind AWS Verified Access (AVA) as Proof of Concept (POC) that can be used to demonstrate the capabilities of AVA or as a base to build
+upon with additional features.
+https://github.com/awslabs/aws-greengrass-labs-webrtc #
+https://github.com/awslabs/pg-counter-metrics # PG Counter Metrics ( PGCM ) is a tool for publishing PostgreSQL performance data to CloudWatch. By publishing to CloudWatch, dashboards and alarming can be used on the collected data.
+https://github.com/awslabs/visual-asset-management-system # Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of specialized visual assets used in spatial computing.
+https://github.com/awslabs/aws-media-replay-engine # Media Replay Engine (MRE) is a framework to build automated video clipping and replay (highlight) generation pipelines for live and video-on-demand content.
+https://github.com/awslabs/simpleiot-arduino # Arduino SDK for SimpleIOT project.
+https://github.com/awslabs/aws-greengrass-labs-database-influxdb # The AWS IoT Greengrass Labs InfluxDB Component (aws.greengrass.labs.database.InfluxDB) allows you to provision and manage an InfluxDB database on your device.
+https://github.com/awslabs/aws-greengrass-labs-parsec-provider #
+https://github.com/awslabs/aws-greengrass-labs-dashboard-influxdb-grafana # The AWS IoT Greengrass Labs InfluxDB Grafana Dashboard Component (aws.greengrass.labs.dashboard.InfluxDBGrafana) allows you to provision and manage a fully setup Grafana Dashboard connected to
+InfluxDB.
+https://github.com/awslabs/mlspace #
+https://github.com/awslabs/aws-greengrass-labs-containerized-secure-tunneling #
+https://github.com/aws/amazon-eks-pod-identity-webhook # Amazon EKS Pod Identity Webhook
+https://github.com/aws/aws-iot-device-sdk-embedded-C # SDK for connecting to AWS IoT from a device using embedded C.
+https://github.com/aws/aws-sdk-ruby # The official AWS SDK for Ruby.
+https://github.com/aws/aws-ec2-instance-connect-config # This is the ssh daemon configuration and necessary EC2 instance scripting to enable EC2 Instance Connect. Also included is various package manager configurations for packaging for various Linux distributions.
+https://github.com/aws/aws-sdk-net # The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
+https://github.com/aws/rolesanywhere-credential-helper #
+https://github.com/aws/secrets-store-csi-driver-provider-aws # The AWS provider for the Secrets Store CSI Driver allows you to fetch secrets from AWS Secrets Manager and AWS Systems Manager Parameter Store, and mount them into Kubernetes pods.
+https://github.com/aws/aws-nitro-enclaves-acm # AWS Certificate Manager for Nitro Enclaves allows the use of public and private SSL/TLS certificates with web applications and web servers running on Amazon EC2 instances with AWS Nitro Enclaves.
+https://github.com/aws/aws-secretsmanager-agent # The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.
+https://github.com/aws/efs-utils # Utilities for Amazon Elastic File System (EFS)
+https://github.com/aws/amazon-redshift-python-driver # Redshift Python Connector. It supports Python Database API Specification v2.0.
+https://github.com/aws/amazon-ecs-agent # Amazon Elastic Container Service Agent
+https://github.com/aws/aws-gamekit # A C++ Library for AWS GameKit
