@@ -1,7 +1,7 @@
 https://github.com/googlecloudplatform/core-solution-services #
 https://github.com/googleworkspace/gws-genai-addon-sample # A sample Google Workspace add-on for Gmail and Google Drive using Node.js and demonstrating how to use various Generative AI APIs
 
-https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws # Natural language query of an Amazon RDS PostgreSQL database, using SageMaker, Bedrock, LangChain, Streamlit, and Chroma.
+https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws # Query an Amazon RDS PostgreSQL database, using SageMaker, Bedrock, LangChain, Streamlit, and Chroma.
 https://github.com/aws-solutions-library-samples/guidance-for-high-speed-rag-chatbots-on-aws # Retrieval chatbot using Amazon Aurora PostgreSQL-Compatible Edition with the open-source pgvector extension.
 https://github.com/aws-solutions-library-samples/guidance-for-improving-application-development-productivity-with-the-sap-abap-assistant-on-aws # Set up the SAP ABAP Assistant, a plugin that integrates with Amazon Bedrock
 https://github.com/build-on-aws/amazon-bedrock-go-sdk-examples # AWS Go SDK examples for Amazon Bedrock
@@ -14,7 +14,7 @@ https://github.com/build-on-aws/dotnet-visual-guessing-game #
 
 https://github.com/aws-samples/aws-genai-llm-chatbot # Comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot
 https://github.com/aws-samples/bedrock-claude-chat # AWS-native chatbot using Bedrock + Claude (+Mistral)
-https://github.com/aws-samples/Cohere-on-AWS #
+https://github.com/aws-samples/cohere-on-aws #
 https://github.com/aws-samples/bedrock-access-gateway # OpenAI-Compatible RESTful APIs for Amazon Bedrock
 https://github.com/aws-samples/amazon-chime-sdk-call-analytics-recorder #
 https://github.com/aws-samples/serverless-rag-demo # Amazon Bedrock Anthropic Claude, (Llama2-7B/13B/70B /Falcon-7B/40B/180B on Amazon Sagemaker) LLMs with Amazon Opensearch Serverless as a Vector DB

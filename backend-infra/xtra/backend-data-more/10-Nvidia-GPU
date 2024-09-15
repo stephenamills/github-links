@@ -1,0 +1,48 @@
+https://github.com/nvidia/k8s-device-plugin # Nvidia device plugin for Kubernetes
+https://github.com/nvidia/gpu-operator # Create/configure/manage GPUs atop Kubernetes
+https://github.com/nvidia/k8s-dra-driver # Dynamic resource allocation for Nvidia GPUs in Kubernetes
+https://github.com/nvidia/ais-k8s # Kubernetes Operator, ansible playbooks, and production scripts for large-scale AIStore deployments on Kubernetes.
+https://github.com/nvidia/nvidia-terraform-modules # Infrastructure as code for GPU accelerated managed Kubernetes clusters.
+https://github.com/nvidia/vgpu-device-manager # Nvidia vGPU Device Manager manages Nvidia vGPU devices on top of Kubernetes
+https://github.com/nvidia/knavigator # knavigator is a development, testing, and optimization toolkit for AI/ML scheduling systems at scale on Kubernetes.
+https://github.com/nvidia/k8s-driver-manager # Kubernetes component which assists in seamless upgrades of Nvidia Driver on each node of the cluster.
+https://github.com/nvidia/k8s-nim-operator # An Operator for deployment and maintenance of Nvidia NIMs and NeMo microservices in a Kubernetes environment.
+https://github.com/nvidia/k8s-cc-manager # The Nvidia CC Manager is a Kubernetes component that will enable required CC mode on supported Nvidia GPUs
+https://github.com/nvidia/kubectl-nv # Kubectl NV plugin, a tool for managing Nvidia objects on a kubernetes cluster.
+https://github.com/nvidia/aws-kube-ci # This CI tool aims to create a virtual machine on AWS with a GPU enabled Kubernetes master/node.
+
+https://github.com/nvidia/cuda-samples # Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+https://github.com/nvidia/cudalibrarysamples # CUDA Library Samples
+https://github.com/nvidia/cutlass # CUDA Templates for Linear Algebra Subroutines
+https://github.com/nvidia/cccl # CUDA Core Compute Libraries
+https://github.com/nvidia/cuda-python # CUDA Python Low-level Bindings
+https://github.com/nvidia/cuda-gdb # CUDA GDB
+https://github.com/nvidia/nvbench # CUDA Kernel Benchmarking Library
+https://github.com/nvidia/gpu-operator # NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+https://github.com/nvidia/cuda-profiler # Tools and extensions for CUDA profiling
+https://github.com/nvidia/grcuda # Polyglot CUDA integration for the GraalVM
+https://github.com/nvidia/cuda-checkpoint # CUDA checkpoint and restore utility
+https://github.com/nvidia/jitify # A single-header C++ library for simplifying the use of CUDA Runtime Compilation (NVRTC).
+https://github.com/nvidia/cnmem # A simple memory manager for CUDA designed to help Deep Learning frameworks manage memory
+https://github.com/nvidia/matx # An efficient C++17 GPU numerical computing library with Python-like syntax
+https://github.com/nvidia/transformerengine # A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.
+https://github.com/nvidia/numba-cuda #
+https://github.com/nvidia/cuquantum # Home for cuQuantum Python & NVIDIA cuQuantum SDK C++ samples
+https://github.com/nvidia/cuda-q-academic # This repo contains CUDA-Q Academic materials, including self-paced Jupyter notebook modules for building and optimizing hybrid quantum-classical algorithms using CUDA-Q.
+https://github.com/nvidia/nsight-vscode-edition # A Visual Studio Code extension for building and debugging CUDA applications.
+https://github.com/nvidia/cucollections #
+https://github.com/nvidia/hmm_sample_code # CUDA 12.2 HMM demos
+https://github.com/nvidia/cuda-repo-management # Scripts for managing Debian and RPM package repositories
+https://github.com/nvidia/dl4agx # Deep Learning tools and applications for NVIDIA AGX platforms.
+https://github.com/nvidia/numbast # Numbast is a tool to build an automated pipeline that converts CUDA APIs into Numba bindings.
+https://github.com/nvidia/otk-demand-loading # A C++/CUDA library for loading CUDA sparse textures on demand in OptiX renderers
+https://github.com/nvidia/clara-ia # CUDA accelerated medical imaging algorithms
+https://github.com/nvidia/gmat # A toolkit showing GPU's all-round capability in video processing
+https://github.com/nvidia/minkowskiengine # Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
+https://github.com/nvidia/otk-omm-baking # A C++/CUDA library for baking Opacity Micromap Arrays for textured geometry
+https://github.com/nvidia/mcmc-bnn-example # Reference CUDA implementation of training a small Bayesian neural network (BNN) using MCMC
+https://github.com/nvidia/apt-packaging-cuda-keyring # CUDA keyring packaging for Debian
+https://github.com/nvidia/cuda-cpp-grammar # Grammar files for CUDA C++
+https://github.com/nvidia/nvaitc-toolkit # Open source code base to showcase interoperability of CUDA-X AI software stack in multi-GPU environments and thus provide researchers a reference framework to build new projects on.
+https://github.com/nvidia/otk-shader-util # Vector math and other CUDA helper functions for OptiX kernels
+https://github.com/nvidia/nvimagecodec # A nvImageCodec library of GPU- and CPU- accelerated codecs featuring a unified interface

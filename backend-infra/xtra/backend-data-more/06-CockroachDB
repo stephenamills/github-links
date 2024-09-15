@@ -1,0 +1,122 @@
+https://github.com/cockroachdb/cockroach # CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+
+https://github.com/cockroachdb/pebble # RocksDB/LevelDB inspired key-value database in Go
+https://github.com/cockroachdb/cockroach-operator # k8s operator for CRDB
+https://github.com/cockroachdb/docs # CockroachDB user documentation
+https://github.com/cockroachdb/activerecord-cockroachdb-adapter # CockroachDB adapter for ActiveRecord.
+https://github.com/cockroachdb/examples-orms # Sample uses of CockroachDB with popular ORMs
+https://github.com/cockroachdb/helm-charts # Helm charts for cockroachdb
+https://github.com/cockroachdb/examples-go # Sample uses of cockroachDB.
+https://github.com/cockroachdb/terraform-provider-cockroach # Terraform provider for CockroachDB Cloud
+https://github.com/cockroachdb/cockroachdb-todo-apps # CockroachDB To-Do Apps
+https://github.com/cockroachdb/movr # A fictional ride sharing company.
+https://github.com/cockroachdb/loadgen # CockroachDB load generators
+https://github.com/cockroachdb/k8s # Images and utilities to run cockroach on kubernetes
+https://github.com/cockroachdb/ui # Published assets for Cockroach Labs user interfaces
+https://github.com/cockroachdb/crlfmt # Formatter for CockroachDB's additions to the Go style guide.
+https://github.com/cockroachdb/watermill-crdb # CockroachDB Pub/Sub for the Watermill project.
+https://github.com/cockroachdb/cockroachdb-typescript # A modern cloud-native web app using TypeScript, React, Prisma, Netlify serverless functions, and CockroachDB
+https://github.com/cockroachdb/definitive_guide_sample_code # Sample code for The Definitive Guide to CockroachDB
+https://github.com/cockroachdb/cockroachdb-cloudformation # Quickly setup dev/test CockroachDB clusters using AWS CloudFormation and Kubernetes
+https://github.com/cockroachdb/examples-python # Sample uses of CockroachDB
+https://github.com/cockroachdb/quickstart-code-samples #
+https://github.com/cockroachdb/python-heroku-cockroachdb # A modern cloud-native web app using Python, Flask, Heroku, and CockroachDB
+https://github.com/cockroachdb/nextjs-react-vercel-crdb-app # A CockroachDB sample app for coordinating social events using Next.js with react-bootstrap deployed on vercel
+https://github.com/cockroachdb/sample-apps #
+https://github.com/cockroachdb/example-app-python-psycopg3 # Simple CRUD application in Python using the psycopg3 driver.
+https://github.com/cockroachdb/example-app-rust-postgres #
+https://github.com/cockroachdb/social-events-app #
+https://github.com/cockroachdb/university-getting-started-with-sql-app-exercises # Exercise code for the Cockroach University - Getting Started with SQL for Application Developers course
+https://github.com/cockroachdb/university-event-driven-architecture-for-java-developers-app-exercises # Exercise code for Cockroach University - Event Driven Architecture for Java Developers
+https://github.com/cockroachdb/fullstack-node-cockroachdb-app # Fullstack sample application in Node.js using Sequelize
+https://github.com/cockroachdb/example-app-dotnet-efcore # Simple CRUD application in dotnet using Entity Framework Core
+https://github.com/cockroachdb/university-multi-region-course-app-exercises # exercise code for the cockroach university multi-region course
+https://github.com/cockroachdb/architectural-simplification # A collection of architectural simplification patterns with example applications
+https://github.com/cockroachdb/metamorphic # A Go library for metamorphic-style testing.
+https://github.com/cockroachdb/rails-crdb-app # A CockroachDB leaderboard sample application using Rails deployed on Heroku
+https://github.com/cockroachdb/university-modeling-object-relationships-app-exercises # Student repository for the Cockroach University course "Modeling Object Relationships in SQL"
+https://github.com/cockroachdb/university-getting-started-with-node-postgres-app-exercises #
+https://github.com/cockroachdb/java-spring-crdb-app # A CockroachDB leaderboard sample application using Java Spring deployed on Heroku
+https://github.com/cockroachdb/university-multi-region-latency-exercises # Optimizing latency in multi-region database course exercise code
+https://github.com/cockroachdb/university-enterprise-app-dev-with-crdb-iii-exercises #
+https://github.com/cockroachdb/community-tooling-samples # Sample code for CockroachDB-compatible drivers supported by the CockroachDB community
+https://github.com/cockroachdb/university-multi-region-resilience-exercises # Building highly resilient multi-region database course exercise code
+https://github.com/cockroachdb/jamstack-netlify-cockroachdb # A modern cloud-native web app using Jamstack, Netlify, and CockroachDB
+https://github.com/cockroachdb/university-transaction-handling-app-exercises #
+https://github.com/cockroachdb/university-best-practices-in-application-transactions-exercises #
+https://github.com/cockroachdb/cockroach-transaction-demo # Demonstrate best practices in using transactions in a Spring Boot application
+https://github.com/cockroachdb/example-app-python-asyncpg # Simple CRUD application in Python using the asyncpg driver
+https://github.com/cockroachdb/demo-cloud-api # A CockroachDB Cloud API Demo Application
+https://github.com/cockroachdb/multi_region_app_architecture_report_sample_code # Sample code for The Understanding Multi-Region Application Architecture Report
+https://github.com/cockroachdb/demo-data-residency-api # An API for the CockroachDB Multi-Region Serverless Demo Application
+https://github.com/cockroachdb/demo-data-residency # A CockroachDB Multi-Region Serverless Demo Application
+https://github.com/cockroachlabs/open-sourced-interview-process # Open Sourced Interview Process
+https://github.com/cockroachlabs/movr-flask # A multi-region example application built on CockroachDB
+https://github.com/cockroachlabs/roach-data # Collection of small Spring Boot demos using CockroachDB with common data access frameworks and ORMs
+https://github.com/cockroachlabs/workshop_labs # Cockroach Labs Workshops
+https://github.com/cockroachlabs/cockroachdb-runbook-template #
+https://github.com/cockroachlabs/developer-success #
+https://github.com/cockroachlabs/gsheet-to-github-issues # Sync GitHub Issues with a Google Sheet.
+https://github.com/cockroachlabs/example-app-go-pgx #
+https://github.com/cockroachlabs/example-app-typescript-typeorm # 'Hello World' example application in TypeScript using the TypeORM framework
+https://github.com/cockroachlabs/example-app-go-gorm # 'Hello World' example application in Go using the GORM library
+https://github.com/cockroachlabs/hello-world-python-psycopg2 # 'Hello World' example application in Python using the psycopg2 library
+https://github.com/cockroachlabs/examples-aws-lambda #
+https://github.com/cockroachlabs/example-app-node-knex #
+https://github.com/cockroachlabs/cdc-webhook-sink-test-server # A sample Go HTTPS server + scripts to configure and run
+https://github.com/cockroachlabs/example-app-node-sequelize # 'Hello World' example application in Node.js using the Sequelize library
+https://github.com/cockroachlabs/example-app-python-sqlalchemy # 'Hello World' application in Python using the SQLAlchemy ORM
+https://github.com/cockroachlabs/example-app-node-postgres # 'Hello World' example application in Node.js using the pg driver
+https://github.com/cockroachlabs/hello-world-go-pq # 'Hello World' example application in Go using the pq library
+https://github.com/cockroachlabs/docker-crdb # CockroachDB reference demo with Observability within Docker
+https://github.com/cockroachlabs/example-app-java-jdbc # 'Hello World' example application in Java using the JDBC library
+https://github.com/cockroachlabs/hello-world-go-upperdb #
+https://github.com/cockroachlabs/connect-to-serverless # Learn how to connect to CockroachDB Serverless using different languages and tools
+https://github.com/cockroachlabs/hello-world-node-postgres #
+https://github.com/cockroachlabs/example-app-ruby-activerecord # 'Hello World' application in Ruby using Active Record
+https://github.com/cockroachlabs/quotes # A trivial QOTD server used for a practical interview question
+https://github.com/cockroachlabs/example-app-python-django #
+https://github.com/cockroachlabs/example-app-java-hibernate # 'Hello World' example application in Java using the Hibernate ORM
+https://github.com/cockroachlabs/nextjs-cockroachdb-starter # A Next.js starter using NextAuth.js with Prisma and CockroachDB. This is a WIP. Please stand by.
+https://github.com/cockroachlabs/hello-world-go-gorm #
+https://github.com/cockroachlabs/example-app-hasura # Example of using Hasura
+https://github.com/cockroachlabs/hello-world-ruby-pg # 'Hello World' application in Ruby using the pg library
+https://github.com/cockroachlabs/workshop_config # Used to Demo the Configuration and Sizing Workshop
+https://github.com/cockroachlabs/workshop_serial # Workshop to show how to best use and code serializable with CockroachDB
+https://github.com/cockroachlabs/hello-world-python-sqlalchemy #
+https://github.com/cockroachlabs/hello-world-go-pgx #
+https://github.com/cockroachlabs/cockroach-university-ilt-developer-fundamentals-exercises # Exercise code for developer fundamentals instructor lead training
+https://github.com/cockroachlabs/hello-world-csharp # "Hello World" example application in C# with .NET driver
+https://github.com/cockroachlabs/relayapi-exercise #
+https://github.com/cockroachlabs/example-app-node-prisma #
+https://github.com/cockroachlabs/hello-world-java-jdbc #
+https://github.com/cockroachlabs/hello-world-node-knex #
+https://github.com/cockroachlabs/remix-cockroachdb-starter # A Remix starter with simple auth using CockroachDB with Prisma. This is a WIP. Please stand by.
+
+https://github.com/cockroachlabs-field/docker-examples # CockroachDB examples using Docker and Docker Compose
+https://github.com/cockroachlabs-field/crdb-geo-tourist # GIS demo: find pubs, restaurants, cafes, etc. using the spatial features of CockroachDB
+https://github.com/cockroachlabs-field/sales-engineer-take-home-exercise # Quick technical exercise for those interested in Sales Engineering roles at Cockroach Labs
+https://github.com/cockroachlabs-field/cockroach-aks-multi-region # Multi-Region AKS CRDB deployment
+https://github.com/cockroachlabs-field/kubernetes-examples # Local CockroachDB Kubernetes example using Helm
+https://github.com/cockroachlabs-field/nomad-examples #
+https://github.com/cockroachlabs-field/cockroachdb-multiregion-k3s-ciliumcni-azure # CockrocahDB multi-region deployment in Kubernetes (k3s) with Cilium CNI for Networking in Azure
+https://github.com/cockroachlabs-field/cockroachdb-remote-client # Docker image used to perform simple tasks against a CockroachDB cluster then disappear
+https://github.com/cockroachlabs-field/cockroachdb-single-node # Simple Docker image that starts a single CockroachDB database node. Great for CI/CD pipelines!
+https://github.com/cockroachlabs-field/dynamic-haproxy # A Docker image that simplifies the deployment of HAProxy in front of a CockroachDB Docker cluster.
+https://github.com/cockroachlabs-field/cockroachdb-multiregion-k3s-vms-azure # This is the code to deploy a CockroachDB Multi-Region database across three region with a mix of K8s and virtual machines.
+https://github.com/cockroachlabs-field/cdc-example # Simple example of CockroachDB CDC using Spring Boot and Kafka
+https://github.com/cockroachlabs-field/google-cloud-run # Google Cloud Run with a Serverless VPC Connector for CockroachCloud
+https://github.com/cockroachlabs-field/mysql_2_cockroach # Starter scripts for migrating MySQL to CockroachDB
+https://github.com/cockroachlabs-field/cockroach-encrypted-stores # Blog post on selective encryption
+https://github.com/cockroachlabs-field/crdb-local-k8s-multi-region-kubedoom # CockroachDB Local Multi-region Kube-Doom Demo!
+https://github.com/cockroachlabs-field/crdb-k8s-workshop-1hr #
+https://github.com/cockroachlabs-field/crdb-workload-docker # Scripts / config for building a Docker image containing only the workload binary
+https://github.com/cockroachlabs-field/cockroach-dedicated-terraform-example # CockroachDB Dedicated Terraform Example
+https://github.com/cockroachlabs-field/quarkus-crdb # Securely connect a Quarkus Java app to your Cockroach Serverless database.
+https://github.com/cockroachlabs-field/cockroach_topology_workshop # A 9 Node Multi-Region Cockroach Cluster with network latency simulation
+https://github.com/cockroachlabs-field/ml-ai-banking-app # A banking assistant that connects to your database and uses Large Language models
+https://github.com/cockroachlabs-field/stock-data-gen # Generate and load stock market oriented data into CockroachDB.
+https://github.com/cockroachlabs-field/cox-edge # Repository of information to use CockroachDB within Cox Edge.
+https://github.com/cockroachlabs-field/perms-example #
+
+https://github.com/aws-samples/crdb-cluster-eks-terraform #
