@@ -1,0 +1,81 @@
+https://github.com/googlecloudplatform/dataflux-pytorch # The Dataflux Accelerated Dataloader for PyTorch with GCS is an effort to improve ML-training efficiency when using data stored in GCS for training datasets. using the dataflux accelerated dataloader for training is up to 3x faster when the dataset consists of many small files (e.g., 100 - 500 kb).
+https://github.com/googlecloudplatform/ml-testing-accelerators # Testing framework for Deep Learning models (Tensorflow and PyTorch) on Google Cloud hardware accelerators (TPU and GPU)
+https://github.com/googlecloudplatform/dataflux-client-python # This is the git repository for the Dataflux Python client library, providing fast listing and download of small files from GCS in Python.
+https://github.com/google/gemma_pytorch # The official PyTorch implementation of Google's Gemma models
+https://github.com/google/jetstream-pytorch # PyTorch/XLA integration with JetStream for LLM inference
+https://github.com/google/jetstream # JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
+
+https://github.com/azure-samples/functions-python-pytorch-tutorial # Use Python, PyTorch, and Azure Functions to classify an image
+https://github.com/azure-samples/azure-functions-pytorch-image-identify # Repo containing an end to end example of an image identification app running on Azure Functions and showing capabilities like Remote Build and Azure Files support
+https://github.com/azure-samples/functions-deploy-pytorch-onnx # Sample demonstrating deployment of Pytorch models through ONNX within Azure Functions
+
+https://github.com/azure/ms-amp # Microsoft Automatic Mixed Precision Library
+https://github.com/azure/optimized-pytorch-on-databricks-and-fabric # Sample code for running optimized training of Hugging Face models with PyTorch FSDP on Azure Databricks and optimized inference with BetterTransformer on MIcrosoft Fabric
+https://github.com/azure/nlp-samples # Japanese NLP sample codes
+https://github.com/azure/machine-learning-at-scale # machine learning at scale on Azure Machine Learning
+https://github.com/azure/azure-storage-for-pytorch # Azure Storage integrations for PyTorch. This project is a work-in-progress.
+
+https://github.com/microsoft/bringing-old-photos-back-to-life # Bringing Old Photo Back to Life (CVPR 2020 oral)
+https://github.com/microsoft/lora # Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
+
+https://github.com/aws-solutions-library-samples/guidance-for-machine-learning-inference-on-aws # This Guidance demonstrates how to deploy a machine learning inference architecture on Amazon Elastic Kubernetes Service (Amazon EKS). It addresses the basic implementation requirements as well as ways you can pack thousands of unique PyTorch deep learning (DL) models into a scalable architecture and evaluate performance at scale
+
+https://github.com/aws-samples/amazon-sagemaker-bert-pytorch #
+https://github.com/aws-samples/amazon-sagemaker-pytorch-detectron2 # This repository shows how to train an object detection algorithm with Detectron2 on Amazon SageMaker
+https://github.com/aws-samples/amazon-sagemaker-bert-classify-pytorch # This sample show you how to train BERT on Amazon Sagemaker using Spot instances
+https://github.com/aws-samples/amazon-sagemaker-audio-classification-pytorch #
+https://github.com/aws-samples/aws-lambda-docker-serverless-inference # Serve scikit-learn, XGBoost, TensorFlow, and PyTorch models with AWS Lambda container images support.
+https://github.com/aws-samples/amazon-sagemaker-mask-r-cnn-pytorch #
+https://github.com/aws-samples/amazon-sagemaker-endpoint-deployment-of-fastai-model-with-torchserve # Deploy FastAI Trained PyTorch Model in TorchServe and Host in Amazon SageMaker Inference Endpoint
+https://github.com/aws-samples/sagemaker-benchmarking-accelerators-pretrained-pytorch-resnet50 #
+https://github.com/aws-samples/sagemaker-distributed-training-pytorch-kr # Hands-on lab that applies Sagemaker Distributed Training to image classification task. Written in Korean for Korean customers.
+https://github.com/aws-samples/torchserve-eks # How to deploy TorchServe on an Amazon EKS cluster for inference.
+https://github.com/aws-samples/sagemaker-a2d2-segmentation-pytorch #
+https://github.com/aws-samples/aws-lambda-container-inference-pytorch #
+https://github.com/aws-samples/amazon-sagemaker-endpoint-deployment-of-siamese-network-with-torchserve # Twin Neural Network Training with PyTorch and fast.ai and its Deployment with TorchServe on Amazon SageMaker
+https://github.com/aws-samples/amazon-sagemaker-tsp-deep-rl # train, deploy, and make inferences using deep reinforcement learning to solve the Travelling Salesperson Problem
+https://github.com/aws-samples/deploy-stable-diffusion-model-on-amazon-sagemaker-endpoint # Deploy Stable Diffusion Model on Amazon SageMaker Endpont
+https://github.com/aws-samples/amazon-sagemaker-visual-transformer # Implementation of Image Classification using Visual Transformers in Amazon SageMaker based on the ideas from research paper - Visual Transformers: Token-based Image Representation and Processing for Computer Vision.
+https://github.com/aws-samples/amazon-sagemaker-local-mode # Amazon SageMaker Local Mode Examples
+https://github.com/aws-samples/amazon-sagemaker-pipelines-serial-batch-inference-sklearn-pytorch # We provide end to end bring-your-own-feature and bring your-own-model serial inferencing examples for batch inference MLOps with SageMaker Pipelines.
+https://github.com/aws-samples/aws-do-kubeflow # A do-framework project to simplify deployment of Kubeflow on AWS
+https://github.com/aws-samples/amazon-sagemaker-managed-spot-training # Amazon SageMaker Managed Spot Training Examples
+https://github.com/aws-samples/sagemaker-cv-preprocessing-training-performance # SageMaker training implementation for computer vision to offload JPEG decoding and augmentations on GPUs using Nvidia Dali — allowing you to compare and reduce training time by addressing CPU bottlenecks caused by increasing data pre-processing load. Performance bottlenecks identified with SageMaker Debugger.
+https://github.com/aws-samples/aws-do-pm # A framework for building predictive modeling applications
+https://github.com/aws-samples/awsome-fmops # Collection of best practices, reference architectures, examples, and utilities for foundation model development and deployment on AWS.
+
+https://github.com/aws/sagemaker-pytorch-training-toolkit # Toolkit for running PyTorch training scripts on SageMaker.
+https://github.com/aws/sagemaker-pytorch-inference-toolkit # Toolkit for allowing inference and serving with PyTorch on SageMaker. Dockerfiles used for building SageMaker Pytorch Containers are at
+https://github.com/aws/deep-learning-containers.
+https://github.com/aws/amazon-s3-plugin-for-pytorch #
+https://github.com/aws/sagemaker-python-sdk # A library for training and deploying machine learning models on Amazon SageMaker
+https://github.com/aws/deep-learning-containers # AWS Deep Learning Containers (DLCs) are a set of Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
+https://github.com/aws/sagemaker-distribution # A set of Docker images that include popular frameworks for machine learning, data science and visualization.
+
+https://github.com/oracle-samples/oci-data-science-ai-samples # Tutorials and code examples highlighting different features of the OCI Data Science and AI services
+
+https://github.com/nvidia/flownet2-pytorch # Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
+https://github.com/nvidia/apex # A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch
+https://github.com/nvidia/tacotron2 # Tacotron 2 - PyTorch implementation with faster-than-realtime inference
+https://github.com/nvidia/fastertransformer # Transformer related optimization, including BERT, GPT
+https://github.com/nvidia/vid2vid # Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+https://github.com/nvidia/bigvgan # Official PyTorch implementation of BigVGAN (ICLR 2023)
+https://github.com/nvidia/cleanunet # Official PyTorch Implementation of CleanUNet (ICASSP 2022)
+https://github.com/nvidia/pyprof # A GPU performance profiling tool for PyTorch models
+https://github.com/nvidia/tao_pytorch_backend # TAO Toolkit deep learning networks with PyTorch backend
+https://github.com/nvidia/torch-harmonics # Differentiable signal processing on the sphere for PyTorch
+https://github.com/nvidia/modulus # Framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
+https://github.com/nvidia/transformer-ls # Official PyTorch Implementation of Long-Short Transformer (NeurIPS 2021).
+https://github.com/nvidia/pix2pixhd # Synthesizing and manipulating 2048x1024 images with conditional GANs
+https://github.com/nvidia/retinanet-examples # Fast and accurate object detection with end-to-end GPU optimization
+https://github.com/nvidia/transformerengine # A library for accelerating training and inference using 8-bit floating point (FP8) precision on Hopper and Ada GPUs
+https://github.com/nvidia/modulus-sym # Framework providing pythonic APIs, algorithms and utilities to be used with Modulus
+https://github.com/nvidia/deeplearningexamples # State-of-the-art Deep Learning scripts organized by models - easy to train and deploy
+https://github.com/nvidia/torchfort # An Online Deep Learning Interface for HPC programs on NVIDIA GPUs
+https://github.com/nvidia/modulus-launch # Repo of optimized training recipes for accelerating PyTorch workflows of AI driven surrogates for physical systems
+https://github.com/nvidia/dali # A GPU-accelerated library for deep learning training and inference applications.
+https://github.com/nvidia/audio-flamingo # PyTorch implementation of Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities.
+https://github.com/nvidia/clara-train-examples # Example notebooks demonstrating how to use Clara Train to build Medical Imaging Deep Learning models
+https://github.com/nvidia/minkowskiengine # Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
+https://github.com/nvidia/framework-reproducibility # Providing reproducibility in deep learning frameworks
+https://github.com/nvidia/nvimagecodec # A nvImageCodec library of GPU- and CPU- accelerated codecs featuring a unified interface

@@ -1,0 +1,62 @@
+https://github.com/googlecloudplatform/tensorflow-without-a-phd # A crash course in six episodes for software developers who want to become machine learning practitioners.
+https://github.com/googlecloudplatform/ai-on-gke # AI on GKE is a collection of examples, best-practices, and prebuilt solutions to help build, deploy, and scale AI Platforms on Google Kubernetes Engine
+https://github.com/googlecloudplatform/asl-ml-immersion # This repos contains notebooks for the Advanced Solutions Lab: ML Immersion
+https://github.com/googlecloudplatform/slurm-gcp #
+https://github.com/googlecloudplatform/ml-testing-accelerators # Testing framework for Deep Learning models (Tensorflow and PyTorch) on Google Cloud hardware accelerators (TPU and GPU)
+https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstrating how to operationalize Google Research T5X framework on Google Cloud Vertex AI.
+https://github.com/googlecloudplatform/practical-ml-vision-book #
+https://github.com/googlecloudplatform/next18-ai-in-motion # Sample code for the AI in Motion demo
+https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/autopilot-cost-calculator #
+https://github.com/googlecloudplatform/edu-resources # Curated List of GCP educational resources
+https://github.com/googlecloudplatform/llm-pipeline-examples #
+
+https://github.com/googleapis/google-cloud-node # Google Cloud Client Library for Node.js
+https://github.com/googleapis/google-cloud-dotnet # Google Cloud Client Libraries for .NET
+https://github.com/googleapis/google-cloud-python # Google Cloud Client Library for Python
+https://github.com/googleapis/google-cloud-cpp # C++ Client Libraries for Google Cloud Services
+https://github.com/googleapis/google-api-java-client-services # Generated Java code for Google APIs
+https://github.com/googleapis/google-cloud-php-tpu #
+https://github.com/googleapis/java-cloud-bom #
+https://github.com/googleapis/google-cloud-java # Google Cloud Client Library for Java
+
+https://github.com/google/jax # Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+https://github.com/google/gemma_pytorch # The official PyTorch implementation of Google's Gemma models
+https://github.com/google/maxtext # A simple, performant and scalable Jax LLM!
+https://github.com/google/uncertainty-baselines # High-quality implementations of standard and SOTA methods on a variety of tasks.
+https://github.com/google/paxml # Pax is a Jax-based machine learning framework for training large scale models. Pax allows for
+advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.
+https://github.com/google/saxml #
+https://github.com/google/jetstream # JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
+https://github.com/google/neural-tangents # Fast and Easy Infinite Neural Networks in Python
+https://github.com/google/evojax #
+https://github.com/google/maxdiffusion #
+https://github.com/google/jaxopt # Hardware accelerated, batchable and differentiable optimizers in JAX.
+https://github.com/google/jetstream-pytorch # PyTorch/XLA integration with JetStream for LLM inference
+https://github.com/google/jax-cfd # Computational Fluid Dynamics in JAX
+https://github.com/google/xpk # Software tool to help Cloud developers to orchestrate training jobs on accelerators such as TPUs and GPUs on GKE.
+https://github.com/google/balloon-learning-environment # The Balloon Learning Environment - flying stratospheric balloons with deep reinforcement learning.
+https://github.com/google/brax # Massively parallel rigidbody physics simulation on accelerator hardware.
+https://github.com/google/hypernerf # Code for "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields".
+https://github.com/google/learned_optimization #
+https://github.com/google/fedjax # FedJAX is a JAX-based open source library for Federated Learning simulations that emphasizes
+ease-of-use in research.
+https://github.com/google/example_extrapolation #
+https://github.com/google/trax # Trax — Deep Learning with Clear Code and Speed
+https://github.com/google/floq-client # 🦜 Floq: Accelerate the world's discoveries through high-performance quantum simulation
+and optimization.
+https://github.com/google/jaxonnxruntime # A user-friendly tool chain that enables the seamless execution of ONNX models using
+JAX as the backend.
+https://github.com/google/deepvariant # DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
+https://github.com/google/nerfies # This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
+https://github.com/google/aqt #
+https://github.com/google/caliban # Research workflows made easy, locally and in the Cloud.
+https://github.com/google/trajax #
+https://github.com/google/tree-math # Mathematical operations for JAX pytrees
+https://github.com/google/telluride_decoding #
+https://github.com/google/cloud-tpu-monitoring-debugging #
+https://github.com/google/bayesnf # Bayesian Neural Field models for prediction in large-scale spatiotemporal datasets
+https://github.com/google/cloud_tpu_goodput #
+https://github.com/google/jaxite #
+https://github.com/google/cloud-accelerator-diagnostics #
+https://github.com/google/wide_bnn_sampling #
