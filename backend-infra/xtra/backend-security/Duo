@@ -1,14 +1,10 @@
-https://github.com/aws-ia/cfn-ps-duo-mfa # 
-https://github.com/aws-ia/cfn-ps-cisco-duo-network-gateway # 
-https://github.com/aws-ia/cfn-ps-cisco-asav-ravpn # 
+https://github.com/aws-ia/cfn-ps-duo-mfa #
+https://github.com/aws-ia/cfn-ps-cisco-duo-network-gateway #
+https://github.com/aws-ia/cfn-ps-cisco-asav-ravpn #
 
 https://github.com/aws-samples/duomfa-with-amazon-cognito # Integrating Duo MFA with Amazon Cognito
 
-
-
-
 https://github.com/duosecurity/duo_unix # Duo two-factor authentication for Unix systems
-
 https://github.com/duosecurity/duo_client_python # Python library for interacting with the Duo Auth, Admin, and Accounts APIs
 https://github.com/duosecurity/duo_client_java #
 

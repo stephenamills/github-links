@@ -1,0 +1,61 @@
+https://github.com/canonical/cloud-init # Cloud instance initialization
+
+https://github.com/hashicorp/learn-terraform-provisioning # Provision Terraform instances with Packer & cloud-init
+https://github.com/hashicorp/terraform-provider-cloudinit # Terraform utility provider that exposes the cloudinit_config data source
+
+https://github.com/azure/iotedge-vm-deploy # Install IoT Edge in a VM
+https://github.com/azure/terraform-azurerm-vmss-cloudinit # Create a VM Scaleset initialized using cloud-init scripts and Terraform
+https://github.com/oracle-samples/orm-docker-compute-stack-sample # Install a Jaeger tracing service using Docker Compose and OCI Resource Manager
+https://github.com/equinix-labs/pulumi-equinix-kubernetes-cluster # Pulumi & Terraform modules that install Kubernetes using kubeadm and cloud-init
+
+https://github.com/rancher/elemental-toolkit # Build cloud-init driven Linux derivatives based on container images
+https://github.com/rancher/systemd-node # A container image mimics a cloud-init VM for testing
+https://github.com/flatcar/coreos-cloudinit
+https://github.com/crossplane-contrib/provider-cloudinit # Crossplane
+
+https://github.com/tomkins/cloud-init-vagrant
+https://github.com/craighurley/vagrant-cloud-init
+https://github.com/jalseth/nocloud-metadata-server # server
+https://github.com/jbg/cloud-seed # server
+https://github.com/jayonics/cloud-init-deployer # cloud-init server (NoCloud)
+https://github.com/piku/cloud-init #interesting small PaaS
+https://github.com/nathancatania/guacamole-sso-cloud-init # Guacamole
+https://github.com/rcarmo/terraform-azure-linux-vm
+https://github.com/martinhristov90/3xvault
+https://github.com/garyellis/terraform-cloudinit-scripts
+https://github.com/sdhibit/terraform-proxmox-cloud-init-vm
+https://github.com/christippett/terraform-cloudinit-container-server
+https://github.com/tosin2013/ansible-role-rhel7-kvm-cloud-init
+https://github.com/mrlesmithjr/ansible-cloud-init
+https://github.com/caltechlibrary/cloud-init-examples
+https://github.com/nathancatania/publisher-cloud-init
+https://github.com/bricecamus/proxmox-k8s-cluster
+https://github.com/mamadiam/whatsapp-proxy
+
+https://github.com/sammck/cloud-init-gen # Python library for Amazon EC2
+https://github.com/dermotbradley/create-alpine-disk-image
+https://github.com/bjwschaap/alpine-lift
+https://github.com/frederickding/cloud-init-iso
+https://github.com/tech-otaku/hetzner-cloud-init
+https://github.com/vitobotta/hetzner-cloud-init
+https://github.com/eric-glb/wireguard-vps # wireguard
+https://github.com/lynt-smitka/cloud-tunnels # cloud tunnels
+https://github.com/vyos/vyos-cloud-init
+https://github.com/earlruby/create-vm
+https://github.com/untouchedwagons/ubuntu-cloudinit-docs
+https://github.com/mediadepot/ignition
+https://github.com/aciba90/cloud-config-validator
+https://github.com/cloudymax/pxeless
+https://github.com/debovema/terraform-scaleway-dev-instance
+https://github.com/kmee/proxmox-cloud-init-tools
+https://github.com/timebertt/pi-cloud-init
+https://github.com/naman1997/arch-cloud-image
+https://github.com/giantswarm/k8scloudconfig
+https://github.com/shantanoo-desai/packer-ubuntu-server-uefi
+https://github.com/rrbarreto/pfsense-cloudinit
+https://github.com/markperdue/vsphere-vm-cloud-init-terraform
+https://github.com/andrewglass3/proxmoxcloudinitscript
+https://github.com/red-lichtie/alpine-cloud-init
+https://github.com/kalenarndt/packer-vsphere-cloud-init
+https://github.com/iddocohen/vce_cloudinit
+https://github.com/exoscale/openbsd-cloud-init
