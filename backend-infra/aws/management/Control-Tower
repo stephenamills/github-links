@@ -1,0 +1,97 @@
+https://github.com/aws-ia/terraform-aws-control_tower_account_factory # AWS Control Tower Account Factory
+https://github.com/aws-ia/cfn-ps-ct-newrelic-one #
+https://github.com/aws-ia/cfn-ps-ct-trend-micro-cloud-one-conformity #
+https://github.com/aws-samples/aws-security-reference-architecture-examples # Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terraform. https://github.com/aws-samples/aws-control-tower-automate-account-creation # Automate the creation of multiple accounts in AWS Control Tower using a batch account creation
+process https://github.com/aws-samples/aws-secure-environment-accelerator # The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-accou
+nt, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code. https://github.com/aws-samples/aws-control-tower-controls-terraform # This repository describes how to use AWS Control Tower controls, HashiCorp Terraform, and infrastruct
+ure as code (IaC) to implement and administer preventive, detective, and proactive security controls. A control (also known as a guardrail) is a high-level rule that provides ongoing governance for your overall AWS Control Tower environment. https://github.com/aws-samples/aws-control-tower-securityhub-enabler #
+https://github.com/aws-samples/aws-control-tower-guardduty-enabler #
+https://github.com/aws-samples/baseline-environment-on-aws # Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalon
+e-account or ControlTower based multi-account AWS environment. This solution provides basic and extensible guardrail with AWS security services and end-to-end sample CDK code for typical system architecture. https://github.com/aws-samples/aws-control-tower-config-customization #
+https://github.com/aws-samples/aws-control-tower-reference-architectures # Sample CloudFormation templates and architecture for AWS Control Tower
+https://github.com/aws-samples/aws-control-tower-org-setup-sample # Automated AWS Organizations configuration for security operations
+https://github.com/aws-samples/aft-workshop-sample # Collection of sample Terraform configuration for AFT workshop
+https://github.com/aws-samples/aws-control-tower-account-setup-using-step-functions # Automated AWS account hardening with AWS Control Tower and AWS Step Functions
+https://github.com/aws-samples/aws-control-tower-controls-cdk # This pattern describes how to use AWS Control Tower Controls, AWS Cloud Development Kit (CDK) and infrastru
+cture as code to implement and administer preventive, detective and proactive security on AWS. https://github.com/aws-samples/aws-control-tower-account-factory #
+https://github.com/aws-samples/aws-control-tower-cicd-cloud-custodian #
+https://github.com/aws-samples/aws-datadog-controltower #
+https://github.com/aws-samples/aws-control-tower-servicenow-itom-integration # This repository provides a solution to automate provisioning of AWS Account in ServiceNow fo
+r Cloud Discovery and IT Operations management https://github.com/aws-samples/aws-ct-vpc-flowlogs #
+https://github.com/aws-samples/biotech-blueprint-multi-account # The AWS Biotech Blueprint Multi Account is a landing zone for life sciences startups looking to build well
+architected research environments in the cloud. This CDK based solution creates the infrastructure as code to manage security, identity, and networking across 10s or 100s of accounts. https://github.com/aws-samples/aws-control-tower-managed-ecs-deployments #
+https://github.com/aws-samples/aws-control-tower-webhook-notifications # This cdk package installs a Lambda function, with an associated IAM role, and subscribes the Lambd
+a function to Control Tower aggregate security notifications. In the event of a Control Tower rule violation (e.g. publicly accessible S3 bucket), the Lambda sends a notification to a web hook. https://github.com/aws-samples/aws-security-hub-findings-export #
+https://github.com/aws-samples/aws-service-catalog-sagemaker-studio-domain # Workshop to launch Amazon SageMaker Studio domain using AWS Service Catalog and AWS SSO in the
+AWS Control Tower environment, using AWS CloudFormation templates and lambda functions. https://github.com/aws-samples/baseline-environment-on-aws-for-financial-services-institute #
+https://github.com/aws-samples/multi-account-security-assessment-via-prowler # This solutions facilitates rapid deployment of Prowler, full AWS Organization analysis, and
+finding processing as part of a security posture report. https://github.com/aws-samples/aws-identitycenter-codepipeline-auto-assignment #
+https://github.com/aws-samples/multi-environment-chatops-bot-for-controltower #
+https://github.com/aws-samples/aws-control-tower-customizations-to-automate-saml-20-federation-with-azure-ad #
+https://github.com/aws-samples/controltower-events-automation-with-cfn #
+https://github.com/aws-samples/siem-on-amazon-opensearch-service # A solution for collecting, correlating and visualizing multiple types of logs to help investigate securi
+ty incidents. https://github.com/aws-samples/aws-control-tower-terraform-modules #
+https://github.com/aws-samples/aws-control-tower-multi-account-inspection-lambda #
+https://github.com/aws-samples/data-perimeter-policy-examples # Example policies demonstrating how to implement a data perimeter on AWS.
+https://github.com/aws-samples/control-tower-flexible-ip-address-solution #
+https://github.com/aws-samples/enroll-account-with-config-in-ct #
+https://github.com/aws-samples/landing-zone-accelerator-on-aws-for-education # Deploy a multi-account cloud foundation to support highly-regulated workloads and complex co
+mpliance requirements. https://github.com/aws-samples/aws-cloudwan-and-amazon-ipam-with-aws-control-tower #
+https://github.com/aws-samples/automated-role-entitlements-in-aws-iam-identity-center # This solution will help you automate user group assignment to permission sets in AW
+S IAM Identity center for accessing any or all AWS accounts in your organization via federated access following principles of least privilege. https://github.com/aws-samples/controltower-cloudendure-simulated-environment #
+https://github.com/aws-samples/aws-iam-credential-report # AWS CloudFormation templates and Python code for AWS blog post on how to automate IAM credential reports at scal
+e across AWS. https://github.com/aws-samples/terraform-ec2-image-builder-container-hardening-pipeline # Terraform modules for an EC2 Image Builder Pipeline with an Amazon Linux 2 Baseli
+ne Container Recipe, which is used to deploy a Docker based Amazon Linux 2 Container Image that has been hardened according to RHEL 7 STIG Version 3 Release 7 - Medium. https://github.com/aws-samples/chaos-engineering-with-aws-fault-injection-simulator-cfct-and-aws-service-catalog #
+https://github.com/aws-samples/multi-account-az-mapping #
+https://github.com/aws-samples/aws-cloudformation-stackset-orchestration # AWS CloudFormation StackSet Orchestration: Automated deployment using AWS Step Functions
+https://github.com/aws-samples/aws-control-tower-extended-region-support # Extend AWS Control Tower governance using AWS Config Conformance Packs
+https://github.com/aws-samples/cloudwatch-obervability-access-manager-terraform # This repository shows how to setup Centralized CloudWatch Observability Manager using Ter
+raform https://github.com/aws-samples/duplicate-rule-detection-tool # A project to assess the current active AWS Config rules with potential duplicate scope in an AWS account. Ou
+r goal is to help customers can make informed decisions on how to streamline their AWS Config rules and reduce complexity. https://github.com/aws-samples/jp-contents-hub # AWS の日本語用ハンズオンなどを掲載するウェブサイト
+https://github.com/aws-samples/aws-control-tower-monitor-root-activity #
+https://github.com/aws-samples/security-driven-cloud-acceleration #
+https://github.com/aws-samples/aws-permission-set-assignment-custom-resource # This CDK project provides an example solution of how customers can automate the association
+of permission sets with AWS users and groups to accounts and organizational units (OUs) within an AWS organization using CloudFormation custom resources. https://github.com/aws-samples/cfct-sam-extension # Simplify infrastructure deployments using Customizations for AWS Control Tower and AWS Serverless Application Model
+https://github.com/aws-samples/multi-region-org-config-rules-terraform #
+https://github.com/aws-samples/running-sql-on-org-audit-logs-using-partition-projection #
+https://github.com/aws-samples/orgs-prescriptive-guidance # Guidance for Organization on AWS
+https://github.com/aws-samples/aft-bootstrap-pipeline # This repository contains the infrastructure as code to bootstrap your AWS Control Tower Account Factory for Terrafo
+rm (AFT) following the best practices. https://github.com/aws-samples/single-stage-aws-iam-identity-center-pipeline # A solution designed to simplify AWS Identity Center (SSO) management using simple JSON/YAML
+inputs. https://github.com/aws-samples/dns-using-service-catalog-and-control-tower-customizations #
+https://github.com/aws-samples/aws-macie-customization-terraform-samples #
+https://github.com/aws-samples/modernizing-account-management-with-amazon-bedrock-and-aws-control-tower #
+https://github.com/aws-samples/config-resource-compliance-dashboard #
+https://github.com/aws-samples/aws-control-tower-existing-cloudtrail-integration #
+https://github.com/aws-samples/extending-control-tower-network-security # Scaling and extending the network security of a multi-account Control Tower architecture
+https://github.com/aws-samples/landing-zone-accelerator-on-aws-network-patterns #
+https://github.com/aws-samples/org-billing-example #
+https://github.com/aws-samples/export-advanced-query-results-with-column-per-tag #
+https://github.com/aws-samples/experimental-programmatic-access-ccft # Experimental Programmatic Access to the AWS Customer Carbon Footprint Tool data
+https://github.com/aws-samples/integrate-control-tower-with-ipam #
+https://github.com/aws-samples/ingest-and-analyze-aws-security-logs-in-microsoft-sentinel # This pattern describes how to automate the ingestion of security logs, e.g., AW
+S CloudTrail, Amazon CloudWatch Logs, AWS VPC Flow Logs and Amazon GuardDuty, in Microsoft Sentinel to centrally monitor, detect and analyze security related events and logs. https://github.com/aws-samples/aft-account-suspend-close-solution # Sample solution that leverages AWS Control Tower Account Factory Terraform (AFT) to streamline the acco
+unt closure and suspension process. The solution aims to provide a reliable, efficient, and fast way to manage the decommissioning of AWS accounts from organizations. https://github.com/aws-samples/systems-manager-continuous-deployment-automox # Using a combination of Systems Manager State Manager, State Manager Associations, AWS Secret
+s Manager, and an SSM Document, you can install Automox on Systems Manager Managed EC2 Instances and ensure installation of Automox on all new instances, in an account. https://github.com/aws-samples/control-tower-aft-with-eks-blueprints #
+https://github.com/aws-samples/digav-blueprint #
+https://github.com/aws-samples/amazon-connect-cicd-workshop #
+https://github.com/aws-samples/aft-custom-sso-assignment # This solution will introduce a solution that seamlessly integrates AWS Control Tower Account Factory Terraform (
+AFT) with 3rd Party Single Sign-On (SSO) products, enhancing large-scale account onboarding process with choice of SSO while creating AWS Accounts https://github.com/aws-samples/aws-enterprise-mlops-framework #
+https://github.com/aws-samples/shared-subnet-name-tagging-template #
+https://github.com/aws-samples/data-and-ml-governance-workshop #
+https://github.com/aws-samples/simulate-gateway-route-tables-using-flow-logs #
+https://github.com/aws-samples/bulk-aws-migration-using-cloudendure-automation # Templates and scripts to automate the aws migration using CloudEndure.
+https://github.com/aws-samples/aws-security-stepfunction-integration #
+https://github.com/aws-samples/requesting-just-in-time-privileged-access-using-managed-services #
+https://github.com/aws-samples/lza-account-creation-workflow #
+https://github.com/aws-samples/5g-observability-workshop-using-amazon-sagemaker #
+https://github.com/aws-samples/enterprise-grade-vpc-product-with-aws-service-catalog #
+https://github.com/aws-samples/aws-organization-centralised-package-distribution #
+https://github.com/aws-samples/alz-cfct-stack-to-stackset-migration-tool #
+https://github.com/aws-samples/multi-tenancy-blog-post-collection #
+https://github.com/aws-samples/pmp-cross-org-support #
+https://github.com/aws-samples/providing-self-service-multiaccount-access-to-aws-managed-microsoft-ad #
+https://github.com/awslabs/landing-zone-accelerator-on-aws # Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requireme
+nts. https://github.com/awslabs/aws-sdlc-controltower-extension #
+https://github.com/awslabs/ssosync # Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
+https://github.com/awslabs/aws-refarch-cross-account-pipeline # The Cloudformation Templates guides the users to setup a codepipeline in Account-A, CodeCommit in Account-B
+and Deployment of a Sample Lambda in Account-C. Provides a reference for customers to use AWS CodePipeline as a centralized product to enable CI/CD across multiple accounts. https://github.com/awslabs/aws-config-rdk # The AWS Config Rules Development Kit helps developers set up, author and test custom Config rules. It contains scripts to enable AWS Config, create a Config rule and test it with sample ConfigurationItems.

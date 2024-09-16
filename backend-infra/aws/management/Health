@@ -1,0 +1,4 @@
+https://github.com/aws-samples/aws-health-aware # AHA is an incident management & communication framework to provide real-time alert customers when there are active AWS event(s). For customers with AWS Organizations, customers can get aggregated active account level events of all the accounts in the Organization. Customers not using AWS Organizations still benefit alerting at the account level.
+https://github.com/aws-samples/aws-health-events-insight # centralized approach to store and analyze AWS Health events(PHD,SHD)
+https://github.com/aws-samples/monitor-aws-health-using-slack #
+https://github.com/aws/aws-health-tools # The samples provided in AWS Health Tools can help users to build automation and customized alerting in response to AWS Health events.

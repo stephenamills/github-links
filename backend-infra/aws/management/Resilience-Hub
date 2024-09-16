@@ -1,0 +1,7 @@
+https://github.com/aws-solutions-library-samples/guidance-for-resilient-data-applications-using-amazon-dynamodb # This Guidance demonstrates how to architect a resilient, multi-Region application using AWS services, such as Amazon DynamoDB global tables
+
+https://github.com/aws-samples/aws-resilience-hub-tools # This repository includes a collection of solutions and tools for AWS Resilience Hub. You can use one or all of them to customize and enhance your usage of AWS Resilience Hub.
+https://github.com/aws-samples/aws-resilience-hub-samples #
+https://github.com/aws-samples/aws-resilience-lifecycle-framework # Resilience assessment using Resilience Lifecycle Framework and AWS Resilience Hub
+https://github.com/aws-samples/build-resilient-applications-using-aws-backup-and-resilience-hub #
+https://github.com/aws-samples/fault-tolerance-analyser #

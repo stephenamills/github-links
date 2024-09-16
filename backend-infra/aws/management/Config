@@ -1,0 +1,38 @@
+https://github.com/aws-samples/aws-config-pci-fsbp-ssmremediations #
+https://github.com/aws-samples/amazon-neptune-aws-config-visualization #
+https://github.com/aws-samples/aws-config-conformance-packs-pipeline #
+https://github.com/aws-samples/aws-config-custom-rule-os-compliance #
+https://github.com/aws-samples/aws-multi-region-multi-account-config-status-dashboard
+https://github.com/aws-samples/aws-config-systems-manager-instance-policy # A solution to deploy AWS Config rules to audit/remediate IAM entities which have AWS Managed Policy AmazonEC2RoleforSSM attached.
+https://github.com/aws-samples/aws-config-aws-kms-policy-rule #
+https://github.com/aws-samples/aws-cfn-for-optimizing-aws-config-for-aws-security-hub # AWS CloudFormation template to set up AWS Config to record only what’s needed for Security Hub.
+https://github.com/aws-samples/aws-config-track-aged-access-keys #
+https://github.com/aws-samples/config-rds-ca-expiry # Sample code to create a custom AWS Config rule to detect expiring Amazon RDS CA certificates
+https://github.com/aws-samples/aws-config-custom-rule-cloudformation-guard # This is a project to quickly accelerate the adoption of CloudFormation Guard syntax for use in AWS Config rules. The advantage of CloudFormation Guard is that it allows custom rules using existing AWS Config Configuration Items without needing to write code like Lambda Custom rules for AWS Config.
+https://github.com/aws-samples/aws-config-custom-policy-rule-samples #
+https://github.com/aws-samples/aws-centralized-dashboard-config-securityhub #
+https://github.com/aws-samples/setup-sns-notifications-on-resource-modifications-using-aws-config-and-cloudtrail # How to setup notifications of which user or role made changes to a resource using AWS Config and CloudTrail.
+https://github.com/aws-samples/config-report # Automated AWS Config reporting for resources that have been non compliant for a period of time.
+https://github.com/aws-samples/duplicate-rule-detection-tool # A project to assess the current active AWS Config rules with potential duplicate scope in an AWS account. Our goal is to help customers can make informed decisions on how to streamline their AWS Config rules and reduce complexity.
+https://github.com/aws-samples/aws-control-tower-extended-region-support # Extend AWS Control Tower governance using AWS Config Conformance Packs
+https://github.com/aws-samples/aws-config-tagging-remediation-example #
+https://github.com/aws-samples/aws-config-rule-rds-logging-enabled-remediation #
+https://github.com/aws-samples/aws-config-detect-environment-variables-secrets-terraform # This Terraform module create a custom rule on AWS Config that detects secrets/tokens in the Lambda functions in the account.
+https://github.com/aws-samples/config-manage-compliance-non-aws-resources # AWS Lambda function code sample source for AWS blog: Simplify compliance management of multicloud or hybrid resources with AWS Config
+https://github.com/aws-samples/aws-custom-config-with-lambda #
+https://github.com/aws-samples/aws-config-eks-daemonset-rule # Sample AWS Config rule for testing the daemonset of an EKS cluster
+https://github.com/aws-samples/aws-config-eks-mng-checkupdate #
+https://github.com/aws-samples/aws-config-rule-elbv2-scheme-to-tag #
+https://github.com/aws-samples/proactive-evaluation-with-cf-hooks-aws-config-blog-source #
+
+https://github.com/awslabs/aws-config-rules # Custom rules for AWS Config in JavaScript, Python, and Java.
+https://github.com/awslabs/aws-config-rdk # The AWS Config Rules Development Kit helps developers set up, author and test custom Config rules. It contains scripts to enable AWS Config, create a Config rule and test it with sample ConfigurationItems.
+https://github.com/awslabs/aws-config-resource-schema # AWS Config resource schema de
+fine the properties and types of AWS Config resource configuration items (CIs). Resource CI schema are used by developers when performing advanced resource queries and when processing CI data.
+https://github.com/awslabs/aws-config-engine-for-compliance-as-code # Manage AWS Config Rules at scale in AWS multi-account and/or multi-region environment; with fully configurable deployment (RuleSets) and analytics.
+https://github.com/awslabs/aws-config-rdklib # Python library to enable you to run custom AWS Config Rules at scale, using Lambda Layer.
+https://github.com/awslabs/aws-service-catalog-products # This repository contains anumber of CloudFormation templates which can be used independently or as Products with AWS Service Catalog including the Open Source Tools AWS Service Catalog Factory and AWS Service Catalog Puppet. The templates include a number of the foundational AWS Services you may choose to manage Account Compliance including AWS Config, AWS CloudTrail and GuardDuty
+https://github.com/awslabs/aws-iam-access-analyzer-policy-validation-config-rule #
+https://github.com/awslabs/critter # AWS Config Rule Integration Tester
+https://github.com/awslabs/security-hub-compliance-analyzer # A compliance analysis t
+ool which enables organizations to more quickly articulate their compliance posture and also generate supporting evidence artifacts

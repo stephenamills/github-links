@@ -51,3 +51,33 @@ https://github.com/awslabs/speke-reference-server # Secure Packager and Encoder 
 es and digital rights management (DRM) system key servers. This project provides the basic framework that partners can specialize and extend to support their specific method of Digital Rights Management while utilizing AWS' video streaming solutions. https://github.com/awslabs/visual-asset-management-system # Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of specialized visual assets used in spatial computing.
 https://github.com/aws/secrets-store-csi-driver-provider-aws # The AWS provider for the Secrets Store CSI Driver allows you to fetch secrets from AWS Secrets Manager and AWS Systems Manager Parameter Store, and mount them into Kubernetes pods.
 https://github.com/aws/efs-utils # Utilities for Amazon Elastic File System (EFS)
+
+AppConfig
+https://github.com/aws-samples/sample-python-helper-aws-appconfig # A Python helper library for AWS AppConfig
+https://github.com/aws-samples/aws-appconfig-java-sample # A Sample Java Microservices application to demo the capabilities of Amazon Q Developer agent for Code Transforma
+tion. https://github.com/aws-samples/aws-appconfig-feature-flags #
+https://github.com/aws-samples/aws-lambda-extensions # A collection of sample extensions to help you get started with AWS Lambda Extensions
+https://github.com/aws-samples/aws-appconfig-codepipeline-cdk #
+https://github.com/aws-samples/aws-cdk-cicd-boot-sample # This repository contains the infrastructure as code to bootstrap your next CI/CD project. It is developed with se
+curity best practices in mind, provides a robust and automated deployment process that utilizes a combination of CDK Stacks primarily written in TypeScript. It also deploys sample Python Lambda functions. https://github.com/aws-samples/personalization-apis # Real-time low latency API framework that sits between your applications and recommender systems such as Amazon Person
+alize https://github.com/aws-samples/aws-appconfig-demo # A simple demo showcasing common use cases of AWS AppConfig
+https://github.com/aws-samples/Serverless-Retrieval-Augmented-Generation-RAG-on-AWS # A full-stack serverless RAG workflow. This is thought for running PoCs, prototypes an
+d bootstrap your MVP. https://github.com/aws-samples/aws-appconfig-with-quarkus # This repository shows how to natively extend Quarkus with a custom ConfigSource to use AWS AppConfig values whe
+n injecting config properties with @ConfigProperty. https://github.com/aws-samples/eventdriven-frontend-patterns # Sample code accompanying Goto EDA Day 2024 talk - Patterns for building event-driven web and mobile app back
+ends https://github.com/aws-samples/quant-trading #
+https://github.com/aws-samples/leveraging-aws-appconfig-for-enabling-saas-pricing-tiers #
+https://github.com/aws-samples/amazon-sagemaker-built-in-algorithms-mlops-pipeline-using-aws-cdk # MLOps Pipeline Using SageMaker & CDK, where models are from SageMaker bu
+ilt-in algorithms. https://github.com/aws-samples/aws-ecs-devops-using-aws-cdk # This repository provides a general DevOps practices such MSA, IaC, CICD and Monitoring. AWS various services
+are used to provide DevOps best practices. https://github.com/aws-samples/aws-lookoutforvision-sap-integration # Integrate AWS Lookout for vision with SAP Quality Management Process
+https://github.com/aws-samples/aws-appconfig-git-secrets-extn # Sample AWS AppConfig Extension bundling git-secrets for secret detection
+https://github.com/aws-samples/aws-appconfig-pii-extn # Sample AWS AppConfig Extension integrating with Amazon Comprehend for PII detection
+https://github.com/aws-samples/aws-appconfig-change-calendar-extn # Sample AWS AppConfig Extension integrating with Systems Manager Change Calendar
+https://github.com/aws-samples/sap-on-aws-documentprocessing-workflow #
+https://github.com/aws-samples/migration-effort-estimator #
+https://github.com/aws-samples/aws-cdk-deploy-pipeline-using-aws-codepipeline # This repository describes how to customize AWS CodePipeline to deploy AWS CDK application.
+https://github.com/aws-samples/spinnaker-keel-on-eks #
+https://github.com/aws-samples/llm-app-genie #
+https://github.com/aws-samples/multi-tenancy-blog-post-collection #
+https://github.com/awslabs/llrt # LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficie
+nt Serverless applications. https://github.com/awslabs/visual-search # Visual search implementation resources, including an explanatory Jupyter notebook and Amazon SageMaker and AWS DeepLens code.
+https://github.com/aws/aws-dotnet-extensions-configuration # This repository hosts various libraries that help developers configure .NET applications using AWS services.

@@ -1,0 +1,85 @@
+FedRAMP
+https://github.com/aws-samples/fedramp-integrated-inventory-workbook # Retrieve the inventory information for a FedRAMP System Security Plan (SSP) using a Lambda function
+https://github.com/aws-samples/landing-zone-accelerator-on-aws-for-tse-se #
+https://github.com/aws-samples/landing-zone-accelerator-on-aws-for-cccs-medium #
+https://github.com/aws-samples/amazon-connect-config-rules #
+https://github.com/aws-samples/inventory-collection #
+https://github.com/aws-samples/security-driven-cloud-acceleration #
+https://github.com/aws-samples/rag-chatbot-with-bedrock-opensearch-and-document-summaries-in-govcloud #
+
+FSBP
+https://github.com/aws-ia/cfn-ps-compliance-pci-fsbp-remediation #
+https://github.com/aws-samples/aws-config-pci-fsbp-ssmremediations #
+https://github.com/aws-samples/aws-cloud-compliance-assurance #
+https://github.com/aws-samples/devlab-iam-password-policy # ANZ Summit 2022 Dev Lab: Automate Setting AWS Account Password Policy for IAM Users
+https://github.com/aws-samples/single-account-security-accelerator # The Single Account Security Accelerator (SASA) provides a quick way to improve your security posture on AWS in a single-account environment.
+https://github.com/aws-samples/duplicate-rule-detection-tool # A project to assess the current active AWS Config rules with potential duplicate scope in an AWS account. Our goal is to help customers can make informed decisions on how to streamline their AWS Config rules and reduce complexity.
+https://github.com/aws-samples/cyber-insurance-examples #
+https://github.com/aws-samples/improving-security-incident-response-times-by-decentralizing-notifications #
+
+GDPR
+https://github.com/aws-samples/realtime-serverless-gdpr-ccpa-in-a-data-lake #
+https://github.com/aws-samples/pseudonymization-service #
+https://github.com/aws-samples/cross-account-migration-for-amazon-dynamodb # This project facilitates zero-downtime cross-account migration of Amazon DynamoDB tables.
+https://github.com/aws-samples/conversation-intelligence-using-aiml-on-aws # Sample solution to build conversation intelligence using AIML and Generative AI services on AWS
+https://github.com/aws-samples/preventive-security-controls-in-pulumi-iac-pipeline # Sample code with security policies in Pulumi CrossGuard to implement preventive security checks in Infrastructure pipelines
+https://github.com/aws-samples/aws-modernization-with-vgs #
+https://github.com/aws-samples/communication-developer-services-reference-architectures # AWS Amazon Pinpoint and Amazon Simple Email Service (SES) Digital User Engagement Reference Architectures with CloudFormation templates.
+https://github.com/aws-samples/automated-datastore-discovery-with-aws-glue # Automation framework to catalog AWS data sources using Glue
+https://github.com/awslabs/amazon-s3-find-and-forget # Amazon S3 Find and Forget is a solution to handle data erasure requests from data lakes stored on Amazon S3, for example, pursuant to the European General Data Protection Regulation (GDPR)
+
+GovCloud
+https://github.com/aws-samples/aws-govcloud-continuous-monitoring # CloudFormation templates that implement commonly-requested continuous monitoring solutions within the constraints of AWS GovCloud (US)
+https://github.com/aws-samples/aws-govcloud-windows-containers-cicd #
+https://github.com/aws-samples/rag-chatbot-with-bedrock-opensearch-and-document-summaries-in-govcloud #
+https://github.com/aws-samples/aws-govcloud-graphql #
+https://github.com/aws-samples/aws-govcloud-serverless-app #
+https://github.com/aws-samples/cloudfront-to-govcloud-s3-sse-kms # This solutions is to enable domain name file access to a Amazon Simple Storage Service (Amazon S3) bucket with SSE-KMS encryption located in a GovCloud region.
+https://github.com/aws-samples/landing-zone-accelerator-on-aws-for-education # Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+https://github.com/awslabs/compliant-framework-for-federal-and-dod-workloads-in-aws-govcloud-us # Deploy a secure, multi-account environment in GovCloud
+
+HIPAA
+https://github.com/aws-samples/aws-genai-llm-chatbot # A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
+https://github.com/aws-samples/aws-healthimaging-samples # Sample projects on working with AWS HealthImaging, an AWS service that allows you to store, analyze, and share medical images in the cloud at petabyte scale.
+https://github.com/aws-samples/serverless-stream-processing-at-scale #
+https://github.com/aws-samples/aws-healthscribe-demo # Submit audio files to AWS HealthScribe, view the status of the job, and visualize the transcript and summarized clinical notes, including sections like complaint, history of present illness, assessment, and treatment plan.
+https://github.com/aws-samples/analysis-of-medical-device-data-using-data-lake #
+https://github.com/aws-samples/aws-control-tower-terraform-modules #
+https://github.com/aws-samples/monai-on-aws-workshop #
+https://github.com/aws-samples/aws-audit-manager-custom-frameworks #
+https://github.com/aws-samples/amazon-connect-config-rules #
+https://github.com/aws-samples/cross-account-migration-for-amazon-dynamodb # This project facilitates zero-downtime cross-account migration of Amazon DynamoDB tables.
+https://github.com/aws-samples/awesome-aiml-hcls #
+https://github.com/aws-samples/conversation-intelligence-using-aiml-on-aws # Sample solution to build conversation intelligence using AIML and Generative AI services on AWS
+https://github.com/aws-samples/preventive-security-controls-in-pulumi-iac-pipeline # Sample code with security policies in Pulumi CrossGuard to implement preventive security checks in Infrastructure pipelines
+https://github.com/aws-samples/security-driven-cloud-acceleration #
+https://github.com/aws-samples/amazon-bedrock-agents-cancer-biomarker-discovery #
+https://github.com/aws-samples/duplicate-rule-detection-tool # A project to assess the current active AWS Config rules with potential duplicate scope in an AWS account. Our goal is to help customers can make informed decisions on how to streamline their AWS Config rules and reduce complexity.
+https://github.com/aws-samples/amazon-healthlake-dicom-extension #
+https://github.com/aws-samples/biotech-blueprint-multi-account # The AWS Biotech Blueprint Multi Account is a landing zone for life sciences startups looking to build well architected research environments in the cloud. This CDK based solution creates the infrastructu
+re as code to manage security, identity, and networking across 10s or 100s of accounts.
+https://github.com/aws-samples/stowrs-to-s3 #
+https://github.com/aws/aws-for-fluent-bit # The source of the amazon/aws-for-fluent-bit container image
+
+PCI DSS
+https://github.com/aws-solutions-library-samples/guidance-for-payment-systems-using-event-driven-architecture-on-aws # Post payments to recieving accounts.
+
+https://github.com/aws-ia/terraform-aws-security-hub # Configure and deploy AWS Security Hub.
+https://github.com/aws-ia/cfn-ps-compliance-pci-fsbp-remediation #
+
+https://github.com/aws-samples/aws-config-pci-fsbp-ssmremediations #
+https://github.com/aws-samples/aws-security-hub-findings-export #
+https://github.com/aws-samples/aws-security-hub-analytic-pipeline #
+https://github.com/aws-samples/aws-audit-manager-custom-frameworks #
+https://github.com/aws-samples/securityhub-multiaccount-updatecontrols #
+https://github.com/aws-samples/serverless-mutual-tls #
+https://github.com/aws-samples/preventive-security-controls-in-pulumi-iac-pipeline # Sample code with security policies in Pulumi CrossGuard to implement preventive security checks in Infrastructure pipelines
+https://github.com/aws-samples/aws-modernization-with-vgs #
+https://github.com/aws-samples/aws-security-stepfunction-integration #
+https://github.com/aws-samples/cfct-sam-extension # Simplify infrastructure deployments using Customizations for AWS Control Tower and AWS Serverless Application Model
+https://github.com/aws-samples/amazon-guardduty-waf-acl-ssm #
+https://github.com/awslabs/aws-kms-compliance-checker # A Java compiler plugin that proves, at compile-time, that Java code only requests 256-bit data keys from AWS KMS.
+
+SOC
+https://github.com/awslabs/aws-kms-compliance-checker # A Java compiler plugin that proves, at compile-time, that Java code only requests 256-bit data keys from AWS KMS.
+https://github.com/awslabs/aws-greengrass-labs-bluetooth-gateway #

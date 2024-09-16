@@ -1,0 +1,49 @@
+https://github.com/aws-samples/aws-health-aware # AHA is an incident management & communication framework to provide real-time alert customers when there are active AWS ev
+ent(s). For customers with AWS Organizations, customers can get aggregated active account level events of all the accounts in the Organization. Customers not using AWS Organizations still benefit alerting at the account level. https://github.com/aws-samples/amazon-guardduty-for-aws-organizations-with-terraform # Using Terraform to enable Amazon GuardDuty for accounts in AWS Organizations.
+https://github.com/aws-samples/aws-network-hub-for-terraform # This repository demonstrates a scalable, segregated, secured AWS network hub for multi-account organizations
+using Terraform.
+https://github.com/aws-samples/aws-organizations-tag-inventory # This project provides a solution to AWS customers for reporting on what tags exists, the resources they are applied to, and what resources don't have tags across their entire AWS organization. The solution is designed to be deployed in an AWS Organization with multiple accounts.
+https://github.com/aws-samples/aws-control-tower-org-setup-sample # Automated AWS Organizations configuration for security operations
+https://github.com/aws-samples/aws-transit-gateway-attachment-automation # AWS CloudFormation templates and AWS Lambda Python based code for automating AWS Transit Gateway
+Attachment associations across an AWS Organization.
+https://github.com/aws-samples/backup-recovery-with-aws-backup # Implement backup and recovery with AWS Backup across your AWS Organizations using a CI/CD pipeline (AWS CodePipeline).
+https://github.com/aws-samples/aws-organizations-alternate-contact-manager #
+https://github.com/aws-samples/aws-organizations-tool #
+https://github.com/aws-samples/inspector2-enablement-with-cli # bash script to enable Amazon Inspector2 on AWS Organizations in multiple regions
+https://github.com/aws-samples/aws-organizations-multi-account-eventbridge #
+https://github.com/aws-samples/aws-with # aws-with provides a command line utility to help manage complex AWS environments. It can perform the same action against a large
+number of AWS accounts and is AWS Organizations aware.
+https://github.com/aws-samples/iam-policy-tester-pipeline # Test IAM Policies in Multi Account Structures in your CI/CD pipeline
+https://github.com/aws-samples/aws-cloudformation-resource-providers-organizations-policy # The CloudFormation Resource Provider Package For AWS Organizations Policies.
+https://github.com/aws-samples/automating-iam-credential-reports-for-large-aws-organizations #
+https://github.com/aws-samples/aws-tf-prowler-fargate # Terraform module to perform security assessment in AWS Organizations using Prowler on AWS Fargate.
+https://github.com/aws-samples/multi-account-security-assessment-via-prowler # This solutions facilitates rapid deployment of Prowler, full AWS Organization analysis, and
+finding processing as part of a security posture report.
+https://github.com/aws-samples/assignment-automation-4-aws-sso # This sample repositories provides an production ready example of enhancing AWS SSO for enterprise usage. W
+e provide an automation for assignment management, scalability, persistent OU/Tag permissions as well reactivity to Organizational/SSO changes.
+https://github.com/aws-samples/automated-role-entitlements-in-aws-iam-identity-center # This solution will help you automate user group assignment to permission sets in AWS IAM Identity center for accessing any or all AWS accounts in your organization via federated access following principles of least privilege.
+https://github.com/aws-samples/example-permissions-boundary # This repository contains a sample IAM permissions boundary as a starting point for creating your own permis
+sions boundary to meet the security needs of your organization. The IAM permissions boundary sample, when attached to an IAM role, allow it to perform all expected workload tasks without being able to modify the security of its environment. https://github.com/aws-samples/aws-account-migration-from-consolidated-billing-to-all-features # This project contains source code and supporting files for a serverless ap
+plication that you can use to migration accounts from an existing AWS Organization with Consolidated Billing to a new AWS Organization with All Features enabled.
+https://github.com/aws-samples/amazon-codewhisperer-usage-analyzer # The Amazon CodeWhisperer usage analyzer is used to perform analysis on code suggestions and security s
+cans for Organizations using the CodeWhisperer professional tier.
+https://github.com/aws-samples/glue-enrich-cost-and-usage # Glue Python Shell Job that adds AWS Organizations account tags to Cost and Usage Reports. You can submit feedb
+ack & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+https://github.com/aws-samples/orgs-prescriptive-guidance # Guidance for Organization on AWS
+https://github.com/aws-samples/acmpca-hierarchy # An AWS CloudFormation template for the rapid deployment of a multi-level CA hierarchy and consistent provisioning experie
+nce. Optionally use AWS Resource Access Manager (AWS RAM) to securely share the CA within your AWS Organizations, centralizing the CA while using the AWS RAM to manage the permissions. Optionally use Amazon S3 to store the CRL and access logs.
+https://github.com/aws-samples/network-access-analyzer-multi-account-analysis # Identify all permitted data paths originating from the Internet to Network Interfaces withi
+n AWS Accounts across the entire AWS Organization.
+https://github.com/aws-samples/contacts-manager # Contacts Manager - A programmatically way to manage AWS contacts at the AWS Organizations level.
+https://github.com/aws-samples/aws-organizations-alternate-contacts-management-via-csv # AWS Organizations Alternate Contacts management via CSV
+https://github.com/aws-samples/centralized-iam-key-management-aws-organizations-terraform #
+https://github.com/aws-samples/aws-permission-set-assignment-custom-resource # This CDK project provides an example solution of how customers can automate the association
+of permission sets with AWS users and groups to accounts and organizational units (OUs) within an AWS organization using CloudFormation custom resources.
+https://github.com/aws-samples/aws-backup-alarms # AWS Backup alarms build a centralized solution to notify via email when a backup job or backup copy has failed and when an AWS Organizations backup policy has been modified.
+https://github.com/aws-samples/case-insights-for-multi-accounts # AWS-CIMA (Consolidated Insights for Multi-Accounts) is a sample solution to provide single pane of glass
+of support cases for multiple accounts and multiple AWS Organizations
+https://github.com/aws-samples/es-auto-request # The goal of this repository is to help you deploy a simple solution to watch for newly created accounts in your organizati
+on and submit a support case requesting the new account to have Enterprise Support enabled.
+https://github.com/aws-samples/aft-account-suspend-close-solution # Sample solution that leverages AWS Control Tower Account Factory Terraform (AFT) to streamline the account closure and suspension process. The solution aims to provide a reliable, efficient, and fast way to manage the decommissioning of AWS accounts from organizations.
+https://github.com/awslabs/aws-deployment-framework # The AWS Deployment Framework (ADF) is an extensive and flexible framework to manage and deploy resources across multi
+ple AWS accounts and regions based on AWS Organizations.
