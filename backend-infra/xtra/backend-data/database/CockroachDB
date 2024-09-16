@@ -1,3 +1,5 @@
+https://github.com/aws-samples/crdb-cluster-eks-terraform #
+
 https://github.com/cockroachdb/cockroach # CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 
 https://github.com/cockroachdb/pebble # RocksDB/LevelDB inspired key-value database in Go
@@ -119,4 +121,4 @@ https://github.com/cockroachlabs-field/stock-data-gen # Generate and load stock 
 https://github.com/cockroachlabs-field/cox-edge # Repository of information to use CockroachDB within Cox Edge.
 https://github.com/cockroachlabs-field/perms-example #
 
-https://github.com/aws-samples/crdb-cluster-eks-terraform #
+https://dbdb.io/db/cockroachdb

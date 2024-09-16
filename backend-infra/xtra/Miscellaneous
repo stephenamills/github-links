@@ -24,9 +24,6 @@ https://github.com/utilsec/packet_captures # ARP, DHCP
 https://github.com/mttaggart/jupyter-pcap # Jupyter
 
 --
-Wireguard
-
---
 Rails projects
 https://github.com/brandonfang/lilnotion # Notion (React)
 https://github.com/taisiat/caro # Turo (React)
@@ -65,6 +62,7 @@ Supabase
 Mock APIs
 
 OpenAPI
+https://github.com/fern-api/fern
 https://github.com/paloaltonetworks/docusaurus-openapi-docs # 🦝 OpenAPI plugin for generating API reference docs in Docusaurus v3.
 
 Bug Bounty
@@ -89,8 +87,6 @@ Unreal
 Godot
 
 SceneKit
-
-GitHub Actions
 
 Conflict-free replicated data types
 

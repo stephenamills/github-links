@@ -4,6 +4,7 @@ https://github.com/googleworkspace/gws-genai-addon-sample # A sample Google Work
 https://github.com/aws-solutions-library-samples/guidance-for-natural-language-queries-of-relational-databases-on-aws # Query an Amazon RDS PostgreSQL database, using SageMaker, Bedrock, LangChain, Streamlit, and Chroma.
 https://github.com/aws-solutions-library-samples/guidance-for-high-speed-rag-chatbots-on-aws # Retrieval chatbot using Amazon Aurora PostgreSQL-Compatible Edition with the open-source pgvector extension.
 https://github.com/aws-solutions-library-samples/guidance-for-improving-application-development-productivity-with-the-sap-abap-assistant-on-aws # Set up the SAP ABAP Assistant, a plugin that integrates with Amazon Bedrock
+
 https://github.com/build-on-aws/amazon-bedrock-go-sdk-examples # AWS Go SDK examples for Amazon Bedrock
 https://github.com/build-on-aws/dotnet-fm-playground # .NET MAUI Blazor sample application showcasing how to leverage Amazon Bedrock from C# code.
 https://github.com/build-on-aws/amazon-bedrock-with-builder-and-command-patterns # Create the API requests for the different foundation models supported by Amazon Bedrock.

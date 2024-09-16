@@ -1,10 +1,7 @@
-https://www.linuxfoundation.org/lf-security
-https://tag-security.cncf.io
-
 https://github.com/paloaltonetworks/pan.dev # Palo Alto Networks for developers
 
 https://github.com/paloaltonetworks/pan-os-upgrade-assurance # PAN-OS Upgrade Assurance package code
-https://github.com/paloaltonetworks/pan-os-python # The PAN-OS SDK for Python is a package to help interact with Palo Alto Networks devices  
+https://github.com/paloaltonetworks/pan-os-python # The PAN-OS SDK for Python is a package to help interact with Palo Alto Networks devices
 https://github.com/paloaltonetworks/pan-os-php # Framework and utilities to easily manage and edit Palo Alto Network PANOS devices
 https://github.com/paloaltonetworks/panos-bootstrapper-ui # PAN-OS Bootstrapper UI provides a simple, example web-UI that consumes the PAN-OS Bootstrapper utility API.
 https://github.com/paloaltonetworks/gcp-wildfire-api # A demonstration of using the Wildfire API to scan files uploaded to a Google Cloud Storage bucket
@@ -13,7 +10,7 @@ https://github.com/paloaltonetworks/pan-iot-security-python # Python interface t
 https://github.com/paloaltonetworks/panos-bootstrapper # A Utility to bootstrap a new PAN-OS NGFW. This utility provides an API only.
 https://github.com/paloaltonetworks/panos_rust_sdk # A Rust implementation of the PAN-OS API.
 
-https://github.com/paloaltonetworks/terraform-templates # This repo contains Terraform templates to deploy infrastructure on AWS and Azure  
+https://github.com/paloaltonetworks/terraform-templates # This repo contains Terraform templates to deploy infrastructure on AWS and Azure
 https://github.com/paloaltonetworks/terraform-provider-panos # Terraform Panos provider
 https://github.com/paloaltonetworks/terraform-best-practices # A set of best practices to be followed when contributing to the Palo Alto Networks terraform modules
 https://github.com/paloaltonetworks/terraform-ansible-intro # Introduction to Terraform and Ansible

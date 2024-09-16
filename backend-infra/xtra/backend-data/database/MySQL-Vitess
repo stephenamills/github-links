@@ -1,65 +1,60 @@
 https://github.com/vitessio/vitess # Vitess is a database clustering system for horizontal scaling of MySQL.
 
-https://github.com/vitessio/vitess-operator # DEPRECATED: Vitess Operator provides automation that simplifies the administration of Vitess clusters on Kubernetes.
-https://github.com/vitessio/arewefastyet # Automated Benchmarking System for Vitess
-https://github.com/vitessio/messages # Vitess messages client
-https://github.com/vitessio/vitess-tester #
-
-https://github.com/planetscale/cli # The CLI for PlanetScale Database
-https://github.com/planetscale/fast_page # Blazing fast pagination for ActiveRecord with deferred joins ⚡️
-https://github.com/planetscale/vitess-operator # Kubernetes Operator for Vitess
 https://github.com/planetscale/nextjs-planetscale-starter # A Next.js starter app with NextAuth.js (Auth), Prisma (ORM), and PlanetScale (database), on Netlify
 https://github.com/planetscale/nextjs-starter # Next.js starter application using Prisma to connect to PlanetScale
-https://github.com/planetscale/schemadiff # Declarative schema diffing, normalization, validation and manipulation via command line
-https://github.com/planetscale/planetscale_rails # Make Rails schema migrations easy with PlanetScale
 https://github.com/planetscale/connection-examples # A collection of PlanetScale connection examples
-https://github.com/planetscale/activerecord-sql_commenter # Rails query logging compatible with sqlcommenter
 https://github.com/planetscale/nextjs-conf-2021 # The code from "Databases as Code with PlanetScale and Prisma" talk at Next.js Conf 2021
-https://github.com/planetscale/planetscale-ruby # Ruby client for PlanetScale databases
 https://github.com/planetscale/express-example # Example Express.js app connecting to PlanetScale
-https://github.com/planetscale/setup-pscale-action # Setup the PlanetScale CLI for GitHub Actions
-https://github.com/planetscale/boost-beta # Welcome to the PlanetScale Boost Private Beta
-https://github.com/planetscale/create-branch-action # A GitHub Action that creates a new branch of your PlanetScale database
 https://github.com/planetscale/figma-diagram-generator # Code to go along with the figma DB diagram creator video
 https://github.com/planetscale/database-js-starter # A sample Node.js application that uses the database-js package.
 https://github.com/planetscale/planetscale-nestjs # Starter application demonstrating how to connect a NestJS API to a PlanetScale MySQL database
 https://github.com/planetscale/planetpets # A demo application that uses PlanetScale OAuth v2 to access users' databases and organizations.
+https://github.com/planetscale/laravel-example # Sample application showing how to integrate Laravel with PlanetScale
+https://github.com/planetscale/cloudflare-workers-quickstart # A sample repository demonstrating how to use PlanetScale with CloudFlare Workers.
+https://github.com/planetscale/django-example # Connect a sample Django application to PlanetScale
+https://github.com/planetscale/laravel-crud-mysql #
+https://github.com/planetscale/vercel-integration-example #
+https://github.com/planetscale/go-planetscale-products #
+https://github.com/planetscale/golang-example #
+https://github.com/planetscale/mysql-for-python-developers #
+https://github.com/planetscale/symfony-example # Connect a sample Symfony app to PlanetScale
+https://github.com/planetscale/php-example # Connect a sample PHP project to a PlanetScale database.
+https://github.com/planetscale/golang-example-gin #
+https://github.com/planetscale/laravel-caching # Sample repo for Laravel caching blog post
+https://github.com/planetscale/k8s-demo # A simple demo of Vitess on Kubernetes
+https://github.com/planetscale/django-react-demo #
+
+https://github.com/planetscale/cli # The CLI for PlanetScale Database
+https://github.com/planetscale/fast_page # Blazing fast pagination for ActiveRecord with deferred joins ⚡️
+https://github.com/planetscale/vitess-operator # Kubernetes Operator for Vitess
+https://github.com/planetscale/schemadiff # Declarative schema diffing, normalization, validation and manipulation via command line
+https://github.com/planetscale/planetscale_rails # Make Rails schema migrations easy with PlanetScale
+https://github.com/planetscale/activerecord-sql_commenter # Rails query logging compatible with sqlcommenter
+https://github.com/planetscale/planetscale-ruby # Ruby client for PlanetScale databases
+https://github.com/planetscale/setup-pscale-action # Setup the PlanetScale CLI for GitHub Actions
+https://github.com/planetscale/boost-beta # Welcome to the PlanetScale Boost Private Beta
+https://github.com/planetscale/create-branch-action # A GitHub Action that creates a new branch of your PlanetScale database
 https://github.com/planetscale/django_psdb_engine # Disable foreign key constraints in Django
 https://github.com/planetscale/airbyte-source # Airbyte source for PlanetScale databases
 https://github.com/planetscale/deploy-deploy-request-action # A GitHub Action that deploys an existing deploy request of your PlanetScale database
-https://github.com/planetscale/laravel-example # Sample application showing how to integrate Laravel with PlanetScale
-https://github.com/planetscale/cloudflare-workers-quickstart # A sample repository demonstrating how to use PlanetScale with CloudFlare Workers.
 https://github.com/planetscale/vitess-framework-testing # Validating Vitess across clients and frameworks.
-https://github.com/planetscale/django-example # Connect a sample Django application to PlanetScale
 https://github.com/planetscale/terraform-provider-planetscale # Terraform provider for PlanetScale
-https://github.com/planetscale/laravel-crud-mysql #
 https://github.com/planetscale/sysbench # A fork of sysbench to add Vitess specific Modifications
 https://github.com/planetscale/singer-tap # Singer.io tap for extracting PlanetScale data
-https://github.com/planetscale/vercel-integration-example #
-https://github.com/planetscale/10-minute-app # Set up a stateful app fast
-https://github.com/planetscale/go-planetscale-products #
 https://github.com/planetscale/create-deploy-request-action # A GitHub Action that creates a new deploy request for your PlanetScale database
 https://github.com/planetscale/psdbproxy # MySQL proxy for local connections to a PlanetScale database over HTTP/2
 https://github.com/planetscale/scoop-bucket # Scoop bucket for PlanetScale CLI binaries.
 https://github.com/planetscale/vault-gcp-creds-buildkite-plugin # Retrieve a time-limited OAuth2 access token for an impersonated account from a Hashicorp Vault on GCP
 https://github.com/planetscale/pscale-workflow-helper-scripts #
-https://github.com/planetscale/golang-example #
 https://github.com/planetscale/create-branch-password-action # A GitHub Action that creates a new password for your PlanetScale database branch
 https://github.com/planetscale/fivetran-source # PlanetScale Source connector for FiveTran
-https://github.com/planetscale/mysql-for-python-developers #
-https://github.com/planetscale/symfony-example # Connect a sample Symfony app to PlanetScale
 https://github.com/planetscale/ps-prechecks #
 https://github.com/planetscale/log # 🪵 📓 PlanetScale's opinionated structured logging library
-https://github.com/planetscale/php-example # Connect a sample PHP project to a PlanetScale database.
 https://github.com/planetscale/heroku-buildpack-planetscale # A Heroku Buildpack for adding Planetscale CLI to your project
-https://github.com/planetscale/golang-example-gin #
 https://github.com/planetscale/transmission # Write data to MySQL. Quickly.
 https://github.com/planetscale/kubeconform-buildkite-plugin # Run kubeconform against your Kubernetes configurations
-https://github.com/planetscale/laravel-caching # Sample repo for Laravel caching blog post
 https://github.com/planetscale/psdb #
 https://github.com/planetscale/vitess-types # Protobuf types extracted from Vitess
-https://github.com/planetscale/k8s-demo # A simple demo of Vitess on Kubernetes
-https://github.com/planetscale/django-react-demo #
 https://github.com/planetscale/go-bookings-api # An API written in Go simulating a travel booking agency.
 https://github.com/planetscale/aws-connection-strings-example #
 https://github.com/planetscale/vault-oidc-auth-buildkite-plugin # Authenticate to Hashicorp Vault with Buildkite OIDC (JWT) tokens.
@@ -71,6 +66,11 @@ https://github.com/planetscale/telemetry-buildkite-plugin #
 https://github.com/planetscale/gateslap # Utility for generating traffic for VTGate
 https://github.com/planetscale/docker-login-gcr-buildkite-plugin # Login to Google Cloud Docker registries (GCR + GAR) with the docker-credential-gcr utility
 https://github.com/planetscale/go-logkeycheck # Ensure zap log field names are consistent
+
+https://github.com/vitessio/vitess-operator # DEPRECATED: Vitess Operator provides automation that simplifies the administration of Vitess clusters on Kubernetes.
+https://github.com/vitessio/arewefastyet # Automated Benchmarking System for Vitess
+https://github.com/vitessio/messages # Vitess messages client
+https://github.com/vitessio/vitess-tester #
 
 https://github.com/debezium/debezium-connector-vitess # An incubating Debezium CDC connector for Vitess
 https://github.com/jvaidya/vitess-tools # Vitess Tools
@@ -89,3 +89,6 @@ https://github.com/quizofkings/marco # A service that aggregates Vitess statisti
 https://github.com/conduitio-labs/conduit-connector-vitess # Conduit connector for Vitess
 https://github.com/mattlord/vtmanager # Tool for managing container based Vitess deployments for testing purposes
 https://github.com/phanatic/opa-benchmark # Repository to hold benchmark tests for using Open Policy Agent (OPA) for authorizing Vitess queries.
+
+https://dbdb.io/db/mysql
+https://dbdb.io/db/vitess

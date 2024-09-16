@@ -1,0 +1,178 @@
+https://github.com/aws-solutions-library-samples/guidance-for-building-a-real-time-bidder-for-advertising-on-aws # Assess ad opportunities at scale using real time bidding (RTB)
+https://github.com/aws-ia/cfn-ps-aerospike #
+
+https://github.com/aerospike/aerospike-server # Aerospike Database Server – flash-optimized, in-memory, nosql database
+
+https://github.com/aerospike-examples/geospatial-samples # Aerospike Geospatial Index Sample Applications
+https://github.com/aerospike-examples/aerospike-sample-applications #
+https://github.com/aerospike-examples/interactive-notebooks # A repository for jupyter/zeppelin/etc notebooks.
+https://github.com/aerospike-examples/aerospike-timeseries-demo # Modelling Time-Series Data for Top Performing Stocks in Aerospike using SortedMaps
+https://github.com/aerospike-examples/aerospike-tls-examples # Examples of connecting to Aerospike Server Enterprise with standard TLS or mutual authentication TLS (mTLS)
+https://github.com/aerospike-examples/build-restful-web-service-with-spring-boot # Sample code for blog post @ http://www.aerospike.com/blog/build-restful-web-service-with-spring-boot/
+https://github.com/aerospike-examples/expirable-bin # Managing bins with time-to-live in Aerospike, using user-defined-function
+https://github.com/aerospike-examples/adaptive-map # An adaptive map allows an Aerospike map to span multiple records, transparent to the application.
+https://github.com/aerospike-examples/atomicMultiRecordTxn # Implementing multi-record transactions within Aerospike
+https://github.com/aerospike-examples/async-c-tutorial #
+https://github.com/aerospike-examples/aerospike-operations-examples # Examples of the Aerospike data type APIs
+https://github.com/aerospike-examples/rest-client-usage # Example Usage of Aerospike REST Client
+https://github.com/aerospike-examples/kubernetes-aws # Deploying Aerospike on Amazon EKS
+https://github.com/aerospike-examples/url-shortener-nodejs # A URL Shortener built using Aerospike's Node.js client and Database Server.
+https://github.com/aerospike-examples/spring-boot-example # Example project using spring boot and spring data for aerospike
+https://github.com/aerospike-examples/aerospike-expressions-workshop # Companion code for the Aerospike Summit 2021 "Unleashing the Power of Expressions" workshop
+https://github.com/aerospike-examples/play-scala-java-aerospike-app #
+https://github.com/aerospike-examples/csv-exporter # Dump data meeting specific criteria to CSV output files
+https://github.com/aerospike-examples/spark-aerospike-example # A sample app that makes use of aeroJoin to read records from the aerospike database into a DataSet
+https://github.com/aerospike-examples/aerospike-bloom-filter-example # Distributed bloom filter example for Aerospike
+https://github.com/aerospike-examples/debug-aerospike-client # Implementation of the IAerospikeClient interface which allows debug code and timing metrics
+https://github.com/aerospike-examples/aerospike-modeling # Examples of using Aerospike's complex data types (Map and List) to implement common patterns
+https://github.com/aerospike-examples/hll-python # HyperLogLog sample
+https://github.com/aerospike-examples/aerospike-benchmarks #
+https://github.com/aerospike-examples/spring-session-example # Example project using spring boot and spring-session-aerospike
+https://github.com/aerospike-examples/modeling-user-segmentation # Companion code for Aerospike Modeling: User Profile Store
+https://github.com/aerospike-examples/cachedb-urlshortener # A demo of CacheDB: A URL shortener app with a SQL storage
+https://github.com/aerospike-examples/spring-data-multiple-namespaces-example # Spring Data Aerospike with multiple namespaces example
+https://github.com/aerospike-examples/modeling-iot-sensors # Companion code for Aerospike Modeling: IoT Sensors
+https://github.com/aerospike-examples/simple-springboot-aerospike-cache # Simple example of using Spring Boot cache backed by Aerospike database
+https://github.com/aerospike-examples/aerospike-document-modeling-workshop # Companion code for the Aerospike Summit '20 "Document-Oriented Data Modeling in Aerospike" workshop
+https://github.com/aerospike-examples/spring-data-aerospike-reactive-demo #
+https://github.com/aerospike-examples/rag-demo # A RAG demo using Aerospike Vector Search and OpenAI
+https://github.com/aerospike-examples/retail-demo # An Aerospike demo using Vector Search, Graph, and Key-Value models
+https://github.com/aerospike-examples/cluster-comparator # Quickly and easily compare 2 or more different Aerospike repositories to find either mismatched records, or records which are different.
+https://github.com/aerospike-examples/simple-springboot-aerospike-demo # Simple web application using Java Spring-Boot, Aerospike database and Docker.
+https://github.com/aerospike-examples/fraud-ml-workshop # Workshop: Infrastructure for a Fraud Detection ML Application
+https://github.com/aerospike-examples/sorted-sublists # Implementing sorting in Aerospike
+https://github.com/aerospike-examples/6.0-record-size-checker # Simple python script to help detect records that potentially may be too big when upgrading from servers pre-6.0 to servers 6.0+.
+https://github.com/aerospike-examples/aerospike-kubernetes-local-dev # Files used for local development in kubernetes.
+https://github.com/aerospike-examples/aerospike-csharp-aggregation-x86 #
+https://github.com/aerospike-examples/rest-client-gateway-spa-example # Example app for the rest client gateway.
+https://github.com/aerospike-examples/dynamic-cluster-change #
+https://github.com/aerospike-examples/mqtt-aerospike-example # Example code showing how to make use of Aerospike to store IoT data supplied via MQTT
+https://github.com/aerospike-examples/aerospike-rest-client-auth # Aerospike REST Client authentication and authorization setup
+https://github.com/aerospike-examples/grafana-realtime-stock-ticker-integration-demo # Demo of realtime integration between Aerospike and Grafana with realtime stock ticker data being added and retrieved from Aerospike.
+https://github.com/aerospike-examples/aerospike-spark-example # Example Spark tutorial from Ken Tune
+https://github.com/aerospike-examples/user-events-csharp # User events stored by day
+https://github.com/aerospike-examples/summit-2022-queries # Summit 2022 secondary index presentation
+https://github.com/aerospike-examples/create-a-vector-database #
+https://github.com/aerospike-examples/document-sql-demo # Use aerolab to deploy Aerospike, Trino, and Jupyter together to experiment with a document store.
+https://github.com/aerospike-examples/java-client-interactive # A java client which provides logging of details like call details, record sizes, etc
+https://github.com/aerospike-examples/aerospike-circuit-breaker-java # Demonstrates how the "circuit breaker" design pattern is implemented in Aerospike
+https://github.com/aerospike-examples/database-workloads #
+https://github.com/aerospike-examples/cf-example-application # Cloud Foundry Example Application Using Aerospike Service Broker
+https://github.com/aerospike-examples/aerospike-server.docker.no-root # Build a container image for Aerospike Server where the server process runs under a non-privileged user id.
+https://github.com/aerospike-examples/starburst-aerospike.docker # Starburst Enterprise Trino with the Aeropsike connector Docker Image
+https://github.com/aerospike-examples/usecases #
+https://github.com/aerospike-examples/summit-2022-batch # Summit 2022 batch-anything presentation
+https://github.com/aerospike-examples/terraform-aws-aerospike # Example Terraform module for deploying Aerospike Database on AWS
+https://github.com/aerospike-examples/aerospike-cloud # Code samples for working with Aerospike Cloud
+https://github.com/aerospike-examples/docker-demo # Demonstration of auto-scaling both an app and an an aerospike demo cluster
+https://github.com/aerospike-examples/quota-management-example # This repository shows a simple UI which can manage quotas across an Aerospike cluster
+https://github.com/aerospike-examples/large-queue #
+
+https://github.com/aerospike/aerospike-vector-search-examples # aerospike-vector-search-examples
+https://github.com/aerospike/rag-aerospike # LangChain RAG template for Aerospike
+
+https://github.com/aerospike/avs-client-python # 🚀➡️🔍🐍 Aerospike Vector Search Client for Python
+https://github.com/aerospike/asvec # 🚀 Aerospike Vector Search CLI 🚀
+
+https://github.com/aerospike/aerospike-client-go # Aerospike Client Go
+https://github.com/aerospike/aerospike-client-java # Aerospike Java Client Library
+https://github.com/aerospike/aerospike-client-python # Aerospike Python Client
+https://github.com/aerospike/aerospike-client-nodejs # Node.js client for the Aerospike database
+https://github.com/aerospike/aerospike-client-c # Aerospike C Client
+https://github.com/aerospike/aerospike-client-csharp # Aerospike C# Client Library
+https://github.com/aerospike/aerospike-client-ruby # Ruby client for the Aerospike database
+https://github.com/aerospike/aerospike-client-rust # Rust client for the Aerospike database
+https://github.com/aerospike/aerospike-rest-gateway # REST client for the Aerospike database
+https://github.com/aerospike/aerospike-mod-lua # Lua Interface Module for Aerospike Server and C Client
+https://github.com/aerospike/aerospike-client-java-reactive # Reactive programming interfaces for the Aerospike Java client
+https://github.com/aerospike/php-client # Aerospike Client for PHP 8
+https://github.com/aerospike/aerospike-dev-notebooks.docker # Repo for a docker image with Server, Jupyter, Python client, Tools and Notebooks
+https://github.com/aerospike/avs-client-python # 🚀➡️🔍🐍 Aerospike Vector Search Client for Python
+https://github.com/aerospike/aerospike-client-rest-kubernetes # Aerospike REST client Helm chart for Kubernetes
+https://github.com/aerospike/aerospike-client-c-dependencies # This package contains Windows third-party libraries and header files that are prerequisites for the Aerospike C client build.
+https://github.com/aerospike/avs-client-go # 🚀➡️🔍🐹
+https://github.com/aerospike/aerospike-proxy-client-sdk # Aerospike Proxy Client SDK for building clients
+https://github.com/aerospike/secret-agent-client-c #
+
+https://github.com/aerospike/act # Aerospike Certification Tool
+https://github.com/aerospike/aerospike-server.docker # Dockerfiles for Aerospike Server
+https://github.com/aerospike/aerospike-kubernetes-operator # Kubernetes operator for the Aerospike database
+https://github.com/aerospike/aerospike-kubernetes #
+https://github.com/aerospike/aerospike-loader # Aerospike Data Loader
+https://github.com/aerospike/aerospike-admin # Aerospike Administration tool: allows operations to view vital stats from the aerospike server from the command line.
+https://github.com/aerospike/aerospike-prometheus-exporter # Monitoring suite for the Aerospike DB
+https://github.com/aerospike/aerospike-monitoring #
+https://github.com/aerospike/asmalloc # Aerospike Memory Allocation Tracking Tool
+https://github.com/aerospike/aerospike-tools-backup # Aerospike backup and restore utility
+https://github.com/aerospike/aws-cloudformation # AWS CloudFormation scripts related to Aerospike
+https://github.com/aerospike/gommander # Go library to manage multiple servers over SSH
+https://github.com/aerospike/aerospike-tools.docker # Aerospike Tools Dockerfile
+https://github.com/aerospike/aerolab # Quickly spin up Aerospike clusters on docker or in AWS
+https://github.com/aerospike/aerospike-kubernetes-enterprise #
+https://github.com/aerospike/aerospike-benchmark # A tool to benchmark the Aerospike Database.
+https://github.com/aerospike/aerospike-document-lib # Aerospike Java Document API
+https://github.com/aerospike/aerospike-backup-service # Aerospike Backup Service
+https://github.com/aerospike/backup-go # A go library for backup and restore
+https://github.com/aerospike/aerospike-connect-inbound-sdk # Inbound SDK for custom transforms or other plugins
+https://github.com/aerospike/asmt # Backup & restore shmem indexes.
+https://github.com/aerospike/aerospike-tools-validation #
+https://github.com/aerospike/aerospike-docker-swarm #
+https://github.com/aerospike/aerospike-management-lib # A library to hold aerospike management and operations tasks.
+https://github.com/aerospike/aql # The Aerospike Quick Look data browsing utility.
+https://github.com/aerospike/aerospike-elk # Starting point for using Aerospike with ElasticSearch / LogStash / Kibana for log file analysis.
+https://github.com/aerospike/graph-synth # Graph Synthesis Tool
+https://github.com/aerospike/trino-aerospike.docker # Trino with the Aeropsike connector Docker Image
+https://github.com/aerospike/document-lib-python #
+https://github.com/aerospike/aerospike-telemetry-agent # Aerospike Telemetry Agent: Anonymized Usage Data Collector.
+https://github.com/aerospike/asconfig # A CLI tool for managing Aerospike configuration files.
+https://github.com/aerospike/aerospike-connect-outbound-sdk # An outbound SDK for creating custom transforms for streaming connectors.
+https://github.com/aerospike/helm-charts # Public helm charts for Aerospike
+https://github.com/aerospike/cloud-qualification # Scripts and instructions to run benchmarks/tests on cloud environments.
+https://github.com/aerospike/aerospike-kubernetes-init #
+https://github.com/aerospike/azure-resource-manager #
+https://github.com/aerospike/movement # Parallel Dataflow System
+https://github.com/aerospike/aerospike-kubernetes-operator-ctl # Aerospike kubernetes operator command line tool
+https://github.com/aerospike/aerospike-terraform-aws-eks #
+
+https://github.com/aerospike-community/skyhook # Skyhook is a Redis API compatible gateway to Aerospike Database
+https://github.com/aerospike-community/amc # Aerospike Management Console - a Community driven open source project
+https://github.com/aerospike-community/vault-plugin-database-aerospike # A Vault plugin for Aerospike
+https://github.com/aerospike-community/aerospike-data-browser # Data Browser for AerospikeDB
+https://github.com/aerospike-community/aerospike-ansible # One touch AWS Cluster Setup using Ansible
+https://github.com/aerospike-community/client-lua # Aerospike Lua Client
+https://github.com/aerospike-community/aerospike-hadoop # Aerospike Hadoop Connector
+https://github.com/aerospike-community/spring-data-aerospike-starters # spring-data-aerospike-starters
+https://github.com/aerospike-community/aerospike-graphite # Aerospike monitoring for Graphite - a community driven open source project
+https://github.com/aerospike-community/storm-aerospike # Aerospike's various storm connectors and sample code for using the aerospike database with storm bolt and spouts and other connectors.
+https://github.com/aerospike-community/aerospike-session-store-expressjs # plugin for express.js to use aerospike as session store
+https://github.com/aerospike-community/aerospike-collectd # Aerospike plugin for collectd - a community driven open source project
+https://github.com/aerospike-community/aerospike-nagios # Aerospike Nagios Integration - a community driven open source project
+https://github.com/aerospike-community/aerospike-client-hhvm # Aerospike Client for HHVM
+https://github.com/aerospike-community/docker-laptop # Docker Desktop replacement for Mac. Runs amd64 and arm64 images
+https://github.com/aerospike-community/spring-data-aerospike-demo # Demonstration of spring-data-aerospike setup and usage in Spring Boot applications.
+https://github.com/aerospike-community/msgpack # MessagePack for C/C++
+https://github.com/aerospike-community/aerospike-python-rest # Python interface to the Aerospike REST Client.
+https://github.com/aerospike-community/aerospike-linqpad-driver # Aerospike LinqPad Driver
+https://github.com/aerospike-community/aerospike-django-plugin # Plugin to integrate with django
+https://github.com/aerospike-community/aerospike-client-java-extensions # Aerospike Java Client Extensions including reactor interface
+https://github.com/aerospike-community/eclipse-tools # Aerospike Eclipse plugins
+https://github.com/aerospike-community/aerospike-zabbix # Aerospike monitoring plug-in for Zabbix - a community driven open source project
+https://github.com/aerospike-community/aerospike-wireshark-plugin # Wireshark plugin to interpret aerospike wire protocol
+https://github.com/aerospike-community/spring-session-aerospike # Spring session backed by Aerospike database cluster.
+https://github.com/aerospike-community/aerospike-play-plugins # Play plugin to use Aerospike as a cache or a session store
+https://github.com/aerospike-community/aerospike-time-series-client # Aerospike Time Series Client
+https://github.com/aerospike-community/aerospike-newrelic # Aerospike plugin for New Relic - a community driven open source project
+https://github.com/aerospike-community/aerospike-lua-aggregations # A lua library for performing most standard aggregations in UDFs in the Aerospike Database
+https://github.com/aerospike-community/aerospike-act-terraform # Automated Aerospike Certification Tool (ACT) testing on AWS and GCP.
+https://github.com/aerospike-community/aerospike-client-rest-php # Generated REST API stubs for PHP
+https://github.com/aerospike-community/tinkerbench # TinkerPop benchmark
+https://github.com/aerospike-community/aerospike-graph-tools # Helpful tooling and scripts for Aerospike Graph
+https://github.com/aerospike-community/safegaming #
+https://github.com/aerospike-community/spring-data-aerospike-starters-demo # Spring Boot Demo application for spring-data-aerospike-starters
+https://github.com/aerospike-community/aerospike-shiro-session # Example enterprise session store using Apache Shiro
+https://github.com/aerospike-community/aerospark #
+https://github.com/aerospike-community/aerospike-perseus # Aerospike proof of technology
+
+https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings.
+
+https://dbdb.io/db/aerospike

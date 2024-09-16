@@ -8,14 +8,6 @@ https://hadoopecosystemtable.github.io # Hadoop ecosystem
 
 https://dbdb.io # database pokedex
 
-Postgres & Citus
-
-Cassandra
-
-DynamoDB & Aerospike & Spanner & CockroachDB & YugabyteDB & TiDB
-
-Redis
-
 --
 Debezium
 https://github.com/redhat-scholars/debezium-tutorial
