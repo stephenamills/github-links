@@ -1,0 +1,20 @@
+https://github.com/aws-actions/configure-aws-credentials # Configure AWS credential environment variables for use in other GitHub Actions.
+https://github.com/aws-actions/amazon-ecr-login # Logs into Amazon ECR with the local Docker client.
+https://github.com/aws-actions/amazon-ecs-deploy-task-definition # Registers an Amazon ECS task definition and deploys it to an ECS service.
+https://github.com/aws-actions/aws-codebuild-run-build # Run an AWS CodeBuild project as a step in a GitHub Actions workflow job.
+https://github.com/aws-actions/amazon-ecs-render-task-definition # Inserts a container image URI into an Amazon ECS task definition JSON file.
+https://github.com/aws-actions/aws-cloudformation-github-deploy # Deploys AWS CloudFormation Stacks
+https://github.com/aws-actions/setup-sam # Action to set up AWS SAM CLI and add it to the PATH
+https://github.com/aws-actions/aws-secretsmanager-get-secrets #
+https://github.com/aws-actions/codeguru-reviewer #
+https://github.com/aws-actions/amazon-eks-fargate # Creates an EKS on Fargate cluster
+https://github.com/aws-actions/vulnerability-scan-github-action-for-amazon-inspector # Scan artifacts with Amazon Inspector from GitHub Actions workflows.
+https://github.com/aws-actions/sustainability-scanner # Runs AWS Sustainability Scanner against infrastructure-as-code.
+https://github.com/aws-actions/closed-issue-message # Github Action to set a default message to be commented on all issues when they get closed.
+https://github.com/aws-actions/codeguru-security #
+https://github.com/aws-actions/stale-issue-cleanup # Clean up stale issues in your repository with GitHub Actions!
+https://github.com/aws-actions/cloudformation-aws-iam-policy-validator # Policy Validator for AWS IAM Policies in CloudFormation templates
+https://github.com/aws-actions/aws-devicefarm-browser-testing # Automates Browser Testing on AWS Device Farm
+https://github.com/aws-actions/terraform-aws-iam-policy-validator # Policy Validator for AWS IAM Policies in Terraform templates
+https://github.com/aws-actions/aws-devicefarm-mobile-device-testing # Run automated Mobile Device Testing on AWS Device Farm
+https://github.com/aws-actions/action-cloudwatch-metrics # [Unmaintained] Github Action to publish metrics to AWS CloudWatch

@@ -1,3 +1,143 @@
+https://github.com/aws-cloudformation/aws-cloudformation-templates # A collection of useful CloudFormation templates
+https://github.com/aws-cloudformation/cfn-lint # CloudFormation Linter
+https://github.com/aws-cloudformation/cloudformation-guard # Validate CloudFormation Templates, K8s configurations, and Terraform plans.
+https://github.com/aws-cloudformation/cloudformation-coverage-roadmap # The AWS CloudFormation Public Coverage Roadmap
+https://github.com/aws-cloudformation/rain # A development workflow tool for working with AWS CloudFormation.
+https://github.com/aws-cloudformation/awesome-cloudformation # A curated list of resources and projects for working with AWS CloudFormation.
+https://github.com/aws-cloudformation/custom-resource-helper # Simplify best practice Custom Resource creation, sending responses to CloudFormation and providing exception, timeout trapping, and detailed configurable logging.
+https://github.com/aws-cloudformation/cloudformation-cli # The CloudFormation Provider Development Toolkit allows you to author your own resource providers and modules that can be used by CloudFormation.
+https://github.com/aws-cloudformation/cfn-lint-visual-studio-code # CloudFormation Linter IDE integration, autocompletion, and documentation
+https://github.com/aws-cloudformation/cfn-language-discussion # Language discussions for CloudFormation template language
+https://github.com/aws-cloudformation/cloudformation-template-schema # Inline syntax validation, documentation links and autocompletion for your CloudFormation templates.
+https://github.com/aws-cloudformation/aws-cloudformation-samples #
+https://github.com/aws-cloudformation/cloudformation-cli-python-plugin # The CloudFormation Provider Development Toolkit Python Plugin allows you to autogenerate Python code based on an input schema.
+https://github.com/aws-cloudformation/aws-guard-rules-registry # Rules Registry for Compliance Frameworks
+https://github.com/aws-cloudformation/cloudformation-resource-schema # Schema for resources provisioned by CloudFormation. It is used by provider developers using the CloudFormation RPDK.
+https://github.com/aws-cloudformation/community-registry-extensions #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-awsutilities-commandrunner #
+https://github.com/aws-cloudformation/cloudformation-cli-go-plugin # The CloudFormation Provider Development Toolkit Go Plugin allows you to autogenerate Go code based on an input schema.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-cloudformation # The CloudFormation Resource Provider Package For AWS CloudFormation
+https://github.com/aws-cloudformation/resource-providers-list # Index page for AWS CloudFormation resource provider repos
+https://github.com/aws-cloudformation/cloudformation-cli-typescript-plugin # The CloudFormation Provider Development Toolkit Node.js Plugin allows you to autogenerate TypeScript code based on an input schema.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-logs # The CloudFormation Resource Provider Package For Amazon CloudWatch Logs
+https://github.com/aws-cloudformation/cloudformation-cli-java-plugin # The CloudFormation Provider Development Toolkit Java Plugin allows you to autogenerate java code based on an input schema.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-codeartifact # The CloudFormation Resource Provider Package for the AWS CodeArtifact service
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-rds # The CloudFormation Resource Provider Package For Amazon Relational Database Service
+https://github.com/aws-cloudformation/cfn-lint-atom # Provides IDE specific integration to cfn-lint
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ssm # The CloudFormation Resource Provider Package For AWS Systems Manager
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ses # The CloudFormation Resource Provider Package For Amazon Simple Email Service
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-sns # The CloudFormation Resource Provider Package For Amazon Simple Notification Service (Amazon SNS).
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-kms # CloudFormation Resource Provider Package For Amazon Key Management Service (Amazon KMS).
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ecr # The CloudFormation Resource Provider Package For Amazon ECR
+https://github.com/aws-cloudformation/cloudformation-pkl #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-imagebuilder # The CloudFormation Resource Provider Package For EC2 Image Builder
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-accessanalyzer # The CloudFormation Resource Provider Package For AWS IAM Access Analyzer
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-codeguru-profiler # The CloudFormation Resource Provider Package For Amazon CodeGuru.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-transitgateway # The CloudFormation Resource Provider Package For AWS Transit Gateway
+https://github.com/aws-cloudformation/resource-schema-guard-rail # The CloudFormation Resource Schema Guard Rail allows you to evaluate resource schema compliance against CloudFormation enforced best practices
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-rds-proxy # The CloudFormation Resource Provider Package For Amazon RDS Proxy
+https://github.com/aws-cloudformation/iac-model-evaluation #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-stepfunctions # The CloudFormation Resource Provider Package For AWS Step Functions
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-organizations # The CloudFormation Resource Provider Package For AWS Organizations
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-sso #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-cost-explorer # CloudFormation Resource Provider Package for AWS Cost Explorer
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-kendra # AWS Kendra CloudFormation Resource Providers
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-cur #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-connect # The CloudFormation Resource Provider package for Amazon Connect
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-mwaa # Amazon Managed Workflows for Apache Airflow provider type for AWS CloudFormation
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-glue # The CloudFormation Resource Provider Package For AWS Glue
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-devops-guru #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-networkfirewall #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-rolesanywhere #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-acmpca # CloudFormation Resource Provider for the Amazon Certificate Manager Private Certificate Authority (ACM-PCA) Service.
+https://github.com/aws-cloudformation/cloudformation-cli-java-plugin-testing-support # Testing Framework to autogenerate java code based on an input schema.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-flowlog # The CloudFormation Resource Provider Package For VPC Flow Logs Service
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-codegurureviewer #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-athena # The CloudFormation Resource Provider Package For Amazon Athena
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-auditmanager # The CloudFormation resource provider package for AWS Audit Manager
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-wafv2 # The CloudFormation Resource Provider Package For Amazon WAF v2.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-redshift # The CloudFormation Resource Provider Package For Amazon Redshift
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-aps # AWS CloudFormation resource provider for AWS Managed Service for Prometheus
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-vpc-lattice # The CloudFormation Resource Provider Package For AWS VPC Lattice
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-lightsail #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-applicationinsights #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-lookoutvision # The CloudFormation Resource Provider Package for Amazon Lookout for Vision
+https://github.com/aws-cloudformation/cloudformation-cli-hooks-extension # This CloudFormation CLI extension library provides more commands for managing and configuring your Resource Hooks.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-lgw #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-msk-serverless #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-customer-profiles #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-sagemaker #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-synthetics # Cloudformation resources for Cloudwatch Synthetics
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-timestream #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-nimblestudio #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-kafkaconnect # The CloudFormation Resource Provider Package For Amazon MSK Connect
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-kinesisfirehose # The CloudFormation Resource Provider Package For Amazon Kinesis Data Firehose
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotwireless #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-licensemanager #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-databrew #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-budgets #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-globalaccelerator #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-b2bi #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-amplify # The CloudFormation Resource Provider Package For AWS Amplify Console
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotfleetindexing #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-opsworkscm # The CloudFormation Resource Provider Package For AWS OpsWorks CM
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-device-advisor # https://docs.aws.amazon.com/iot/latest/developerguide/device-advisor.html
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-resource-explorer # The CloudFormation Resource Provider Package For AWS Resource Explorer
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-frauddetector #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-route53resolver-outpostresolver #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-events # The CloudFormation Resource Provider Package For Amazon CloudWatch Events
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-macie #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-acmcerts #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-rekognition # AWS Rekognition
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-memorydb # The CloudFormation Resource Provider Package For Amazon MemoryDB Service
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotfleethub # CloudFormation Resource Types for the AWS IoT Fleet Hub service
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-transfer # The CloudFormation Resource Provider Package For AWS Transfer Family
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-resiliencehub #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-controltower # The CloudFormation Resource Provider package for AWS Control Tower
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-servicecatalog # The CloudFormation Resource Provider Package For AWS Service Catalog
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ssm-incidents #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-eventschemas #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-cagw #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-shield # AWS Shield CloudFormation Resource Provider
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-panorama # AWS Panorama is a machine learning Appliance and Software Development Kit (SDK) that allows organizations to bring computer vision (CV) to on-premises cameras to make predictions locally with high accuracy and low latency.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-route53-recovery-control #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-emrcontainers # AWS CloudFormation Resource Provider Package For EMR Containers (Amazon EMR on EKS)
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-fsx # The CloudFormation Resource Provider Package For Amazon FSx
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-batch # The CloudFormation Resource Provider Package For AWS Batch.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-capacity-reservation #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-apprunner # The CloudFormation Resource Provider Package For Amazon App Runner.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-docdbelastic #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-prefix-list # CloudFormation for Managed Prefix List Service.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-nat-gateway # The CloudFormation Resource Provider Package For VPC NAT Gateway
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-route53-recovery-readiness #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iot # The CloudFormation Resource Provider Package For AWS IoT
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-fms # The CloudFormation Resource Provider Package For Amazon Firewall Manager
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-datasync # The CloudFormation Resource Provider package for AWS DataSync
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ses-mailmanager # AWS SES MailManager CloudFormation Resources
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-omics #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-emrwal # cfn resource provider package for AWS EMRWAL
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-comprehend #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-amplifyuibuilder #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-opensearchserverless #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-entity-resolution # The CloudFormation Resource Provider Package For AWS Entity Resolution
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-redshift-serverless # The CloudFormation Resource Provider Package For Amazon Redshift Serverless
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-capacity-reservation-fleet # AWS EC2 Capacity Reservation Fleet CloudFormation open source repo
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-voiceid #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-xray #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-s3outposts #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-networkmanager # The CloudFormation Resource Provider Package For Amazon Network Manager
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-identitystore # The AWS IdentityStore helps you securely create or connect your workforce identities and manage their access centrally across AWS accounts and applications.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-greengrassv2 #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-provider-qbusiness # Cloudformation resource schemas and handlers for the resources of Amazon Q for Business.
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-emrserverless # AWS CloudFormation Resource Provider Package For EMR Serverless
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-msk-replicator #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-datazone #
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotanalytics # The CloudFormation Resource Provider Package For AWS IoT Analytics
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-cleanrooms # The CloudFormation Resource Provider Package For AWS Clean Rooms
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ram # The CloudFormation Resource Provider Package For AWS Resource Access Manager
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-m2 # CloudFormation Resource Providers for Mainframe Modernization
+https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-kendra-ranking #
+
 https://github.com/aws-solutions-library-samples/tag-based-cloudwatch-dashboard # Tag based CloudWatch dashboard uses CDK and resource groups tagging API to automatically produce CloudFormation
 templates for CloudWatch dashboard.
 https://github.com/aws-solutions-library-samples/guidance-for-predictive-maintenance-with-amazon-monitron # This Guidance helps you generate actionable insights for predictive maintenance manage

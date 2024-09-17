@@ -1,6 +1,3 @@
-Railway
-
---
 Network Discovery
 https://github.com/nskelsey/aaalm # creates a pretty decent network diagram using packet captures
 
@@ -44,7 +41,7 @@ https://github.com/kaycbas/rocket # Pocket
 https://github.com/fractaledmind/hottable # AirTable
 https://github.com/chriscavs/mead # Medium (React)
 https://github.com/lifeiscontent/realworld # Medium (React)
-https://github.com/steveninouye/iBuy # Ebay (React)
+https://github.com/steveninouye/ibuy # Ebay (React)
 https://github.com/rustam-tolipov/instagram-clone-rails # Instagram
 https://github.com/truongnmt/instagram-clone # Instagram
 https://github.com/ghoshnirmalya/linkedin-clone-rails-backend # LinkedIn
@@ -69,10 +66,6 @@ Bug Bounty
 
 SEO
 https://github.com/traefik/seo-doc # Processes the documentation folder from traefik/doc and iterate each HTML file adding the requirements for better SEO
-
-CodeQL
-
-Salesforce
 
 Upwork
 
@@ -225,6 +218,52 @@ https://github.com/learn-co-curriculum/phase-3-sql-table-relations-associating-t
 https://github.com/learn-co-curriculum/sql-table-relations-associating-tables-with-foreign-keys #
 https://github.com/learn-co-curriculum/python-p4v3-many-many-relationships #
 https://github.com/learn-co-curriculum/python-p4v3-one-many-relationships #
+
+https://github.com/dry-rb/dry-monitor # Monitoring and instrumentation APIs
+
+Career
+https://github.com/learn-co-curriculum/linkedin-for-research-and-networking
+
+https://github.com/learn-co-curriculum/post-graduate-roadmap
+https://github.com/learn-co-curriculum/ios-careers-interviewing-apps-you-built
+
+https://github.com/producthired/open-product-management
+
+Wix
+https://github.com/wix/wix-appointments-subscriptions-nextjs-template #
+https://github.com/wix/wix-cms-nextjs-template #
+https://github.com/wix/wix-commerce-ticketing-nextjs-template #
+https://github.com/wix/wix-classes-subscriptions-nextjs-template #
+https://github.com/wix/velo-external-db #
+https://github.com/wix/wix-headless-example # Demonstrate basic/naive usage of Wix Headless APIs
+https://github.com/wix/cli-app-templates #
+https://github.com/wix/app-template-custom-shipping-rates #
+https://github.com/wix/wix-demo-nextjs-template #
+
+https://github.com/velo-by-wix/portfolio-workshop # Workshop for building a dynamic portfolio with Velo by Wix
+https://github.com/velo-by-wix/todo-workshop # A workshop for learning Velo by Wix
+https://github.com/velo-by-wix/twilio-challenge # Challenge to integrate Twilio into your Velo by Wix site by creating a Text Message Trivia app
+https://github.com/velo-by-wix/adopt-a-bird # A website created by Velo by Wix for adopting birds
+https://github.com/velo-by-wix/bootcamp-pilot #
+https://github.com/velo-by-wix/tic-tac-velo # Challenge for creating a game with Velo
+https://github.com/velo-by-wix/velo-sync #
+
+https://github.com/wix-incubator/wix-code-docs # Wix Code Reference Documentation - docworks jsons
+https://github.com/wix-incubator/sample-wix-rest-app #
+https://github.com/wix-incubator/corvid-external-db-mysql-adapter # Corvid by Wix Example: External Database Collection Adapter
+https://github.com/wix-incubator/corvid-stackdriver-telemetry-adapter #
+https://github.com/wix-incubator/wix-developers-example-apps #
+https://github.com/wix-incubator/tpa-demo-app-react-jsx # Wix app - React JSX Demo Widget
+https://github.com/wix-incubator/wix-code-mls # Wix Code MLS integration using the RETS protocol
+https://github.com/wix-incubator/london-hackathon-vine-app # Example Wix App for Workshop: Building a Wix App
+https://github.com/wix-incubator/corvid-examples # Corvid examples
+https://github.com/wix-incubator/react-velo # React Velo
+https://github.com/wix-incubator/corvid-external-db-firestore-adapter # Corvid by Wix Example: External Database Collection Firestore Adapter
+https://github.com/wix-incubator/tpa-demo-app-jquery # Wix app - jQuery Demo Widget
+https://github.com/wix-incubator/wix-rest-docs # Wix REST API Reference Documentation - jsondoc jsons
+https://github.com/wix-incubator/bookings-list-sample-application #
+https://github.com/wix-incubator/business-buddy-example-app # An example Wix App built with Wix CLI for Apps
+https://github.com/wix-incubator/wix-app-tutorial #
 
 Rails
 https://github.com/christianotieno/scheduled-tweets
@@ -405,76 +444,9 @@ https://github.com/ankane/production_rails # by Andrew Kane
 https://github.com/ankane/secure_rails # by Andrew Kane
 https://www.ruby-toolbox.com # best Ruby gems
 
-Sinatra
-https://github.com/sinatra/sinatra
-
-https://github.com/learn-co-curriculum/sinatra-from-scratch-readme
-https://github.com/learn-co-curriculum/phase-3-intro-to-sinatra
-https://github.com/learn-co-curriculum/sinatra-routes-readme
-https://github.com/learn-co-curriculum/sinatra-dynamic-routes-codealong
-https://github.com/learn-co-curriculum/phrg-sinatra-dynamic-routes-codealong #
-https://github.com/learn-co-curriculum/sinatra-restful-routes-readme
-https://github.com/learn-co-curriculum/sinatra-params-readme
-https://github.com/learn-co-curriculum/sinatra-multiple-controllers
-https://github.com/learn-co-curriculum/sinatra-view-and-controller-readme-walkthrough
-
-https://github.com/learn-co-curriculum/phase-3-active-record-migrations
-https://github.com/learn-co-curriculum/phase-3-active-record-intro-to-rake
-https://github.com/learn-co-curriculum/sinatra-activerecord-setup
-https://github.com/learn-co-curriculum/sinatra-activerecord-reading
-https://github.com/learn-co-curriculum/sinatra-password-security # Active Record has_secure_password
-https://github.com/learn-co-curriculum/sinatra-activerecord-associations # primary and foreign key, has many, belongs to
-https://github.com/learn-co-curriculum/sinatra-activerecord-associations-join-tables # join table
-https://github.com/learn-co-curriculum/mechanics-of-migrations # migrations
-https://github.com/learn-co-curriculum/sinatra-activerecord-reading
-https://github.com/learn-co-curriculum/phase-3-dynamic-orms-readme
-https://github.com/learn-co-curriculum/dynamic-orm-inheritance
-https://github.com/learn-co-curriculum/sinatra-integrating-models-walkthrough
-
-https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme
-https://github.com/learn-co-curriculum/sinatra-user-auth
-https://github.com/learn-co-curriculum/sinatra-cookies-readme
-
-https://github.com/learn-co-curriculum/sinatra-views
-https://github.com/learn-co-curriculum/sinatra-nested-forms-readme
-https://github.com/learn-co-curriculum/phase-3-building-sinatra-applications
-https://github.com/learn-co-curriculum/sinatra-forms-params-readme-walkthrough
-https://github.com/learn-co-curriculum/sinatra-complex-forms-associations
-https://github.com/learn-co-curriculum/sinatra-basics
-https://github.com/learn-co-curriculum/sinatra-shotgun-server
-https://github.com/learn-co-curriculum/sinatra-activerecord-using-tux
-https://github.com/learn-co-curriculum/intro-to-capybara
-https://github.com/learn-co-curriculum/sinatra-tic-tac-toe # game
-https://github.com/learn-co-curriculum/sinatra-mvc-file-structure-readme
-https://github.com/learn-co-curriculum/sinatra-classic-file-structure-readme
-
 Rack
-https://github.com/rack/rack # A Ruby web server interface
-https://github.com/cyu/rack-cors
-https://github.com/rack/rack-attack
-
-https://github.com/learn-co-curriculum/rack-intro
-https://github.com/learn-co-curriculum/phase-3-web-server-fundamentals-with-rack
-https://github.com/learn-co-curriculum/rack-todo # intro
-https://github.com/learn-co-curriculum/middleware-tutorial
-https://github.com/learn-co-curriculum/rack-dynamic-web-apps
-https://github.com/learn-co-curriculum/rack-http-request-readme
-https://github.com/learn-co-curriculum/rack-dynamic-paths-readme
-https://github.com/learn-co-curriculum/rack-headers-readme
-https://github.com/learn-co-curriculum/rack-status-codes-readme
-https://github.com/learn-co-curriculum/react-hooks-auth-session # Rack CORS
-https://github.com/learn-co-curriculum/connecting-react-app-to-rails-api # Rack CORS
-https://github.com/learn-co-curriculum/rails-5-json-api # Rack CORS
-https://github.com/learn-co-curriculum/separating-client-and-api-services # Rack CORS
-https://github.com/learn-co-curriculum/phase-4-cors # Rack CORS intro
-
-https://github.com/puma/puma # A Ruby/Rack web server built for parallelism
-https://github.com/wardencommunity/warden # General Rack Authentication Framework
-https://github.com/bettererrors/better_errors # Better error page for Rack apps
-https://github.com/omniauth/omniauth # OmniAuth is a flexible authentication system utilizing Rack middleware.
 https://github.com/gonzalo-bulnes/dredd-rack # The Dredd API blueprint testing tool for your Rack applications.
 https://github.com/square/rails-auth # Modular resource-based authentication and authorization for Rails/Rack
-https://github.com/rack/rack-attack # Rack middleware for blocking & throttling
 https://github.com/rack/rack-test # Rack::Test is a small, simple testing API for Rack apps.
 https://github.com/redis-store/redis-store # Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks
 https://github.com/miniprofiler/rack-mini-profiler # Profiler for your development and production Ruby rack apps.
@@ -536,48 +508,3 @@ https://github.com/envato/rack-ecg # Health check page as Rack middleware
 https://github.com/rack/rackup #
 https://github.com/qonto/idempotent-request # Rack middleware ensuring at most once requests for mutating endpoints.
 https://github.com/jamesarosen/casrack_the_authenticator # CAS + Rack == happy authentication for the Corporate World
-https://github.com/dry-rb/dry-monitor # Monitoring and instrumentation APIs
-
-Career
-https://github.com/learn-co-curriculum/linkedin-for-research-and-networking
-
-https://github.com/learn-co-curriculum/post-graduate-roadmap
-https://github.com/learn-co-curriculum/ios-careers-interviewing-apps-you-built
-
-https://github.com/producthired/open-product-management
-
-Wix
-https://github.com/wix/wix-appointments-subscriptions-nextjs-template #
-https://github.com/wix/wix-cms-nextjs-template #
-https://github.com/wix/wix-commerce-ticketing-nextjs-template #
-https://github.com/wix/wix-classes-subscriptions-nextjs-template #
-https://github.com/wix/velo-external-db #
-https://github.com/wix/wix-headless-example # Demonstrate basic/naive usage of Wix Headless APIs
-https://github.com/wix/cli-app-templates #
-https://github.com/wix/app-template-custom-shipping-rates #
-https://github.com/wix/wix-demo-nextjs-template #
-
-https://github.com/velo-by-wix/portfolio-workshop # Workshop for building a dynamic portfolio with Velo by Wix
-https://github.com/velo-by-wix/todo-workshop # A workshop for learning Velo by Wix
-https://github.com/velo-by-wix/twilio-challenge # Challenge to integrate Twilio into your Velo by Wix site by creating a Text Message Trivia app
-https://github.com/velo-by-wix/adopt-a-bird # A website created by Velo by Wix for adopting birds
-https://github.com/velo-by-wix/bootcamp-pilot #
-https://github.com/velo-by-wix/tic-tac-velo # Challenge for creating a game with Velo
-https://github.com/velo-by-wix/velo-sync #
-
-https://github.com/wix-incubator/wix-code-docs # Wix Code Reference Documentation - docworks jsons
-https://github.com/wix-incubator/sample-wix-rest-app #
-https://github.com/wix-incubator/corvid-external-db-mysql-adapter # Corvid by Wix Example: External Database Collection Adapter
-https://github.com/wix-incubator/corvid-stackdriver-telemetry-adapter #
-https://github.com/wix-incubator/wix-developers-example-apps #
-https://github.com/wix-incubator/tpa-demo-app-react-jsx # Wix app - React JSX Demo Widget
-https://github.com/wix-incubator/wix-code-mls # Wix Code MLS integration using the RETS protocol
-https://github.com/wix-incubator/london-hackathon-vine-app # Example Wix App for Workshop: Building a Wix App
-https://github.com/wix-incubator/corvid-examples # Corvid examples
-https://github.com/wix-incubator/react-velo # React Velo
-https://github.com/wix-incubator/corvid-external-db-firestore-adapter # Corvid by Wix Example: External Database Collection Firestore Adapter
-https://github.com/wix-incubator/tpa-demo-app-jquery # Wix app - jQuery Demo Widget
-https://github.com/wix-incubator/wix-rest-docs # Wix REST API Reference Documentation - jsondoc jsons
-https://github.com/wix-incubator/bookings-list-sample-application #
-https://github.com/wix-incubator/business-buddy-example-app # An example Wix App built with Wix CLI for Apps
-https://github.com/wix-incubator/wix-app-tutorial #

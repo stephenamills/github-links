@@ -1,0 +1,165 @@
+https://github.com/equinix/metal-cli # Official Equinix Metal CLI
+
+https://github.com/equinix-labs/metal-iot # An IoT showcase for the power of bare metal compute and Sprint Curiosity 5G Network
+https://github.com/equinix-labs/rook-on-bare-metal-workshop # Workshop illustrating Rook (Ceph support for Kubernetes) on Equinix Metal
+https://github.com/equinix-labs/bgp-anycast-workshop # Workshop teaching basics of BGP HA, Terraform automation, and IPv6.
+https://github.com/equinix-labs/securingbaremetal # Best Practices for Securing Services on Bare Metal
+https://github.com/equinix-labs/metal-k3s-management-plane # Learn how to deploy k3s on Equinix Metal with real-time backup to S3 compatible storage
+https://github.com/equinix-labs/talos-on-equinix-metal # Talos Linux on Equinix Metal, via Kubernetes Cluster API
+https://github.com/equinix-labs/api-training # Basic Equinix Metal API Training with Terraform
+https://github.com/equinix-labs/terraform-on-equinix-workshop #
+https://github.com/equinix-labs/intro-to-metal-workshop #
+https://github.com/equinix-labs/metal-github-actions-workshop # Workshop demonstrating use of the Equinix Metal Project, Device, and Sweeper actions for Github Actions workflows
+https://github.com/equinix-labs/github-runner-on-equinix-metal-workshop #
+https://github.com/equinix-labs/forte # Deploy the Free5GC 5G package on Equinix Network Edge
+https://github.com/equinix-labs/pulumi-equinix-fabric-cloud-router-multicloud-workshop #
+https://github.com/equinix-labs/kubernetes-addons-on-equinix-metal-workshop # Kubernetes Addons on Equinix Metal Workshop
+https://github.com/equinix-labs/eks-anywhere-on-equinix-metal-workshop #
+https://github.com/equinix-labs/kubernetes-on-equinix-metal-workshop # Kubernetes on Equinix Metal Workshop
+https://github.com/equinix-labs/pulumi-equinix-fabric-cloud-router-workshop # 
+https://github.com/equinix-labs/multi-cloud-networking #
+https://github.com/equinix-labs/equinix-metal-load-balancer-cpem-capp-workshop #
+
+https://github.com/equinix/docker-machine-driver-metal # Equinix Metal bare metal cl driver for Docker Machine
+https://github.com/equinix/smartkey-kubernetes-kms # SmartKey's Kubernetes KMS plugin
+https://github.com/equinix/doorman # Pain-Free VPN for Equinix Metal
+https://github.com/equinix/pulumi-equinix # An Equinix Pulumi resource package, providing multi-language access to Equinix
+https://github.com/equinix/rest-go # Equinix REST client library in Go
+https://github.com/equinix/smartkey-kubernetes-webhook # An alpha webhook that mutates Kubernetes secrets to encrypt its content using an encryption key from SmartKey.
+https://github.com/equinix/messaging-gateway-templates # Equinix Messaging Gateway Templates to help Jump Start Integration Efforts
+https://github.com/equinix/ne-go # Network Edge client library in Go
+https://github.com/equinix/network-edge-sample # ⛔️ DEPRECATED Equinix Network Edge Repository
+https://github.com/equinix/equinix-sdk-go # Golang client for Equinix APIs
+https://github.com/equinix/oauth2-go # Implementation of Equinix oAuth2 flows in Go
+https://github.com/equinix/ecxfabric-sample # ⛔️ DEPRECATED Equinix Cloud Exchange Fabric Sample Code
+https://github.com/equinix/metal-global-ip # Project to show how to use Global IPs on Equinix Metal
+https://github.com/equinix/lbaas-api-docs # Equinix LBaaS API Documentation
+https://github.com/equinix/deprapi # Find Helm releases using deprecated APIs
+https://github.com/equinix/ibx-smartview-sample # ⛔️ DEPRECATED Equinix IBX Smartview Sample Code
+https://github.com/equinix/api-catalog-organizer # Helps to create catalogs based on tags
+https://github.com/equinix/cloud-interconnection-benchmarking # cloud interconnection benchmarking
+https://github.com/equinix/ui-driver-metal # Rancher 2 UI driver for Equinix Metal
+https://github.com/equinix/homebrew-tap # Homebrew Formulae to @equinix binaries
+https://github.com/equinix/equinix-sdk-python # Python client for Equinix APIs
+https://github.com/equinix/ecp-sample # ⛔️ DEPRECATED Equinix Customer Portal APIs
+https://github.com/equinix/equinix-cloudevents # Equinix published CloudEvents Types
+https://github.com/equinix/ansible-collection-equinix # Ansible content to help automate the management of Equinix resources
+
+https://github.com/equinixmetal-helm/krakend # A helm chart to deploy krakend using the assumptions from the infratographer project
+https://github.com/equinixmetal-helm/k8s-spire #
+https://github.com/equinixmetal-helm/audito-maldito # A helm chart to deploy audito-maldito
+https://github.com/equinixmetal-helm/sigstack # a helm chart combining all the stuffs needed to deploy sigstore
+https://github.com/equinixmetal-helm/k8s-otel-collector # A repo holding the Kubernetes deployment manifests for otel-collector
+https://github.com/equinixmetal-helm/charts #
+https://github.com/equinixmetal-helm/k8s-jetstack-secure # Helm scaffolding for jetstack-secure
+https://github.com/equinixmetal-helm/influxdb_exporter # Helm chart to deploy the influxdb_exporter
+https://github.com/equinixmetal-helm/peering-manager # A helm chart to deploy peering-manager onto Kubernetes
+https://github.com/equinixmetal-helm/audit-log-verifier-exporter # helm chart for verifying audit.log is being written to
+https://github.com/equinixmetal-helm/governor # a repo holding the Kubernetes deployment manifests for the governor ecosystem
+https://github.com/equinixmetal-helm/hollow-metadataservice # A helm chart deploying the metadata service
+https://github.com/equinixmetal-helm/cockroachdb # A helm chart to span a cockroachdb instance across k8s clusters
+
+https://github.com/equinix/terraform-provider-equinix # Terraform Equinix provider
+https://github.com/equinix/terraform-equinix-metal-anthos-on-baremetal # Terraform module for quick deployment of baremetal Anthos on Equinix Metal
+https://github.com/equinix/terraform-equinix-metal-multiarch-k8s # ARM and x86 Kubernetes Clusters and Node Pool management for Equinix Metal
+https://github.com/equinix/terraform-equinix-metal-openstack # OpenStack Cloud on Equinix Metal
+https://github.com/equinix/terraform-equinix-metal-openshift-on-baremetal # OpenShift 4.9 Installer for Equinix Metal
+https://github.com/equinix/terraform-equinix-metal-distributed-minio # Terraform module to deploy MinIO distributed across Equinix Metal devices
+https://github.com/equinix/terraform-equinix-metal-platform9-k8s # Platform9 Managed Kubernetes Free Tier on Equinix Metal
+https://github.com/equinix/terraform-equinix-csr1000v # Terraform module for quick deployment of Cisco CSR1000V router on Equinix Platform
+https://github.com/equinix/terraform-equinix-silverpeak-sdwan # Terraform module for quick deployment of Silver Peak Unity EdgeConnect SD-WAN edge device
+https://github.com/equinix/terraform-equinix-pa-vm # Terraform module for quick deployment of Palo Alto Networks VM series firewall device
+https://github.com/equinix/terraform-equinix-metal-ibm-satellite-on-baremetal # Terraform module for quick deployment of IBM Satellite on Equinix Metal
+https://github.com/equinix/terraform-equinix-metal-ecs-anywhere # Run on Equinix Metal your ECS tasks
+https://github.com/equinix/terraform-equinix-versa-flexvnf # Terraform module for quick deployment of VERSA Networks FlexVNF SD-WAN edge device
+https://github.com/equinix/terraform-equinix-fortigate # Terraform module for quick deployment of Fortinet FortiGate firewall device
+https://github.com/equinix/terraform-equinix-vsrx-sdwan # Terraform module for quick deployment of Juniper vSRX SD-WAN edge device on Equinix Platform
+https://github.com/equinix/terraform-equinix-cloudguard # Terraform module for quick deployment of Check Point CloudGuard firewall device
+https://github.com/equinix/terraform-equinix-fabric-aws # Terraform module for easy setup of AWS Direct Connect with Equinix Fabric
+https://github.com/equinix/terraform-equinix-csr-sdwan # Terraform module for quick deployment of Cisco CSR SD-WAN edge device
+https://github.com/equinix/terraform-equinix-vmware-sdwan # Terraform module for quick deployment of VMWare VeloCloud SD-WAN edge device
+https://github.com/equinix/terraform-equinix-vsrx # Terraform module for quick deployment of Juniper vSRX Virtual Firewall on Equinix Platform
+https://github.com/equinix/terraform-equinix-fortigate-sdwan # Terraform module for quick deployment of Fortinet FortiGate SD-WAN edge device
+https://github.com/equinix/terraform-equinix-cloudgenix-sdwan # Terraform module for quick deployment of GloudGenix SD-WAN edge device
+https://github.com/equinix/terraform-equinix-fabric-multicloud-sample #
+https://github.com/equinix/terraform-equinix-fabric # Terraform Equinix Fabric Modules
+https://github.com/equinix/terraform-equinix-network-edge # Terraform Equinix Network Edge Modules
+https://github.com/equinix/terraform-hc-vcd-equinix-sample # Terraform Sample codes to create a vApp within Equinix Hybrid Cloud
+
+https://github.com/equinix-labs/terraform-metal-kubernetes-bgp # Kubernetes on Equinix Metal using Calico and MetalLB
+https://github.com/equinix-labs/terraform-equinix-metal-k3s # Manage K3s (k3s.io) region clusters on Equinix Metal
+https://github.com/equinix-labs/terraform-metal-vyos-router # Create an Edge Router on Equinix Metal
+https://github.com/equinix-labs/terraform-equinix-metal-vcf # This project will help get a VMWare VCF management domain up and running quickly on Equinix Metal
+https://github.com/equinix-labs/terraform-equinix-metal-eks-anywhere # EKS Anywhere on Equinix Metal (Baremetal)
+https://github.com/equinix-labs/terraform-equinix-kubernetes-addons # Collection of Terraform modules to configure and manage Kubernetes clusters on Equinix Metal servers
+https://github.com/equinix-labs/terraform-equinix-metal-kvm-edge # Deploy an instance at Equinix Metal to run edge network services like a router, firewall or other NFV
+https://github.com/equinix-labs/terraform-equinix-metal-nutanix-cluster # Nutanix Cluster on Equinix Metal
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-aws # Terraform module to create a Fabric L2 Connection to AWS Direct Connect
+https://github.com/equinix-labs/terraform-equinix-template # Template module for Equinix and Equinix Metal providers
+https://github.com/equinix-labs/terraform-equinix-kubernetes-cluster # Kubernetes cluster deployment on Equinix Metal
+https://github.com/equinix-labs/terraform-equinix-metal-vrf # Terraform script for setting up Equinix Metal Virtual Routing and Forwarding (VRF)
+https://github.com/equinix-labs/terraform-equinix-metal-hybrid-gateway # Terraform module for a Hybrid-Bonded public gateway node in front of private Layer2 nodes
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-azure # Terraform module to create a Fabric L2 Connection to Azure ExpressRoute
+https://github.com/equinix-labs/terraform-equinix-network-edge-nginx #
+https://github.com/equinix-labs/terraform-equinix-labs # Terraform Equinix Labs v0
+https://github.com/equinix-labs/terraform-openstack-kubernetes # Deploy Kubernetes on OpenStack
+https://github.com/equinix-labs/terraform-metal-kata # Minikube-Lab-Environments
+https://github.com/equinix-labs/terraform-equinix-github-runner # Terraform Module for deploying a self-hosted Github runner
+https://github.com/equinix-labs/terraform-equinix-fabric-connection # Terraform module to create an Equinix Fabric L2 Connection
+https://github.com/equinix-labs/terraform-equinix-aviatrix-edge # Terraform module for quick deployment of Aviatrix Edge on Equinix Platform
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-metal # Terraform module to set up a single or redundant Metal shared connection from an Equinix Fabric port / Network Edge device
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-ibm # Terraform module to create a Fabric L2 Connection to IBM Cloud Direct Link
+https://github.com/equinix-labs/connext2021_terraform_demo # Demo deployment of Microsoft ExpressRoute via Equinix Fabric using Terraform
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-oci # Terraform module to create a Fabric L2 Connection to Oracle Cloud Infrastructure FastConnect
+https://github.com/equinix-labs/terraform-equinix-fabric-connection-gcp # Terraform module to create a Fabric L2 Connection to Google Cloud Interconnect
+https://github.com/equinix-labs/terraform-equinix-metal-fcr-aws-privatelink-s3 #
+
+https://github.com/equinix-labs/pulumi-equinix-kubernetes-cluster # Pulumi & Terraform modules for deploying Kubernetes with kubeadm and cloud-init
+https://github.com/equinix-labs/pulumi-equinix-fabric-cloud-router-gcp #
+
+https://github.com/equinixmetal-images/changelog # Changelog for Equinix Metal operating system images.
+
+https://github.com/equinix-labs/otel-cli # OpenTelemetry command-line tool for sending events from shell scripts & similar environments
+https://github.com/equinix-labs/equinix-labs # Standards for experimental and labs projects by Equinix teams.
+https://github.com/equinix-labs/metal-project-action # Github Action for creating Equinix Metal Projects
+https://github.com/equinix-labs/fabric-java # Experimental Fabric SDK for Java generated from OpenAPI Spec
+https://github.com/equinix-labs/not_ipmi_to_metal # Definitely not an IPMI to Metal proxy
+https://github.com/equinix-labs/otel-init-go # an OpenTelemetry launcher for Go aiming to be minimal
+https://github.com/equinix-labs/offduty # Program recurrent PagerDuty overrides based on day of week/time
+https://github.com/equinix-labs/metal-python # Generated Python SDK for Equinix Metal
+https://github.com/equinix-labs/metal-device-action # Github Action for creating an Equinix Metal device
+https://github.com/equinix-labs/rust-otel-tools # Some reusable otel code for Equinix rust applications
+https://github.com/equinix-labs/metal-java # Experimental OpenAPI Generated Java SDK for Equinix Metal
+https://github.com/equinix-labs/metal-sweeper-action # Experimental Github Action for deleting Equinix Metal Projects
+https://github.com/equinix-labs/homebrew-otel-cli # homebrew formula for otel-cli
+https://github.com/equinix-labs/fabric-go # [Deprecated] Fabric Go Client that enables Equinix Customer consume Fabric APIs using Equinix Terraform Provider
+https://github.com/equinix-labs/nutanix-on-equinix-metal-workshop # Walk through creating a Nutanix cluster on Equinix Metal with our Terraform module.
+https://github.com/equinix-labs/directiv-workflow-equinix-integration # Direktiv on Equinix Metal integration repository
+https://github.com/equinix-labs/metal-runner-action #
+https://github.com/equinix-labs/super-linter-workflow # A Reusable Workflow of the Super-Linter GitHub Action
+https://github.com/equinix-labs/equinix-labs-workshop # Template for Equinix Labs Workshops
+https://github.com/equinix-labs/bird-helper-scripts # A couple of helpful startup scripts for enabling bgp with BIRD on equinix metal
+
+https://github.com/packethost/packet-python # A Python client for the Equinix Metal API
+https://github.com/packethost/network-helpers # A collection of network helper scripts for Equinix Metal.
+https://github.com/packethost/packet-block-storage # Packet Block Storage utilities
+https://github.com/packethost/packet-rb # A Ruby client for the Packet API
+https://github.com/packethost/packet-nodejs # A nodejs client for the Packet API
+https://github.com/packethost/vagrant-packet # A Vagrant provider plugin for Packet.net
+https://github.com/packethost/prometheus-packet-sd # Prometheus service discovery for Equinix Metal.
+https://github.com/packethost/pkg # Common functionality/helpers for our go services
+https://github.com/packethost/packet-php # A PHP client for the Packet API
+https://github.com/packethost/packet-java # Deprecated Java client for the Packet API. See equinix-labs/metal-java
+https://github.com/packethost/userdata-rb # Ruby library for parsing and validating CloudInit userdata
+https://github.com/packethost/metabot # Retrieve Equinix Metal metadata.
+https://github.com/packethost/packet-networking # Tool used by OSIE to configure various operating systems networking
+https://github.com/packethost/healthcheck-rb # A library for reporting on the health of ruby apps
+https://github.com/packethost/gardener-on-em # Guides for Gardener on Equinix Metal
+https://github.com/packethost/packet-hardware # This is a tool which is used within OSIE to audit hardware components to keep track of components that may need updating or components that may be missing.
+https://github.com/packethost/metal-block-storage # Equinix Metal block storage
+https://github.com/packethost/pktables # Create iptables chain based on the networks and devices in a Packet project
+https://github.com/packethost/grpc-protos # Common place for protobuf files
+https://github.com/packethost/metal-logo # Logos and branding assets for Equinix Metal.
+https://github.com/packethost/packet-api-server # Partial Equinix Metal mock API Server for CI testing
+https://github.com/packethost/discover-metal #
+https://github.com/packethost/vault-plugin-secrets-packet # Vault Secrets Engine plugin for Packet

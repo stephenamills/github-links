@@ -9,19 +9,6 @@ https://hadoopecosystemtable.github.io # Hadoop ecosystem
 https://dbdb.io # database pokedex
 
 --
-Debezium
-https://github.com/redhat-scholars/debezium-tutorial
-
-Kafka
-https://github.com/redhat-scholars/debezium-tutorial
-https://github.com/redhat-scholars/cloud-native-business-automation
-
-Elasticsearch
-
-Clickhouse
-
-GraphQL
-
 Hasura
 
 Hadoop
@@ -29,35 +16,7 @@ https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-mapreduce
 https://github.com/learn-co-curriculum/dsc-hadoop-mapreduce-recap
 https://github.com/learn-co-curriculum/dc-ds-071519
 
-Data Build Tool
-
-BigQuery
-
-Snowflake
-
-Redshift
-
-Firebase
-
 --
-Visual Studio Code Chat
-https://github.com/lukvonstrom/copilot-verification # Chat extension - verifies Python code or creates tests using preconditions and postconditions
-https://github.com/phoevos/vscode-extension-verifier # verifies Python code or creates tests using preconditions and postconditions
-https://github.com/scottholden/copilotchatextensions # three examples
-https://github.com/jonlester/vscode-copilot-dev
-https://github.com/flaviodelgrosso/wikipedia-participant # Wikipedia
-https://github.com/harrybin/vscode-copilot-extension # GitHub issue
-https://github.com/microsoft/vscode-extension-samples/ # official example
-https://github.com/nksleiman/vscode-extension
-
-https://github.com/microsoft/mastering-github-copilot-for-paired-programming
-https://github.com/skills/copilot-codespaces-vscode
-https://github.com/xnul/codestral-mamba-for-vscode # Mistral Codestral
-https://github.com/continuedev/continue
-https://github.com/xnul/code-llama-for-vscode
-https://github.com/hieunc229/copilot-clone
-https://github.com/rubberduck-ai/rubberduck-vscode
-
 Confluence
 
 Sharepoint
@@ -65,8 +24,6 @@ Sharepoint
 Serp API
 
 Bing API
-
-Colab
 
 Kubernetes
 https://github.com/cncf/llm-starter-pack # Run a language model in Kubernetes (in Docker)

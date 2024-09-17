@@ -1,0 +1,101 @@
+https://github.com/railwayapp/cli # Railway CLI
+
+https://github.com/railwayapp-templates/postgres-s3-backups # A simple Node app to automatically backup PostgreSQL databases to an S3 bucket
+https://github.com/railwayapp-templates/strapi # Deploy Strapi on Railway. Next-gen headless CMS.
+https://github.com/railwayapp-templates/django # 1-Click Django on Railway
+https://github.com/railwayapp-templates/ghost # A self-hosted version of Ghost with a MySQL database.
+https://github.com/railwayapp-templates/fastapi #
+https://github.com/railwayapp-templates/nextjs-prisma #
+https://github.com/railwayapp-templates/laravel #
+https://github.com/railwayapp-templates/discordjs #
+https://github.com/railwayapp-templates/flask #
+https://github.com/railwayapp-templates/expressjs-prisma #
+https://github.com/railwayapp-templates/vaultwarden # Deploy Vaultwarden on Railway. Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients.
+https://github.com/railwayapp-templates/browserless # Deploy Browserless on Railway. Web browser automation built for everyone, and loved by developers.
+https://github.com/railwayapp-templates/fastify-bullmq # A template repository to deploy a robust queueing system on Railway using BullMQ and Redis.
+https://github.com/railwayapp-templates/postgres-ssl #
+https://github.com/railwayapp-templates/nextjs-auth-mongo #
+https://github.com/railwayapp-templates/ruby-rails #
+https://github.com/railwayapp-templates/discordpy-bot #
+https://github.com/railwayapp-templates/plausible # One-click template for self-hosting Plausible on Railway!
+https://github.com/railwayapp-templates/expressjs-mongoose #
+https://github.com/railwayapp-templates/hasura # Deploy Hasura on Railway. Get instant GraphQL & REST APIs on new & existing data sources.
+https://github.com/railwayapp-templates/listmonk # Deploy Listmonk on Railway. Send e-mail campaigns from a powerful dashboard.
+https://github.com/railwayapp-templates/next-prisma-trpc #
+https://github.com/railwayapp-templates/nuxtjs #
+https://github.com/railwayapp-templates/node-cron # An example repo for deploying a cron service on Railway using JavaScript
+https://github.com/railwayapp-templates/rocket #
+https://github.com/railwayapp-templates/timescale-postgis-ssl # TimescaleDB + PostGIS images with SSL baked in.
+https://github.com/railwayapp-templates/expressjs-postgres #
+https://github.com/railwayapp-templates/soketi # Deploy Soketi on Railway. Simple, fast, and resilient open-source websockets server.
+https://github.com/railwayapp-templates/fiber #
+https://github.com/railwayapp-templates/sqlite # Simple to use SQLite3 Railway template
+https://github.com/railwayapp-templates/node-express # A starter template that gets you up and running with Node, Yarn, and Morgan.
+https://github.com/railwayapp-templates/minio-console #
+https://github.com/railwayapp-templates/opentelemetry-collector-stack # OpenTelemetry collector
+https://github.com/railwayapp-templates/gin #
+https://github.com/railwayapp-templates/caddy-reverse-proxy #
+https://github.com/railwayapp-templates/svelte-kit #
+https://github.com/railwayapp-templates/django-rest-framework #
+https://github.com/railwayapp-templates/discordgo #
+https://github.com/railwayapp-templates/http-nodejs #
+https://github.com/railwayapp-templates/deno # A simple web server built with Deno.
+https://github.com/railwayapp-templates/rust-starter # One-click starter template for Rust.
+https://github.com/railwayapp-templates/vue-starter # Get started developing with Vue and TypeScript today!
+https://github.com/railwayapp-templates/temporal # One-click template for getting self-hosted Temporal up and running
+https://github.com/railwayapp-templates/rust-wasm #
+https://github.com/railwayapp-templates/kotlin-spring #
+https://github.com/railwayapp-templates/nginx # A simple example deploying a static site on Railway using NGINX
+https://github.com/railwayapp-templates/postgres-plugin-migration #
+https://github.com/railwayapp-templates/starlette #
+https://github.com/railwayapp-templates/shynet # One-click Shynet analytics template for self-hosted website analytics and data visualization.
+https://github.com/railwayapp-templates/go-mux # A Gorilla Mux Template to help you get up and running!
+https://github.com/railwayapp-templates/hiveMQ # One-click template to deploy HiveMQ, a high-performance and low-latency message queue solution.
+https://github.com/railwayapp-templates/nsq # NSQ template to set up a lightweight and fast message queue system.
+https://github.com/railwayapp-templates/monorepo-example #
+https://github.com/railwayapp-templates/openvscode # Deploy openvscode-server on Railway.
+https://github.com/railwayapp-templates/angular-starter # One-click default Angular TS starter, utilizing Caddy to serve!
+https://github.com/railwayapp-templates/nocodb # One click deploy for NocoDB
+https://github.com/railwayapp-templates/rabbitmq # One click deployment of a reference RabbitMQ deployment
+https://github.com/railwayapp-templates/chatwoot #
+https://github.com/railwayapp-templates/expressjs # An ExpressJS server written in TypeScript.
+https://github.com/railwayapp-templates/fastify #
+https://github.com/railwayapp-templates/odoo #
+https://github.com/railwayapp-templates/deno-for-testing # A small Deno webserver.
+https://github.com/railwayapp-templates/pg-migrate-ha # Migrate data from Standalone Postgres to a High Availability cluster.
+https://github.com/railwayapp-templates/datadog-agent #
+https://github.com/railwayapp-templates/mongo-replica-set # One click deploy a Mongo Replica Set in Railway
+https://github.com/railwayapp-templates/hapi #
+https://github.com/railwayapp-templates/expressjs-passport-starter # A modular Nodejs + Expressjs starter template with Passportjs baked in!
+https://github.com/railwayapp-templates/mongo-plugin-migration #
+https://github.com/railwayapp-templates/openblocks # One-click template for self-hosting Openblocks, a flexible app-build platform.
+https://github.com/railwayapp-templates/mariaDB # One click MariaDB + Adminer template to quickly set up and configure a MySQL-based database.
+https://github.com/railwayapp-templates/redis-plugin-migration #
+https://github.com/railwayapp-templates/redis-ha-sentinel # Redis replica set with Sentinel
+https://github.com/railwayapp-templates/graphman-plus-server # One click deployment of a GraphQL API collection generator service using Graphman and Flask.
+https://github.com/railwayapp-templates/shiny # A R/Shiny template for Railway
+https://github.com/railwayapp-templates/couchdb #
+https://github.com/railwayapp-templates/datadog-agent-railway-starter # A DataDog Agent plus Node App
+https://github.com/railwayapp-templates/mysql-cluster #
+https://github.com/railwayapp-templates/discord-eris #
+https://github.com/railwayapp-templates/microsoft-sql-server #
+https://github.com/railwayapp-templates/init-mongo-ha #
+https://github.com/railwayapp-templates/mysql-plugin-migration #
+https://github.com/railwayapp-templates/ruby-sinatra # Lightweight Ruby Sinatra server
+https://github.com/railwayapp-templates/nextjs-basic # The barebones NextJS app
+https://github.com/railwayapp-templates/elasticsearch #
+https://github.com/railwayapp-templates/deno-main #
+https://github.com/railwayapp-templates/phoenix #
+
+https://github.com/railwayapp/nixpacks # App source + Nix packages + Docker = Image
+https://github.com/railwayapp/templates # Railway starters
+https://github.com/railwayapp/docs # Railway documentation
+https://github.com/railwayapp/awesome-railway # A curated list of awesome things related to Railway
+https://github.com/railwayapp/blog #
+https://github.com/railwayapp/devicons # I'm feeling lucky developer icons
+https://github.com/railwayapp/railway-builder # Experimental buildpacks.io Builder for Railway
+https://github.com/railwayapp/scoop-railway # Scoop bucket for Railway Windows CLI installation
+https://github.com/railwayapp/station-prometheus #
+https://github.com/railwayapp/node-config # Buildpack to supply configuration for NodeJS builds
+https://github.com/railwayapp/station-docs-exporter # Monitor the readability of Railway's documentation over time
+https://github.com/railwayapp/ahmed-deno #

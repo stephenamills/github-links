@@ -1,3 +1,237 @@
+https://github.com/cloudinary-training/cld-intro-nodejs # Introduction to Cloudinary Using Node
+https://github.com/cloudinary-training/cld-cli-intro # Introduction to the Cloudinary's CLI
+https://github.com/cloudinary-training/jamstack-explorer-video-abr # Backend and Frontend code to implement Adaptive Bitrate Streaming for Video
+https://github.com/cloudinary-training/cld-intro-react-sdk-training-tool # Cloudinary React SDK Playground - training tool for use in the Cloudinary Academy course: Introduction to Cloudinary using the React SDK
+https://github.com/cloudinary-training/cld-advanced-concepts # Advanced Concepts for Developers
+https://github.com/cloudinary-training/student-id # Application to create a virtual student ID badge
+https://github.com/cloudinary-training/cust-training-2022 # Code to accompany developer training in 2022
+https://github.com/cloudinary-training/cld-ugc # Using Cloudinary’s Incoming Transformations for Perfectly Crafted User-Generated Content
+https://github.com/cloudinary-training/cld-intro-python # Introduction to Cloudinary for API Users and Python Developers
+https://github.com/cloudinary-training/cld-named-transformations # Training repository for our Named Transformations tutorial video! Check out more courses we offer at https://training.cloudinary.com/
+https://github.com/cloudinary-training/cld-upload-programmatically-node-tutorial # Supplemental code for video documentation
+https://github.com/cloudinary-training/cld-upload-presets # Upload Presets Demo Repo for Training and Tutorial Video
+https://github.com/cloudinary-training/cld-bd-upload-media # Upload media for Product Gallery example
+https://github.com/cloudinary-training/cld-intro-ios-sdk # This repository is used in conjunction with the Cloudinary Academy training course, Introduction to Cloudinary's iOS SDK.
+https://github.com/cloudinary-training/pe-ai-vilt # Partner Enablement AI VILT March 2024
+https://github.com/cloudinary-training/cld-gen-ai #
+https://github.com/cloudinary-training/cloudinary-training.github.io # Cloudinary training repos
+https://github.com/cloudinary-training/api-url # Compare and Contrast APIs and URLs
+https://github.com/cloudinary-training/cld-nodejs-express-upload-with-gallery # Upload an image with a node.js express server and add it to an image gallery on a static web page
+https://github.com/cloudinary-training/cld-intro-android-sdk # This repository is used in conjunction with the Cloudinary Academy training course, Introduction to Cloudinary's Android SDK.
+https://github.com/cloudinary-training/cloudinary-nextjs-portfolio # An integration between Cloudinary and Vercel using Next.js
+https://github.com/cloudinary-training/cld-video-transformations # Cloudinary Academy microcourse on applying transformations and optimizations to your video assets.
+https://github.com/cloudinary-training/cld-fundamentals-for-developers # Source code for Fundamentals for Developers Course
+https://github.com/cloudinary-training/cld-nextjs-video # Compare video player with video element
+https://github.com/cloudinary-training/cld-bd-product-gallery # Cloudinary Partner Training Product Gallery
+https://github.com/cloudinary-training/video-tools # Tools that help with hosting video
+https://github.com/cloudinary-training/next-transformations # Front-end url-gen used to create image and video transformations
+https://github.com/cloudinary-training/cld-periodic-table # Organizing Cloudinary transformations in a periodic table - click on element to get to documentation
+https://github.com/cloudinary-training/cld-jumpstart # Cloudinary Jumpstart - basics of how to get started as a Cloudinary developer
+https://github.com/cloudinary-training/cld-intro-ruby # Source code for the Cloudinary Academy's "Introduction to Cloudinary for Ruby Developers" course.
+https://github.com/cloudinary-training/badge # Create a badge page when you supply "badge" querystring enter badge
+https://github.com/cloudinary-training/cld-product-gallery-widget-react # Using the Cloudinary Product Gallery Widget in a React component
+https://github.com/cloudinary-training/cld-cropping-intro # This microcourse dives into the diverse world of automatic cropping with Cloudinary.
+https://github.com/cloudinary-training/angular-starter # starter repo for angular
+https://github.com/cloudinary-training/cld-java-replit # A repo to test using repl.it with Java
+https://github.com/cloudinary-training/cld-php-migration # Migrating from PHP SDK1 to SDK2: instructions and code samples
+https://github.com/cloudinary-training/cld-intro-java # Intro to Cloudinary Using Java
+https://github.com/cloudinary-training/cld-product-gallery-nextjs # Integrate Cloudinary Product Gallery into a Next.js application using typescript
+https://github.com/cloudinary-training/pm-video-frames # Visualize video frames
+https://github.com/cloudinary-training/cld-serverless-remote-function # Use this remote function API in your signed Cloudinary URL to add a custom transformation.
+https://github.com/cloudinary-training/cld-webhooks # Training for creating webhooks to be used with Upload API
+https://github.com/cloudinary-training/podcasts # Demonstrate creation of assets to support HLS and the configuration of the Cld Video Player in jQuery Fancybox
+https://github.com/cloudinary-training/cld-intro-php # Introduction to Cloudinary using PHP SDK 2
+https://github.com/cloudinary-training/cld-bd-partner-training # Basic Set Up for Partner Trainings
+
+https://github.com/cloudinary-devs/training-vuejs # Code used for training video
+https://github.com/cloudinary-devs/cld-signed-upload-examples #
+https://github.com/cloudinary-devs/vue-camera-training # a training app that uses the device camera, uploads to Cloudinary and renders a gallery using Product Gallery Widget
+https://github.com/cloudinary-devs/cloudinary-face-rekognition #
+https://github.com/cloudinary-devs/cloudybadge # CloudyBadge project
+https://github.com/cloudinary-devs/react-photo-album #
+https://github.com/cloudinary-devs/chunked-client-side-upload-react # Created with CodeSandbox
+https://github.com/cloudinary-devs/python_product_recommendations # Implement product recommendations on your e-commerce app using Python and Cloudinary’s AI auto-tagging capabilities.
+https://github.com/cloudinary-devs/cloudydesktop #
+https://github.com/cloudinary-devs/php-sdk-quickstart # Quick start for PHP
+https://github.com/cloudinary-devs/cloudinary-fashionistaai # Upload an image of an outfit, and FashionistaAI will generate four distinct styles based on that image: Business Casual, Sporty, Streetwear, and Elegant.
+https://github.com/cloudinary-devs/cld-js-sdk-docs-examples # Examples from the docs of using js-url-gen for transforming images and videos.
+https://github.com/cloudinary-devs/cld-react-plugins # Created with CodeSandbox
+https://github.com/cloudinary-devs/webperf-network-api #
+https://github.com/cloudinary-devs/react-image-video-transformations #
+https://github.com/cloudinary-devs/cld-form-unsigned-upload # An example showing how to use an unsigned upload preset to upload multiple files to Cloudinary using a form.
+https://github.com/cloudinary-devs/cloudinary-event-gallery # Revolutionizing event experiences
+https://github.com/cloudinary-devs/cld-node-sdk-quick-start # Shows the finished result of the Node.js SDK Quick Start instructions provided in the Cloudinary documentation.
+https://github.com/cloudinary-devs/build-a-mini-netflix-clone-with-vue #
+https://github.com/cloudinary-devs/cloudinary-template-readme # Use this template by clicking on the green button above "Use this template".
+https://github.com/cloudinary-devs/vue-photo-album #
+https://github.com/cloudinary-devs/react-dropshadow # Example of using background removal and drop shadow in a react app
+https://github.com/cloudinary-devs/cloudinary-chatbot-openai-demo # Chatbot using OpenAI APIs and SDK.
+https://github.com/cloudinary-devs/abbey-road-hackathon-guide #
+https://github.com/cloudinary-devs/cloudinary-react-template # Speed up your process of integrating Cloudinary in with this React repo that has the core things you need to start development using the power of Cloudinary
+https://github.com/cloudinary-devs/cld-js-plugins # Created with CodeSandbox
+https://github.com/cloudinary-devs/cld-angular-plugins # Created with CodeSandbox
+https://github.com/cloudinary-devs/cloudinary-react-image-to-blog-ai # Decoding Visuals: GenAI and OpenAI in Action: Discover how GenAI technology can describe image content
+https://github.com/cloudinary-devs/cloudinary-angular-template # Speed up your process of integrating Cloudinary in with this Angular repo that has the core things you need to start development using the power of Cloudinary
+https://github.com/cloudinary-devs/video-orientation-switch-cropping-demo # Automatic video cropping to automatically switch to a full screen video when the orientation changes between landscape and portrait.
+https://github.com/cloudinary-devs/my-django-app # Use Cloudinary helper methods to upload, transform, and display images in your Django app.
+https://github.com/cloudinary-devs/guess-transformation-junctionx-vienna #
+https://github.com/cloudinary-devs/cld-vue-sdk-quick-start # Quick start example for the Cloudinary Vue 3 SDK.
+https://github.com/cloudinary-devs/color-accessibility # Code for the color accessibility Dev Hints video
+https://github.com/cloudinary-devs/cld-angular-docs-examples #
+https://github.com/cloudinary-devs/dimensions-demo-site # Dimensions Product - Demo Website
+https://github.com/cloudinary-devs/sxsw-2018-hackathon-guide #
+https://github.com/cloudinary-devs/simplemde-markdown-editor #
+https://github.com/cloudinary-devs/guess-the-transformation # Cloudinary Guess the Transformation Challenge
+https://github.com/cloudinary-devs/unstack-meetup-guide # Repo for uStack Nigeria Meetup/Conference Guide
+https://github.com/cloudinary-devs/go-sdk-quickstart-video-examples #
+https://github.com/cloudinary-devs/video-previews-video-player # Display a short video preview on hover and open the full video in a video player on click.
+https://github.com/cloudinary-devs/personalizing-images-with-ai-powered-features # This app simulates handling UGC automatically in your website or app.
+https://github.com/cloudinary-devs/cloudinary-repo-guidelines-wip- #
+https://github.com/cloudinary-devs/developer-camp-2017-hackathon-guide #
+https://github.com/cloudinary-devs/video-producer #
+https://github.com/cloudinary-devs/discover-cmg-music-lab #
+https://github.com/cloudinary-devs/java-sdk-quickstart # Java quick start repository
+https://github.com/cloudinary-devs/slideshow-generator # Generate a slideshow from images with the same tag in Cloudinary.
+https://github.com/cloudinary-devs/python-sdk-quickstart # Shows the finished result of the Python SDK Quick Start instructions provided in the Cloudinary documentation.
+https://github.com/cloudinary-devs/watson-visual-recognition-lab #
+https://github.com/cloudinary-devs/ar-vr-360-vr-video-for-beginners #
+https://github.com/cloudinary-devs/cld-react-sdk-quick-start # Quick start example for the Cloudinary React SDK.
+https://github.com/cloudinary-devs/go-sdk-quickstart # Shows the finished result of the Go SDK Quick Start instructions provided in the Cloudinary documentation.
+https://github.com/cloudinary-devs/color-accessibility-upload # Example of accessibility analysis on upload
+https://github.com/cloudinary-devs/.github #
+https://github.com/cloudinary-devs/cld-docs-react-plugins # Examples of using plugins for displaying images with the Cloudinary React SDK
+https://github.com/cloudinary-devs/cloudinary-video-player-interactive-videos # A React app demonstrating how to use the interactive videos functionality of the Cloudinary Video Player.
+https://github.com/cloudinary-devs/cloudy-recipe #
+https://github.com/cloudinary-devs/doc-home-node-app #
+https://github.com/cloudinary-devs/python-resize-images # Learn how to reduce the size of your images using several cropping methods from Cloudinary's Python SDK
+https://github.com/cloudinary-devs/cloudinary-video-player-react # A React app showing how to render a basic Cloudinary Video Player component.
+https://github.com/cloudinary-devs/learning #
+https://github.com/cloudinary-devs/gitbook-template #
+https://github.com/cloudinary-devs/cloudinary-gif2video-player #
+https://github.com/cloudinary-devs/celebrity-recognition-ios-app #
+https://github.com/cloudinary-devs/ftp2cld # FTP (or other sources) Sync API for Cloudinary
+https://github.com/cloudinary-devs/cld-angular-sdk-docs-examples # Examples from the Cloudinary Angular SDK docs.
+https://github.com/cloudinary-devs/simulated-live-streaming-demo # Created with CodeSandbox
+https://github.com/cloudinary-devs/python-video-editing #
+https://github.com/cloudinary-devs/cld-video-quickstart # Shows the finished result of the Video Quick Start instructions provided in the Cloudinary documentation.
+https://github.com/cloudinary-devs/sxsw-hackathon #
+https://github.com/cloudinary-devs/canadian-music-week-hackathon-guide- #
+https://github.com/cloudinary-devs/a-modern-java-pet-store-an-introduction-to-kubernetes-istio #
+https://github.com/cloudinary-devs/guess-transformation-toronto # Guess the transformation challenge: SmashingConf Toronto 2019
+https://github.com/cloudinary-devs/guess-transformation-jscamp-barcelona #
+https://github.com/cloudinary-devs/cld_video_concatenator #
+https://github.com/cloudinary-devs/dotnet-sdk-quickstart # Shows the finished result of the .NET SDK Quick Start instructions provided in the Cloudinary documentation.
+https://github.com/cloudinary-devs/create-collage # This demo allows you to drag and drop images to create collages with different layouts.
+https://github.com/cloudinary-devs/angular-photo-album #
+https://github.com/cloudinary-devs/react-quick-start # Interactive tutorial to learn how to use the Cloudinary React SDK for delivering and transforming images and videos
+https://github.com/cloudinary-devs/hackapi #
+https://github.com/cloudinary-devs/cookbook #
+https://github.com/cloudinary-devs/gitbook-plugin-cloudinary-video #
+https://github.com/cloudinary-devs/discover-cmg-music #
+https://github.com/cloudinary-devs/cld-vue-sdk-docs-examples # Vue examples for the Cloudinary Vue SDK docs.
+https://github.com/cloudinary-devs/image-preprocessing # Jupyter notebook that shows you how to configure Cloudinary and upload transformed images to your product environment.
+https://github.com/cloudinary-devs/javascript-photo-album #
+https://github.com/cloudinary-devs/upload-widget-vue #
+https://github.com/cloudinary-devs/ai-enhancements #
+https://github.com/cloudinary-devs/electric-sheep #
+https://github.com/cloudinary-devs/hackference-2018 #
+https://github.com/cloudinary-devs/vue-mini-netflix-demo-client #
+https://github.com/cloudinary-devs/optimize-media-for-fast-page-loading #
+https://github.com/cloudinary-devs/cil-hackathon-guide #
+https://github.com/cloudinary-devs/ruby-sdk-quickstart # Shows the finished result of the Ruby SDK Quick Start instructions provided in the Cloudinary documentation.
+https://github.com/cloudinary-devs/cld_node_quickstart # Example Node.js script used in the Cloudinary docs.
+https://github.com/cloudinary-devs/drop-shadow-animation # An example node script for creating an animated image with moving shadow
+https://github.com/cloudinary-devs/cld-docs-assets # Assets for Cloudinary docs.
+https://github.com/cloudinary-devs/cloudinary-video-player-ads # Demonstrates how to show ads using the Cloudinary Video Player.
+https://github.com/cloudinary-devs/style-transfer-contest #
+https://github.com/cloudinary-devs/hack-midwest-hackathon #
+https://github.com/cloudinary-devs/msw-hackathon-guide #
+https://github.com/cloudinary-devs/cld-vue-plugins # Vue app to demonstrate the Cloudinary Vue plugins for the AdvancedImage component
+https://github.com/cloudinary-devs/computer-vision-demo # Upload some files and Cloudinary will tell you about them.
+https://github.com/cloudinary-devs/vue-video-studio # Video creation features in a Vue.js application
+https://github.com/cloudinary-devs/generate-upload-signature # Node.js example of generating an upload signature
+https://github.com/cloudinary-devs/cloudycam #
+https://github.com/cloudinary-devs/web-listener-blueprint-aws # A secured and optimized Cloudinary web listener in few clicks
+https://github.com/cloudinary-devs/cld-javascript-sdk-docs-quickstart # Quickstart example from the Cloudinary JavaScript SDK docs.
+https://github.com/cloudinary-devs/cloudinary-video-player-angular # An Angular app showing how to render a basic Cloudinary Video Player component.
+https://github.com/cloudinary-devs/react-chunked-upload # An example showing how to use chunked POST requests to upload a large file to Cloudinary from the client side.
+https://github.com/cloudinary-devs/cld-angular-sdk-quickstart #
+https://github.com/cloudinary-devs/python-cloudinary-video-upload # Upload a short and long video to Cloudinary.
+https://github.com/cloudinary-devs/music-tech-2017-hackathon-guide #
+https://github.com/cloudinary-devs/wallifornia-musictech-hackathon #
+https://github.com/cloudinary-devs/guess-transformation-jamstack-london #
+https://github.com/cloudinary-devs/cld-go-sdk-quickstart # Glitch app
+https://github.com/cloudinary-devs/flutter_quick_start # Quick start example from the Cloudinary Flutter SDK docs.
+https://github.com/cloudinary-devs/extend-shared #
+https://github.com/cloudinary-devs/vue-mini-netflix-demo-server #
+https://github.com/cloudinary-devs/gridsome-8base #
+https://github.com/cloudinary-devs/guess-transformation-reactlive-amsterdam #
+https://github.com/cloudinary-devs/guess-transformation-fullstackfest-barcelona #
+https://github.com/cloudinary-devs/cld-angular-sdk-docs-quickstart # Created with CodeSandbox
+https://github.com/cloudinary-devs/upload-minisite # No-code uploads to Cloudinary using automatic minisites
+https://github.com/cloudinary-devs/cld-angular-sdk-plugins # Examples of using Cloudinary Angular SDK plugins
+https://github.com/cloudinary-devs/cld-react-sdk-docs-examples # React examples for the Cloudinary React SDK docs.
+https://github.com/cloudinary-devs/social-media-video # A React app showing how to use the Cloudinary Video Player to recreate a social media style video view.
+https://github.com/cloudinary-devs/cloudinary-doctor #
+https://github.com/cloudinary-devs/product-gallery-react #
+https://github.com/cloudinary-devs/video-transformations # The Video Transformations tutorial video uses this code snippet.
+https://github.com/cloudinary-devs/img-rodeo #
+https://github.com/cloudinary-devs/music-discovery-service #
+https://github.com/cloudinary-devs/emerge-americas-hackathon-guide #
+https://github.com/cloudinary-devs/ma-cld-faas #
+https://github.com/cloudinary-devs/cld-sdk-js-docs-video-examples # JavaScript video transformation examples for the Cloudinary JavaScript SDK docs.
+https://github.com/cloudinary-devs/dart_sdk_quick_start # Quickstart example from the Cloudinary Dart SDK docs.
+https://github.com/cloudinary-devs/delete-assets-node # Examples of how to delete assets from Cloudinary using the Node.js SDK
+https://github.com/cloudinary-devs/cld-form-multiple-upload # Example code to show how to upload images using an unsigned preset and a form.
+https://github.com/cloudinary-devs/build-a-media-library-with-stencil #
+https://github.com/cloudinary-devs/build-a-mini-netflix #
+https://github.com/cloudinary-devs/guess-transformation-vuejs-london # Cloudinary Guess the Transformation Challenge for VueJS London 2019
+https://github.com/cloudinary-devs/nigeria-ohw # Hackathon Guide for OpenHack Week in Lagos, Nigeria
+https://github.com/cloudinary-devs/cld-javascript-sdk-docs-quickstart2 # Created with CodeSandbox
+https://github.com/cloudinary-devs/auto-crop # Automatic image cropping with Cloudinary
+
+https://github.com/cloudinary-developers/build-a-mini-netflix-clone-with-vue # Build a Mini Netflix Clone with Vue
+https://github.com/cloudinary-developers/build-a-mini-netflix # Build a Mini Netflix with React in 10 Minutes
+https://github.com/cloudinary-developers/vp9_cuda_encoder # Make vp9 encoder acceleration using CUDA parallel programming
+https://github.com/cloudinary-developers/vue-mini-netflix-demo-client #
+https://github.com/cloudinary-developers/vue-mini-netflix-demo-server #
+https://github.com/cloudinary-developers/cloudinary-gif2video-player # Auto convert and replace all gifs to mp4 videos using Cloudinary
+https://github.com/cloudinary-developers/webperf-network-api # A concept to use the Network Information API and Service Workers to adaptively display lower quality images
+https://github.com/cloudinary-developers/abbey-road-hackathon-guide # Abbey Road 2018 Hackathon Guide
+https://github.com/cloudinary-developers/sxsw-2018-hackathon-guide # SXSW-2018-Hackathon-Guide
+https://github.com/cloudinary-developers/sxsw-hackathon # sxsw hackathon
+https://github.com/cloudinary-developers/video-producer # Simple Video Editing via Cloudinary
+https://github.com/cloudinary-developers/discover-cmg-music # Discover CMG Music is a VueJs example application
+https://github.com/cloudinary-developers/music-discovery-service # Music Discovery Service
+https://github.com/cloudinary-developers/learning #
+https://github.com/cloudinary-developers/wallifornia-musictech-hackathon # Wallifornia Musictech Hackathon
+https://github.com/cloudinary-developers/gitbook-plugin-cloudinary-video # Cloudinary video plugin for GitBook
+https://github.com/cloudinary-developers/electric-sheep # Recreate the scene from Bladerunner using Cloudinary as a web app
+https://github.com/cloudinary-developers/hackapis-hackathonguide # HackAPIs: Connect Hackathon Guide (Ghana - 2018)
+https://github.com/cloudinary-developers/hack-midwest-hackathon # Hack Midwest Hackathon Guide
+https://github.com/cloudinary-developers/music-tech-2017-hackathon-guide # Music Tech 2017 Hackathon Guide
+https://github.com/cloudinary-developers/cookbook # Cloudinary Cookbook Guide
+https://github.com/cloudinary-developers/img-rodeo # A Cloudinary-powered image placeholder service
+https://github.com/cloudinary-developers/build-a-media-library-with-stencil #
+https://github.com/cloudinary-developers/watson-visual-recognition-lab # Watson Visual Recognition Lab
+https://github.com/cloudinary-developers/extend-shared # extend-shared
+https://github.com/cloudinary-developers/cloudinary-doctor #
+https://github.com/cloudinary-developers/cil-hackathon-guide # Capitol Records Hackathon Guide
+https://github.com/cloudinary-developers/msw-hackathon-guide #
+https://github.com/cloudinary-developers/style-transfer-contest # A static site archiving the style transfer contest results page
+https://github.com/cloudinary-developers/emerge-americas-hackathon-guide # Emerge Americas Hackathon Guide
+https://github.com/cloudinary-developers/hackference-2018 #
+https://github.com/cloudinary-developers/ar-vr-360-vr-video-for-beginners # AR /VR /360 VR Video for Beginners
+https://github.com/cloudinary-developers/gitbook-template # gitbook-template
+https://github.com/cloudinary-developers/canadian-music-week-hackathon-guide- # canadian-music-week-hackathon-guide/
+https://github.com/cloudinary-developers/so-spectra-hackathon # Spectra Hackathon
+https://github.com/cloudinary-developers/discover-cmg-music-lab # Learning Lab for Discover Music
+https://github.com/cloudinary-developers/cloudy-recipe #
+https://github.com/cloudinary-developers/celebrity-recognition-ios-app #
+https://github.com/cloudinary-developers/developer-camp-2017-hackathon-guide # Developer Camp 2017 Hackathon Guide
+https://github.com/cloudinary-developers/optimize-media-for-fast-page-loading # Optimize Media for Fast Page Loading
+https://github.com/cloudinary-developers/a-modern-java-pet-store-an-introduction-to-kubernetes-istio # A Modern Java Pet Store: An Introduction to Kubernetes & Istio
+
 https://github.com/cloudinary/cloudinary_npm # Cloudinary NPM for node.js integration
 https://github.com/cloudinary/cloudinary-react # React components that utilize Cloudinary functionality
 https://github.com/cloudinary/responsive_breakpoints_generator #
@@ -19,7 +253,7 @@ https://github.com/cloudinary/frontend-frameworks # Cloudinary javascript fronte
 https://github.com/cloudinary/cloudinary-go # Cloudinary Golang package
 https://github.com/cloudinary/cloudinary_wordpress # Cloudinary's WordPress plugin
 https://github.com/cloudinary/cloudinary_pubnub_demo # Demo for uploading images to Cloudinary and sharing them in real-time using PubNub
-https://github.com/cloudinary/cloudinary-svelte # Cloudinary components library for Svelte  
+https://github.com/cloudinary/cloudinary-svelte # Cloudinary components library for Svelte
 https://github.com/cloudinary/cloudinary-cli # A command line interface for Cloudinary's APIs
 https://github.com/cloudinary/cloudinary_magento # Magento extension. Upload product images to the cloud and manipulate them to match your graphic design
 https://github.com/cloudinary/cloudinary_magento2 # Magento 2 extension. Upload product images to the cloud and manipulate them to match your graphic design
@@ -85,4 +319,20 @@ https://github.com/cloudinary-community/svelte-cloudinary # ⚡️ High-performa
 https://github.com/cloudinary-community/imagecarbon # 🌱 Calculate the carbon footprint of your website images
 https://github.com/cloudinary-community/cloudinary-util #
 https://github.com/cloudinary-community/gridsome-plugin-cloudinary # Cloudinary plugins for Gridsome
+https://github.com/cloudinary-community/astro-cloudinary #
 https://github.com/cloudinary-community/laravel-demo-app #
+https://github.com/cloudinary-community/.github #
+
+https://github.com/cloudinaryltd/training-fundamentals-for-developers #
+https://github.com/cloudinaryltd/demo-object-detection-ai # Demo page for Cloudinary Object Detection AI
+https://github.com/cloudinaryltd/videopage #
+https://github.com/cloudinaryltd/cld-shopify #
+https://github.com/cloudinaryltd/ssimulacra-fildelity #
+
+https://github.com/cloudinary-partner-enablement/integrations-code-sanbox # A copy of the code sanboxes inside of our Partner Integration Foundations course.
+https://github.com/cloudinary-partner-enablement/gen-ai-vilt # The code to go along with our Generative AI VILT from March 2024.
+https://github.com/cloudinary-partner-enablement/implementation-foundations-practice-project # A copy of the code sandbox practice project from inside our Partner Implementation Foundations course.
+https://github.com/cloudinary-partner-enablement/program-repositories # A collection of our Partner Program Repositories.
+https://github.com/cloudinary-partner-enablement/implementation-advanced-practice-project # A copy of the code sandbox practice project from inside our Partner Implementation Advanced course.
+https://github.com/cloudinary-partner-enablement/integration-foundations-practice-project # A copy of the code sandbox practice project from inside our Partner Integration Foundations course.
+https://github.com/cloudinary-partner-enablement/implementations-code-sandbox # A copy of the code in our code sanboxes inside of Partner Implementation Foundations and Partner Implementation Advanced courses.

@@ -1,0 +1,25 @@
+https://github.com/rack/rack # A Ruby web server interface
+
+https://github.com/cyu/rack-cors
+https://github.com/rack/rack-attack
+
+https://github.com/wardencommunity/warden # General Rack Authentication Framework
+https://github.com/bettererrors/better_errors # Better error page for Rack apps
+https://github.com/omniauth/omniauth # OmniAuth is a flexible authentication system utilizing Rack middleware.
+
+https://github.com/puma/puma # A Ruby/Rack web server built for parallelism
+
+https://github.com/learn-co-curriculum/rack-intro
+https://github.com/learn-co-curriculum/phase-3-web-server-fundamentals-with-rack
+https://github.com/learn-co-curriculum/rack-todo # intro
+https://github.com/learn-co-curriculum/middleware-tutorial
+https://github.com/learn-co-curriculum/rack-dynamic-web-apps
+https://github.com/learn-co-curriculum/rack-http-request-readme
+https://github.com/learn-co-curriculum/rack-dynamic-paths-readme
+https://github.com/learn-co-curriculum/rack-headers-readme
+https://github.com/learn-co-curriculum/rack-status-codes-readme
+https://github.com/learn-co-curriculum/react-hooks-auth-session # Rack CORS
+https://github.com/learn-co-curriculum/connecting-react-app-to-rails-api # Rack CORS
+https://github.com/learn-co-curriculum/rails-5-json-api # Rack CORS
+https://github.com/learn-co-curriculum/separating-client-and-api-services # Rack CORS
+https://github.com/learn-co-curriculum/phase-4-cors # Rack CORS intro

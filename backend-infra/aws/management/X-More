@@ -1,0 +1,28 @@
+https://github.com/aws-observability/aws-otel-collector # AWS Distro for OpenTelemetry Collector (see ADOT Roadmap at https://github.com/orgs/aws-observability/projects/4)
+https://github.com/aws-observability/terraform-aws-observability-accelerator # Open source project to help accelerate and ease observability setup on AWS environments
+https://github.com/aws-observability/observability-best-practices # Observability best practices on AWS
+https://github.com/aws-observability/aws-otel-lambda # AWS Distro for OpenTelemetry - AWS Lambda
+https://github.com/aws-observability/cdk-aws-observability-accelerator # CDK AWS Observability Accelerator
+https://github.com/aws-observability/aws-rum-web # Amazon CloudWatch RUM Web Client
+https://github.com/aws-observability/aws-otel-community # Welcome to the AWS Distro for OpenTelemetry project. If you're using monitoring and observability tools for AWS products and services, this is a great place to ask questions, request features and network with other community members.
+https://github.com/aws-observability/aws-otel-java-instrumentation # AWS Distro for OpenTelemetry Java Instrumentation Library
+https://github.com/aws-observability/aws-otel-helm-charts # AWS Distro for OpenTelemetry (ADOT) Helm Charts
+https://github.com/aws-observability/aws-otel-js # AWS Distro for OpenTelemetry JavaScript SDK
+https://github.com/aws-observability/aws-otel-go # AWS Distro for OpenTelemetry Go
+https://github.com/aws-observability/aws-otel-playground # Sample Application for the AWS X-Ray SDK with support for OpenTelemetry
+https://github.com/aws-observability/aws-otel-test-framework # AWS Distro for OpenTelemetry Test Framework
+https://github.com/aws-observability/aws-sigv4-proxy-admission-controller # This project creates a mutation admission controller that injects AWS SIGv4 proxy as a sidecar.
+https://github.com/aws-observability/amazon-managed-grafana-migrator # CLI migration utility to migrate Grafana content to Amazon Managed Grafana
+https://github.com/aws-observability/aws-otel-dotnet # AWS Distro for OpenTelemetry .NET
+https://github.com/aws-observability/aws-otel-python # AWS Distro for OpenTelemetry Python
+https://github.com/aws-observability/aws-observability-accelerator # AWS Observability Accelerator
+https://github.com/aws-observability/application-signals-demo #
+https://github.com/aws-observability/aws-otel-php # AWS Distro for OpenTelemetry PHP
+https://github.com/aws-observability/amp-eks-iam # Tool providing easy IAM setup on EKS for Amazon Managed Service for Prometheus (AMP) users.
+https://github.com/aws-observability/helm-charts # The AWS Observability Helm Charts repository contains Helm charts to provide easy mechanisms to setup the CloudWatch Agent and other collection agents to collect telemetry data such as metrics, logs and traces to send to AWS monitoring services.
+https://github.com/aws-observability/amp-k8s-config-examples # Configurations for Prometheus including Kubernetes (k8s) Helm charts and Operators
+https://github.com/aws-observability/aws-otel-ruby # AWS Distro for OpenTelemetry Ruby
+https://github.com/aws-observability/aws-application-signals-test-framework #
+https://github.com/aws-observability/aws-otel-python-instrumentation #
+https://github.com/aws-observability/aws-otel-js-instrumentation #
+https://github.com/aws-observability/aws-otel-dotnet-instrumentation #

@@ -209,8 +209,37 @@ https://github.com/aws-samples/amazon-vpc-ip-address-manager-service-catalog #
 https://github.com/aws-samples/content-repository-with-multilingual-search # Code and walkthrough to build an end-to-end content repository for unstructured data with multilingual semantic search and dynamic access control.
 https://github.com/aws-samples/multi-tenancy-blog-post-collection #
 https://github.com/aws-samples/rag-with-amazon-bedrock-and-opensearch # Opinionated sample on how to build and deploy a RAG application with Amazon Bedrock and OpenSearch
-https://github.com/aws-samples/amazon-ivs-realtime-web-demo-reactjs # This repository provides ReactJS code and a walkthrough to build a demo web app for multi-participant live streaming in a grid layout with latency <300ms. It demonstrates Amazon IVS Web Broadcasting
-SDK integration for real-time streaming.
+https://github.com/aws-samples/amazon-ivs-realtime-web-demo-reactjs # This repository provides ReactJS code and a walkthrough to build a demo web app for multi-participant live streaming in a grid layout with latency <300ms. It demonstrates Amazon IVS Web Broadcasting SDK integration for real-time streaming.
+
+https://github.com/aws-amplify/amplify-js # A declarative JavaScript library for application development using cloud services.
+https://github.com/aws-amplify/amplify-cli # The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
+https://github.com/aws-amplify/aws-sdk-ios # AWS SDK for iOS. For more information, see our web site:
+https://github.com/aws-amplify/amplify-flutter # A declarative library with an easy-to-use interface for building Flutter applications on AWS.
+https://github.com/aws-amplify/aws-sdk-android # AWS SDK for Android. For more information, see our web site:
+https://github.com/aws-amplify/amplify-ui # Amplify UI is a collection of accessible, themeable, performant React components that can connect directly to the cloud.
+https://github.com/aws-amplify/docs # AWS Amplify Framework Documentation
+https://github.com/aws-amplify/amplify-hosting # AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.
+https://github.com/aws-amplify/amplify-swift # A declarative library for application development using cloud services.
+https://github.com/aws-amplify/amplify-android # The fastest and easiest way to use AWS from your Android app.
+https://github.com/aws-amplify/amplify-backend # Home to all tools related to Amplify's code-first DX (Gen 2) for building fullstack apps on AWS
+https://github.com/aws-amplify/amplify-studio # AWS Amplify Studio (Formerly Admin UI)
+https://github.com/aws-amplify/amplify-category-api # The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
+https://github.com/aws-amplify/amplify-codegen # Amplify Codegen is a JavaScript toolkit library for frontend and mobile developers building Amplify applications.
+https://github.com/aws-amplify/amplify-codegen-ui # Generate React components for use in an AWS Amplify project.
+https://github.com/aws-amplify/aws-sdk-ios-spm # This repository enables Swift Package Manager support for the AWS Mobile SDK for iOS
+https://github.com/aws-amplify/discord-bot # Discord bot for the AWS Amplify Discord Server
+https://github.com/aws-amplify/amplify-ci-support # Scripts and tools for managing Amplify projects in continuous integration environments, and for local developer setup of integration test environments.
+https://github.com/aws-amplify/aws-appsync-realtime-client-ios # A client implementation in Swift for the AWS AppSync service on the iOS platform.
+https://github.com/aws-amplify/amplify-ui-swift-authenticator # The Amplify UI Authenticator is a component that supports several authentiation flows using Amplify Authentication.
+https://github.com/aws-amplify/maplibre-gl-js-amplify #
+https://github.com/aws-amplify/amplify-ui-android # Amplify UI for Android is a collection of accessible, themeable, performant Android components that can connect directly to the cloud.
+https://github.com/aws-amplify/maplibre-gl-draw-circle # Supports drawing/editing a circle on a Mapbox map.
+https://github.com/aws-amplify/amplify-cli-export-construct #
+https://github.com/aws-amplify/amplify-ui-swift-liveness # UI component for Amazon Rekognition Face Liveness, enabling developers to ensure that only authentic users, and not bad actors using spoofs, can access their services.
+https://github.com/aws-amplify/amplify-ios-maplibre # An adapter to leverage Amplify Geo with the map rendering of MapLibre.
+https://github.com/aws-amplify/amplify-swift-utils-notifications # This repository serves as a dependency package for amplify-swift, providing valuable functionalities to handle push notifications on iOS and macOS platforms.
+https://github.com/aws-amplify/amplify-swift-plugin-toolkit # A toolkit for developing Swift Plugins for Amplify.
+https://github.com/aws-amplify/aws-appsync-apollo-extensions-swift #
 
 https://github.com/awslabs/aws-mobile-appsync-sdk-js # JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
 https://github.com/awslabs/aws-mobile-appsync-sdk-ios # iOS SDK for AWS AppSync.
@@ -219,7 +248,8 @@ https://github.com/awslabs/aws-amplify-identity-broker # A centralized login and
 https://github.com/awslabs/sandbox-accounts-for-events # "Sandbox Accounts for Events" allows to provide multiple, temporary AWS accounts to a number of authenticated users simultaneously via a browser-based GUI.
 https://github.com/awslabs/aws-mobile-appsync-sdk-android # Android SDK for AWS AppSync.
 https://github.com/awslabs/cognito-at-edge # Serverless authentication solution to protect your website or Amplify application
-https://github.com/awslabs/aws-amplify-identity-broker-client # Client demo code sample for the project "AWS Amplify identity broker" https://github.com/awslabs/aws-amplify-identity-broker
+https://github.com/awslabs/aws-amplify-identity-broker-client # Client demo code sample for the project "AWS Amplify identity broker"
+https://github.com/awslabs/aws-amplify-identity-broker
 https://github.com/awslabs/amazon-sagemaker-inference-client # Amazon Sagemaker Object Detection Inference Endpoint visualization client web application hosted and managed by AWS Amplify.
 https://github.com/awslabs/amplify-graphql-seed-plugin # This is an Amplify Plugin which helps your to seed the databases of your Amplify projects with data using an AppSync GraphQL API. It can be used to seed local mock databases, as well as remote databases, e.g. for testing purposes. This plugin allows you to customize and auto-generate mock data, including data with relationships between models.
 https://github.com/awslabs/aws-sdk-android-samples # Samples that demonstrate various aspects of the AWS SDK for Android

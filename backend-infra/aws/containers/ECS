@@ -74,7 +74,8 @@ https://github.com/aws-samples/federated-learning-greengrass-ecs #
 https://github.com/aws-samples/amazon-ecs-and-aws-step-functions-design-patterns-starter-kit #
 https://github.com/aws-samples/ecsdemo-amp # This repository is part of an Amazon Containers workshop at https://ecsworkshop.com or https://eksworkshop.com
 https://github.com/aws-samples/designing-cloud-native-microservices-on-aws # Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Inclu
-ding the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.https://github.com/aws-samples/cost-effective-aws-deployment-of-comfyui # Cost effective solution to deploy ComfyUI on AWS with simple deployment process using ECS and CDK.
+ding the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
+https://github.com/aws-samples/cost-effective-aws-deployment-of-comfyui # Cost effective solution to deploy ComfyUI on AWS with simple deployment process using ECS and CDK.
 https://github.com/aws-samples/cluster-sample-app # A very basic app written in Javascript and packaged as a Docker image to be used as a demo when testing clustered deployments in ECS/EKS.
 https://github.com/aws-samples/aws-cdk-dotnet-graviton-ecs-example # Build and deploy .NET web applications to Arm-powered AWS Graviton 2 Amazon ECS Clusters using AWS CDK
 https://github.com/aws-samples/java-spring-boot-ecs-fargate-redis-caching #
@@ -87,8 +88,9 @@ https://github.com/aws-samples/aws-jenkins-ecs-cdk # Build and Deploy Jenkins as
 https://github.com/aws-samples/aws-control-tower-managed-ecs-deployments #
 https://github.com/aws-samples/ecs-external-instance-network-sentry # eINS provides an additional layer of resilience for ECS external instances in deployment scenarios where connectivity to the on-region ECS control-plane may be unreliable or intermittent.
 https://github.com/aws-samples/fargate-game-servers # This repository contains an example solution on how to scale a fleet of game servers on AWS Fargate on Elastic Container Service and route players to game sessions using a Serverless backend. Game Server data is st
-ored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don't need to manage the underlying virtual machines.https://github.com/aws-samples/logging-monitoring-apg-guide-examples # The CloudFormation templates included in this repository are intended to assist you in configuring and installing Amazon CloudWatch and AWS X-Ray for on premises servers, Amazon EC2, Amazon ECS, an
-d Amazon EKS. Templates are also provided for deploying ECS and EKS clusters and services with Amazon CloudWatch preconfigured.https://github.com/aws-samples/aws-vt-baseami-pipeline # AWS EC2/ECS/EKS reference AMI build scripts using packer.
+ored in ElastiCache Redis. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash/powershell scripts. By leveraging AWS Fargate for your game servers you don't need to manage the underlying virtual machines.
+https://github.com/aws-samples/logging-monitoring-apg-guide-examples # The CloudFormation templates included in this repository are intended to assist you in configuring and installing Amazon CloudWatch and AWS X-Ray for on premises servers, Amazon EC2, Amazon ECS, and Amazon EKS. Templates are also provided for deploying ECS and EKS clusters and services with Amazon CloudWatch preconfigured.
+https://github.com/aws-samples/aws-vt-baseami-pipeline # AWS EC2/ECS/EKS reference AMI build scripts using packer.
 https://github.com/aws-samples/aws-ecs-stepfunctions-synchronous-runtask #
 https://github.com/aws-samples/retryable-ecs-run-task-step-functions # CDK example for ECS RunTask API call with Step Functions that handles error and retry
 https://github.com/aws-samples/amazon-efs-integrations # Amazon EFS Integrations
@@ -103,8 +105,8 @@ https://github.com/aws-samples/amazon-ecs-configmaps-example #
 https://github.com/aws-samples/gmsa-linux-containers-ecs #
 https://github.com/aws-samples/ecs-blue-green-deployment-with-codedeploy #
 https://github.com/aws-samples/aws-habana-baseami-pipeline # AWS build pipelines for AL2/Ubuntu, ECS, EKS AMIs
-https://github.com/aws-samples/aws-codedeploy-linear-canary-deployments-blog # AWS CodeDeploy has extended blue/green deployment support for Elastic Container Service (Amazon ECS) to include canary and linear deployments for applications hosted on AWS Fargate or Amazo
-n Compute Cloud (Amazon EC2).https://github.com/aws-samples/deploy-langfuse-on-ecs-with-fargate # Hosting Langfuse on Amazon ECS with Fargate using CDK Python
+https://github.com/aws-samples/aws-codedeploy-linear-canary-deployments-blog # AWS CodeDeploy has extended blue/green deployment support for Elastic Container Service (Amazon ECS) to include canary and linear deployments for applications hosted on AWS Fargate or Amazon Compute Cloud (Amazon EC2).
+https://github.com/aws-samples/deploy-langfuse-on-ecs-with-fargate # Hosting Langfuse on Amazon ECS with Fargate using CDK Python
 https://github.com/aws-samples/amazon-ecs-anywhere-cdk-samples #
 https://github.com/aws-samples/ecs-terraform-capacity-provider #
 https://github.com/aws-samples/example-for-aws-xray-in-amazon-ecs #
@@ -117,13 +119,15 @@ https://github.com/aws-samples/amazon-ecs-multicast-sample #
 https://github.com/aws-samples/amazon-ecs-multiple-loadbalancer-target-group-support # Supporting files for blog on How to use Multiple load balancer Target Group Support for Amazon ECS to access internal and external service endpoint using the same DNS name
 https://github.com/aws-samples/aws-do-docker # AWS DevOps for Docker - a sample project to help you build Docker containers and run them on AWS. In addition to running locally,this project can run your container on EC2, ECS, EKS, AWS Batch, and AWS Lambda.
 https://github.com/aws-samples/aws-serverless-workshop-decoupled-architecture # A sample .NET web application based on decoupled architecture design principles. Leave Management Application Demo using Amazon ECS, AWS Lambda, Amazon ALB, Amazon API Gateway Amazon Dynam
-oDB, AWS Step Functions, AWS SNS and AWS X-Ray services to create a completely decoupled architecture.https://github.com/aws-samples/amazon-ecs-multi-region #
+oDB, AWS Step Functions, AWS SNS and AWS X-Ray services to create a completely decoupled architecture.
+https://github.com/aws-samples/amazon-ecs-multi-region #
 https://github.com/aws-samples/automated-blueprints-service-catalog # Sample code for AWS blog post "Sharing automated blueprints for Amazon ECS continuous delivery using AWS Service Catalog"
 https://github.com/aws-samples/ecs-gpu-scaling # Amazon ECS Auto Scaling for GPU-based Machine Learning Workloads
 https://github.com/aws-samples/aws-fargate-server-sent-events-sse-amazon-kinesis-data-streams # When dealing with real-time data it is often required to send that data over the internet to various sources. Various technologies have enabled this such as web sockets and
-long polling. Recently server-sent events (SSE) has become a popular technology to push updates to clients. Ingesting this type of data source into AWS requires a client to be running continuously to receive those events. This sample shows how to connect to an SSE endpoint using AWS Fargate. This sample creates a docker image with a simple SSE client which publishes to an Amazon Kinesis Data Streams stream, then we simply store the event data in Amazon S3.https://github.com/aws-samples/aws-ecs-data-streaming #
-https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-amazon-ecs-fargate-and-amazon-api-gateway # How to train a XGBoost regression model on Amazon SageMaker, host inference on a Docker container running on Amazon ECS on AWS Fargate and o
-ptionally expose as an API with Amazon API Gateway.https://github.com/aws-samples/image-generator-with-stable-diffusion-on-amazon-bedrock-using-streamlit # A quick demostration to deploy a Stable Diffusion Web application with containers running on Amazon ECS. The model is provided by Amazon Bedrock in this example
+long polling. Recently server-sent events (SSE) has become a popular technology to push updates to clients. Ingesting this type of data source into AWS requires a client to be running continuously to receive those events. This sample shows how to connect to an SSE endpoint using AWS Fargate. This sample creates a docker image with a simple SSE client which publishes to an Amazon Kinesis Data Streams stream, then we simply store the event data in Amazon S3.
+https://github.com/aws-samples/aws-ecs-data-streaming #
+https://github.com/aws-samples/amazon-sagemaker-xgboost-regression-model-hosting-on-amazon-ecs-fargate-and-amazon-api-gateway # How to train a XGBoost regression model on Amazon SageMaker, host inference on a Docker container running on Amazon ECS on AWS Fargate and optionally expose as an API with Amazon API Gateway.
+https://github.com/aws-samples/image-generator-with-stable-diffusion-on-amazon-bedrock-using-streamlit # A quick demostration to deploy a Stable Diffusion Web application with containers running on Amazon ECS. The model is provided by Amazon Bedrock in this example
 https://github.com/aws-samples/sample-application-ecs-and-efs #
 https://github.com/aws-samples/amazon-ecs-dotnet-app-graviton #
 https://github.com/aws-samples/ecs-image-hardening-and-instance-refresh # Image hardening and instance refresh for Amazon ECS
@@ -133,24 +137,25 @@ https://github.com/aws-samples/ecs-blue-green-global-deployment-with-multiregion
 https://github.com/aws-samples/developing-on-amazon-ecs-with-cloudformation # This sample code show how to develope and deploy applications on Amazon ECS using CloudFormation.
 https://github.com/aws-samples/aws-blu-age-sample-ecs-infrastructure-using-terraform #
 https://github.com/aws-samples/aws-ecs-gitlab-copilot #
-https://github.com/aws-samples/amazon-bedrock-ai-karaoke # Amazon Bedrock AI Karaoke is an interactive demonstration of Amazon Bedrock. Users complete the prompt with the microphone and choose the best response. Powered by Amazon Bedrock, Amazon Transcribe and Amazon
-ECS Anywhere.https://github.com/aws-samples/uncovering-hidden-connections-in-unstructured-financial-data # Uncovering Hidden Connections in Unstructured Financial Data using Amazon Bedrock and Amazon Neptune
+https://github.com/aws-samples/amazon-bedrock-ai-karaoke # Amazon Bedrock AI Karaoke is an interactive demonstration of Amazon Bedrock. Users complete the prompt with the microphone and choose the best response. Powered by Amazon Bedrock, Amazon Transcribe and Amazon ECS Anywhere.
+https://github.com/aws-samples/uncovering-hidden-connections-in-unstructured-financial-data # Uncovering Hidden Connections in Unstructured Financial Data using Amazon Bedrock and Amazon Neptune
 https://github.com/aws-samples/onebox-deployment-on-amazon-ecs #
 https://github.com/aws-samples/ecs-anywhere-ansible #
 https://github.com/aws-samples/aws-pipeline-server-side-swift-blog # This code demonstrates how to set up a CI/CD pipeline on AWS for server-side Swift applications. The CloudFormation code sets up a CI/CD pipeline that compiles and hosts the Swift application on both
-EC2 and ECS. This source code is meant to accompany a blog article which describes the pipeline and configuration.https://github.com/aws-samples/aws-ecs-on-outposts #
+EC2 and ECS. This source code is meant to accompany a blog article which describes the pipeline and configuration.
+https://github.com/aws-samples/aws-ecs-on-outposts #
 https://github.com/aws-samples/amazon-ecs-anywhere-container-in-container-with-docker #
 https://github.com/aws-samples/aws-dotnet-ecs-containers-observability #
 https://github.com/aws-samples/amazon-ecs-fargate-clock-accuracy #
 https://github.com/aws-samples/ecs-suspend-scaling-with-stepfunctions # CDK example to pause the scale down of an ECS service based on a notification
 https://github.com/aws-samples/aws-container-security-pipeline-dso-ecs #
-https://github.com/aws-samples/unified-log-aggregation-and-analytics # The proposed solution shows and approach to unify and centralize logs across different compute platforms like EC2, ECS, EKS and Lambda with Kinesis Data Firehose using log collection agents (EC2 Ki
-nesis agent), log routers (Fluentbit and Firelens) and lambda extension. We can easily deploy the solution presented here on the customer site using the CDK scripts packaged part of this article. Amazon managed Elastic search with Kibana is used to visualize the logs collected across different applications running on different compute platforms.https://github.com/aws-samples/aws-autonomous-driving-data-lake-mwaa-ros-bag-image-extraction-pipeline # AWS Sample for processing ROS bag files to detect objects within exported images. The solution draws bounding boxes for the detected objects within the exported im
-ages.https://github.com/aws-samples/optimised-in-memory-graph-search # A reference implementation of efficiently storing and querying graph data with a Python Flask API and an In-Memory hashmap
+https://github.com/aws-samples/unified-log-aggregation-and-analytics # The proposed solution shows and approach to unify and centralize logs across different compute platforms like EC2, ECS, EKS and Lambda with Kinesis Data Firehose using log collection agents (EC2 Kinesis agent), log routers (Fluentbit and Firelens) and lambda extension. We can easily deploy the solution presented here on the customer site using the CDK scripts packaged part of this article. Amazon managed Elastic search with Kibana is used to visualize the logs collected across different applications running on different compute platforms.
+https://github.com/aws-samples/aws-autonomous-driving-data-lake-mwaa-ros-bag-image-extraction-pipeline # AWS Sample for processing ROS bag files to detect objects within exported images. The solution draws bounding boxes for the detected objects within the exported images.
+https://github.com/aws-samples/optimised-in-memory-graph-search # A reference implementation of efficiently storing and querying graph data with a Python Flask API and an In-Memory hashmap
 https://github.com/aws-samples/ecs-trainium-examples #
 https://github.com/aws-samples/amazon-ecs-cicd-cdk #
-https://github.com/aws-samples/ecs-anywhere-load-balancer-integration # This project demonstrates how to automate the process to detect when the Amazon ECS Anywhere tasks are provisioned/deprovisioned and then automatically register/deregister their external instance
-IPs and ports to/from the external load balancer e.g. AWS Application Load Balancer.https://github.com/aws-samples/aws-anz-devlabs-ecs-fis #
+https://github.com/aws-samples/ecs-anywhere-load-balancer-integration # This project demonstrates how to automate the process to detect when the Amazon ECS Anywhere tasks are provisioned/deprovisioned and then automatically register/deregister their external instance IPs and ports to/from the external load balancer e.g. AWS Application Load Balancer.
+https://github.com/aws-samples/aws-anz-devlabs-ecs-fis #
 https://github.com/aws-samples/amazon-ecs-lambda-consul-example #
 https://github.com/aws-samples/aws-cdk-sample-devsecops-ecs-fargate # Sample CDK script to build DevSecOps pipeline for AWS ECS Fargate using open source tools.
 https://github.com/aws-samples/cloudformation-transfer-family-efs-ecs-example # Example project to integrate Amazon ECS, Amazon EFS and AWS Transfer Family
@@ -158,8 +163,40 @@ https://github.com/aws-samples/deploy-streamlit-web-apps-on-ecs #
 https://github.com/aws-samples/aws-ecs-auto-scaling-with-custom-metrics # Auto scale the number of ECS tasks based on target scaling with custom metrics
 https://github.com/aws-samples/amazon-ecs-fargate-nlb-external-deployment-with-scaledown #
 https://github.com/aws-samples/connect-ecs-lambda-workloads-using-amazon-vpc-lattice #
-https://github.com/aws-samples/k6-fargate-cloudwatch-with-cdk # This sample project provides an easy way to run load test with a K6 container in an ECS Fargate Task. The metrics are collected by the CloudWatch Agent sidecar in the Fargate Task. This project also provi
-des a CloudWatch Dashboard to view the load testing result in the CloudWatch.
+https://github.com/aws-samples/k6-fargate-cloudwatch-with-cdk # This sample project provides an easy way to run load test with a K6 container in an ECS Fargate Task. The metrics are collected by the CloudWatch Agent sidecar in the Fargate Task. This project also provides a CloudWatch Dashboard to view the load testing result in the CloudWatch.
+
+https://github.com/aws-containers/amazon-ecs-exec-checker # 🚀 Pre-flight checks for ECS Exec
+https://github.com/aws-containers/retail-store-sample-app # Sample application for demonstrating container platforms and related technology
+https://github.com/aws-containers/kubectl-detector-for-docker-socket # A Kubectl plugin that can detect if any of your workloads or manifest files are mounting the docker.sock volume
+https://github.com/aws-containers/hello-app-runner # Example application for AWS App Runner
+https://github.com/aws-containers/eks-app-mesh-polyglot-demo # End to end deployment and observability of polyglot microservices in Amazon EKS using AWS App Mesh, AWS Fargate, Amazon Cloudwatch Container Insights, and AWS X-Ray
+https://github.com/aws-containers/ecs-anywhere-tutorial #
+https://github.com/aws-containers/airflow-on-fargate #
+https://github.com/aws-containers/proton-codebuild-provisioning-examples # This repository contains sample IaC templates to demonstrate how to leverage Codebuild provisioning with AWS Proton.
+https://github.com/aws-containers/ecsworkshop #
+https://github.com/aws-containers/ecsdemo-platform #
+https://github.com/aws-containers/ecs-workshop-blue-green-deployments #
+https://github.com/aws-containers/ecsdemo-nodejs #
+https://github.com/aws-containers/ecsdemo-frontend #
+https://github.com/aws-containers/ecs-task-protection-examples #
+https://github.com/aws-containers/demo-app-for-docker-compose #
+https://github.com/aws-containers/ecsdemo-crystal #
+https://github.com/aws-containers/hello-app-runner-nodejs # Example Next.js application for App Runner with DynamoDB using Copilot CLI
+https://github.com/aws-containers/votingapp #
+https://github.com/aws-containers/appmeshworkshop #
+https://github.com/aws-containers/aws-lambda-for-the-containers-developer-blog #
+https://github.com/aws-containers/apprunnerworkshop #
+https://github.com/aws-containers/ecsdemo-migration-to-ecs #
+https://github.com/aws-containers/codepipeline-codebuild-buildpacks-example #
+https://github.com/aws-containers/eks-microservice-demo # Canary Deployment using Flagger with App Mesh
+https://github.com/aws-containers/hello-eks-anywhere # Example application to deploy to your first EKS Anywhere cluster
+https://github.com/aws-containers/ecsworkshop-efsdemo #
+https://github.com/aws-containers/ecsworkshop-secrets-demo #
+https://github.com/aws-containers/impression-counter-api-app-runner-sample # AWS App Runner sample for an API Impression counter with VPC access using VPC Connector, can be deployed with terraform plan
+https://github.com/aws-containers/aws-containers-a2z # Onboard on a long journey into modern application development with AWS Containers Services and more...
+https://github.com/aws-containers/ecsdemo-capacityproviders #
+https://github.com/aws-containers/ecsworkshop-advanced-scheduling-chapter #
+https://github.com/aws-containers/krew-index # An example index for krew plugins
 
 https://github.com/awslabs/ecs-refarch-continuous-deployment # ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 https://github.com/awslabs/amazon-ecs-nodejs-microservices # Reference architecture that shows how to take a Node.js application, containerize it, and deploy it as microservices on Amazon Elastic Container Service.
