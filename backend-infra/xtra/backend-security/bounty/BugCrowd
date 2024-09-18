@@ -1,0 +1,13 @@
+https://github.com/bugcrowd/bugcrowd_university # Open source education content for the researcher community
+https://github.com/bugcrowd/hunt #
+https://github.com/bugcrowd/vulnerability-rating-taxonomy # Bugcrowd’s baseline priority ratings for common security vulnerabilities
+https://github.com/bugcrowd/tipjar #
+https://github.com/bugcrowd/templates # Repository to house markdown templates for researchers
+https://github.com/bugcrowd/test-summary-buildkite-plugin # Buildkite plugin to summarise all test failures as an annotation
+https://github.com/bugcrowd/ecs-deployment-monitor # Monitor an ECS Deployment
+https://github.com/bugcrowd/adama # Adama - Command and Invoker Pattern For Getting Things Done
+https://github.com/bugcrowd/vrt-ruby # Ruby library for interacting with Bugcrowd's VRT
+https://github.com/bugcrowd/methodology-taxonomy # The BMT explains the baselines for different types of testing on bugcrowd.com
+https://github.com/bugcrowd/rubocop-bugcrowd # Bugcrowd-specific Rubocop cops
+https://github.com/bugcrowd/bmt-ruby # Rubygem for the Bugcrowd Methodology Taxonomy
+https://github.com/bugcrowd/firefox-policy #

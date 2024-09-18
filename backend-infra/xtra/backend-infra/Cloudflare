@@ -138,6 +138,37 @@ https://github.com/cloudflare/msft-risky-user-ad-sync # Deploys a Cloudflare Sch
 https://github.com/cloudflare/terraform-provider-cloudflare # Cloudflare Terraform Provider
 https://github.com/cloudflare/cf-terraforming # A command line utility to facilitate terraforming your existing Cloudflare resources.
 
+https://github.com/worker-tools/html-rewriter # WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browsers, etc.
+https://github.com/worker-tools/html # HTML templating and streaming response library for Service Worker-like environments such as Cloudflare Workers.
+https://github.com/worker-tools/webauthn-example # Example project for password-less login through WebAuthn in Cloudflare Workers and Deno.
+https://github.com/worker-tools/parsed-html-rewriter # A DOM-based implementation of Cloudflare Worker's HTMLRewriter.
+https://github.com/worker-tools/workers.js.org # Worker Environments are the new standard for authoring HTTP servers in JavaScript.
+https://github.com/worker-tools/worker-news # A drop in replacement for Hacker News with support for dark mode and more.
+https://github.com/worker-tools/router # A router for Worker Runtimes such and Cloudflare Workers or Service Workers.
+https://github.com/worker-tools/cloudflare-kv-storage # An implementation of the StorageArea interface using Cloudflare Worker's KV storage as a backing store
+https://github.com/worker-tools/deno-fetch-event-adapter # Dispatches global fetch events using Deno's native http server.
+https://github.com/worker-tools/shed # All Worker Tools under a single roof
+https://github.com/worker-tools/json-fetch # Enhanced Fetch API with first class support for JSON objects
+https://github.com/worker-tools/json-stream # Utilities for working with streaming JSON in Worker Environments.
+https://github.com/worker-tools/typed-event-target # This is the Typed Event Target library you are looking for
+https://github.com/worker-tools/ghuc.cc # Your friendly neighborhood redirection service for Deno 🦕 to import code directly from GitHub.
+https://github.com/worker-tools/request-cookie-store # An implementation of the Cookie Store API for request handlers.
+https://github.com/worker-tools/deno-kv-storage # An implementation of the StorageArea interface for Deno.
+https://github.com/worker-tools/middleware # Placeholder for Worker-based middleware solution
+https://github.com/worker-tools/encrypted-cookie-store # A CookieStore implementation that transparently encrypts cookie values via Web Cryptography API
+https://github.com/worker-tools/stream-response # Fetch API Response objects made from async generators.
+https://github.com/worker-tools/resolvable-promise # A promise that is resolvable (or rejectable) after it was created.
+https://github.com/worker-tools/kv-storage # Picks the platform-specific Storage Area implementation for Deno, Cloudflare Workers and the browser.
+https://github.com/worker-tools/structured-json # Stringify and parse JavaScript values according to Structured Clone Algorithm.
+https://github.com/worker-tools/signed-cookie-store # A CookieStore implementation that transparently signs cookies via Web Cryptography API
+https://github.com/worker-tools/location-polyfill # A Location polyfill for Cloudflare Workers.
+https://github.com/worker-tools/response-creators # Helper functions to create Fetch API Response objects based on HTTP status codes
+https://github.com/worker-tools/v8-value-serializer # A pure JS implementation of V8's value serialization format
+https://github.com/worker-tools/extendable-promise # A promise that can be delayed (extended) via repeated calls to waitUntil.
+https://github.com/worker-tools/kv-storage-polyfill # Typed wrapper for GoogleChromeLabs/kv-storage-polyfill
+https://github.com/worker-tools/worker-tools.github.io # Tools for writing HTTP servers in Worker Environments such as Cloudflare Workers
+https://github.com/worker-tools/caplink # A modernized fork of Comlink with many open PRs merged and the ability to use proxies in Caplink calls
+
 https://github.com/gdtool/cloudflare-workers-blog # A Blog Powered By Cloudflare Workers and KV
 https://github.com/sh4yy/cloudflare-email # This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 https://github.com/xytom/url-shorten-worker # A URL Shortener created using Cloudflare worker

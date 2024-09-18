@@ -4,6 +4,12 @@ https://github.com/aws-ia/cfn-ps-cisco-asav-ravpn #
 
 https://github.com/aws-samples/duomfa-with-amazon-cognito # Integrating Duo MFA with Amazon Cognito
 
+https://github.com/duo-labs/appsec-education # Presentations, training modules, and other education materials from Duo Security's Application Security team.
+https://github.com/duo-labs/duo-blog-going-passwordless-with-py-webauthn #
+
+https://github.com/duo-labs/webauthn.io # The source code for webauthn.io, a demonstration of WebAuthn.
+https://github.com/duo-labs/py_webauthn # Pythonic WebAuthn 🐍
+
 https://github.com/duosecurity/duo_unix # Duo two-factor authentication for Unix systems
 https://github.com/duosecurity/duo_client_python # Python library for interacting with the Duo Auth, Admin, and Accounts APIs
 https://github.com/duosecurity/duo_client_java #

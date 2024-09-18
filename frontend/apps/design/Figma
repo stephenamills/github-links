@@ -4,6 +4,26 @@ https://www.evernote.design
 https://www.toools.design
 https://www.uxpeak.com
 
+https://github.com/figma/plugin-samples # 🔌 Sample Figma plugins.
+https://github.com/figma/code-connect # A tool for connecting your design system components in code with your design system in Figma
+https://github.com/figma/plugin-resources # A collection of open source plugins, widgets and other resources for Figma + FigJam that have been shared on GitHub.
+https://github.com/figma/sds # A base design system that shows how Figma’s Variables, Styles, Components, and Code Connect can be used alongside a React codebase
+https://github.com/figma/plugin-typings # Typings for the Figma Plugin API
+https://github.com/figma/code-snippet-editor-plugin # Translate component variants, properties, and more into dynamic code snippets for your design system.
+https://github.com/figma/widget-samples # FigJam widget code examples & starter projects using the FigJam Widget API
+https://github.com/figma/ai-plugin-template # An example of making a Figma plugin that talks to OpenAI GPT models.
+https://github.com/figma/variables-github-action-example # Example GitHub Actions workflows for syncing variables to Figma
+https://github.com/figma/architecture-diagram-components # Figma / FigJam components for creating beautiful and informative architecture diagrams.
+https://github.com/figma/create-widget # Create new FigJam widgets with a single command.
+https://github.com/figma/eslint-plugin-figma-plugins # typescript-eslint rules for plugins
+https://github.com/figma/widget-typings # Typings for the Figma Widget API
+https://github.com/figma/terraform-provider-figma #
+https://github.com/figma/embed-kit-2.0-example # An example site that has an embedded Figma prototype and uses the Embed API to send messages and handle events.
+
+https://github.com/figma-sa/devmode # Bi-directional syncing between variables in Figma and design tokens in a codebase, using Figma's Variables REST API
+
+https://github.com/figma/rest-api-spec # OpenAPI specification and types for the Figma REST API
+
 https://github.com/planetscale/figma-diagram-generator # Create a diagram of your MySQL database using the Figma and Planetscale APIs
 https://github.com/twistopayments/figma-export-diagrams-action # exports a diagram from Figma, from a GitHub Actions workflow
 https://github.com/marcomontalbano/figma-export # exports any Figma component for use in your website or anywhere
@@ -49,9 +69,6 @@ https://github.com/petekp/diagrammaton-figma-plugin # diagram
 https://github.com/diagram/diagram-figma-plugin-template # diagram or something
 https://github.com/axorax/tkforge
 https://github.com/pavellaptev/json-to-figma
-https://github.com/figma/code-snippet-editor-plugin
-https://github.com/figma/plugin-samples # official sample plugins
-https://github.com/figma/variables-github-action-example # by Figma - GitHub Actions workflows for syncing tokens or variables from a codebase to Figma
 https://github.com/daangn/icona # exports SVG files to GitHub
 https://github.com/bernaferrari/figmatocode
 https://github.com/builderio/figma-html
@@ -65,7 +82,6 @@ https://github.com/react-figma/react-figma
 https://github.com/kazuyaseki/figma-to-react
 https://github.com/jake-figma/component-inspector # inspects a component
 https://github.com/microsoft/figma-variables-import # by Microsoft - imports variables
-https://github.com/figma/code-connect
 https://github.com/ebay/figma-include-accessibility-annotations # by eBay
 https://github.com/bryanberger/figma-discord-presence # Discord presence
 https://github.com/placemark/figma-plugin # creates an Open Street Map
@@ -80,7 +96,6 @@ https://github.com/lukasoppermann/design-token-transformer
 https://github.com/divriots/style-dictionary-to-figma
 https://github.com/leadream/heron-handoff
 https://github.com/talmsnir/figmaop-open-source-figma-plugins # FigmaOp project and plugin collection
-https://github.com/figma/plugin-resources # collection of plugins
 https://github.com/yuanqing/figma-plugins # collection of plugins
 https://github.com/react-figma/awesome-figma # plugins and resources
 https://github.com/rsms/figplug # by Rasmus - figma plugin starter
@@ -97,8 +112,6 @@ https://github.com/aarongarciah/figma-plugin-typescript-boilerplate
 https://github.com/lona/figma-jsonrpc
 https://github.com/mattdesl/fika # plugin generator
 https://github.com/figma-plugin-helper-functions/figma-plugin-helpers # helper functions
-https://github.com/figma/rest-api-spec # Figma OpenAPI specification and TypeScript types
-https://github.com/figma/plugin-typings # Figma API typings
 https://github.com/react-figma/figma-api-stub # Figma API stub implementation
 https://github.com/pocka/figspec # Figma spec viewer
 https://github.com/slawomirkolodziej/figma-api-exporter # export assets from Figma API
@@ -107,7 +120,6 @@ https://github.com/colebemis/figma-hosted-export
 https://github.com/leadream/figma-icon-automation
 https://github.com/destefanis/auto-theme # themes a design
 https://github.com/jan-dh/figma-tailwindcss # Tailwind
-https://github.com/figma/sds # does something with Figma Code Connect and React
 https://github.com/saravieira/svg-to-jsx # copies SVG as a React component
 https://github.com/marcomontalbano/figma-export # export Figma components and use them directly on a website
 https://github.com/thomas-lowry/figma-plugin-ds # design system for use in Figma plugins
@@ -175,8 +187,10 @@ https://github.com/ideo/figproxy
 https://github.com/figma-linux/figma-linux-font-helper
 https://github.com/tryvin/figma-linux-font-helper
 https://github.com/sameersyd/wiggles-ios
-https://github.com/figma/strict-null-check-migration-tools
 https://github.com/ashung/android-resources-export-figma
 https://github.com/jackiecorn/figma-plugin-drag-and-drop
 https://github.com/phamfoo/solid
 https://github.com/react-figma/figma-ui-components
+
+https://github.com/figma/strict-null-check-migration-tools # Scripts used to migrate Figma's codebase to strictNullChecks
+https://github.com/figma/dynamic-universal-app # Size efficient alternative to macOS universal binaries
