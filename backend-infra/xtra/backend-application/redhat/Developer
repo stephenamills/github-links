@@ -1,0 +1,168 @@
+https://github.com/redhat-developer/vscode-java # Java Language Support for Visual Studio Code
+https://github.com/redhat-developer/yaml-language-server # Language Server for YAML Files
+https://github.com/redhat-developer/odo # odo - Developer-focused CLI for fast & iterative container-based application development on Podman and Kubernetes. Implementation
+of the open Devfile standard. https://github.com/redhat-developer/vscode-yaml # YAML support for VS Code with built-in kubernetes syntax support
+https://github.com/redhat-developer/rpm-packaging-guide # RPM Packaging Guide
+https://github.com/redhat-developer/vscode-extension-tester # ExTester: Your Essential UI Testing Companion for Visual Studio Code Extensions! Seamlessly execute UI tests
+with Selenium WebDriver, ensuring robustness and reliability in your extension development journey. Simplify UI testing for your VS Code extensions and elevate the quality of your user interface effortlessly. https://github.com/redhat-developer/vscode-xml # Editing XML in Visual Studio Code made easy
+https://github.com/redhat-developer/gitops-operator # An operator that gets you an ArgoCD for cluster configuration out-of-the-box on OpenShift along with the UI for visua
+lizing environments. https://github.com/redhat-developer/kam # GitOps Application Manager: An opinionated CLI that generates the Kubernetes resources for managing your Tekton-based CI manifest
+s, ArgoCD-based CD manifests and Application manifests in Git. https://github.com/redhat-developer/reactive-microservices-in-java # Source code from the Reactive Microservices in Java book
+https://github.com/redhat-developer/intellij-quarkus # IntelliJ Quarkus Tools
+https://github.com/redhat-developer/s2i-dotnetcore # .NET Core OpenShift images
+https://github.com/redhat-developer/redhat-sso-quickstarts # Quickstarts for the Red Hat Single Sign-On (SSO) Server
+https://github.com/redhat-developer/vscode-openshift-tools # OpenShift extension for Visual Studio Code
+https://github.com/redhat-developer/lsp4ij # LSP Client for IntelliJ
+https://github.com/redhat-developer/devspaces # Red Hat OpenShift Dev Spaces (formerly Red Hat CodeReady Workspaces) forks of the registries, plus product-related tools/sc
+ripts https://github.com/redhat-developer/s2i-dotnetcore-ex # Example application for the OpenShift s2i-dotnetcore builder image
+https://github.com/redhat-developer/vscode-quarkus # Quarkus Tools for Visual Studio Code, by Red Hat
+https://github.com/redhat-developer/vscode-tekton # Tekton support for Visual Studio Code
+https://github.com/redhat-developer/opencompose # OpenCompose - A higher level abstraction for Kubernetes Resource
+https://github.com/redhat-developer/introduction-to-eclipse-vertx # An introduction to Eclipse Vert.x - a toolkit to build reactive and distributed systems
+https://github.com/redhat-developer/vscode-server-connector # 📦 VS Code extension to run JBoss EAP servers and Runtimes
+https://github.com/redhat-developer/redhat-helm-charts # This repository contains the Helm charts that power charts in the OpenShift Developer Catalog
+https://github.com/redhat-developer/quarkus-ls # Language server for Quarkus tooling
+https://github.com/redhat-developer/app-services-cli # Command Line Interface for RHOAS
+https://github.com/redhat-developer/web-terminal-operator # OpenShift Console Web Terminal
+https://github.com/redhat-developer/vscode-rsp-ui # A unified UI for all RSP servers and RSP server-providers to integrate with
+https://github.com/redhat-developer/gitops-repo-example #
+https://github.com/redhat-developer/microservices-book # Source code for book Microservices for Java Developers - 2nd edition
+https://github.com/redhat-developer/red-hat-developer-hub-software-templates # Collection of Software Templates for Red Hat Developer Hub
+https://github.com/redhat-developer/rsp-server-community # A repository for additions to rsp-server and the associated vscode extension to add support for other runtimes
+https://github.com/redhat-developer/rsp-server # A server management protocol based on LSP4J
+https://github.com/redhat-developer/app-labels # Kuberbetes/OpenShift recommended labeling
+https://github.com/redhat-developer/argocd-terraform-controller # Argo CD Terraform Controller
+https://github.com/redhat-developer/devspaces-images # Identical copies of the code used in Brew/OSBS to build OpenShift Dev Spaces, but made public to enable pull request
+s and easier contribution; also copies of CasC Jenkins job configs https://github.com/redhat-developer/intellij-dependency-analytics # IntelliJ Dependency Analytics
+https://github.com/redhat-developer/app-services-guides # End User Guides for popular programming languages and tools
+https://github.com/redhat-developer/vscode-redhat-telemetry #
+https://github.com/redhat-developer/intellij-kubernetes # IntelliJ Kubernetes plugin
+https://github.com/redhat-developer/intellij-tekton # IntelliJ Tekton plugin
+https://github.com/redhat-developer/openshift-dd-ext # OpenShift Extension for Docker desktop
+https://github.com/redhat-developer/oc-helm # oc CLI plugin to interact with Helm features provided by the OpenShift Console
+https://github.com/redhat-developer/redhat-datagrid-tutorials # Red Hat Datagrid simple tutorials
+https://github.com/redhat-developer/vscode-microprofile # Microprofile tools for Visual Studio Code
+https://github.com/redhat-developer/openshift-web-console-customizations # A collection of customized templates for the OpenShift Web Console
+https://github.com/redhat-developer/observability-operator # Operator installing the Telemetry stack in a Kubernetes cluster and installing the metrics and alerts
+https://github.com/redhat-developer/intellij-openshift-connector # IntelliJ OpenShift Toolkit
+https://github.com/redhat-developer/devspaces-chectl # Red Hat OpenShift Dev Spaces build of chectl, based on https://github.com/che-incubator/chectl/
+https://github.com/redhat-developer/vscode-commons # Red Hat Commons provides services common to VS code extensions published by Red Hat.
+https://github.com/redhat-developer/gitops-backend #
+https://github.com/redhat-developer/openshift-vsts # OpenShift Extension for Azure DevOps.
+https://github.com/redhat-developer/devspaces-demo # Files and script to run a Red Hat OpenShift Dev Spaces demo
+https://github.com/redhat-developer/red-hat-developers-documentation-rhdh # Red Hat Developer Hub documentation - upstream sources for https://gitlab.cee.redhat.com/red-ha
+t-developers-documentation/rhdh https://github.com/redhat-developer/vscode-knative # Knative & Serverless Function plugin for VSCode
+https://github.com/redhat-developer/app-services-operator # OpenShift Operator for binding Red Hat OpenShift Application Services
+https://github.com/redhat-developer/opencompose-old # OpenCompose Specification
+https://github.com/redhat-developer/eclipseide-jdtls # A language server client for Eclipse using JDT-LS
+https://github.com/redhat-developer/web-terminal-tooling # Kubernetes and OpenShift command line tools packaged in a container.
+https://github.com/redhat-developer/vscode-openshift-extension-pack # A collection of extensions for working with Openshift resources in VS Code
+https://github.com/redhat-developer/intellij-common-ui-test-library # IntelliJ IDEA UI test library is a tool for creating automated UI tests for IntelliJ IDEA plugin proj
+ects. https://github.com/redhat-developer/vscode-wizard #
+https://github.com/redhat-developer/intellij-redhat-telemetry # IntelliJ Red Hat telemetry plugin
+https://github.com/redhat-developer/mapt # Multi Architecture Provisioning Tool
+https://github.com/redhat-developer/helm-dump # helm-dump is a Helm plugin to create a Helm chart from existing cluster resources
+https://github.com/redhat-developer/app-services-sdk-java # RedHat Managed Services APIs for Java
+https://github.com/redhat-developer/dotnet-regular-tests # .NET Core tests for .NET Bunny (RHEL & Fedora RPM tests)
+https://github.com/redhat-developer/s2i-aspnet-musicstore-ex # OpenShift .NET Core quickstart application
+https://github.com/redhat-developer/osd-monitor-poc #
+https://github.com/redhat-developer/lab-docker-jboss-eap # Docker JBoss EAP Tutorial
+https://github.com/redhat-developer/rhdh-plugin-export-backstage-backstage #
+https://github.com/redhat-developer/odo-init-image # ODO v3 no loner users this image!!! (Container for ODO v2 to setup SupervisorD inside S2I builder image.)
+https://github.com/redhat-developer/rhdh-operator # Operator for Deploying Red Hat Developer Hub (Backstage)
+https://github.com/redhat-developer/podman-desktop-demo # quick demo scripts for podman desktop
+https://github.com/redhat-developer/vscode-redhat-account # Provides authentication support for Red Hat accounts in Visual Studio Code.
+https://github.com/redhat-developer/dotnet-bunny # .NET Bunny is a simple script that hops through the folders and runs .NET Core tests based on json configuration.
+https://github.com/redhat-developer/web-terminal-exec # OpenShift Web Terminal container responsible for pod exec
+https://github.com/redhat-developer/rsp-client #
+https://github.com/redhat-developer/rhd-frontend # npm-installable package for RHDP website assets
+https://github.com/redhat-developer/vscode-project-initializer # Red Hat Developer Launcher Visual Studio Code Extension
+https://github.com/redhat-developer/backstage-odo-devfile-plugin # Custom Field Extension and Custom Actions Plugin for generating a starter project with a Devfile using `
+odo` https://github.com/redhat-developer/devfile-sample # Devfile Example for OpenShift Console
+https://github.com/redhat-developer/redhat-sso-boms # RedHat SSO BOM Files
+https://github.com/redhat-developer/intellij-rsp # An IntelliJ plugin to support Runtime Server Protocol (RSP)
+https://github.com/redhat-developer/app-services-api-guidelines # Design guidelines for App Services APIs
+https://github.com/redhat-developer/devspaces-vscode-extensions # This repository builds and publishes VS Code extensions used in Eclipse Che and Red Hat OpenShift Dev Spa
+ces (formerly Red Hat CodeReady Workspaces) https://github.com/redhat-developer/dotnet-jenkins-slave # .NET Core Jenkins Slave for OpenShift
+https://github.com/redhat-developer/stickers # Red Hat Hexagon Stickers
+https://github.com/redhat-developer/rhbk-quickstarts #
+https://github.com/redhat-developer/intellij-common #
+https://github.com/redhat-developer/code.quarkus.redhat.com # POC for the product version of code.quarkus.io
+https://github.com/redhat-developer/app-services-sdk-js # RHOAS SDK for JavaScript and Typescript
+https://github.com/redhat-developer/app-services-sdk-go # RHOAS SDK for Go
+https://github.com/redhat-developer/podman-desktop-redhat-account-ext # Podman Desktop Red Hat Account Extension
+https://github.com/redhat-developer/gitops-generator #
+https://github.com/redhat-developer/s2i-dotnetcore-persistent-ex # Example application with database backend for the OpenShift s2i-dotnetcore builder
+https://github.com/redhat-developer/consoledot-e2e #
+https://github.com/redhat-developer/openshift-kustomizeconfigs # Kustomize Transformer Configurations for OpenShift types namely, BuildConfigs, Imagestreams and Deployment
+Configs. https://github.com/redhat-developer/devspaces-gateway-plugin #
+https://github.com/redhat-developer/rhdp-httrack #
+https://github.com/redhat-developer/intellij-knative # IntelliJ Knative plugin
+https://github.com/redhat-developer/service-endpoint-definition # Repository to share service endpoint definitions (SEDs)
+https://github.com/redhat-developer/red-hat-developer-hub-theme # RHDH / Red Hat Developer Hub Theme 🎨
+https://github.com/redhat-developer/vscode-server-connector-api #
+https://github.com/redhat-developer/app-services-go-linter # app-services-go-linter plugin analyze source tree of Go files and validates the availability of i18n strings i
+n \*.toml files https://github.com/redhat-developer/git-service # Git validation service
+https://github.com/redhat-developer/podman-desktop-image-checker-openshift-ext #
+https://github.com/redhat-developer/podman-desktop-sandbox-ext # OpenShift Sandbox integration for podman desktop
+https://github.com/redhat-developer/vscode-extension-proposals # Manages extension recommendations for VS Code
+https://github.com/redhat-developer/idetools.dev # Website for idetools.dev
+https://github.com/redhat-developer/gitops-console-plugin # Dynamic plugin for console gitops.
+https://github.com/redhat-developer/app-service # The service which powers application creation , import and incremental association with services from the Operator catalo
+g, in the OpenShift DevOps Console. https://github.com/redhat-developer/gulp #
+https://github.com/redhat-developer/terraform-provider-rhoas #
+https://github.com/redhat-developer/new-project-template # Template for all new projects
+https://github.com/redhat-developer/assess-workflows # Assess whether GitHub workflows are properly pinned
+https://github.com/redhat-developer/ossrh-89011 # Temporary Repo to be deleted
+https://github.com/redhat-developer/gitops-commit-status #
+https://github.com/redhat-developer/presentation-recording # A repo for storing configuration and resources required to record presentations.
+https://github.com/redhat-developer/aonic-ui # A common library for Developer UI components and utilities.
+https://github.com/redhat-developer/vertx-quickstart-plain #
+https://github.com/redhat-developer/primaza # Multi Cluster Service Consumption Framework
+https://github.com/redhat-developer/podman-desktop-redhat-pack-ext #
+https://github.com/redhat-developer/openshift-builds-catalog # Catalog of OpenShift Builds resources by Red Hat. Based on the upstream Shipwright Build project.
+https://github.com/redhat-developer/vertx-quickstart-http-msa #
+https://github.com/redhat-developer/vertx-quickstart-web #
+https://github.com/redhat-developer/rhd-article-extras # Repository containing extras for articles published on https://developers.redhat.com
+https://github.com/redhat-developer/vertx-quickstart-eventbus-msa #
+https://github.com/redhat-developer/app-services-tools # Set of tools used in demos, workshops and product videos
+https://github.com/redhat-developer/application-services-metering-operator # OpenShift Operator for metering Red Hat Application Services products
+https://github.com/redhat-developer/k8s-kubectl # A kubectl image, with git. This is needed for use with Kustomize.
+https://github.com/redhat-developer/app-services-website #
+https://github.com/redhat-developer/vscode-granite # Use IBM Granite Code LLM as your Code Assistant in Visual Studio Code
+https://github.com/redhat-developer/rhdh-plugin-export-utils # Utilities for exporting backstage plugins as dynamic plugins for installation in Red Hat Developer Hub
+https://github.com/redhat-developer/jenkins-operator-bundle # Operator bundle for the Jenkins Operator
+https://github.com/redhat-developer/helm-quickstarts # Quickstarts for Red Hat Helm Catalog
+https://github.com/redhat-developer/app-services-sdk-python #
+https://github.com/redhat-developer/app-services-openshift-console-plugin # OpenShift UI Console Plugin for RHOAS (Fork of https://github.com/openshift/console)
+https://github.com/redhat-developer/app-services-examples # Contains examples for App Services
+https://github.com/redhat-developer/devfile-registry # Source repository for the Red Hat product devfile registry
+https://github.com/redhat-developer/service-binding-operator-helm-chart # This is a repo where SBO Helm Chart releases will be published
+https://github.com/redhat-developer/rhd-performance-tests # Performance tests for rhdp
+https://github.com/redhat-developer/codeready-workspaces-workshop # Workshop for discovering and demoing CodeReady Workspaces 2.0
+https://github.com/redhat-developer/app-services-grafana-dashboards # Official Grafana Dashboards for Red Hat Application Services
+https://github.com/redhat-developer/intellij-functions #
+https://github.com/redhat-developer/app-services-sdk-core # Core for AppServices SDKs. Includes tooling, bundling automation and releases.
+https://github.com/redhat-developer/vscode-marketplace-stats # Scrapper for extension installs from the Visual Studio Code marketplace
+https://github.com/redhat-developer/rhdh-plugin-export-backstage-community-plugins #
+https://github.com/redhat-developer/app-services-ansible # App Services Ansible Collection
+https://github.com/redhat-developer/ide-reviews-watcher #
+https://github.com/redhat-developer/simple-conventional-changelog #
+https://github.com/redhat-developer/dotnet-bunny-log-browser # .NET Bunny: Log Browser
+https://github.com/redhat-developer/developers.redhat.com-email-templates #
+https://github.com/redhat-developer/gitops-must-gather # A client tool for gathering GitOps Operator information in a OpenShift cluster.
+https://github.com/redhat-developer/devspaces-interop-tests #
+https://github.com/redhat-developer/red-hat-developer-hub-customization-provider # A service app to provide app customizations for Red Hat Developer Hub
+https://github.com/redhat-developer/jenkins-operator-manifests # OLM Bundle for https://github.com/redhat-developer/jenkins-operator
+https://github.com/redhat-developer/jenkins-operator-docs # Jenkins Operator Documentation
+https://github.com/redhat-developer/sbo-services-investigation # Investigating using SBO with externally managed clusters.
+https://github.com/redhat-developer/topology-example # Examples for rendering the topology view in OpenShift Developer Console
+https://github.com/redhat-developer/moksha-monitor-exporter # A nanoservice written in Python providing Prometheus export(s) from moksha.monitoring.socket data.
+https://github.com/redhat-developer/dcp-checker # Red Hat Developers DCP broken link checker
+https://github.com/redhat-developer/samples-templates-automation # This project will help us create workflows to communicate with Samples providers
+https://github.com/redhat-developer/redhat-javascript-rest-api-clients # This repository contains set of generated javascript REST clients to call various API endpoints av
+ailable on redhat.com: https://github.com/redhat-developer/broken-link-checks # Broken link checks the Red Hat Developer Program website.
+https://github.com/redhat-developer/app-services-renovate-config # Renovate preset for app-services repos
+https://github.com/redhat-developer/tekton-chatops-example #
+https://github.com/redhat-developer/openshift-app-services-demos # To be used for AppServices samples applications referenced in demos, documentation, and workshops.
+https://github.com/redhat-developer/try-in-dev-spaces-browser-extension #

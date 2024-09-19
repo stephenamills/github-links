@@ -1,0 +1,64 @@
+https://github.com/redhat-et/copilot-ops # copilot-ops is a CLI tool that boosts up any DevOps repo to a ninja level of Artificially I
+ntelligent Ops Repo https://github.com/redhat-et/foundation-models-for-documentation # Improve ROSA customer experience (and customer retention) by lever
+aging foundation models to do “gpt-chat” style search of Red Hat customer documentation assets. https://github.com/redhat-et/microshift-demos #
+https://github.com/redhat-et/homomorphic-learning # Methodology study for multi-party learning (aka Homomorphic Learning)
+https://github.com/redhat-et/wasm-demo-app # WebAssembly Demo App
+https://github.com/redhat-et/ai-for-edge-microshift-demo # This repository contains the code developed for the talk "AI at the Edge wi
+th MicroShift" developed by Miguel Angel Ajo and Ricardo Noriega. https://github.com/redhat-et/whisper-self-hosted-llm # Repository to demonstrate how to build and host the Whisper model locally
+https://github.com/redhat-et/edge-ocp-observability # home for future validated pattern
+https://github.com/redhat-et/transmission #
+https://github.com/redhat-et/whisper-edge-microshift # Whisper on the Edge with MicroShift demo
+https://github.com/redhat-et/time-to-merge-tool # The time to merge model predicts the time that it will take to merge a new Pull Requ
+est on a Git Repository. The TTM model is a classification model which classifies the time taken to merge a PR falls into one of a few predefined time ranges. https://github.com/redhat-et/sigstore-demo #
+https://github.com/redhat-et/crossplane-quay #
+https://github.com/redhat-et/patu # Lightweight CNI for Container Orchestrators managing resource constrained devices.
+https://github.com/redhat-et/ilab-on-ocp #
+https://github.com/redhat-et/api-docs-generation # Generating API docs using Generative AI methods
+https://github.com/redhat-et/emerita # A Lightweight CNI Plugin using eBPF
+https://github.com/redhat-et/net-ebpf-playground #
+https://github.com/redhat-et/performance-benchmarking # Collection of tools and automations for benchmarking data paths
+https://github.com/redhat-et/mlflow-openshift # Deploy and setup MLFlow on OpenShift
+https://github.com/redhat-et/rosa-apps # Gitops repo for ROSA application manifests
+https://github.com/redhat-et/copilot-ops-bot # GitHub App for copilot-ops
+https://github.com/redhat-et/storage-ransomeware-detector # Open Source Summit NA 2022: Manage Session Let Your Cloud Native Storage S
+ave You from Ransomware! - Yuval Lifshitz & Huamin Chen, Red Hat https://github.com/redhat-et/kepler-carbon-intensity-integration # Integrating Kepler and OS-Climate
+https://github.com/redhat-et/kube-nfs-kerberos #
+https://github.com/redhat-et/real-time-data-anonymization # This repo contains demo for KubeCon 2021 talk Real-Time Data Anonymization
+the Serverless Way - Yuval Lifshitz & Huamin Chen, Red Hat https://github.com/redhat-et/zero-trust-catalog # Catalog of zero trust controls and component models for Red Hat products
+https://github.com/redhat-et/edge-security-demo #
+https://github.com/redhat-et/rag #
+https://github.com/redhat-et/ekho # Extending Kernel Hardware Offload (EKHO) – API PoC
+https://github.com/redhat-et/sigstore-rpms # Sigstore RPMs
+https://github.com/redhat-et/fingerprint # Use AI to detect workloads on your system
+https://github.com/redhat-et/ceph-mirroring #
+https://github.com/redhat-et/firmware-on-the-edge # Examples and best practices for peripheral firmware on the Edge
+https://github.com/redhat-et/ipfs-rpm #
+https://github.com/redhat-et/kepler-rhel-demo # Demonstrating KEPLER on RHEL
+https://github.com/redhat-et/ushift-workload # Workload tested on Microshift
+https://github.com/redhat-et/dutlink-board #
+https://github.com/redhat-et/scribe-poc #
+https://github.com/redhat-et/prometheus-federation #
+https://github.com/redhat-et/optimal-stopping-point-tool # This tool would predict an Optimal Stopping point for long running CI tests
+https://github.com/redhat-et/mallocsnoop #
+https://github.com/redhat-et/caliper # A simple CLI tool to grab some simple pod metrics from a prometheus interface
+https://github.com/redhat-et/microshift-config # Device configurations to deploy Microshift on RHEL for Edge
+https://github.com/redhat-et/datascience-wg # This repository will be used to track all the work that comes out of the Data Science Wo
+rking Group https://github.com/redhat-et/microshift-katacoda # Demonstration of MicroShift using Katacoda
+https://github.com/redhat-et/customer-growth-model # The repo enables accurate customer revenue forecasting using ARIMA and other tim
+e series methods. It provides practical examples, data preprocessing, evaluation, and optimization. It also identifies potential customers through market analysis and predictive modeling. Empowering businesses for data-driven growth. https://github.com/redhat-et/ray-on-the-edge-demo # A proof of concept for machine learning workflows using the Ray stack in the data
+center and at the edge. https://github.com/redhat-et/ibm-quantum-operator #
+https://github.com/redhat-et/edge-device-tester #
+https://github.com/redhat-et/open-services #
+https://github.com/redhat-et/ones21-fl-demo # This repo contains demo for "Federated Learning All-in-One Box", Huamin Chen, Ricardo
+Noriega De Soto. Open Networking & EDGE Summit + Kubernetes on EDGE Day 2021 https://github.com/redhat-et/quantum-faq # Collection of Quantum Computing resources and FAQs for people of all levels
+https://github.com/redhat-et/edge-management-helm #
+https://github.com/redhat-et/edge-streaming-demo #
+https://github.com/redhat-et/.github #
+https://github.com/redhat-et/bootc-blog #
+https://github.com/redhat-et/olm-repackage #
+https://github.com/redhat-et/afxdp-network-operator #
+https://github.com/redhat-et/provider-ci #
+https://github.com/redhat-et/rgw-standalone-operator # A Kubernetes Operator to deploy an Object Storage for Edge
+https://github.com/redhat-et/ostree-benchmark #
+https://github.com/redhat-et/opa-example-app # Example application to work with Open Policy Agent (OPA) and OpenShift Pipelines
+https://github.com/redhat-et/quay-chart #

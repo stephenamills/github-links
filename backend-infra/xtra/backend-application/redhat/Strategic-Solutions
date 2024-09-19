@@ -1,0 +1,74 @@
+https://github.com/redhat-na-ssa/flyingthings # Computer vision demo
+https://github.com/redhat-na-ssa/demo-ai-weaviate # Summarize Financial Data with a RAG workflow using Weaviate, Red Hat OpenShift and
+Red Hat Build of Apache Camel. https://github.com/redhat-na-ssa/demo-rosa-sagemaker # How to use ROSA with AWS sagemaker
+https://github.com/redhat-na-ssa/demo-ai-gitops-catalog # A catalog for all things GitOps for AI on OpenShift
+https://github.com/redhat-na-ssa/himss_2021_sepsis_detection #
+https://github.com/redhat-na-ssa/sepsis-detection #
+https://github.com/redhat-na-ssa/redhat-developer-hub-gitops-bootstrap # contains gitops manifests to bootstrap an sample iDP based on
+Red Hat Developer Hub https://github.com/redhat-na-ssa/demo-ocp-gpu # Show some magic around GPUs on OpenShift
+https://github.com/redhat-na-ssa/datasci-keras-gpt2-nlp # GPT2 Text Generation w/ KerasNLP on OpenShift
+https://github.com/redhat-na-ssa/microshift-ansible-pull #
+https://github.com/redhat-na-ssa/rhte-edge-lab-sno #
+https://github.com/redhat-na-ssa/gpu-workshop # Using GPUs on Red Hat Platforms
+https://github.com/redhat-na-ssa/workshop_3scale # 3scale workshop content for Solution Explorer
+https://github.com/redhat-na-ssa/openshift-dev-workflows-gitops-cluster-bootstrap # This project repo contains a set of ArgoCD manifes
+ts used to bootstrap a Openshift Cluster v4.x using GitOps approach. The produced environment is intended for Developer workflows demo. https://github.com/redhat-na-ssa/3scale-okta-rest-adapter #
+https://github.com/redhat-na-ssa/datasci-stock-pipeline # Predicting stock prices using Long Short-Term Memory (LSTM)
+https://github.com/redhat-na-ssa/hobbyist-guide-to-rhoai # This is the Hobbyist Guide to Installing and Configuring RHOAI for customer
+s. Bring your towel. https://github.com/redhat-na-ssa/himss_2022_scm_integration # SCM Integration Demo
+https://github.com/redhat-na-ssa/workshop_performance-monitoring-apps # Applications used within the Performance Monitoring Lab Sessio
+n - Summit 2023 https://github.com/redhat-na-ssa/trafficcounter #
+https://github.com/redhat-na-ssa/ml_data_streamer #
+https://github.com/redhat-na-ssa/rhods-custom-notebook-example #
+https://github.com/redhat-na-ssa/demo-lab-config # Artifacts for deploying a demo lab
+https://github.com/redhat-na-ssa/setup-playbooks # This repo contains general setup playbooks to be shared with anyone interested in s
+etup an environment using Red Hat Products https://github.com/redhat-na-ssa/vacsafe_demo # Vaccine Attestation demo
+https://github.com/redhat-na-ssa/crw_samples #
+https://github.com/redhat-na-ssa/fhir-server-api-management #
+https://github.com/redhat-na-ssa/datasci-fingerprint # Explore the wonders of ML with fingerprints
+https://github.com/redhat-na-ssa/workshop_3scale_fruits-api #
+https://github.com/redhat-na-ssa/ovn-overlay-network-routing #
+https://github.com/redhat-na-ssa/vaccination-scheduling #
+https://github.com/redhat-na-ssa/demo-llm-journey # Demo LLM things
+https://github.com/redhat-na-ssa/ossm_simple_federation #
+https://github.com/redhat-na-ssa/ai-golden-path # Developer Hub Golden Path for AI Systems
+https://github.com/redhat-na-ssa/rhtap-demo1-gitops # This is GitOps repository for rhtap-demo1
+https://github.com/redhat-na-ssa/himss-2021-sepsis-gitops #
+https://github.com/redhat-na-ssa/streamlit-on-openshift # Deploying a standard Streamlit app on OpenShift
+https://github.com/redhat-na-ssa/demo-ai-tgis # Text Generation Inference Server with DevSpaces Code-Llama assistant
+https://github.com/redhat-na-ssa/mlops-basic # Basic demonstration of MLOps using TFX to train and push a Keras binary classifier
+https://github.com/redhat-na-ssa/datasci-tekton # Common Data Science Tekton Things
+https://github.com/redhat-na-ssa/red-wall-demo # A collection of OpenShift configs
+https://github.com/redhat-na-ssa/ocp-virt-win-iis-ossm-pipeline-demo #
+https://github.com/redhat-na-ssa/installation-templates #
+https://github.com/redhat-na-ssa/odh-custom-notebook #
+https://github.com/redhat-na-ssa/ocp-web-terminal-enhanced # An enhanced web terminal for OpenShift
+https://github.com/redhat-na-ssa/rhtap-demo1 # This is rhtap-demo1
+https://github.com/redhat-na-ssa/rhtap-demo2-gitops # This is GitOps repository for rhtap-demo2
+https://github.com/redhat-na-ssa/demo-amd-vllm #
+https://github.com/redhat-na-ssa/odh-custom-notebook-size #
+https://github.com/redhat-na-ssa/performance_monitoring_load_test #
+https://github.com/redhat-na-ssa/demo-ai-devspaces # Using OpenShift Dev Spaces for AI workload development
+https://github.com/redhat-na-ssa/secured-quarkus-app # This is my-trusted-quarkus-app
+https://github.com/redhat-na-ssa/djl-intro #
+https://github.com/redhat-na-ssa/demo-odh # Test Drive OpenDataHub
+https://github.com/redhat-na-ssa/demo-ocr # demo for blueshield CA. Take unstructured pdfs and use labelstudio and tesseract to struct
+ure into chunks for LLM https://github.com/redhat-na-ssa/data-science-notebooks # A collection of Jupyter Notebooks
+https://github.com/redhat-na-ssa/rhdh-tap-dev-ephemeral-env-template # RHDH template for TAP demo thats creates ephemeral environments
+. https://github.com/redhat-na-ssa/smart-cities-traffic-cam #
+https://github.com/redhat-na-ssa/rhdh-springboot-smoke-test-gitops # gitops resources for my-springboot-app
+https://github.com/redhat-na-ssa/secured-quarkus-app-gitops # This is GitOps repository for my-trusted-quarkus-app
+https://github.com/redhat-na-ssa/redhat-na-ssa.github.io # Org Github Pages static website
+https://github.com/redhat-na-ssa/team_docs #
+https://github.com/redhat-na-ssa/object-detection-ui #
+https://github.com/redhat-na-ssa/rosa-aws-secmgr-extsec-integration #
+https://github.com/redhat-na-ssa/rhtap-demo2 # This is rhtap-demo2
+https://github.com/redhat-na-ssa/how-redhat-for-ai-demo # Simple to provision demo that demonstrates OCP, Ansible and RHEL training, d
+eploying and inferencing an ML model https://github.com/redhat-na-ssa/rhdh-bitbucket-auth #
+https://github.com/redhat-na-ssa/rhdh-okta-auth # Red Hat Developer Hub Okta Integration
+https://github.com/redhat-na-ssa/app-services-deploy #
+https://github.com/redhat-na-ssa/yolov5fastapidemo # Project to extend Yolov5 and facade with Rest services via Fast API.
+https://github.com/redhat-na-ssa/demo-ai-wandb # Integrate the Weights & Biases SDK into the Openshift AI Fraud Detection Demo.
+https://github.com/redhat-na-ssa/datasci-fingerprint-data # Data for data science fingerprint demo
+https://github.com/redhat-na-ssa/python3-mongodb-devfile # Sample devfile for Python and MongoDB development
+https://github.com/redhat-na-ssa/demo-amd-config # A cluster GitOps config for AMD GPUs

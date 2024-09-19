@@ -1,0 +1,122 @@
+https://github.com/langchain-ai/langchain # 🦜🔗 Build context-aware reasoning applications
+
+https://github.com/langchain-ai/langchainjs # 🦜🔗 Build context-aware reasoning applications 🦜🔗
+https://github.com/langchain-ai/opengpts #
+https://github.com/langchain-ai/langgraph # Build resilient language agents as graphs.
+https://github.com/langchain-ai/chat-langchain #
+https://github.com/langchain-ai/rag-from-scratch #
+https://github.com/langchain-ai/langserve # LangServe 🦜️🏓
+https://github.com/langchain-ai/langgraph-studio # Desktop app for prototyping and debugging LangGraph applications locally.
+https://github.com/langchain-ai/langchain-nextjs-template # LangChain + Next.js starter template
+https://github.com/langchain-ai/streamlit-agent # Reference implementations of several LangChain agents as Streamlit apps
+https://github.com/langchain-ai/langchain-extract # 🦜⛏️ Did you say you like data?
+https://github.com/langchain-ai/langsmith-cookbook #
+https://github.com/langchain-ai/auto-evaluator #
+https://github.com/langchain-ai/langchain-aiplugin #
+https://github.com/langchain-ai/langchain-template-supabase #
+https://github.com/langchain-ai/langgraphjs # ⚡ Build language agents as graphs ⚡
+https://github.com/langchain-ai/weblangchain # LangChain-powered web researcher chatbot. Searches for sources on the web and cites them in generated answers.
+https://github.com/langchain-ai/langsmith-sdk # LangSmith Client SDK Implementations
+https://github.com/langchain-ai/web-explorer #
+https://github.com/langchain-ai/chat-langchainjs # 💬 Chat with the LangChain JS/TS documentation, with sources. 💬
+https://github.com/langchain-ai/text-split-explorer #
+https://github.com/langchain-ai/langchain-benchmarks # 🦜💯 Flex those feathers!
+https://github.com/langchain-ai/langchain-teacher # Teach LangChain using LangChain!
+https://github.com/langchain-ai/langgraph-example #
+https://github.com/langchain-ai/langchain-aws-template # Build Generative AI applications with Langchain on AWS
+https://github.com/langchain-ai/langchain-academy #
+https://github.com/langchain-ai/langchain-postgres # LangChain abstractions backed by Postgres Backend
+https://github.com/langchain-ai/langchain-google #
+https://github.com/langchain-ai/story-writing #
+https://github.com/langchain-ai/langchain-aws # Build LangChain Applications on AWS
+https://github.com/langchain-ai/kork # Natural Language Interfaces Powered by LLMs
+https://github.com/langchain-ai/langchain-template-poe-fastapi #
+https://github.com/langchain-ai/langsmith-docs # Documentation for langsmith
+https://github.com/langchain-ai/langserve-launch-example # An example application built with LangChain CLI and LangServe
+https://github.com/langchain-ai/langchain-cloudflare-nuxt-template #
+https://github.com/langchain-ai/langgraph-engineer #
+https://github.com/langchain-ai/twitter-finetune #
+https://github.com/langchain-ai/lang-memgpt # A bot with memory, built on LangGraph Cloud.
+https://github.com/langchain-ai/langchain-nvidia #
+https://github.com/langchain-ai/langchain-elastic # Elasticsearch integration into LangChain
+https://github.com/langchain-ai/helm # Repository hosting Langchain helm charts.
+https://github.com/langchain-ai/langserve-replit-template # Replit template for hosting LangChain runnables via LangServe
+https://github.com/langchain-ai/lcel-teacher # Code-Langchain
+https://github.com/langchain-ai/langchain-weaviate #
+https://github.com/langchain-ai/langchain-cohere #
+https://github.com/langchain-ai/prompt-eval-recommendation # Streamlit app for recommending eval functions using prompt diffs
+https://github.com/langchain-ai/langtweet # Use dynamic few-shot selection to tweet in a particular style
+https://github.com/langchain-ai/langgraphjs-studio-starter # Example LangGraph.js project made to run in LangGraph Studio
+https://github.com/langchain-ai/langsmith-wrappers #
+https://github.com/langchain-ai/langgraph-example-pyproject #
+https://github.com/langchain-ai/langsmith-java # LangSmith Java SDK.
+https://github.com/langchain-ai/multi-modal-code-agent #
+https://github.com/langchain-ai/neo4j-semantic-layer #
+https://github.com/langchain-ai/langchain-ai21 #
+https://github.com/langchain-ai/langgraph-memory #
+https://github.com/langchain-ai/langchain-redis #
+https://github.com/langchain-ai/competitor-analysis-bot # Example LangGraph flow that does "competitor analysis" on the web.
+https://github.com/langchain-ai/langchain-datastax # DataStax Astra DB integration with LangChain
+https://github.com/langchain-ai/langchain-upstage #
+https://github.com/langchain-ai/langchain-template-node-cjs #
+https://github.com/langchain-ai/tweet-composer #
+https://github.com/langchain-ai/langgraph-example-monorepo #
+https://github.com/langchain-ai/tweet-critic # "Critique and improve those Xeets"
+https://github.com/langchain-ai/youtube-insights #
+https://github.com/langchain-ai/langchain-ibm #
+https://github.com/langchain-ai/langchainjs-integration-template # Template repo for LangChain.js integration packages
+https://github.com/langchain-ai/langchain-sema4 #
+https://github.com/langchain-ai/react-agent # LangGraph template for a simple ReAct agent
+https://github.com/langchain-ai/cli #
+https://github.com/langchain-ai/workshops-regression-testing #
+https://github.com/langchain-ai/langsmith-model-server # Model Server Template. Used to expose custom models to the LangSmith Playground
+https://github.com/langchain-ai/retrieval-agent-template #
+https://github.com/langchain-ai/infra-test #
+https://github.com/langchain-ai/retrieval-agent-template-js #
+https://github.com/langchain-ai/new-langgraphjs-project # Empty langgraph project template.
+https://github.com/langchain-ai/langgraphjs-starter-template # Extensible starting place for building LangGraph.js workflows in Studio.
+https://github.com/langchain-ai/terraform # Repository containing langchain terraform modules
+https://github.com/langchain-ai/react-agent-js #
+https://github.com/langchain-ai/new-langgraph-project #
+https://github.com/langchain-ai/data-enrichment-js #
+https://github.com/langchain-ai/data-enrichment # LangGraph Studio template for creating an agent that does web research to genearte or enrich structured data.
+https://github.com/langchain-ai/langchain-databricks #
+https://github.com/langchain-ai/ci #
+https://github.com/langchain-ai/langchain-cerebras #
+https://github.com/langchain-ai/langchain-together #
+https://github.com/langchain-ai/.github # Public organization profile
+
+https://github.com/langchain-tech/blogiq # Clone of writesonic.com & copy.ai - BlogIQ is an innovative app powered by OpenAI and Langchain, designed to streamline the content creation process for bloggers.
+https://github.com/langchain-tech/autogen_video_refinement # An application designed to condense lengthy videos into concise, informative clips.
+https://github.com/langchain-tech/langchain-rag # LangChain and Streamlit RAG Demo App on Community Cloud showcases
+https://github.com/langchain-tech/langchain-gemma-ollama-chainlit #
+https://github.com/langchain-tech/pdf-to-trends # PDF chatbot
+https://github.com/langchain-tech/langchain-apps #
+https://github.com/langchain-tech/langchain-chatbot #
+https://github.com/langchain-tech/chatgpt-clone-ollama-streamlit # Retrieve info from PDF documents, powered by Ollama Llama3, LangChain, and Streamlit.
+https://github.com/langchain-tech/postgres-chatbot # Interact with your PostgreSQL database using Streamlit, a Google Generative AI, and LangChain's SQL agent tool.
+https://github.com/langchain-tech/text-to-video-novita-ai # Generate story scripts from user-provided topics, using NovitaAI to convert these scripts into videos and Streamlit.
+https://github.com/langchain-tech/musicgen-text-to-music # Turn your words into music! Describe a sound (e.g., happy, spooky) and this app generates a short piece based on your text.
+https://github.com/langchain-tech/unstructured-io-demo # Retrieve info from PDF documents using Unstructured.io
+https://github.com/langchain-tech/rag-raptor-re-ranker-demo # Reduce hallucinations and improve search relevance by using a re-ranking model.
+https://github.com/langchain-tech/rag-raptor-demo # Retrieve info by constructing a recursive tree structure from documents.
+https://github.com/langchain-tech/rasa-bot # Help users track shipment orders and handle healthcare-related queries by using Rasa
+https://github.com/langchain-tech/project_templates #
+https://github.com/langchain-tech/music-gen-demo #
+https://github.com/langchain-tech/.github #
+
+https://github.com/menloparklab/falcon-langchain # Falcon LLM with Chat UI using LangChain and Chainlit
+https://github.com/menloparklab/langchain-cohere-qdrant-doc-retrieval # This Flask backend API takes a document in multiple formats and allows you to perform semantic search using Langchain, Cohere and Qdrant.
+https://github.com/menloparklab/cohere-weaviate-wikipedia-retrieval # A backend API to perform search over Wikipedia using LangChain, Cohere and Weaviate
+https://github.com/menloparklab/langchain-cohere-qdrant-retrieval # This is a template retrieval repo to create a Flask api server using LangChain with Cohere embeddings and Qdrant Vector Database
+https://github.com/menloparklab/langgraphjourney # A repo to help you learn LangGraph
+https://github.com/menloparklab/langflow-railway-deployment # This can help you deploy LangFlow app to Railway.
+https://github.com/menloparklab/langchain-tutorial # A beginner friendly tutorial repo to learn Python-based LangChain
+https://github.com/menloparklab/stable-diffusion-2 #
+https://github.com/menloparklab/cohere-demo # A backend API showcasing Cohere APIs and usage with LangChain
+https://github.com/menloparklab/semantic-search-application # This is a walkthrough on how to build a Semantic Seach web app using Cohere, Langchain, Qdrant, and OpenAI.
+https://github.com/menloparklab/privategpt-test2 #
+
+https://github.com/aimug-org/austin_langchain # Austin LangChain
+https://github.com/aimug-org/alc-docs #
+https://github.com/aimug-org/.github #

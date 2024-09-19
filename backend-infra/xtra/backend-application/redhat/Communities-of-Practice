@@ -1,0 +1,134 @@
+https://github.com/redhat-cop/agnosticd # AgnosticD - Ansible Deployer for multiple Cloud Deployers
+https://github.com/redhat-cop/ocp4-helpernode # This playbook helps set up an "all-in-one" node, that has all the infrastructure/services in order to install OpenShift 4.
+https://github.com/redhat-cop/gitops-catalog # Tools and technologies that are hosted on an OpenShift cluster
+https://github.com/redhat-cop/automation-good-practices # Recommended practices for all elements of automation using Ansible, starting with collections and roles, continui
+ng with playbooks, inventories and plug-ins... These good practices are planned to be used by all Red Hat teams interested but can of course be used by others. https://github.com/redhat-cop/controller_configuration # A collection of roles to manage Ansible Controller and previously Ansible Tower
+https://github.com/redhat-cop/containers-quickstarts # Images & templates for deploying software to OpenShift
+https://github.com/redhat-cop/openshift-toolkit # A collection of code samples to help you get started with OpenShift
+https://github.com/redhat-cop/infra-ansible # Tooling / Ansible to support the many aspects of infrastructure installation, setup and configuration.
+https://github.com/redhat-cop/namespace-configuration-operator # The namespace-configuration-operator helps keeping configurations related to Users, Groups and Namespaces
+aligned with one of more policies specified as a CRs https://github.com/redhat-cop/rego-policies # Rego policies collection
+https://github.com/redhat-cop/container-pipelines # Let's get the ball rolling on some Container-driven CI & CD
+https://github.com/redhat-cop/operator-utils # Utilities to support operators
+https://github.com/redhat-cop/openshift-management # Set of maintenance scripts & cron jobs for OpenShift Container Platform
+https://github.com/redhat-cop/keepalived-operator # An operator to manage VIPs backed by keepalived
+https://github.com/redhat-cop/patch-operator # An operator to apply patches to Kubernetes objects in a declarative way.
+https://github.com/redhat-cop/group-sync-operator # Synchronizes groups from external providers into OpenShift
+https://github.com/redhat-cop/vault-config-operator # An operator to support Haschicorp Vault configuration workflows from within Kubernetes
+https://github.com/redhat-cop/helm-charts # Helm Charts Repository
+https://github.com/redhat-cop/openshift-applier # Used to apply OpenShift objects to an OpenShift Cluster
+https://github.com/redhat-cop/cert-utils-operator # Set of functionalities around certificates packaged in a Kubernetes operator
+https://github.com/redhat-cop/aap_utilities # Ansible Collection for automated deployment of AAP and other objects for general use
+https://github.com/redhat-cop/podpreset-webhook # Implementation of Kubernetes PodPreset as an Admission Webhook.
+https://github.com/redhat-cop/automate-tower-ha-dr # Configure High Availability and/or Disaster Recovery on a Tower Cluster
+https://github.com/redhat-cop/openshift-disconnected-operators #
+https://github.com/redhat-cop/ee_utilities # This ansible collection includes a number of roles and tools which can be useful for managing Ansible Execution Environments.
+https://github.com/redhat-cop/aap_configuration_template # Ansible Automation Platform Configuration as Code examples template
+https://github.com/redhat-cop/global-load-balancer-operator # A global load balancer operator for OpenShift
+https://github.com/redhat-cop/openshift-templates # A home for templates that do not live in https://github.com/redhat-cop/containers-quickstarts
+https://github.com/redhat-cop/infra.leapp # Collection of Ansible roles for automating RHEL in-place upgrades using Leapp.
+https://github.com/redhat-cop/openshift-lab-origin # OpenShift Upstream Lab Repository. Feedback and PRs welcome!
+https://github.com/redhat-cop/rhel-edge-automation-arch # RHEL for Edge Automation Deployment Architecture
+https://github.com/redhat-cop/babylon # The Babylon Project
+https://github.com/redhat-cop/image-scanning-signing-service # Image Signing and Scanning as a Service
+https://github.com/redhat-cop/egressip-ipam-operator # egressip-ipam-operator
+https://github.com/redhat-cop/infra.osbuild # Ansible Collection for management of ostree composer
+https://github.com/redhat-cop/ocp-disconnected-docs #
+https://github.com/redhat-cop/anarchy # An operator for adding state for arbitrary api interactions
+https://github.com/redhat-cop/cert-operator # An OpenShift controller using the Operator SDK for managing TLS certficate lifecycle
+https://github.com/redhat-cop/declarative-openshift # Working examples of manifests for openshift for use in a declarative management strategy.
+https://github.com/redhat-cop/proactive-node-scaling-operator # An operator to proactively scales Kubernetes clusters
+https://github.com/redhat-cop/ocp4-vsphere-workshop # Workshop Hands-on - Deploying OpenShift on vSphere
+https://github.com/redhat-cop/dynamic-rbac-operator #
+https://github.com/redhat-cop/acm-policies # Curated set of policies for Advanced Cluster Management for Kubernetes
+https://github.com/redhat-cop/tower_grafana_dashboards # Playbook for installing node_exporter on rhel8 and dashboards to import into Grafana and monitor Ansible Tower met
+rics. https://github.com/redhat-cop/gitops-standards-repo-template # Standard structure for an OpenShift multi-cluster day 2 configurations
+https://github.com/redhat-cop/rhis-builder # A Red Hat Technology based lab environment suitable for demonstrating a Red Hat opinionated architecture involving automated S
+tandard Operating Environments for Red Hat Enterprise Linux. https://github.com/redhat-cop/volume-expander-operator #
+https://github.com/redhat-cop/automate-tower # Automating Ansible Tower with Ansible (or the like)
+https://github.com/redhat-cop/network.base # This role provides a single platform-agnostics entry point to manage all the resources supported for a given network OS.
+https://github.com/redhat-cop/eda_configuration # This ansible collection includes a number of roles and modules which can be used to configure and manage Ansible Automati
+on Event Driven Ansible as code. https://github.com/redhat-cop/cloud.azure_ops # Ansible Roles for managing Azure Resources
+https://github.com/redhat-cop/sqlserver-coi # This repository holds code, documentation, playbooks and other artifacts relating to deployment of SQL Server on RHEL and Ope
+nShift. https://github.com/redhat-cop/osia # Tool for reliable automated deployments of OpenShift Container Platform 4.x into OpenStack and AWS.
+https://github.com/redhat-cop/must-gather-operator # An operator to simplify the creation and upload of cluster diagnostics from the must-gather tool
+https://github.com/redhat-cop/project-initialize-operator #
+https://github.com/redhat-cop/ocp4-prereqs-validator # Ansible resources to validate the prerequisites for OpenShift 4
+https://github.com/redhat-cop/k8s_config # Ansible role for managing Kubernetes configuration
+https://github.com/redhat-cop/github-actions # Collection of GitHub Actions implementations
+https://github.com/redhat-cop/edge.microshift # Microshift Management and Automation Collection
+https://github.com/redhat-cop/poolboy # Operator for managing resource claims and provisioning
+https://github.com/redhat-cop/ninja-points # Scripts for the ninja program that integrate with external channels, such as github, gitlab & trello
+https://github.com/redhat-cop/network.bgp # This role provides a single platform-agnostics entry point to manage all the BGP network resources supported for a given networ
+k OS. https://github.com/redhat-cop/cloud.aws_ops # Ansible Roles for managing AWS Resources
+https://github.com/redhat-cop/blockchain-cop # The Blockchain Community of Practice is a place for Red Hatters to learn about decentralized web technologies, including dec
+entralized ledgers, storage, and many others. This repository is meant so serve as both a means of organizing upcoming talks, as well as storing recordings and presentations of past talks, along with any demos/workshops that accompany them. https://github.com/redhat-cop/monitoring # Assets to manage monitoring infrastructure and applications
+https://github.com/redhat-cop/infra.lvm_snapshots # Ansible roles for LVM snapshot management
+https://github.com/redhat-cop/automate-windows # Automating Windows with Ansible and Ansible Tower
+https://github.com/redhat-cop/tool-integrations # Repository for various implementation for integrations between tools
+https://github.com/redhat-cop/disconnectedinfra # Ansible collection designed to support building a disconnected network in a connected world.
+https://github.com/redhat-cop/org # Meta configuration for Red Hat Community of Practice Github Organization
+https://github.com/redhat-cop/infra.convert2rhel # Collection of Ansible roles for automating RHEL in-place conversions using Convert2RHEL.
+https://github.com/redhat-cop/rhel-bootc-examples # Examples repository for RHEL bootc
+https://github.com/redhat-cop/gitwebhook-operator # Automates the setup and configuration of git webhooks
+https://github.com/redhat-cop/agnosticv # Organize and merge YAML files to manage a Catalog
+https://github.com/redhat-cop/redhat-cop.github.io # Global docs and contribution guidelines for the Red Hat Communities of Practice GitHub space
+https://github.com/redhat-cop/redhat-image-mode-demo # Repository to showcase RHEL Image mode
+https://github.com/redhat-cop/ansible_collections_tooling # Various workflows and actions used in the infra collections for pre commit and publishing of ansible collection
+s. https://github.com/redhat-cop/automate_fedora_desktop # An Ansible collection to provision and configure your Fedora desktop
+https://github.com/redhat-cop/network.interfaces # This repository contains the network.interfaces Ansible Collection.
+https://github.com/redhat-cop/vault-plugin-secrets-quay # Vault Secrets plugin for Quay
+https://github.com/redhat-cop/network.telemetry # An Ansible Collection for managing telemetry configuration on network devices and integrating with Event-Driven Ansible (
+EDA). https://github.com/redhat-cop/openshift-iac # FlightPath blueprint for end-to-end automated OpenShift Deployment
+https://github.com/redhat-cop/devspaces-images # A factory model for managing workspace base images for Red Hat OpenShift Dev Spaces
+https://github.com/redhat-cop/cluster-lifecycle # Sample Repository that shows state management
+https://github.com/redhat-cop/network.backup #
+https://github.com/redhat-cop/cloud.aws_troubleshooting # Ansible Roles for troubleshooting AWS Resources
+https://github.com/redhat-cop/elk_automation #
+https://github.com/redhat-cop/automate-exotic # Make exotic platforms work for Ansible (or vice-versa)
+https://github.com/redhat-cop/ansible-zipship # Reference implementations for ZipShip: a solution for orgs to quickly increase usage and adoption of Ansible automation
+https://github.com/redhat-cop/public-cloud-cop # Main github repo for the redhat public cloud cop
+https://github.com/redhat-cop/openshift-infra-skel # Skeleton Repository for starting to manage openshift clusters using Infrastructure as Code
+https://github.com/redhat-cop/agnostics # A multi-cloud scheduler
+https://github.com/redhat-cop/network.vpn # An Ansible Collection to build, maintain and validate VPN tunnels across cloud providers and network appliances.
+https://github.com/redhat-cop/git-flow # Documentation of Our Git Flow preferences
+https://github.com/redhat-cop/rhcert-automation # Ansible automation for partner certification workflow
+https://github.com/redhat-cop/serverlessworkflow-decisioning-cop # Contributors to the ServerlessWorkFlow & Decisioning CoP
+https://github.com/redhat-cop/cloud.terraform_ops # Ansible roles to manage resources needed for Terraform integration with AAP
+https://github.com/redhat-cop/auto-docs # Repository to keep tooling, templates, integrations with various documentation spaces
+https://github.com/redhat-cop/katacoda-scenarios #
+https://github.com/redhat-cop/infra.platform_configuration # A collection of roles to manage Ansible Automation Platform
+https://github.com/redhat-cop/network.ospf # network.ospf Ansible Collection
+https://github.com/redhat-cop/ansible_rekey_variables # It is a collection for managing vaulted Ansible inventories. It helps to rekey all encrypted variables in the inven
+tory repository. Can also be used to encrypt variables from clear text. https://github.com/redhat-cop/ninja-board #
+https://github.com/redhat-cop/github-workflows-operators # Collection of GitHub Actions Workflow implementations
+https://github.com/redhat-cop/cloud.vmware_ops # Ansible roles for managing VMware resources
+https://github.com/redhat-cop/ansible-zipship-images # Ansible ZipShip Images
+https://github.com/redhat-cop/openshift-reference-architectures #
+https://github.com/redhat-cop/homebrew-redhat-cop # Homebrew repository for the Red Hat Community of Practice
+https://github.com/redhat-cop/onboarding-manager # Provides a workflow for opinionated creation of namespaces in OpenShift
+https://github.com/redhat-cop/aap_config_as_code_docs # Central docs for all the AAP config as code collections
+https://github.com/redhat-cop/rhdirt # A collection of tooling and practices for orchestrating disaster recovery exercises on Red Hat products.
+https://github.com/redhat-cop/cloud.gcp_ops # Ansible roles for managing GCP resources
+https://github.com/redhat-cop/hardware_automation_collection # Hardware automation collection that includes bios, racks, and remote management.
+https://github.com/redhat-cop/babylon-events-console # A simple console for running labs on Babylon infrastructure for events such as Red Hat Summit.
+https://github.com/redhat-cop/redhat-cop-operators # Resources associated with operators provided by the Red Hat Community of Practice
+https://github.com/redhat-cop/showroom-code # A Red Hat Technology based environment suitable for demonstrating a Red Hat opinionated architecture involving automated Stan
+dard Operating Environments for Red Hat Enterprise Linux. https://github.com/redhat-cop/network.acls # This repository contains the network.acls Ansible Collection.
+https://github.com/redhat-cop/bats-library # Bash Automated Testing System Library
+https://github.com/redhat-cop/quarkus-scalable-graphql-demo # This is a set of lab instructions, and source code for implementing a GraphQL API using Quarkus+SmallRye Grap
+hQL+Reactive Messaging https://github.com/redhat-cop/appdev-cop #
+https://github.com/redhat-cop/security.firewall_mgmt # Firewall Policy Automation
+https://github.com/redhat-cop/rhdp-monitoring-scripts # Scripts for monitoring various components of Red Hat infrastructure.
+https://github.com/redhat-cop/babylon_agnostics # Ansible role for interacting with the scheduler (https://github.com/redhat-gpe/AgnosticS ) from anarchy babylon governor
+https://github.com/redhat-cop/common-automation #
+https://github.com/redhat-cop/cloud_provision_automation_collection # Cloud automation provision that includes working with rhv, satellite and idm. Also includes configuri
+ng provisioned systems https://github.com/redhat-cop/classroom # Project for workshops/labs creation
+https://github.com/redhat-cop/service-mesh-patterns # Design Considerations at the Edge of the Service Mesh
+https://github.com/redhat-cop/showroom-inventory # Inventory and variable repository that is used by showroom-code
+https://github.com/redhat-cop/gows # A tiny web server written in Go
+https://github.com/redhat-cop/chocolatey-packages # Chocolatey packages produced by the Red Hat Community of Practice
+https://github.com/redhat-cop/testing-cop # General purpose repo for the Testing CoP to use for tracking tasks, GiveBack program, and other things.
+https://github.com/redhat-cop/quay_configuration # Ansible collection for managing Red Hat Quay
+https://github.com/redhat-cop/molecule_cicd_automation # Molecule collection that can be used for testing roles, give examples and keep a standard molecule files that can
+be easily followed. https://github.com/redhat-cop/test-infra # Test infrastructure for the Red Hat Community of Practice

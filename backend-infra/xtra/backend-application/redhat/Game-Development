@@ -1,0 +1,13 @@
+https://github.com/redhat-gamedev/srt-multiplayer-game-design # A repo to contain the design notes and architectural information about the scaleable multiplayer game for OpenShift
+https://github.com/redhat-gamedev/srt-godot-client # Space Rings Thing Game Client (for Red Hat Gaming)
+https://github.com/redhat-gamedev/srt-godot-server #
+https://github.com/redhat-gamedev/srt-game-server #
+https://github.com/redhat-gamedev/srt-web-client # An MVP implementation of a web-based client for the SRT game.
+https://github.com/redhat-gamedev/arcade.redhat.com #
+https://github.com/redhat-gamedev/srt-ruby-lobby # A game lobby using Ruby
+https://github.com/redhat-gamedev/srt-source-assets # Source files for audio, video, graphic, and other assets used in the Space Ring Things game.
+https://github.com/redhat-gamedev/blender-ubi #
+https://github.com/redhat-gamedev/openshift-node-watson #
+https://github.com/redhat-gamedev/srt-website #
+https://github.com/redhat-gamedev/level-up-league-build # Built game files for Level Up League game
+https://github.com/redhat-gamedev/srt-protobufs # Space Rings Thing Protocol Buffers 

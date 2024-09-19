@@ -1,0 +1,53 @@
+https://github.com/redhat-ai-services/ai-accelerator # The AI Accelerator is a template project for setting up Red Hat OpenShift AI using GitOps
+https://github.com/redhat-ai-services/podman-ai-lab-to-rhoai #
+https://github.com/redhat-ai-services/kubeflow-pipelines-examples #
+https://github.com/redhat-ai-services/mlops-demo-getting-started #
+https://github.com/redhat-ai-services/openshift-cluster-bootstrap-gitops #
+https://github.com/redhat-ai-services/ai-accelerator-bootcamp # AI Accelerator bootcamp instructions
+https://github.com/redhat-ai-services/mlops-demo-application-gitops #
+https://github.com/redhat-ai-services/helm-charts #
+https://github.com/redhat-ai-services/mlops-demo-tenant-gitops #
+https://github.com/redhat-ai-services/openshift-acm-cluster-bootstrap-gitops #
+https://github.com/redhat-ai-services/mlops-demo-iris-inference-service #
+https://github.com/redhat-ai-services/starburst-ocp-demo #
+https://github.com/redhat-ai-services/tensorflow-multi-gpu-training-example #
+https://github.com/redhat-ai-services/labelstudio-openshift-deploy #
+https://github.com/redhat-ai-services/llm-sandbox #
+https://github.com/redhat-ai-services/ml-workshop #
+https://github.com/redhat-ai-services/mlops-demo-iris-message-generator #
+https://github.com/redhat-ai-services/mlops-demo-iris-training-service #
+https://github.com/redhat-ai-services/object-bucket-claim-helper #
+https://github.com/redhat-ai-services/aiml-service-offering-blog #
+https://github.com/redhat-ai-services/llm-reference-architecture #
+https://github.com/redhat-ai-services/odh-workbenches-toolbox #
+https://github.com/redhat-ai-services/acm-hub-gitops #
+https://github.com/redhat-ai-services/parasol-training-example #
+https://github.com/redhat-ai-services/mlops-demo-message-generator-quarkus # Message generator using the Quarkus framework
+https://github.com/redhat-ai-services/ai-accelerator-bootcamp-instructions #
+https://github.com/redhat-ai-services/custom-workbench-images-example # This repository is meant to provide some simple examples on how to build custom Workbench Images based on some of the most common use cases.
+
+https://github.com/aicoe/elyra-aidevsecops-tutorial # AIDevSecOps with Thoth and Elyra on ODH/Openshift running on Operate First
+https://github.com/aicoe/aicoe-ci # AICoE-CI using TektonCD pipelines and triggers
+https://github.com/aicoe/internal-data-hub # Deployment Artifacts for all non ODH components used by the Internal Data Hub
+https://github.com/aicoe/pyifd # Python image forgery detection toolkit
+https://github.com/aicoe/meteor # Project meteor
+https://github.com/aicoe/aicoe-cd # This repository contains artifacts for our ArgoCD Deployment
+https://github.com/aicoe/sefkhet-abwy # This is one of the incarnations of Sesheta
+https://github.com/aicoe/sesheta # This bot is doing SrcOps for @thoth-station
+https://github.com/aicoe/aicoe-sre # This repository serves as a central location for services being run by the AICoE SRE team.
+https://github.com/aicoe/seraph # Seraph community project - OS analytics as a service
+https://github.com/aicoe/common # This repository handles a few common things, it is mainly used by our bots...
+https://github.com/aicoe/.github #
+https://github.com/aicoe/jpegio # Code from our modified fork of https://github.com/dwgoon/jpegio It's since been updated for more cur
+rent libjpeg usage and efficiency. JPEGIO is a Python package which provides accelerated ops for manipulating JPG image files. It's used by pyIFD.
+
+https://github.com/rh-rad-ai-roadshow/parasol-insurance #
+https://github.com/rh-rad-ai-roadshow/ai-llm-template #
+https://github.com/rh-rad-ai-roadshow/.github #
+https://github.com/rh-rad-ai-roadshow/pe-guides # Platform Engineer Track Modules
+https://github.com/rh-rad-ai-roadshow/dev-guides # Dev guides for RH AI Roadshow
+https://github.com/rh-rad-ai-roadshow/parasol_knowledge #
+https://github.com/rh-rad-ai-roadshow/builder-guides #
+
+https://github.com/red-hat-academy/openshift-workshop # A workshop covering how to deploy a Minecraft server in OpenShift.
+https://github.com/red-hat-academy/git-guide # An interactive guide to Git and GitHub

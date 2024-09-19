@@ -1,0 +1,79 @@
+https://github.com/rhsyseng/container-rhel-examples #
+https://github.com/rhsyseng/openshift-checks # A collection of scripts to check the health of an OpenShift cluster
+https://github.com/rhsyseng/spring-boot-msa-ocp # Spring Boot Microservices on Red Hat OpenShift Container Platform 3
+https://github.com/rhsyseng/jenkins-on-openshift # Application CI/CD on OpenShift with Jenkins
+https://github.com/rhsyseng/hci # Hyper Converged Infrastructure: Scripts and Templates to deploy OpenStack with Nova Computes and Cep
+h-OSDs running on the same server using OSPd for Red Hat OpenStack Platform 10 https://github.com/rhsyseng/telco-operations # Repository used by the Telco Operations Team
+https://github.com/rhsyseng/operator-utils # Library project for operators written in Go
+https://github.com/rhsyseng/cfme-log-parsing # Scripts to help parse EMS refresh and C&U timings from evm.log
+https://github.com/rhsyseng/openshift-pipeline-library # OpenShift Jenkins Pipeline Library
+https://github.com/rhsyseng/day-two-openstack # a collection of ansible playbooks and artifacts for day 2 openstack tasks
+https://github.com/rhsyseng/ddosify-tooling # Repository with some tooling for ddosify latency API
+https://github.com/rhsyseng/5g-ran-deployments-on-ocp-lab # Lab on how to run 5G RAN Deployments on OpenShift
+https://github.com/rhsyseng/rhcos-slb # Config scripts for RHCOS SLB
+https://github.com/rhsyseng/msa-eap7-ose # S2I project for Microservices using EAP 7 on OSE 3
+https://github.com/rhsyseng/docker-rhel-elasticsearch # Elasticsearch docker rhel-based image
+https://github.com/rhsyseng/t5g-field-support-team-utils # This project contains scripts and utilities used by the Telco5G Field Suppo
+rt Team https://github.com/rhsyseng/amq7 # OpenShift S2I image/templates and accompanying test suite showcasing various AMQ7 broker/router top
+ologies. https://github.com/rhsyseng/fis2-msa # Microservies with JBoss Fuse Integration Services 2.0
+https://github.com/rhsyseng/cluster-relocation-operator #
+https://github.com/rhsyseng/refarch-asciidoc #
+https://github.com/rhsyseng/conv-osp-ceph # Scripts and Templates to deploy OpenStack with Nova Computes and Ceph-OSDs running on the
+same server using OSP-Director and Ceph-Ansible for RH-OSP7 and 8 https://github.com/rhsyseng/pullsecret-validator-cli # This is a tool to validate the Pull Secret file from the command line interface
+. https://github.com/rhsyseng/hpe-discover-2017 #
+https://github.com/rhsyseng/cnv-supplemental-templates # Additional templates for OpenShift Virtualization
+https://github.com/rhsyseng/msa-polyglot-ocp # Polyglot Microservices S2I project on JBoss EAP 7 / OCP 3.3
+https://github.com/rhsyseng/docker-rhel-sonarqube #
+https://github.com/rhsyseng/lib-ps-validator # This project is a Library to validate a pull secret
+https://github.com/rhsyseng/openshift3-msa # S2I project for Microservices using EAP 6 on OSE 3
+https://github.com/rhsyseng/3scale-service-broker # Open Service Broker API implementation for 3scale API Management Platform
+https://github.com/rhsyseng/wildfly-swarm-msa-ocp # Example Microservices recreated with WildFly Swarm on Red Hat OpenShift Container
+Platform 3 https://github.com/rhsyseng/oracle # Repository storing Oracle scripts for the Reference Architectures
+https://github.com/rhsyseng/pullsecret-validator # This is a tool to validate the Pull Secret to know if auth entries are valid or hav
+e been expired https://github.com/rhsyseng/backuprecovery-osp #
+https://github.com/rhsyseng/artifactory-on-openshift # This is JFrog Artifactory on OpenShift 3, a containerized version of Artifactor
+y with an OpenShift template. https://github.com/rhsyseng/cds21-openshift-disconnected # This is a talk to be delivered in the ContainerDays.io 2021 (Hamburg)
+https://github.com/rhsyseng/5g-ran-lab-aap-integration-tools #
+https://github.com/rhsyseng/ocp-on-synergy # Ansible Playbooks to Deploy Synergy Hardware via HPE OneView
+https://github.com/rhsyseng/ocp-demo-workloads # ocp-demo-workloads
+https://github.com/rhsyseng/vflash # Controlling iDRAC 9 vFlash
+https://github.com/rhsyseng/serverless-orchestration # serverless-orchestration
+https://github.com/rhsyseng/podsupervisor # Monitor pods/dns for node not ready
+https://github.com/rhsyseng/osp-hpe # This repository is for the OSP reference architecture on HPE Proliant Servers
+https://github.com/rhsyseng/mobile-osp10 # Repository for sharing templates and scripts used in reference architecture document - Depl
+oying mobile networks using Red Hat OpenStack Platform 10 https://github.com/rhsyseng/hypershift-baremetal-lab # telco-hypershift-baremetal-lab
+https://github.com/rhsyseng/openshift-on-openstack-refarch # Detailed instructions for creating an OpenShift service on OpenStack with
+resource integration https://github.com/rhsyseng/bpms-ocp #
+https://github.com/rhsyseng/bridge-filtering-cni #
+https://github.com/rhsyseng/docker-rhel-kibana # Kibana docker rhel-based image
+https://github.com/rhsyseng/apicast-apb # An Ansible Playbook Bundle (APB) to deploy the 3scale gateway (APIcast)
+https://github.com/rhsyseng/kubevirt-tutorial-testing-deck # Demo/Presentation about how was implemented the Kubevirt-Tutorial tests w
+ith a non-intrusive way of work. https://github.com/rhsyseng/ocp-customizations #
+https://github.com/rhsyseng/locks-exporter # Prometheus exporter for system file lock counts
+https://github.com/rhsyseng/skupper #
+https://github.com/rhsyseng/vertx-msa-ocp # Example Microservices recreated with Vert.x on Red Hat OpenShift Container Platform 3
+https://github.com/rhsyseng/rhmap # Red Hat Mobile Application Platform reference architecture
+https://github.com/rhsyseng/oot-ice #
+https://github.com/rhsyseng/console-cr-form # Go library that runs and serves a React application to expose html forms for custom reso
+urces https://github.com/rhsyseng/pod-pullsecret-reconciler # Helm chart to delete pods stuck in a pending state without image pull secrets
+https://github.com/rhsyseng/cluster0-operators # Prototype for cluster0 operators deployments
+https://github.com/rhsyseng/acm-app-lifecycle-blog #
+https://github.com/rhsyseng/coreos-installer-custom-partitions # Artefacts to allow for custom partitioning via the CoreOS installer
+https://github.com/rhsyseng/eapcluster #
+https://github.com/rhsyseng/katacoda-gitops-multicluster-scenario # Repository used by the Katacoda Scenario https://learn.openshift.c
+om/introduction/gitops-multicluster/ https://github.com/rhsyseng/syseng-trello-reporting # to generate various trello reports
+https://github.com/rhsyseng/rhsyseng.github.io #
+https://github.com/rhsyseng/openshift-virtualization # Repository for the openshift virtualization lab managed and maintained by the R
+HPDs team https://github.com/rhsyseng/telco-ocp-upgrade-lab # Repository for the telco OCP upgrade lab
+https://github.com/rhsyseng/cnv-integration # OpenShift Virtualization Integration Sharables
+https://github.com/rhsyseng/labs # Repo for the public rendering of the labs
+https://github.com/rhsyseng/container-security-demos # Repository used for various demonstrations done around container security.
+https://github.com/rhsyseng/docker-rhel-mongodb # Extend CentOS/RHSCL docker images to cover HA deployment
+https://github.com/rhsyseng/ztp-demo # Demo to showcase the capabilities of ZTP
+https://github.com/rhsyseng/osp7-ospd-rgw-civetweb # Adoc describing how to deoloy RGW on OSP7 controllers using OSPd
+https://github.com/rhsyseng/3scale-apm # API Management with Red Hat 3scale API Management Platform
+https://github.com/rhsyseng/osp7ofi-brownfield # Deploying OSP7 with OFI using an existing Ceph cluter.
+https://github.com/rhsyseng/containerzone-pipeline-library #
+https://github.com/rhsyseng/cicd-jumpstart #
+https://github.com/rhsyseng/acm-app-lifecycle-policies-lab # Repository used by ACM Lab https://github.com/open-cluster-management/lab
+s/tree/master/introduction-to-gitops-and-policies https://github.com/rhsyseng/sno-manual-helper # Helper scripts to install SNO manually with OpenShift installer

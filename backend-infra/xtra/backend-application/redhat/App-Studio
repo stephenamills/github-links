@@ -1,0 +1,43 @@
+https://github.com/redhat-appstudio/infra-deployments # This repository is an initial set of Argo-CD-based deployments of AppStudio co
+mponents to a cluster, plus a script to bootstrap Argo CD onto that cluster (to drive these Argo-CD-based deployments, via OpenShift GitOps). https://github.com/redhat-appstudio/application-service # Hybrid application service creates and manages applications and controls the
+lifecycle of applications https://github.com/redhat-appstudio/managed-gitops # GitOps Service: Backend/cluster-agent/utility components aiming to provided GitOp
+s services via Kubernetes-controller-managed Argo CD https://github.com/redhat-appstudio/o11y # Stonesoup observability
+https://github.com/redhat-appstudio/tssc-sample-templates #
+https://github.com/redhat-appstudio/docs.appstudio.io # This repository is the official source of record for App Studio documentation
+. https://github.com/redhat-appstudio/segment-bridge # Bridge AppStudio/RHTAP K8s cluster events into Segment
+https://github.com/redhat-appstudio/rhtap-installer #
+https://github.com/redhat-appstudio/jvm-build-service # System for rebuilding Java dependencies from source
+https://github.com/redhat-appstudio/dora-metrics # A golang prometheus exporter that collects DORA metrics for StoneSoup services
+https://github.com/redhat-appstudio/rhtap-cli #
+https://github.com/redhat-appstudio/tools #
+https://github.com/redhat-appstudio/jvm-build-data #
+https://github.com/redhat-appstudio/workspace-resource-controller #
+https://github.com/redhat-appstudio/migration #
+https://github.com/redhat-appstudio/rhtap-e2e #
+https://github.com/redhat-appstudio/workload-cluster-templates #
+https://github.com/redhat-appstudio/release-review-rot # Repo for generating review-rot page for Konflux release team
+https://github.com/redhat-appstudio/mpc-stg-test-repo #
+https://github.com/redhat-appstudio/jvm-build-service-builder-images #
+https://github.com/redhat-appstudio/rhtap-utils #
+https://github.com/redhat-appstudio/gitops-repository-template # The template for the user's GitOps repository that would be generated
+by App Studio Application Service https://github.com/redhat-appstudio/ec-cookbook # Docs on using Enterprise Contract with Stonesoup
+https://github.com/redhat-appstudio/performance-toolkit #
+https://github.com/redhat-appstudio/shared-utils #
+https://github.com/redhat-appstudio/dance-bootstrap-app #
+https://github.com/redhat-appstudio/rh-internal-pipeline-bundle #
+https://github.com/redhat-appstudio/gbenhaim-test-repo #
+https://github.com/redhat-appstudio/api-manager #
+https://github.com/redhat-appstudio/tssc-sample-jenkins #
+https://github.com/redhat-appstudio/tssc-sample-pipelines #
+https://github.com/redhat-appstudio/docs # Description of the M3 Demo flow, should be succeeded by real user documentation.
+https://github.com/redhat-appstudio/results-service # Service that enables tasks to securely return results that exceed the Tekton siz
+e limit https://github.com/redhat-appstudio/operator-toolkit-example # Sample operator using operator-toolkit
+https://github.com/redhat-appstudio/infrastructure #
+https://github.com/redhat-appstudio/appstudio.docs.ui.io # App Studio docs landing page.
+https://github.com/redhat-appstudio/perfscale # RHTAP Perf&Scale
+https://github.com/redhat-appstudio/rh-syft # The Red Hat fork of anchore/syft with modifications needed only for Red Hat
+https://github.com/redhat-appstudio/service-provider-integration # Managing access to the third-party service providers
+https://github.com/redhat-appstudio/clone-controller # Clone an Application and associated resources into another namespace.
+https://github.com/redhat-appstudio/helm-repository # Used as hosted Helm for https://github.com/redhat-appstudio/dance
+https://github.com/redhat-appstudio/tssc-sample-gitops #
+https://github.com/redhat-appstudio/appstudio-build-setup #

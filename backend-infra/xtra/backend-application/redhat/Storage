@@ -1,0 +1,64 @@
+https://github.com/red-hat-storage/ocs-ci #
+https://github.com/red-hat-storage/ocs-training # Hands-on workshops for both system administrators and application developers interes
+ted in learning how to deploy, manage and use OpenShift Container Storage (OCS) https://github.com/red-hat-storage/ocs-operator # Operator for RHOCS
+https://github.com/red-hat-storage/cockpit-ceph-installer # Cockpit plugin to simplify Ceph installations
+https://github.com/red-hat-storage/openshift-cic # CNS Inventory file Creator (CIC) , also works for OCS
+https://github.com/red-hat-storage/errata-tool # Modern Python API to Red Hat's Errata Tool
+https://github.com/red-hat-storage/odf-operator # OpenShift Data Foundation Meta Operator
+https://github.com/red-hat-storage/cephci # CEPH-CI is a framework for testing Red Hat Ceph Storage product builds
+https://github.com/red-hat-storage/rhcs-vagrant #
+https://github.com/red-hat-storage/rhocs-backup # Red Hat OpenShift Container Storage (RHOCS) backup scripts.
+https://github.com/red-hat-storage/ceph-qe-scripts # Various QE scripts written by QE for Ceph Testing
+https://github.com/red-hat-storage/rlocker #
+https://github.com/red-hat-storage/odf-multicluster-orchestrator # Multicluster Orchestrator for OpenShift Data Foundation clusters. I
+t uses Open Cluster Management as the multicluster control plane. https://github.com/red-hat-storage/rhgs-vagrant #
+https://github.com/red-hat-storage/ocs-osd-deployer # Tools to deploy OCS on OpenShift Dedicated
+https://github.com/red-hat-storage/ocs-sop # Standard Operating Procedure Documents for OpenShift Data Foundation
+https://github.com/red-hat-storage/dell-ceph-psg # Dell Ceph Performance and Sizing Guide
+https://github.com/red-hat-storage/argocd-odf #
+https://github.com/red-hat-storage/demo-apps #
+https://github.com/red-hat-storage/storage-arch-tools # Storage Architecture Team Tools
+https://github.com/red-hat-storage/ceph-report-parsing # Scripts to parse the output from Ceph Report
+https://github.com/red-hat-storage/rlockertools #
+https://github.com/red-hat-storage/ocs-workloads #
+https://github.com/red-hat-storage/rhcs-qa # Ceph-qa suites for RHCS
+https://github.com/red-hat-storage/mcg-osd-deployer # A deployer for mcg-operator (NooBaa).
+https://github.com/red-hat-storage/odf-console # UI Plugin for ODF Operator.
+https://github.com/red-hat-storage/downstream-cherry-picker # cherry-pick GitHub PRs that correspond to Red Hat Bugzilla bugs
+https://github.com/red-hat-storage/ocs-monkey #
+https://github.com/red-hat-storage/ceph-test-drive-bootstrap # Ceph Test Drive Instructions
+https://github.com/red-hat-storage/managed-fusion-agent # An agent operator for IBM Managed Fusion Service
+https://github.com/red-hat-storage/ocsci-osd # OpenShift Container Storage CI test suite containerisation for OpenShift Dedicated CI
+https://github.com/red-hat-storage/rlockerservices #
+https://github.com/red-hat-storage/ocs-client-operator # An operator to define and connect storage consumers to an external OCS storag
+e provider. https://github.com/red-hat-storage/misoctl # Koji Content Generator for Debian builds
+https://github.com/red-hat-storage/odf-cli # ODF CLI tool
+https://github.com/red-hat-storage/rdopkg-tar # combine many changes with rdopkg
+https://github.com/red-hat-storage/gluster-test-drive-docs #
+https://github.com/red-hat-storage/subpatch # Generate .patch files from a Git submodule
+https://github.com/red-hat-storage/argocd-mcgstandalone #
+https://github.com/red-hat-storage/odf-ms-tools #
+https://github.com/red-hat-storage/ocs-consumer-operator # An operator to define and connect storage consumers to an external OCS stor
+age provider. https://github.com/red-hat-storage/bucko # build unified containers from a compose
+https://github.com/red-hat-storage/flexbench #
+https://github.com/red-hat-storage/sizer #
+https://github.com/red-hat-storage/gluster-test-drive-3.3-files # Files needed on the rhgs nodes in the test drive (playbooks, gdeploy
+.conf, etc) https://github.com/red-hat-storage/hpessa-exporter # SMART information of local storage devices as Prometheus metrics
+https://github.com/red-hat-storage/gluster-test-drive-3.3 # documents and templates for the gluster test drive based on RHGS 3.3
+https://github.com/red-hat-storage/solutions #
+https://github.com/red-hat-storage/read-affinity-scripts # This repo holds the scripts for Ceph/RHCS admin to prepare the cluster for
+implementing read affinity pools on multi-AZ deployment. https://github.com/red-hat-storage/odf-monitoring-tools #
+https://github.com/red-hat-storage/odf-must-gather #
+https://github.com/red-hat-storage/vagrant-common #
+https://github.com/red-hat-storage/ceph-canary #
+https://github.com/red-hat-storage/saworf #
+https://github.com/red-hat-storage/managed-fusion-fleet-reconciler #
+https://github.com/red-hat-storage/common-ci-utils # Repository for common functionality and libraries
+https://github.com/red-hat-storage/mcg-ms-console # UI Plugin for MCG OSD Deployer.
+https://github.com/red-hat-storage/polarion-reporter # A reporter that looks into your Polarion Test Case Management System and report
+s based on your query. https://github.com/red-hat-storage/noobaa-sa-ci # CI for noobaa standalone product
+https://github.com/red-hat-storage/gluster-test-drive-split-module1 # Contains module 1,2 and 3
+https://github.com/red-hat-storage/hotfix-ubuntu # compose Ubuntu hotfixes for support delivery
+https://github.com/red-hat-storage/quay-pull-images # Pull images from quay
+https://github.com/red-hat-storage/noobaa-sa-infra #
+https://github.com/red-hat-storage/mysql-saworf # all the required files for the mysql saworf project

@@ -1,0 +1,234 @@
+https://github.com/juniper/py-junos-eznc # Python library for Junos automation
+https://github.com/juniper/warp17 # The Stateful Traffic Generator for Layer 1 to Layer 7
+https://github.com/juniper/ansible-junos-stdlib # Junos modules for Ansible
+https://github.com/juniper/go-netconf # NETCONF implementation in Go.
+https://github.com/juniper/open-nti # Open Network Telemetry Collector build with open source tools
+https://github.com/juniper/contrail-vrouter # Contrail Virtual Router
+https://github.com/juniper/wistar # Wistar is a tool to help create and share network topologies of virtual machines. It is designed to be light weight enough to run on a laptop or a small dedicated server.
+https://github.com/juniper/junoscriptorium # A repository for scripts and script libraries
+https://github.com/juniper/vqfx10k-vagrant # Vagrant projects for vQFX10k
+https://github.com/juniper/junosautomation # To contain example scripts for different tools.
+https://github.com/juniper/openclos #
+https://github.com/juniper/jsnapy # Python version of Junos Snapshot Administrator
+https://github.com/juniper/yang # Junos Yang module
+https://github.com/juniper/openjnpr-container-vmx # OpenJNPR-Container-vMX
+https://github.com/juniper/junos-terraform #
+https://github.com/juniper/py-junos-netconify # Junos console/bootstrap automation Python module
+https://github.com/juniper/juise # juise is the JUNOS User Interface Script Environment, which allows users to develop, test, and execute script outside of JUNOS. For more information about juise, see:
+https://github.com/juniper/vmx-docker-lwaftr # vMX Lightweight 4over6 Virtual Network Function with Snabb in a Docker Container
+https://github.com/juniper/yapt # Yet Another Provisioning Tool
+https://github.com/juniper/jtimon # Junos Telemetry Interface (JTI) client
+https://github.com/juniper/nita # The parent repo of a framework to automatically build and test networks.
+https://github.com/juniper/py-space-platform # Python library for Junos Space APIs
+https://github.com/juniper/intro-to-using-ansible-with-junos-os # Examples of Using Ansible with Junos Devices
+https://github.com/juniper/puppet-netdev-stdlib-junos # Junos specific Provider code for "netdev_stdlib". Netdev is a vendor-neutral network abstraction framework
+https://github.com/juniper/vsrx-aws # vSRX for Amazon Web Services
+https://github.com/juniper/junos-snapshot-administrator #
+https://github.com/juniper/contrail-vnc # Contrail Virtual Network Controller
+https://github.com/juniper/splitcopy # Improves file transfer rates when copying files to/from JUNOS/EVO/\*nix hosts.
+https://github.com/juniper/ebplane # eBPF based dataplane prototypes
+https://github.com/juniper/docker-saltstack-junos # Dockerfile to create a working Saltstack container for Junos
+https://github.com/juniper/meshrr # Hierarchical Route Reflectors and Route Servers @ Scale w/ Juniper cRPD & Kubernetes
+https://github.com/juniper/netconf-perl # Perl library for Netconf
+https://github.com/juniper/telemetry # Juniper Telemetry models, augments and deviations
+https://github.com/juniper/simple_reg_model # System verilog register model for uvm testbenches.
+https://github.com/juniper/jp4agent # Juniper's P4 Runtime server implementation.
+https://github.com/juniper/contrail-operator # Juniper K8s contrail operator
+https://github.com/juniper/contrail-container-builder # Build contrail networking control components as micro-services
+https://github.com/juniper/contrail-neutron-plugin # Opencontrail Neutron plugin + extensions
+https://github.com/juniper/contrail-tripleo-heat-templates # Contrail tripleO heat templates
+https://github.com/juniper/ruby-junos-ez-srx # Ruby libraries support Junos automation via NETCONF - "SRX library"
+https://github.com/juniper/vijava #
+https://github.com/juniper/contrail-web-core # Contrail web ui backend code
+https://github.com/juniper/juniper-pytest # Automate the configuration and validation of Juniper network equipment with Python and Ansible.
+https://github.com/juniper/jet-app-store # App store for Jet Apps
+https://github.com/juniper/topoviz # A network topology visualisation tool. Creates a force directed graph from the output of a JUNOS cli cmd
+https://github.com/juniper/contrail-dev-env #
+https://github.com/juniper/terraform-provider-apstra # Apstra Terraform Provider
+https://github.com/juniper/netconf-call-home #
+https://github.com/juniper/contrail-charms # Juju charms for Contrail services.
+https://github.com/juniper/contrail-kubernetes-docs #
+https://github.com/juniper/virtfs # VirtFS kernel driver for FreeBSD
+https://github.com/juniper/contrail-sandesh # Contrail analytics IDL
+https://github.com/juniper/nita-webapp # nita-webapp, a lightweight django based webapp that orchestrates jenkins, ansible and robot, part of the Juniper NITA solution
+https://github.com/juniper/contrail-test #
+https://github.com/juniper/contrail-heat # Openstack heat plugin and resources
+https://github.com/juniper/nita-robot # Robot Framework test automation framework, part of the Juniper NITA solution
+https://github.com/juniper/contrail-generateds # Contrail XML schema code generator
+https://github.com/juniper/contrail-server-manager # contrail server management
+https://github.com/juniper/yangc # YANG Compiler for JUNOS
+https://github.com/juniper/contrail-helm-deployer # Contrail Helm based deployment
+https://github.com/juniper/lab-doc-convert #
+https://github.com/juniper/contrail-fabric-utils # packaging
+https://github.com/juniper/container-networking-ansible # Ansible provisioning for container networking solutions using OpenContrail
+https://github.com/juniper/juniper-newrelic-plugin # New Relic Plugin for monitoring Juniper devices
+https://github.com/juniper/contrail-dpdk # dpdk fork
+https://github.com/juniper/contrail-packages # Build and packaging scripts for OpenContrail.
+https://github.com/juniper/contrail-go-api # golang API bindings for OpenContrail
+https://github.com/juniper/nita-yaml-to-excel # yaml2xls, a library and tools for converting between yaml files and MS excel, part of the Juniper NITA solution
+https://github.com/juniper/vsrx-azure #
+https://github.com/juniper/contrail-web-controller # contrail web ui controller code
+https://github.com/juniper/py-jnpr-wlc # EXPERIMENTAL: Python library for Juniper Wireless Lan Controller (WLC) product
+https://github.com/juniper/contrail-packaging # Contrail VNC packaging
+https://github.com/juniper/contrail-specs # Repository for docs and specs
+https://github.com/juniper/vmx-heat-templates # vMX Heat templates
+https://github.com/juniper/healthbot-py-client # Python library that provides REST interface to the HealthBot server
+https://github.com/juniper/contrail-build # Contrail VNC build tools
+https://github.com/juniper/junos-extension-toolkit # A repository to store JET IDL files
+https://github.com/juniper/space-ansible-collection # space-ansible-collection
+https://github.com/juniper/jetez # Lightweight alternative to JET
+https://github.com/juniper/netlink-agent # netlink
+https://github.com/juniper/nita-ansible # Ansible, a radically simple IT automation engine, part of the Juniper NITA solution
+https://github.com/juniper/nita-cli #
+https://github.com/juniper/contrail-networking # Automate contrail config provisioning using GitOps based delivery
+https://github.com/juniper/amt-vlc # Module for the VLC media player leveraging AMT functionality
+https://github.com/juniper/contrail-chef # Contrail Chef Cookbooks
+https://github.com/juniper/qfx5100-book # GitHub Repo for the O'Reilly QFX5100 book by Doug Hanks
+https://github.com/juniper/contrail-charts # A chart library by Contrail using D3 and Backbone.
+https://github.com/juniper/fluent-plugin-udp-native-sensors #
+https://github.com/juniper/openjnpr_vmx_scripts # AWS HA scripts
+https://github.com/juniper/nita-jenkins # Jenkins - leading open source automation server, part of the Juniper NITA solution
+https://github.com/juniper/terraform-provider-junos-vsrx # Terraform provider for Junos vSRX devices
+https://github.com/juniper/contrail-api-client # Contrail api client bindings
+https://github.com/juniper/contrail-ansible # Ansible scripts used by server manager
+https://github.com/juniper/contrail-pipelines # Automate contrail config provisioning using GitOps based delivery
+https://github.com/juniper/contrail-web-server-manager # UI for contrail server manager
+https://github.com/juniper/contrail-python-api # Python API client for Contrail
+https://github.com/juniper/ukai #
+https://github.com/juniper/contrail-provisioning # Contrail Provisioning tools
+https://github.com/juniper/contrail-third-party # Third Party sources
+https://github.com/juniper/contrail-vcenter-plugin #
+https://github.com/juniper/contrail-analytics # Contrail Analytics
+https://github.com/juniper/terraform-apstra-examples #
+https://github.com/juniper/apstra-go-sdk # Go SDK for Apstra
+https://github.com/juniper/sky-enterprise-templates #
+https://github.com/juniper/contrail-dev-controller # Development repo for contrail-controller (forked from Juniper/contrail-controller)
+https://github.com/juniper/container-networking-builder # OpenContrail container builder
+https://github.com/juniper/trishool # Malware Reversal Toolkit
+https://github.com/juniper/bgp-sharding #
+https://github.com/juniper/terraform-provider-mist # Terraform Provider for Juniper Mist
+https://github.com/juniper/logstash-plugin-udp-native-sensors #
+https://github.com/juniper/honeyprocs # Deception Technology for Endpoints
+https://github.com/juniper/wedge # API broker for Handling different data formats and transports
+https://github.com/juniper/cn2dayone # CN2 Day One Book
+https://github.com/juniper/branch-locker # manage write access to a branch in a repository
+https://github.com/juniper/contrail-puppet # Puppet recipes for Contrail components
+https://github.com/juniper/openjnpr-hello-world # How to get the "show system information" via API on Junos devices using multiple languages and tools.
+https://github.com/juniper/protoc-wedge # protoc-wedge: Generate descriptor files for use with Wedge API broker(https://github.com/Juniper/wedge)
+https://github.com/juniper/vrouter-xen-utils # XAPI vif plugin scripts for XenServer
+https://github.com/juniper/logstash-plugin-grpc-oc-keyvalue #
+https://github.com/juniper/contrail-vcenter-fabric-manager # contrail vcenter fabric manager
+https://github.com/juniper/contrail-community-docs # Contrail Community documents
+https://github.com/juniper/contrail-nova-vif-driver # OpenStack Nova VIF driver for OpenContrail
+https://github.com/juniper/contrail-vrouter-java-api # OpenContrail VRouter Java API
+https://github.com/juniper/contrail-ansible-internal #
+https://github.com/juniper/contrail-common # Shared repo for common code such as schema, UVEs, libs, etc
+https://github.com/juniper/chassisinfofetcher #
+https://github.com/juniper/contrail-infra # New home for CI infrastructure code
+https://github.com/juniper/contrail-test-ci # Contrail Test Suite for CI/CD
+https://github.com/juniper/contrail-vro-plugin # OpenContrail vRO Plugin
+https://github.com/juniper/jepop # removes Juniper Ethernet headers from packets in a .pcap
+https://github.com/juniper/open-nti-kafka-consumer #
+https://github.com/juniper/contrail-vcenter-manager #
+https://github.com/juniper/contrail-examples # Sample files
+https://github.com/juniper/boto #
+https://github.com/juniper/contrail-web-storage # contrail UI for storage cluster/nodes
+https://github.com/juniper/contrail-maven # Java contrail-api library binaries
+https://github.com/juniper/apstrapowerpacks # Interesting projects to use Juniper Apstra to solve complicated problems
+https://github.com/juniper/csrx-scripts # Scripts to ease the deployment of the Juniper Container FIrewall, the cSRX
+https://github.com/juniper/contrail-tripleo-puppet # tripelO contrail plugin
+https://github.com/juniper/contrail-java-api # OpenContrail Java libraries
+https://github.com/juniper/contrail-ceilometer-plugin # OpenContrail Ceilometer Plugin
+https://github.com/juniper/contrail-dpdk-extra-packages # Patches in Qemu for contrail project.
+https://github.com/juniper/juniper.github.io # Source code for juniper.github.io
+https://github.com/juniper/contrail-zuul-jobs #
+https://github.com/juniper/contrail-webui-third-party #
+https://github.com/juniper/routing # Routing
+https://github.com/juniper/fluent-plugin-grpc-oc-keyvalue #
+https://github.com/juniper/contrail-third-party-packages # repo to keep spec and debian files for third party packages built by contrail
+https://github.com/juniper/contrail-windows-infra #
+https://github.com/juniper/py-auto-resource-generator # Python library for conversion of standardiszed Yang data model to IT automation tool data model for Puppet and Chef
+https://github.com/juniper/open-nti-input-jti # DEPRECATED
+https://github.com/juniper/contrail-project-config-dev #
+https://github.com/juniper/acvp-parser # A Parser for Automated Cryptographic Validation Protocol (ACVP) Test Vectors
+https://github.com/juniper/apstra-ansible-collection # Ansible collection for Juniper Apstra
+https://github.com/juniper/contrail-nova-extensions # Contrail changes in stock nova
+https://github.com/juniper/contrail-dci # Tests for Redhat integration with Contrail
+https://github.com/juniper/pin-py-client # Paragon Insights Python Client
+https://github.com/juniper/mnha-software-upgrade #
+https://github.com/juniper/jvd # Configuration repository for Juniper Validated Design (JVD)
+https://github.com/juniper/jccm # Juniper Cloud Connection Manager (JCCM): Automate the adoption and management of Juniper network devices with seamless integration to Juniper cloud services.
+https://github.com/juniper/appformix_northstar #
+https://github.com/juniper/grafana-can-plugin # CAN data source plugin code for Grafana
+https://github.com/juniper/contrail-aws-ci-provisioning # Provisioning scripts for the AWS infrastructure
+https://github.com/juniper/contrail-third-party-cache # to store third party source and use it as a cache
+https://github.com/juniper/cin-controller # CIN controller
+https://github.com/juniper/terraform-provider-contrail # Teraform provider for Contrail VNC apis.
+https://github.com/juniper/contrail-windows-ci-infra #
+https://github.com/juniper/contrail-horizon # Contrail extension to Openstack horizon.
+https://github.com/juniper/ecb2gmake #
+https://github.com/juniper/contrail-windows-docker-driver #
+https://github.com/juniper/contrail-windows # Files related to vrouter on windows
+https://github.com/juniper/contrail-dev-generateds # Contrail development repo (forked from Juniper/contrail-generateDS)
+https://github.com/juniper/contrail-distro-third-party # Third party code for Juniper's OpenStack distribution
+https://github.com/juniper/container-agent # Containerized Agents
+https://github.com/juniper/sas # Security @ Scale Repository, requested by Ravi Kumar (kumravi@juniper.net)
+https://github.com/juniper/contrail-ci-test # Contrail CI Test
+https://github.com/juniper/contrail-project-config # Configuration of CI services and resources
+https://github.com/juniper/contrail-infra-doc #
+https://github.com/juniper/contrail-publisher #
+https://github.com/juniper/ansible-role-puppet #
+https://github.com/juniper/eda-apstra-project # Event-Driven Ansible project for Juniper Apstra
+https://github.com/juniper/contrail-windows-ci # Zuulv2 based CI system for testing Contrail on Windows platform.
+https://github.com/juniper/contrail-puppet-thirdparty # Third party puppet module
+https://github.com/juniper/contrail-windows-test # Repository for Testing contrail Windows
+https://github.com/juniper/contrail-deployers-containers # Definitions for containers with various Contrail deployers.
+https://github.com/juniper/netconf-https-outbound # netconf-https-outbound repo
+https://github.com/juniper/contrail-f5 # F5 driver code
+https://github.com/juniper/open-nti-input-syslog # DEPRECATED - Standalone container running fluentd to parse syslog
+https://github.com/juniper/contrail-windows-tools # Set of tools for users and developers of Contrail Windows.
+https://github.com/juniper/terraform # Everything terraform
+https://github.com/juniper/ansible-role-borg #
+https://github.com/juniper/cn2-helm # cn2-helm
+https://github.com/juniper/contrail-config-test # contrail-config-test
+https://github.com/juniper/contrail-dev-vrouter # Contrail development repo (forked from Juniper/contrail-vrouter)
+https://github.com/juniper/contrail-ui-third-party-cache # UI third party cache
+https://github.com/juniper/contrail-config-test1 # contrail-config-test1
+https://github.com/juniper/contrail-windows-docs # Windows Contrail documentation.
+https://github.com/juniper/puppet-gerrit #
+https://github.com/juniper/puppet-nodepool #
+
+https://github.com/juniper-se/apstra-configlets #
+https://github.com/juniper-se/apstra-freeform # Freeform Config Templates and Property Sets for useful network designs
+https://github.com/juniper-se/srx-audit # Nornir will audit a Juniper SRX [Proof of concept]
+https://github.com/juniper-se/jcl_util # JCL utilities
+https://github.com/juniper-se/jsnapy-tests # Test and support files for Juniper/jsnapy
+https://github.com/juniper-se/apstra_iba_probes #
+https://github.com/juniper-se/mac_to_auth_table #
+https://github.com/juniper-se/upgrade-junos-software #
+https://github.com/juniper-se/srx-configure-security-policies # Leverages Nornir to configure security policies
+https://github.com/juniper-se/hogwarts #
+https://github.com/juniper-se/git-apstra-done #
+https://github.com/juniper-se/vnf-on-juniper-nfx-with-ansible # Create, configure, launch and stop a VNF (like vSRX or Ubuntu) on a NFX platform
+https://github.com/juniper-se/fluent-plugin-jti-nus #
+https://github.com/juniper-se/vmm-v3-script #
+https://github.com/juniper-se/junos-config-push-with-python # Push a config from a file using python
+https://github.com/juniper-se/srx-get-security-zones # Use scrapli to retrieve security zone information from a Juniper SRX firewall
+https://github.com/juniper-se/kea_crpd_hook # Use Kea DHCP server hooks to inject routes into cRPD
+https://github.com/juniper-se/conversion_acitoapstra #
+https://github.com/juniper-se/atpcloud_api #
+https://github.com/juniper-se/security-policies-sync # Checks security policies of SRX HA pairs and resyncs if needed
+https://github.com/juniper-se/srx-configure-interfaces # Configure SRX interfaces with Scrapli
+https://github.com/juniper-se/srx-security-zone-sessions # This Ansible example will show how to retrieve the security session count by zone.
+https://github.com/juniper-se/poc_helper #
+https://github.com/juniper-se/space-dedupe # Mass Merge Duplicate Objects in Space SD
+https://github.com/juniper-se/junos-network-ready # Scripts to help various operations
+https://github.com/juniper-se/price-list-queries # python script to interact with juniper price list
+https://github.com/juniper-se/apstra-chaos-cat # Script to easily create failure conditions in an Apstra cloudlabs or slicer topology - this can help SEs demo Apstra's day2 operations.
+https://github.com/juniper-se/apstra-create-vns # Create Routing zones and Virtual networks using Apstra API calls
+
+https://github.com/jnprautomate/unicast2multicast-translator # A service that translates unicast traffic to multicast traffic.
+https://github.com/jnprautomate/junos-automation-examples # Various Junos automation examples
+https://github.com/jnprautomate/jnprautomate.github.io # Juniper GitHub landing page & wiki
+https://github.com/jnprautomate/juniper-device-ansible-playbooks # Playbooks using Juniper's Ansible Collection (juniper.device) for Junos working with Ansible Base.
+https://github.com/jnprautomate/junos-software-upgrades # Repository built for community contributions for upgrading Junos OS.

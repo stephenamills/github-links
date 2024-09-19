@@ -1,5 +1,18 @@
 https://github.com/redhat-scholars/ansible-tutorial
 
+https://github.com/ansible-content-lab/cloud-deploy # Governing Self-Service On-Demand Cloud Provisioning (AWS and GCP)
+https://github.com/ansible-content-lab/aws.infrastructure_config_demos # A collection of playbooks and roles that demonstrates configuring AWS services and connecting to those services. The networking examples are configured such that peering Ansible on AWS marketplace offerings is possible.
+https://github.com/ansible-content-lab/azure_terraform_deployment #
+https://github.com/ansible-content-lab/azure.infrastructure_config_demos # A collection of playbooks and roles that demonstrates configuring Azure services and connecting to those services. The networking examples are configured such that peering Ansible on Azure marketplace offerings is possible.
+https://github.com/ansible-content-lab/azure_ansible_deployment # Examples for deploying Ansible on Azure
+https://github.com/ansible-content-lab/aws_ansible_deployment # Ansible collection for deploying Ansible Automation Platform on AWS
+https://github.com/ansible-content-lab/aoc.controller_demo_config # Collection that demonstrates using git to manage Ansible Automation Controller on Azure with configuration as code.
+https://github.com/ansible-content-lab/aws_terraform_deployment #
+https://github.com/ansible-content-lab/ansible-content-lab.github.io # GitHub.io pages for Ansible Incubated Content
+https://github.com/ansible-content-lab/azure.savings_optimization # (Opt in) Turn off Azure instances or leverage tags to turn off instances
+https://github.com/ansible-content-lab/lab.linux # Linux use case incubation
+https://github.com/ansible-content-lab/gcp_terraform_deployment #
+
 https://github.com/ansible/ansible # Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code de
 ployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. https://github.com/ansible/awx # AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Pla
 tform. https://github.com/ansible/molecule # Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
@@ -349,6 +362,174 @@ https://github.com/ansible-lockdown/MPG-AL-READTHEDOCS # MindPoint Group Ansible
 https://github.com/ansible-lockdown/TOMCAT-9-STIG # STIG Baseline Ansible Role for Tomcat 9
 https://github.com/ansible-lockdown/CISCO-IOS-L2S-STIG # STIG Baseline Ansible Role For Cisco IOS L2 Switch
 https://github.com/ansible-lockdown/CISCO-IOS-RTR-STIG #
+
+https://github.com/ansible-middleware/keycloak # Collection to install and configure Keycloak or Red Hat Single Sign-On / Red
+Hat Build of Keycloak https://github.com/ansible-middleware/amq # A collection to manage AMQ brokers
+https://github.com/ansible-middleware/wildfly # A collection of roles to help install, setup and maintain Java JEE appserver W
+ildfly https://github.com/ansible-middleware/infinispan # Collection to install infinispan server configurations
+https://github.com/ansible-middleware/ansible_collections_jcliff #
+https://github.com/ansible-middleware/amq_streams #
+https://github.com/ansible-middleware/cross-dc-rhsso-demo # Cross-Datacenter Replication mode lets you run Red Hat Single Sign
+-On in a cluster across multiple data centers, most typically using data center sites that are in different geographic regions. When using this mode, each data center will have its own cluster of Red Hat Single Sign-On servers. https://github.com/ansible-middleware/jws # Ansible collection containing playbook and role to install jws
+https://github.com/ansible-middleware/ansible-middleware-workshop #
+https://github.com/ansible-middleware/flange-demo # A small demo of setting up a Wildfly cluster on a single node, using Ansib
+le (and the JCliff Ansible Collections) https://github.com/ansible-middleware/wildfly-cluster-demo #
+https://github.com/ansible-middleware/ansible-middleware-ee # Execution Environment providing middleware automation collection
+s https://github.com/ansible-middleware/common # Collection containing common utilities to support Ansible Middleware automation
+https://github.com/ansible-middleware/aws-eapamq-demo #
+https://github.com/ansible-middleware/eap-upgrade-and-modcluster # Demonstrate how to fully automate the upgrade of an EAP ins
+tances with httpd+modcluster as a load balancer in front. https://github.com/ansible-middleware/collections-helper-scripts # Helper scripts to generate documentation for role arguments
+in ansible collections https://github.com/ansible-middleware/ansible-lint-custom-rules # ansible-lint custom ruleset used for middleware_automation c
+ollections https://github.com/ansible-middleware/redhat-csp-download # Ansible collection for downloading resources from the Red Hat Cust
+omer Portal https://github.com/ansible-middleware/ansible-middleware-clouds-ee #
+https://github.com/ansible-middleware/core # Core project used by the team to discuss, record decisions, plan roadmap, ...
+https://github.com/ansible-middleware/quarkus #
+https://github.com/ansible-middleware/jws-app-update-demo #
+https://github.com/ansible-middleware/crossdc-rhsso-workshop #
+https://github.com/ansible-middleware/aws-sso-demo #
+https://github.com/ansible-middleware/amq_broker_split_brain #
+https://github.com/ansible-middleware/jbcs # Collection to install and configure JBoss Core Services as a reverse proxy / modc
+luster instance. https://github.com/ansible-middleware/nextgen-website # Future website for the Ansible Middleware Project
+https://github.com/ansible-middleware/amq_streams-demo #
+https://github.com/ansible-middleware/instruqt-a4mw-eap-sso #
+https://github.com/ansible-middleware/wildfly-testing-artifacts # Stores and versionning testing artefacts used by the Ansible
+collection for Wildfly https://github.com/ansible-middleware/amq_broker_ha_replication #
+https://github.com/ansible-middleware/jws-azure-demo #
+https://github.com/ansible-middleware/amq_streams_demo #
+https://github.com/ansible-middleware/azure-sso-demo #
+https://github.com/ansible-middleware/homebrew-tap # Homebrew Tap for Ansible Middleware Organization
+https://github.com/ansible-middleware/azure-eap-demo #
+https://github.com/ansible-middleware/ansible-middleware.github.io #
+https://github.com/ansible-middleware/wildfly-jdbc-driver # Demonstrate how to install and enable a JDBC driver for Wildfly us
+ing Ansible and JCliff. https://github.com/ansible-middleware/common_criteria_demo #
+https://github.com/ansible-middleware/devconf-demo #
+https://github.com/ansible-middleware/github-actions #
+https://github.com/ansible-middleware/common_criteria # Collection to handle common criteria certification
+https://github.com/ansible-middleware/eap-migration-demo # A small proof of concept around JBoss EAP upgrade, from RPM install
+ation using the migration tool. https://github.com/ansible-middleware/devnexus-demo #
+https://github.com/ansible-middleware/addressbook #
+https://github.com/ansible-middleware/instruqt # Self-paced instruqt Training material
+https://github.com/ansible-middleware/janus #
+https://github.com/ansible-middleware/eap-httpd-lb-demo #
+https://github.com/ansible-middleware/eap-cluster-ocpv #
+https://github.com/ansible-middleware/wfl-mini-conf-demo #
+https://github.com/ansible-middleware/collection-docs-action # A github composite action to generate documentation and changel
+ogs for ansible collections https://github.com/ansible-middleware/ocpv_lab # Demonstrating the use of OpenShift Virtualization as an operating environment
+https://github.com/ansible-middleware/rhbk-datagrid-aws # Provision and deploy a Red Hat Build of Keycloak multi-regional auth
+entication service on AWS https://github.com/ansible-middleware/release_validator #
+https://github.com/ansible-middleware/eap-cluster-demo #
+https://github.com/ansible-middleware/jdk-inventory-demo #
+
+https://github.com/ansible-network/network-engine # This role provides the foundation for building network roles by providing
+modules and plugins that are common to all Ansible Network roles. https://github.com/ansible-network/cisco_ios # Ansible Network Cisco IOS Provider Role
+https://github.com/ansible-network/config_manager # Ansible Network Config Manager Role
+https://github.com/ansible-network/cisco_nxos # Ansible Network Cisco NX-OS Provider Role
+https://github.com/ansible-network/resource_module_models # Models used for building and maintaining resource modules
+https://github.com/ansible-network/juniper_junos # Ansible Network Juniper JUNOS Provider Role
+https://github.com/ansible-network/network-image-builder #
+https://github.com/ansible-network/collection_prep #
+https://github.com/ansible-network/resource_module_builder # Scaffold and maintain resource modules
+https://github.com/ansible-network/network-runner # Ansible Network Runner
+https://github.com/ansible-network/github_actions # A repository for github actions
+https://github.com/ansible-network/cloud_vpn # Ansible Cloud VPN Role
+https://github.com/ansible-network/cisco_iosxr # Ansible Network Cisco IOS-XR Provider Role
+https://github.com/ansible-network/cli_rm_builder # Ansible Network Resource Module Builder to scaffold cli-based modules that
+use the new network parsing engine. https://github.com/ansible-network/vyos # Ansible Network VyOS Provider Role
+https://github.com/ansible-network/arista_eos # Ansible Network Arista EOS Provider Role
+https://github.com/ansible-network/backup_config # Ansible role for backup of running configurations from network devices
+https://github.com/ansible-network/cisco_asa # Ansible Network Cisco ASA Provider Role
+https://github.com/ansible-network/zuul-config # Repo containing Zuul project configuration
+https://github.com/ansible-network/windmill-config # Ansible configuration files for windmill project
+https://github.com/ansible-network/content_store # Ansible Network content store role
+https://github.com/ansible-network/rhel # Ansible Network Red Hat RHEL Provider Role
+https://github.com/ansible-network/aws # Ansible Network Amazon AWS Provider Role
+https://github.com/ansible-network/ansible_collections.community.vmware # Ansible Collection for VMWare
+https://github.com/ansible-network/openstack # Ansible Network OpenStack Provider Role
+https://github.com/ansible-network/releases # Release jobs / content for Zuul
+https://github.com/ansible-network/packet-ci-cloud # CI/CD Deployment of Packet Nodepool cloud
+https://github.com/ansible-network/network_content_collector # Ansible Network content creator for collections
+https://github.com/ansible-network/ansible-zuul-jobs # Defines test jobs and roles
+https://github.com/ansible-network/aws_management # IAM Policies and Management Tools for the Ansible Networking AWS Account
+https://github.com/ansible-network/network.troubleshoot # This Repository Contains Operations for Network Troubleshooting
+https://github.com/ansible-network/project_layout #
+https://github.com/ansible-network/network_configurator # Ansible role to configure Tower for network operations
+https://github.com/ansible-network/sandbox # Sandbox for first time contributors
+https://github.com/ansible-network/networking-docs # A collection of documentation related to using and developing Ansible Net
+work automation content. https://github.com/ansible-network/ansible_collections.community.aws # Ansible Collection for Amazon AWS
+https://github.com/ansible-network/network.restore # Ansible Network Restore collection contains the platform agnostic role to
+manage network config restore use cases https://github.com/ansible-network/network_collections_migration # Supported Ansible Network collections and migration scenari
+os https://github.com/ansible-network/azure # Ansible Network Microsoft Azure Provider Role
+https://github.com/ansible-network/k8s-node-pool-config # Node Pool Configuration via a Kubernetes DaemonSet Image
+https://github.com/ansible-network/foobar1233 # Ansible Collection for Amazon AWS
+https://github.com/ansible-network/community.netcommon # Ansible Network Collection for Common Code
+https://github.com/ansible-network/pytest-ansible-network-integration # An experimental pytest plugin designed to run ansible
+network integration tests against an appliance defined in an CML lab topology. https://github.com/ansible-network/report_ci #
+https://github.com/ansible-network/ansible-network-triager # Facilitate weekly bugs scrubs for the Ansible Network Automation
+team. https://github.com/ansible-network/scm.test # This repository is for scm demo, testing and learning labs
+
+https://github.com/network-automation/ansible_inventory_report # This repo contains an Ansible networking inventory report pla
+ybook (inventory.yml). This playbook exports hostname, platform, mgmt0 IP address and code version to a HTML file. The jinja2 template used for the website can also highlight the version of code if it doesn't match a desired version. https://github.com/network-automation/toolkit # Ansible Content Collection for common network functions like dynamic documenta
+tion https://github.com/network-automation/ansible-napalm-samples # GitHub Repo comparing NAPALM and Ansible on Cisco NXOSv and Ari
+sta vEOS https://github.com/network-automation/networking-icons # Repo containing various networking icons including routers, switches,
+servers, firewalls, load balancers and more. Icons are provided in png and svg formats. https://github.com/network-automation/agnostic_example # cli_command and cli_config agnostic network automation modules for t
+he network_cli connection plugin https://github.com/network-automation/infoblox_ansible # examples of Ansible with Infoblox NIOS
+https://github.com/network-automation/ipaddr_filter # examples with the ipaddr filter
+https://github.com/network-automation/diff_configs # Examples of several diffs on nxos using the nxos_config Ansible module
+https://github.com/network-automation/net_check # demonstration of checking the operational status of a network using declarat
+ive intent parameters and the net_ping module https://github.com/network-automation/httpapi # example using the httpapi connection plugin
+https://github.com/network-automation/an-demos # Ansible Networking Demos
+https://github.com/network-automation/aggregate_resources # This repo contains an example of the aggregate parameter compared
+to using a traditional loop. This demonstration is done on Arista vEOS using the eos_vlan module. https://github.com/network-automation/dynamic-infoblox # A collection of Ansible Roles to automate Infoblox Core Network Servi
+ces https://github.com/network-automation/ansible-jupyter-notebooks # Notebooks
+https://github.com/network-automation/panos-instruqt # Playbooks and roles for PAN-OS instruqt lab
+https://github.com/network-automation/ansible-bgpaas # BGPaaS: BGP Route-Reflectors As A Service
+https://github.com/network-automation/change_password # simple example to change the password on a network platform
+https://github.com/network-automation/ebook #
+https://github.com/network-automation/netconf #
+https://github.com/network-automation/network_vars # example network variables to use with network.toolkit
+https://github.com/network-automation/cli_parse_templates # cli parse templates
+https://github.com/network-automation/debugging-variables # Sometimes it's useful to debug where and how your playbook variabl
+es are defined. https://github.com/network-automation/vlans # Ansible Collection illustrating \_vlans resource modules
+https://github.com/network-automation/f5_big-ip_ltm_examples # F5 Big-IP load balancing examples
+https://github.com/network-automation/bigswitch # BigSwitch Fabric Platform role
+https://github.com/network-automation/caretaker_demoarchive # Archive repo to store device configurations
+https://github.com/network-automation/github_actions # testing github actions
+https://github.com/network-automation/vulnerability # trying to demo for a blog post
+https://github.com/network-automation/purge_blog_post #
+
+https://github.com/ansible-security/ids_rule # Ansible role to manage rules and signatures for Intrusion Detection Systems
+https://github.com/ansible-security/demo-content # Ansible Security demo sample playbooks and recordings.
+https://github.com/ansible-security/workshop-examples # Example Playbooks for Ansible Security Automation Workshop
+https://github.com/ansible-security/security_rm_builder # Generate Ansible resource modules integration with Security platforms OpenAp
+i based REST APIs https://github.com/ansible-security/ids_install # Ansible role to install configuration Intrusion Detection Systems
+https://github.com/ansible-security/splunkenterprisesecurity # Role to ship custom modules for Splunk Enterprise Security
+https://github.com/ansible-security/log_manager # Role to manage logs in multiple firewall devices
+https://github.com/ansible-security/ids_rule_facts # Collect facts based on filters from IDS Provider rule definitions
+https://github.com/ansible-security/acl_manager #
+https://github.com/ansible-security/community # Ansible Security Community Collection
+https://github.com/ansible-security/ids_config # Ansible role to provide configuration Intrusion Detection Systems
+https://github.com/ansible-security/ansible_collections.trendmicro.deepsecurity # Ansible Collection to enable Trend Micro Deep Securi
+ty Functionality https://github.com/ansible-security/ansible_collections.crowdstrike.falcon # Ansible Collection to automate Crowdstrike Falcon
+
+https://github.com/ansible-cloud/aws_demos # Demonstrate using Ansible Playbooks to provision a RHEL 7.4 instance on Amazon Web Servic
+es (AWS). https://github.com/ansible-cloud/azure # testing out azure
+https://github.com/ansible-cloud/aap_controller_action # Github Action for Ansible Automation Platform - Automation controller
+https://github.com/ansible-cloud/azure-demos # Hicham and Sean hangout here
+https://github.com/ansible-cloud/azure_ee # Azure EE prototype demonstration
+https://github.com/ansible-cloud/ansible_aws_report # Ansible Collection for creating a report with Ansible for AWS (Amazon Web Servic
+es) https://github.com/ansible-cloud/aws_ec2_operational_tasks # This Ansible Project will destroy AWS ec2 instances from orbit
+https://github.com/ansible-cloud/gcp_visibility #
+https://github.com/ansible-cloud/vmware-demos #
+https://github.com/ansible-cloud/terraform_ee # Example for building an Ansible execution environment with TerraForm dependencies buil
+t in. https://github.com/ansible-cloud/gcp-demos #
+https://github.com/ansible-cloud/aws_ee # definition file for aws_ee
+https://github.com/ansible-cloud/share_ami # collection for sharing custom amazon machine images (AMIs)
+https://github.com/ansible-cloud/aws_cloud_control # demo playbooks for AWS Cloud Control Collection for Ansible
+https://github.com/ansible-cloud/network-config-management-demo #
+https://github.com/ansible-cloud/tzdata_demo #
+https://github.com/ansible-cloud/azure_visibility #
+https://github.com/ansible-cloud/301deck # examples from the cloud automation 301 presentation deck (WIP)
+https://github.com/ansible-cloud/config-management-demo #
 
 https://github.com/geerlingguy/ansible-for-devops # Ansible for DevOps examples.
 https://github.com/geerlingguy/ansible-role-docker # Ansible Role - Docker

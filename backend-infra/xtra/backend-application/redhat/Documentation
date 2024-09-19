@@ -1,0 +1,22 @@
+https://github.com/redhat-documentation/modular-docs # Modular Documentation Project provides guidelines and examples for writ
+ing technical documentation using a modular framework.
+https://github.com/redhat-documentation/vale-at-red-hat # Vale config files, styles, and docs to help individuals and teams roll out Vale
+https://github.com/redhat-documentation/supplementary-style-guide # This project maintains the Red Hat supplementary style guide for product documentation that supplements the IBM Style guide
+https://github.com/redhat-documentation/newdoc # The newdoc tool generates files formatted with AsciiDoc, which are used in Re
+d Hat documentation.
+https://github.com/redhat-documentation/tools # Tools for making writers' lives easier.
+https://github.com/redhat-documentation/asciidoc-markup-conventions # How to use AsciiDoc mark-up to properly style elements in Red Hat documentation
+https://github.com/redhat-documentation/community-collaboration-guide # A Red Hat guide to assist enterprise projects in collaborating with upstream communities on documentation.
+https://github.com/redhat-documentation/redhat-documentation.github.io # The location for fully open-sourced, freely accessibl
+e content on standards and conventions that relate to Red Hat's product documentation.
+https://github.com/redhat-documentation/doc-guidelines # The location for fully open-sourced, freely accessible content on sta
+ndards and conventions that relate to Red Hat's product documentation.
+https://github.com/redhat-documentation/mw-shared-modules # Shared middleware modules
+https://github.com/redhat-documentation/peer-review # Guidelines for peer reviewing
+https://github.com/redhat-documentation/redhat-docs-pdf-template # Simple containerized asciidoctor-pdf build that you can use build a Red Hat themed PDF
+https://github.com/redhat-documentation/redhat-docs-template # Simple containerized Asciidoctor single-page website build
+https://github.com/redhat-documentation/hybrid-cloud-console-style-guide # This project maintains the Red Hat Hybrid Cloud Console documentation style and terminology guidelines
+https://github.com/redhat-documentation/openshift-docs-build-tools #
+https://github.com/redhat-documentation/publishing-tutorial # A sample repo to be used in conjunction with the tutorial "Getting started publishing with Pantheon 2"
+https://github.com/redhat-documentation/runtimes # Shared project artifacts for runtimes writers
+https://github.com/redhat-documentation/accessibility-guide #

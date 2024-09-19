@@ -1,0 +1,83 @@
+https://github.com/redhatofficial/overpass # Overpass open source web font family — S
+ponsored by Red Hat https://github.com/redhatofficial/redhatofficial.github.io # The official Red Hat pro
+ject page. https://github.com/redhatofficial/redhatfont # Red Hat's Open Source Fonts - Red Hat
+Display and Red Hat Text https://github.com/redhatofficial/gocourse # Go language course
+https://github.com/redhatofficial/rhelai-dev-preview # Red Hat Enterprise Linux AI --
+Developer Preview https://github.com/redhatofficial/ocp4-vsphere-upi-automation # Automates most of the
+manual steps of deploying OCP4.x cluster on vSphere https://github.com/redhatofficial/ansible-role-rhel7-stig # DISA STIG for Red Hat Ent
+erprise Linux 7 - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel8-stig # DISA STIG for Red Hat Ent
+erprise Linux 8 - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/rhsummitlabs-2018 # The documentation repository fo
+r all Red Hat Summit 2018 Labs. The full labs agenda is online: https://agenda.summit.redhat.com/?Instructor-led%20Lab=0 https://github.com/redhatofficial/co.lab # An open source repository for the learning
+materials that are used by the CO.LAB program. https://github.com/redhatofficial/rhsecapi # Tools that utilize the Red Hat Security
+Data API https://github.com/redhatofficial/ansible-role-rhel8-cis # CIS Red Hat Enterprise Lin
+ux 8 Benchmark for Level 2 - Server - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel9-stig # DISA STIG for Red Hat Ent
+erprise Linux 9 - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-redhat_openshift_utils # Ansible content su
+pplemental to the openshift-ansible project for doing things that don't ship with that project, such as prerequisites for updates, upgrades, restarts, etc. https://github.com/redhatofficial/ansible-role-rhel7-pci-dss # PCI-DSS v4.0 Control B
+aseline for Red Hat Enterprise Linux 7 - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel8-pci-dss # PCI-DSS v4.0 Control B
+aseline for Red Hat Enterprise Linux 8 - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/odie # ODIE - OpenShift Disconnected Installer for
+Enterprise. https://github.com/redhatofficial/ansible-redhat_cloudforms # Ansible playbooks for R
+ed Hat CloudForms Management Engine (CFME). https://github.com/redhatofficial/ansible-role-rhel7-cui # Unclassified Information i
+n Non-federal Information Systems and Organizations (NIST 800-171) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ose-pivproxy # A containerized PIV/CAC/x509 proxy f
+or OSE https://github.com/redhatofficial/ansible-redhat_satellite6 # Ansible playbooks for R
+ed Hat Satellite 6. https://github.com/redhatofficial/bwht-fonts # 6 handwritten fonts created for the Be
+cause We Had To project https://github.com/redhatofficial/ansible-role-rhel9-cis # CIS Red Hat Enterprise Lin
+ux 9 Benchmark for Level 2 - Server - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/miq-redhat-satellite6 # ManageIQ Automate Domain fo
+r integrating with Red Hat Satellite 6 developed by Red Hat Consulting. https://github.com/redhatofficial/miq-utilities # ManageIQ Automate Domain of shared
+utilities to be used by other ManageIQ domains developed by Red Hat Consulting. https://github.com/redhatofficial/ansible-role-rhel8-cui # Unclassified Information i
+n Non-federal Information Systems and Organizations (NIST 800-171) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/rh-iconfont # The source for Red Hat's Icon Font.
+https://github.com/redhatofficial/rhos-vyos-nfv-demo # NFV Demo on Red Hat Openstack
+using the Opensource Networking Appliance VyOS https://github.com/redhatofficial/open-source-participation-guidelines # A community
+version of Red Hat's Open Source Participation Guidelines https://github.com/redhatofficial/creative # Open Studio Community: Open Source & Cre
+ativity Advocacy Committee https://github.com/redhatofficial/ansible-role-rhel7-cis # CIS Red Hat Enterprise Lin
+ux 7 Benchmark for Level 2 - Server - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/product-demo-template # You want to be a Red Hat Ro
+ck Star? This template project will get you started by providing a framework for your demos. https://github.com/redhatofficial/ansible-role-rhel8-ospp # Protection Profile for Ge
+neral Purpose Operating Systems - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel7-hipaa # Health Insurance Portabi
+lity and Accountability Act (HIPAA) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/openemr-kube # OpenShift/Kube deployment info for O
+penEMR (https://www.open-emr.org/) https://github.com/redhatofficial/openhardware # Source code for Red Hat's open hardw
+are offerings https://github.com/redhatofficial/miq-ldap # ManageIQ Automate Domain for reading and
+writing information from and to LDAP. https://github.com/redhatofficial/ansible-role-rhel7-c2s # C2S for Red Hat Enterprise
+Linux 7 - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel8-hipaa # Health Insurance Portabi
+lity and Accountability Act (HIPAA) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/miq-infoblox # ManageIQ Automate Domain for integra
+ting with Infoblox developed by Red Hat Consulting. https://github.com/redhatofficial/ansible-role-redhat_satellite6_organizations # Ansi
+ble role for configuring everything about the Organizations in Satellite 6. https://github.com/redhatofficial/ansible-role-red_hat_utility_modules # An Ansible r
+ole that contains re-useable miscellaneous utility modules for various Red Hat tools and products. https://github.com/redhatofficial/ansible-role-rhel7-ospp # OSPP - Protection Profile
+for General Purpose Operating Systems v4.2.1 - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-manageiq_workers # Ansible role for co
+nfiguring the workers on ManageIQ / CloudForms Management Engine (CFME) appliances. https://github.com/redhatofficial/cloudctl #
+https://github.com/redhatofficial/ansible-cloud_utils # Ansible utilities for perform
+ing operations against public and private "clouds". https://github.com/redhatofficial/ansible-role-rhel9-e8 # Australian Cyber Security C
+entre (ACSC) Essential Eight - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel8-rht-ccp # Red Hat Corporate Prof
+ile for Certified Cloud Providers (RH CCP) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-redhat_satellite6_capsule_installation # Ansible Automation of Red Hat Satellite 6 Capsule Installation
+https://github.com/redhatofficial/ansible-role-rhel8-anssi_bp28_enhanced # ANSSI-BP-0
+
+28 (enhanced) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel9-anssi_bp28_high # ANSSI-BP-028 (
+high) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel8-cjis # Criminal Justice Informat
+ion Services (CJIS) Security Policy - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel7-rht-ccp # Red Hat Corporate Prof
+ile for Certified Cloud Providers (RH CCP) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhv4-rhvh-vpp # VPP - Protection Profi
+le for Virtualization v. 1.0 for Red Hat Virtualization Host (RHVH) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhv4-rhvh-stig # [DRAFT] DISA STIG for
+Red Hat Virtualization Host (RHVH) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel7-cjis # Criminal Justice Informat
+ion Services (CJIS) Security Policy - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/contributor.link.github.io #
+https://github.com/redhatofficial/ansible-role-rhel8-anssi_bp28_intermediary # ANSSI-
+BP-028 (intermediary) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/openshift-artifactory-apache-reverse-proxy # This r
+epository contains instructions and resources for creating an Apache Reverse Proxy on OpenShift for Artifactroy also running on OpenShift. https://github.com/redhatofficial/ksc #
+https://github.com/redhatofficial/jbosseap-certifications #
+https://github.com/redhatofficial/ansible-role-rhel9-pci-dss # PCI-DSS v4.0 Control B
+aseline for Red Hat Enterprise Linux 9 - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel7-anssi_nt28_enhanced # ANSSI-BP-0
+28 (enhanced) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel9-ism #
+https://github.com/redhatofficial/ansible-role-rhel9-hipaa # Health Insurance Portabi
+lity and Accountability Act (HIPAA) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel7-anssi_nt28_high # ANSSI-BP-028 (
+high) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel9-ospp # Protection Profile for Ge
+neral Purpose Operating Systems - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/centos-faq # Historical archive of FAQ previously l
+ocated at community.redhat.com/centos-faq https://github.com/redhatofficial/ansible-role-rhel8-anssi_bp28_minimal # ANSSI-BP-02
+8 (minimal) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel8-anssi_bp28_high # ANSSI-BP-028 (
+high) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel9-cui # DRAFT - Unclassified Infor
+mation in Non-federal Information Systems and Organizations (NIST 800-171) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/communityfiles # File repository for community mate
+rials https://github.com/redhatofficial/redhatofficial.compliance_as_code # Compliance as C
+ode derived Ansible collection https://github.com/redhatofficial/ansible-role-rhel9-anssi_bp28_minimal # ANSSI-BP-02
+8 (minimal) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel7-anssi_nt28_intermediary # ANSSI-
+BP-028 (intermediary) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel9-anssi_bp28_intermediary # ANSSI-
+BP-028 (intermediary) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel7-anssi_nt28_minimal # ANSSI-BP-02
+8 (minimal) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/ansible-role-rhel9-anssi_bp28_enhanced # ANSSI-BP-0
+28 (enhanced) - Ansible role generated from ComplianceAsCode Project https://github.com/redhatofficial/iconset # Open source icons
+https://github.com/redhatofficial/ospo-content # Public-facing content repository for
+Red Hat's Open Source Program Office. https://github.com/redhatofficial/rhelai-sample-taxonomy # Sample taxonomy tree for R
+HEL AI https://github.com/redhatofficial/rhelai-taxonomy-data #

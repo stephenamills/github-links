@@ -1,0 +1,183 @@
+https://github.com/redhat-gpte-devopsautomation/reference #
+https://github.com/redhat-gpte-devopsautomation/ansible-operator-roles # Ansible Roles to create various OpenShift Applications
+https://github.com/redhat-gpte-devopsautomation/coffee-shop-source # Coffee Shop Microservices example application
+https://github.com/redhat-gpte-devopsautomation/rhte2019_multi_cloud # Red Hat Tech Exchange 2019 - Multi-Cloud OpenShift Lab
+https://github.com/redhat-gpte-devopsautomation/rhacm-labs #
+https://github.com/redhat-gpte-devopsautomation/ansible_advanced_bootcamp # Solutions, demos, resources for the Red Hat Advanced Ansib
+le Bootcamp https://github.com/redhat-gpte-devopsautomation/rhte2019_babylon_lab # Lab Document
+https://github.com/redhat-gpte-devopsautomation/ftl # Finish the Labs - Ansible based Lab Grading and Solving Platform
+https://github.com/redhat-gpte-devopsautomation/cotd # Cats of the Day Example Application
+https://github.com/redhat-gpte-devopsautomation/advdev_homework_template # Template for Advanced OpenShift Development Homework
+https://github.com/redhat-gpte-devopsautomation/ansible_advance_homework # Fork The Repo for completing Ansible Advance Homework
+https://github.com/redhat-gpte-devopsautomation/bookbag-template # A template for creating Asciidoc-based lab content for Bookbag
+https://github.com/redhat-gpte-devopsautomation/ocp4_app_deploy_homework_template # Homework template for the OpenShift 4 Advanced App
+lication Deployment ILT https://github.com/redhat-gpte-devopsautomation/coffee-shop-final-lab # Starting repository for Advanced Application Deployment with R
+ed Hat OpenShift Final Lab. https://github.com/redhat-gpte-devopsautomation/demo-event-driven-ansible # This repo is contains Automation Controller playbooks for
+Event driven ansible demo https://github.com/redhat-gpte-devopsautomation/rhte2019-maa-hcm-cost-aws # Cost Management RHTE 2019 Lab
+https://github.com/redhat-gpte-devopsautomation/securing-software-supply-chain #
+https://github.com/redhat-gpte-devopsautomation/hands_on_rhacs # Bookbag for hands_on_rhacs
+https://github.com/redhat-gpte-devopsautomation/advdev_homework_grading # OpenShift Advanced Development Automatic Grading Source
+https://github.com/redhat-gpte-devopsautomation/nexus-operator-0.17 # Nexus Operator Source Code
+https://github.com/redhat-gpte-devopsautomation/openshift4mlbparks # Example repo for templates module in OpenShift 4 Application Depl
+oyment https://github.com/redhat-gpte-devopsautomation/ansible_advanced_osp # Fork this repo to complete OSP lab
+https://github.com/redhat-gpte-devopsautomation/ocp_advanced_development_resources # Recources to be used in OCP Advanced Development
+Class https://github.com/redhat-gpte-devopsautomation/codeserver # Code Server container for OpenShift Container Platform
+https://github.com/redhat-gpte-devopsautomation/rhte2019-ansible-networking-lab # RHTE 2019 Ansible Networking Lab
+https://github.com/redhat-gpte-devopsautomation/ocp_advanced_deployment_resources # Supplemental Resources for OpenShift Advanced Infr
+astructure Deployment ILT https://github.com/redhat-gpte-devopsautomation/lab-manager # This repo is for Advance Ansible V2 sub environments
+https://github.com/redhat-gpte-devopsautomation/ocp4_app_deploy_homework_grading # Grading Pipeline for OpenShift 4 Advanced Applicati
+on Deployment Homework Assignment https://github.com/redhat-gpte-devopsautomation/ocp48_hands_on_apps # Apps for OCP48 Hands On ELT
+https://github.com/redhat-gpte-devopsautomation/smartsheet_trello # Smartsheet and Trello integration
+https://github.com/redhat-gpte-devopsautomation/bookbag-blackhat-secured-containers #
+https://github.com/redhat-gpte-devopsautomation/rhods-gpu-testing #
+https://github.com/redhat-gpte-devopsautomation/multitier-execution-environment #
+https://github.com/redhat-gpte-devopsautomation/mlbparks-chart # Mlbparks application on a helm chart
+https://github.com/redhat-gpte-devopsautomation/argocd-namespace-operator # Operator to add a namespace to be managed by a namespaced
+ArgoCD deployment https://github.com/redhat-gpte-devopsautomation/event-driven-ansible-and-chatops #
+https://github.com/redhat-gpte-devopsautomation/software-templates #
+https://github.com/redhat-gpte-devopsautomation/ola # Ola Springboot Example Application
+https://github.com/redhat-gpte-devopsautomation/ilt-rhacm-configuration # OpenShift Post Installation with Red Hat Advanced Cluster Ma
+nagement for Kubernetes - RHACM configuration starting repository. https://github.com/redhat-gpte-devopsautomation/nextgen_ansible_advanced_homework # Fork this repo for Ansible Advanced HW
+https://github.com/redhat-gpte-devopsautomation/ilt-applications # OpenShift Post Installation with Red Hat Advanced Cluster Managemen
+t for Kubernetes - Application repository https://github.com/redhat-gpte-devopsautomation/userquota-operator # Assign a ClusterResourceQuota to every user in the cluster based
+on a UserQuota object https://github.com/redhat-gpte-devopsautomation/backstage-workshop #
+https://github.com/redhat-gpte-devopsautomation/agnosticd-quick-start # This repository contains agnosticd quick start files
+https://github.com/redhat-gpte-devopsautomation/acc-new-app-dev #
+https://github.com/redhat-gpte-devopsautomation/agnosticg #
+https://github.com/redhat-gpte-devopsautomation/quarkus-super-heroes-rhbq32 #
+https://github.com/redhat-gpte-devopsautomation/rosa-quick-start #
+https://github.com/redhat-gpte-devopsautomation/slide-fetch-push # fetch slides from Jenkins. Push to OpenShift
+https://github.com/redhat-gpte-devopsautomation/quarkus-super-heroes-deploy #
+https://github.com/redhat-gpte-devopsautomation/openshift-tasks # OpenShift Tasks Example Application for use in various ELTs and ILTs
+https://github.com/redhat-gpte-devopsautomation/rhte-2023-gitops-aap2 #
+https://github.com/redhat-gpte-devopsautomation/workshop_project # Ansible windows workshop
+https://github.com/redhat-gpte-devopsautomation/ftl-injector # Injects an FTL Grader repo into an existing environment and setups supp
+orting infrastructure https://github.com/redhat-gpte-devopsautomation/ansible-workshop-rhpds # RHPDS fork of Ansible Workshops
+https://github.com/redhat-gpte-devopsautomation/gpte-style-guide # Style guide for Red Hat GPTE courses and labs
+https://github.com/redhat-gpte-devopsautomation/ansible_advanced_osp_solutions # Ansible Advance OSP Lab Solutions
+https://github.com/redhat-gpte-devopsautomation/bookbag-edge #
+https://github.com/redhat-gpte-devopsautomation/janus-idp-bootstrap #
+https://github.com/redhat-gpte-devopsautomation/app-dev-openshift-pipeline # This repository holds code for OpenShift Pipelines to dep
+loy openshift-tasks and fruit-management apps https://github.com/redhat-gpte-devopsautomation/microshift #
+https://github.com/redhat-gpte-devopsautomation/road-scholar #
+https://github.com/redhat-gpte-devopsautomation/classroom-terminal # Terminal Image customization to be used in GPTE Classrooms
+https://github.com/redhat-gpte-devopsautomation/aa-finallab-collection # This repository is used for Ansible Advanced v2 course collec
+tion https://github.com/redhat-gpte-devopsautomation/quay-on-ocp # Quay On OpenShift
+https://github.com/redhat-gpte-devopsautomation/recommendation-system-aiml #
+https://github.com/redhat-gpte-devopsautomation/edge-hmi-demo #
+https://github.com/redhat-gpte-devopsautomation/tackle2-setup-container # A container to seed Tackle2 with data
+https://github.com/redhat-gpte-devopsautomation/lab-babylon-operators # Homeroom dashboard for a lab to introduce Project Babylon oper
+ators https://github.com/redhat-gpte-devopsautomation/babylon-homeroom #
+https://github.com/redhat-gpte-devopsautomation/agnosticlp-content # Content container for AgnosticLP
+https://github.com/redhat-gpte-devopsautomation/agnosticlp-setup #
+https://github.com/redhat-gpte-devopsautomation/aa-osp-infra-provisioner #
+https://github.com/redhat-gpte-devopsautomation/bookbag-elt-ocp4-disconnected # Bookbag for disconnected
+https://github.com/redhat-gpte-devopsautomation/busybox-app #
+https://github.com/redhat-gpte-devopsautomation/quarkus-super-heroes-rhbq213 #
+https://github.com/redhat-gpte-devopsautomation/agnosticlp-ui # Agnostic-LP User Interface
+https://github.com/redhat-gpte-devopsautomation/hashicorp-vault #
+https://github.com/redhat-gpte-devopsautomation/aa-finallab-app-deployer # This repository is used for Ansible Advanced v2 course
+https://github.com/redhat-gpte-devopsautomation/quay-rhel-poc # quay-rhel-poc
+https://github.com/redhat-gpte-devopsautomation/aap2-2.3-gitops #
+https://github.com/redhat-gpte-devopsautomation/zt-writing-your-first-playbook # Zero Touch Writing your first playbook lab
+https://github.com/redhat-gpte-devopsautomation/ansible_implementation_part1_solve # ansible_implementation_part1_solve_Scripts
+https://github.com/redhat-gpte-devopsautomation/ansible_engine_foundations_labs # Linklight based locked repo, solely for the purpose
+of deploying static course labs for Ansible Engine Foundations https://github.com/redhat-gpte-devopsautomation/satellite-installation #
+https://github.com/redhat-gpte-devopsautomation/gitops-lab #
+https://github.com/redhat-gpte-devopsautomation/gitops-rhtr-infra-lab # GitOps RHTR LAB Playbooks
+https://github.com/redhat-gpte-devopsautomation/aa-modular-three-tier-app #
+https://github.com/redhat-gpte-devopsautomation/containerize-app-demo-bookbag #
+https://github.com/redhat-gpte-devopsautomation/aap2-gitops #
+https://github.com/redhat-gpte-devopsautomation/microservices-demo # a fork-clone of upstream GoogleCloudPlatform/microservices-demo
+https://github.com/redhat-gpte-devopsautomation/redhat-store #
+https://github.com/redhat-gpte-devopsautomation/eda-rulebooks #
+https://github.com/redhat-gpte-devopsautomation/acc-new-app-dev-showroom #
+https://github.com/redhat-gpte-devopsautomation/ansible-style-guide # An, opinionated, Ansible Style Guide
+https://github.com/redhat-gpte-devopsautomation/gitlab #
+https://github.com/redhat-gpte-devopsautomation/ftl-collections #
+https://github.com/redhat-gpte-devopsautomation/ansible-lightspeed #
+https://github.com/redhat-gpte-devopsautomation/showroom-rdr #
+https://github.com/redhat-gpte-devopsautomation/convert-to-rhel-bookbag # Bookbag for sales play demo "Convert to RHEL"
+https://github.com/redhat-gpte-devopsautomation/ivanova # Cost Management
+https://github.com/redhat-gpte-devopsautomation/aa-build-cloud-labs #
+https://github.com/redhat-gpte-devopsautomation/fruit_management #
+https://github.com/redhat-gpte-devopsautomation/hands-on-pipeline-tutorial # A sample app to learn Tekton pipelines and triggers
+https://github.com/redhat-gpte-devopsautomation/app_modernization_demo # Demo script repository for the App Modernization Demo
+https://github.com/redhat-gpte-devopsautomation/bookbag-osp17-director-deployment # Bookbag
+https://github.com/redhat-gpte-devopsautomation/pacman-gitops #
+https://github.com/redhat-gpte-devopsautomation/fix-argocd-container # Small container to use in a job to fix ArgoCD DEX and Repo Serv
+ers https://github.com/redhat-gpte-devopsautomation/sentiment-analysis #
+https://github.com/redhat-gpte-devopsautomation/rhel9_podman_desktop #
+https://github.com/redhat-gpte-devopsautomation/aws-tools #
+https://github.com/redhat-gpte-devopsautomation/project-cleanup-operator # Operator to clean up (delete) projects older than a certain
+age https://github.com/redhat-gpte-devopsautomation/aa-postgresql # This is for Ansible Advanced course
+https://github.com/redhat-gpte-devopsautomation/arc-frontend-argocd #
+https://github.com/redhat-gpte-devopsautomation/secured-supply-chain-black-hat #
+https://github.com/redhat-gpte-devopsautomation/rhdb #
+https://github.com/redhat-gpte-devopsautomation/asciiftl # asciidoc oriented tools to FTL!
+https://github.com/redhat-gpte-devopsautomation/k8s_config #
+https://github.com/redhat-gpte-devopsautomation/globex-ui #
+https://github.com/redhat-gpte-devopsautomation/globex #
+https://github.com/redhat-gpte-devopsautomation/jumpgate # Babylon's Catalog - much TBD
+https://github.com/redhat-gpte-devopsautomation/ocp-session-replication # Session Replication Example Application
+https://github.com/redhat-gpte-devopsautomation/bad-ansible # Bad Ansible is a deliberately poorly written playbook and Ansible Enviro
+nment for training purposes https://github.com/redhat-gpte-devopsautomation/aa-infra-labs-solutions # Ansible Advance OSP Infra Lab Solutions
+https://github.com/redhat-gpte-devopsautomation/aa-multitier-solutions # Ansible Advanced V2 App
+https://github.com/redhat-gpte-devopsautomation/epic-demo-bookbag-main #
+https://github.com/redhat-gpte-devopsautomation/hol-aap2-on-azure #
+https://github.com/redhat-gpte-devopsautomation/aa-molecule-project # This repository is used for Ansible Advanced -v2 course
+https://github.com/redhat-gpte-devopsautomation/app-mod-ilt-m6 # Module 6 of the Application Modernization ILT Labs
+https://github.com/redhat-gpte-devopsautomation/rhdp-bootstrapper #
+https://github.com/redhat-gpte-devopsautomation/showroom-eda-and-chatops #
+https://github.com/redhat-gpte-devopsautomation/zt-get-started-with-network-automation #
+https://github.com/redhat-gpte-devopsautomation/airsol #
+https://github.com/redhat-gpte-devopsautomation/showroom-demo-event-driven-ansible #
+https://github.com/redhat-gpte-devopsautomation/coolstore-microservice #
+https://github.com/redhat-gpte-devopsautomation/ilt_resources # catch all for various ILT resources
+https://github.com/redhat-gpte-devopsautomation/bookbag-base-dashboard #
+https://github.com/redhat-gpte-devopsautomation/ohc_demo_bookbag #
+https://github.com/redhat-gpte-devopsautomation/aa-finallab-infra # This repository is used in Ansible Advanced V2 course
+https://github.com/redhat-gpte-devopsautomation/hybrid-cloud-email # email_templates
+https://github.com/redhat-gpte-devopsautomation/coolstore-argocd #
+https://github.com/redhat-gpte-devopsautomation/ansible_implementation_part2_solve #
+https://github.com/redhat-gpte-devopsautomation/gpte-vilt-ttt # GPTE VILT Training Guide
+https://github.com/redhat-gpte-devopsautomation/aa-three-tier-app-roles # This repository is used for Advanced ansible v2 course
+https://github.com/redhat-gpte-devopsautomation/aa-mycollections # This repository is used in Ansible Advanced - Lab which contains co
+llection called mycollection https://github.com/redhat-gpte-devopsautomation/printenv # PrintEnv Example Application
+https://github.com/redhat-gpte-devopsautomation/babylon_gpte_reporting # Babylon Anarchy role for GPTE reporting
+https://github.com/redhat-gpte-devopsautomation/aa-multi-tier-app # This is for ansible advanced v2 course
+https://github.com/redhat-gpte-devopsautomation/bookinfo # Sample app
+https://github.com/redhat-gpte-devopsautomation/arc-model-argocd #
+https://github.com/redhat-gpte-devopsautomation/devsecops-validated-pattern #
+https://github.com/redhat-gpte-devopsautomation/solution-pattern-big-data #
+https://github.com/redhat-gpte-devopsautomation/update-catalog-snapshots # Update OpenShift Catalog Snapshots using a CronJob
+https://github.com/redhat-gpte-devopsautomation/zt-get-started-ansible-navigator #
+https://github.com/redhat-gpte-devopsautomation/ocp4-aws-jumpbox # Creates a Jumpbox in your AWS linked account (sandbox)
+https://github.com/redhat-gpte-devopsautomation/ansible-integrations-solve #
+https://github.com/redhat-gpte-devopsautomation/ansible-role-openshift_machineset_config # OpenShift 4 machineset configuration ansibl
+e role https://github.com/redhat-gpte-devopsautomation/docker-openshift-ocvault # Container image with Hashicorp Vault client (used in Advanc
+ed Day 2 Operations ILT) https://github.com/redhat-gpte-devopsautomation/user-distribution #
+https://github.com/redhat-gpte-devopsautomation/agnosticd_workload_helm_charts # Helm Charts to be used by various AgnosticD workloads
+https://github.com/redhat-gpte-devopsautomation/zt-get-started-with-automation-controller #
+https://github.com/redhat-gpte-devopsautomation/ocp4_migration_resources # supplement to the redhat-gpe/ocp4_migration course
+https://github.com/redhat-gpte-devopsautomation/rhte-miniv # RHTE repo for babylon variables
+https://github.com/redhat-gpte-devopsautomation/coolstore-yaml # YAML Manifests for the Coolstore application
+https://github.com/redhat-gpte-devopsautomation/coolstore # Cool Store Microservices Applications (for Advanced Application Deployment
+ILT) https://github.com/redhat-gpte-devopsautomation/aa-jinja-heat-template # This is for Ansible Advanced v2 course
+https://github.com/redhat-gpte-devopsautomation/acm-policies # Set of policies for Red Hat ACM
+https://github.com/redhat-gpte-devopsautomation/aa-automation-hub # This repository is used in Ansible Advanced - Lab course
+https://github.com/redhat-gpte-devopsautomation/aa-private-collection #
+https://github.com/redhat-gpte-devopsautomation/ansible-ee #
+https://github.com/redhat-gpte-devopsautomation/ocp_application_validation #
+https://github.com/redhat-gpte-devopsautomation/podman-rootless-workshop-bookbag # podman-rootless-workshop-bookbag
+https://github.com/redhat-gpte-devopsautomation/openshift3mlbparks # Example repo for "Application Development with OpenShift" course
+https://github.com/redhat-gpte-devopsautomation/bookbag # Bookbag is a project to provide learning environments for GPTE students
+https://github.com/redhat-gpte-devopsautomation/agnosticd_workload_test # Test scripts for an AgnosticD workload
+https://github.com/redhat-gpte-devopsautomation/aa-three-tier-app-contents # This repository is used for Ansible advanced v2 course
+https://github.com/redhat-gpte-devopsautomation/hands_on_integration_y22q1_lab #
+https://github.com/redhat-gpte-devopsautomation/sentiment-analysis-deployment #
+https://github.com/redhat-gpte-devopsautomation/project-dance-templates #
+https://github.com/redhat-gpte-devopsautomation/ansible-advanced-s2i #
+https://github.com/redhat-gpte-devopsautomation/aap2-rdr # Repository to create AAP2 resources for RDR
+https://github.com/redhat-gpte-devopsautomation/quarkus-super-heroes-rhbq27 #
+https://github.com/redhat-gpte-devopsautomation/showroom-mlops #

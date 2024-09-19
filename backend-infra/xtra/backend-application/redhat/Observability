@@ -1,0 +1,14 @@
+https://github.com/rhobs/observability-operator # Create Monitoring Stacks you need on your Kubernetes clusters!
+https://github.com/rhobs/kube-events-exporter # Kubernetes events aggregator and exporter
+https://github.com/rhobs/configuration # Red Hat Observability Service
+https://github.com/rhobs/handbook # Public Red Hat Observability Group Handbook for Team Processes, Proposals and Documentations
+https://github.com/rhobs/syncbot # Workflows to automate merge activities for Openshift monitoring dependencies
+https://github.com/rhobs/multicluster-observability-addon #
+https://github.com/rhobs/obsctl-reloader # Use obsctl to set rules from PrometheusRules
+https://github.com/rhobs/example-app # Example Application showing Observability best practices
+https://github.com/rhobs/obo-prometheus-operator # Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+https://github.com/rhobs/obo-prometheus # The Prometheus monitoring system and time series database.
+https://github.com/rhobs/obo-alertmanager # Prometheus Alertmanager
+https://github.com/rhobs/monitoring-benchmarking # Performance tests for monitoring stack
+https://github.com/rhobs/obsctl-reloader-rules-checker #
+https://github.com/rhobs/observability-data-model # Documentation for telemetry data model and semantic conventions

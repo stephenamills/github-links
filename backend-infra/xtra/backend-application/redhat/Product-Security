@@ -1,0 +1,30 @@
+https://github.com/redhatproductsecurity/cvss # CVSS2/3/4 library with interactive calculator for Python 2 and Python 3
+https://github.com/redhatproductsecurity/rapidast # RapiDAST enables simple, continuous and fully automated application security testi
+ng https://github.com/redhatproductsecurity/cvelib # A Python library and command line interface for CVE Services.
+https://github.com/redhatproductsecurity/cvss-v4-calculator # CVSS v4.0 calculator
+https://github.com/redhatproductsecurity/osidb # OSIDB — Open Security Issue Database
+https://github.com/redhatproductsecurity/vulnerability-detection-scripts # Vulnerability detection scripts for Red Hat Enterprise Linu
+x https://github.com/redhatproductsecurity/component-registry # Component Registry (Corgi) aggregates component data across Red Hat's su
+pported products, managed services, and internal product pipeline services. https://github.com/redhatproductsecurity/advisory-parser # A library for parsing security advisories
+https://github.com/redhatproductsecurity/openlcs # Open License and Crypto Scanner
+https://github.com/redhatproductsecurity/cwe-toolkit # CWE chaining concept and tools
+https://github.com/redhatproductsecurity/oscal-component-definitions # OSCAL Component Definition Library
+https://github.com/redhatproductsecurity/trestle-bot # A workflow automation tool for `compliance-trestle`
+https://github.com/redhatproductsecurity/oscal-profiles # OSCAL Profile Library
+https://github.com/redhatproductsecurity/cve-pylib #
+https://github.com/redhatproductsecurity/trestle-demo # Demo workflows for continuous compliance with OSCAL content and compliance-tre
+stle https://github.com/redhatproductsecurity/osim # Web UI for interacting with OSIDB
+https://github.com/redhatproductsecurity/osidb-bindings # A client library for accessing OSIDB API
+https://github.com/redhatproductsecurity/cve-golib # go client for working with Red Hat Security Data API https://access.redhat.com/do
+cumentation/en-us/red_hat_security_data_api/1.0/ https://github.com/redhatproductsecurity/secure-development-guide #
+https://github.com/redhatproductsecurity/oslcrs # Open Source License Compliance Reporting System
+https://github.com/redhatproductsecurity/rhubarb # Exclusive, robust and deadlock-free task execution for celery
+https://github.com/redhatproductsecurity/rhcos-scan # A client for scanning a Red Hat CoreOS (RHCOS) instance for security vulnerabili
+ties. https://github.com/redhatproductsecurity/component-registry-bindings # A client library for accessing Component Registry API
+https://github.com/redhatproductsecurity/oscal-compliance-prototype #
+https://github.com/redhatproductsecurity/security-data-guidelines # A set of documents detailing Red Hat's publishing of security data
+. https://github.com/redhatproductsecurity/jenkins-trestlebot-jobs # Jenkins job examples with trestle-bot
+https://github.com/redhatproductsecurity/rapidast-results-parser # Small Python script used to parse the results provided from Rapidas
+t https://github.com/redhatproductsecurity/licensescanner #
+https://github.com/redhatproductsecurity/django-migration-rules # Collection of semgrep rules for ensuring safe, fast and backwards-co
+mpatible Django migrations

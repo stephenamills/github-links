@@ -1,0 +1,210 @@
+https://github.com/aristanetworks/avd # Arista Validated Designs
+
+https://github.com/aristanetworks/goarista # Fairly general building blocks used in Arista Go code and open-sourced for the benefit of all.
+https://github.com/aristanetworks/eossdk # EOS SDK - write native apps for your Arista switch
+https://github.com/aristanetworks/netdevops-examples # Examples of using DevOps tools with Arista EOS and CloudVision
+https://github.com/aristanetworks/bst # A one-stop shop for process isolation
+https://github.com/aristanetworks/openmgmt # Documentation and examples for using open network management tools such as OpenConfig
+https://github.com/aristanetworks/ansible-cvp # Ansible modules for Arista CloudVision
+https://github.com/aristanetworks/j2lint # Jinja2 Linter CLI
+https://github.com/aristanetworks/goeapi # Go library for Arista's eAPI command API implementation
+https://github.com/aristanetworks/anta # What do you call an ant with frogs legs?
+https://github.com/aristanetworks/cvprac #
+https://github.com/aristanetworks/yang # YANG models published and supported by Arista Networks
+https://github.com/aristanetworks/ctypegen # Generate ctypes boilerplate code from debugging information; Use python to mock C code for testing
+https://github.com/aristanetworks/cloudvision-python # Python resources and libraries for integrating with Arista's CloudVision platform
+https://github.com/aristanetworks/atd-public #
+https://github.com/aristanetworks/sonic # Open source drivers and initialization library for Arista platforms running SONiC
+https://github.com/aristanetworks/openconfigbeat # Elastic Beat for OpenConfig
+https://github.com/aristanetworks/cloudvision # Resources and documentation for Arista's CloudVision platform
+https://github.com/aristanetworks/puppet-eos # Arista EOS modules for automating network resources using Puppet
+https://github.com/aristanetworks/avd-workshops # Arista Automation Workshop
+https://github.com/aristanetworks/eoscentral # Code examples associated with EOS Central articles.
+https://github.com/aristanetworks/cloudvision-apis # gRPC APIs for integrating with Arista's CloudVision platform
+https://github.com/aristanetworks/robotframework-aristalibrary # Robot Framework library for Arista EOS
+https://github.com/aristanetworks/terraform-provider-cloudeos # Arista CloudEOS Terraform Provider
+https://github.com/aristanetworks/arista-ceoslab-operator # K8s operator for managing meshnet-networked cEOS-lab instances
+https://github.com/aristanetworks/swi-tools # Scripts for handling Arista SWI and SWIX files
+https://github.com/aristanetworks/cloudvision-ztpaas-utils # Utilities for ZTP as a Service with CloudVision
+https://github.com/aristanetworks/cloudeos #
+https://github.com/aristanetworks/terraform-provider-cloudvision #
+https://github.com/aristanetworks/cloudvision-go # Go resources and libraries for integrating with Arista's CloudVision platform
+https://github.com/aristanetworks/cloudvision-python-actions # Example Python action scripts for integrating with Change Controls in Arista's CloudVision platform
+https://github.com/aristanetworks/arcomm # A command-line utility and library for communicating with Aristas
+https://github.com/aristanetworks/ci-workshops-fundamentals # Network automation fundamentals repository to deliver fundamentals workshops.
+https://github.com/aristanetworks/pytest-netdut # A pytest library for testing software on network devices.
+https://github.com/aristanetworks/arista-onie-installer # ONIE installer for Arista's EOS
+https://github.com/aristanetworks/pyopenconfig # Python implementation of the gRPC service for interacting with network devices based on OpenConfig models (DEPRECATED)
+https://github.com/aristanetworks/eos-eapi-rust #
+https://github.com/aristanetworks/dom # Periodically poll the optical power levels of each interface on a switch and generate syslog or SNMP events when the transmit or Receive power levels change beyond the threshold.
+https://github.com/aristanetworks/telegraf-cloudvision #
+https://github.com/aristanetworks/go-cvprac #
+https://github.com/aristanetworks/eos_boot_loader #
+https://github.com/aristanetworks/training-infra-public # Arista training lab infrastructure
+https://github.com/aristanetworks/ansible-eos # Ansible modules for Arista Network's EOS
+https://github.com/aristanetworks/quantumfs # A distributed FUSE filesystem optimized for large-scale software development
+https://github.com/aristanetworks/servicenowrac # ServiceNow RESTful Client
+https://github.com/aristanetworks/pcapinspect #
+https://github.com/aristanetworks/gomap # Golang hash map with user provided hash and equal functions
+https://github.com/aristanetworks/eos-deployment-guide-configs # Configs from EOS Deployment Guides
+https://github.com/aristanetworks/telemetry-email-alerter # Python script that allows you to subscribe to Arista Telemetry Events and then send them to an SMTP server for email notifications.
+https://github.com/aristanetworks/aclabs #
+https://github.com/aristanetworks/aql-examples # Sharing AQL (Advanced Query Language for CVP) examples with customers
+https://github.com/aristanetworks/net-snmp # Arista Networks' net-snmp patches
+https://github.com/aristanetworks/switch-interface-maps # This is a set of interface maps (json) for as many SKUs (DC and Campus) to be used in conjunction with the Arbitrary Interface Mapping feature
+https://github.com/aristanetworks/openfdk # Open FPGA Developer's Kit
+https://github.com/aristanetworks/docker-logstash # Container for logstash with input from the kafka feed from Arista's OpenConfig client
+https://github.com/aristanetworks/cloudvision-frontend-config # JavaScript, TypeScript and Eslint configuration for CloudVision frontend libraries.
+https://github.com/aristanetworks/ci-workshops-avd # AVD workshop repository to deliver workshop content specific to AVD.
+https://github.com/aristanetworks/chef-eos # Chef cookbook for Arista EOS.
+https://github.com/aristanetworks/ownership-voucher-grpc #
+https://github.com/aristanetworks/sonic-firmware # SONiC Firmware
+https://github.com/aristanetworks/eossdkrpc # EOS SDK RPC protobuf files and information
+https://github.com/aristanetworks/tech-library-comments #
+https://github.com/aristanetworks/promtail_extension #
+https://github.com/aristanetworks/eos-external-tools #
+https://github.com/aristanetworks/quicktrace-public # The open source version of QuickTrace
+https://github.com/aristanetworks/probe-tools # Some test tools for RFC8335 PROBE aka ICMP Extended Echo
+https://github.com/aristanetworks/python-aristaproto #
+https://github.com/aristanetworks/directflowassist #
+https://github.com/aristanetworks/eext-bus # BUS for eext workflow
+https://github.com/aristanetworks/puppet-cloudvision # Puppet module containing resource types for managing Arista CloudVision Portal (r) content Edit
+https://github.com/aristanetworks/sztp-restconf # Library of illustrative helpful routines to generate sZTP restconf responses for use with apache servers.
+https://github.com/aristanetworks/persistentportsecurity # EosSdk agent which ensures port security feature should not clear the learned mac-address cache on an interface when it is flapped
+https://github.com/aristanetworks/ansible-community #
+https://github.com/aristanetworks/arista-ovs-testing #
+https://github.com/aristanetworks/cloudformation #
+https://github.com/aristanetworks/dinetd # Dynamic Internet Daemon: dispatch incoming connections to an arbitrary command
+https://github.com/aristanetworks/aajith-test-repo # aajith-test-repo
+https://github.com/aristanetworks/ci-tools # Tools for continuous integration with Gerrit / Jenkins
+https://github.com/aristanetworks/bindist # Tool to help build half-source half-binary distributions of Go code
+https://github.com/aristanetworks/cvprac-rb # Ruby REST API Client for CloudVision Portal
+https://github.com/aristanetworks/glog2glog #
+https://github.com/aristanetworks/dpdkmemtools # Tools/Libraries for tracking and debugging DPDK heap and mempool
+https://github.com/aristanetworks/eossdk-cross-compiler # A cross-compiler to compile EosSdk applications so they are sure to be binary compatible with the EOS target
+https://github.com/aristanetworks/fmp # Federated Management Plane
+https://github.com/aristanetworks/htutil # Common HTTP utility functions used in different repos at Arista.
+https://github.com/aristanetworks/secret-scanner-service-public # A repo that stores the public action file for aristanetworks/secret-scanner-service.
+
+https://github.com/arista-netdevops-community/avd-ceos-lab # A repository with playbooks to implement basic EVPN/VXLAN Fabric using Arista AVD and cEOS-Lab
+https://github.com/arista-netdevops-community/cloudvisionportal-examples # This repository is a collection of examples and best practices for CloudVision® Portal.
+https://github.com/arista-netdevops-community/ansible-avd-cloudvision-demo # A demo to run Arista Validated Design with CloudVision deployment - From Powerup to EVPN Fabric
+https://github.com/arista-netdevops-community/arista_eos_streaming_telemetry_with_gnmi_and_telegraf # Stream OpenConfig telemetry and native telemetry from Arista EOS devices to Telegraf. Store collected data in influxDB. Query influxDB with CLI and python.
+https://github.com/arista-netdevops-community/avd-quickstart-containerlab #
+https://github.com/arista-netdevops-community/atd-avd # Arista Test Drive + Ansible AVD Examples
+https://github.com/arista-netdevops-community/one-click-se-demos # Every good demo should only take one click!
+https://github.com/arista-netdevops-community/kvm-lab-for-network-engineers # cheatsheet explaining how to build vEOS lab based on KVM
+https://github.com/arista-netdevops-community/arista_eos_automation_with_ansible # This project has some Ansible playbooks to interact with Arista EOS.
+https://github.com/arista-netdevops-community/ansible-cvp-avd-toi # A repository with lab content to run TOI for ansible, AVD and Cloudvision collections
+https://github.com/arista-netdevops-community/ansible-webinar-february-2020 # Ansible Arista Validated Design (AVD) demo from ansible webinar in Feb 2020
+https://github.com/arista-netdevops-community/ipspace-webinar-september15-2020 # Content for ipSpace webinar
+https://github.com/arista-netdevops-community/arista_cabling_check # This software allows checking some parameters and create some MAPs.
+https://github.com/arista-netdevops-community/arista_eos_automation_with_eapi # This repo has examples of Arista EOS automation using eAPI. This includes devices configuration and devices states validation
+https://github.com/arista-netdevops-community/eos_designs_to_containerlab # Deploy and run AVD eos_designs in containerlab
+https://github.com/arista-netdevops-community/eos-scripts # Collection of EOS scripts
+https://github.com/arista-netdevops-community/cvp-space-recovery # Tool to free space from CVP servers
+https://github.com/arista-netdevops-community/automation_and_telemetry_demo # Network automation and telemetry demo with EOS devices
+https://github.com/arista-netdevops-community/automation-training-ansible # Training labs to bootstrap from python knowledge -> API interaction with Arista devices -> Ansible -> AVD
+https://github.com/arista-netdevops-community/gnmi_demo_with_arista_eos # How to interact with Arista EOS devices using gNMI. How to use pyang and pyangbind.
+https://github.com/arista-netdevops-community/arista_eos_automation_with_ncclient # ncclient examples with Arista EOS
+https://github.com/arista-netdevops-community/avd-with-ansible-tower-awx # How to integrate AVD with Ansible AWX and Tower
+https://github.com/arista-netdevops-community/avd-extended-workshop #
+https://github.com/arista-netdevops-community/atd-cicd # Example of leveraging the Arista Test Drive to learn about CI/CD concepts.
+https://github.com/arista-netdevops-community/salt_eos_automation # SaltStack content for Arista EOS
+https://github.com/arista-netdevops-community/cvp-in-gcp # Templates to launch fully functional CVP clusters in GCP.
+https://github.com/arista-netdevops-community/garp-varp-ethxmit # Send broadcast Gratuitous ARP (GARP) requests in the VLAN where the SVIs are configured with VARP configuration using Ethxmit on Arista switches.
+https://github.com/arista-netdevops-community/ceos_lab_demo # cEOS lab demo
+https://github.com/arista-netdevops-community/building-containerlab-with-ceos # How to build a lab environment with Containerlab and cEOS-lab
+https://github.com/arista-netdevops-community/docker-avd-vscode # VScode container to speed up AVD on-boarding
+https://github.com/arista-netdevops-community/ansible-event-driven-automation-examples # Examples of using Ansible EDA with Arista EOS and CloudVision
+https://github.com/arista-netdevops-community/restconf_demo_with_arista # RESTCONF examples with Arista
+https://github.com/arista-netdevops-community/cvp-to-influx # Go based tool to extract openconfig telemetry out of cvp and into influx.
+https://github.com/arista-netdevops-community/telegraf-cloudvision-telemetry # Telegraf integration to CloudVision for streaming telemetry of CloudVision devices
+https://github.com/arista-netdevops-community/avd-install # Repo to expose AVD install script
+https://github.com/arista-netdevops-community/cvp-kvm-deployer # Automated builder for a CVP VM upon a KVM hypervisor for 'non-standard' specs (like smaller hdd)
+https://github.com/arista-netdevops-community/avd-evpn-webinar-june-11 # Arista Technology Series: Designing and Deploying EVPN VxLAN Networks - Arista Ansible AVD automation
+https://github.com/arista-netdevops-community/cgig #
+https://github.com/arista-netdevops-community/emea-ambassadors-containerlab-aug-2022 # EMEA Ambassadors: ContainerLab session, Aug 2022
+https://github.com/arista-netdevops-community/cvp-ansible-provisioning # Terraform + ansible module to provision CVP on servers, with a particular focus on cloud deployments.
+https://github.com/arista-netdevops-community/nornir-snapshot #
+https://github.com/arista-netdevops-community/excel-to-avd # Excel on-boarding script for ansible-avd
+https://github.com/arista-netdevops-community/cvp-tac-check-bugchecks # Bugchecks for cvp-tac-check
+https://github.com/arista-netdevops-community/openconfig-peering # OpenConfig Peering Example
+https://github.com/arista-netdevops-community/cvp-servicenow-import # Simple example to import CVP or CVaaS devices into a ServiceNow instance.
+https://github.com/arista-netdevops-community/cvp-snmp-container # CVP Cluster monitoring via SNMP
+https://github.com/arista-netdevops-community/cvp-events-pubsub #
+https://github.com/arista-netdevops-community/cvp-monitoring # Monitor CVP cluster using Prometheus and Grafana
+https://github.com/arista-netdevops-community/cvaas-migration # Migrate CVP on-prem to CloudVision-as-a-Service
+https://github.com/arista-netdevops-community/cvp-in-aws # Templates to launch CVP clusters in AWS
+https://github.com/arista-netdevops-community/avd-toi #
+https://github.com/arista-netdevops-community/automation-toi #
+https://github.com/arista-netdevops-community/rhs-eda # Repository to demonstrate Ansible EDA at RedHat Summit
+https://github.com/arista-netdevops-community/gnoi-prometheus-exporter # Prometheus exporter for gNOI services.
+https://github.com/arista-netdevops-community/action-molecule-avd # Github Action to leverage Ansible Molecule in AVD
+https://github.com/arista-netdevops-community/arista-ci-codespace #
+https://github.com/arista-netdevops-community/gnoi_demo_with_arista # gNOI demo with Arista
+https://github.com/arista-netdevops-community/demo-avd-compose-k8s # A demo to automate AVD exection with docker-compose and Kubernetes
+https://github.com/arista-netdevops-community/atd-irb-diff # Basic configs to demo the difference between IRB models using ATD network topology
+https://github.com/arista-netdevops-community/cloudvision-automation # This repository has Arista Networks CloudVision automation examples
+https://github.com/arista-netdevops-community/runam-avd # A collection of Python modules to extend Ansible AVD collection
+https://github.com/arista-netdevops-community/ansible-cvp-toi # Content for ansible-cvp Transfert of Information
+https://github.com/arista-netdevops-community/eos-snmp-extension-vlan-counters # Provides an example of how to extend net-snmp to expose hardware counters for vlans
+https://github.com/arista-netdevops-community/saltstack-hello-world # SaltStack hello world with Arista devices
+https://github.com/arista-netdevops-community/runam #
+https://github.com/arista-netdevops-community/guardicore-temp-container #
+https://github.com/arista-netdevops-community/acb-emea-campus-fabric #
+https://github.com/arista-netdevops-community/avd-cvaas-demo # AVD and CVaaS demo
+https://github.com/arista-netdevops-community/cvp-multicast-auto-reconcile #
+
+https://github.com/arista-eosplus/pyeapi # Python client for Arista eAPI
+https://github.com/arista-eosplus/ztpserver # Full service ZTP Server implementation for bootstrapping Arista EOS nodes
+https://github.com/arista-eosplus/packer-veos # Packer.io automation of the vEOS nodes
+https://github.com/arista-eosplus/packer-ztpserver # Packer.io set up of ZTP server
+https://github.com/arista-eosplus/rbeapi # Ruby client for Arista eAPI
+https://github.com/arista-eosplus/eos-ansible-quick-start # A simple Ansible setup to get you up and running faster!
+https://github.com/arista-eosplus/eos-ansible-tower-demo # Sample playbook to use with Arista and Ansible
+https://github.com/arista-eosplus/puppet-eos # Puppet modules for managing Arista EOS nodes
+https://github.com/arista-eosplus/ansible-eos-system # Prebuilt Ansible Role to manage global system configuration on your Arista EOS Device
+https://github.com/arista-eosplus/ansible-eos-bgp # Prebuilt Ansible Role to manage BGP configuration on your Arista EOS Device
+https://github.com/arista-eosplus/ansible-eos-vxlan # Prebuilt Ansible Role to manage Vxlan configuration on your Arista EOS Device
+https://github.com/arista-eosplus/pyavd-cli # PyAVD cli tools
+https://github.com/arista-eosplus/ansible-eos-bridging # Prebuilt Ansible Role to manage layer 2 bridging configuration on your Arista EOS Device
+https://github.com/arista-eosplus/ansible-eos-interfaces # Prebuilt Ansible Role to manage interface configuration on your Arista EOS Device
+https://github.com/arista-eosplus/ansible-eos-mlag # Prebuilt Ansible Role to manage MLAG configuration on your Arista EOS Device
+https://github.com/arista-eosplus/ansible-eos-ipv4 # Prebuilt Ansible Role to manage IPv4 configuration on your Arista EOS Device
+https://github.com/arista-eosplus/ansible-eos-virtual-router # Prebuilt Ansible Role to manage virtual router configuration on your Arista EOS Device
+https://github.com/arista-eosplus/ztpserver-demo #
+https://github.com/arista-eosplus/ansible-cloudvision # Ansible Role for working with Arista Cloudvision®
+https://github.com/arista-eosplus/ansible-eos-acl # Prebuilt Ansible Role to manage ACL configuration on your Arista EOS Device
+https://github.com/arista-eosplus/ansible-eos-route-control # Prebuilt Ansible Role to manage routing and access control policy configuration on your Arista EOS Device
+https://github.com/arista-eosplus/eapish # Arista eAPI Python Client Shell
+https://github.com/arista-eosplus/puppet-netdev # Arista EOS providers for the Puppet Supported NetDev standard library
+https://github.com/arista-eosplus/ansible-training # Ansible Training
+https://github.com/arista-eosplus/arista-ansible-role-test # Test framework for Ansible roles created for Arista EOS
+https://github.com/arista-eosplus/ansible-eos-playbooks # Sample Ansible playbooks to use with the Arista EOS Role
+https://github.com/arista-eosplus/ztpserver-utils # Utilities for ZTPServer
+https://github.com/arista-eosplus/robotframework-aristalibrary # Robot Framework library for Arista EOS
+https://github.com/arista-eosplus/eapictl # Arista eAPI Controller
+https://github.com/arista-eosplus/eosplus-demo-chef-repo # chef-repo for eosplus-demo-chef server
+https://github.com/arista-eosplus/burstmonitor # The Interface Burst Monitor script monitors the maximum bit rate on interfaces
+https://github.com/arista-eosplus/aristanetworks-puppetagent_gem # Ruby gem provider for the Ruby packaged with the Puppet Enterprise agent
+https://github.com/arista-eosplus/puppet-ztpserver # Puppet module to manage a ZTP Server
+
+https://github.com/arista-eosext/portautodescription #
+https://github.com/arista-eosext/l2tracert # L2 Trace Route - Ability to get hop by hop ingress & egress path to MAC address
+https://github.com/arista-eosext/bgpvxlan # Use BGP Community Attribute to advertise VTEP Loopback addresses
+https://github.com/arista-eosext/pcapdecoder #
+https://github.com/arista-eosext/pingcheck # EOS Extension to alert and change configuration based on host(s) ICMP reachability
+https://github.com/arista-eosext/rphm # Remote Port Health Monitor
+https://github.com/arista-eosext/ipcheck # EOS SDK Script to test IP reachability and alert if its down or if it comes back up.
+https://github.com/arista-eosext/toptalkers # EOS Extension for local sflow sampling and toptalker aggregated data
+https://github.com/arista-eosext/tcpcheck # EOS SDK Script to test HTTP reachability and make switch config changes based on reachability
+https://github.com/arista-eosext/capiclient #
+https://github.com/arista-eosext/collectd-eos # Arista EOS modules for collecting system performance statistics via collectd
+https://github.com/arista-eosext/storm_shut #
+https://github.com/arista-eosext/phm # PortHealthMonitor
+https://github.com/arista-eosext/robot-examples # These examples are associated with a article on EOS Central.
+https://github.com/arista-eosext/autoipcfg #
+https://github.com/arista-eosext/routeupdate #
+https://github.com/arista-eosext/sflow-decoder #
+https://github.com/arista-eosext/intfreactor # SDK app which reacts to interface changes and will pass Interface and state to a defined script as arguments

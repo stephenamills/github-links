@@ -1,0 +1,163 @@
+https://github.com/redhat-developer-demos/knative-tutorial # https://dn.dev/master A practical guide to get started with Knative. Knative concepts are explained simple and
+easy way with lots of demos and exercises. https://github.com/redhat-developer-demos/quarkus-tutorial # Quarkus Tutorial for https://dn.dev/quarkusmaster
+https://github.com/redhat-developer-demos/hybrid-cloud # Hybrid Cloud Demo using OpenShift on Multiple Clouds (Public/Private)
+https://github.com/redhat-developer-demos/java-container #
+https://github.com/redhat-developer-demos/eda-tutorial # Event-Driven Tutorial for Distributed Data with CQRS and Event Sourcing
+https://github.com/redhat-developer-demos/kubernetes-lab # Kubernetes - Basics to Advanced
+https://github.com/redhat-developer-demos/kafka-tutorial # Kafka Tutorial for https://dn.dev/kafkamaster
+https://github.com/redhat-developer-demos/faas-tutorial # Java FaaS demos with OpenWhisk and OpenShift
+https://github.com/redhat-developer-demos/hybrid-cloud-serverless # Bursting Cloud (K)native Services across clouds using OpenShift and Skupper
+https://github.com/redhat-developer-demos/docker-java # Intro Level Lab for Docker Development for Java Developers
+https://github.com/redhat-developer-demos/spring-boot-configmaps-demo # Demo application to show Spring Boot configuration using ConfigMaps
+https://github.com/redhat-developer-demos/12factor-app # Example application that demonstrates http://12factor.net/
+https://github.com/redhat-developer-demos/openshift-gitops-examples # GitOps scenario & workshop manifests
+https://github.com/redhat-developer-demos/cloud-native-compass # Cloud Native computing is the leading edge, and with it comes new terms and concepts. Here's an open sourc
+e list of definitions to help you in your move to the cloud, containers, and microservices. https://github.com/redhat-developer-demos/northwind-traders # Eclipse JKube remote-dev feature demo project
+https://github.com/redhat-developer-demos/quinoa-wind-turbine #
+https://github.com/redhat-developer-demos/popular-movie-store # A very basic shopping cart application to show Stateful Canary Deployments on Kubernetes using Spring Boot
+and Infinispan https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app # A Cloud ready Post it app with a Quarkus backend, a Nodejs/Reactjs frontend and a Mongodb database (
+featuring CRW and Eclipse Che) https://github.com/redhat-developer-demos/quarkus-petclinic #
+https://github.com/redhat-developer-demos/tutorials-pipelines # Tekton CD Pipeline Demos
+https://github.com/redhat-developer-demos/openshift-hybridizer # All in One Openshift Cluster Hybrid Cloud Provisioner
+https://github.com/redhat-developer-demos/quarkus-pipeline-demo # Kubernetes and Knative pipeline demo using Tekton
+https://github.com/redhat-developer-demos/containers #
+https://github.com/redhat-developer-demos/brewery # The repository to hold the Spring Cloud Brewery application which will be deployed to OpenShift/Kubernetes
+https://github.com/redhat-developer-demos/the-deploy-master # Repository with scripts to demo "The Deploy Master"
+https://github.com/redhat-developer-demos/ossm-heading-to-production-and-day-2 # A practical guide on how to bring a solution to production with Red Hat Openshift Service
+Mesh. It includes architecture, design, control plane (ingress/egress, observability), traffic and security configurations as well as day-2 tuning, upgrade and troubleshooting advice. https://github.com/redhat-developer-demos/rps-game # Rock Paper Scissors game powered by Red Hat OpenShift AI
+https://github.com/redhat-developer-demos/tutorial-tools # The tools used in Red Hat Developers workshop
+https://github.com/redhat-developer-demos/spring-boot-secrets-demo # Demo app to supplement blog Configuring Spring Boot App on Kubernetes Part II
+https://github.com/redhat-developer-demos/image-overlay # Given an image, overlays the Coderland logo, a message, and a date stamp.
+https://github.com/redhat-developer-demos/qotd-python # Python version of Quote Of the Day microservice
+https://github.com/redhat-developer-demos/microprofile-demo # Eclipse Microprofile APIs Demo
+https://github.com/redhat-developer-demos/openshift-pipelines-workshop # Workshop to demonstrate OpenShift Pipelines (featuring Tekton)
+https://github.com/redhat-developer-demos/ansible-eda-alertmanager #
+https://github.com/redhat-developer-demos/vertx-starter # A simple Vert.x application
+https://github.com/redhat-developer-demos/qotd-csharp # Quote of the Day microservice written in C# (.NET Core 6.x)
+https://github.com/redhat-developer-demos/istio-httpbin # Istio demo to demo that istio prefix will fail the routes/policies
+https://github.com/redhat-developer-demos/demos-acm-manifests # Repository to hold Advanced Cluster Management(ACM) manifests for all RHD Devx Demos
+https://github.com/redhat-developer-demos/quarkus-sync-demo # A demo show how to make quarkus dev mode work with kubernetes
+https://github.com/redhat-developer-demos/springboot-on-openshift # The repository to hold demo materials of the talk done on Bangalore Kubernetes/OpenShift meetup on Jun
+10 2017 https://github.com/redhat-developer-demos/qotd-nodejs # Node.js Quote Of The Day app that is used by multiple tutorials, blog posts, etc.
+https://github.com/redhat-developer-demos/coderland-photo-store # React.js code that takes a photo, calls a service to overlay the photo, and displays the results. Part of
+the Coderland series. https://github.com/redhat-developer-demos/rhd-tutorial-helm # Code for https://redhat-developer-demos.github.io/helm-tutorial/
+https://github.com/redhat-developer-demos/k8s-ansible-eda #
+https://github.com/redhat-developer-demos/spring-boot-greeter # A simple Spring Boot service that shows how to use Kubernetes ConfigMap in Spring Boot properties
+https://github.com/redhat-developer-demos/cloud-demoshift # Quickly create all-in-one openshift cluster in cloud
+https://github.com/redhat-developer-demos/kafka-spammer # an utility project to spam a kafka topic
+https://github.com/redhat-developer-demos/mysql-openshift-ephemeral # Using MySQL (Ephemeral) in OpenShift
+https://github.com/redhat-developer-demos/knative-proxy # A proxy that lets XHRs access services in Knative.
+https://github.com/redhat-developer-demos/rhd-tutorial-template # Antora Template to start any RHD tutorial
+https://github.com/redhat-developer-demos/java-qotd # Java quotes example application
+https://github.com/redhat-developer-demos/netcandystore #
+https://github.com/redhat-developer-demos/guru-night #
+https://github.com/redhat-developer-demos/quotesweb # React.js front end to qotd-python
+https://github.com/redhat-developer-demos/ansible-use-cases # This repository contains all use cases created by Developer-BU team on Ansible Automation Platfrom, Ansible-N
+avigator, Event-Driven ansible & so on https://github.com/redhat-developer-demos/rhd-tutorial-ui # Tutorial UI for all the Red Hat Developers Tutorial Site
+https://github.com/redhat-developer-demos/simple-service-mesh-demo # This is, in fact, a simple Service Mesh demo for OpenShift
+https://github.com/redhat-developer-demos/openshift-tutorial # OpenShift Tutorial
+https://github.com/redhat-developer-demos/kubevirt-crc-windows-tutorial # Running a Window Framework (NOT .NET Core) app on Kubernetes using CodeReady Containers and Kubev
+irt https://github.com/redhat-developer-demos/ansible-automation-platform-continous-delivery-demo #
+https://github.com/redhat-developer-demos/quarkus-crud-mssql #
+https://github.com/redhat-developer-demos/microspringboot2 # Light weight Spring Boot Demo, suited for testing and demoing on quota based cloud options e.g. openshift.io
+https://github.com/redhat-developer-demos/namegen # Node.js and MongoDB demo code
+https://github.com/redhat-developer-demos/sandbox-go # Go sample website for Developer Sandbox for Red Hat OpenShift s2i example
+https://github.com/redhat-developer-demos/ocp4-workload-knative # Setting up Knative on OCP4 for RHPDS Workshops
+https://github.com/redhat-developer-demos/qotd # Quote of the Day RESTful service, used by one (or more) tutorials and workshops
+https://github.com/redhat-developer-demos/linux-container-world-apps # simple helloworlds used in basic k8s/openshift workshops
+https://github.com/redhat-developer-demos/getfood # Get food from a database
+https://github.com/redhat-developer-demos/bubbles-progressive-delivery # Example of Progressive Delivery with Istio, Knative, Argocd, Argo Rollouts
+https://github.com/redhat-developer-demos/hybradized-todo-app #
+https://github.com/redhat-developer-demos/millionaire-backend #
+https://github.com/redhat-developer-demos/monolith-to-containerized #
+https://github.com/redhat-developer-demos/podman-desktop-sandbox-learning-path # Files needed to complete the Red Hat Developer Podman Desktop & Developer Sandbox Learning
+Path https://github.com/redhat-developer-demos/intro-k8s-openshift # openshift basics tutorial to supplement with other tutorials and workshops
+https://github.com/redhat-developer-demos/instrument-resellers # A project that demonstrates multitenancy architectures using Kubernetes namespaces
+https://github.com/redhat-developer-demos/ansible-role-workshopper # Ansible Role for performing guru-night setup
+https://github.com/redhat-developer-demos/quinoa-wind-turbine-manifests #
+https://github.com/redhat-developer-demos/sandbox-python # Python (django) s2i source code for example use in Developer Sandbox for Red Hat OpenShift
+https://github.com/redhat-developer-demos/next.js-openshift-example #
+https://github.com/redhat-developer-demos/ansible-automation-platform-cloud-solutions #
+https://github.com/redhat-developer-demos/ansible-devspaces-demo # Ansible Dev Spaces demo project
+https://github.com/redhat-developer-demos/cde-ollama-continue #
+https://github.com/redhat-developer-demos/pipelines-catalog # Repo to hold Tekton pipelines tasks
+https://github.com/redhat-developer-demos/quotemysql # MariaDB database of Quotes to be run inside Kubernetes; part of Kubernetes By Example on Developer Sandbox for Red H
+at OpenShift https://github.com/redhat-developer-demos/event-driven-ansible #
+https://github.com/redhat-developer-demos/devx-workshop-workload # The OpenShift setup required to run Workshops for Istio and Knative Tutorials
+https://github.com/redhat-developer-demos/ansible-eda-deepdive #
+https://github.com/redhat-developer-demos/csharp_dockerfile_mvc # C# MVC application with included Dockerfile for use by Developer Sandbox for Red Hat OpenShift demo use
+https://github.com/redhat-developer-demos/react-openshift-example #
+https://github.com/redhat-developer-demos/cloud-native-microprofile # WildFly Swarm application
+https://github.com/redhat-developer-demos/helm-repo # This repository contains Helm charts for various OpenShift Demos
+https://github.com/redhat-developer-demos/microspringboot1 # Light weight Spring Boot Demo, suited for testing and demoing on quota based cloud options e.g. openshift.io
+https://github.com/redhat-developer-demos/quarkus-tutorial-image # Container image for running Quarkus Tutorial applications
+https://github.com/redhat-developer-demos/fantastic-dekorate # Project containing quarkus and spring petclinic projects used to demonstrate Dekorate
+https://github.com/redhat-developer-demos/sandbox-php # PHP (CakePHP) s2i source code for example use in Developer Sandbox for Red Hat OpenShift
+https://github.com/redhat-developer-demos/raffle # Rest application that performs a raffle using Twitter
+https://github.com/redhat-developer-demos/sandbox-nodejs # Node.js (Express.js) s2i source code for example use in Developer Sandbox for Red Hat OpenShift
+https://github.com/redhat-developer-demos/dadashbar # Collected trello scrapings Flask app from my Dev Rel team
+https://github.com/redhat-developer-demos/cheatsheet_asciidocs # A repository to store documentation created using asciidoc
+https://github.com/redhat-developer-demos/customerviewer # Blazor frontend for customer viewing activity
+https://github.com/redhat-developer-demos/rhd-workshop-operator # A Kubernetes Operator to prepare Red Hat Developers Workshop on OpenShift
+https://github.com/redhat-developer-demos/go_dockerfile # Go(lang) example web site to be used as an example for Red Hat OpenShift build from Dockerfile
+https://github.com/redhat-developer-demos/thestones # Web front end for Rolling Stones album listing activity
+https://github.com/redhat-developer-demos/countryui # Web site to display list of countries
+https://github.com/redhat-developer-demos/hybrid-cloud-app-backend # the backend application repository for hybrid-cloud-demo
+https://github.com/redhat-developer-demos/quarkus-db-kubernetes #
+https://github.com/redhat-developer-demos/getquoteslistforu # Part of the Labels Sandbox Activity
+https://github.com/redhat-developer-demos/angular-openshift-example #
+https://github.com/redhat-developer-demos/crw-quarkus-ocp # Quarkus reactive (using Vert.x) application running in CodeReady Workspaces on OpenShift
+https://github.com/redhat-developer-demos/svelte_openshift_example #
+https://github.com/redhat-developer-demos/developerhublp # Files for the 2024 Developer Hub Learning Path
+https://github.com/redhat-developer-demos/microspringboot3 # Light weight Spring Boot Demo, suited for testing and demoing on quota based cloud options e.g. openshift.io
+https://github.com/redhat-developer-demos/sandbox-ruby # Ruby on Rails Sandbox sample
+https://github.com/redhat-developer-demos/meteor.js-openshift-example #
+https://github.com/redhat-developer-demos/pedal-traditional # pedal-traditional is an e-commerce application built with Java and uses Spring Boot and JBoss EAP with functi
+onality to sell E-Bikes with the ability to login and manage account. https://github.com/redhat-developer-demos/resource_pressurizer #
+https://github.com/redhat-developer-demos/pacman-kikd # Pacman game with CI (Tekton) and CD (ArgoCD)
+https://github.com/redhat-developer-demos/myknativesink # Quarkus app for Knative Eventing demo with Kafka
+https://github.com/redhat-developer-demos/serverless-activity-photobooth # Photo booth application to be used with OpenShift Serverless Activity (red.ht/sandb0x)
+https://github.com/redhat-developer-demos/ocp-demo-load # Load apps into OpenShift for demo
+https://github.com/redhat-developer-demos/customersdb # Customer Database
+https://github.com/redhat-developer-demos/knativetutorial-eventinghello # Knative Tutorial Eventing Hello Sink
+https://github.com/redhat-developer-demos/triviahhh-api-gateway # OpenShift API Gateway for fictional company Triviahhh
+https://github.com/redhat-developer-demos/gcc-sample-app #
+https://github.com/redhat-developer-demos/filecontents # This simple Camel-based web service simply reads from a file and returns the contents of that file.
+https://github.com/redhat-developer-demos/pedal-user-service #
+https://github.com/redhat-developer-demos/rsalbums # Database to hold data about Rolling Stones albums
+https://github.com/redhat-developer-demos/countriesdb # Countries of the World database (MariaDB)
+https://github.com/redhat-developer-demos/openshift-ai #
+https://github.com/redhat-developer-demos/node.js-rest-api-openshift-example #
+https://github.com/redhat-developer-demos/content #
+https://github.com/redhat-developer-demos/dnmc-tekton-demos # DevNation MC Tekton Demos
+https://github.com/redhat-developer-demos/simple-site # Description goes here
+https://github.com/redhat-developer-demos/food-service # Reads a bunch of food data from a PostgreSQL database
+https://github.com/redhat-developer-demos/quarkus-maven-repo-cachier # A data container image to cache quarkus maven artifacts
+https://github.com/redhat-developer-demos/podify-quarkus-redis #
+https://github.com/redhat-developer-demos/redhat-developer-demos #
+https://github.com/redhat-developer-demos/hybrid-cloud-app-frontend # the app repo for hybrid-cloud-demo frontend
+https://github.com/redhat-developer-demos/getcustomerlist # Returns a list of customers from a PostgreSQL database
+https://github.com/redhat-developer-demos/rsgetalbumslist # Returns a JSON array of Rolling Stones Albums
+https://github.com/redhat-developer-demos/sandbox-java # Java (Quarkus) s2i source code for example use in Developer Sandbox for Red Hat OpenShift
+https://github.com/redhat-developer-demos/spring-boot-arq-demo # A Spring Boot application Integartion Test Demo using Arquillian CUBE
+https://github.com/redhat-developer-demos/nuxt.js-openshift-example #
+https://github.com/redhat-developer-demos/rps-game-manifests #
+https://github.com/redhat-developer-demos/qotd-helm # Helm chart for qotd backend
+https://github.com/redhat-developer-demos/serverless-eip-cookbook # The source code that will be used in exercises and demos for the serverless eip cookbook
+https://github.com/redhat-developer-demos/kafka-openshift-streams-demo # A project that demonstrates how to run the Apache Kafka Client against a Kafka broker running unde
+r Red Hat OpenShift Streams for Apache Kafka https://github.com/redhat-developer-demos/vue.js-openshift-example #
+https://github.com/redhat-developer-demos/rhd-tutorial-common #
+https://github.com/redhat-developer-demos/qotd-frontend # Front end HTML for qotd
+https://github.com/redhat-developer-demos/tekton-tutorial-staging # The Staging Repository for Tekton Tutorial
+https://github.com/redhat-developer-demos/microsoftsql-aap-on-rhel #
+https://github.com/redhat-developer-demos/getcountrieslist # Go webapi (REST) program to retrieve list of countries from a database and return it as a JSON array
+https://github.com/redhat-developer-demos/faas-tutorial-nodejs # OpenWhisk FaaS Tutorial using Node.js
+https://github.com/redhat-developer-demos/side-by-side # Demo showing Hello apps in different languages and technologies
+https://github.com/redhat-developer-demos/knative-tutorial-camelk # Knative Tutorial camel-k demos repo
+https://github.com/redhat-developer-demos/konveyor-tutorial #
+https://github.com/redhat-developer-demos/csharp_mvc # A simple MVC application written in C#
+https://github.com/redhat-developer-demos/quotesforudatabase # Build Quotes For U database
+https://github.com/redhat-developer-demos/triviahhh-web # Web front end to triviahhh-api-gateway
+https://github.com/redhat-developer-demos/.github #
+https://github.com/redhat-developer-demos/pedal-bike-service #
+https://github.com/redhat-developer-demos/inner-outer-loop-templates # Backstage software templates for Red Hat Summit 2024 Lab: Inner Loop and Outer Loop with OpenShift

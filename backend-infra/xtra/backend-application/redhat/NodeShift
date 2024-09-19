@@ -1,0 +1,20 @@
+https://github.com/nodeshift/nodejs-reference-architecture # The Red Hat and IBM Node.js Reference architecture. https://github.com/nodeshift/opossum # Node.js circuit breaker - fails fast ⚡️
+https://github.com/nodeshift/docker # Sample Dockerfile templates for building Dev, Debug, Test and Run images for your application
+https://github.com/nodeshift/nodeshift # CLI application for OpenShift Node.js deployment 🚀
+https://github.com/nodeshift/helm # Sample Helm Chart templates for packaging your Node.js application for deployment to Kubernetes
+https://github.com/nodeshift/tutorial # How to build and deploy your first Cloud Native Node.js application
+https://github.com/nodeshift/openshift-rest-client # Node based Openshift REST admin client
+https://github.com/nodeshift/opossum-prometheus # Prometheus metrics for opossum circuit breakers
+https://github.com/nodeshift/npcheck # "Node Package Checker" - A tool to run various checks on npm modules
+https://github.com/nodeshift/faas-js-runtime # A function invocation framework for Node.js and TypeScript
+https://github.com/nodeshift/kube-service-bindings # Kubernetes service bindings utility
+https://github.com/nodeshift/web-application-reference # WIP repo to hold Red Hat/IBM web application reference
+https://github.com/nodeshift/mern-workshop # MERN example code to be deployed into Docker and Kubernetes
+https://github.com/nodeshift/v8-build # Scripts related to building V8 on IBM platforms.
+https://github.com/nodeshift/nodeshift.github.io # Nodeshift website
+https://github.com/nodeshift/parasol-insurance-nodejs #
+https://github.com/nodeshift/npm_install_scheduler # A scheduler to periodically install @redhat modules from the RH registry
+https://github.com/nodeshift/nodejs_reference_architecture_module_stats_generator #
+https://github.com/nodeshift/new-module-starter # A summary of what to add when creating a new node module
+https://github.com/nodeshift/coolstore-nodejs # coolstore is a showcase for nodejs based microservices using the broad OpenShift and NodeShift
+https://github.com/nodeshift/paketo-nodejs-issues # Scripts to generate summaries of paketo nodejs related issues

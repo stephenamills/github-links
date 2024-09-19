@@ -1,3 +1,12 @@
+Licenses
+https://faircode.io
+https://fair.io
+
+https://fsl.software # Functional Source License
+https://fcl.dev # Fair Core License
+
+https://docs.docker.com/subscription/desktop-license/ # Docker Subscription Service Agreement
+
 Network Discovery
 https://github.com/nskelsey/aaalm # creates a pretty decent network diagram using packet captures
 
@@ -508,3 +517,35 @@ https://github.com/envato/rack-ecg # Health check page as Rack middleware
 https://github.com/rack/rackup #
 https://github.com/qonto/idempotent-request # Rack middleware ensuring at most once requests for mutating endpoints.
 https://github.com/jamesarosen/casrack_the_authenticator # CAS + Rack == happy authentication for the Corporate World
+
+Red Hat
+https://github.com/redhatofficial/overpass # Overpass open source web font family — Sponsored by Red Hat
+https://github.com/redhatofficial/redhatofficial.github.io # The official Red Hat project page.
+https://github.com/redhatofficial/redhatfont # Red Hat's Open Source Fonts - Red Hat Display and Red Hat Text
+https://github.com/redhatofficial/gocourse # Go language course
+https://github.com/redhatofficial/rhelai-dev-preview # Red Hat Enterprise Linux AI -- Developer Preview
+https://github.com/redhatofficial/ocp4-vsphere-upi-automation # Automates most of the manual steps of deploying OCP4.x cluster on vSphere
+https://github.com/redhatofficial/ansible-role-rhel7-stig # DISA STIG for Red Hat Enterprise Linux 7 - Ansible role generated from ComplianceAsCode Project
+https://github.com/redhatofficial/ansible-role-rhel8-stig # DISA STIG for Red Hat Enterprise Linux 8 - Ansible role generated from ComplianceAsCode Project
+https://github.com/redhatofficial/rhsummitlabs-2018 # The documentation repository for all Red Hat Summit 2018 Labs. The full labs agenda is online: https://agenda.summit.
+redhat.com/?Instructor-led%20Lab=0 https://github.com/redhatofficial/co.lab # An open source repository for the learning materials that are used by the CO.LAB program.
+https://github.com/redhatofficial/rhsecapi # Tools that utilize the Red Hat Security Data API
+https://github.com/redhatofficial/ansible-role-rhel8-cis # CIS Red Hat Enterprise Linux 8 Benchmark for Level 2 - Server - Ansible role generated from ComplianceAsCode Pro
+ject https://github.com/redhatofficial/ansible-role-rhel9-stig # DISA STIG for Red Hat Enterprise Linux 9 - Ansible role generated from ComplianceAsCode Project
+https://github.com/redhatofficial/ansible-redhat_openshift_utils # Ansible content supplemental to the openshift-ansible project for doing things that don't ship with that
+project, such as prerequisites for updates, upgrades, restarts, etc. https://github.com/redhatofficial/ansible-role-rhel7-pci-dss # PCI-DSS v4.0 Control Baseline for Red Hat Enterprise Linux 7 - Ansible role generated from ComplianceAsCode
+Project https://github.com/redhatofficial/ansible-role-rhel8-pci-dss # PCI-DSS v4.0 Control Baseline for Red Hat Enterprise Linux 8 - Ansible role generated from ComplianceAsCode
+Project https://github.com/redhatofficial/odie # ODIE - OpenShift Disconnected Installer for Enterprise.
+https://github.com/redhatofficial/ansible-redhat_cloudforms # Ansible playbooks for Red Hat CloudForms Management Engine (CFME).
+https://github.com/redhatofficial/ansible-role-rhel7-cui # Unclassified Information in Non-federal Information Systems and Organizations (NIST 800-171) - Ansible role gene
+rated from ComplianceAsCode Project https://github.com/redhatofficial/ose-pivproxy # A containerized PIV/CAC/x509 proxy for OSE
+https://github.com/redhatofficial/ansible-redhat_satellite6 # Ansible playbooks for Red Hat Satellite 6.
+https://github.com/redhatofficial/bwht-fonts # 6 handwritten fonts created for the Because We Had To project
+https://github.com/redhatofficial/ansible-role-rhel9-cis # CIS Red Hat Enterprise Linux 9 Benchmark for Level 2 - Server - Ansible role generated from ComplianceAsCode Pro
+ject https://github.com/redhatofficial/miq-redhat-satellite6 # ManageIQ Automate Domain for integrating with Red Hat Satellite 6 developed by Red Hat Consulting.
+https://github.com/redhatofficial/miq-utilities # ManageIQ Automate Domain of shared utilities to be used by other ManageIQ domains developed by Red Hat Consulting.
+https://github.com/redhatofficial/ansible-role-rhel8-cui # Unclassified Information in Non-federal Information Systems and Organizations (NIST 800-171) - Ansible role gene
+rated from ComplianceAsCode Project https://github.com/redhatofficial/rh-iconfont # The source for Red Hat's Icon Font.
+https://github.com/redhatofficial/rhos-vyos-nfv-demo # NFV Demo on Red Hat Openstack using the Opensource Networking Appliance VyOS
+https://github.com/redhatofficial/open-source-participation-guidelines # A community version of Red Hat's Open Source Participation Guidelines
+https://github.com/redhatofficial/creative # Open Studio Community: Open Source & Creativity Advocacy Committee

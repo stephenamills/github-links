@@ -1,0 +1,94 @@
+https://github.com/redhatgov/ssg-el7-kickstart # DVD embedded Kickstart for RHEL 7 ut
+ilizing SCAP Security Guide (SSG) as a hardening script. https://github.com/redhatgov/redhatgov.github.io # RedHatGov website
+https://github.com/redhatgov/rhel8-stig-latest # STIG for Red Hat Enterprise Linux 8
+https://github.com/redhatgov/redhatgov.workshops # This is a collection of Ansible-de
+ployed workshop environments. Use it in combination with the student workbook content, from the repo at https://github.com/RedHatGov/redhatgov.github.io https://github.com/redhatgov/service-mesh-workshop-dashboard # Materials for a worksh
+op on OpenShift Service Mesh https://github.com/redhatgov/automated_workshops # automated, stackable workshops cre
+ated with asciidoc and ansible https://github.com/redhatgov/ssg-el6-kickstart # DVD embedded Kickstart for RHEL 6 ut
+ilizing SCAP Security Guide (SSG) as a hardening script. https://github.com/redhatgov/ansible-kvm-vm # Create a VM on a RHEL+KVM hypervisor.
+https://github.com/redhatgov/hattrick # Project Hat Trick (currently refactoring from
+original repo at: https://github.com/redhat-kejones/hattrick) https://github.com/redhatgov/service-mesh-workshop-code # :memo: A demo app to use in
+the Service Mesh workshop https://github.com/redhatgov/devsecops-workshop-dashboard #
+https://github.com/redhatgov/ocdb # OpenControl Database
+https://github.com/redhatgov/ocp4-disconnected #
+https://github.com/redhatgov/fips-compliant-vault # A FIPS compliant implementation o
+f a password vault for Red Hat JBoss EAP https://github.com/redhatgov/terraform-packet-openshift # Resources and artifacts for
+OCP 4 UPI on Packet using Terraform https://github.com/redhatgov/ansible.tower.workshop #
+https://github.com/redhatgov/openshift4-mirror #
+https://github.com/redhatgov/mls-workbook # Red Hat Government hands-on workshop to e
+xplore MLS System Operation under RHEL6 https://github.com/redhatgov/sonarqube-operator #
+https://github.com/redhatgov/fips-openjdk-rhel #
+https://github.com/redhatgov/ansible-infraops # Ansible playbooks for infrastructure
+operations https://github.com/redhatgov/ansible-workshop # RedHatGov Ansible Workshop
+https://github.com/redhatgov/serverless-workshop-code # Code used in a workshop on Op
+enShift Serverless (Knative) https://github.com/redhatgov/serverless-workshop-dashboard # Lab guides for a worksho
+p on OpenShift Serverless (Knative) https://github.com/redhatgov/ansible-scan-jboss # module to scan for JBoss instances
+https://github.com/redhatgov/satellite-api-scripts # RHN Satellite API Scripts
+https://github.com/redhatgov/lunchbox # Project Lunchbox is a resource for deploying
+Red Hat technologies on a single server that literally fits in a lunchbox. https://github.com/redhatgov/cyclops # This code is for hosting our internal image bu
+ild process https://github.com/redhatgov/ansible-kvm # Turn a regular RHEL 7 server into a RHEL+K
+VM hypervisor. https://github.com/redhatgov/ansible-idm # This role provisions, installs, and config
+ures RHEL Identity Manager (IdM). https://github.com/redhatgov/sre-workshop-code # Code used in workshop for Site Relia
+bility Engineering (SRE) https://github.com/redhatgov/shadowbox # Documentation around the Shadowbox Hyper-por
+table Lab Environment https://github.com/redhatgov/sre-workshop-dashboard # Lab guides for a workshop on Si
+te Reliability Engineering (SRE) https://github.com/redhatgov/containers_workshop # This is a Ansible playbook to crea
+te a workshop environment in AWS where students can log into their own RHEL 7.x instance and install and use docker. The only prerequisites are a AWS API Key with EC2 permissions, Terraform and Ansible installed on the local machine. https://github.com/redhatgov/operator-catalog #
+https://github.com/redhatgov/ansible-rhsm # This Ansible Role handles subscribing a R
+HEL system to the proper subscription https://github.com/redhatgov/ansible-vsphere # automation for vsphere/esxi
+https://github.com/redhatgov/openshift4-deploy #
+https://github.com/redhatgov/aws-redhatgov #
+https://github.com/redhatgov/provision_ec2_instances #
+https://github.com/redhatgov/rhosp-overcloud-stig # This repo will help get you start
+ed on producing a pre-hardened images. Its primarily designed for Openstack overcloud images, but will also work for generic RHEL based images https://github.com/redhatgov/ingress-route-examples # Kubernetes manifests demonstrat
+ing the practical differences between using OpenShift Routes and Ingress resource types for exposing cluster traffic. https://github.com/redhatgov/gitea-operator #
+https://github.com/redhatgov/openshift-ansible-workshop # Full day OpenShift/Ansible
+interactive workshop https://github.com/redhatgov/openshift.aws #
+https://github.com/redhatgov/ansible-copy-local-pub-key # Copy the local SSH public k
+ey to authorized_keys file of target https://github.com/redhatgov/devsecops-api-collection #
+https://github.com/redhatgov/ansible_tower_workshop #
+https://github.com/redhatgov/openshift4-c2s # OpenShift 4 Deployment for C2S and SC2S
+https://github.com/redhatgov/rhmap-workshops # 📓 Try out the Red Hat Mobile Applicat
+ion Platform with these workshops https://github.com/redhatgov/ansible-rhosp-director # Role to deploy Red Hat OpenStac
+k Platform Director LTS https://github.com/redhatgov/tower-doc #
+https://github.com/redhatgov/ocp-app # Web app to showcase a simple Python Flask App.
+https://github.com/redhatgov/lunchbox-demos # Demos for the lunchbox
+https://github.com/redhatgov/dockerfile_fedora-postgres # Dockerfile_fedora-postgres
+https://github.com/redhatgov/ansible-tower # Role to deploy Ansible Tower on a single
+server https://github.com/redhatgov/nexus-operator #
+https://github.com/redhatgov/azure-cfme-tower # MS Azure CloudForms Tower Demo
+https://github.com/redhatgov/redhatgov.github # Red Hat Gov Documentation site
+https://github.com/redhatgov/ansible-openstack-instance # Role to launch an instance
+on OpenStack https://github.com/redhatgov/instant-demo # Project to deploy complete demo environme
+nts using Ansible playbooks https://github.com/redhatgov/rolie # A Resource-Oriented Lightweight Information Exch
+ange (ROLIE) protocol NIST https://github.com/redhatgov/devsecops-operator # Operator to deploy the Red Hat NAPS
+DevSecOps workshop https://github.com/redhatgov/hugo-docs-site #
+https://github.com/redhatgov/dc17-flask #
+https://github.com/redhatgov/redhatgov.roles # Roles for the redhatgov.workshops
+https://github.com/redhatgov/ocp4-bm-disconnected #
+https://github.com/redhatgov/openshift4-govcloud # OpenShift 4 Deployment templates a
+nd playbooks for the AWS GovCloud Region https://github.com/redhatgov/camel-k-integration #
+https://github.com/redhatgov/atopathways-onepager #
+https://github.com/redhatgov/ansible-hackathon # Ansible Hackathon
+https://github.com/redhatgov/mattermost-operator #
+https://github.com/redhatgov/aro-test-drive #
+https://github.com/redhatgov/reference-quarkus-mvn-jenkins #
+https://github.com/redhatgov/ansible-content # This role installs and configures RHEL
+Local Content Server (Repos, Registry, NFS). https://github.com/redhatgov/workshop.artifacts #
+https://github.com/redhatgov/anonedge #
+https://github.com/redhatgov/sled # Repository for content managed by the NAPS SLED t
+eam https://github.com/redhatgov/disconnected_software_factory #
+https://github.com/redhatgov/archive.redhatgov.io # Archive repository for older work
+shop content https://github.com/redhatgov/ansible-openstack-heat-stack # Role to launch a heat sta
+ck on an OpenStack Cloud https://github.com/redhatgov/fincom #
+https://github.com/redhatgov/ansible-windows # Ansible automation for windows
+https://github.com/redhatgov/ansible-rhv-vm # Create/teardown a VM on ovirt/rhv
+https://github.com/redhatgov/selenium-grid-images #
+https://github.com/redhatgov/selenium-grid-operator #
+https://github.com/redhatgov/openshift-tasks-report #
+https://github.com/redhatgov/scripts #
+https://github.com/redhatgov/golie #
+https://github.com/redhatgov/sonarqube-image #
+https://github.com/redhatgov/openshift-tasks #
+https://github.com/redhatgov/postgresql-ansible-role #
+https://github.com/redhatgov/jenkins-image #
+https://github.com/redhatgov/reference-quarkus-mvn-jenkins-config #

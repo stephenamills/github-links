@@ -1,0 +1,75 @@
+https://github.com/app-sre/deployment-validation-operator # The Deployment Validator Operator (DVO) checks deployments and other resou
+rces against a curated collection of best practices. https://github.com/app-sre/qontract-reconcile # CLI tool to reconcile services with their desired state as defined in App-Interface
+https://github.com/app-sre/github-mirror # GitHub API mirror that caches the responses and implements conditional requests
+https://github.com/app-sre/aws-resource-exporter # Prometheus exporter for AWS resource metadata and metrics which are not available i
+n Cloudwatch https://github.com/app-sre/qontract-server # An automation framework that can be used to create resilient pipelines relying on GitOps
+and type-safety https://github.com/app-sre/gabi # Improving tenant quality of life for database access while following site reliability engineering be
+st practices https://github.com/app-sre/qenerate # Code Generator for GraphQL Query and Fragment Data Classes
+https://github.com/app-sre/dashdotdb #
+https://github.com/app-sre/sretoolbox # Set of libraries commonly used by multiple SRE projects
+https://github.com/app-sre/qontract-schemas #
+https://github.com/app-sre/visual-qontract # A web UI for the data served by a qontract-server instance
+https://github.com/app-sre/vault-manager # an automation tool for managing HashiCorp vault configurations based on Vault GO API Client
+https://github.com/app-sre/qontract-development-cli # Qontract Development CLI
+https://github.com/app-sre/app-interface #
+https://github.com/app-sre/go-qontract-reconcile # Go implementation of qontract-reconcile CLI
+https://github.com/app-sre/rh-aws-saml-login # A CLI tool that allows you to login and retrieve AWS temporary credentials using Red Ha
+t SAML IDP https://github.com/app-sre/gabi-cli #
+https://github.com/app-sre/csnotify # Cloud storage notifications for Go
+https://github.com/app-sre/python-project-template # This repo could be used as a template for a new Python project
+https://github.com/app-sre/git-keeper #
+https://github.com/app-sre/qontract-validator # Tools necessary to bundle data into the format used by a qontract-server instance
+https://github.com/app-sre/container-images #
+https://github.com/app-sre/vegeta-k8s #
+https://github.com/app-sre/aws-generated-data # This repository holds data generated from AWS static HTML resources, possibly with som
+e added logic https://github.com/app-sre/jiralert-openshift # https://github.com/prometheus-community/jiralert , built for OpenShift
+https://github.com/app-sre/glitchtip-jira-bridge # The Glitchtip-Jira-Bridge seamlessly processes Glitchtip alerts through webhooks, t
+ransforming them into detailed, actionable Jira tickets. https://github.com/app-sre/git-partition-sync-consumer #
+https://github.com/app-sre/unleash # Feature Toggle As A Service - Powered by Unleash
+https://github.com/app-sre/glitchtip # AppSRE glitchtip deployment
+https://github.com/app-sre/terraform-aws-vpc-flow-logs-splunk # Terraform module to send VPC Flow Logs to Splunk using Kinesis Firehos
+e https://github.com/app-sre/vault-exporter # Vault exporter for Prometheus
+https://github.com/app-sre/alert-translator # a translation layer between AlertManager and destination applications
+https://github.com/app-sre/s3-reload # Simple binary to trigger a reload when an object in an S3 bucket is updated
+https://github.com/app-sre/catalog-image #
+https://github.com/app-sre/pipelines-test-container #
+https://github.com/app-sre/er-aws-rds #
+https://github.com/app-sre/nginx-redirector # Simple nginx container used to redirect all traffic to some URL
+https://github.com/app-sre/logs-to-elasticsearch-lambda #
+https://github.com/app-sre/quay-mysql-diag #
+https://github.com/app-sre/push-saas-metrics #
+https://github.com/app-sre/cost-management-metrics-operator #
+https://github.com/app-sre/openshift-cert-manager-routes-templates #
+https://github.com/app-sre/stage-ci-test # Repository to test builds from stage.ci.devshift.net
+https://github.com/app-sre/signalfx-prometheus-exporter # Make SignalFX Metrics scrapable
+https://github.com/app-sre/olm-image-registry-manager #
+https://github.com/app-sre/x509-certificate-exporter # x509-certificate-exporter deployment
+https://github.com/app-sre/statuspage-exporter #
+https://github.com/app-sre/acs-cve-prom-exporter #
+https://github.com/app-sre/external-resources-io #
+https://github.com/app-sre/prometheus-operator-catalog #
+https://github.com/app-sre/cognito-pre-signup-trigger # Holding repository for cognito trigger lambda function for rosa-authenticator
+in FedRAMP https://github.com/app-sre/terraform-repo-executor # app for performing terraform operations on TF workspaces within git repositories
+https://github.com/app-sre/test-saas-deployments #
+https://github.com/app-sre/nginx-gate #
+https://github.com/app-sre/flush-redis # flush-redis
+https://github.com/app-sre/dashdotcollector #
+https://github.com/app-sre/er-aws-msk #
+https://github.com/app-sre/sentry #
+https://github.com/app-sre/mb-k8s # kubernetes job wrapper on top of mb load tester
+https://github.com/app-sre/test-git-commit-range #
+https://github.com/app-sre/fluentd # custom fluentd docker image
+https://github.com/app-sre/pyrra-template #
+https://github.com/app-sre/kinesis-to-opensearch-lambda #
+https://github.com/app-sre/container-vulnerability-exporter #
+https://github.com/app-sre/nginx-proxy-cache #
+https://github.com/app-sre/test-floorist-operator-reproducer # Repo to reproduce build issues in floorist
+https://github.com/app-sre/er-outputs-secrets #
+https://github.com/app-sre/container-security-operator # Container Security Operator
+https://github.com/app-sre/cfworkerdemo #
+https://github.com/app-sre/test-dockerignore-builds #
+https://github.com/app-sre/openshift-acme-templates #
+https://github.com/app-sre/rds-enhanced-metrics-exporter #
+https://github.com/app-sre/aus-cli # Advanced Upgrade Service command line utility
+https://github.com/app-sre/er-base-cdktf #
+https://github.com/app-sre/qontract-docs #

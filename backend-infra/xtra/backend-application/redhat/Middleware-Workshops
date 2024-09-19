@@ -1,0 +1,90 @@
+https://github.com/redhat-middleware-workshops/dayinthelife-integration # Day in the Life Agile Integration Workshop
+https://github.com/redhat-middleware-workshops/dayinthelife-streaming # Day in the Streaming Life (Event-Driven) Workshop
+https://github.com/redhat-middleware-workshops/quarkus-workshop-m1m2 # A Developer workshop featuring Quarkus, Eclipse Che and OpenShi
+ft 4 https://github.com/redhat-middleware-workshops/modernize-apps-katacoda # Katacoda scenarios for learning how to modernize existing app
+s using JBoss and OpenShift https://github.com/redhat-middleware-workshops/workshop-amq-streams #
+https://github.com/redhat-middleware-workshops/spring-to-quarkus-todo # Spring to Quarkus exercise
+https://github.com/redhat-middleware-workshops/modernize-apps-labs # Lab materials for the app modernization roadshow labs
+https://github.com/redhat-middleware-workshops/enter-serverless-functions # This hands-on workshop teaches how developers creates/buil
+ds/deploys serverless functions using Quarkus on Knative, AWS Lambda https://github.com/redhat-middleware-workshops/dg8-workshop # Source for the Red Hat Data Grid 8.0 workshop content repository
+https://github.com/redhat-middleware-workshops/quarkus-workshop-m1m2-labs # Source code for Quarkus Workshop
+https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m1-guides # The CCN Roadshow(Dev Track) Module 1 Guide 2022
+https://github.com/redhat-middleware-workshops/eap7-modernization # Red Hat JBoss Enterprise Application Platform (EAP) 7 is the lates
+t Java-EE-7-certified platform from Red Hat that improves the developer and management experience. In this lab, you'll learn how to develop modern applications using Java EE 7 features like JMS, Concurrency, batch jobs, and more. https://github.com/redhat-middleware-workshops/3scale-hackathon #
+https://github.com/redhat-middleware-workshops/dayinthelife-serverless # Day in the Serverless Life WorkShop
+https://github.com/redhat-middleware-workshops/rhtr-2020-api-mgmt-kafka-workshop # A lab that guides attendees through the creation of
+an event streaming architecture protected with API Management https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m4-guides # The CCN Roadshow(Dev Track) Module 4 Guide 2022
+https://github.com/redhat-middleware-workshops/keycloak-workshop-labs #
+https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m4-labs # The CCN Roadshow(Dev Track) Module 4 Labs 2022
+https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m2-guides # The CCN Roadshow(Dev Track) Module 2 Guide 2022
+https://github.com/redhat-middleware-workshops/demo-onestop # All about cloud-native application development demos and more
+https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2-labs-solutions # The CCN Roadshow(Dev Track) Labs Solution 202
+2 https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m3-labs # The CCN Roadshow(Dev Track) Module 3 Labs 2022
+https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m3-guides # The CCN Roadshow(Dev Track) Module 3 Guide 2022
+https://github.com/redhat-middleware-workshops/amq7-broker-workshop # Red Hat Integration: AMQ Broker Workshop
+https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m2-labs # The CCN Roadshow(Dev Track) Module 2 Labs 2022
+https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m1-labs # The CCN Roadshow(Dev Track) Module 1 Labs 2022
+https://github.com/redhat-middleware-workshops/camelk-hackathon #
+https://github.com/redhat-middleware-workshops/servicemesh-3scale-demo #
+https://github.com/redhat-middleware-workshops/bpmsuite-6-workshop #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1m2-guides #
+https://github.com/redhat-middleware-workshops/workshop-camel3 # Learn Camel as a Kubernetes user and as an experienced developer buil
+ding an open event driven communications platform. https://github.com/redhat-middleware-workshops/quarkus-workshop-m3 #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1-infra #
+https://github.com/redhat-middleware-workshops/ccn-user-report # CCN User Report
+https://github.com/redhat-middleware-workshops/dg8-workshop-labs #
+https://github.com/redhat-middleware-workshops/keycloak-workshop-guides #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1m1-guides #
+https://github.com/redhat-middleware-workshops/quarkus-workshop-m3-labs #
+https://github.com/redhat-middleware-workshops/spring-jkube-external-config # Deploying a Spring Boot app with external configuration
+to Kubernetes https://github.com/redhat-middleware-workshops/rhpam-7-workshop #
+https://github.com/redhat-middleware-workshops/vertx-workshop-infra # Infra services for running the vertx kubernetes workshop with Ch
+e/CodeReady+Openshift https://github.com/redhat-middleware-workshops/devsandbox-category-ai-basics # Get started setting up AI essentials for your applications
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1m3-labs-final #
+https://github.com/redhat-middleware-workshops/optaplanner-2-hour-workshop #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1m3-guides #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1m4-guides #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1-images #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1m3-labs-step-3 #
+https://github.com/redhat-middleware-workshops/eap8-rhd-learning-path #
+https://github.com/redhat-middleware-workshops/bpmsuite-6-workshop-lab-repo #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1-infra #
+https://github.com/redhat-middleware-workshops/rh-integration-tools-container-image #
+https://github.com/redhat-middleware-workshops/rh1-eap7-eap8-lab #
+https://github.com/redhat-middleware-workshops/summit-eap-rhsi-lab-sample-app #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1-infra-operator #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m3-labs-step-2 #
+https://github.com/redhat-middleware-workshops/devsandbox-category-demo1 #
+https://github.com/redhat-middleware-workshops/devsandbox-category-llm-basics # Get started setting up LLM essentials for your applications
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m1-labs #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m1-labs-step-4 #
+https://github.com/redhat-middleware-workshops/optaplanner-2-hour-workshop-infra #
+https://github.com/redhat-middleware-workshops/camel-edge-rhte #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m3-guides #
+https://github.com/redhat-middleware-workshops/service-interconnect-lab-instructions #
+https://github.com/redhat-middleware-workshops/devsandbox-camel # Hands-on Camel labs for the Developer Sandbox
+https://github.com/redhat-middleware-workshops/devsandbox-category-demo2 #
+https://github.com/redhat-middleware-workshops/devsandbox-catalog-template #
+https://github.com/redhat-middleware-workshops/spring-to-quarkus-mta-cli # Repo containing code to build the images used in the spring-to-quarkus-todo repository
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m3-labs-step-3 #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m1-labs-step-2 #
+https://github.com/redhat-middleware-workshops/kogito-workshop-v1-infra #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m2-labs-step-3 #
+https://github.com/redhat-middleware-workshops/devsandbox-catalog-demo #
+https://github.com/redhat-middleware-workshops/kogito-workshop-v1m1-guides #
+https://github.com/redhat-middleware-workshops/.github #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1m3-labs-step-4 #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m1-labs-step-5 #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m2-guides #
+https://github.com/redhat-middleware-workshops/devsandbox-catalog-ai-labs # AI learning labs applied to App Dev
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m2-labs-step-2 #
+https://github.com/redhat-middleware-workshops/optaplanner-2-hour-workshop-cloud-balancing-lab #
+https://github.com/redhat-middleware-workshops/edge-to-cloud-data-pipelines-workshop # Building Applications for The Edge: A Retail Odyssey with Red Hat OpenShift, AI/ML, and Application Services
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m1-guides #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m1-labs-step-3 #
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m2-labs-step-1 #
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1m1-labs #
+https://github.com/redhat-middleware-workshops/devsandbox-category-template #
+https://github.com/redhat-middleware-workshops/summit-eap-rhsi-lab-instructions #
+https://github.com/redhat-middleware-workshops/msft-eap-quickstarts-app # Sample EAP/Wildfly app(Duke) for Microsoft Quickstarts template
+https://github.com/redhat-middleware-workshops/optaplanner-workshop-v1m3-labs-step-1 #
