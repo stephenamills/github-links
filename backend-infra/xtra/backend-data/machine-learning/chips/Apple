@@ -1,0 +1,19 @@
+https://github.com/apple/coremltools # Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
+
+https://github.com/apple/ml-stable-diffusion # Stable Diffusion with Core ML on Apple Silicon
+https://github.com/apple/ml-ane-transformers # Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
+https://github.com/apple/ml-mobileone # This repository contains the official implementation of the research paper, "An Improved One millisecond Mobile Backbone".
+https://github.com/apple/ml-fastvit # This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization" ICCV 2023
+https://github.com/apple/ml-cvnets # CVNets: A library for training computer vision networks
+https://github.com/apple/ml-mdm # Train high-quality text-to-image diffusion models in a data & compute efficient manner
+https://github.com/apple/ml-aim # This repository provides the code and model checkpoints of the research paper: Scalable Pre-training of Large Autoregressive Image Models
+https://github.com/apple/ml-core #
+https://github.com/apple/ml-cifar-10-faster #
+https://github.com/apple/ml-llarp #
+https://github.com/apple/ml-upscale # Export utility for unconstrained channel pruned models
+https://github.com/apple/ml-np-rasp #
+https://github.com/apple/ml-tweak #
+https://github.com/apple/ml-stabledreamer #
+https://github.com/apple/toolsandbox #
+
+https://en.wikipedia.org/wiki/Template:Apple_silicon

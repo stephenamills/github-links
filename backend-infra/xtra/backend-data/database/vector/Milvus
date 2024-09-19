@@ -1,0 +1,30 @@
+https://github.com/milvus-io/milvus # A cloud-native vector database, storage for next generation AI applications
+https://github.com/milvus-io/bootcamp # Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
+https://github.com/milvus-io/pymilvus # Python SDK for Milvus.
+https://github.com/milvus-io/milvus-sdk-java # Java SDK for Milvus.
+https://github.com/milvus-io/milvus-sdk-go # Go SDK for Milvus.
+https://github.com/milvus-io/milvus-lite # A lightweight version of Milvus
+https://github.com/milvus-io/web-content # Milvus web documents and contents
+https://github.com/milvus-io/milvus-sdk-node # The Official Mivus node.js sdk(client)
+https://github.com/milvus-io/milvus-sdk-csharp # C# SDK for Milvus.
+https://github.com/milvus-io/milvus-docs # This repository is for Milvus technical documentation update and maintenance. Visit Milvus.io for fully rendered technical documents.
+https://github.com/milvus-io/milvus-tools # A data migration tool for Milvus.
+https://github.com/milvus-io/milvus-sdk-rust # Rust SDK for Milvus.
+https://github.com/milvus-io/birdwatcher #
+https://github.com/milvus-io/milvus.io # Milvus official website.
+https://github.com/milvus-io/milvus-sdk-cpp # C++ SDK for Milvus 2.0
+https://github.com/milvus-io/community # Where community members can share ideas, collaborate and learn from each other.
+https://github.com/milvus-io/milvus-proto # Share Milvus proto files between Milvus repository and SDK repositories
+https://github.com/milvus-io/milvus-tutorials # milvus tutorials
+https://github.com/milvus-io/milvus-model # The embedding/reranking model zoo help user to convert their unstructured data into embeedings
+https://github.com/milvus-io/milvus-storage # Milvus file storage format repo
+https://github.com/milvus-io/milvus-haystack #
+https://github.com/milvus-io/hero-bot # extract heros (contributor) from repo
+https://github.com/milvus-io/conanfiles # Conanfiles for managing third-party packages that Milvus depends on
+https://github.com/milvus-io/homebrew-milvus # homebrew for milvus ecosystem
+https://github.com/milvus-io/milvus-deb #
+https://github.com/milvus-io/pymilvus-assets # Large models, etc. for pymilvus
+https://github.com/milvus-io/milvus-rpm # Build rpm package for milvus
+https://github.com/milvus-io/milvus-io.github.io #
+https://github.com/milvus-io/artwork # Milvus related artwork (logos in various colors and formats)
+https://github.com/milvus-io/benchmarks #

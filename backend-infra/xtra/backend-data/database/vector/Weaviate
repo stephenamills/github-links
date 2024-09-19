@@ -1,0 +1,83 @@
+https://github.com/weaviate/weaviate # Weaviate is an open-source vector database that stores both objects and vectors
+
+https://github.com/weaviate/verba # Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+https://github.com/weaviate/recipes # This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!
+https://github.com/weaviate/weaviate-examples # Weaviate vector database – examples
+https://github.com/weaviate/healthsearch-demo # Discover Healthsearch: Unlocking Health with Semantic Search ✨
+https://github.com/weaviate/weaviate-python-client # A python native client for easy interaction with a Weaviate instance.
+https://github.com/weaviate/structured-rag # StructuredRAG Benchmarker
+https://github.com/weaviate/awesome-weaviate # Awesome Weaviate
+https://github.com/weaviate/weaviate-io # Website for the Weaviate vector database
+https://github.com/weaviate/typescript-client # Official Weaviate TypeScript Client
+https://github.com/weaviate/weaviate-podcast-search # Search through the Weaviate Podcast!
+https://github.com/weaviate/bookrecs # A simple semantic search demo to list books based on user query
+https://github.com/weaviate/st-weaviate-connection # A python package that provides a custom streamlit connection to query data from weaviate, the AI native vector database
+https://github.com/weaviate/weaviate-helm # Helm charts to deploy Weaviate to k8s
+https://github.com/weaviate/generator9000 # Web App for generating synthetic data
+https://github.com/weaviate/t2v-transformers-models # This is the repo for the container that holds the models for the text2vec-transformers module
+https://github.com/weaviate/generative-feedback-loops # Resources for exploring Generative Feedback Loops with Weaviate!
+https://github.com/weaviate/spark-connector # Weaviate connector for Apache Spark
+https://github.com/weaviate/biggraph-wikidata-search-with-weaviate # Search through Facebook Research's PyTorch BigGraph Wikidata-dataset with the Weaviate vector search engine
+https://github.com/weaviate/ref2vec-ecommerce-demo # Demo on using Weaviate's ref2vec vectorizer for building Recommendation Systems!
+https://github.com/weaviate/demo-text2vec-openai # This repository contains an example of how to use the Weaviate vector search engine's text2vec-openai module
+https://github.com/weaviate/weaviate-go-client #
+https://github.com/weaviate/weaviate-benchmarking # Tools for various benchmarking scenarios
+https://github.com/weaviate/howto-weaviate-retrieval-plugin #
+https://github.com/weaviate/how-to-ingest-pdfs-with-unstructured #
+https://github.com/weaviate/weaviate-chaos-engineering # Chaos-Engineering-Style CI Pipelines to make sure Weaviate handles whatever the real world throws at it.
+https://github.com/weaviate/java-client # Official Weaviate Java Client
+https://github.com/weaviate/contextionary # Weaviate's own language vectorizer, which allows for semantic context-based searches in Weaviate
+https://github.com/weaviate/weaviate-gorilla # Fine-tuned LLMs to use the Weaviate APIs!
+https://github.com/weaviate/weaviate-rust-client # Rust client library to interact with Weaviate
+https://github.com/weaviate/weaviate-javascript-client # No longer maintained, please see the TypeScript client
+https://github.com/weaviate/weaviate-infra #
+https://github.com/weaviate/arxiv-demo-dataset # This repository will contain a demo using Weaviate with data and metadata from the arXiv dataset.
+https://github.com/weaviate/weaviate-cli # CLI tool for Weaviate
+https://github.com/weaviate/typescript-embedded # An embedded Weaviate database with TypeScript client interface
+https://github.com/weaviate/multi2vec-bind-inference #
+https://github.com/weaviate/quote-finder #
+https://github.com/weaviate/partner-integration-examples #
+https://github.com/weaviate/weaviate-diagnostics # Weaviate Diagnostics 🩺
+https://github.com/weaviate/ner-transformers-models # The inference container for the Weaviate NER transformers module
+https://github.com/weaviate/reranker-transformers #
+https://github.com/weaviate/multi2vec-clip-inference # Weaviate module inference code for the multi2vec-clip module
+https://github.com/weaviate/demo-datasets # Weaviate Demo Docker Compose files
+https://github.com/weaviate/getting-started-with-weaviate-python-client #
+https://github.com/weaviate/weaviate-local-k8s # Github action to deploy a local kubernetes cluster with Weaviate installed on it
+https://github.com/weaviate/recipes-ts #
+https://github.com/weaviate/verba-weaviate-data #
+https://github.com/weaviate/demo-fixie-weaviate # How to build an agent that integrates with weaviate
+https://github.com/weaviate/qna-transformers-models # The inference container for the qna module
+https://github.com/weaviate/late-chunking-experiments #
+https://github.com/weaviate/demo-gamewalkthroughs # Weaviate demo dataset with game walkthroughs
+https://github.com/weaviate/t2v-transformers-models-rs # This is the repo for the container that holds the pure Rust implementation for the `text2vec-transformers` module
+https://github.com/weaviate/cord-19-weaviate #
+https://github.com/weaviate/demo-newspublications # Weaviate demo with news publications
+https://github.com/weaviate/demo-simplewiki # Wikipedia simple english for Weaviate
+https://github.com/weaviate/multi-tenancy-load-test #
+https://github.com/weaviate/weaviate-beir-benchmarks # Collection of the BEIR benchmarks uploaded and backed up in Weaviate!
+https://github.com/weaviate/weaviate-recommend-python-client # Python client for interacting with the Weaviate recommend service.
+https://github.com/weaviate/sum-transformers-models # Transformers-based Summarization inference models based on transformers architecture
+https://github.com/weaviate/t2v-gpt4all-models # This is the repo for the container that holds the models for the text2vec-gpt4all module
+https://github.com/weaviate/weaviate-io-site-search #
+https://github.com/weaviate/confluent-connector #
+https://github.com/weaviate/demo-chirpchase-weaviate #
+https://github.com/weaviate/weaviatest # CLI tool to perform different weaviate operations seamlessly. It's main use is for testing the Weaviate application or reproduce specific scenarios.
+https://github.com/weaviate/i2v-pytorch-models # Inference containers for the Weaviate `img2vec-pytorch` module
+https://github.com/weaviate/weaviate-on-gcp-marketplace # Required Images and Build Scripts to publish Weaviate on GCP Marketplace
+https://github.com/weaviate/aws-marketplace-checkmy-iam #
+https://github.com/weaviate/weaviate-breadboard-kit # A breadboard kit for weaviate
+https://github.com/weaviate/demo-productcatalog # Product catalog for Weaviate
+https://github.com/weaviate/podcast-flow # Generate new content ideas from your existing content
+https://github.com/weaviate/i2v-keras-models #
+https://github.com/weaviate/weaviate-operator # A Kubernetes Operator to automate the management of Weaviate Database Clusters
+https://github.com/weaviate/weaviate-connectors # Connector Library to ingest data into Weaviate
+https://github.com/weaviate/semi.email # Website semi.email
+https://github.com/weaviate/demo-verba-unstructured # Example workflow of ingesting pdfs into Verba using Unstructured
+https://github.com/weaviate/weaviate.com # Weaviate.com placeholder website
+https://github.com/weaviate/weaviate-haystack # Use weaviate with haystack 2.0
+https://github.com/weaviate/grafana-dashboard-weaviate # For additional mertrics
+https://github.com/weaviate/weaviate-helm-gcp-marketplace # GCP-Marketplace specific Weaviate helm chart, with the official helm chart as an upstream
+https://github.com/weaviate/vectorscape # App for visualizing the internal architecture of Weaviate
+https://github.com/weaviate/weaviate-octoai-image-gen #
+

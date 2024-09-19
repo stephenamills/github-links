@@ -1,0 +1,9 @@
+https://github.com/chroma-core/chroma # the AI-native open-source embedding database
+https://github.com/chroma-core/gpt4-pdf-chatbot-langchain-chroma # javascript implementation of a PDF chatbot
+https://github.com/chroma-core/onnx-embedding # A repository for creating, and sample code for consuming an ONNX embedding model
+https://github.com/chroma-core/chroma-cumber # the official chroma pickle wrapper
+https://github.com/chroma-core/chroma_datasets #
+https://github.com/chroma-core/chromadb-default-embed # chroma's fork of @xenova/transformers
+https://github.com/chroma-core/chroma-yolov5 #
+https://github.com/chroma-core/chroma-migrate # A tool for migrating to chroma versions >= 0.4.0
+https://github.com/chroma-core/ai_explainer #

@@ -1,0 +1,67 @@
+https://github.com/pinecone-io/examples # Jupyter Notebooks to help you get hands-on with Pinecone vector databases
+https://github.com/pinecone-io/canopy # Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+https://github.com/pinecone-io/pinecone-vercel-starter # Pinecone + Vercel AI SDK Starter
+https://github.com/pinecone-io/pinecone-python-client # The Pinecone Python client
+https://github.com/pinecone-io/chatbot-demo #
+https://github.com/pinecone-io/pinecone-ts-client # The official TypeScript/Node client for the Pinecone vector database
+https://github.com/pinecone-io/aws-reference-architecture-pulumi # Pinecone AWS Reference Architecture
+https://github.com/pinecone-io/semantic-search-example # A TypeScript demo app using the Pinecone vector database
+https://github.com/pinecone-io/pinecone-rag-demo # Pinecone + Vercel RAG application, showcasing a comparison between chat with no context and using a Pinecone index for context
+https://github.com/pinecone-io/langchain-retrieval-agent-example #
+https://github.com/pinecone-io/pinecone-text # Pinecone text client library
+https://github.com/pinecone-io/image-search-example #
+https://github.com/pinecone-io/go-pinecone # Pinecone.io Golang Client
+https://github.com/pinecone-io/recommender-example-typescript #
+https://github.com/pinecone-io/pinecone-java-client # The official Java client for the Pinecone vector database
+https://github.com/pinecone-io/pinecone-datasets # An open-source dataset library for pre-embedded dataset: create your own data catalog, or use Pinecone's public datasets.
+https://github.com/pinecone-io/terraform-provider-pinecone # Official Terraform provider for Pinecone
+https://github.com/pinecone-io/spark-pinecone # An Apache Spark connector for Pinecone
+https://github.com/pinecone-io/sample-apps #
+https://github.com/pinecone-io/genqa-rag-demo # Using Pinecone, LangChain + OpenAI for Generative Q&A with Retrieval Augmented Generation (RAG).
+https://github.com/pinecone-io/vercel-chatbot-template #
+https://github.com/pinecone-io/pinecone-vision-app #
+https://github.com/pinecone-io/pinecone-dotnet-client # The official C# SDK for accessing the Pinecone control plane and data plane.
+https://github.com/pinecone-io/locust-pinecone # Run load tests against your Pinecone index
+https://github.com/pinecone-io/lotr-demo # Lord of the Rings - Fellowship of the Ring Demo
+https://github.com/pinecone-io/babyagi-langchain-ts # A Typescript implementation of BabyAGI with LangChain
+https://github.com/pinecone-io/pulumi-pinecone # Pinecone Pulumi Provider
+https://github.com/pinecone-io/pinecone-rust-client # The official Rust client for the Pinecone vector database
+https://github.com/pinecone-io/research-bigann-linscan #
+https://github.com/pinecone-io/cli # Work seamlessly with Pinecone from the command line
+https://github.com/pinecone-io/pinecone-assistant-azd # An Azure Developer template to launch a new Pinecone Assistant using Azure blob storage as the source.
+https://github.com/pinecone-io/pinecone-vision-server #
+https://github.com/pinecone-io/pinecone-playground #
+https://github.com/pinecone-io/pinecone-traceloop #
+https://github.com/pinecone-io/databricks-streaming-demo #
+https://github.com/pinecone-io/semantic-search-postgres #
+https://github.com/pinecone-io/hybrid-search-demo # Demo with Python Flask UI based on a web-crawl of Pinecone.io as source data
+https://github.com/pinecone-io/doc-splitter #
+https://github.com/pinecone-io/basic-operations-workshop #
+https://github.com/pinecone-io/cohere-wikipedia-dataset-ingest #
+https://github.com/pinecone-io/pinecone-webinars #
+https://github.com/pinecone-io/tokenization-demo #
+https://github.com/pinecone-io/pinecone-rag-demo-azd #
+https://github.com/pinecone-io/scale-qa-demo #
+https://github.com/pinecone-io/pinecone-neo4j-explorer #
+https://github.com/pinecone-io/negative-vectors #
+https://github.com/pinecone-io/java-examples #
+https://github.com/pinecone-io/bigann # public location for storing artifacts for the BigANN challenge
+https://github.com/pinecone-io/embeddings-demo #
+https://github.com/pinecone-io/video-ir-services #
+https://github.com/pinecone-io/js-examples #
+https://github.com/pinecone-io/sqlx-fork #
+https://github.com/pinecone-io/homebrew-tap # Homebrew tap for Pinecone
+https://github.com/pinecone-io/testtest #
+https://github.com/pinecone-io/pinecone-ts-client-sample #
+https://github.com/pinecone-io/img # Images for Pinecone docs.
+https://github.com/pinecone-io/.github # Default community health files for the Pinecone organization
+
+https://github.com/pinecone-field/ecommerce-product-search #
+https://github.com/pinecone-field/cicd-demo # This demo attempts to replicate a "mono" repo approach to ci/cd for applications that leverage pinecone.
+https://github.com/pinecone-field/notebook-sandbox #
+https://github.com/pinecone-field/llamaindex-streamlit-starter # Template repo to create a Streamlit app to interact with PDF files
+https://github.com/pinecone-field/live-workshop-notebooks #
+https://github.com/pinecone-field/assistant-streamlit-starter #
+https://github.com/pinecone-field/pinecone-workshop # This repo contains reusable modules to create use case driven hands-on workshop for customers
+https://github.com/pinecone-field/cheers # This is a series of python scripts to load a semantic search index and an image search index of an included dataset
+https://github.com/pinecone-field/.github #

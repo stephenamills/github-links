@@ -34,6 +34,8 @@ https://github.com/newren/git-filter-repo # Quickly rewrite git repository histo
 https://github.com/stackexchange/blackbox # Safely store secrets in Git/Mercurial/Subversion
 https://github.com/orhun/git-cliff # A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 
+https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance # Uses a separate branch for each step of a performance benchmarking tutorial
+
 https://github.com/github/gitignore # A collection of useful .gitignore templates
 https://github.com/microsoft/vfsforgit # Virtual File System for Git: Enable Git at Enterprise Scale
 https://github.com/github/platform-samples

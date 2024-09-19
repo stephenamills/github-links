@@ -46,3 +46,8 @@ https://github.com/nvidia/cuda-cpp-grammar # Grammar files for CUDA C++
 https://github.com/nvidia/nvaitc-toolkit # Open source code base to showcase interoperability of CUDA-X AI software stack in multi-GPU environments and thus provide researchers a reference framework to build new projects on.
 https://github.com/nvidia/otk-shader-util # Vector math and other CUDA helper functions for OptiX kernels
 https://github.com/nvidia/nvimagecodec # A nvImageCodec library of GPU- and CPU- accelerated codecs featuring a unified interface
+
+https://en.wikipedia.org/wiki/Template:Nvidia
+https://en.wikipedia.org/wiki/Template:Nvidia_Tesla
+https://en.wikipedia.org/wiki/Template:NvidiaDgxAccelerators
+https://en.wikipedia.org/wiki/Template:Graphics_Processing_Unit

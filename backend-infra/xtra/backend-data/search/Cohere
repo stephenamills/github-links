@@ -61,8 +61,9 @@ https://github.com/cohere-ai/sandbox-conversant-lib
 https://github.com/cohere-ai/binaryvectordb
 https://github.com/cohere-ai/cohere-terrarium # unsure why this exists
 
-https://github.com/berriai/litellm
 https://github.com/menloparklab/cohere-weaviate-wikipedia-retrieval # Wikipedia (LangChain, Weaviate)
-https://github.com/sangwan70/cohere-chatbot-pdf-langchain # PDF documents (Pinecone)
 https://github.com/menloparklab/langchain-cohere-qdrant-retrieval
 https://github.com/menloparklab/langchain-cohere-qdrant-doc-retrieval
+
+https://github.com/berriai/litellm
+https://github.com/sangwan70/cohere-chatbot-pdf-langchain # PDF documents (Pinecone)

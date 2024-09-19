@@ -1,0 +1,17 @@
+https://github.com/lightning-ai/pytorch-lightning # Pretrain, finetune and deploy AI
+models on multiple GPUs, TPUs with zero code changes. https://github.com/lightning-ai/litgpt # 20+ high-performance LLMs with recipes to pr
+etrain, finetune and deploy at scale. https://github.com/lightning-ai/lit-llama # Implementation of the LLaMA language mode
+l based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. https://github.com/lightning-ai/litserve # Lightning-fast serving engine for AI model
+s. Flexible. Easy. Enterprise-scale. https://github.com/lightning-ai/torchmetrics # Torchmetrics - Machine learning metric
+s for distributed, scalable PyTorch applications. https://github.com/lightning-ai/deep-learning-project-template # Pytorch Lightning co
+de guideline for conferences https://github.com/lightning-ai/lightning-thunder # Make PyTorch models up to 40% fas
+ter! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once; across one or thousands of GPUs. https://github.com/lightning-ai/dl-fundamentals # Deep Learning Fundamentals -- Code
+material and exercises https://github.com/lightning-ai/litdata # Transform datasets at scale. Optimize datas
+ets for fast AI model training. https://github.com/lightning-ai/tutorials # Collection of Pytorch lightning tutorial
+form as rich scripts automatically transformed to ipython notebooks. https://github.com/lightning-ai/engineering-class # Lightning Bits: Engineering for R
+esearchers repo https://github.com/lightning-ai/utilities # Common Python utilities and GitHub Action
+s in Lightning Ecosystem https://github.com/lightning-ai/ecosystem-ci # Automate issue discovery for your proj
+ects against Lightning nightly and releases. https://github.com/lightning-ai/lightning-habana # Lightning support for Intel Habana
+accelerators. https://github.com/lightning-ai/lightning-multinode-templates # Multinode templates f
+or Pytorch Lightning https://github.com/lightning-ai/cloud-training-workshop #
+https://github.com/lightning-ai/.github #

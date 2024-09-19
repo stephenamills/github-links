@@ -1,0 +1,43 @@
+https://github.com/dapr/dapr # Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+
+https://github.com/dapr/cli # Command-line tools for Dapr.
+
+https://github.com/dapr/quickstarts # Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
+https://github.com/dapr/samples # Community driven repository for Dapr samples
+
+https://github.com/dapr/go-sdk # Dapr SDK for go
+https://github.com/dapr/dotnet-sdk # Dapr SDK for .NET
+https://github.com/dapr/java-sdk # Dapr SDK for Java
+https://github.com/dapr/python-sdk # Dapr SDK for Python
+https://github.com/dapr/rust-sdk # Dapr SDK for Rust - Alpha
+https://github.com/dapr/js-sdk # Dapr SDK for Javascript
+https://github.com/dapr/php-sdk # Dapr SDK for PHP
+https://github.com/dapr/cpp-sdk # C++ SDK for Dapr
+
+https://github.com/dapr/docs # Dapr user documentation, used to build docs.dapr.io
+https://github.com/dapr/components-contrib # Community driven, reusable components for distributed apps
+https://github.com/dapr/dashboard # General purpose dashboard for Dapr
+https://github.com/dapr/community # Governance and community material for Dapr and its open source sub-projects
+https://github.com/dapr/dapr-shared # Dapr Shared enables users to deploy Dapr as a DaemonSet or a Deployment instead of a sidecar
+https://github.com/dapr/installer-bundle # Dapr bundled installer containing CLI and runtime packaged together. This eliminated the need to download Docker images when initializing Dapr locally.
+https://github.com/dapr/helm-charts # Helm Charts for Dapr
+https://github.com/dapr/mechanical-markdown #
+https://github.com/dapr/kit # Shared utility code for Dapr runtime
+https://github.com/dapr/sig-api # Repository for Dapr API Special Interest Group
+https://github.com/dapr/proposals # Proposals for new features in Dapr
+https://github.com/dapr/test-infra # Test apps and tools for Dapr
+https://github.com/dapr/setup-dapr # GitHub Action for installing the Dapr CLI
+https://github.com/dapr/kubernetes-operator #
+https://github.com/dapr/blog #
+https://github.com/dapr/website # Website for the Dapr project
+https://github.com/dapr/sig-sdk-spec # Repository for Dapr SDk Spec Special Interest Group
+https://github.com/dapr/.github #
+
+https://github.com/dapr-sandbox/generator-dapr # A Yeoman generator for scaffolding dapr projects
+https://github.com/dapr-sandbox/dart-sdk # Dapr SDK for Dart
+https://github.com/dapr-sandbox/components-go-sdk # Dapr SDK to compose pluggable components in Go.
+https://github.com/dapr-sandbox/components-dotnet-sdk # Dapr SDK to compose pluggable components in .Net.
+https://github.com/dapr-sandbox/spring-cloud-dapr # Dapr in Spring Cloud
+https://github.com/dapr-sandbox/components-java-sdk # Dapr SDK to compose pluggable components in Java.
+https://github.com/dapr-sandbox/action-components-conformance-test # GitHub actions to run conformance tests for Dapr components
+https://github.com/dapr-sandbox/.github # The Dapr-Sandbox org is for experimental projects.

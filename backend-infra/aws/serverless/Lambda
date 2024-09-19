@@ -455,6 +455,8 @@ ch periodically. A cloudFormation template - Since DynamoDb do not have any stor
 https://github.com/awslabs/simpleiot # Installer source for SimpleIOT back-end.
 https://github.com/awslabs/workflow-data-structure-utilities # Utilities which assist in manipulating data structures in workflow systems
 
+https://github.com/awsdocs/aws-lambda-developer-guide # Supplementary resources for the AWS Lambda Developer Guide
+
 https://github.com/aws/aws-lambda-go # Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 https://github.com/aws/aws-lambda-dotnet # Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
 https://github.com/aws/aws-lambda-java-libs # Official mirror for interface definitions and helper classes for Java code running on the AWS Lambda platform.
