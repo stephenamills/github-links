@@ -1,5 +1,6 @@
-https://github.com/wandb/openui # OpenUI let's you describe UI using your imagination, then see it rendered live.
 https://github.com/wandb/wandb # The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
+
+https://github.com/wandb/openui # OpenUI let's you describe UI using your imagination, then see it rendered live.
 https://github.com/wandb/examples # Example deep learning projects that use wandb's features.
 https://github.com/wandb/weave # Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.
 https://github.com/wandb/edu # Educational materials on deep learning by Weights & Biases
@@ -10,7 +11,7 @@ https://github.com/wandb/groundbreaking-papers # ML Research paper summaries, an
 https://github.com/wandb/llm-leaderboard # Project of llm evaluation to Japanese tasks
 https://github.com/wandb/droughtwatch # Weights & Biases benchmark for drought prediction
 https://github.com/wandb/programmer #
-https://github.com/wandb/sweeps # W&B Hyperparameter Sweep Engine. 
+https://github.com/wandb/sweeps # W&B Hyperparameter Sweep Engine.
 https://github.com/wandb/witness # Deep learning model for recognizing puzzle patterns in The Witness.
 https://github.com/wandb/aihackercup # A competition to get you started on the NeurIPS AI Hackercup
 https://github.com/wandb/hemm # A holistic evaluation library for multi-modal generative models using Weave
@@ -80,4 +81,3 @@ https://github.com/wandb/go-circle-repro #
 https://github.com/wandb/garfield # Test repo for playing with LLM's
 https://github.com/wandb/estuary # Distributed training instrumented with Weights & Biases
 https://github.com/wandb/terraform-provider-wandb #
-

@@ -1,0 +1,300 @@
+https://github.com/algolia/autocomplete # 🔮 Fast and full-featured autocomplete library
+https://github.com/algolia/docsearch # :blue_book: The easiest way to add search to your documentation.
+https://github.com/algolia/instantsearch # ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+https://github.com/algolia/algoliasearch-client-javascript # ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
+https://github.com/algolia/shipjs # Take control of what is going to be your next release.
+https://github.com/algolia/awesome-algolia # 🔍👋 START HERE! A curated list of Algolia libraries, resources and projects.
+https://github.com/algolia/algoliasearch-client-php # ⚡️ A fully-featured and blazing-fast PHP API client to interact with Algolia.
+https://github.com/algolia/instantsearch-ios # ⚡️ A library of widgets and helpers to build instant-search applications on iOS.
+https://github.com/algolia/voice-overlay-ios # 🗣 An overlay that gets your user’s voice permission and input as text in a customizable UI
+https://github.com/algolia/hn-search # Hacker News Search
+https://github.com/algolia/sup3rs3cretmes5age # Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
+https://github.com/algolia/react-element-to-jsx-string # Turn a ReactElement into the corresponding JSX string
+https://github.com/algolia/expect-jsx # ✅ toEqualJSX for expect assertion library
+https://github.com/algolia/algoliasearch-rails # AlgoliaSearch integration to your favorite ORM
+https://github.com/algolia/scout-extended # Scout Extended: The Full Power of Algolia in Laravel
+https://github.com/algolia/docsearch-scraper # DocSearch - Scraper
+https://github.com/algolia/color-extractor # Extract the dominant color(s) of your fashion articles!
+https://github.com/algolia/algoliasearch-netlify # Official Algolia Plugin for Netlify. Index your website to Algolia when deploying your project to Netlify with the Algolia Crawler
+https://github.com/algolia/voice-overlay-android # 🗣 An overlay that gets your user’s voice permission and input as text in a customizable UI
+https://github.com/algolia/youtube-captions-scraper # Fetch youtube user submitted or fallback to auto-generated captions
+https://github.com/algolia/datasets # Interesting datasets you could use with Algolia
+https://github.com/algolia/jekyll-algolia # Add fast and relevant search to your Jekyll site
+https://github.com/algolia/algoliasearch-client-swift # ⚡️ A fully-featured and blazing-fast Swift API client to interact with Algolia.
+https://github.com/algolia/algoliasearch-client-go # ⚡️ A fully-featured and blazing-fast Go API client to interact with Algolia.
+https://github.com/algolia/algoliasearch-client-python # ⚡️ A fully-featured and blazing-fast Python API client to interact with Algolia.
+https://github.com/algolia/search-bundle # Seamless integration of Algolia Search into your Symfony project.
+https://github.com/algolia/gatsby-plugin-algolia # A plugin to push to Algolia based on graphQl queries
+https://github.com/algolia/pwa-ecom-ui-template # React/Next.js based starter kit, focused on delivering a rich Search & Discovery e-commerce experience.
+https://github.com/algolia/algoliasearch-django # Seamless integration of Algolia into your Django project.
+https://github.com/algolia/algoliasearch-magento-2 # Algolia Search integration for Magento 2 - compatible with versions from 2.3.x to 2.4.x
+https://github.com/algolia/algoliasearch-client-ruby # ⚡️ A fully-featured and blazing-fast Ruby API client to interact with Algolia.
+https://github.com/algolia/algoliasearch-magento # Algolia Search integration for Magento 1 - compatible with versions from 1.6.x to 1.9.x
+https://github.com/algolia/instantsearch-android # A library of widgets and helpers to build instant-search applications on Android.
+https://github.com/algolia/instant-search-demo # Instant-search demo (facets, sliders, paginations & more)
+https://github.com/algolia/npm-search # 🗿 npm ↔️ Algolia replication tool :skier: :snail: :artificial_satellite:
+https://github.com/algolia/algoliasearch-client-csharp # ⚡️ A fully-featured and blazing-fast C# API client to interact with Algolia.
+https://github.com/algolia/kubernetes-hands-on # Kubernetes Hands-on by Algolia
+https://github.com/algolia/firestore-algolia-search #
+https://github.com/algolia/frontman # 💎 A Ruby-based static website generator
+https://github.com/algolia/cli # 🔍 Algolia’s official CLI devtool
+https://github.com/algolia/doc-code-samples # This repository holds the Algolia documentation big code samples like GeoSearch, Calendar...
+https://github.com/algolia/marvel-search # Searchable list of all Marvel superheroes and supervillains
+https://github.com/algolia/examples # Set of code samples highlighting the different ways to use the Algolia API
+https://github.com/algolia/algoliasearch-client-css # Algolia Search API Client for CSS
+https://github.com/algolia/mongoolia # Keep your mongoose schemas synced with Algolia
+https://github.com/algolia/algoliasearch-client-kotlin # ⚡️ A fully-featured and blazing-fast Kotlin/Android API client to interact with Algolia.
+https://github.com/algolia/search-insights.js # Library for reporting click, conversion and view metrics using the Algolia Insights API
+https://github.com/algolia/hn-reactnative-sample # Sample Hacker News Search app by Algolia based on React Native.
+https://github.com/algolia/jest-serializer-html # Jest snapshot serializer that beautifies HTML.
+https://github.com/algolia/redux-updeep # small reducer generator that uses updeep to immutably deep merge partial updates into the reducer's state
+https://github.com/algolia/algoliasearch-client-java # ⚡️ A fully-featured and blazing-fast Java API client to interact with Algolia.
+https://github.com/algolia/chunk-text # 🔪 chunk/split a string by length without cutting/truncating words.
+https://github.com/algolia/algoliasearch-alexa # 🔊 Search by voice in Alexa, powered by Algolia
+https://github.com/algolia/react-test-boilerplate # Companion project for Algolia's React unit testing blog post
+https://github.com/algolia/demo-geo-search # Demo code illustrating the geo search features of Algolia
+https://github.com/algolia/algoliasearch-crawler-github-actions # Algolia Crawler Github action
+https://github.com/algolia/algoliasearch-client-objc # Algolia Search API Client for iOS & OS X
+https://github.com/algolia/laravel-scout-algolia-macros # DEPRECATED: Use of this repository is deprecated. Please use Scout Extended - https://github.com/algolia/scout-extended instead.
+https://github.com/algolia/algolia-sitemap # a node library allowing you to generate sitemaps from an Algolia index.
+https://github.com/algolia/elasticsearch-topk-plugin # Elasticsearch Top-K Aggregation Plugin
+https://github.com/algolia/wordpress-docker # Simple docker based environment for WordPress plugins and themes development.
+https://github.com/algolia/algoliasearch-rails-example # AlgoliaSearch+Ruby on Rails examples
+https://github.com/algolia/api-clients-automation # 🤖 Monorepo of the Algolia API specs and their auto-generated clients and documentation
+https://github.com/algolia/diffable-html # Opinionated HTML formatter focused towards making HTML diffs readable.
+https://github.com/algolia/jekyll-algolia-example # Front-end example of the jekyll-algolia plugin
+https://github.com/algolia/unified-instantsearch-ecommerce # The fastest way to implement Algolia, for e-commerce customers.
+https://github.com/algolia/talksearch-scraper # Extract captions and metadata from YouTube playlists and push them to Algolia
+https://github.com/algolia/recommend # A UI library for Algolia Recommend, available for Vanilla JavaScript and React.
+https://github.com/algolia/eslint-config-algolia # Algolia's ESLint config and prettier instructions for JavaScript projects
+https://github.com/algolia/algoliasearch-client-scala # ⚡️ A fully-featured and blazing-fast Scala API client to interact with Algolia.
+https://github.com/algolia/talksearch # 🎤 An interactive search experience for video titles and transcripts
+https://github.com/algolia/shopify-hydrogen-algolia # Shopify hydrogen demo store using Algolia search & browse
+https://github.com/algolia/algoliasearch-django-example #
+https://github.com/algolia/algolia-swift-demo # iOS instant search tutorial
+https://github.com/algolia/algolia-react-boilerplate # 🔥 A highly scalable, and customizable boilerplate, made with ReactInstantSearchHooks and with many Algolia's features. Ready to configure and deploy. You have just to follow steps in readme file. 💥
+https://github.com/algolia/redux-magic-async-middleware # redux-magic-async-middleware is a middleware which makes it easy to handle asynchronous data with redux
+https://github.com/algolia/laravel-scout-settings # DEPRECATED: Use of this repository is deprecated. Please use Scout Extended - https://github.com/algolia/scout-extended instead.
+https://github.com/algolia/pdrone # Control Parrot drones with JavaScript
+https://github.com/algolia/algolia-coding-contest # Welcome to the first Algolia Coding Contest, until May 5th.
+https://github.com/algolia/discourse-webhook-collector # Listen to Discourse events and send to other APIs using webtask.io
+https://github.com/algolia/query-suggestions # A connector to create a query suggestions index
+https://github.com/algolia/algoliasearch-zendesk # Integrate Algolia within your Zendesk Help Center in minutes.
+https://github.com/algolia/algoliasearch-helper-flutter # ⚡️ Building block to create instant-search applications with Flutter
+https://github.com/algolia/algoliasearch-client-cmd # Algolia Search Command Line API Client
+https://github.com/algolia/renderscript # A custom JavaScript rendering engine based on Playwright
+https://github.com/algolia/demo-textarea-autocomplete # Demo code illustrating how to do an autocomplete dropdown inside a textarea with Algolia
+https://github.com/algolia/uilabel # iOS extension of UILabel class that interprets emphasis HTML tags
+https://github.com/algolia/trimtester # Testing script to verify correct trim functionality
+https://github.com/algolia/php-dom-parser # A simple tool to turn DOM into Algolia friendly records.
+https://github.com/algolia/dynamic-faceting-instant-search-guide #
+https://github.com/algolia/instantsearch-labs # 🔬Experimentations for InstantSearch projects
+https://github.com/algolia/api-clients-playground # Algolia's API Clients Playground
+https://github.com/algolia/diag # Diagnose network issues while connecting to Algolia
+https://github.com/algolia/instantsearch-electron # A boilerplate for building desktop React InstantSearch apps with Electron
+https://github.com/algolia/algoliasearch-laravel-example # DEPRECATED: Use of this repository is deprecated. Please use the official playground repository instead - https://github.com/algolia/api-clients-playground/tree/master/laravel-scout-extended
+https://github.com/algolia/jdbc-java-connector # JDBC Java Connector
+https://github.com/algolia/ui-components # Algolia UI components, available for vanilla JavaScript, React, and Preact.
+https://github.com/algolia/algolia-index-transform # Transform an index using map, reduce or filter and push to a brand new index.
+https://github.com/algolia/algoliasearch-client-dart # ⚡️ A fully-featured and blazing-fast Dart/Flutter API client to interact with Algolia
+https://github.com/algolia/algolia.github.io # Algolia's community projects
+https://github.com/algolia/elasticsearch-cardinality-plugin # This plugin extends Elasticsearch providing a new type of aggregation and a REST action to estimate the cardinality (number of uniq terms) of a field.
+https://github.com/algolia/sphinx-docsearch # Add Algolia DocSearch to your Sphinx documentation project
+https://github.com/algolia/algoliasearch-custom-algolia-magento-2 # Custom boilerplate module to extend Algolia Magento 2 extension
+https://github.com/algolia/supersearch #
+https://github.com/algolia/docker-compose-wordpress # 📰 Ready-to-use Docker + WordPress 5 repository
+https://github.com/algolia/html-extractor # Convert HTML content into Algolia records
+https://github.com/algolia/algolia-csv-js # CSV toolbox CLI written in javascript
+https://github.com/algolia/algolia-android-demo # Android instant search demo with Algolia
+https://github.com/algolia/algoliasearch-client-python-async # DEPRECATED: Use of this repository is deprecated. Please use Algolia Python Client - https://github.com/algolia/algoliasearch-client-python
+https://github.com/algolia/tutorials #
+https://github.com/algolia/owl # 🦉 Owl is a lightweight Go package to log messages and metrics of all Go projects at Algolia
+https://github.com/algolia/hack-bdx # The live coding repository for Hack Bordeaux 2017
+https://github.com/algolia/404-crawler # A command line interface to crawl pages from sitemap urls and detect 404/not found pages
+https://github.com/algolia/algoliasearch-sfcc-b2c # Algolia for SFCC B2C cartridge
+https://github.com/algolia/wordpress-search # Wordpress plugins search website
+https://github.com/algolia/instantsearch-workshop # A 10-minute, step-by-step guide to creating your first instantsearch experience.
+https://github.com/algolia/demo-infinite-scroll # Demo code illustrating how to do an infinite scroll search results with Algolia
+https://github.com/algolia/api-key-dealer #
+https://github.com/algolia/backend-technical-assignment #
+https://github.com/algolia/jquery-block_ellipsis # A jQuery plugin to truncate a list of inline blocks
+https://github.com/algolia/pdf-to-algolia-playground # Transform PDFs and other documents into Algolia records
+https://github.com/algolia/algoliasearch-woocommerce-custom # Boilerplate to help you in customizing the way Algolia plugin for WooCommerce behaves.
+https://github.com/algolia/doc-onboarding # Algolia's interactive onboarding frontend demos
+https://github.com/algolia/json-stream-analyzer # A library to analyze JSON streams and find structural issues in the stream's schema
+https://github.com/algolia/chronos-api # Easy to use Chronos API written in ruby
+https://github.com/algolia/shopify-seo # Script to sync records positions in collections between Shopify and Algolia
+https://github.com/algolia/nstextfieldcell # Mac OS X replacement of NSTextFieldCell class that interprets Bold HTML tags
+https://github.com/algolia/magento2-tools # Tools for magento 2 developers
+https://github.com/algolia/search-insights-gtm # Google Tag Manager template for detecting front-end Algolia search metrics
+https://github.com/algolia/wordpress-algolia-sync # A WordPress plugin boilerplate for indexing content into Algolia
+https://github.com/algolia/algoliasearch-extensions-bundle # Bundle jQuery, autocomplete.js & instantsearch.js for use in algoliasearch extensions integrations
+https://github.com/algolia/react-webpack-sass-gulp-template # Simple template for building React applications & components (react, webpack, babel, sass, gulp, eslint, hot reload)
+https://github.com/algolia/voice-search-widget # Voice Search Instant Search Widget
+https://github.com/algolia/coquille # A React component that renders a terminal on the browser
+https://github.com/algolia/elasticsearch-solr-connector # Dump the content of an ES or SOLR index to algolia
+https://github.com/algolia/magento # https://community.algolia.com/magento/
+https://github.com/algolia/crawler-configurations-examples # Sample configuration files for Algolia Crawler
+https://github.com/algolia/fargs # Simple options manager for JavaScript libraries. Handles type checking, default values assignation and throws generated usage on errors.
+https://github.com/algolia/react-instantsearch-widget-date-range-picker #
+https://github.com/algolia/blog-wp-theme # Algolia's Blog WP theme
+https://github.com/algolia/htmlbinding # Windows 8 and Windows Phone 8 class to bind string with HTML bold tags in XAML application.
+https://github.com/algolia/babel-plugin-transform-inline-localize-css-import # Inline and localize `import theme from './Component.css'` to `{classNames, code}`
+https://github.com/algolia/algolia-analyzer # a browser extension to add a dedicated devtool to analyse requests to algolia servers
+https://github.com/algolia/demo-query-rules # Demo for the Query Rules
+https://github.com/algolia/github-repositories-archiver # CLI that helps you archive GitHub repositories into a single repository's subdirs
+https://github.com/algolia/tools #
+https://github.com/algolia/flutter-ecom-ui-template #
+https://github.com/algolia/openvpn-auth-okta # Plugin for OpenVPN (CE) that authenticates users directly against Okta, with support for MFA (TOTP or PUSH only).
+https://github.com/algolia/we-rate-tweets # A colorful timeline search that puts your top tweets first
+https://github.com/algolia/firebase-connector #
+https://github.com/algolia/hackcopter # 🚁
+https://github.com/algolia/algoliasearch-console-dotnet # DEPRECATED: Use of this repository is deprecated. Please use the official playground repository instead - https://github.com/algolia/api-clients-playground/tree/master/dotnet
+https://github.com/algolia/algolia-filters-js-syntax-validator #
+https://github.com/algolia/solutions #
+https://github.com/algolia/unity-example # A simple application using Algolia in Unity
+https://github.com/algolia/instantsearch-pattern-router # A router for instantsearch which allows simple URLs to be written in the path
+https://github.com/algolia/demo-react-instantsearch #
+https://github.com/algolia/flutter-playground # Algolia & Flutter playground
+https://github.com/algolia/aws-docsearch # The open source aws-doc empowered with DocSearch 🔍🚀
+https://github.com/algolia/solutions-hiring-assignment #
+https://github.com/algolia/maintainer-dashboard # PoC of a dashboard to make projects more friendly to contributors and maintainers less burned.
+https://github.com/algolia/algoliasearch-magento-extend-module-skeleton # Template Magento module for easy extension of Algolia's Magento integration
+https://github.com/algolia/algolia-pwa-demo #
+https://github.com/algolia/codingstyle # Coding guidelines for algolia projects
+https://github.com/algolia/analytics-client-node # Analytics API Client for Node.js
+https://github.com/algolia/setup-algolia-cli # An action to install the Algolia CLI on GitHub's hosted runners
+https://github.com/algolia/renovate-config-algolia # Algolia's Renovate shareable configuration
+https://github.com/algolia/go-pingdom #
+https://github.com/algolia/algoliasearch-boilerplate # Boilerplate of an Algolia-based auto-completion menu + instant search results page
+https://github.com/algolia/query-rule-csv-upload # Manage your Algolia query rules with a CSV file
+https://github.com/algolia/terraform-provider-pingdom #
+https://github.com/algolia/wavefront # Cookbook for integration with Wavefront
+https://github.com/algolia/zendesk # See https://github.com/algolia/algoliasearch-zendesk
+https://github.com/algolia/woocommerce #
+https://github.com/algolia/meta-search #
+https://github.com/algolia/devcon_workshop_flutter #
+https://github.com/algolia/polyconf16 #
+https://github.com/algolia/algoliasearch-inventory-magento-2 # Algolia Search Inventory module for Magento 2.3.x and Algolia Search extension 1.12+
+https://github.com/algolia/es6-module # Example ES6 module for "Authoring and publishing ES6 modules today" lighting talk at dotjs 2015.
+https://github.com/algolia/react-unit-test-talk # Companion project for the React unit test talk
+https://github.com/algolia/instantsearch-android-mvp # A search interface that you can build in record time with InstantSearch Android.
+https://github.com/algolia/pr-squash-merge-description # Automatically fill a "Squash and Merge" PR commit with the PR's description
+https://github.com/algolia/rubygems.org #
+https://github.com/algolia/algoliasearch-client-coldfusion # Algolia Search API Client for ColdFusion (on development)
+https://github.com/algolia/venue-search #
+https://github.com/algolia/algoliasearch-extension-reranking #
+https://github.com/algolia/writable-window-method # Turn any window method to a writable state in IE<=8
+https://github.com/algolia/dev-novel # 📓 Build an interactive JavaScript development page
+https://github.com/algolia/github-helpscout-collector # Push GitHub issues to HelpScout
+https://github.com/algolia/dns-filter # A small utility library to test whether requests try to access predefined IPs
+https://github.com/algolia/demo-smashingmagazine # Demo for smashingmagazine.com
+https://github.com/algolia/react-instantsearch-widget-size-refinement-list # React InstantSearch widget that filters the dataset based on size facet values
+https://github.com/algolia/instantsearch-infinite-hits-persistent-scroll-position # InstantSearch React/TS demo for infinite hits with persistant scroll position.
+https://github.com/algolia/pre-sales-assignment #
+https://github.com/algolia/chatbot-demo-frontend #
+https://github.com/algolia/react-instantsearch-widget-color-refinement-list # React InstantSearch widget that filters the dataset based on color facet values
+https://github.com/algolia/karger-demo #
+https://github.com/algolia/browzers # A reusable list of browsers to test when using defunctzombie/zuul
+https://github.com/algolia/ml-challenge #
+https://github.com/algolia/flagship_fashion_demo #
+https://github.com/algolia/algolia-objc-demo # iOS instant search demo (Objective-C)
+https://github.com/algolia/synonym-dictionaries # Public CSV and JSON files
+https://github.com/algolia/datastudio-connectors #
+https://github.com/algolia/instantsearch-widget-date-range-picker #
+https://github.com/algolia/flutter_showcase #
+https://github.com/algolia/elixir-test # Trying to use the Elixir Algolia package
+https://github.com/algolia/hackathon-2023-fleetwood-macbook # Team Fleetwood MacBook's Hackathon 2023 Demo
+https://github.com/algolia/algolia-launch-extension # The Algolia Launch Extension wraps the Algolia Search Insights to send user interaction events to Algolia to enable AI feature.
+https://github.com/algolia/cli-github-action-example #
+https://github.com/algolia/.github # Shared configuration and files for Algolia
+https://github.com/algolia/talksearch.js # The easiest way to add search to your conference videos.
+https://github.com/algolia/fosdem-search # Created with CodeSandbox
+https://github.com/algolia/eslint-plugin-algolia # ESlint plugin to add custom rules
+https://github.com/algolia/nyc-hack #
+https://github.com/algolia/discourse-theme # Discourse theme for Algolia community forum
+https://github.com/algolia/tools-backend #
+https://github.com/algolia/salesforce-react # An integration with Algolia and Salesforce
+https://github.com/algolia/relevance-scoring-tool-v3 # Test relevance on Algolia results
+https://github.com/algolia/wsj-demo2 #
+https://github.com/algolia/search-bundle-playground #
+https://github.com/algolia/tourism-poc #
+https://github.com/algolia/algolia-sa-assignment #
+https://github.com/algolia/demo-thoughtspot #
+https://github.com/algolia/demo-carousel-perso #
+https://github.com/algolia/instantsearch-telemetry-native # InstantSearch Telemetry utilities for native platforms
+https://github.com/algolia/crunchbase-demo #
+https://github.com/algolia/demo-salesforce #
+https://github.com/algolia/flutter_live_example #
+https://github.com/algolia/demo-skeleton #
+https://github.com/algolia/algoliasearch-client-php-playground #
+https://github.com/algolia/test-circleci #
+https://github.com/algolia/scout-extended-playground #
+https://github.com/algolia/react-instantsearch-widget-sortby-ul #
+https://github.com/algolia/kitchen-sshtgz # Improved file transfers for test-kitchen (especially EC2) using tgz archives and SSH
+https://github.com/algolia/demo-tumblr #
+https://github.com/algolia/instantsearch-mobile-tools #
+https://github.com/algolia/demo-metacritic # A better search for Metacritic
+https://github.com/algolia/instantsearch-widget-sortby-ul # SortBy widget using <ul><li> for InstantSearch.js
+https://github.com/algolia/abc-poc # Australian Broadcasting Company POC
+https://github.com/algolia/clinique-demo #
+https://github.com/algolia/algoliasearch-nette # Integration of Algolia to Nette framework
+https://github.com/algolia/ais-quickstart-glitch # An Algolia tutorial that includes indexing and searching data
+https://github.com/algolia/demo-structured-result # This is a sample project implementing a full page search with structured data results using Algolia.
+https://github.com/algolia/wodpress-custom-integration-starter-kit #
+https://github.com/algolia/instantsearch-ios-config # Config files used for the Algolia iOS SDK
+https://github.com/algolia/algoliasearch-magento-2-es-compatibility # Algolia Search ES Compatibility module for Magento 2 >=2.3.1 || >=2.2.8
+https://github.com/algolia/vue-demo-template # A Vue Template for Demo Engineers
+https://github.com/algolia/demo-multi-index-autocomplete # Simplest demo using Instantsearch.js
+https://github.com/algolia/demo-query-combination # Simple example of query combination (prepend / append)
+https://github.com/algolia/demo-engineers-assignement #
+https://github.com/algolia/algolia-commercetools-connect-example # This is a commercetools connect app that can be used in conjunction with algolia-commercetools-connector repo to extend its functionality
+https://github.com/algolia/demo-indigo #
+https://github.com/algolia/algolia-places-mapkit-js # Places integration with Mapkit JS
+https://github.com/algolia/mdnfederated #
+https://github.com/algolia/wordpress-sample-plugin #
+https://github.com/algolia/qcat-facet-value-reordering #
+https://github.com/algolia/value-engineering-interview-question #
+https://github.com/algolia/mintlify-trial # Trial docs for Mintlify user testing
+https://github.com/algolia/404-proxy #
+https://github.com/algolia/ava-demo #
+https://github.com/algolia/textlint-algolia-terms # List of terms to be used with textlint-terminology-terms
+https://github.com/algolia/rules-time # Algolia tool to change the time a rule is active. The tool has the ability to set times by the hour or minute.
+https://github.com/algolia/talk-search-party #
+https://github.com/algolia/algolia-combinatory-match # An Algolia tool to match and get known entities in your query
+https://github.com/algolia/talk-docsearch # DocSearch: The easiest way to add search to your documentation
+https://github.com/algolia/demo-dynamic-faceting #
+https://github.com/algolia/golfchanneldemo #
+https://github.com/algolia/public-custom-zendesk-search # A public version of our custom zendesk search
+https://github.com/algolia/poc-java-client-connection #
+https://github.com/algolia/wordpress #
+https://github.com/algolia/academy_developer_path-instantsearch-js # academy_developer_path-instantsearch-js
+https://github.com/algolia/talk-css-april-fools # We're Not Joking: How We Built A Search Engine In Pure CSS
+https://github.com/algolia/talk-community-recognition-2016 # Showcase of what the awesome Algolia Community build in 2016
+https://github.com/algolia/demo-distinct #
+https://github.com/algolia/demo-room-and-board #
+https://github.com/algolia/demo-american-apparel #
+https://github.com/algolia/demo-carousel-marketplace #
+https://github.com/algolia/workshop # Quickly getting started with Algolia workshop
+https://github.com/algolia/react-instantsearch-widget-loadmore-with-progressbar # React InstantSearch widget that displays a load more button with a progress bar
+https://github.com/algolia/thrive-market-demo #
+https://github.com/algolia/poc-ais-compatibility #
+https://github.com/algolia/record-cleaner # A class to clean records before indexing them
+https://github.com/algolia/gdpr-search # GDPR made searchable by Algolia. Chapters, articles and recitals easily readable
+https://github.com/algolia/helix-test #
+https://github.com/algolia/deb-cpp-test #
+https://github.com/algolia/crunchbase #
+https://github.com/algolia/demo-catalog-browser #
+https://github.com/algolia/keywords-suggestion #
+https://github.com/algolia/search-bundle-skeleton # Boilerplate to create a custom engine for the `algolia/search-bundle` package
+https://github.com/algolia/talk-algolia-generic #
+https://github.com/algolia/demo-team-hackathon-demo #
+https://github.com/algolia/academy_developerpath-autocomplete-instantsearch-js #
+https://github.com/algolia/paas-coding-interview #
+https://github.com/algolia/demo-asana #
+https://github.com/algolia/doc-engineer-assignment #
+https://github.com/algolia/demo-faceting-variants #
+https://github.com/algolia/academy-crawler-lab-config #
+https://github.com/algolia/actions # Sandbox for testing GitHub Actions
+https://github.com/algolia/academy_developer_path-autocomplete-js #
+https://github.com/algolia/algolia-solr-connector # A connector that has real-time indexing of content from Solr to Algolia

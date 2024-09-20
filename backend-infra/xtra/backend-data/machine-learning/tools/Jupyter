@@ -1,0 +1,119 @@
+https://github.com/jupyter/jupyter # Jupyter metapackage for installation, docs and chat
+https://github.com/jupyter/notebook # Jupyter Interactive Notebook
+
+https://github.com/jupyter/nbviewer # nbconvert as a web service: Render Jupyter Notebooks as static web pages
+https://github.com/jupyter/nbconvert # Jupyter Notebook Conversion
+https://github.com/jupyter/nbconvert-examples # Examples that illustrate how nbconvert can be used
+https://github.com/jupyter/kernel_gateway_demos # Demos associated with the kernel gateway incubator project
+https://github.com/jupyter/nbclient # A client library for executing notebooks. Formally nbconvert's ExecutePreprocessor
+https://github.com/jupyter/enhancement-proposals # Enhancement proposals for the Jupyter Ecosystem
+https://github.com/jupyter/roadmap # Master roadmap for Project Jupyter
+https://github.com/jupyter/scipy-advanced-tutorial # Advance Tutorial For SciPy
+https://github.com/jupyter/nbmanager # View and stop running IPython notebook servers
+https://github.com/jupyter/ngcm-tutorial # Materials for the IPython/Jupyter workshop at the NGCM Summer Academy, at Southampton University, Boldrewood campus.
+https://github.com/jupyter/echo_kernel # A simple example kernel for Jupyter
+https://github.com/jupyter/strata-sv-2015-tutorial # Strata Silicon Valley 2015 Tutorial
+https://github.com/jupyter/mozfest15-training # Notebooks for Jupyter training session at Mozfest 2015
+https://github.com/jupyter/nature-demo # Materials for the November 2014 Nature Article
+https://github.com/jupyter/jupyter_markdown # Documentation and tests related to Jupyter's Markdown syntax
+https://github.com/jupyter/lbnl-jupyterday # Materials for the Jupyter workshop at LBNL, 17 July 2015
+https://github.com/jupyter/scipy-2015-advanced-topics # Advanced topics in Jupyter tutorial for SciPy 2015.
+https://github.com/jupyter/markdown # Specify the Jupyter Markdown flavor.
+https://github.com/jupyter/.github #
+
+https://github.com/jupyterlab/jupyterlab # JupyterLab computational environment.
+https://github.com/jupyterlab/jupyterlab-desktop # JupyterLab desktop application, based on Electron.
+https://github.com/jupyterlab/jupyter-ai # A generative AI extension for JupyterLab
+https://github.com/jupyterlab/jupyter-renderers # Renderers and renderer extensions for JupyterLab
+https://github.com/jupyterlab/extension-examples # JupyterLab Extensions by Example
+https://github.com/jupyterlab/jupyterlab-github # GitHub integration for JupyterLab
+https://github.com/jupyterlab/jupyterlab-demo # Demonstrations of JupyterLab
+https://github.com/jupyterlab/extension-cookiecutter-ts # A cookiecutter recipe for JupyterLab extensions in Typescript
+https://github.com/jupyterlab/jupyter-collaboration # A Jupyter Server Extension Providing Support for Y Documents
+https://github.com/jupyterlab/jupyterlab_server # A set of server components for JupyterLab and JupyterLab like applications
+https://github.com/jupyterlab/jupyterlab-hdf5 # Open and explore HDF5 files in JupyterLab. Can handle very large (TB) sized files, and datasets of any dimensionality
+https://github.com/jupyterlab/scipy2018-jupyterlab-tutorial # Tutorial material and instruction for scipy 2018 jupyterlab tutorial
+https://github.com/jupyterlab/frontends-team-compass # A repository for team interaction, syncing, and handling meeting notes across the JupyterLab ecosystem.
+https://github.com/jupyterlab/extension-cookiecutter-js # A cookiecutter recipe for building JupyterLab extensions.
+https://github.com/jupyterlab/extension-template # A `copier` template for JupyterLab extensions
+https://github.com/jupyterlab/scipy2019-jupyterlab-tutorial # Scipy 2019 JupyterLab tutorial
+https://github.com/jupyterlab/jupyterlab-plugin-playground # A dynamic extension loader for JupyterLab
+https://github.com/jupyterlab/hatch-jupyter-builder # A hatch plugin to help build Jupyter packages
+https://github.com/jupyterlab/jupyterlab_apod # JupyterLab extension tutorial answer key. Please see the tutorial at https://jupyterlab.readthedocs.io/en/stable/extension/extension_tutorial.html
+https://github.com/jupyterlab/jupytercon-jupyterlab-tutorial # JupyterCon 2018 JupyterLab tutorial
+https://github.com/jupyterlab/jupyter-chat # An extension to add a chat panel to JupyterLab
+https://github.com/jupyterlab/ui-profiler # Extension for profiling performance of JupyterLab UI for JupyterLab core developers, extension developers, and advanced users.
+https://github.com/jupyterlab/benchmarks # Benchmarking tools for JupyterLab
+https://github.com/jupyterlab/maintainer-tools # Workflows and Actions meant to be used by other repositories to make repo maintenance easier
+https://github.com/jupyterlab/vscode-config-template # A copier template for creating the IDE config needed to debug the Python and Typescript code in any Jupyter project
+https://github.com/jupyterlab/jupytercon-jupyterlab-training # JupyterCon 2018 JupyterLab Training
+https://github.com/jupyterlab/language-pack-cookiecutter # Template for Jupyterlab Language packs
+https://github.com/jupyterlab/jupyterlab-probot # A probot for JupyterLab development
+https://github.com/jupyterlab/jupyter-builder # Build tools for JupyterLab (and remixes)
+https://github.com/jupyterlab/assets # Static assets for JupyterLab extensions
+
+https://github.com/jupyterhub/jupyterhub # Multi-user server for Jupyter notebooks
+https://github.com/jupyterhub/binderhub # Run your code in the cloud, with technology so advanced, it feels like magic!
+https://github.com/jupyterhub/repo2docker # Turn repositories into Jupyter-enabled Docker images
+https://github.com/jupyterhub/zero-to-jupyterhub-k8s # Helm Chart & Documentation for deploying JupyterHub on Kubernetes
+https://github.com/jupyterhub/the-littlest-jupyterhub # Simple JupyterHub distribution for 1-100 users on a single server
+https://github.com/jupyterhub/jupyterhub-deploy-docker # Reference deployment of JupyterHub with docker
+https://github.com/jupyterhub/kubespawner # Kubernetes spawner for JupyterHub
+https://github.com/jupyterhub/dockerspawner # Spawns JupyterHub single user servers in Docker containers
+https://github.com/jupyterhub/oauthenticator # OAuth + JupyterHub Authenticator = OAuthenticator
+https://github.com/jupyterhub/jupyter-server-proxy # Jupyter notebook server extension to proxy web services.
+https://github.com/jupyterhub/jupyterhub-deploy-teaching # Reference deployment of JupyterHub and nbgrader on a single server
+https://github.com/jupyterhub/configurable-http-proxy # node-http-proxy plus a REST API
+https://github.com/jupyterhub/nbgitpuller # Jupyter server extension to sync a git repository one-way to a local path
+https://github.com/jupyterhub/ldapauthenticator # LDAP Authenticator Plugin for Jupyter
+https://github.com/jupyterhub/jupyterhub-tutorial # Tutorial materials for deploying JupyterHub
+https://github.com/jupyterhub/batchspawner # Custom Spawner for Jupyterhub to start servers in batch scheduled systems
+https://github.com/jupyterhub/helm-chart # A store of Helm chart tarballs for deploying JupyterHub and BinderHub on a Kubernetes cluster
+https://github.com/jupyterhub/mybinder.org-user-guide # Turn a Git repo into a collection of interactive notebooks. This is Binder's user documentation repository.
+https://github.com/jupyterhub/repo2docker-action # A GitHub action to build data science environment images with repo2docker and push them to registries.
+https://github.com/jupyterhub/jupyter-rsession-proxy # Jupyter extensions for running an RStudio rsession proxy
+https://github.com/jupyterhub/jupyter-remote-desktop-proxy # Run a Linux Desktop on a JupyterHub
+https://github.com/jupyterhub/jupyterhub-idle-culler # JupyterHub service to cull idle servers and users
+https://github.com/jupyterhub/systemdspawner # Spawn JupyterHub single-user notebook servers with systemd
+https://github.com/jupyterhub/jupyterhub-the-hard-way # Understanding JupyterHub by deploying it step by step
+https://github.com/jupyterhub/mybinder.org-deploy # Deployment config files for mybinder.org
+https://github.com/jupyterhub/nativeauthenticator # JupyterHub-native User Authenticator
+https://github.com/jupyterhub/ltiauthenticator # A JupyterHub authenticator for LTI
+https://github.com/jupyterhub/team-compass # A repository for team interaction, syncing, and handling meeting notes across the JupyterHub ecosystem.
+https://github.com/jupyterhub/wrapspawner # Mechanism for runtime configuration of spawners for JupyterHub
+https://github.com/jupyterhub/chartpress # automate building and publishing images for helm charts
+https://github.com/jupyterhub/traefik-proxy # JupyterHub proxy implementation with traefik
+https://github.com/jupyterhub/grafana-dashboards # Grafana Dashboards useful for k8s + JupyterHub
+https://github.com/jupyterhub/sudospawner # Spawn JupyterHub single-user servers with sudo
+https://github.com/jupyterhub/firstuseauthenticator # JupyterHub Authenticator that lets users set passwords when they first log in
+https://github.com/jupyterhub/jupyterhub-deploy-hpc # Documented examples of Jupyterhub deployment in HPC settings
+https://github.com/jupyterhub/outreachy # Tasks, management and documentation for Outreachy Internships in JupyterHub
+https://github.com/jupyterhub/jupyterhub-example-kerberos # Example for experimenting with how JupyterHub can be configured to work with Kerberos
+https://github.com/jupyterhub/pebble-helm-chart # To deploy a server to replace Let's Encrypt in externally unreachable CI environment for testing purposes.
+https://github.com/jupyterhub/gh-scoped-creds # Provide fine-grained push access to GitHub from a JupyterHub
+https://github.com/jupyterhub/action-k3s-helm # A GitHub action to install K3S, Calico, and Helm.
+https://github.com/jupyterhub/tmpauthenticator # JupyterHub authenticator that hands out temporary accounts for everyone. For use in tmpnb.org
+https://github.com/jupyterhub/yarnspawner # Spawn JupyterHub single user notebook servers in Hadoop/YARN containers.
+https://github.com/jupyterhub/jupyterhub-on-hadoop # Documentation and resources for deploying JupyterHub on Hadoop
+https://github.com/jupyterhub/simpervisor # Simple Python3 Supervisor library
+https://github.com/jupyterhub/kerberosauthenticator # A JupyterHub authenticator using Kerberos
+https://github.com/jupyterhub/nullauthenticator # Null Authenticator for JupyterHub instances that should have no login mechanism
+https://github.com/jupyterhub/docker-image-cleaner # Python script to cleanup unused docker images
+https://github.com/jupyterhub/binder-data # A place to store data for Binder
+https://github.com/jupyterhub/action-k8s-await-workloads # A Github Action to await k8s workloads to become Ready
+https://github.com/jupyterhub/action-k8s-namespace-report # GitHub Action to report info and logs from the current namespace.
+https://github.com/jupyterhub/pytest-jupyterhub # Reusable pytest plugin for testing JupyterHub's components
+https://github.com/jupyterhub/action-major-minor-tag-calculator # GitHub action to calculate major and minor semver tags, e.g. for tagging containers
+https://github.com/jupyterhub/binder-billing # A repository to explore billing data for mybinder.org
+https://github.com/jupyterhub/autodoc-traits # Sphinx extension to autodocument traitlets
+https://github.com/jupyterhub/mybinder-tools # Some tools for munging and utilizing kubectl
+https://github.com/jupyterhub/design # A collection of design material for JupyterHub and related projects
+https://github.com/jupyterhub/katacoda-scenarios # https://katacoda.com/ is a playground for learning, and these are our learning scenarios
+https://github.com/jupyterhub/jupyterhub-python-repo-template # A template for generating Python repositories in the `jupyterhub` organization
+https://github.com/jupyterhub/nbgitpuller-downloader-plugins # jupyterhub/nbgitpuller allows for content provider plugins, this python package provides downloader plugins
+https://github.com/jupyterhub/nbgitpuller-downloader-googledrive #
+https://github.com/jupyterhub/jupyterhub.github.io # A landing page and overview for the JupyterHub project and team
+https://github.com/jupyterhub/nbgitpuller-downloader-dropbox #
+https://github.com/jupyterhub/jupyterhub-sphinx-theme # A lightweight wrapper theme for Sphinx based on the PyData Sphinx Theme
+https://github.com/jupyterhub/nbgitpuller-downloader-generic-web #
+https://github.com/jupyterhub/.github #

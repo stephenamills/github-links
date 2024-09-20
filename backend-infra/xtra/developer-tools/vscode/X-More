@@ -1,3 +1,86 @@
+Copilot
+https://github.com/lukvonstrom/copilot-verification # Chat extension - verifies Python code or creates tests using preconditions and postconditions
+https://github.com/phoevos/vscode-extension-verifier # verifies Python code or creates tests using preconditions and postconditions
+https://github.com/scottholden/copilotchatextensions # three examples
+https://github.com/jonlester/vscode-copilot-dev
+https://github.com/flaviodelgrosso/wikipedia-participant # Wikipedia
+https://github.com/harrybin/vscode-copilot-extension # GitHub issue
+https://github.com/microsoft/vscode-extension-samples/ # official example
+https://github.com/nksleiman/vscode-extension
+
+https://github.com/microsoft/mastering-github-copilot-for-paired-programming
+https://github.com/skills/copilot-codespaces-vscode
+https://github.com/xnul/codestral-mamba-for-vscode # Mistral Codestral
+https://github.com/continuedev/continue
+https://github.com/xnul/code-llama-for-vscode
+https://github.com/hieunc229/copilot-clone
+https://github.com/rubberduck-ai/rubberduck-vscode
+
+Dev Container - Docker Virtual Machine
+https://github.com/microsoft/dstoolkit-devcontainers # data science toolkit
+https://github.com/microsoft/vscode-remote-try-go # Go
+https://github.com/microsoft/vscode-remote-try-rust # Rust
+https://github.com/microsoft/vscode-remote-try-java # Java
+https://github.com/microsoft/vscode-remote-try-dotnet # Dotnet
+https://github.com/microsoft/vscode-remote-try-python # Python
+https://github.com/microsoft/vscode-remote-try-node # Node.js
+https://github.com/microsoft/vscode-remote-try-php # PHP
+https://github.com/microsoft/vscode-remote-try-cpp # C++
+https://github.com/devcontainers/template-starter # template
+https://github.com/devcontainers/feature-starter # Features template
+https://github.com/devcontainers/cli # creates a dev container
+https://github.com/devcontainers/images/ # pre-built dev container images
+https://github.com/qdm12/devtainr # sets up a development container in your repository
+
+https://github.com/qdm12/reactdevcontainer # React
+https://github.com/luizkowalski/devcontainer-rails # Rails
+https://github.com/aliosm/ruby-on-rails-devcontainer # Rails, Postgres, Redis, MeiliSearch
+https://github.com/valenvb/vscode-devcontainer-wordpress # Wordpress
+https://github.com/jungleboogie-pl/vscode-wordpress # Wordpress
+https://github.com/backendclub/example-django-devcontainers # Django
+https://github.com/alitari/vscode-remote-quarkus # Quarkus
+https://github.com/jplane/pyspark-devcontainer # PySpark
+https://github.com/allaboutapps/go-starter # Go JSON API with OpenAPI and SQL
+https://github.com/edhaase/vscode-devcontainer-php7-apache # PHP and Apache
+https://github.com/iterativo-git/dockerdoo # Odoo
+
+https://github.com/guiyomh/features
+
+https://github.com/0916dhkim/vscode-devcontainer-tutorial # Several databases and more
+https://github.com/pwd9000-ml/devcontainer-templates # GitHub Actions, Azure Pipelines and more
+https://github.com/wtfzambo/glue-devcontainer-template # AWS Glue
+https://github.com/vincentclaes/glue-devcontainer # AWS Glue
+https://github.com/awslabs/aws-terraform-dev-container # by Amazon - Terraform
+https://github.com/jarnawer/ansible-devcontainer-vscode # Ansible
+https://github.com/loft-sh/devpod # DevPod
+https://github.com/qdm12/godevcontainer # Go
+https://github.com/yiwiy9/atcoder-rust-devcontainer # Rust
+https://github.com/SergioGasquez/esp-rs-devcontainer # Rust
+https://github.com/mathiasgruber/vscode-devcontainer # Node.js and Terraform
+https://github.com/amatzk/docker-template-for-vscode # multiple language environments
+https://github.com/mamba-org/micromamba-devcontainer # Python
+https://github.com/b-data/data-science-devcontainers # R, Python, Julia
+https://github.com/ilanco/vscode-devcontainer-php # PHP (Codespaces also)
+https://github.com/espressocake/bof_development_docker # C
+https://github.com/avsm/ocaml-devcontainers # OCaml
+https://github.com/hiroyaonoe/ocaml-devcontainer # OCaml
+https://github.com/jomazu/elixir-devcontainer # Elixir
+https://github.com/devrt/ros-devcontainer-vscode # robotics (interesting features shown)
+https://github.com/clearbluejar/ghidra-python-vscode-devcontainer-skeleton # Ghidra
+https://github.com/theomessin/laravel-devcontainer
+https://github.com/madebygps/multiple-dev-container-vscode # usage of multiple decontainer.json files
+https://github.com/containercraft/konductor # various ops tools
+https://github.com/opsec-infosec/42-devcontainer
+https://github.com/h4l/dev-container-docker-compose-volume-or-bind # template for Docker Compose bind mounts and container volumes
+https://github.com/stuartleeks/devcontainer-cli # commands to work with dev containers
+https://github.com/webksde/ddev-vscode-devcontainer-drupal-template
+https://github.com/prenone/platformio-vscode-devcontainer
+https://github.com/qdm12/basedevcontainer # base development Docker image used by other development Docker images
+
+Jupyter
+
+More
+
 https://github.com/hediet/vscode-debug-visualizer # visualizes data during debugging
 https://github.com/ide-stories/vscode-stories-api # stories (walkthroughs)
 https://github.com/microsoft/codetour # code tour

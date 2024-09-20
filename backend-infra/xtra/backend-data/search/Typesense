@@ -1,0 +1,71 @@
+https://github.com/typesense/typesense # Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ 
+
+https://github.com/typesense/showcase-recipe-search # Instantly search 2M cooking recipes using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 🥘 🔍
+https://github.com/typesense/typesense-js # JavaScript / TypeScript client for Typesense
+https://github.com/typesense/typesense-instantsearch-adapter # A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
+https://github.com/typesense/typesense-go # Go client for Typesense: https://github.com/typesense/typesense
+https://github.com/typesense/typesense-php # PHP client for Typesense: https://github.com/typesense/typesense
+https://github.com/typesense/showcase-songs-search # A site to instantly search 32M songs from the MusicBrainz songs database, using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 🎵 🔍
+https://github.com/typesense/typesense-python # Python client for Typesense: https://github.com/typesense/typesense
+https://github.com/typesense/firestore-typesense-search # Firebase Extension to automatically push Firestore documents to Typesense for full-text search with typo tolerance, faceting, and more
+https://github.com/typesense/showcase-books-search # A site to instantly search 28M books from OpenLibrary using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 📚 🔍
+https://github.com/typesense/laravel-scout-typesense-driver # Laravel Scout Driver for Typesense
+https://github.com/typesense/typesense-docsearch-scraper # A fork of Algolia's awesome DocSearch Scraper, customized to index data in Typesense (an open source alternative to Algolia)
+https://github.com/typesense/typesense-ruby # Ruby client for Typesense: https://github.com/typesense/typesense
+https://github.com/typesense/typesense-dart # Dart client for Typesense
+https://github.com/typesense/docusaurus-theme-search-typesense # A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
+https://github.com/typesense/typesense-instantsearch-demo # A demo app that shows how to use the Typesense InstantSearch adapter, to build rich search interfaces.
+https://github.com/typesense/typesense-java # Java client for Typesense
+https://github.com/typesense/showcase-nextjs-typesense-ecommerce-store # An app showing how you can use Typesense & Next.js / React to build a full-fledged ecommerce browsing and searching experience
+https://github.com/typesense/showcase-ecommerce-store # An app showing how you can use Typesense to build a full-fledged ecommerce browsing and searching experience
+https://github.com/typesense/typesense-swift # Swift Client for Typesense ⚡️🔎
+https://github.com/typesense/showcase-linux-commits-search # Instantly search 1M Linux Kernel Commit Messages using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 💻 🔍
+https://github.com/typesense/typesense-website # Typesense website and documentation | An open source search engine alternative to Algolia, Elasticsearch and Pinecone
+https://github.com/typesense/typesense-kubernetes # Typesense Kubernetes
+https://github.com/typesense/showcase-hn-comments-semantic-search # Semantic Search + Keyword Search + Hybrid Search + Filtering + Faceting on 300K HN Comments
+https://github.com/typesense/gatsby-plugin-typesense # A Gatsby plugin to automatically index content to Typesense post-build
+https://github.com/typesense/typesense-rust # Rust client for Typesense | Work In Progress & Help Wanted
+https://github.com/typesense/typesense-docsearch.js # A fork of Algolia's awesome DocSearch.js, customized to use data from Typesense.
+https://github.com/typesense/typesense-mongodb # A Node.js CLI to sync documents from a MongoDB collection to Typesense.
+https://github.com/typesense/postman # Postman collection for Typesense
+https://github.com/typesense/typesense-instantsearch-semantic-search-demo # A demo that shows how to build a semantic search experience with Typesense's vector search feature and Instantsearch.js
+https://github.com/typesense/typesense-autocomplete-demo # A demo app that shows you how to use Algolia's autocomplete.js library with Typesense
+https://github.com/typesense/showcase-airbnb-geosearch # Browse & GeoSearch 1 Million AirBnB listings with Typesense ⚡🔍 ️🌎
+https://github.com/typesense/showcase-xkcd-search # Search & Browse xkcd by topic & keywords | Using Typesense, an open source Algolia alternative and an easier-to-use alternative to Elasticsearch
+https://github.com/typesense/typesense-api-spec # Contains the API specs for the Typesense HTTP API
+https://github.com/typesense/typesense-instantsearch-demo-no-npm-yarn # A demo that shows how to use typesense-instantsearch-adapter without NPM or YARN
+https://github.com/typesense/showcase-guitar-chords-search-nuxt-js # A demo that shows how to implement Typesense in a Nuxt.js app
+https://github.com/typesense/showcase-guitar-chords-search-next-js # A demo that shows how to implement Typesense in a Next.js app
+https://github.com/typesense/typesense-vue-instantsearch-demo # A demo app that shows you how to use Vue & the Typesense InstantSearch adapter, to build rich search interfaces.
+https://github.com/typesense/showcase-guitar-chords-search-vanilla-js # A demo that shows how to implement Typesense in a vanilla JS application
+https://github.com/typesense/showcase-guitar-chords-search-svelte-kit # A demo that shows how to implement Typesense in a SvelteKit app
+https://github.com/typesense/typesense-rails # Rails Integration for Typesense | Work in Progress | Help Needed
+https://github.com/typesense/typesense-wordpress-plugin # Deprecated in favor of https://wordpress.org/plugins/search-with-typesense/
+https://github.com/typesense/showcase-spellcheck # Use Typesense to build a type-ahead spellchecker
+https://github.com/typesense/showcase-guitar-chords-search-angular # A demo that shows how to implement Typesense in an Angular app
+https://github.com/typesense/showcase-federated-search # An app that showcases federated search in Typesense (Open source alternative to Algolia)
+https://github.com/typesense/showcase-conversational-search-pg-essays # WORK IN PROGRESS - An app that shows you how to build a conversation search experience, using Typesense's built-in RAG pipeline
+https://github.com/typesense/showcase-guitar-chords-search-astro # A demo that shows how to implement Typesense within Astro
+https://github.com/typesense/showcase-address-autocomplete # Demo that shows how to build an address autocomplete experience with Typesense. Alternative for Algolia Places and Google Maps API
+https://github.com/typesense/showcase-ai-image-search # Text to image search & Image Similarity Search using @Typesense
+https://github.com/typesense/homebrew-tap # Homebrew Formulae for Typesense
+https://github.com/typesense/showcase-guitar-chords-search-remix # A demo that shows how to implement Typesense in a Remix app
+https://github.com/typesense/user-admin-search-laravel-demo # A demo Laravel app that integrates with Typesense
+https://github.com/typesense/typesense-lando-plugin # A Lando plugin for Typesense
+https://github.com/typesense/showcase-guitar-chords-search-solid-js # A demo that shows how to implement Typesense in Solid.js
+https://github.com/typesense/showcase-guitar-chords-search-react-native # A demo that shows how to implement Typesense in a React Native app
+https://github.com/typesense/typesense-collection-schema-generator # A CLI utility to generate a first-draft Typesense Collection schema given a JSON sample object
+https://github.com/typesense/showcase-airports-geosearch # Browse & GeoSearch world airports
+https://github.com/typesense/showcase-podcasts-voice-search # Work in Progress
+https://github.com/typesense/showcase-nba-players-search-flutter #
+https://github.com/typesense/showcase-guitar-chords-search-qwik # A demo that shows how to implement Typesense in a Qwik app
+https://github.com/typesense/solr-xml-to-jsonl # A CLI utility to convert a solr data file to a simple JSONL file
+https://github.com/typesense/showcase-laravel-steam-games-search # Work in progress
+https://github.com/typesense/algolia-query-rules-to-typesense # A CLI utility to import Algolia's query rules JSON into Typesense
+https://github.com/typesense/.github # Org-wide shared github configs
+https://github.com/typesense/typesense-flutter-demo #
+https://github.com/typesense/docusaurus-typesense-testground # Sandbox Docusaurus Site to test the Typesense DocSearch Docusaurus plugin
+https://github.com/typesense/clip_tokenizer_cpp #
+https://github.com/typesense/showcase-joins-django #
+https://github.com/typesense/showcase-lichess-games-search-nuxt-js #
+https://github.com/typesense/langchain-integration-testground #

@@ -1,43 +1,43 @@
-https://github.com/run-llama/llama_index # LlamaIndex is a data framework for your LL
-M applications https://github.com/run-llama/rags # Build ChatGPT over your data, all with natural la
-nguage https://github.com/run-llama/llama_parse # Parse files for optimal RAG
-https://github.com/run-llama/sec-insights # A real world full-stack application using
-LlamaIndex https://github.com/run-llama/llamaindexts # LlamaIndex in TypeScript
+https://github.com/run-llama/llama_index # LlamaIndex is a data framework for your LLM applications
+https://github.com/run-llama/rags # Build ChatGPT over your data, all with natural language
+https://github.com/run-llama/llama_parse # Parse files for optimal RAG
+https://github.com/run-llama/sec-insights # A real world full-stack application using LlamaIndex
+https://github.com/run-llama/llamaindexts # LlamaIndex in TypeScript
 https://github.com/run-llama/llama_deploy # Deploy your agentic worfklows to producti
 on https://github.com/run-llama/llama-lab #
 https://github.com/run-llama/chat-llamaindex #
-https://github.com/run-llama/create-llama # The easiest way to get started with Llama
-Index https://github.com/run-llama/finetune-embedding # Fine-Tuning Embedding for RAG with
-Synthetic Data https://github.com/run-llama/create_llama_projects #
+https://github.com/run-llama/create-llama # The easiest way to get started with LlamaIndex
+https://github.com/run-llama/finetune-embedding # Fine-Tuning Embedding for RAG with Synthetic Data
+https://github.com/run-llama/create_llama_projects #
 https://github.com/run-llama/modal_finetune_sql #
 https://github.com/run-llama/multi-agent-concierge #
 https://github.com/run-llama/mongodb-demo #
 https://github.com/run-llama/ai-engineer-workshop #
 https://github.com/run-llama/llama_docs_bot # Bottoms Up Development with LlamaIndex
 
-- Building a Documentation Chatbot https://github.com/run-llama/llamabot #
-  https://github.com/run-llama/gmail-extractor #
-  https://github.com/run-llama/llama-slides #
-  https://github.com/run-llama/llama_extract #
-  https://github.com/run-llama/llamaindex_aws_ingestion #
-  https://github.com/run-llama/ts-agents # Demonstration of agentic capabilities in Typ
-  eScript https://github.com/run-llama/automatic-doc-translate #
-  https://github.com/run-llama/file-organizer #
-  https://github.com/run-llama/awesome-rag #
-  https://github.com/run-llama/ts-playground #
-  https://github.com/run-llama/newsletter-generator #
-  https://github.com/run-llama/mixtral_ollama #
-  https://github.com/run-llama/llamacloud-demo #
-  https://github.com/run-llama/app-creator # Code generator using LlamaIndexTS workflow
-  s with OpenAI o1 model https://github.com/run-llama/llama-datasets # Github repo for storing LlamaDatasets
-  https://github.com/run-llama/python-agents-tutorial # Code samples from our Python ag
-  ents tutorial https://github.com/run-llama/llama-api #
-  https://github.com/run-llama/azure-cosmos-db-demo #
-  https://github.com/run-llama/rag-bedrock # Advanced Retrieval Augmented Generation pa
-  tterns with AWS Bedrock and LlamaIndex https://github.com/run-llama/multi-agents-workflow # Multi-Agents using Workflows
-  https://github.com/run-llama/helm-charts #
-  https://github.com/run-llama/tool #
-  https://github.com/run-llama/private-claude #
-  https://github.com/run-llama/llamaindex.net # LlamaIndex .NET SDK
-  https://github.com/run-llama/.github #
-  https://github.com/run-llama/logos #
+https://github.com/run-llama/llamabot #
+https://github.com/run-llama/gmail-extractor #
+https://github.com/run-llama/llama-slides #
+https://github.com/run-llama/llama_extract #
+https://github.com/run-llama/llamaindex_aws_ingestion #
+https://github.com/run-llama/ts-agents # Demonstration of agentic capabilities in TypeScript
+https://github.com/run-llama/automatic-doc-translate #
+https://github.com/run-llama/file-organizer #
+https://github.com/run-llama/awesome-rag #
+https://github.com/run-llama/ts-playground #
+https://github.com/run-llama/newsletter-generator #
+https://github.com/run-llama/mixtral_ollama #
+https://github.com/run-llama/llamacloud-demo #
+https://github.com/run-llama/app-creator # Code generator using LlamaIndexTS workflows with OpenAI o1 model
+https://github.com/run-llama/llama-datasets # Github repo for storing LlamaDatasets
+https://github.com/run-llama/python-agents-tutorial # Code samples from our Python agents tutorial
+https://github.com/run-llama/llama-api #
+https://github.com/run-llama/azure-cosmos-db-demo #
+https://github.com/run-llama/rag-bedrock # Advanced Retrieval Augmented Generation patterns with AWS Bedrock and LlamaIndex
+https://github.com/run-llama/multi-agents-workflow # Multi-Agents using Workflows
+https://github.com/run-llama/helm-charts #
+https://github.com/run-llama/tool #
+https://github.com/run-llama/private-claude #
+https://github.com/run-llama/llamaindex.net # LlamaIndex .NET SDK
+https://github.com/run-llama/.github #
+https://github.com/run-llama/logos #

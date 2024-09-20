@@ -1,0 +1,82 @@
+https://github.com/meilisearch/meilisearch # A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+
+https://github.com/meilisearch/meilisearch-js # JavaScript client for the Meilisearch API
+https://github.com/meilisearch/meilisearch-php # PHP wrapper for the Meilisearch API
+https://github.com/meilisearch/heed # A fully typed LMDB wrapper with minimum overhead 🐦
+https://github.com/meilisearch/meilisearch-go # Golang wrapper for the Meilisearch API
+https://github.com/meilisearch/meilisearch-js-plugins # The search client to use Meilisearch with InstantSearch.
+https://github.com/meilisearch/meilisearch-python # Python wrapper for the Meilisearch API
+https://github.com/meilisearch/meilisearch-rust # Rust wrapper for the Meilisearch API.
+https://github.com/meilisearch/meilisearch-rails # Meilisearch integration for Ruby on Rails
+https://github.com/meilisearch/docs-scraper # Scrape documentation into Meilisearch
+https://github.com/meilisearch/meilisearch-dotnet # .NET wrapper for the Meilisearch API
+https://github.com/meilisearch/charabia # Library used by Meilisearch to tokenize queries and documents
+https://github.com/meilisearch/mini-dashboard # mini-dashboard for Meilisearch
+https://github.com/meilisearch/strapi-plugin-meilisearch # A strapi plugin to add your collections to Meilisearch
+https://github.com/meilisearch/meilisearch-kubernetes # Meilisearch on Kubernetes Helm charts and manifests
+https://github.com/meilisearch/arroy # An Approximate Nearest Neighbors library in Rust, based on random projections and LMDB and optimized for memory usage :boom:
+https://github.com/meilisearch/meilisearch-ruby # Ruby SDK for the Meilisearch API
+https://github.com/meilisearch/meilisearch-react #
+https://github.com/meilisearch/meilisearch-java # Java client for Meilisearch
+https://github.com/meilisearch/docs-searchbar.js # Front-end search bar for documentation with Meilisearch
+https://github.com/meilisearch/meilisearch-vue #
+https://github.com/meilisearch/documentation # Meilisearch documentation
+https://github.com/meilisearch/integration-guides # Central reference for Meilisearch integrations.
+https://github.com/meilisearch/meilisearch-symfony # Seamless integration of Meilisearch into your Symfony project.
+https://github.com/meilisearch/awesome-meilisearch # A curated list of awesome Meilisearch resources
+https://github.com/meilisearch/meilisearch-swift # Swift client for the Meilisearch API
+https://github.com/meilisearch/firestore-meilisearch # Fulltext search on Firebase with Meilisearch
+https://github.com/meilisearch/ecommerce-demo # Nuxt 3 ecommerce site search with filtering and facets powered by Meilisearch
+https://github.com/meilisearch/meilisearch-dart # The Meilisearch API client written for Dart
+https://github.com/meilisearch/saas-demo # App search in a CRM use case, powered by Meilisearch
+https://github.com/meilisearch/vuepress-plugin-meilisearch # Add a relevant and typo tolerant search bar to your VuePress
+https://github.com/meilisearch/product # Public feedback and ideation discussions for Meilisearch product 🔮
+https://github.com/meilisearch/demos # A list of Meilisearch demos with open-source code and live preview ⚡️
+https://github.com/meilisearch/demo-movies # Next.js app to find streaming platform to watch movies
+https://github.com/meilisearch/gatsby-plugin-meilisearch # A plugin to index your Gatsby content to Meilisearch based on graphQL queries
+https://github.com/meilisearch/landing # Meilisearch's landing page
+https://github.com/meilisearch/meilisearch-migration # Scripts to update Meilisearch version's.
+https://github.com/meilisearch/deserr # Deserialization library with focus on error handling
+https://github.com/meilisearch/meilisearch-angular # Instant Meilisearch for Angular Framework
+https://github.com/meilisearch/grenad # Tools to sort, merge, write, and read immutable key-value pairs :tomato:
+https://github.com/meilisearch/scrapix #
+https://github.com/meilisearch/cargo-flaky # A cargo sub-command to helps you find flaky tests
+https://github.com/meilisearch/madness # an async mdns library for tokio
+https://github.com/meilisearch/cloud-providers # ☁ Meilisearch DevOps Tools for the Cloud ☁
+https://github.com/meilisearch/meilisearch-importer # A CLI to import massive CSV and NdJson into Meilisearch
+https://github.com/meilisearch/engine-team # Repository gathering the development process of the core-team
+https://github.com/meilisearch/obkv # A micro key-value store where the key is always one byte
+https://github.com/meilisearch/compute-embeddings # A small tool to compute the embeddings of a list of JSON documents
+https://github.com/meilisearch/minimeili-raft # A small implementation of a dummy Meilisearch running on top of Raft
+https://github.com/meilisearch/searchbar.js # wip
+https://github.com/meilisearch/vercel-demo # A website that lets you know where to watch a movie built on Next.js and Meilisearch, deployed on Vercel with the Meilisearch + Vercel integration.
+https://github.com/meilisearch/mini-search-engine-presentation # A simple and "short" presentation of the search engine
+https://github.com/meilisearch/meilisearch-flutter # [wip] A basic UI kit with Meilisearch search widgets for Flutter
+https://github.com/meilisearch/open-api #
+https://github.com/meilisearch/nextjs-starter-meilisearch-table #
+https://github.com/meilisearch/poc-vector-store-recall # A experimental tool that uses the vector store to increase Meilisearch's recall
+https://github.com/meilisearch/parallel-write-exp # A parallel indexer experiment for Meilisearch
+https://github.com/meilisearch/synonyms #
+https://github.com/meilisearch/.github #
+https://github.com/meilisearch/discord-bot-productboard #
+https://github.com/meilisearch/datasets #
+https://github.com/meilisearch/strois # A simple non-async S3 client based on the REST API
+https://github.com/meilisearch/settings_guessr # A tool that guess your settings by using the dataset
+https://github.com/meilisearch/mainspector # Main specification inspector
+https://github.com/meilisearch/meilikeeper # A sync zookeeper client on top of the official C client
+https://github.com/meilisearch/musicbrainz-demo # A demo showcasing Meilisearch with a large musics dataset coming from Musicbrainz
+https://github.com/meilisearch/actions # Meilisearch Github Actions
+https://github.com/meilisearch/benchboard # Benchmark dashboard
+https://github.com/meilisearch/meilisearch-webhook-usage-example # Example of how to use the meilisearch webhook
+https://github.com/meilisearch/poc-heed-codec # A repository to help us define the new design of heed
+https://github.com/meilisearch/zookeeper-client-sync # zookeeper-client-sync
+https://github.com/meilisearch/massive-meilisearch-sampling # A program that generates and sends dataset and samples update/deletes to a Meilisearch server
+https://github.com/meilisearch/movies-react-demo # Created with CodeSandbox
+https://github.com/meilisearch/alberto # A program that displays the size of the documents in a Meilisearch database.
+https://github.com/meilisearch/design-team #
+https://github.com/meilisearch/vector-store-relevancy-benchmark # vector-store-relevancy-benchmark
+https://github.com/meilisearch/cheat-sheets # PDF cheat sheets generator for MeiliSearch and it's SDKs
+https://github.com/meilisearch/tutorials # List of all the tutorials for Meilisearch blogs
+https://github.com/meilisearch/crunchbase-raycast-ext # Demo of Meilisearch by searching Crunchbase data though Raycast app
+https://github.com/meilisearch/hn-downloader #
+https://github.com/meilisearch/template-repo #

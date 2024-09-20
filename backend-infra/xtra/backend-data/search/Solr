@@ -1,0 +1,5 @@
+https://github.com/apache/solr # Apache Solr open-source search software
+https://github.com/apache/lucene-solr # Apache Lucene and Solr open-source search software
+https://github.com/apache/solr-operator # Official Kubernetes operator for Apache Solr
+https://github.com/apache/solr-docker # Official Dockerfile for Apache Solr
+https://github.com/apache/solr-sandbox # Apache Solr open-source search software plugin modules sandbox
