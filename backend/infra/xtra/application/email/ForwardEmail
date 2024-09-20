@@ -1,0 +1,18 @@
+https://github.com/forwardemail/email-templates # Create, preview (browser/iOS Simulator), and send custom email templates for
+Node.js. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs. https://github.com/forwardemail/free-email-forwarding # The best free email forwarding for custom domains. Visit our website t
+o get started (SMTP server) https://github.com/forwardemail/forwardemail.net # Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. https://github.com/forwardemail/test-preview-emails-cross-browsers-ios-simulator-nodejs-javascript # Automatically opens your b
+rowser and iOS Simulator to preview Node.js email messages sent with Nodemailer. Made for @forwardemail and @ladjs. Cross-browser and cross-platform email testing. https://github.com/forwardemail/reserved-email-addresses-list # List of 1250+ generic, admin, mailer-daemon, and no-reply usern
+ames reserved for security concerns. Made for @forwardemail. https://github.com/forwardemail/nodejs-dns-over-https-tangerine # Node.js DNS over HTTPS - :tangerine: Tangerine is the best dr
+op-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support). Made for @forwardemail.https://github.com/forwardemail/font-awesome-assets # :lipstick: Convert any of @FortAwesome's Font-Awesome icons to an asset,
+such as an <svg> tag or a Base64-encoded PNG/SVG <img> tag! It supports Retina devices and custom tag attributes too! https://github.com/forwardemail/custom-fonts-in-emails # An extremely easy way to use custom fonts in emails without having to
+use art software. https://github.com/forwardemail/nodemailer-base64-to-s3 # :zap: Convert your Base64-Encoded Data URI's in `<img>` tags to Amazo
+n S3/CloudFront URL's. A better alternative than embedding images with CID using Nodemailer. https://github.com/forwardemail/caldav-adapter # CalDAV server for Node.js and Koa. Modernized and maintained for @forwardemail
+https://github.com/forwardemail/status.forwardemail.net # Status Page
+https://github.com/forwardemail/get-fqdn # Lookup the fully qualified domain name ("FQDN") of the current server's IP (default)
+or a custom IP. 90x faster than `hostname -f` and works with Node v6.4+. https://github.com/forwardemail/authheaders # Node.js wrapper around the Python pip package authheaders exposing a function to
+generate Authentication-Results headers https://github.com/forwardemail/python-spfcheck2 # Node.js wrapper around Python's spf.check2 function which conforms to both RFC4408 and RFC7208 https://github.com/forwardemail/browser-extension # The best privacy-focused browser extension with one-click disposable addres
+ses, unlimited email aliases, and access to your Forward Email account. https://github.com/forwardemail/dkimpy # Node.js wrapper around the Python pip package dkimpy exposing DKIM and ARC signing and
+verification functions https://github.com/forwardemail/mta-sts.forwardemail.net #
+https://github.com/forwardemail/python-arf # Node.js wrapper around the Python package arf, which is a processor for Abuse Repo
+rting Format (ARF) messages. https://github.com/forwardemail/authentication-headers # Our independently maintained fork of @adam-iris authentication-headers
+repo which contains a fix in the Python package "authheaders". https://github.com/forwardemail/.github #

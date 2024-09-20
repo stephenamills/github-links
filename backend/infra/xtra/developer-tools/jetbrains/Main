@@ -1,0 +1,378 @@
+https://github.com/jetbrains/kotlin # The Kotlin Programming Language.
+https://github.com/jetbrains/intellij-community # IntelliJ IDEA Community Edition & IntelliJ Platform
+https://github.com/jetbrains/compose-multiplatform # Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+https://github.com/jetbrains/jetbrainsmono # JetBrains Mono – the free and open-source typeface for developers
+https://github.com/jetbrains/exposed # Kotlin SQL Framework
+https://github.com/jetbrains/ring-ui # A collection of JetBrains Web UI components
+https://github.com/jetbrains/intellij-platform-plugin-template # Template repository for creating plugins for IntelliJ Platform
+https://github.com/jetbrains/kotlinconf-app # KotlinConf Schedule Application
+https://github.com/jetbrains/skija # Java bindings for Skia
+https://github.com/jetbrains/create-react-kotlin-app # Create React apps using Kotlin with no build configuration
+https://github.com/jetbrains/intellij-plugins # Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
+https://github.com/jetbrains/svg-sprite-loader # Webpack loader for creating SVG sprites.
+https://github.com/jetbrains/skiko # Kotlin Multiplatform bindings to Skia
+https://github.com/jetbrains/lets-plot # Multiplatform plotting library based on the Grammar of Graphics
+https://github.com/jetbrains/mps # JetBrains Meta programming System
+https://github.com/jetbrains/kotlin-web-site # The Kotlin programming language website
+https://github.com/jetbrains/intellij-platform-gradle-plugin # Gradle plugin for building plugins for IntelliJ-based IDEs
+https://github.com/jetbrains/kotlin-wrappers # Kotlin wrappers for popular JavaScript libraries
+https://github.com/jetbrains/phpstorm-stubs # PHP runtime & extensions header files for PhpStorm
+https://github.com/jetbrains/idea-gitignore # .ignore support plugin for IntelliJ IDEA
+https://github.com/jetbrains/jetbrainsruntime # Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
+https://github.com/jetbrains/resharper-unity # Unity support for both ReSharper and Rider
+https://github.com/jetbrains/intellij-sdk-docs # IntelliJ SDK Platform Documentation
+https://github.com/jetbrains/intellij-scala # Scala plugin for IntelliJ IDEA
+https://github.com/jetbrains/xodus # Transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub.
+https://github.com/jetbrains/kotless # Kotlin Serverless Framework
+https://github.com/jetbrains/intellij-sdk-code-samples # Mirror of the IntelliJ SDK Docs Code Samples
+https://github.com/jetbrains/amper # Amper - a project configuration and build tool with a focus on the user experience and the IDE
+support https://github.com/jetbrains/android # Android Plugin for IntelliJ IDEA. This repository is a subset of https://git.jetbrains.org/?
+p=idea/android.git cut according to GitHub file size limitations. https://github.com/jetbrains/js-graphql-intellij-plugin # GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based
+on the IntelliJ Platform. https://github.com/jetbrains/grammar-kit # Grammar files support & parser/PSI generation for IntelliJ IDEA
+https://github.com/jetbrains/arend # The Arend Proof Assistant
+https://github.com/jetbrains/jewel # An implementation of the IntelliJ look and feels in Compose for Desktop
+https://github.com/jetbrains/markdown # Markdown parser written in kotlin
+https://github.com/jetbrains/jediterm # Pure Java Terminal Emulator. Works with SSH and PTY.
+https://github.com/jetbrains/lincheck # Framework for testing concurrent data structures
+https://github.com/jetbrains/intellij-micropython # Plugin for MicroPython devices in PyCharm and IntelliJ
+https://github.com/jetbrains/colorschemetool #
+https://github.com/jetbrains/kotlin-playground # Self-contained component to embed in websites for running Kotlin code
+https://github.com/jetbrains/compose-multiplatform-desktop-template # Compose Multiplatform Desktop Application project template
+https://github.com/jetbrains/lets-plot-kotlin # Grammar of Graphics for Kotlin
+https://github.com/jetbrains/java-annotations # Annotations for JVM-based languages.
+https://github.com/jetbrains/qodana # 📝 Source repository of Qodana Help
+https://github.com/jetbrains/phpstorm-attributes # PhpStorm specific attributes
+https://github.com/jetbrains/rd # Reactive Distributed communication framework for .NET, Kotlin, C++. Inspired by Rider IDE.
+https://github.com/jetbrains/godot-support #
+https://github.com/jetbrains/pty4j # Pty for Java
+https://github.com/jetbrains/resharper-fsharp # F# support in JetBrains Rider
+https://github.com/jetbrains/phpstorm-workshop # Code for the PhpStorm workshop
+https://github.com/jetbrains/web-types # JSON standard for documenting web component libraries for IDEs, documentation generators a
+nd other tools https://github.com/jetbrains/awesome-pycharm # A curated list of resources for learning and using PyCharm, a Python IDE from JetBra
+ins https://github.com/jetbrains/gradle-changelog-plugin # Plugin for parsing and managing the Changelog in a "keep a changelog" style.
+https://github.com/jetbrains/youtrack-mobile # A iOS and Android client for YouTrack
+https://github.com/jetbrains/qodana-action # ⚙️ Scan your Go, Java, Kotlin, PHP, Python, JavaScript, TypeScript, .NET projects at Gi
+tHub with Qodana. This repository contains Qodana for Azure, GitHub, CircleCI and Gradle https://github.com/jetbrains/meta-runner-power-pack # A set of Meta-runners for TeamCity
+https://github.com/jetbrains/inspection-plugin # Gradle plugin to launch IDEA inspections
+https://github.com/jetbrains/ideolog # Interactive viewer for '.log' files.
+https://github.com/jetbrains/jcef # A simple framework for embedding Chromium-based browsers into Java-based applications.
+https://github.com/jetbrains/kotlin-compiler-server # Server for executing kotlin code
+https://github.com/jetbrains/gradle-idea-ext-plugin # Plugin to store IJ settings in gradle script
+https://github.com/jetbrains/resharper-rider-samples # Simple interactive exercises to help learn ReSharper and Rider
+https://github.com/jetbrains/php-timeline # Notable events of PHP history
+https://github.com/jetbrains/la-clojure # Clojure plugin for IntelliJ IDEA
+https://github.com/jetbrains/youtrack-workflows # YouTrack Custom Workflow Repository
+https://github.com/jetbrains/pest-intellij # The official Pest Plugin for PhpStorm / IntelliJ IDEA
+https://github.com/jetbrains/psiviewer # PSI Viewer for IntelliJ IDEA plugin development
+https://github.com/jetbrains/intellij-plugin-verifier # Compatibility verification tool for IntelliJ Platform plugins
+https://github.com/jetbrains/rider-efcore # Entity Framework Core UI plugin for JetBrains Rider
+https://github.com/jetbrains/svg-mixer # Node.js toolset for generating & transforming SVG images and sprites in modern way
+https://github.com/jetbrains/phpstorm-docker-images # Pre-configured Docker images used by PhpStorm team
+https://github.com/jetbrains/resharper-rider-plugin # https://www.jetbrains.com/help/resharper/sdk/
+https://github.com/jetbrains/qodana-cli # 🔧 JetBrains Qodana’s official command line tool
+https://github.com/jetbrains/intellij-samples # Code that demonstrates various IntelliJ IDEA features
+https://github.com/jetbrains/teamcity-docker-samples # TeamCity docker compose samples
+https://github.com/jetbrains/educational-plugin # Educational plugin to learn and teach programming languages such as Kotlin, Java,
+Python, JavaScript, and others right inside of JetBrains IntelliJ Platform based IDEs. https://github.com/jetbrains/ruby-type-inference # Dynamic definitions and types provider for ruby static analysis
+https://github.com/jetbrains/teamcity-messages # Python Unit Test Reporting to TeamCity
+https://github.com/jetbrains/clion-remote #
+https://github.com/jetbrains/youtracksharp # .NET Standard 2.0 Library to access YouTrack API.
+https://github.com/jetbrains/resharper-angularjs # ReSharper plugin for AngularJS support
+https://github.com/jetbrains/lets-plot-skia # Skia frontend for Lets-Plot multiplatform plotting library.
+https://github.com/jetbrains/unreallink #
+https://github.com/jetbrains/phpstorm-phpstan-plugin # PHPStan plugin for PhpStorm
+https://github.com/jetbrains/jb-rpd-splash # Generate artwork for JetBrains products using RPD
+https://github.com/jetbrains/http-request-in-editor-spec # HTTP Request in Editor Specification
+https://github.com/jetbrains/phpstorm-psalm-plugin # Psalm plugin for PhpStorm
+https://github.com/jetbrains/origami # Code2Art: Branded Animation Generator
+https://github.com/jetbrains/resharper-cyclomatic-complexity # ReSharper plugin to measure cyclomatic complexity as you type
+https://github.com/jetbrains/toolbox-browser-extension # JetBrains Toolbox App browser extension
+https://github.com/jetbrains/ridersourcecodeaccess # Plugin for UE4 to user Rider for Unreal Engine as code editor
+https://github.com/jetbrains/intellij-ui-test-robot # The library allows you to write and execute UI tests among IntelliJ IDEA. You
+can test your Plugin. https://github.com/jetbrains/teamcity-docker-images # TeamCity docker images
+https://github.com/jetbrains/sbt-idea-plugin # Develop IntelliJ plugins with Scala and SBT
+https://github.com/jetbrains/intellij-scala-bundle # IntelliJ Scala Bundle - get started with Scala in a single click!
+https://github.com/jetbrains/kotlin-multiplatform-dev-docs # Kotlin Multiplatfom development documentation
+https://github.com/jetbrains/teamcity-dotnet-plugin # TeamCity plugin for .NET projects
+https://github.com/jetbrains/intellij-arend # Arend plugin for IntelliJ IDEA
+https://github.com/jetbrains/gradle-grammar-kit-plugin # Gradle plugin for generating lexers (with JFlex) and BNF parsers (with Gra
+mmar-Kit) for IntelliJ language plugins https://github.com/jetbrains/open-radiant # JetBrains Branded Art Generator
+https://github.com/jetbrains/xodus-dnq # Data definition and queries Kotlin DSL over Xodus
+https://github.com/jetbrains/mps-extensions # MPS-extensions aims to ease language development within MPS.
+https://github.com/jetbrains/teamcity-unity-plugin # TeamCity plugin supports building Unity projects
+https://github.com/jetbrains/externalannotations # JetBrains ReSharper External Annotations
+https://github.com/jetbrains/arend-lib #
+https://github.com/jetbrains/jetcheck # Property-based test framework
+https://github.com/jetbrains/commit-status-publisher # TeamCity commit status publisher
+https://github.com/jetbrains/teamcity-docker-agent # TeamCity agent docker image sources
+https://github.com/jetbrains/intellij-coverage # IntelliJ IDEA code coverage agent
+https://github.com/jetbrains/teamcity-rest-client # Client for TeamCity REST API written in Kotlin
+https://github.com/jetbrains/teamcity-docker-server # TeamCity server docker image sources
+https://github.com/jetbrains/jetpad-projectional-open-source # jetpad-projectional
+https://github.com/jetbrains/runas # The tool to run command under a specified user account on Windows.
+https://github.com/jetbrains/sbt-structure # SBT plugin to collect information about project structure
+https://github.com/jetbrains/refasmer # The tool to create reference assembly from common assembly.
+https://github.com/jetbrains/mnemonics # Source code for mnemonic template generators for ReSharper and IDEA
+https://github.com/jetbrains/resharper-devguide # Developer guide for the ReSharper Platform
+https://github.com/jetbrains/writerside-github-action # Writerside curated GitHub Action used to generate the documentation website
+using JetBrains Writerside https://github.com/jetbrains/jsitter # tree-sitter API for JVM
+https://github.com/jetbrains/go-code-samples # Code samples for tutorials published on the GoLand blog
+https://github.com/jetbrains/jpa-buddy-kotlin-entities # This repository shows how to declare Hibernate entities using Kotlin
+https://github.com/jetbrains/sbt-ide-settings # SBT plugin for tweaking various IDE settings
+https://github.com/jetbrains/websandbox # A sandbox library for runnung javascript inside HTML5 sandboxed iframe
+https://github.com/jetbrains/rplugin # R Language support for IntelliJ-based IDEs
+https://github.com/jetbrains/profiler-self-api # The portable version of JetBrains profiler self API for .NET Framework / .NET Core
+/ .NET / .NET Standard https://github.com/jetbrains/react-buddy-ide-toolbox # @react-buddy/ide-toolbox and palette packages
+https://github.com/jetbrains/xodus-entity-browser # Web UI entity browser for xodus database
+https://github.com/jetbrains/clion-custom-defined-compiler-examples # Set of examples how to use CLion with various unsupported com
+pilers using Custom Defined Compiler feature https://github.com/jetbrains/aspire-plugin # .NET Aspire Plugin for JetBrains Rider
+https://github.com/jetbrains/teamcity-kubernetes-plugin # Run TeamCity cloud agents on Kubernetes cluster
+https://github.com/jetbrains/fortea #
+https://github.com/jetbrains/gradle-python-envs # Gradle plugin that automates Python environments creation
+https://github.com/jetbrains/icons # A set of icons used in JetBrains' web applications
+https://github.com/jetbrains/teamcity.sonarqubeplugin # A plugin for TeamCity server allowing you to configure and run SonarQube an
+alysis from the CI https://github.com/jetbrains/dekaf # Java Database Access Layer
+https://github.com/jetbrains/mapper # JetBrains Mapper MVC Framework
+https://github.com/jetbrains/resharper-presentation-assistant # ReSharper extension to show executing commands and keystrokes
+https://github.com/jetbrains/intellij-deps-trove4j # Fork of trove4j (https://bitbucket.org/trove4j/trove) used in IntelliJ Platfor
+m https://github.com/jetbrains/teamcity-azure-agent # TeamCity support for Azure cloud build agents
+https://github.com/jetbrains/space-kotlin-sdk # Kotlin client for JetBrains Space HTTP API
+https://github.com/jetbrains/fleet-plugin-template # Template repository for creating plugins for JetBrains Fleet
+https://github.com/jetbrains/teamcity.servicemessages # .NET library to deal with TeamCity Service messages
+https://github.com/jetbrains/intellij-streamdeck-plugin # An IntelliJ IDE plugin and the paired Stream Deck JS plugin to support de
+veloping with pleasure using Stream Deck https://github.com/jetbrains/teamcity-nuget-support # TeamCity NuGet support
+https://github.com/jetbrains/teamcity-s3-artifact-storage-plugin # TeamCity plugin which allows replacing the TeamCity built-in art
+ifacts storage with AWS S3 https://github.com/jetbrains/exposed-intellij-plugin # Exposed Kotlin ORM framework gradle and intellij plugins
+https://github.com/jetbrains/teamcity-deployer-plugin # Deployer plugin for TeamCity CI server
+https://github.com/jetbrains/skia-pack # Packing Skia builds
+https://github.com/jetbrains/enhancedunrealenginedocumentation #
+https://github.com/jetbrains/fleet-sdk-gradle-plugin # Gradle plugin for building plugins for Fleet IDE
+https://github.com/jetbrains/reading-club # Open paper reading club @ JetBrains
+https://github.com/jetbrains/capture-points # IDEA debugger sample Capture Points
+https://github.com/jetbrains/tinygo-plugin #
+https://github.com/jetbrains/attachme # IntelliJ plugin for auto-attaching the debugger to JVM applications
+https://github.com/jetbrains/cmake-tutorial-sample # Sample project for the "Quick CMake Tutorial" in CLion webhelp
+https://github.com/jetbrains/profiler-api # The portable version of JetBrains profiler API for .NET Framework / .NET Core / .NET /
+.NET Standard / Mono https://github.com/jetbrains/package-search-gradle-plugins # Gradle plugins for Docker, Terraform and Liquibase.
+https://github.com/jetbrains/rsynk # rsync ssh server for JVM in Kotlin
+https://github.com/jetbrains/teamcity-rust-plugin # TeamCity Rust and Cargo plugin
+https://github.com/jetbrains/mps-coderules # Type checking and logical inference for JetBrains MPS
+https://github.com/jetbrains/intellij-log-analyzer # Utility to visualize logs of any JetBrains IDE
+https://github.com/jetbrains/jetbrains.annotations # Annotations to increase the accuracy of JetBrains ReSharper/Rider code inspect
+ions https://github.com/jetbrains/teamcity-csharp-interactive # The cross platform build automation system: C# scripts + powerful API
+https://github.com/jetbrains/teamcity.vstest.testadapter #
+https://github.com/jetbrains/teamcity-cpp # C++ Unit Test Reporting
+https://github.com/jetbrains/email-parser #
+https://github.com/jetbrains/hirschgarten # State-of-the-art Bazel support for IntelliJ IDEA
+https://github.com/jetbrains/sbt-idea-example # SBT based IntellJ plugin template project
+https://github.com/jetbrains/javascript-timeline # Notable events of JavaScript history
+https://github.com/jetbrains/devcontainers-examples #
+https://github.com/jetbrains/teamcity-vscode-extension # TeamCity integration for Visual Studio Code (VS Code)
+https://github.com/jetbrains/logos #
+https://github.com/jetbrains/teamcity-commit-hooks # Plugin for TeamCity simplifying installation of webhooks for repositories in G
+itHub and GitHub Enterprise. https://github.com/jetbrains/teamcity-amazon-ecs-plugin # TeamCity plugin which allows to run build agents on top of AWS ECS cluste
+r. https://github.com/jetbrains/writerside-project-templates # A collection of new project templates for Writerside
+https://github.com/jetbrains/datalore-configs #
+https://github.com/jetbrains/marketplace-makemecoffee-plugin #
+https://github.com/jetbrains/teamcity-hashicorp-vault-plugin # TeamCity plugin to support HashiCorp Vault
+https://github.com/jetbrains/teamcity-azure-active-directory # TeamCity plugin which supports authentication via Microsoft Azure Ac
+tive Directory https://github.com/jetbrains/jps # Gant based build framework + dsl, with declarative project structure definition and automatic In
+telliJ IDEA projects build https://github.com/jetbrains/rider-theme-pack # JetBrains Rider theme pack.
+https://github.com/jetbrains/teamcity-vmware-plugin # Enables Teamcity cloud integration with vCenter and vSphere Hypervisor
+https://github.com/jetbrains/teamcity-docker-minimal-agent # TeamCity minimal agent docker image sources
+https://github.com/jetbrains/teamcity-rest # TeamCity REST API (bundled in TeamCity distribution)
+https://github.com/jetbrains/guide # The JetBrains Guide is a collection of resources for learning JetBrains IDEs.
+https://github.com/jetbrains/debugger-memory-agent #
+https://github.com/jetbrains/intellij-deps-asm # Fork of ASM library used in IntelliJ Platform
+https://github.com/jetbrains/teamcity-runas-plugin # The teamcity-runas plugin to run TeamCity build steps under a specified user a
+ccount on Windows or Linux. https://github.com/jetbrains/teamcity-symbol-server # TeamCity Symbol Server plugin
+https://github.com/jetbrains/eslint-config # JetBrains config for ESLint
+https://github.com/jetbrains/intellij-obsolete-plugins # Plugins which used to be bundled in IntelliJ IDEA but are no longer active
+ly maintained https://github.com/jetbrains/teamcity-documentation # Source repository of TeamCity Help
+https://github.com/jetbrains/jdk-sa-jdwp # Java serviceability agent to jdwp adapter
+https://github.com/jetbrains/space-app-tutorials #
+https://github.com/jetbrains/plugin-repository-rest-client #
+https://github.com/jetbrains/bunches # Set of utils for supporting patchsets branches
+https://github.com/jetbrains/compose-multiplatform-html-library-template # Web application project template (using the Compose HTML
+library) https://github.com/jetbrains/dotmemory-demos # This repository contains a demo application that can be used to demonstrate JetBrain
+s dotMemory and dotMemory Unit. https://github.com/jetbrains/clrstack # Tool for capture stack traces for .NET application.
+https://github.com/jetbrains/teamcity-msbuild-logger # MSBuild logger for TeamCity
+https://github.com/jetbrains/package-search-intellij-plugin # Package Search is an IntelliJ plugin that allows you to search for pa
+ckages from the editor. https://github.com/jetbrains/fbme # IDE for IEC 61499 built on top of JetBrains MPS
+https://github.com/jetbrains/teamcity-sdk-maven-plugin # TeamCity SDK for Maven
+https://github.com/jetbrains/space-dotnet-sdk # The .NET SDK for JetBrains Space is a .NET library to work with the JetBrains Space
+API. https://github.com/jetbrains/teamcity-google-template # Google Cloud DM template to deploy TeamCity in GCP
+https://github.com/jetbrains/intellij-shared-indexes-tool-example #
+https://github.com/jetbrains/space-issues-import # Import issues into JetBrains Space 🚀
+https://github.com/jetbrains/teamcity-achievements # TeamCity achievements plugin
+https://github.com/jetbrains/resharper-xunit-templates # ReSharper Live Templates for xUnit.net
+https://github.com/jetbrains/ztools #
+https://github.com/jetbrains/teamcity-torrent-plugin # Teamcity torrent plugin
+https://github.com/jetbrains/marketplace-zip-signer # Marketplace ZIP Signer tool handles signing and verification of the JetBrains
+plugins. https://github.com/jetbrains/teamcity-google-agent # TeamCity support for Google cloud build agents
+https://github.com/jetbrains/teamcity-webhooks #
+https://github.com/jetbrains/emoji # JetBrains Emoji Library
+https://github.com/jetbrains/ij-perf-report-aggregator #
+https://github.com/jetbrains/intellij-ide-starter #
+https://github.com/jetbrains/habitat-detector # The .NET library to detect OS and process environment
+https://github.com/jetbrains/terraform-provider-teamcity # Terraform Provider for JetBrains TeamCity
+https://github.com/jetbrains/teamcity-azure-storage # TeamCity Azure artifacts storage support plugin
+https://github.com/jetbrains/mps-maven-plugin #
+https://github.com/jetbrains/youtrack-scripting # Issue tracker designed for development teams
+https://github.com/jetbrains/intellij-ipnb # IPython notebook support in IntelliJ
+https://github.com/jetbrains/format-ripper # Library for ELF / Mach-O / Fat-Mach-O / PE / Compound / MSI / DMG formats parsing and
+checking signatures https://github.com/jetbrains/teamcity-bazel-plugin # TeamCity plugin for Bazel build system
+https://github.com/jetbrains/intellij-feature-suggester # IDEA Feature Suggester is an IntelliJ Platform plugin that analyzes your
+actions while coding and suggests IDE actions to make you work more efficiently. https://github.com/jetbrains/tc-sbt-runner # TeamCity plugin makes SBT runner
+https://github.com/jetbrains/jetbrains.envdte #
+https://github.com/jetbrains/teamcity-google-storage # TeamCity Google artifacts storage support plugin
+https://github.com/jetbrains/phpstorm-http-client-tutorial #
+https://github.com/jetbrains/rkernel #
+https://github.com/jetbrains/resharper-ultimate-whatsnew # Code samples to illustrate changes in new ReSharper Ultimate releases
+https://github.com/jetbrains/resharper-inspectcode # C# static analysis on GitHub Actions using JetBrains ReSharper InspectCode.
+https://github.com/jetbrains/intellij-deps-ini4j # Fork of ini4j library with patches needed for IntelliJ IDEA
+https://github.com/jetbrains/lets-plot-compose-demos #
+https://github.com/jetbrains/teamcity-caches-cleanup-plugin # Clean up Maven and Gradle caches to free TeamCity Agent disk space
+https://github.com/jetbrains/resharper-vsix # VSIX and ReSharper integration
+https://github.com/jetbrains/lets-plot-docs #
+https://github.com/jetbrains/resharper-plugins # Various simple plugins for ReSharper
+https://github.com/jetbrains/teamcity-local-cloud # TeamCity plugin that creates a "cloud" on the server's machine using its local
+agents. https://github.com/jetbrains/apple-notary-api-kotlin-client # Apple Notary API client for Kotlin
+https://github.com/jetbrains/ot-coq # ot-coq
+https://github.com/jetbrains/debugger-agent #
+https://github.com/jetbrains/teamcity-aws-codedeploy-plugin # Build runner for deploying application to AWS EC2 and on-premise inst
+ances using AWS CodeDeploy https://github.com/jetbrains/hotspotcrashexaminerplugin # HotSpot Crash Examiner IntelliJ Plugin
+https://github.com/jetbrains/youtrack-issues-list-widget # Hub dashboard widget to display a list of YouTrack issues that match a s
+earch query https://github.com/jetbrains/teamcity-cloudformation-template #
+https://github.com/jetbrains/teamcity-dottrace # TeamCity plugin dotTrace
+https://github.com/jetbrains/qodana-sarif # ☕️ Java library for working with SARIF files by Qodana team
+https://github.com/jetbrains/sbt-tc-logger # SBT plugin generates TeamCity service messages to be used by SBT runner
+https://github.com/jetbrains/p2p-games #
+https://github.com/jetbrains/teamcity-maven-archetypes # Archetypes for Teamcity Plugins
+https://github.com/jetbrains/teamcity-investigations-auto-assigner # Assigns investigations of build failures automatically based o
+n heuristics https://github.com/jetbrains/embeddedprojectjdk # This plugin allows put jdk.table.xml into .idea project folder and commit into VC
+S. If JDK with name from per project jdk.table.xml not found or invalid plugin add it automatically. https://github.com/jetbrains/teamcity-dotnet-samples #
+https://github.com/jetbrains/jpa-buddy-documentation # This repository contains the source code of the JPA Buddy Documentation.
+https://github.com/jetbrains/teamcity-react-demo #
+https://github.com/jetbrains/rules_idea #
+https://github.com/jetbrains/mocha-intellij #
+https://github.com/jetbrains/teamcity-test-metadata-demo # A sample project which shows how to report test metadata/attachments to
+TeamCity 2018.2+ https://github.com/jetbrains/teamcity-powershell # PowerShell support for TeamCity
+https://github.com/jetbrains/.github #
+https://github.com/jetbrains/tfsintegration # Integration with the Team Foundation Server: create/manage TFS workspaces, perform co
+mmon version control operations such as commit, update, and more https://github.com/jetbrains/intellij-stats-collector # Collecting statistics to measure completion sorting quality
+https://github.com/jetbrains/java-mission-control #
+https://github.com/jetbrains/jpa-buddy-spring-boot-restful-crud #
+https://github.com/jetbrains/teamcity-aws-codepipeline-plugin #
+https://github.com/jetbrains/teamcity-sdk-docs # TeamCity SDK Documentation
+https://github.com/jetbrains/cpp-russia-2017-clion #
+https://github.com/jetbrains/stylelint-config # JetBrains Stylelint Config
+https://github.com/jetbrains/jetbrainsruntimeapi #
+https://github.com/jetbrains/qodana-docker # 🐳 Source repository of Qodana Dockerfiles
+https://github.com/jetbrains/fleet-theme-plugin-template #
+https://github.com/jetbrains/hub-pub #
+https://github.com/jetbrains/teamcity-slack-notifier # TeamCity Slack Notifier plugin
+https://github.com/jetbrains/phpstorm-xdebug-validation # PhpStorm Xdebug Validation Script
+https://github.com/jetbrains/hackathon-unchain # Smart dependency analysis tool to facilitate large module-splitting refactorings (
+Dmitry Jemerov) https://github.com/jetbrains/ap-validation #
+https://github.com/jetbrains/youtrack-issue-distribution-report-widget #
+https://github.com/jetbrains/youtrack-demo-app # A Demo App for YouTrack – Powerful project management for all your teams
+https://github.com/jetbrains/build-chain-export # Exports TeamCity build chain graph in various formats (dot, gml, etc)
+https://github.com/jetbrains/jetbrains-books-demos # Public repository containing demo examples corresponding to JetBrains Books
+https://github.com/jetbrains/programmer-games #
+https://github.com/jetbrains/space-slack-unfurls # Link previews between JetBrains Space and Slack
+https://github.com/jetbrains/youtrack-work-item-exporter-widget # A widget that provides an interface for exporting work item data
+from YouTrack. https://github.com/jetbrains/writerside-checker-action #
+https://github.com/jetbrains/space-slack-channel-sync # Space Slack two-way message tunnel
+https://github.com/jetbrains/mps-kotlin-typesystem #
+https://github.com/jetbrains/merge-pull-request-trigger #
+https://github.com/jetbrains/youtrack-streamdeck-plugin #
+https://github.com/jetbrains/teamcity-git # Git VCS Support for TeamCity
+https://github.com/jetbrains/teamcity-gradle #
+https://github.com/jetbrains/youtrack-activities-widget # YouTrack Dashboard widget that displays recent activities feed
+https://github.com/jetbrains/cmake-runner-plugin # CMake support for TeamCity
+https://github.com/jetbrains/teamcity-azure-template # ARM template to deploy TeamCity on Azure
+https://github.com/jetbrains/coverage-report #
+https://github.com/jetbrains/teamcity-build-agents-diff # TeamCity server plugin which allows to compare build agent property sets
+https://github.com/jetbrains/qodana-profiles # 🧰 Code inspection profiles used in Qodana linters
+https://github.com/jetbrains/mps-maven-deployer #
+https://github.com/jetbrains/package-search-api-models #
+
+Infra
+https://github.com/jetbrains-infra/vault-plugin-secrets-kubernetes # Vault secrets manager plugin for kubernetes
+https://github.com/jetbrains-infra/docker-anyconnect-vpn # :closed_lock_with_key: AnyConnect client in a Docker container
+https://github.com/jetbrains-infra/terraform-aws-ecs-cluster # AWS ECS cluster terraform module
+https://github.com/jetbrains-infra/terraform-aws-bastion-host # AWS bastion host
+https://github.com/jetbrains-infra/clickhouse-tasks #
+https://github.com/jetbrains-infra/terraform-aws-vpc-with-private-subnets-and-nat # VPC with public/private subnets with internet a
+ccess over NAT https://github.com/jetbrains-infra/docker-nginx-file-listing #
+https://github.com/jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain # Terraform module to set up an AWS Cognit
+o user pool (Google OAuth + custom domain) https://github.com/jetbrains-infra/docker-nginx-tcp-proxy #
+https://github.com/jetbrains-infra/terraform-aws-nat-instance # Terraform module to create AWS nat instance.
+https://github.com/jetbrains-infra/terraform-aws-spot-fleet # AWS Spot fleet terraform module
+https://github.com/jetbrains-infra/aws-cost #
+https://github.com/jetbrains-infra/terraform-aws-static-website #
+https://github.com/jetbrains-infra/docker-image-packer #
+https://github.com/jetbrains-infra/packer-post-processor-teamcity # Publish IDs of generated images as a build parameters
+https://github.com/jetbrains-infra/packer-post-processor-vsphere-cleanup # Packer plugin for cleanup templates in vsphere
+https://github.com/jetbrains-infra/terraform-aws-elasticsearch # Terraform module to run ElasticSearch cluster
+https://github.com/jetbrains-infra/terraform-aws-s3-bucket-for-logs # Terraform module to create S3 bucket to store service logs
+https://github.com/jetbrains-infra/terraform-aws-ecr # Amazon ECR terraform module
+https://github.com/jetbrains-infra/docker-image-python-centos #
+https://github.com/jetbrains-infra/terraform-aws-rds-mysql # Terraform module to run RDS MySQL instance
+https://github.com/jetbrains-infra/docker-aws-cli #
+https://github.com/jetbrains-infra/terraform-aws-http-lambda # Terraform module to run an HTTP application hosted by the AWS Lambda
+service. https://github.com/jetbrains-infra/terraform-aws-acm-certificate # Terraform module to create TLS certificate in AWS ACM
+https://github.com/jetbrains-infra/docker-nginx-resolver #
+https://github.com/jetbrains-infra/terraform-alb-oidc-auth #
+https://github.com/jetbrains-infra/terraform-aws-s3-bucket-as-readonly-cloudfront-origin # Terraform module to create s3 bucket as
+readonly AWS Cloudfront origin https://github.com/jetbrains-infra/pulumi-aws-lambdaedge # Pulumi ComponentResource for create Lambda@Edge
+https://github.com/jetbrains-infra/terraform-aws-alb # Terraform module to up AWS ALB
+https://github.com/jetbrains-infra/terraform-module-vsphere # Bootup vmware VM with terraform
+https://github.com/jetbrains-infra/terraform-aws-vpc # Terraform module to create empty VPC.
+https://github.com/jetbrains-infra/terraform-module-aws-limits #
+https://github.com/jetbrains-infra/docker-image-golang # Golang + custom build tools
+https://github.com/jetbrains-infra/terraform-aws-lambda-with-http-interface # Terraform module to deploy Lambda function with one h
+ttp endpoint. https://github.com/jetbrains-infra/terraform-examples # Examples of terraform projects
+https://github.com/jetbrains-infra/docker-image-python-ubuntu # Ubunty image with python builded from sources with --enable-optimi
+zations and --with-lto flags https://github.com/jetbrains-infra/terraform-aws-igw # Terraform module to create internet gateway.
+https://github.com/jetbrains-infra/terraform-aws-s3-website # Terraform module to create S3 bucket to host static website
+https://github.com/jetbrains-infra/docker-aws-cli-tools # A swiss knife for various tasks using awscli.
+https://github.com/jetbrains-infra/terraform-aws-basic-user # Terraform module to create IAM user with restricted rights
+https://github.com/jetbrains-infra/stamper # Jetbrains internship project. Service to deploy and to run testing environments
+https://github.com/jetbrains-infra/docker-image-terraform #
+https://github.com/jetbrains-infra/docker-https-redirector #
+https://github.com/jetbrains-infra/docker-rds-dumper #
+https://github.com/jetbrains-infra/terraform-aws-account-settings # Terraform module to setup basic AWS account settings
+https://github.com/jetbrains-infra/terraform-module-asg2tg #
+https://github.com/jetbrains-infra/terraform-aws-lambda-edge-from-disk # Deploy Lambda@Edge from local file
+https://github.com/jetbrains-infra/terraform-aws-nat-gw # Terraform module to create nat gateway.
+https://github.com/jetbrains-infra/terraform-aws-routed-subnet # Terraform module to create network subnet in AWS VPC
+https://github.com/jetbrains-infra/pulumi-aws-acm # Pulumi ComponentResource ACM Certificate with DNS validation
+https://github.com/jetbrains-infra/s3backup #
+https://github.com/jetbrains-infra/pulumi-aws-website # Pulumi ComponentResource for creating CloudFront + S3 websites
+https://github.com/jetbrains-infra/terraform-aws-assume-role-with-trust-to-account # Terraform module to create IAM role with trust
+to specific AWS account https://github.com/jetbrains-infra/docker-openvpn #
+https://github.com/jetbrains-infra/docker-tomcat #
+https://github.com/jetbrains-infra/kubectl # Alpine based kubectl
+https://github.com/jetbrains-infra/blackbox_exporter #
+https://github.com/jetbrains-infra/terraform-aws-alb-host # Terraform module to create target group and corresponding listener rule
+. https://github.com/jetbrains-infra/terraform-space-notifications-slack #
+https://github.com/jetbrains-infra/terraform-aws-oauth-jwt-edge-lambda #
+https://github.com/jetbrains-infra/docker-image-nginx-unit-python # Ubuntu image with nginx unit build from sources with python mod
+ule https://github.com/jetbrains-infra/terraform-space-lambda-python-requests #
+https://github.com/jetbrains-infra/docker-zabbix-agent #
+https://github.com/jetbrains-infra/docker-zabbix-server #
+https://github.com/jetbrains-infra/jq #
+https://github.com/jetbrains-infra/ecs-spot-termination-handler # Monitors AWS for spot termination notices when run on spot instan
+ces and shuts down gracefully https://github.com/jetbrains-infra/silence-checker #
+https://github.com/jetbrains-infra/terraform-space-lambda-cleanup #
+https://github.com/jetbrains-infra/deploy-problem-detector #
+https://github.com/jetbrains-infra/s3_force_replication #
+https://github.com/jetbrains-infra/docker-elk-proxy #
+https://github.com/jetbrains-infra/prometheus-jmx-exporter #
+https://github.com/jetbrains-infra/ecs-task-termination-handler #
+https://github.com/jetbrains-infra/docker-zabbix-proxy #
+https://github.com/jetbrains-infra/cloud-days-infra-example #
+https://github.com/jetbrains-infra/correttowrapper #
+https://github.com/jetbrains-infra/terraform-jetbrains-office-addrs #

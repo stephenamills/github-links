@@ -1,0 +1,199 @@
+https://github.com/jetbrains-research/reflekt # A plugin for Kotlin compiler for compile-time reflection
+https://github.com/jetbrains-research/astminer # A library for mining of path-based representations of code (and more)
+https://github.com/jetbrains-research/kinference # Running ONNX models in vanilla Kotlin
+https://github.com/jetbrains-research/viktor # Efficient f64-only ndarray in Kotlin
+https://github.com/jetbrains-research/anti-copy-paster # A plugin for IntelliJ IDEA for extracting code duplicates into a new metho
+d as soon as they are introduced. https://github.com/jetbrains-research/refactorinsight # An IntelliJ IDEA plugin that detects refactorings in Git commits
+https://github.com/jetbrains-research/code2seq # PyTorch's implementation of the code2seq model.
+https://github.com/jetbrains-research/snakecharm # Plugin for PyCharm / IntelliJ IDEA Platform IDEs which adds support for Snakemak
+e language. https://github.com/jetbrains-research/commit_message_generation # 🌟 replication package for 📜 From Commit Message Generation to H
+istory-Aware Commit Message Completion, ASE 2023 https://github.com/jetbrains-research/psiminer # A Tool for Mining Rich Abstract Syntax Trees from Code
+https://github.com/jetbrains-research/intellijdeodorant # The project is not actively supported.
+https://github.com/jetbrains-research/npy # NPY and NPZ support for the JVM
+https://github.com/jetbrains-research/pynose # A test smell detector for Python.
+https://github.com/jetbrains-research/testspark # TestSpark - a plugin for generating unit tests. TestSpark natively integrates dif
+ferent AI-based test generation tools and techniques in the IDE. Started by SERG TU Delft. Currently under implementation by JetBrains Research (Software Testing Research) for research purposes. https://github.com/jetbrains-research/sosed # Finding similar repositories on GitHub
+https://github.com/jetbrains-research/coqpilot # VSCode extension that is designed to help automate writing of Coq proofs.
+https://github.com/jetbrains-research/pubtrends # Scientific literature explorer. Runs a Pubmed or Semantic Scholar search and allo
+ws user to explore high-level structure of result papers https://github.com/jetbrains-research/bioinf-commons # Bioinformatics library in Kotlin
+https://github.com/jetbrains-research/pubtrends-review # Automatic generation of reviews of scientific papers
+https://github.com/jetbrains-research/buckwheat # A multi-language tokenizer for extracting identifiers from source code.
+https://github.com/jetbrains-research/lupa # A framework for the large scale analysis of programming language usage.
+https://github.com/jetbrains-research/embeddings-for-trees # Set of PyTorch modules for developing and evaluating different algorit
+hms for embedding trees. https://github.com/jetbrains-research/authorship-detection # Evaluation of source authorship attribution tool
+https://github.com/jetbrains-research/sorrel # Plugin for checking license compatibility in IntelliJ IDEA
+https://github.com/jetbrains-research/paddle # Young and dynamic build system for Python
+https://github.com/jetbrains-research/python-change-miner # A tool for mining graph-based change patterns in Python code
+https://github.com/jetbrains-research/lca-baselines # Baselines for all tasks from Long Code Arena benchmarks 🏟️
+https://github.com/jetbrains-research/iren #
+https://github.com/jetbrains-research/matroskin # A library for the large scale analysis of Jupyter notebooks
+https://github.com/jetbrains-research/bumblebee # An IntelliJ-based IDE plugin for Python AST transformations
+https://github.com/jetbrains-research/kotlinrminer # Detects performed refactorings in the changes in Kotlin code
+https://github.com/jetbrains-research/adhd-study #
+https://github.com/jetbrains-research/tnm #
+https://github.com/jetbrains-research/big # BigWIG, BigBED and TDF for the JVM
+https://github.com/jetbrains-research/codegen-metrics # Replication package for evaluation of code generation metrics
+https://github.com/jetbrains-research/jbr # JBR Genome Browser
+https://github.com/jetbrains-research/cfpq-on-gpgpu #
+https://github.com/jetbrains-research/gorshochek # [WIP] A tool for C++ code modification to augment data for clone detection tools
+https://github.com/jetbrains-research/hldiff # Language-independent high-level differencing tool
+https://github.com/jetbrains-research/data-driven-type-migration # An IntelliJ IDEA plugin improving type migration refactoring usi
+ng inferred type conversion rules https://github.com/jetbrains-research/span # SPAN Semi-supervised Peak Analyzer
+https://github.com/jetbrains-research/revizor # A data-driven PyCharm plugin for code enhancement using graph patterns.
+https://github.com/jetbrains-research/task-tracker-plugin #
+https://github.com/jetbrains-research/kotlin-code-anomaly # Code anomaly detection in Kotlin compiler
+https://github.com/jetbrains-research/batcore # Baselines and testing framework for code reviewer recommendation
+https://github.com/jetbrains-research/task-tracker-post-processing #
+https://github.com/jetbrains-research/cofra # A CFL-r-based static analyser
+https://github.com/jetbrains-research/code-completion-benchmark-toolkit # IntelliJ Code Completion Benchmarking Toolkit
+https://github.com/jetbrains-research/fine-tuning-ml-models #
+https://github.com/jetbrains-research/code-summarization-dataset #
+https://github.com/jetbrains-research/bitcode-tools # Gradle tools to analyze bitcode of a Kotlin/Native project
+https://github.com/jetbrains-research/python-ml-type-hints #
+https://github.com/jetbrains-research/verified-cogen # Repo for PLAN's verified code generation project
+https://github.com/jetbrains-research/planning-library # 🌟 library with planning algorithms for AI Agents
+https://github.com/jetbrains-research/litmuskt # Litmus testing tool for Kotlin/Native (WIP)
+https://github.com/jetbrains-research/depminer #
+https://github.com/jetbrains-research/kinference-primitives #
+https://github.com/jetbrains-research/sc-atacseq-explorer # Single cell ATAC-Seq preprocessing for single cell explorer
+https://github.com/jetbrains-research/bus-factor-explorer # A web app for exploring Bus Factor of GitHub projects by analyzing the
+commit history. https://github.com/jetbrains-research/resplit # An algorithm that re-splits Jupyter notebooks by merging and splitting their cells.
+https://github.com/jetbrains-research/code-quality-ij-server #
+https://github.com/jetbrains-research/code-changes-clustering #
+https://github.com/jetbrains-research/scasat-smk-pipeline # Single cell ATAC-Seq Snakemake pipeline
+https://github.com/jetbrains-research/docs-fine-tuning #
+https://github.com/jetbrains-research/topias # IntelliJ plugin for visualization of VCS changes statistics.
+https://github.com/jetbrains-research/refactoring-workshop-demo #
+https://github.com/jetbrains-research/contrastive-learning-framework #
+https://github.com/jetbrains-research/ai-agents-code-editing # Exploring context retrieval strategies for code editing
+https://github.com/jetbrains-research/similar-python-dependencies # Analyzing dependencies in Python projects and their dynamics
+https://github.com/jetbrains-research/file-importance # ICTL + BILSEN project on using file importance in risk assessment
+https://github.com/jetbrains-research/louvain # Louvain method for community detection, implemented in Kotlin
+https://github.com/jetbrains-research/cncourse # Materials for Computational Neuroscience Course 2020
+https://github.com/jetbrains-research/overcoming #
+https://github.com/jetbrains-research/tasktracker-3 #
+https://github.com/jetbrains-research/bugs-classification #
+https://github.com/jetbrains-research/mr-loader #
+https://github.com/jetbrains-research/nn-design-smells #
+https://github.com/jetbrains-research/humaneval-dafny # Translating humaneval into dafny
+https://github.com/jetbrains-research/kotlinmemorymodelresearch #
+https://github.com/jetbrains-research/chipseq-smk-pipeline # ChIP-Seq processing pipeline on snakemake
+https://github.com/jetbrains-research/extract-method-experiments #
+https://github.com/jetbrains-research/plugin-utilities # Repository for utilities to create and test IntelliJ plugins
+https://github.com/jetbrains-research/lumberjack # Exploring automated BPE-like approaches to reduce the size of parse-trees
+https://github.com/jetbrains-research/linktracker #
+https://github.com/jetbrains-research/keeps # Repo for Kotlin KEEPs by PLAN
+https://github.com/jetbrains-research/agents-eval #
+https://github.com/jetbrains-research/feature-recommendations #
+https://github.com/jetbrains-research/topic-dynamics #
+https://github.com/jetbrains-research/kinference-compiler # Build ONNX models in compile-time
+https://github.com/jetbrains-research/fishbone # Fishbone Ishikawa diagrams construction and visualising
+https://github.com/jetbrains-research/mads # Multi-Agent Dynamic Simulation framework
+https://github.com/jetbrains-research/commentupdater # A plugin for IntelliJ IDEA that detects outdated comments in Java code
+https://github.com/jetbrains-research/am # alias matching toolkit
+https://github.com/jetbrains-research/tag-prediction #
+https://github.com/jetbrains-research/effective-inference #
+https://github.com/jetbrains-research/bio-docker-images # Repository of Docker images used by JetBrains Research Biolabs
+https://github.com/jetbrains-research/optimization-methods #
+https://github.com/jetbrains-research/topvis #
+https://github.com/jetbrains-research/llm-guide-refactorings #
+https://github.com/jetbrains-research/lca-solvers #
+https://github.com/jetbrains-research/embeddings-for-code-diffs # Machine learning models to build embeddings of code changes
+https://github.com/jetbrains-research/ai-agents-papers # 🤖📜 AI Agents & Planning papers hub
+https://github.com/jetbrains-research/bf-core # Kotlin library for bus factor calculation.
+https://github.com/jetbrains-research/plot2code #
+https://github.com/jetbrains-research/ai4code-kaggle # https://www.kaggle.com/competitions/AI4Code
+https://github.com/jetbrains-research/vcs-agent # An AI agent for git including a data miner for extracting git scenarios from repo
+sitories and novel dataset defining such scenarios. https://github.com/jetbrains-research/codeformer #
+https://github.com/jetbrains-research/bus-factor-plugin #
+https://github.com/jetbrains-research/ide-workshop-tutorial # Demo plugin for IDE workshop
+https://github.com/jetbrains-research/biolabs-web # Web resources for BioLabs
+https://github.com/jetbrains-research/relevant-tasks-search # [WIP] Searching for relevant tasks on Stepik and Hyperskill platforms
+https://github.com/jetbrains-research/movemethodgenerator #
+https://github.com/jetbrains-research/jupyter-python-clones #
+https://github.com/jetbrains-research/on-device-agents #
+https://github.com/jetbrains-research/cd38-in-cd8-cd4-naive-cytek #
+https://github.com/jetbrains-research/nagini-convertion #
+https://github.com/jetbrains-research/sysbio-workshop # Systems biology workshops materials by JetBrains Research Biolabs
+https://github.com/jetbrains-research/bcnnm-organoids #
+https://github.com/jetbrains-research/codegen-metrics-pip # Pip package for computation of code generation metrics
+https://github.com/jetbrains-research/graphvarminer #
+https://github.com/jetbrains-research/bf-vis # ICTL + BILKENT: bus factor visualization
+https://github.com/jetbrains-research/llm-integration-plugin-template #
+https://github.com/jetbrains-research/humaneval-nagini # examples from HumanEval translated to Nagini
+https://github.com/jetbrains-research/galaxy-applications # Galaxy wrappers for applications by JetBrains Research Biolabs
+https://github.com/jetbrains-research/task-tracker-server # A server for the Coding Assistant project
+https://github.com/jetbrains-research/jpt-nb-data-driven-hyperparams #
+https://github.com/jetbrains-research/topvis-plugin # IJ plugin for code topic visualization
+https://github.com/jetbrains-research/anns_wrapper #
+https://github.com/jetbrains-research/pubtrends-clustering # The source code for PubTrends topics optimization
+https://github.com/jetbrains-research/jb-rsch-4744-xkuyax # jb-rsch-4744-xkuyax created by GitHub Classroom
+https://github.com/jetbrains-research/lama-lsp #
+https://github.com/jetbrains-research/dataset-anonymizer # An IntelliJ-based IDE plugin for code anonymization in datasets
+https://github.com/jetbrains-research/methodupdateminer # A plugin for IntelliJ IDEA that detects outdated comments in Java code
+https://github.com/jetbrains-research/replication-origins-project # IB 2021 Spring Student Project
+https://github.com/jetbrains-research/jb-rsch-4744-23jura23 # jb-rsch-4744-23jura23 created by GitHub Classroom
+https://github.com/jetbrains-research/kotlin-refactoring-samples #
+https://github.com/jetbrains-research/code-completion-right-context #
+https://github.com/jetbrains-research/jb-rsch-4744-fedorchuck # jb-rsch-4744-fedorchuck created by GitHub Classroom
+https://github.com/jetbrains-research/jb-rsch-4744-deviaan # jb-rsch-4744-deviaan created by GitHub Classroom
+https://github.com/jetbrains-research/jb-rsch-4744-gdpotter # jb-rsch-4744-gdpotter created by GitHub Classroom
+https://github.com/jetbrains-research/span-analysis # Datasets analysis and comparison scripts for SPAN semi-supervised peak analyz
+er https://github.com/jetbrains-research/replacewith #
+https://github.com/jetbrains-research/chipseq-smk-pipeline-edu # A simple pipeline for educational purposes
+https://github.com/jetbrains-research/code_diff #
+https://github.com/jetbrains-research/jb-rsch-4744-cleomargigolette # jb-rsch-4744-cleomargigolette created by GitHub Classroom
+https://github.com/jetbrains-research/kotlin-code-smells-detector #
+https://github.com/jetbrains-research/codescope #
+https://github.com/jetbrains-research/ideformer #
+https://github.com/jetbrains-research/ideformer-plugin #
+https://github.com/jetbrains-research/comment-updating # [WIP] Generating automated updates of outdated comments
+https://github.com/jetbrains-research/stepik-comment-analysis # [WIP] Comment analysis for Stepik and Hyperskill.
+https://github.com/jetbrains-research/notebook-llm-agents #
+https://github.com/jetbrains-research/jb-rsch-4744-pigeon-barry # jb-rsch-4744-Pigeon-Barry created by GitHub Classroom
+https://github.com/jetbrains-research/washu # Reproducible and scalable technical pipelines for ChIP-Seq and RNA-Seq processing
+https://github.com/jetbrains-research/aging-wgbs-gwas # GWAS preprocessing
+https://github.com/jetbrains-research/plugin-utilies-mock-data # Mock data to test plugins
+https://github.com/jetbrains-research/actions_llm_poc #
+https://github.com/jetbrains-research/jb-rsch-4744-budgiewatts # jb-rsch-4744-BudgieWatts created by GitHub Classroom
+https://github.com/jetbrains-research/extract-method #
+https://github.com/jetbrains-research/kachalka # A set of Python and Kotlin utilities to download and process data from GitHub
+https://github.com/jetbrains-research/interactive_lm #
+
+https://github.com/vorpal-research/kex # A platform for analysis of Java bytecode
+https://github.com/vorpal-research/kfg # Library for building CFG for Java bytecode
+https://github.com/vorpal-research/kotoed #
+https://github.com/vorpal-research/kotlin-pandoc # Writing Pandoc https://pandoc.org/ scripts in a more human-oriented language
+https://github.com/vorpal-research/grammar-converter # Convert ANTLR4 .g4 grammar into ebnf/markdown
+https://github.com/vorpal-research/borealis #
+https://github.com/vorpal-research/ktuples # Tuple types for kotlin
+https://github.com/vorpal-research/bbf # Kotlin compiler fuzzer and reduktor
+https://github.com/vorpal-research/psicreator #
+https://github.com/vorpal-research/kotlin-wheels # Just a random kotlin util collection
+https://github.com/vorpal-research/logickt # Toy logic engine based in [miniKanren](http://minikanren.org)
+https://github.com/vorpal-research/symkt # Playing around with symbolic arithmetics in kotlin
+https://github.com/vorpal-research/kex-intrinsics #
+https://github.com/vorpal-research/kcheck # Random data generation lib
+https://github.com/vorpal-research/archlinux-maven-postgresql #
+https://github.com/vorpal-research/javaboolector #
+https://github.com/vorpal-research/buildbot-dynamic #
+https://github.com/vorpal-research/kotoed-buildbot-deploy #
+https://github.com/vorpal-research/libsl #
+https://github.com/vorpal-research/simple-diagrammer # A simple library that turns ascii diagrams into images
+https://github.com/vorpal-research/kotlin-maven # Umbrella repo for maven packages
+https://github.com/vorpal-research/kex-dockerfile # Docker image for Kex
+https://github.com/vorpal-research/vscode-kotlin-syntax # WIP
+https://github.com/vorpal-research/jackson-module-ktuples #
+https://github.com/vorpal-research/memorypool # Fork of https://github.com/cacay/MemoryPool
+https://github.com/vorpal-research/kotlin4jitpack #
+https://github.com/vorpal-research/kparsec # Parser combinator library written entirely in Kotlin
+https://github.com/vorpal-research/functional-hell # TBD
+https://github.com/vorpal-research/leveldb-mp #
+https://github.com/vorpal-research/kotoed-docker #
+https://github.com/vorpal-research/borealis-dockerfile #
+https://github.com/vorpal-research/kotlin-type-classes # Simple dynamic type class support for kotlin
+https://github.com/vorpal-research/iterations # Simple interface to write STL-compatible iterators fast + a set of those iterators
+https://github.com/vorpal-research/log4cpp #
+https://github.com/vorpal-research/kotlinx-warnings #
+https://github.com/vorpal-research/kootstrap #
+https://github.com/vorpal-research/typesig # A simple library for providing a readable name for compile-time type (say, a template parameter) in runtime. Tested on gcc 4.3-4.9, clang 3.0+, vs2013. https://github.com/vorpal-research/kotoed-update #

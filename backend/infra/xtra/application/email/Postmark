@@ -1,0 +1,42 @@
+https://github.com/activecampaign/postmark-templates # Rock-solid transactional email templates for applications.
+https://github.com/activecampaign/mailmason # A complete toolset to streamline building and updating a set of consistent transa
+ctional emails. https://github.com/activecampaign/postmark-rails # Official integration library for using Rails and ActionMailer with the Postm
+ark HTTP API https://github.com/activecampaign/postmark.js # Official Node.js library for the Postmark API
+https://github.com/activecampaign/postmark-gem # Official Ruby client library for the Postmark HTTP API
+https://github.com/activecampaign/mustachio # Lightweight, powerful, flavorful, template engine.
+https://github.com/activecampaign/postmark-php # The official PHP library for Postmark.
+https://github.com/activecampaign/pactmaker # Starter workflow for creating electronically signed PDF agreements.
+https://github.com/activecampaign/activecampaign-api-php #
+https://github.com/activecampaign/postmark-cli # The official CLI tool for Postmark
+https://github.com/activecampaign/style-merge # Simple CSS inlining, for email.
+https://github.com/activecampaign/mailhandler # Simple lightweight mail library which allows you to send and retrieve emails, a
+nd get more details about email sending and delivery https://github.com/activecampaign/swiftmailer-postmark # The Official Swiftmailer Transport for Postmark.
+https://github.com/activecampaign/smtp-field-manual # A collection of raw STMP server responses from major email service provid
+ers and spam filter services. https://github.com/activecampaign/postmark-dotnet # A .NET library for the Postmark API
+https://github.com/activecampaign/activecampaign-api-nodejs # Node.js wrapper for the ActiveCampaign API
+https://github.com/activecampaign/postmark-java # Official Java client library for the Postmark HTTP API
+https://github.com/activecampaign/mailbrush # Node.js library for generating email friendly snippets with syntax highlighting
+https://github.com/activecampaign/postmark_webhooks # Lightweight quickstart app for receiving and processing webhooks from Pos
+tmark https://github.com/activecampaign/laravel-postmark-provider # A Postmark adapter for Laravel 5+
+https://github.com/activecampaign/postmark-nodemailer # Using Postmark to send transactional emails through nodemailer
+https://github.com/activecampaign/postmark-wordpress # The Official Postmark Wordpress Plugin
+https://github.com/activecampaign/postmark-firebase # Postmark + Firebase + Cloud Functions Tutorial
+https://github.com/activecampaign/craft3-donottrack # Craft 3 plugin for respecting Do Not Track headers sent by browsers.
+https://github.com/activecampaign/module-integration #
+https://github.com/activecampaign/example-sso_embed # Use SSO to link users to ActiveCampaign (bypassing the login), or embed a
+s an iFrame. https://github.com/activecampaign/example-subscription_form_embed # ActiveCampaign Subscription Form API Script: Embed and cust
+omize your forms on any site. https://github.com/activecampaign/postmark-coldfusion # ColdFusion library for sending emails through Postmark - http://postmar
+kapp.com https://github.com/activecampaign/example-rest_hooks # Interact and manage ActiveCampaign webhooks via our REST API.
+https://github.com/activecampaign/example-add_subscriber_send_instant # Add a subscriber and trigger instant responders to send
+. https://github.com/activecampaign/inbound-demo-rails # Demo showing how to use Postmark’s inbound email processing in a Rails a
+pp. https://github.com/activecampaign/aws-ssh-helper # Generates SSH configuration from EC2 metadata
+https://github.com/activecampaign/example-reseller_account_manage # ActiveCampaign Reseller Account Custom API Script: Add acco
+unt, template, generate log-in link, and more. https://github.com/activecampaign/fakebounce # bounce generating tool
+https://github.com/activecampaign/fakemail #
+https://github.com/activecampaign/qa-configurator # simple configuration tool
+https://github.com/activecampaign/example-recent_campaigns_rss # Recent Campaigns formatted as RSS.
+https://github.com/activecampaign/craft-customerio # Craft CMS plugin for pushing newsletter subscribers to Customer.io
+https://github.com/activecampaign/grunt-postmark # Send emails through Postmark using GruntJS.
+https://github.com/activecampaign/example-view_contact_details # View a contact's details including list subscriptions, custom
+field data, recent actions, and campaign history https://github.com/activecampaign/mailer_demo #
+https://github.com/activecampaign/pm-fullstack-test-project-zip #

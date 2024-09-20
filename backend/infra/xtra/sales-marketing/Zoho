@@ -1,14 +1,13 @@
 https://github.com/zohodevelopers/sample_hello_world_widget # Sample Widget for Zoho CRM
 https://github.com/zohodevelopers/zcrm_zbooks_inventory_management #
-https://github.com/zohodevelopers/zoho-sso-sp-with-oauth # A Sample Connected App (in PHP) using Zoho CRM for Single Sign On. Conne
-cted Apps lets third party service integrate with Zoho CRM over SAML 2.0 and OAuth 2.0 frameworks. Create an Extension in Zoho Developer console to get started. https://github.com/zohodevelopers/thirdpartysubscription # Sample implementation for integration any Third Party subscription Servi
-ce with Vertical CRM https://github.com/zohodevelopers/zoho-saml-oauth-java-lib # You can create an extension to provide single sign-on using Zoho CRM t
-o a number of web and mobile applications using SAML and OAuth 2.0 protocols. Read this link to know more about creating a connected application with any third-party web service. You can also configure SSO to any custom php application that you've created and wish to provide them along with the extension bundle.
+https://github.com/zohodevelopers/zoho-sso-sp-with-oauth # A Sample Connected App (in PHP) using Zoho CRM for Single Sign On. Connected Apps lets third party service integrate with Zoho CRM over SAML 2.0 and OAuth 2.0 frameworks. Create an Extension in Zoho Developer console to get started.
+https://github.com/zohodevelopers/thirdpartysubscription # Sample implementation for integration any Third Party subscription Service with Vertical CRM
+https://github.com/zohodevelopers/zoho-saml-oauth-java-lib # You can create an extension to provide single sign-on using Zoho CRM to a number of web and mobile applications using SAML and OAuth 2.0 protocols.
 
-https://github.com/zoho/zcrm-php-sdk # Zoho CRM API SDK is a wrapper to Zoho CRM APIs. By using this sdk, user can build the applic
-ation with ease https://github.com/zoho/zcrm-nodejs-sdk # Node SDK for Zoho CRM
-https://github.com/zoho/zcrm-python-sdk # Python SDK is wrapper for Zoho CRM APIs. By using this SDK, user can build the applicatio
-n with ease https://github.com/zoho/zohocrm-php-sdk # PHP SDK (version 3.x.x and above) for Zoho CRM's v2 REST APIs
+https://github.com/zoho/zcrm-php-sdk # Zoho CRM API SDK is a wrapper to Zoho CRM APIs. By using this sdk, user can build the application with ease
+https://github.com/zoho/zcrm-nodejs-sdk # Node SDK for Zoho CRM
+https://github.com/zoho/zcrm-python-sdk # Python SDK is wrapper for Zoho CRM APIs. By using this SDK, user can build the application with ease
+https://github.com/zoho/zohocrm-php-sdk # PHP SDK (version 3.x.x and above) for Zoho CRM's v2 REST APIs
 https://github.com/zoho/zcrm-js-sdk # JS Sdk for Zoho CRM
 https://github.com/zoho/zohocrm-python-sdk # Python SDK (version 3.x.x and above) for Zoho CRM's v2 REST APIs
 https://github.com/zoho/zohofinance-automation-samples #

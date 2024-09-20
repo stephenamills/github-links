@@ -1,0 +1,75 @@
+https://github.com/sendgrid/sendgrid-nodejs # The Official Twilio SendGrid Led, Community Driven Node.js API Library
+https://github.com/sendgrid/sendgrid-python # The Official Twilio SendGrid Python API Library
+https://github.com/sendgrid/sendgrid-php # The Official Twilio SendGrid PHP API Library
+https://github.com/sendgrid/sendgrid-csharp # The Official Twilio SendGrid C#, .NetStandard, .NetCore API Library
+https://github.com/sendgrid/sendgrid-go # The Official Twilio SendGrid Golang API Library
+https://github.com/sendgrid/email-templates # A repository of common email templates to use and modify to your heart's content.
+https://github.com/sendgrid/sendgrid-ruby # The Official Twilio SendGrid Led, Community Driven Ruby API Library
+https://github.com/sendgrid/sendgrid-java # The Official Twilio SendGrid Led, Community Driven Java API Library
+https://github.com/sendgrid/rest # SendGrid's Golang HTTP Client for calling APIs
+https://github.com/sendgrid/python-http-client # Twilio SendGrid's Python HTTP Client for calling APIs
+https://github.com/sendgrid/php-http-client # SendGrid's PHP HTTP Client for calling APIs
+https://github.com/sendgrid/nodemailer-sendgrid-transport # SendGrid transport for Nodemailer
+https://github.com/sendgrid/smtpapi-php # SendGrid's smtpapi library in PHP
+https://github.com/sendgrid/krampus # The original AWS security enforcer™
+https://github.com/sendgrid/smtpapi-nodejs # SendGrid's smtpapi library in NodeJS
+https://github.com/sendgrid/sendgrid-parse-api-example # Example application using the SendGrid Parse API.
+https://github.com/sendgrid/sendgrid-subscription-widget # A new SendGrid subscription widget that works with existing infrastr
+ucture. https://github.com/sendgrid/go-solr # solr go client from sendgrid, zookeeper aware, incorporates retries
+https://github.com/sendgrid/sendgrid-apex # SendGrid (http://sendgrid.com) Apex helper library.
+https://github.com/sendgrid/opensource # SendGrid Open Source Dashboard
+https://github.com/sendgrid/smtpapi-go # SendGrids smtpapi library in Golang
+https://github.com/sendgrid/sendgrid-php-example # Example of using sendgrid-php library.
+https://github.com/sendgrid/sendgrid-nodejs-example # Example of using sendgrid-nodejs library.
+https://github.com/sendgrid/smtpapi-python # SendGrid's smtpapi library in Python
+https://github.com/sendgrid/go-gmime #
+https://github.com/sendgrid/smtpapi-csharp # SendGrid's smtpapi library in C#
+https://github.com/sendgrid/sendgrid-objc # SendGrid Objective-C helper library
+https://github.com/sendgrid/java-http-client # SendGrid's Java HTTP Client for calling APIs
+https://github.com/sendgrid/csharp-http-client # Twilio SendGrid's C# HTTP Client for calling APIs
+https://github.com/sendgrid/sendgrid-cli # The SendGrid CLI (Command Line Interface) is a tool that helps you to interact with
+SendGrid services from the command line. https://github.com/sendgrid/ruby-http-client # SendGrid's Ruby HTTP Client for calling APIs
+https://github.com/sendgrid/ti.sendgrid # A SendGrid CommonJS module for Titanium
+https://github.com/sendgrid/sendgrid-perl # Perl module for SendGrid's API
+https://github.com/sendgrid/sendgrid-cobol # Official SendGrid library for Cobol
+https://github.com/sendgrid/sendgridjs # Proxy so you can send email via JavaScript through SendGrid.
+https://github.com/sendgrid/dx-automator # A tool for managing priorities across multiple GitHub repositories
+https://github.com/sendgrid/sendgrid-parse-demo # A simple example of a parse webhook endpoint that receives an email, looks at
+the body for an integer, rolls that many dice, and replies to the requester. https://github.com/sendgrid/filegetter # This package is an example implementation referenced in the blog post 'When Writing Un
+it Tests, Don't Use Mocks.' https://github.com/sendgrid/stopwatch # Benchmark your Go code with this utility for keeping track of timing information for d
+ifferent states. https://github.com/sendgrid/aws-env # PUBLIC REPO: Wrapper to export environment variables from AWS Parameter Store
+https://github.com/sendgrid/google-python-sample-app #
+https://github.com/sendgrid/openshift-sendgrid-php # SendGrid integration for RedHat's OpenShift
+https://github.com/sendgrid/sendgrid-google-java #
+https://github.com/sendgrid/uptyped #
+https://github.com/sendgrid/sendgrid-java-example # Example of using sendgrid-java library.
+https://github.com/sendgrid/dx-mobile # A Flutter powered iOS and Android app to help maintainers manage multiple repos on the
+go. https://github.com/sendgrid/smtpapi-java # SendGrid's smtpapi library in Java
+https://github.com/sendgrid/sendgrid-engine-yard-ruby # Example Ruby app that shows how to use SendGrid on EngineYard
+https://github.com/sendgrid/google-java-sample-app #
+https://github.com/sendgrid/smtpapi-objc # Simple Wrapper around SendGrid SMTPAPI Header
+https://github.com/sendgrid/sendgrid-java-sample-app #
+https://github.com/sendgrid/sendgrid-engine-yard-php # A sample app demonstrating how to integrate SendGrid with EngineYard thr
+ough PHP. https://github.com/sendgrid/visual_studio_sdk_sample_app # MSFT SDK for the sample app
+https://github.com/sendgrid/sendgrid-azure-ios # iPhone app which lets a user enter a song into a request queue backed by a sam
+ple Azure app https://github.com/sendgrid/sendgrid-python-django-sample-app #
+https://github.com/sendgrid/google-php-sample-app #
+https://github.com/sendgrid/tagtrics # Easy to use application metrics
+https://github.com/sendgrid/design-primitives # SendGrid design primitives
+https://github.com/sendgrid/martini #
+https://github.com/sendgrid/folly # A folly of a service that just chews up memory and CPU cycles
+https://github.com/sendgrid/reputation #
+https://github.com/sendgrid/gridium # A web automation framework for Selenium and NO Capybara
+https://github.com/sendgrid/sendgrid-rails-sample-app #
+https://github.com/sendgrid/visual_studio_sdk_mail #
+https://github.com/sendgrid/sendgrid-php-sample-app # sendgrid-php-sample-app
+https://github.com/sendgrid/library-automator # For automating v3 endpoints into our 7 libraries
+https://github.com/sendgrid/sherlock #
+https://github.com/sendgrid/justiceengine #
+https://github.com/sendgrid/lambda_cost # A Jupyter Notebook Comparing Lambda and EC2 Costs
+https://github.com/sendgrid/oracle-java-sample-app #
+
+https://github.com/sendgridlabs/loaderio-ruby # ruby client for loader.io api
+https://github.com/sendgridlabs/loaderio-django # Django package for loader.io
+https://github.com/sendgridlabs/loaderio-docs # Docs for loader.io api
+https://github.com/sendgridlabs/loaderio-jenkins-plugin # loaderio jenkins plugin

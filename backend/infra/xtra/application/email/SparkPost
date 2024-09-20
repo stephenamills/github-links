@@ -1,0 +1,81 @@
+https://github.com/sparkpost/heml # HEML is an open source markup language for building responsive email.
+https://github.com/sparkpost/php-sparkpost # SparkPost client library for PHP
+https://github.com/sparkpost/node-sparkpost # SparkPost client library for Node.js
+https://github.com/sparkpost/matchbox # 🔥 A react UI component library
+https://github.com/sparkpost/python-sparkpost # SparkPost client library for Python
+https://github.com/sparkpost/gosparkpost # SparkPost client library for the Go Programming Language
+https://github.com/sparkpost/elixir-sparkpost # SparkPost client library for Elixir https://developers.sparkpost.com
+https://github.com/sparkpost/java-sparkpost # SparkPost client library for Java
+https://github.com/sparkpost/nodemailer-sparkpost-transport # Sparkpost transport for Nodemailer
+https://github.com/sparkpost/pizza-bot # Learn how to order 🍕 from Slack
+https://github.com/sparkpost/wordpress-sparkpost # WordPress plugin to use SparkPost email
+https://github.com/sparkpost/developers.sparkpost.com # SparkPost Developer Site and Documentation
+https://github.com/sparkpost/bouncy-sink # A PMTA-based sink application that does opens, clicks, bounces, OOBs and FBLs
+https://github.com/sparkpost/code-snippets # A repository with helpful programming resources for SparkPost developers.
+https://github.com/sparkpost/gitplus # Generic tools and instructions for making it easier to work with git as a team.
+https://github.com/sparkpost/github-alerts-to-slack # Sends a report of Github security alerts to Slack
+https://github.com/sparkpost/support-docs # SparkPost support articles
+https://github.com/sparkpost/auditmated # Automated npm auditing
+https://github.com/sparkpost/gimli # Gimli is a crash tracing/analysis framework. It is available under a 3-clause BSD style li
+cense. https://github.com/sparkpost/sp-forwarding-service # A small Heroku service that will consume inbound message webhook POSTs and
+forward them through SparkPost. https://github.com/sparkpost/umem # Portable umem Slab allocator
+https://github.com/sparkpost/slack-etiquette # Kind of like Emily Post, but for Slack
+https://github.com/sparkpost/sparkpost-cli # A CLI to perform various tasks using the SparkPost API
+https://github.com/sparkpost/mandrill-sparkpost-templates # Translate Mandrill Handlebars templates into SparkPost templates
+https://github.com/sparkpost/eriksen # A model marshaling library for dual-write/single-read data migration
+https://github.com/sparkpost/template-library # A collection of example email templates for use with SparkPost
+https://github.com/sparkpost/node-sparkpost-cli # A command-line interface to SparkPost.
+https://github.com/sparkpost/elixir-webhook-sample # A report of recipient OS usage from SparkPost click events and the User-Ag
+ent header, with Elixir and Phoenix https://github.com/sparkpost/httpdump # Store HTTP request data, and provide a simple framework for post-processing in parallel
+. https://github.com/sparkpost/sparkpost-csv2tx # BASH script to import a CSV and convert it to a Recipient List and delivery a T
+ransmission with SparkPost. https://github.com/sparkpost/community-bot # A bot for the SparkPost community Slack team
+https://github.com/sparkpost/momentum-documentation # Repository for Momentum Documentation
+https://github.com/sparkpost/csharp # Community-maintained C# SparkPost client library
+https://github.com/sparkpost/event-data # self-hosted message events
+https://github.com/sparkpost/eslint-config-sparkpost # ESLint configuration for Javascript based SparkPost projects
+https://github.com/sparkpost/momentum-scriptlets #
+https://github.com/sparkpost/mbot # our hubot
+https://github.com/sparkpost/sparkyevents-gmail-bounces-dec2020 #
+https://github.com/sparkpost/msys-jlog-tools # Miscellaneous tools for JLog (journalled log) files
+https://github.com/sparkpost/postman-collection # A Postman collection for SparkPost
+https://github.com/sparkpost/sparkybluemix-poc # An example of using Sparkpost.com for sending email via IBM Bluemix PaaS
+https://github.com/sparkpost/campaign-sparkpost # :sparkles: SparkPost email provider for Campaign
+https://github.com/sparkpost/momentum_sample_policy # Example policy for Momentum
+https://github.com/sparkpost/appengine-flexible-python-sample # Sample app using Python, Flask and SparkPost in the Google App
+Engine flexible environment https://github.com/sparkpost/webhook-report-sample # Build a report of recipient OS usage from SparkPost click events and the U
+ser-Agent header https://github.com/sparkpost/puppet-openresty #
+https://github.com/sparkpost/design.sparkpost.com # SparkPost Design Documentation Site
+https://github.com/sparkpost/node-red-contrib-sparkpost # Letting SparkPost go with the flow in node-red
+https://github.com/sparkpost/analyticstakehometest # A place to showcase your abilities
+https://github.com/sparkpost/bower-sinon # Bower repo for Sinon.js
+https://github.com/sparkpost/codeland #
+https://github.com/sparkpost/lua-policies # Example business policies, implemented in the Momentum Business Policy Framework
+https://github.com/sparkpost/events-search-example # Example code for integrating with SparkPost Events Search API
+https://github.com/sparkpost/relaymsgdb # Persist, parse, and present subject lines, organized by sender localpart
+https://github.com/sparkpost/azurefunctionswebhooksdemo # Consume webhooks with Azure Functions
+https://github.com/sparkpost/diyiam # SparkPost Self-Service IAM Tooling
+https://github.com/sparkpost/sendgrid-sparkpost-templates # SendGrid to SparkPost Template Migration Tool
+https://github.com/sparkpost/azure-sparkpost-node-sample # A sample app for Azure platform to send emails through SparkPost
+https://github.com/sparkpost/node-msys-pg # Thin wrapper around pg with promises and connection pooling
+https://github.com/sparkpost/momentum-docs #
+https://github.com/sparkpost/deep-links # Example code for Deep Links / Universal Links
+https://github.com/sparkpost/github-action-tester-python #
+https://github.com/sparkpost/libby-react # A React component development & testing environment
+https://github.com/sparkpost/dataengtakehome #
+https://github.com/sparkpost/sp-bounce-forwarding-service # A small Heroku service that will consume webhook POSTs for out-of-b
+and bounces and forward them through the Transmissions API to a mailbox. https://github.com/sparkpost/temperatures #
+https://github.com/sparkpost/puppet-poedit #
+https://github.com/sparkpost/ecs-code-deploy # CodeDeploy script for ecs blue/green codeDeploys
+https://github.com/sparkpost/freemarker-converter-in-c-sharp # A utility to convert FreeMarker templates to SparkPost templates
+https://github.com/sparkpost/ux-okr-dashboard # Ask #team-ux
+https://github.com/sparkpost/appengine-std-python-sample # Sample app using Python, Flask and SparkPost in the Google App Engin
+e standard environment https://github.com/sparkpost/on-prem-api-documentation-v4.2 # This is a backup copy of the Momentum v4.2 API Documentation.
+https://github.com/sparkpost/template-builder #
+https://github.com/sparkpost/nock-inspector #
+https://github.com/sparkpost/aws # Thin wrappers around the aws-sdk libraries we use.
+https://github.com/sparkpost/fixture-interface # For supplying data to tests
+https://github.com/sparkpost/tf-recreate-assume-role-bug #
+https://github.com/sparkpost/postbin #
+https://github.com/sparkpost/ds_mysql # Mysql-compatible datasource module for Ecelerity
+https://github.com/sparkpost/lambda-request # Request-promise wrapper to set User-Agent data
+https://github.com/sparkpost/matchbox_rails # Matchbox design tokens for Rails applications

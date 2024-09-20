@@ -1,0 +1,49 @@
+https://github.com/mailgun/transactional-email-templates # Responsive transactional HTML email templates
+https://github.com/mailgun/flanker # Python email address and Mime parsing library
+https://github.com/mailgun/talon #
+https://github.com/mailgun/mailgun-php # Mailgun's Official SDK for PHP
+https://github.com/mailgun/mailgun-js-boland # A simple Node.js helper module for Mailgun API.
+https://github.com/mailgun/kafka-pixy # gRPC/REST proxy for Kafka
+https://github.com/mailgun/mailgun-go # Go library for sending mail with the Mailgun API.
+https://github.com/mailgun/mailgun.js # Javascript SDK for Mailgun
+https://github.com/mailgun/groupcache # Clone of golang/groupcache with TTL and Item Removal support
+https://github.com/mailgun/mailgun-ruby # Mailgun's Official Ruby Library
+https://github.com/mailgun/expiringdict # Dictionary with auto-expiring values for caching purposes.
+https://github.com/mailgun/holster # A place to keep useful golang functions and small libraries
+https://github.com/mailgun/validator-demo # Mailgun email address jquery validation plugin http://mailgun.github.io/validator-d
+emo/ https://github.com/mailgun/node-prelaunch # A Mailgun powered landing page to capture early sign ups
+https://github.com/mailgun/dnsq # DNS Query Tool
+https://github.com/mailgun/documentation # Mailgun Documentation
+https://github.com/mailgun/forge # email dataset for email signature parsing
+https://github.com/mailgun/kafka-http # Kafka http endpoint
+https://github.com/mailgun/wordpress-plugin # Mailgun's Wordpress Plugin
+https://github.com/mailgun/lemma # Mailgun Cryptographic Tools
+https://github.com/mailgun/multibuf # Bytes buffer that implements seeking and partially persisting to disk
+https://github.com/mailgun/proxyproto # High performance implementation of V1 and V2 Proxy Protocol
+https://github.com/mailgun/frontend-best-practices # Guides for React and Javascript coding style and best practices
+https://github.com/mailgun/ttlmap # In memory dictionary with TTLs
+https://github.com/mailgun/pong # Generates http servers that respond in predefined manner
+https://github.com/mailgun/log # Go logging library used at Mailgun.
+https://github.com/mailgun/mailgun-java # Java SDK for integrating with Mailgun
+https://github.com/mailgun/timetools # Go library with various time utilities used at Mailgun.
+https://github.com/mailgun/pelican-protocol # In ancient Egypt the pelican was believed to possess the ability to prophesy safe
+passage in the underworld. Pelicans are ferocious eaters of fish. https://github.com/mailgun/metrics # Go library for emitting metrics to StatsD.
+https://github.com/mailgun/sandra # Go library providing some convenience wrappers around gocql.
+https://github.com/mailgun/logrus-hooks #
+https://github.com/mailgun/cfg # Go library for working with app's configuration files used at Mailgun.
+https://github.com/mailgun/iptools # Go library providing utilities for working with hosts' IP addresses.
+https://github.com/mailgun/minheap # Slightly more user-friendly heap on top of containers/heap
+https://github.com/mailgun/pebblezgo # go example of the pebblez transport: protocol buffers over zeromq
+https://github.com/mailgun/glogutils # Utils for working with google logging library
+https://github.com/mailgun/pylemma # Mailgun Cryptographic Tools
+https://github.com/mailgun/callqueue # Serialized call queues
+https://github.com/mailgun/media # Logos and brand guidelines
+https://github.com/mailgun/sneakercopy # A tool for creating encrypted tar archives for transferring sensitive data.
+https://github.com/mailgun/etcd3-slim # Thin wrapper around Etcd3 gRPC stubs
+https://github.com/mailgun/scripts # Example scripts that show how to interact with the Mailgun API
+https://github.com/mailgun/thematrix # Matrix home server written in golang https://matrix.org/docs/spec/
+https://github.com/mailgun/catchall # The Catch All Code Challenge
+https://github.com/mailgun/frontend-challenge-j # Frontend dev challenge using react
+https://github.com/mailgun/errors # A modern error handling package for handling structured errors
+https://github.com/mailgun/fe-dev-challenge-a #
+https://github.com/mailgun/snack-dispenser-bot # Code powering an IoT snack dispenser

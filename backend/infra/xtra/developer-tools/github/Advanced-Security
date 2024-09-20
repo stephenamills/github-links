@@ -1,0 +1,82 @@
+https://github.com/advanced-security/gh-sbom # Generate SBOMs with gh CLI
+https://github.com/advanced-security/secret-scanning-custom-patterns # Examples of Custom Secret Scanning Patterns
+https://github.com/advanced-security/codeql-queries # [Deprecated] GitHub's Field Team's CodeQL Custom Queries, Suites, and Configu
+rations. See GitHubSecurityLab/CodeQL-Community-Packs instead https://github.com/advanced-security/policy-as-code # GitHub Advanced Security Policy as Code
+https://github.com/advanced-security/advanced-security-material #
+https://github.com/advanced-security/maven-dependency-submission-action # GitHub Action for submitting Maven dependencies
+https://github.com/advanced-security/gssar # GitHub Secret Scanning Auto Remediator (GSSAR)
+https://github.com/advanced-security/codeql-extractor-iac # CodeQL Extractor, Library, and Queries for Infrastructure as Code
+https://github.com/advanced-security/ghas-reviewer-app # GitHub Advanced Security Pull Request Security Team required review GitHub
+App https://github.com/advanced-security/ghas-to-csv # Play with GHAS API to provide posture data over time
+https://github.com/advanced-security/gh-code-scanning # A GitHub CLI extension for GitHub Code-Scanning!
+https://github.com/advanced-security/filter-sarif # GitHub Action for filtering Code Scanning alerts by path and id
+https://github.com/advanced-security/codeql-bundle-action # Action to retrofit a CodeQL bundle with additional queries, libraries,
+and customizations https://github.com/advanced-security/probot-security-alerts # Sample GitHub App which monitors and enforces rules for code scanning, Dependabot, and secret scanning alerts https://github.com/advanced-security/gh-codeql-scan # GH CLI CodeQL Scan Extension
+https://github.com/advanced-security/enterprise-security-team # Manage a uniform team of security managers for every organization i
+n your enterprise https://github.com/advanced-security/generate-sbom-action # An Action to wrap creating an SBOM via REST API
+https://github.com/advanced-security/awesome-codeql # A curated list of awesome CodeQL resources.
+https://github.com/advanced-security/sample-codeql-pipeline-config # Integrate CodeQL into CI/CD pipelines, using the CodeQL CLI Bu
+ndle for Automated Code Scanning https://github.com/advanced-security/demo-csharp # GitHub Advanced Security C# Demo Application
+https://github.com/advanced-security/sbom-generator-action #
+https://github.com/advanced-security/codeql-workshops-staging # Original workshops and staging area for new ones
+https://github.com/advanced-security/spdx-dependency-submission-action #
+https://github.com/advanced-security/secret-scanning-review-action # Action to detect if a secret is initially detected in a PR com
+mit https://github.com/advanced-security/dismiss-alerts #
+https://github.com/advanced-security/ghas-license-utilization # Optimize the utilization of GHAS licenses in an enterprise (or orga
+nization) https://github.com/advanced-security/mrva-code-search # Use code search to populate an MRVA repo list in VSCode
+https://github.com/advanced-security/demo-python # GitHub Advanced Security Python Demo Application
+https://github.com/advanced-security/monorepo-filtering-workaround # A monorepo filtering workaround for GitHub Advanced Security C
+ode Scanning using renaming of the scanning tool in an Actions workflow https://github.com/advanced-security/grab_ql # Grab some/all of CodeQL CLI binary, QL library, VSCode starter workspace, VSCode and
+VSCode QL extension https://github.com/advanced-security/set-codeql-language-matrix # Automatically set the CodeQL matrix job using the languages in yo
+ur repository. https://github.com/advanced-security/ghas-bootcamp #
+https://github.com/advanced-security/component-detection-dependency-submission-action #
+https://github.com/advanced-security/demo-java # GitHub Advanced Security scanning tutorial repository for Java
+https://github.com/advanced-security/sarif-viewer # JetBrains IDE plugin for displaying SARIF from GHAS or from a local file
+https://github.com/advanced-security/ghas-workshop #
+https://github.com/advanced-security/ghe-cross-instance-committers # A script which will return the total number of unique de-deupe
+d active committers across multiple GHES instances https://github.com/advanced-security/cbom-action # Create a Crypto Bill of Materials using CodeQL
+https://github.com/advanced-security/awesome-secret-scanning # A curated list of awesome GitHub Advanced Security secret scanning r
+esources. https://github.com/advanced-security/codeql-summarize # CodeQL Summary Generator
+https://github.com/advanced-security/codeql-development-toolkit # The CodeQL Development toolkit is a tool for making common CodeQL
+development workflows easier. https://github.com/advanced-security/codeql-sarif-security-standard-annotator # Compare a CodeQL SARIF results file to a security s
+tandard CWE list and annotate the SARIF rules with a tag to highlight results applicable to the security standard https://github.com/advanced-security/spotbugs-findsecbugs-action # Run SpotBugs with FindSecBugs on Java and other JVM languages (e
+.g. Scala), and upload the results to GitHub Code Scanning https://github.com/advanced-security/codeql-bundle # CLI to build a custom CodeQL bundle
+https://github.com/advanced-security/teams-secret-scanning-notifier-azure-function # Microsoft Teams notifier for Secret Scanning a
+lerts from GitHub Advanced Security, using a GitHub App and Azure Function https://github.com/advanced-security/dart-analyzer-sarif # Convert `dart analyze` CLI output into SARIF
+https://github.com/advanced-security/github-app-auth # Utility to generate tokens to interact with the GitHub API via GitHub App in
+tegration https://github.com/advanced-security/codeql-docker # CodeQL Docker image
+https://github.com/advanced-security/cocoapods-dependency-submission-action # CocoaPods Lockfile Dependency Submission Action
+https://github.com/advanced-security/gh-add-files # A GitHub CLI Extension that allows you to add files to your GitHub repositories
+directly from the command line https://github.com/advanced-security/dependabot-kev-action # Action to detect if any open Dependabot alerts are in the CISA Known E
+xploited Vulnerabilities (KEV) Catalog of CVEs and fail the workflow. https://github.com/advanced-security/sarif-toolkit # All things SARIF, as an Action
+https://github.com/advanced-security/codeql-coding-standards-bundle-releases # CodeQL bundles containing the CodeQL Coding Standard
+s queries https://github.com/advanced-security/remap-sarif # Remap a SARIF file with sourcemaps
+https://github.com/advanced-security/demo-golang #
+https://github.com/advanced-security/brew-dependency-submission-action # Brew Lockfile Dependency Submission Action
+https://github.com/advanced-security/ghas-bootcamp-solutions #
+https://github.com/advanced-security/dependabot-epss-action # Action to detect if any open :dependabot: Dependabot alert CVEs excee
+d an EPSS threshold and fail the workflow. https://github.com/advanced-security/slack-secret-scanning-notifier-azure-function # Slack notifier for Secret Scanning alerts from
+GitHub Advanced Security, using a GitHub App and Azure Function https://github.com/advanced-security/aws-github-boilerplate # A boilerplate for an application reacting to webhooks from GitHub, de
+ployed to AWS. https://github.com/advanced-security/secret-scanning-tools # Testing Suite for GitHub Secret Scanning Custom Patterns
+https://github.com/advanced-security/adjust-cvss #
+https://github.com/advanced-security/delombok # Delombok Java Code for analysis with Code Scanning
+https://github.com/advanced-security/ghas-mttr # GitHub Advanced Security Mean Time to Remediate (MTTR)
+https://github.com/advanced-security/flake8-sarif-formatter # Format Flake8 results as SARIF for input to SAST tools such as GitHub
+Code Scanning https://github.com/advanced-security/crypto-bill-of-materials-data # Generate a Crypto Bill of Materials using CodeQL
+https://github.com/advanced-security/.github # GitHub Advanced Security's Org README
+https://github.com/advanced-security/conda-dependency-submission-action #
+https://github.com/advanced-security/config #
+https://github.com/advanced-security/alert-suppression-queries # CodeQL packs for alert suppression queries for each supported code
+scanning language https://github.com/advanced-security/gh-tailor #
+https://github.com/advanced-security/ghas-bootcamp-query # Example custom query used to demo CodeQL
+https://github.com/advanced-security/secret-scanning-notifications # A GitHub Action that sends email notifications to security man
+ager team for any new or resolved secret scanning alerts based on a set frequency https://github.com/advanced-security/survey-link #
+https://github.com/advanced-security/conan-dependency-submission # Conan Dependency Submission to GitHub
+https://github.com/advanced-security/python-lint-code-scanning-action # Lint and type check Python with your choice of popular lint
+ers, and upload results to GitHub Code Scanning https://github.com/advanced-security/discussions #
+https://github.com/advanced-security/codeql_container_example # This repository serves as an exemplary resource demonstrating how
+to set up CodeQL to scan containerized applications for vulnerabilities. Its primary objective is to showcase the implementation of CodeQL in the code scanning process. https://github.com/advanced-security/reusable-workflows # Advanced Security Reusable GitHub Actions Workflows
+https://github.com/advanced-security/dependabot-version-updates #
+https://github.com/advanced-security/poc-resources #
+https://github.com/advanced-security/awesome-dependabot # A curated list of awesome Dependabot (and related software supply chain)
+resources. https://github.com/advanced-security/demo-catalog # Demonstration Catalog for different Languages and Technologies

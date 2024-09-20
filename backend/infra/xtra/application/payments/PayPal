@@ -1,0 +1,125 @@
+https://github.com/paypal-examples/docs-examples # Examples from the official PayPal Developer Docs
+https://github.com/paypal-examples/vue-integration #
+https://github.com/paypal-examples/youtube # Example code used in the PayPal Developer YouTube Channel
+https://github.com/paypal-examples/applepay # Accept Applepay  and PayPal for web - Beta
+https://github.com/paypal-examples/svelte-paypal-js # Learn how to integrate paypal-js with svelte
+https://github.com/paypal-examples/react-ebook-basic # An Example React App for Selling an E-Book Online
+https://github.com/paypal-examples/paypal-sdk-server-side-integration #
+https://github.com/paypal-examples/fastlane-sample-application # Sample application for Fastlane
+https://github.com/paypal-examples/googlepay #
+https://github.com/paypal-examples/blik # Learn how to accept Blik payments via JavaScript SDK
+https://github.com/paypal-examples/multipage-checkout #
+https://github.com/paypal-examples/react-integration # Example app demonstrating Smart Payment Buttons integration in React
+https://github.com/paypal-examples/giropay # Accept GiroPay & PayPal payments for web
+https://github.com/paypal-examples/mybank # Accept MyBank & PayPal payments for web
+https://github.com/paypal-examples/bancontact # Learn how to accept Bancontact payments via JavaScript SDK
+https://github.com/paypal-examples/ideal # Accept iDEAL & PayPal payments for web
+https://github.com/paypal-examples/paypal-dev-support # Resources and guidance on how to engage with the developer community &
+the PayPal Developer Tools team. https://github.com/paypal-examples/eu-payment-methods # European Payment Methods
+https://github.com/paypal-examples/p24 # Accept P24 & PayPal payments for web
+https://github.com/paypal-examples/styled-hosted-components #
+https://github.com/paypal-examples/eps # Learn how to accept EPS payments via JavaScript SDK
+https://github.com/paypal-examples/mobile-app-web-sdk-integration-example #
+https://github.com/paypal-examples/sofort # Accept Sofort & PayPal payments for web
+https://github.com/paypal-examples/ng-integration #
+https://github.com/paypal-examples/ideal-api-intergration # Learn how to accept iDEAL payments via Paypal's REST API
+https://github.com/paypal-examples/paidy # Accept Paidy and PayPal payments - JavaScript SDK
+https://github.com/paypal-examples/.github # README for PayPal-Examples
+
+https://github.com/paypaldev/paypal-standard-checkout-tutorial # PayPal Standard Checkout Tutorial
+https://github.com/paypaldev/paypal-react-fullstack-standard-checkout-sample # Fullstack application using the React PayPal SDK
+for the frontend and NodeJS for the backend. https://github.com/paypaldev/paypal-javascript-fullstack-standard-checkout-sample # Fullstack application using PayPal SDK for
+the frontend and NodeJS for the backend. https://github.com/paypaldev/paypal-javascript-fullstack-3ds-advanced-checkout-sample # Full stack application with advanced p
+ayment processing using PayPal SDK and 3Ds https://github.com/paypaldev/paypal-advanced-checkout-tutorial # PayPal Advanced Checkout Tutorial
+https://github.com/paypaldev/paypal-javascript-fullstack-advanced-checkout-sample # Full stack application with advanced payme
+nt processing using PayPal SDK https://github.com/paypaldev/paypal-react-fullstack-advanced-checkout-sample # Fullstack application with advanced payment proc
+essing using the React PayPal SDK. https://github.com/paypaldev/paypal-react-donation-sample # A sample app showing PayPal checkout donations
+https://github.com/paypaldev/fastlane_paypal_video_project # Project files that accompany the Fastlane for PayPal video guide (
+using the PayPal integration) - NodeJS project
+
+https://github.com/paypal/junodb # JunoDB is PayPal's home-grown secure, consistent and highly available key-value store provid
+ing low, single digit millisecond, latency at any scale. https://github.com/paypal/squbs # Akka Streams & Akka HTTP for Large-Scale Production Deployments
+https://github.com/paypal/paypal-checkout-components # please submit Issues about the PayPal JS SDK here: https://github.com/pa
+ypal/paypal-js/issues https://github.com/paypal/gatt # Gatt is a Go package for building Bluetooth Low Energy peripherals
+https://github.com/paypal/bootstrap-accessibility-plugin # Accessibility Plugin for Bootstrap 3 and Bootstrap 3 as SubModule
+https://github.com/paypal/aatt # Automated Accessibility Testing Tool
+https://github.com/paypal/data-contract-template # Template for a data contract used in a data mesh.
+https://github.com/paypal/hera # High Efficiency Reliable Access to data stores
+https://github.com/paypal/selion # Enabling Test Automation in Java
+https://github.com/paypal/nemo-core # Selenium-webdriver based automation in node.js
+https://github.com/paypal/gimel # Big Data Processing Framework - Unified Data API or SQL on Any Storage
+https://github.com/paypal/paypal-js # Loading wrapper and TypeScript types for the PayPal JS SDK
+https://github.com/paypal/paypal-rest-api-specifications # This repository contains the specification files for PayPal REST API
+s. https://github.com/paypal/skipto # SkipTo is a replacement for your old classic "Skipnav" link. Once installed on a site, the s
+cript dynamically determines the most important places on the page and presents them to the user in a drop-down menu. https://github.com/paypal/nnanalytics # NameNodeAnalytics is a self-help utility for scouting and maintaining the namespace of
+an HDFS instance. https://github.com/paypal/heap-dump-tool # Tool to sanitize data from Java heap dumps.
+https://github.com/paypal/fullstack-phone # A dual-module phone number system with dynamic regional metadata ☎️
+https://github.com/paypal/paypal-here-sdk-android-distribution # Add credit card (swipe & key-in) capabilities to your Android
+app https://github.com/paypal/paypal-here-sdk-ios-distribution # Add credit card (tap, insert, swipe & key-in) capabilities to your
+iOS app https://github.com/paypal/payflow-gateway # Repository to store the Payflow Gateway and PayPal Payments Pro SDKs.
+https://github.com/paypal/android-checkout-sdk #
+https://github.com/paypal/paypal-android # One merchant integration point for all of PayPal's services
+https://github.com/paypal/paypalcheckout-ios # Need to add Native Checkout to your iOS Application? We can help!
+https://github.com/paypal/paypal-sdk-client # Shared config for PayPal/Braintree client SDKs
+https://github.com/paypal/dce-go # Docker Compose Executor to launch pod of docker containers in Apache Mesos.
+https://github.com/paypal/load-watcher # Load watcher is a cluster-wide aggregator of metrics, developed for Trimaran: Real Loa
+d Aware Scheduler in Kubernetes. https://github.com/paypal/paypal-ios # One merchant integration point for all of PayPal's services
+https://github.com/paypal/gorealis # Version 1 of a Go library for interacting with the Aurora Scheduler
+https://github.com/paypal/payouts-php-sdk # PHP SDK for Payouts RESTful APIs
+https://github.com/paypal/dione # Dione - a Spark and HDFS indexing library
+https://github.com/paypal/paypal-checkout-demo # Demo app for paypal-checkout
+https://github.com/paypal/butterfly # Application transformation tool
+https://github.com/paypal/paypalhttp_php #
+https://github.com/paypal/paypal-messaging-components # PayPal JavaScript SDK - messaging components
+https://github.com/paypal/paypal-sdk-release # Unified SDK wrapper module for tests, shared build config, and deploy
+https://github.com/paypal/payouts-java-sdk # Java SDK for Payouts RESTful APIs
+https://github.com/paypal/mirakl-hyperwallet-connector # The Hyperwallet Mirakl Connector (HMC) is a self-hosted solution that
+mediates between a Mirakl marketplace solution and the Hyperwallet (PayPal) payout platform. https://github.com/paypal/paypal-sdk-constants #
+https://github.com/paypal/nemo-view # View interface for the Nemo automation framework
+https://github.com/paypal/payouts-python-sdk # Python SDK for Payouts RESTful APIs
+https://github.com/paypal/paypal-funding-components # PayPal JavaScript SDK Funding Components
+https://github.com/paypal/payouts-dotnet-sdk # DotNet SDK for Payouts RESTful APIs
+https://github.com/paypal/paypal-card-components # A Hosted Fields component for Payments SDK
+https://github.com/paypal/paypal-common-components # Common components for PayPal JavaScript SDK
+https://github.com/paypal/mocca # Mocca is a GraphQL client for JVM languages with the goal of being easy to use, flexible and
+modular. https://github.com/paypal/paypal-identity-components # Identity components for PayPal SDK
+https://github.com/paypal/paypal-sdk-logos #
+https://github.com/paypal/paypal-example-components # Example component module for a component for unified PayPal/Braintree web
+sdk https://github.com/paypal/integration-packs # A collection of sample references for anyone who wishes to integrate PayPal servi
+ces. https://github.com/paypal/paypal-muse-components #
+https://github.com/paypal/postman-collections # Example Postman collections for PayPal APIs
+https://github.com/paypal/paypalhttp_java #
+https://github.com/paypal/paypal-googlepay-component #
+https://github.com/paypal/paypal-here-sdk-web-distribution # PayPal Here Web SDK
+https://github.com/paypal/paypalhttp_python #
+https://github.com/paypal/gators # Gators is a package to handle model building with big data and fast real-time pre-processing
+, even for a large number of QPS, using only Python. https://github.com/paypal/.github #
+https://github.com/paypal/paypalhttp_ruby #
+https://github.com/paypal/paypal-personalization # PayPal Personalization
+https://github.com/paypal/paypalhttp_node #
+https://github.com/paypal/paypalcheckout-samples-ios # PayPal Native Checkout iOS Samples
+https://github.com/paypal/paypalhttp_dotnet #
+https://github.com/paypal/react-paypal-js # MOVED - This repo has been moved to the paypal-js monorepo: https://github.com/payp
+al/paypal-js https://github.com/paypal/paypal-sdk-e2e-tests # Automation tests for the JS SDK
+https://github.com/paypal/paypal-risk-data-collector #
+https://github.com/paypal/paypal-applepay-components #
+https://github.com/paypal/homebrew-butterfly #
+https://github.com/paypal/paypal-fpti-analytics #
+https://github.com/paypal/paypal-here-ios-instrument-interface #
+https://github.com/paypal/paypal-installments #
+https://github.com/paypal/paypal-sample-merchant-server # A sample merchant server for a BraintreePayPalValidator integration.
+https://github.com/paypal/paypal-sdk-samples # Sample copy/paste-able integrations using the js-sdk
+https://github.com/paypal/paypal-php-server-sdk #
+https://github.com/paypal/selenium-drivex # selenium-webdriver abstractions
+https://github.com/paypal/paypal-typescript-server-sdk #
+https://github.com/paypal/paypal-messages-android # The PayPal Android SDK Messages Module: Promote offers to your customers su
+ch as Pay Later and PayPal Credit. https://github.com/paypal/vscode-paypal #
+https://github.com/paypal/paypal-python-server-sdk #
+https://github.com/paypal/paypal-dotnet-server-sdk #
+https://github.com/paypal/mobile-checkout-docs # PayPal Mobile Checkout SDK Documentation
+https://github.com/paypal/iguanas-docs # Documentation for the Iguanas Project
+https://github.com/paypal/paypal-ruby-server-sdk #
+https://github.com/paypal/nemo-appium # Nemo plugin to start an appium server during nemo startup, kill upon driver.quit
+https://github.com/paypal/paypal-legal-components #
+https://github.com/paypal/paypal-java-server-sdk #
+https://github.com/paypal/paypal-messages-ios #
