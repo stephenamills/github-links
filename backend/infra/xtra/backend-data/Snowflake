@@ -1,0 +1,227 @@
+https://github.com/snowflake-labs/terraform-provider-snowflake # Terraform provider for managing Snowflake accounts
+https://github.com/snowflake-labs/snowflake-arctic #
+https://github.com/snowflake-labs/schemachange # A Database Change Management tool for Snowflake
+https://github.com/snowflake-labs/sfquickstarts # Follow along with our tutorials to get you up and running with the Snowflake Data
+Cloud. https://github.com/snowflake-labs/snowpark-python-demos # This repository provides various demos/examples of using Snowpark for Pyt
+hon. https://github.com/snowflake-labs/awesome-snowflake # A curated list of resources about Snowflake
+https://github.com/snowflake-labs/snowflake-demo-streamlit # This repo contains a collection of Streamlit in Snowflake demos, tutor
+ials, and examples https://github.com/snowflake-labs/dbt_constraints # This package generates database constraints based on the tests in a dbt project
+https://github.com/snowflake-labs/sfguide-frosty-llm-chatbot-on-streamlit-snowflake # An LLM-powered Streamlit chatbot for data exp
+loration and question answering on Snowflake https://github.com/snowflake-labs/snowflake-demo-notebooks # Collection of Snowflake Notebook demos, tutorials, and examples
+https://github.com/snowflake-labs/sf-samples # Sample files, code snippets and downloads for Snowflake labs and tutorials.
+https://github.com/snowflake-labs/sfguide-data-engineering-with-snowpark-python #
+https://github.com/snowflake-labs/sansshell # A non-interactive daemon for host management
+https://github.com/snowflake-labs/excelerator # This is an Excel Addin for Windows that reads and writes data to Snowflake
+https://github.com/snowflake-labs/sfguide-getting-started-dataengineering-ml-snowpark-python #
+https://github.com/snowflake-labs/snowpark-python-template # Python project template for Snowpark development
+https://github.com/snowflake-labs/django-snowflake #
+https://github.com/snowflake-labs/sfguide-intro-to-machine-learning-with-snowflake-ml-for-python #
+https://github.com/snowflake-labs/roleout #
+https://github.com/snowflake-labs/semantic-model-generator #
+https://github.com/snowflake-labs/arctic-embed #
+https://github.com/snowflake-labs/sfguide-getting-started-machine-learning #
+https://github.com/snowflake-labs/sqltools-snowflake-driver # A Snowflake driver for the SQLTools VSCode extension.
+https://github.com/snowflake-labs/sfguide-citibike-ml-snowpark-python #
+https://github.com/snowflake-labs/sfguide-getting-started-snowpark-python # Quickstart: Getting Started with Snowpark Python
+https://github.com/snowflake-labs/mlflow-snowflake #
+https://github.com/snowflake-labs/sfguide-recommender-pipeline # Snowflake Guide: Building a Recommendation Engine Using Snowflake
+& Amazon SageMaker https://github.com/snowflake-labs/snowpark-containers-llama-2-sample #
+https://github.com/snowflake-labs/snowflake-vcrpy # A PyTest plugin to speed up your tests which depend on Snowflake sessions
+https://github.com/snowflake-labs/snowpark-extensions-py #
+https://github.com/snowflake-labs/sfguide-twitter-auto-ingest # Learn how to auto-ingest streaming data into Snowflake using Snowpi
+pe. https://github.com/snowflake-labs/snowsql-formatter #
+https://github.com/snowflake-labs/terraform-snowflake-api-integration-with-geff-aws # Terraform module to create resources across t
+he Snowflake and AWS providers and establish proper relationships within those resources. https://github.com/snowflake-labs/snowpark-devops #
+https://github.com/snowflake-labs/sfquickstart-data-clean-room #
+https://github.com/snowflake-labs/lezer-snowsql #
+https://github.com/snowflake-labs/sfguide-external-functions-examples #
+https://github.com/snowflake-labs/terraform-snowflake-storage-integration-aws # To create the base infrastructure for storage only
+pipelines that load data from S3 to Snowflake. https://github.com/snowflake-labs/sfguide-financial-asset-management # Snowflake demo for Financial Services
+https://github.com/snowflake-labs/sfguide-snowflake-python-api # Guide for running a custom API Powered by Snowflake in Python
+https://github.com/snowflake-labs/sfguide-getting-started-with-native-apps #
+https://github.com/snowflake-labs/sfguide-data-engineering-with-snowpark-python-intro #
+https://github.com/snowflake-labs/sfguide-spcs-cortex-reactjs-flask-app #
+https://github.com/snowflake-labs/geff #
+https://github.com/snowflake-labs/sfguide_snowpark_on_jupyter # Jupyter Notebooks with Snowpark
+https://github.com/snowflake-labs/icetire # Data Science Sandbox for Snowflake
+https://github.com/snowflake-labs/snowflake-cli-action # Github Action enabling easy use of Snowflake CLI in your CI/CD workflows
+https://github.com/snowflake-labs/sfguide-getting-started-weaviate-on-spcs # The code in this repository deploys Weaviate into Snow
+park Container Services (SPCS), demonstrating how to run Weaviate in Snowflake. https://github.com/snowflake-labs/streamlit-examples #
+https://github.com/snowflake-labs/sfguide-native-apps-chairlift # Snowflake Native Application sample demonstrating data sharing an
+d analysis using a fictional Chairlift manufacturer. https://github.com/snowflake-labs/sfguide-data-apps-demo #
+https://github.com/snowflake-labs/sc.ddlexportscripts # Collection of utility scripts to extract code so it can be upgraded to Snow
+Flake using the SnowConvert tool. https://github.com/snowflake-labs/sfguide-snowpark-pytorch-streamlit-openai-image-rec #
+https://github.com/snowflake-labs/sfguide-data-crawler # Generate descriptions of Snowflake tables and views with LLMs
+https://github.com/snowflake-labs/sentry #
+https://github.com/snowflake-labs/edmc-cdmc-v1-14-control_mapping # Controls that will be used in Snowflake to satisfy the EDMC's C
+DMC framework. https://github.com/snowflake-labs/openlineage-accesshistory-setup # Guideline to extract table lineage info in OpenLineage format f
+rom access history view https://github.com/snowflake-labs/sfguide-getting-started-with-snowflake-devops #
+https://github.com/snowflake-labs/sfguide-tasty-bytes-snowpark-101-for-data-science #
+https://github.com/snowflake-labs/sfguide-snowpark-for-python-streamlit #
+https://github.com/snowflake-labs/aws-integrations-cloudops # Snowflake & AWS Service Catalog Integration
+https://github.com/snowflake-labs/sfguide-blog-ai-assistant #
+https://github.com/snowflake-labs/sfguide-snowpark-scikit-learn #
+https://github.com/snowflake-labs/sfguide-getting-started-snowpark-scala # Snowpark Twitter Sentiment Analysis Example
+https://github.com/snowflake-labs/snowflake-hl7v2-parsing #
+https://github.com/snowflake-labs/spcs-updates #
+https://github.com/snowflake-labs/sfguide-getting-started-with-cortex-analyst #
+https://github.com/snowflake-labs/sfsimilarity # Similarity and Distance functions for Snowflake
+https://github.com/snowflake-labs/sfguide-vault-snowflakepasswords # vault-snowflakepasswords-sample is a sample Hashicorp Vault da
+tabase plugin designed to work with the Snowflake Data Platform https://github.com/snowflake-labs/cortex-search #
+https://github.com/snowflake-labs/sfguide-terraform-sample # Sample project for the guide Terraforming Snowflake
+https://github.com/snowflake-labs/builder-workshops #
+https://github.com/snowflake-labs/terraform-snowflake-snowalert # Terraformed version of Snowalert
+https://github.com/snowflake-labs/sfguide-intro-to-snowpark-container-services #
+https://github.com/snowflake-labs/sfguide-sporting-events-prediction-using-snowpark-ml #
+https://github.com/snowflake-labs/sfguide-getting-started-with-snowflake-arctic-and-snowflake-cortex #
+https://github.com/snowflake-labs/sfguide-marketplace-accelerator2.0 # Snowflake Marketplace Accelerator 2.0 speeds up monteization
+and inter/intra org collaboration https://github.com/snowflake-labs/cmsgov-pricing-transparency # Demonstration of pricing transparency file parsing in Snowflake
+https://github.com/snowflake-labs/sfguide-data-engineering-with-notebooks #
+https://github.com/snowflake-labs/snowpark-extensions # Useful Extensions to be used when modernizing projects from Spark to Snowpa
+rk for Scala https://github.com/snowflake-labs/devday2024-oss-demo #
+https://github.com/snowflake-labs/sfguide-snowpark-python-top-three-tips-for-optimal-performance #
+https://github.com/snowflake-labs/sfguide_failover_scripts # Env setup for the replication/failover hands on lab
+https://github.com/snowflake-labs/snowpark-scala-template # Scala project template for Snowpark development
+https://github.com/snowflake-labs/sqlpack #
+https://github.com/snowflake-labs/sfguide-getting-started-snowpark-python-feast #
+https://github.com/snowflake-labs/snowflake-maven-gradle-plugins # Maven and Gradle plugins to deploy your UDFs and stored procedur
+es to Snowflake https://github.com/snowflake-labs/sfguide-text-embedding-snowpark-container-service # A pure-Python approach to packaging a text em
+bedding model into a Snowpark Container Services service https://github.com/snowflake-labs/sfguide-getting-started-with-generative-ai-snowflake-external-functions-streamlit #
+https://github.com/snowflake-labs/sfguide-getting-started-snowpark-python-sagemaker #
+https://github.com/snowflake-labs/sfguide-build-and-deploy-snowpark-ml-models-using-streamlit-snowflake-notebooks #
+https://github.com/snowflake-labs/snowpark-java-template # Java project template for Snowpark development
+https://github.com/snowflake-labs/sfguide-getting-started-django-snowflake # This repository is intended to be used as you follow a
+long in the official Django-Snowflake Quickstart. To get started, navigate to the Getting Started with Django and Snowflake Quickstart. https://github.com/snowflake-labs/sfguide-getting-started-with-iceberg-tables #
+https://github.com/snowflake-labs/terraform-snowflake-snowpipe-aws # Terraform module for creating Snowpipe to ingest data from AWS
+S3 bucket https://github.com/snowflake-labs/sfguide-aws-autopilot-integration #
+https://github.com/snowflake-labs/sfguide-price-optimization-using-snowflake-notebooks-and-streamlit #
+https://github.com/snowflake-labs/sfguide-getting-started-with-document-ai #
+https://github.com/snowflake-labs/sfguide-prompt-engineering-and-llm-evaluation #
+https://github.com/snowflake-labs/sfguide-marketplace-provider # Repository to accelerate Provider on-boarding their data to Snowfl
+ake for the Marketplace https://github.com/snowflake-labs/terraform-aws-cloudtrail #
+https://github.com/snowflake-labs/simstreamer # Generating Streaming Data for Snowpipe Streaming
+https://github.com/snowflake-labs/sfguide-snowflake-java-api # Guide for running a custom API Powered by Snowflake in java
+https://github.com/snowflake-labs/sfguide-using-snowflake-and-azure-openai-for-rag-workflow #
+https://github.com/snowflake-labs/sfguide-call-centre-analytics-with-snowflake-cortex-and-spcs #
+https://github.com/snowflake-labs/sc.teradataexportscripts #
+https://github.com/snowflake-labs/sfguide-tasty-bytes-zero-to-app-with-spcs #
+https://github.com/snowflake-labs/sfguide-build-genai-hybridtable-app-in-snowpark-container-services #
+https://github.com/snowflake-labs/sftutorial-snowpark-testing #
+https://github.com/snowflake-labs/vscode-snowsql-formatter # VS Code Plugin to format snowsql specific code
+https://github.com/snowflake-labs/sfguide-getting-started-keboola-streamlit #
+https://github.com/snowflake-labs/vllm #
+https://github.com/snowflake-labs/sfguide-getting-started-with-snowpark-in-worksheets-notebooks #
+https://github.com/snowflake-labs/sfguide-data-engineering-pipelines-with-pandas-on-snowflake #
+https://github.com/snowflake-labs/sproc-to-enable-change-tracking # JS SPROC to detect and enable change tracking for all outbound
+shares https://github.com/snowflake-labs/sfguide-getting-started-with-snowpark-for-machine-learning-on-azureml #
+https://github.com/snowflake-labs/sfguide-getting-started-with-time-series-using-snowflake-streaming-sis-ml-notebooks #
+https://github.com/snowflake-labs/codemirror-snowsql # This project is to use the lezer-snowsql grammar to add parsing and linting
+capabilities to codemirror for editing SnowSQL https://github.com/snowflake-labs/sfguide-data-model-mapper # The Data Model Mapping App helps consumers map data to target data mo
+dels and share back to the provider. https://github.com/snowflake-labs/sfguide-cohort-builder #
+https://github.com/snowflake-labs/spcs-templates #
+https://github.com/snowflake-labs/sfguide-udf-udtf-examples # This repo contains a variety of UDF and UDTF examples in various lang
+uages. https://github.com/snowflake-labs/sfguide-solution-installation-wizard # Accelerate the deployment of Snowflake Native code using S
+olution Installation Wizard https://github.com/snowflake-labs/sfguide-getting-started-with-pandas-on-snowflake #
+https://github.com/snowflake-labs/sfguide-marketplace-data-app #
+https://github.com/snowflake-labs/snowflake-stored-procedure-transpiler #
+https://github.com/snowflake-labs/sfguide-intro-to-feature-store-using-snowflake-notebooks #
+https://github.com/snowflake-labs/workspace-estimator # Workspace Estimator allows you to analyze information about your workspace
+without giving direct access to your system. https://github.com/snowflake-labs/modern-data-engineering-snowflake # Companion repository that goes along with Snowflake's "Introd
+uction to Modern Data Engineering with Snowflake" course on Coursera https://github.com/snowflake-labs/sfguide-deploy-and-finetune-os-llama2-snowpark-container-services #
+https://github.com/snowflake-labs/sfguide-getting-started-with-time-series-analytics-with-pricing-data-on-snowflake #
+https://github.com/snowflake-labs/sfguide-ask-questions-to-your-documents-using-rag-with-snowflake-cortex-search #
+https://github.com/snowflake-labs/terraform-aws-eks-alb-controller # Terraform code for AWS EKS cluster with EKS managed node group
+s, basic security groups, ALB controller and external DNS add-ons using IRSA https://github.com/snowflake-labs/sfguide-supply-chain-network-optimization #
+https://github.com/snowflake-labs/sfguide-getting-started-with-data-quality-manager #
+https://github.com/snowflake-labs/sproc-to-create-streams # This stored procedure will enable streams on tables and views contained
+in Inbound Shares. This will be run on the Consumer side to track any changes in the data. https://github.com/snowflake-labs/terraform-snowflake-notification-integration-aws # Terraform module to create a notification inte
+gration. https://github.com/snowflake-labs/sfguide-beam-ingest-data-from-pubsub-to-snowflake #
+https://github.com/snowflake-labs/fhoffa # Sample code for the world to see
+https://github.com/snowflake-labs/sfguide-fine-tuning-llms-with-spcs-huggingface-autotrain #
+https://github.com/snowflake-labs/sma-support #
+https://github.com/snowflake-labs/sfguide-train-xgboost-model-using-gpus-using-snowflake-notebooks #
+https://github.com/snowflake-labs/sfguide-build-a-native-app-with-spcs #
+https://github.com/snowflake-labs/sfguide-tasty-bytes-zero-to-app #
+https://github.com/snowflake-labs/sfguide-alert-hub #
+https://github.com/snowflake-labs/sfguide-marketing-data-foundation-starter #
+https://github.com/snowflake-labs/sfguide-data-analysis-churn-prediction-in-snowflake-notebooks #
+https://github.com/snowflake-labs/.github #
+https://github.com/snowflake-labs/terraform-snowflake-sentry-error-integration-aws # Terraform Module to create all the integration
+to send error stream to Sentry error tracking system. https://github.com/snowflake-labs/well-architected-framework #
+https://github.com/snowflake-labs/sfguide-getting-started-with-snowflake-notebook-container-runtime #
+https://github.com/snowflake-labs/sf-cheatsheets #
+https://github.com/snowflake-labs/snowflake-jenkins-plugin # Jenkins plugin enabling isolated installation of Snowflake CLI.
+https://github.com/snowflake-labs/streamlit-okta-oauth2 #
+https://github.com/snowflake-labs/terraform-aws-eks-retool-helm # Terraform module to provision Retool with Helm Chart
+https://github.com/snowflake-labs/terraform-aws-vpc-flowlogs #
+https://github.com/snowflake-labs/sfguide-getting-started-with-bedrock-streamlit-and-snowflake #
+https://github.com/snowflake-labs/sfguide-getting-started-with-api-enrichment-framework #
+https://github.com/snowflake-labs/lezer-snowsql-formatter #
+https://github.com/snowflake-labs/snowpark-java-examples # This repository provides various examples on leveraging Snowpark Java (A
+PI+UDFs). Please navigate to each subdirectory to learn more about each of the individual examples, and how to use them. https://github.com/snowflake-labs/auto_classification_management #
+https://github.com/snowflake-labs/sfguide-monitor-schema-drift-in-data-shares-with-sharewatch #
+https://github.com/snowflake-labs/sfguide-native-apps-limited-access-data #
+https://github.com/snowflake-labs/terraform-aws-cyberchef # Terraform to setup CyperChef in AWS
+https://github.com/snowflake-labs/sfguide-deploying-custom-models-snowflake-model-registry #
+https://github.com/snowflake-labs/sfguide-credit-card-fraud-detection-using-snowflakeml #
+https://github.com/snowflake-labs/terraform-snowflake-snowalert-rbac # Contains the grant resources for SnowAlert data objects.
+https://github.com/snowflake-labs/sc.support_library #
+https://github.com/snowflake-labs/sfguide-develop-and-manage-ml-models-with-feature-store-and-model-registry # This Quickstart demo
+nstrates an end-to-end ML experiment cycle including feature creation, training data generation, model training and inference https://github.com/snowflake-labs/sfguide-getting-started-with-horizon-data-governance-in-snowflake #
+https://github.com/snowflake-labs/sfguide-getting-started-with-snowflake-feature-store #
+https://github.com/snowflake-labs/sfguide-horizon-intra-organization-sharing #
+https://github.com/snowflake-labs/sfguide-getting-started-snowflake-python-api #
+https://github.com/snowflake-labs/test-pub-repo #
+https://github.com/snowflake-labs/catboost-udf #
+https://github.com/snowflake-labs/sc.dataexportscripts #
+https://github.com/snowflake-labs/sfguide-build-data-application-with-hybrid-tables #
+https://github.com/snowflake-labs/sfguide-getting-started-with-partitioned-models-snowflake-model-registry #
+https://github.com/snowflake-labs/sfguide-tasty-bytes-enhancing-customer-experience #
+https://github.com/snowflake-labs/sfguide-getting-started-with-llmops-using-snowflake-cortex-and-trulens #
+https://github.com/snowflake-labs/sfguide-build-rag-based-equipment-maintenance-app-using-snowflake-cortex #
+https://github.com/snowflake-labs/sfguide-build-ai-app-using-nvidia-snowpark-container-services #
+https://github.com/snowflake-labs/sfguide-customer-reviews-analytics-using-snowflake-cortex #
+https://github.com/snowflake-labs/sfguide-getting-started-with-snowpark-for-machine-learning-on-vertexai #
+https://github.com/snowflake-labs/terraform-aws-eks-sentry-helm # Terraform module to create the sentry infrastructure using the he
+lm chart. https://github.com/snowflake-labs/sfguide-getting-started-with-llama314058-84-models-fine-tuning-distillation #
+https://github.com/snowflake-labs/sfguide-using-snowflake-cortex-and-streamlit-with-geospatial-data #
+https://github.com/snowflake-labs/sfguide-application-control-framework #
+https://github.com/snowflake-labs/snowflake-ado-extension # Snowflake CLI plugin for Azure DevOps CI/CD pipelines.
+https://github.com/snowflake-labs/sfguide-enhancing-customer-experiences-using-cortex-finetuning # Snowflake provides a managed service called Cortex Fine-Tuning, enabling organizations to refine popular LLMs using their own data, all within Snowflake’s platform. This repo contains the files to setup a solution. https://github.com/snowflake-labs/sfguide-overview-of-feature-store-api #
+
+https://github.com/snowflakedb/snowflake-connector-python # Snowflake Connector for Python
+https://github.com/snowflakedb/gosnowflake # Go Snowflake Driver
+https://github.com/snowflakedb/snowpark-python # Snowflake Snowpark Python API
+https://github.com/snowflakedb/snowflake-sqlalchemy # Snowflake SQLAlchemy
+https://github.com/snowflakedb/spark-snowflake # Snowflake Data Source for Apache Spark.
+https://github.com/snowflakedb/snowalert # Security Analytics Using The Snowflake Data Warehouse
+https://github.com/snowflakedb/snowflake-connector-net # Snowflake Connector for .NET
+https://github.com/snowflakedb/snowflake-cli # Snowflake CLI is an open-source command-line tool explicitly designed for developer-
+centric workloads in addition to SQL operations. https://github.com/snowflakedb/snowflake-jdbc # Snowflake JDBC Driver
+https://github.com/snowflakedb/snowflake-kafka-connector # Snowflake Kafka Connector (Sink Connector)
+https://github.com/snowflakedb/snowflake-connector-nodejs # NodeJS driver
+https://github.com/snowflakedb/snowflake-ingest-java # Java SDK for the Snowflake Ingest Service -
+https://github.com/snowflakedb/dplyr-snowflakedb # SnowflakeDB backend for dplyr
+https://github.com/snowflakedb/pdo_snowflake # PHP PDO driver for snowflake
+https://github.com/snowflakedb/snowflake-ingest-python # A Python API for Asynchronously Loading Data into Snowflake DB -
+https://github.com/snowflakedb/snowflake-ml-python #
+https://github.com/snowflakedb/connectors-native-sdk # Snowflake Native SDK for Connectors
+https://github.com/snowflakedb/native-apps-examples # Public-facing example applications built using the Snowflake Native App Frame
+work https://github.com/snowflakedb/libsnowflakeclient # Snowflake Connector for C/C++
+https://github.com/snowflakedb/snowpark-java-scala # Snowflake Snowpark Java & Scala API
+https://github.com/snowflakedb/snowflake-hive-metastore-connector #
+https://github.com/snowflakedb/snowflake-s3compat-api-test-suite # S3Compat API Test Suite
+https://github.com/snowflakedb/snowflake-telemetry-python #
+https://github.com/snowflakedb/snowflake-rest-api-specs # Public rest api specs for Snowflake
+https://github.com/snowflakedb/native-apps-templates # Official Snowflake CLI templates released for the Snowflake Native App Frame
+work https://github.com/snowflakedb/snowflake-common #
+https://github.com/snowflakedb/snowflake-hibernate # Snowflake SQL dialect definition for Hibernate ORM
+https://github.com/snowflakedb/homebrew-snowflake-cli #
+https://github.com/snowflakedb/reusable-workflows # A reusable workflow that will be used by repositories to run semgrep on each PR
+https://github.com/snowflakedb/qgis-snowflake-plugin # QGIS Connector for Snowflake
+https://github.com/snowflakedb/test-actions-oidc # some github actions
+https://github.com/snowflakedb/snowflake-cli-templates # Project templates for Snowflake CLI init command
+https://github.com/snowflakedb/snowflake-telemetry-dashboard-templates #
+https://github.com/snowflakedb/cla #
+https://github.com/snowflakedb/native-apps-permission-sdk-stub # Stub Version of Snowflake Native App Python Permission SDK
+https://github.com/snowflakedb/native-apps-roadmap # NativeAppsRoadmap

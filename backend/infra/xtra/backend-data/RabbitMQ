@@ -1,0 +1,112 @@
+https://github.com/rabbitmq/rabbitmq-server # Open source RabbitMQ: core server and tier 1 (built-in) plugins
+https://github.com/rabbitmq/rabbitmq-tutorials # Tutorials for using RabbitMQ in various ways
+https://github.com/rabbitmq/rabbitmq-dotnet-client # RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.2+
+https://github.com/rabbitmq/rabbitmq-delayed-message-exchange # Delayed Messaging for RabbitMQ
+https://github.com/rabbitmq/amqp091-go # An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `stread
+way/amqp` https://github.com/rabbitmq/internals # High level architecture overview
+https://github.com/rabbitmq/rabbitmq-java-client # RabbitMQ Java client
+https://github.com/rabbitmq/cluster-operator # RabbitMQ Cluster Kubernetes Operator
+https://github.com/rabbitmq/ra # A Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use
+multiple Raft clusters in a single system.
+https://github.com/rabbitmq/rabbitmq-website # RabbitMQ website
+https://github.com/rabbitmq/tls-gen # Generates self-signed x509/TLS/SSL certificates useful for development
+https://github.com/rabbitmq/rabbitmq-perf-test # A load testing tool
+https://github.com/rabbitmq/khepri # Khepri is a tree-like replicated on-disk database library for Erlang and Elixir.
+https://github.com/rabbitmq/rabbitmq-objc-client # RabbitMQ client for Objective-C and Swift
+https://github.com/rabbitmq/chef-cookbook # Development repository for Chef cookbook RabbitMQ
+https://github.com/rabbitmq/rabbitmq-stream-go-client # A client library for RabbitMQ streams
+https://github.com/rabbitmq/rabbitmq-stream-rust-client # A client library for RabbitMQ streams
+https://github.com/rabbitmq/hop # RabbitMQ HTTP API client for Java, Groovy, and other JVM languages
+https://github.com/rabbitmq/looking_glass # An Erlang/Elixir/BEAM profiler tool
+https://github.com/rabbitmq/messaging-topology-operator # RabbitMQ messaging topology operator
+https://github.com/rabbitmq/rabbitmq-stream-dotnet-client # RabbitMQ client for the stream protocol
+https://github.com/rabbitmq/rabbitmq-message-timestamp # A RabbitMQ plugin that adds a timestamp to all incoming messages
+https://github.com/rabbitmq/tgir # Official repository for Thank Goodness It's RabbitMQ (TGIR)!
+https://github.com/rabbitmq/rabbitmq-jms-client # RabbitMQ JMS client
+https://github.com/rabbitmq/rabbitmq-stream-java-client # RabbitMQ Stream Java Client
+https://github.com/rabbitmq/aten # An adaptive accrual node failure detection library for Elixir and Erlang
+https://github.com/rabbitmq/gen-batch-server # A generic batching server for Erlang and Elixir
+https://github.com/rabbitmq/osiris # Log based streaming subsystem for RabbitMQ
+https://github.com/rabbitmq/rabbitmq-oauth2-tutorial # Explore integration of RabbitMQ with Oauth 2.0 auth backend plugin
+https://github.com/rabbitmq/support-tools # A staging area for various support and troubleshooting tools that are not (or not yet)
+included into RabbitMQ distribution https://github.com/rabbitmq/ra-kv-store # Raft-based key-value store
+https://github.com/rabbitmq/rabbitmq-metronome # RabbitMQ example plugin
+https://github.com/rabbitmq/rabbitmq-rtopic-exchange # RabbitMQ Reverse Topic Exchange
+https://github.com/rabbitmq/horus # Erlang library to create standalone modules from anonymous functions
+https://github.com/rabbitmq/workloads # Continuous validation of RabbitMQ workloads
+https://github.com/rabbitmq/rabbitmq-tracer # AMQP 0-9-1 protocol analyzer
+https://github.com/rabbitmq/rabbitmq-management-themes #
+https://github.com/rabbitmq/rabbitmq-auth-backend-amqp # Authentication over AMQP RPC
+https://github.com/rabbitmq/chocolatey-package # RabbitMQ chocolatey package
+https://github.com/rabbitmq/rabbitmq-msg-store-index-eleveldb # LevelDB-based message store index for RabbitMQ
+https://github.com/rabbitmq/stdout_formatter # Erlang library to format paragraphs, lists and tables as plain text
+https://github.com/rabbitmq/credentials-obfuscation # Tiny library/OTP app for credential obfuscation
+https://github.com/rabbitmq/seshat #
+https://github.com/rabbitmq/rabbitmq-management-exchange #
+https://github.com/rabbitmq/erlang-debian-package # Fork of the official Debian package for Erlang
+https://github.com/rabbitmq/rabbitmq-test #
+https://github.com/rabbitmq/rabbitmq-amqp-dotnet-client # RabbitMQ client for AMQP 1.0 protocol
+https://github.com/rabbitmq/inet_tcp_proxy # Simulate network partitions in an distributed Erlang cluster
+https://github.com/rabbitmq/khepri-benchmark # Benchmark to track the performance of Khepri
+https://github.com/rabbitmq/ra-examples # Examples of Ra state machines
+https://github.com/rabbitmq/rabbitmq-bql # RabbitMQ Broker Query Language
+https://github.com/rabbitmq/rabbitmq-boot-steps-visualiser # RabbitMQ UI plugin that visualises boot steps on the node
+https://github.com/rabbitmq/rabbitmq-jsonrpc-channel-examples # RabbitMQ JSON-RPC Channels examples
+https://github.com/rabbitmq/rabbitmq-ct-helpers # Common Test helpers for RabbitMQ
+https://github.com/rabbitmq/rabbit-stress # Set of stress/load testing tools
+https://github.com/rabbitmq/webmachine-wrapper # RabbitMQ infrastructure for cloning and packaging webmachine
+https://github.com/rabbitmq/rabbitmq-routing-node-stamp # A RabbitMQ plugin that adds a routing node header to all incoming message
+s https://github.com/rabbitmq/khepri_mnesia_migration # Tools to migrate between Mnesia and Khepri
+https://github.com/rabbitmq/sample-configs # Sample RabbitMQ configuration and definition files
+https://github.com/rabbitmq/omq # Test client for different protocols
+https://github.com/rabbitmq/rabbitmq-jms-cts # A compliance test suite for rabbit-jms. Uses rabbit-jms-client and rabbit-jms-topic-
+exchange. https://github.com/rabbitmq/contribute # Bits and pieces meant to help contributors
+https://github.com/rabbitmq/testing # Reusable tests (mostly performance / at scale)
+https://github.com/rabbitmq/signing-keys # Public keys that can be used to verify signatures of RabbitMQ release artifacts
+https://github.com/rabbitmq/rabbitmq-server-boshrelease # BOSH release for development, troubleshooting & qa
+https://github.com/rabbitmq/rabbitmq-stream-perf-test # A load testing tool for RabbitMQ Stream
+https://github.com/rabbitmq/sysmon-handler # Simple OTP app for managing Erlang VM system_monitor event messages
+https://github.com/rabbitmq/scdf-performance # Spring Cloud Stream and Spring Cloud Data Flow applications to validate performance
+on RabbitMQ. https://github.com/rabbitmq/resiliency-workloads #
+https://github.com/rabbitmq/hexpm-cli # CLI wrapping the rebar3_hex plugin
+https://github.com/rabbitmq/rabbitmq-graal-vm-test # RabbitMQ Java libraries test on GraalVM
+https://github.com/rabbitmq/rabbitmq-amqp-java-client #
+https://github.com/rabbitmq/elixir-debian-package # Fork of the official Debian package for Elixir
+https://github.com/rabbitmq/terminfo # Erlang library to query a terminal's capabilities
+https://github.com/rabbitmq/rabbitmq-amqp-go-client #
+https://github.com/rabbitmq/chef-cookbook-examples # A set of examples that demonstrate various attributes and features of the Rabb
+itMQ Chef cookbook https://github.com/rabbitmq/rabbitmq-dotnet-perf-test # PerfTest clone for the .NET RabbitMQ client (experimental)
+https://github.com/rabbitmq/rabbitmqadmin-ng # A new implementation of rabbitmqadmin
+https://github.com/rabbitmq/sockjs-erlang-wrapper #
+https://github.com/rabbitmq/proctitle-erlang # A library to change the Erlang VM process title in ps(1) and top(1)
+https://github.com/rabbitmq/cth_fail_fast # Common Test hook to skip all tests on first failure
+https://github.com/rabbitmq/rabbitmq-perf-test-for-cf # RabbitMQ PerfTest for Cloud Foundry
+https://github.com/rabbitmq/benchmarker # A tool for benchmarking RabbitMQ on Kubernetes with various hardware and messaging config
+urations https://github.com/rabbitmq/rabbitmq-packaging # Debian, RPM, Windows package bits for RabbitMQ
+https://github.com/rabbitmq/shovel-example-with-network-shaping #
+https://github.com/rabbitmq/rules_elixir #
+https://github.com/rabbitmq/concourse-packagecloud-resource # Concourse resource to publish packages to package cloud.
+https://github.com/rabbitmq/cth_styledout # Common Test hook to output a concise colored summary on stdout
+https://github.com/rabbitmq/host_triple # Erlang library that produces uniform host triples
+https://github.com/rabbitmq/testing-docusaurus #
+https://github.com/rabbitmq/rabbitmq-website-lists # RabbitMQ historical mailing lists
+https://github.com/rabbitmq/rbe-erlang-platform # Bazel platform for RBE
+https://github.com/rabbitmq/rabbitmq-server-binaries-dev #
+https://github.com/rabbitmq/rabbitmq-website-next # RabbitMQ Next Version Website
+https://github.com/rabbitmq/fshc # A tiny command line tool that prints file and socket descriptor (handle) counts for a process
+https://github.com/rabbitmq/playground # A place to try things without polluting the history of real projects
+https://github.com/rabbitmq/rabbitmq-ct-client-helpers # Common Test helpers for RabbitMQ (client-side helpers)
+https://github.com/rabbitmq/rabbitmq-stream-perf-test-for-cf #
+https://github.com/rabbitmq/default-user-credential-updater # Updates RabbitMQ default user password
+https://github.com/rabbitmq/github-release-delete-resource #
+https://github.com/rabbitmq/mock-rabbitmq-plugins-02 # A mock plugin used by some plugins-related test suites. NOT useful for anyth
+ing beyond that. https://github.com/rabbitmq/cloudsmith-ci-connector # Concourse Cloudsmith Resource
+https://github.com/rabbitmq/ndocproc # Git repository of NDocProc by Tony Garnock-Jones, with modifications by the RabbitMQ team
+https://github.com/rabbitmq/rabbitmq-java-tools-binaries-dev #
+https://github.com/rabbitmq/olm-package-repo # Script to generate OLM (Operator-LifeCycle-Manager) Bundles for RabbitMQ Kubernetes
+operators
+https://github.com/rabbitmq/rabbitmq-website-previous # RabbitMQ Previous Versions Website
+https://github.com/rabbitmq/mock-rabbitmq-plugins-01 # A mock plugin used by some plugins-related test suites. NOT useful for anyth
+ing beyond that. https://github.com/rabbitmq/.github #
+https://github.com/rabbitmq/rabbitmq-stream-graal-vm-test # RabbitMQ stream Java client test on GraalVM
+https://github.com/rabbitmq/delete-release-action # A GitHub Action to delete old releases

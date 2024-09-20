@@ -1,0 +1,19 @@
+https://github.com/redhat-scholars/debezium-tutorial
+
+https://github.com/debezium/debezium # Change data capture for a variety of databases.
+https://github.com/debezium/debezium-examples # Examples for running Debezium
+https://github.com/debezium/container-images # Docker images for Debezium.
+https://github.com/debezium/debezium-ui # A web UI for Debezium
+https://github.com/debezium/debezium-server # Debezium Server runtime for standalone execution of Debezium connectors
+https://github.com/debezium/debezium-connector-vitess # An incubating Debezium CDC connector for Vitess
+https://github.com/debezium/debezium-operator #
+https://github.com/debezium/oracle-vagrant-box # A Vagrant box for creating a custom Docker image of Oracle DB for testing purposes
+https://github.com/debezium/debezium-design-documents #
+https://github.com/debezium/debezium-connector-db2 # An incubating Debezium connector for Db2
+https://github.com/debezium/debezium-connector-cassandra # An incubating Debezium CDC connector for Apache Cassandra
+https://github.com/debezium/debezium-connector-spanner # An incubating Debezium CDC connector for Google Spanner
+https://github.com/debezium/debezium-platform-stage # Frontend component of Debezium Management Platform
+https://github.com/debezium/debezium-platform-conductor # Backend component of Debezium Management Platform
+https://github.com/debezium/debezium-github-bot # A GitHub bot for automating recurring tasks within the Debezium project
+https://github.com/debezium/debezium-operator-manifests #
+https://github.com/debezium/debezium.github.io # Source for the Debezium website

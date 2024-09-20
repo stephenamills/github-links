@@ -1,3 +1,4 @@
+Controller Actions
 https://github.com/learn-co-curriculum/rails-create-action-readme # create action
 https://github.com/learn-co-curriculum/rails-create-action-lab #
 https://github.com/learn-co-curriculum/rails-restful-index-action-lab # read action
@@ -23,3 +24,11 @@ https://github.com/learn-co-curriculum/phase-4-cookies-in-rails-api
 
 https://github.com/learn-co-curriculum/sessions_controller_lab # controller generator
 https://github.com/learn-co-curriculum/phrg-rails-generators-readme#controller-generators # controller generator
+
+Service Actions
+https://github.com/collectiveidea/interactor
+https://github.com/learn-co-curriculum/web-service-objects-readme # web service class
+https://github.com/learn-co-curriculum/js-rails-as-api-extracting-a-service-class # service class with JSON API
+https://github.com/learn-co-curriculum/js-rails-as-api-using-fast-json-api
+https://github.com/learn-co-curriculum/rails-github-api/
+https://github.com/learn-co-curriculum/rails-refactoring-apis # service object

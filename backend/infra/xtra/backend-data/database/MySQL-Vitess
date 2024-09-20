@@ -1,3 +1,21 @@
+MySQL
+https://github.com/mysql/mysql-server # MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+
+https://github.com/mysql/mysql-connector-python # MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python.
+https://github.com/mysql/mysql-operator # MySQL Operator for Kubernetes
+https://github.com/mysql/mysql-utilities # MySQL Utilities is a set of easy-to-use scripts intended to make working with MySQL servers easier.
+https://github.com/mysql/mysql-shell # New command line scriptable shell for MySQL.
+https://github.com/mysql/mysql-js # NoSQL node.js connector for MySQL Cluster
+https://github.com/mysql/mysql-connector-nodejs # MySQL Connector Node.JS is a MySQL Connector using the X Protocol, which was introduced with MySQL 5.7.12.
+https://github.com/mysql/mysql-connector-odbc # This is the source for MySQL Connector/ODBC (myodbc), an ODBC (3.51) driver for connecting an ODBC-aware application to the MySQL Server.
+https://github.com/mysql/mysql-shell-plugins # Plugins for the MySQL Shell
+https://github.com/mysql/mysql-ndb-operator # Kubernetes Operator for MySQL NDB Cluster.
+
+https://github.com/percona/percona-toolkit # Percona Toolkit: a collection of advanced open source command-line tools.
+
+https://dbdb.io/db/mysql
+
+Vitess
 https://github.com/vitessio/vitess # Vitess is a database clustering system for horizontal scaling of MySQL.
 
 https://github.com/planetscale/nextjs-planetscale-starter # A Next.js starter app with NextAuth.js (Auth), Prisma (ORM), and PlanetScale (database), on Netlify

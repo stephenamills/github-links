@@ -1,0 +1,243 @@
+https://github.com/dbt-labs/dbt-core # dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+
+https://github.com/dbt-labs/dbt-utils # Utility functions for dbt projects.
+https://github.com/dbt-labs/metricflow # MetricFlow allows you to define, build, and maintain metrics in code.
+https://github.com/dbt-labs/dbt-codegen # Macros that generate dbt code
+https://github.com/dbt-labs/jaffle-shop-classic # A self-contained dbt project for testing purposes
+https://github.com/dbt-labs/dbt-project-evaluator # This package contains macros and models to find DAG issues automatically
+https://github.com/dbt-labs/corp # Assets related to the operation of Fishtown Analytics.
+https://github.com/dbt-labs/dbt-spark # dbt-spark contains all of the code enabling dbt to work with Apache Spark and Databricks
+https://github.com/dbt-labs/dbt-audit-helper # Useful macros when performing data audits
+https://github.com/dbt-labs/dbt-external-tables # dbt macros to stage external sources
+https://github.com/dbt-labs/dbt-snowflake # dbt-snowflake contains all of the code enabling dbt to work with Snowflake
+https://github.com/dbt-labs/dbt-athena # The athena adapter plugin for dbt (https://getdbt.com)
+https://github.com/dbt-labs/dbt-bigquery # dbt-bigquery contains all of the code required to make dbt operate on a BigQuery databas
+e. https://github.com/dbt-labs/dbt_metrics # Macros for calculating metrics
+https://github.com/dbt-labs/dbt-labs-experimental-features # dbt support for database features which are not yet supported natively
+in dbt-core https://github.com/dbt-labs/dbt-docs # Auto-generated data documentation site for dbt projects
+https://github.com/dbt-labs/dbt-project-maturity #
+https://github.com/dbt-labs/jaffle_shop_duckdb # Get started with dbt in less than 1 minute from `git clone` to `dbt docs serve` fo
+r free! https://github.com/dbt-labs/snowplow # Data models for snowplow analytics.
+https://github.com/dbt-labs/docs.getdbt.com # The code behind docs.getdbt.com
+https://github.com/dbt-labs/dbt-jsonschema #
+https://github.com/dbt-labs/dbt-completion.bash # Adds autocompletion to the dbt CLI
+https://github.com/dbt-labs/dbt-server # A web API for dbt.
+https://github.com/dbt-labs/dbt-meshify # A dbt-core python package that automates the management and creation of dbt groups, contr
+acts, access, and versions. https://github.com/dbt-labs/redshift # Redshift package for dbt (getdbt.com)
+https://github.com/dbt-labs/dbt-event-logging # a dbt package to make auditing dbt runs easy.
+https://github.com/dbt-labs/dbt-redshift # dbt-redshift contains all of the code enabling dbt to work with Amazon Redshift
+https://github.com/dbt-labs/jaffle-shop # 🥪🦘 An open source sandbox project exploring dbt workflows via a fictional sandwich shop's data.
+https://github.com/dbt-labs/terraform-provider-dbtcloud # dbt Cloud Terraform Provider
+https://github.com/dbt-labs/mrr-playbook #
+https://github.com/dbt-labs/segment # Data models for Segment built using dbt (getdbt.com).
+https://github.com/dbt-labs/dbt-learn-group-training # The go to demo for public and private dbt Learn
+https://github.com/dbt-labs/dbt-semantic-interfaces # The shared semantic layer definitions that dbt-core and MetricFlow use.
+https://github.com/dbt-labs/dbt-sql-formatter # makes your sql less bad
+https://github.com/dbt-labs/dbt-init # A dbt-init script for consulting projects
+https://github.com/dbt-labs/dbt-starter-project # Cloned by the `dbt init` task
+https://github.com/dbt-labs/dbt-learn-jinja #
+https://github.com/dbt-labs/facebook-ads # dbt data models for facebook ads
+https://github.com/dbt-labs/dbt-jobs-as-code # Tools to handle dbt Jobs as well-defined YAML files
+https://github.com/dbt-labs/dbot # An LLM-powered chatbot with the added context of the dbt knowledge base.
+https://github.com/dbt-labs/metrics-playbook # This repository contains files for the metrics framework playbook.
+https://github.com/dbt-labs/python-snowpark-formula1 #
+https://github.com/dbt-labs/attribution-playbook #
+https://github.com/dbt-labs/spark-utils # Utility functions for dbt projects running on Spark
+https://github.com/dbt-labs/hub.getdbt.com # Package hub for dbt.
+https://github.com/dbt-labs/semantic-layer-llm-benchmarking #
+https://github.com/dbt-labs/dbtdocs-to-lookml # [WIP] A script to add descriptions from dbt schema files to your lookml project
+https://github.com/dbt-labs/jaffle_shop_metrics # This repository contains examples of how to use dbt's metric functionality on the
+jaffle shop dataset https://github.com/dbt-labs/dbt-databricks-demo # Demo project for dbt on Databricks
+https://github.com/dbt-labs/dbt-extractor #
+https://github.com/dbt-labs/jaffle-shop-generator # 🥪🏭 A simple CLI for generating synthetic Jaffle Shop data.
+https://github.com/dbt-labs/tree-sitter-jinja2 #
+https://github.com/dbt-labs/dbt-adapters #
+https://github.com/dbt-labs/rapid-onboarding-exemplar # dbt Project for Rapid Onboarding instructors to use in instruction and lear
+ners to reference throughout the course. https://github.com/dbt-labs/dbt-postgres #
+https://github.com/dbt-labs/airflow-fivetran-dbt # Example orchestration pipeline for Fivetran + dbt managed by Airflow
+https://github.com/dbt-labs/jaffle-sl-template #
+https://github.com/dbt-labs/dbt-rpc # A server that can compile and run queries in the context of a dbt project. Additionally, it p
+rovides methods that can be used to list and terminate running processes. https://github.com/dbt-labs/2023-04-18---zero-to-dbt # Welcome! This dbt project is built to be imported to a freshly-initialized d
+bt project to work through the hands-on zero to dbt lab detailed in this repo's readme. https://github.com/dbt-labs/postgres # Postgres utility package for dbt (getdbt.com)
+https://github.com/dbt-labs/dbt-starburst-demo # dbt + Trino demo project, using TPC-H sample data
+https://github.com/dbt-labs/dbt-database-adapter-scaffold #
+https://github.com/dbt-labs/adwords # dbt adwords models
+https://github.com/dbt-labs/atom-dbt # Atom highlighter for dbt projects
+https://github.com/dbt-labs/dbt_faker #
+https://github.com/dbt-labs/dbtcloud-terraforming # CLI tool to help importing existing dbt Cloud config to Terraform
+https://github.com/dbt-labs/dbt-python-hands-on-lab-snowpark #
+https://github.com/dbt-labs/tap-framework # a framework for rapidly prototyping new singer taps
+https://github.com/dbt-labs/dbt-core-bundles # Generates bundles of verified adapters + core
+https://github.com/dbt-labs/hubcap # This app adds modules to the hubsite at hub.getdbt.com
+https://github.com/dbt-labs/actions # Common GitHub actions and workflows for maintaining dbt
+https://github.com/dbt-labs/databricks_dbt_demo_project # dbt Cloud project for Databricks SQL Analytics Demos
+https://github.com/dbt-labs/salesforce #
+https://github.com/dbt-labs/dbt-cloud-snowflake-demo-template #
+https://github.com/dbt-labs/stitch-utils # Utility functions for Stitch-loaded data
+https://github.com/dbt-labs/analytics-engineering-survey # A survey of pains, gains, and areas of investment for global data teams.
+https://github.com/dbt-labs/dbt-common #
+https://github.com/dbt-labs/dbt-package-workshop # The companion repo to the 2022 Coalesce New Orleans Workshop - dbt Packages You
+Didn't Know You Needed https://github.com/dbt-labs/dbt-styleguide # Styles for dbt on the net
+https://github.com/dbt-labs/tap-s3-csv # Singer tap for getting CSV and XLS(X) data out of Amazon S3
+https://github.com/dbt-labs/jaffle_shop-dev # The dev version of jaffle shop
+https://github.com/dbt-labs/hologram # A library for automatically generating Draft 7 JSON Schemas from Python dataclasses
+https://github.com/dbt-labs/python-string-parsing # Demo using dateutil library with pandas dataframes in Python
+https://github.com/dbt-labs/dbt-integration-tests #
+https://github.com/dbt-labs/shopify-data-warehouse #
+https://github.com/dbt-labs/snowflake-resource-monitoring #
+https://github.com/dbt-labs/dbt-proserv # This is a public repository that the dbt proserv team uses for collective demos.
+https://github.com/dbt-labs/dbt-cloud-openapi-spec #
+https://github.com/dbt-labs/jaffle-shop-data # 🥪💾 A sample of data from the `jaffle-shop-generator` that powers the Jaffle Shop s
+panning one year. https://github.com/dbt-labs/log-tables-example # Example of log table creation using dbt.
+https://github.com/dbt-labs/new-python-wrench-demo # Demo of Python models to accompany the Snowflake blog post
+https://github.com/dbt-labs/tap-amazon-advertising # Singer.io tap for Amazon Advertising
+https://github.com/dbt-labs/tap-ringcentral # Singer.io tap for RingCentral
+https://github.com/dbt-labs/semantic-layer-sdk-python # The dbt Semantic Layer SDK for Python
+https://github.com/dbt-labs/dbt-demo-data # Demo data for use with dbt
+https://github.com/dbt-labs/coalesce-2022-dag-workshop # Get more from your DAG! A Coalesce 2022 workshop that outlines how to use
+macros and DAG introspection to get more from your dbt project. https://github.com/dbt-labs/semantic-layer-online-course # Repository for the dbt Semantic Layer course
+https://github.com/dbt-labs/tap-amazon-mws # Singer.io tap for Amazon MWS
+https://github.com/dbt-labs/snowflake_dbt_partner_demo #
+https://github.com/dbt-labs/coalesce2022-training-fundamentals # This is the repository for the Coalesce 2022 Fundamentals Live tra
+ining https://github.com/dbt-labs/dbt-timing-project # Randomly generated dbt project to be used for assessing dbt's compilation speed
+https://github.com/dbt-labs/dbt-slack # A slack package for sourcing and transforming slack data
+https://github.com/dbt-labs/jaffle-shop-mesh-finance # A ✨ meshified ✨ open source sandbox project exploring dbt workflows via a
+fictional sandwich shop's data. This is a domain-focused node in the mesh focused on finance models, built on the jaffle-shop-mesh-platform project. https://github.com/dbt-labs/airflow-dbt-cloud # dbt Cloud plugin for Airflow
+https://github.com/dbt-labs/dbt-converter #
+https://github.com/dbt-labs/dbt-learn-gt-init # A repository for initializing project for dbt Learn, Group Training
+https://github.com/dbt-labs/dbt-cli #
+https://github.com/dbt-labs/randy_pitcher_sales_demos # Demo account for tpch and other sales demonstrations
+https://github.com/dbt-labs/dbt-learn-intro # A repository for teaching dbt quickly in 45 minutes with a built out sample project.
+https://github.com/dbt-labs/dbt-metrics-demo-project # A demo dbt project that uses dbt metrics, new in v1.0
+https://github.com/dbt-labs/dbt-learn-advanced-deployment # A repository for building and filming the advanced deployment course on
+courses.getdbt.com https://github.com/dbt-labs/airflow-sinter-operator # An Airflow operator for dbt Cloud (formerly Sinter)
+https://github.com/dbt-labs/mock-dag # DAG builder to create fake dags or recreate a dag from a manifest.json
+https://github.com/dbt-labs/jira-actions # Actions for mirroring GitHub Issues to Jira
+https://github.com/dbt-labs/bigquery_dbt_partner_demo #
+https://github.com/dbt-labs/tap-outbrain # Singer tap for Outbrain
+https://github.com/dbt-labs/coalesce-22-inherited-project-refactoring-workshop # This repository contains the project for the Coale
+sce 2022 Inherited Project Refactoring workshop. https://github.com/dbt-labs/snowflake_frostbyte_tasty_bytes # For development of the Tasty Bytes project with dbt
+https://github.com/dbt-labs/tap-trustpilot # Singer.io tap for TrustPilot
+https://github.com/dbt-labs/autovacuum # auto vacuum redshift schemas
+https://github.com/dbt-labs/exacttarget #
+https://github.com/dbt-labs/tap-campaign-monitor # Singer.io tap for extracting data from the Campaign Monitor API
+https://github.com/dbt-labs/dbt_helpers #
+https://github.com/dbt-labs/metricflow-example # This repository provides an example of an end-to-end deployment of MetricFlow.
+https://github.com/dbt-labs/databricks_dbt_partner_demo #
+https://github.com/dbt-labs/tap-bronto # Singer.io tap for extracting data from the Bronto API
+https://github.com/dbt-labs/example-semantic-layer-clients #
+https://github.com/dbt-labs/technical-instructor-repo # A starter repo for the technical instructor role on BigQuery
+https://github.com/dbt-labs/dbt-modeling-techniques #
+https://github.com/dbt-labs/semantic-layer-tableau-connector # dbt Semantic Layer Tableau Connector
+https://github.com/dbt-labs/redshift_dbt_partner_demo #
+https://github.com/dbt-labs/dbt_formula1_demo #
+https://github.com/dbt-labs/bigquery #
+https://github.com/dbt-labs/tap-taboola # Singer.io tap for extracting data from the Taboola API
+https://github.com/dbt-labs/mailchimp # dbt data models for Mailchimp
+https://github.com/dbt-labs/transform-react #
+https://github.com/dbt-labs/dbt-tests-adapter-custom-tests # Example of custom tests using pytest
+https://github.com/dbt-labs/snowplow-bigquery # dbt models for sessionizing snowplow data on bigquery
+https://github.com/dbt-labs/airflow-fivetran-dbt--dbt-jobs # dbt code for airflow-fivetran-dbt demo project
+https://github.com/dbt-labs/jaffle-shop-mesh-marketing # A ✨ meshified ✨ open source sandbox project exploring dbt workflows via
+a fictional sandwich shop's data. This is a domain-focused node in the mesh focused on marketing models, built on the jaffle-shop-mesh-platform project. https://github.com/dbt-labs/tap-lever # singer.io tap for Lever (lever.co)
+https://github.com/dbt-labs/disseminating-knowledge-with-dbt-cloud # A dbt project for the disseminating knowledge with dbt Cloud c
+ourse https://github.com/dbt-labs/snowflake-tpcds-core #
+https://github.com/dbt-labs/tmp-prototype-model-versions # Hands-on prototypes for Options A, B, C, and D for model versions
+https://github.com/dbt-labs/homebrew-dbt-cli #
+https://github.com/dbt-labs/tap-yotpo #
+https://github.com/dbt-labs/dbt-mashumaro # Fork of Mashumaro repository with changes to work with dbt core
+https://github.com/dbt-labs/schemas.getdbt.com # JSON schemas for describing dbt generated artifacts
+https://github.com/dbt-labs/tap-listrak # Singer.io tap for extracting data from the Listrak API
+https://github.com/dbt-labs/heroku-buildpack-target-stitch #
+https://github.com/dbt-labs/tap-orbit # A singer.io tap for orbit.love
+https://github.com/dbt-labs/tap-mavenlink # Singer.io tap for Mavenlink (http://developer.mavenlink.com/)
+https://github.com/dbt-labs/tap-ebay # Singer.io tap for Ebay fulfillments
+https://github.com/dbt-labs/tap-exacttarget # Singer.io tap for extracting data from the ExactTarget API
+https://github.com/dbt-labs/tap-tickettailor #
+https://github.com/dbt-labs/tap-liveperson #
+https://github.com/dbt-labs/tap-mind-body #
+https://github.com/dbt-labs/adapter-bulk-issue-create # used for notifying adapter maintainers of upcoming releases
+https://github.com/dbt-labs/semantic-layer-coalesce-2023 # Repo for the Coalesce 2023 Semantic Layer course
+https://github.com/dbt-labs/atom_dbt_utils # atom package for dbt utils
+https://github.com/dbt-labs/changelog-generator #
+https://github.com/dbt-labs/coalesce-23-workshop-advanced-testing #
+https://github.com/dbt-labs/tap-selligent # Singer.io tap for extracting data from the Selligent API
+https://github.com/dbt-labs/tap-logmeinrescue #
+https://github.com/dbt-labs/tap-slack #
+https://github.com/dbt-labs/demo-dbt-project # dbt-demo-project
+https://github.com/dbt-labs/dbt_compile_project #
+https://github.com/dbt-labs/snowflake_summit_formula1_workshop_draft # This repo is a working repo in preparation to get the Formul
+a 1 workshop on snowflake's quickstarts website. https://github.com/dbt-labs/coalesce-workshop-template #
+https://github.com/dbt-labs/core-cloud-coalesce-24 # Starter repository for Core-->Cloud course at Coalesce 2024.
+https://github.com/dbt-labs/dbt-cloud-group-training-setup # this repository contains the scripts needed to setup a dbt Cloud Group
+Training https://github.com/dbt-labs/package-controller-project # This repository is to test out how a dbt project can act as a controller a
+nd package management for other dbt projects. https://github.com/dbt-labs/sandbox_external_tables # place for spiking external table as a source materialization
+https://github.com/dbt-labs/hub.getdbt.com-test #
+https://github.com/dbt-labs/dbt-package-testing # Example repo of expected setup for package testing
+https://github.com/dbt-labs/devhub-business-hours #
+https://github.com/dbt-labs/oss-at-dbt #
+https://github.com/dbt-labs/pre-commit-hooks #
+https://github.com/dbt-labs/dbt-explorer-on-demand-course-finance #
+https://github.com/dbt-labs/c24-workshops-platform # A repository for an upstream central data platform repository for Coalesce '24
+https://github.com/dbt-labs/tap-appointment-plus #
+https://github.com/dbt-labs/dbt-integration-project # Integration test project for dbt test suite
+https://github.com/dbt-labs/refactoring-sample-lesson # Starter repo for the refactoring sample lesson candidates applying to a Sr.
+Technical Instructor role will conduct.. https://github.com/dbt-labs/tap-uservoice # Singer.io tap for extracting data from the Uservoice API
+https://github.com/dbt-labs/cloud_sandbox #
+https://github.com/dbt-labs/python-hackathon-tpch-benchmark #
+https://github.com/dbt-labs/internal-analytics-xp-ref #
+https://github.com/dbt-labs/dbt-oss-template # Template service for OSS at dbt Labs
+https://github.com/dbt-labs/c24-workshops-analysts # A workshop repo for Coalesce '24
+https://github.com/dbt-labs/tap-gnip #
+https://github.com/dbt-labs/styles #
+https://github.com/dbt-labs/tap-rebound #
+https://github.com/dbt-labs/dbt-awsdevday-workshop #
+https://github.com/dbt-labs/sr-technical-instructor-repo #
+https://github.com/dbt-labs/jaffle-shop-guides-materializations #
+https://github.com/dbt-labs/coalesce-hackathon-2023-parent #
+https://github.com/dbt-labs/dbt-explorer-on-demand-course-platform #
+https://github.com/dbt-labs/tap-platformpurple #
+https://github.com/dbt-labs/ad-performance # dbt models to measure digital advertising performance.
+https://github.com/dbt-labs/coalesce2022-training-adv-mats #
+https://github.com/dbt-labs/hakkoda-puki-yuki-2023-workshop # A repo for Hakkoda folks to connect their dbt Cloud account to. This
+will be the dbt init project spun up. https://github.com/dbt-labs/dag-with-model-layers #
+https://github.com/dbt-labs/json-schemas # helpful json schemas for snowplow event tracking
+https://github.com/dbt-labs/coalesce-hackathon-2023 #
+https://github.com/dbt-labs/jaffle_shop-dev2 #
+https://github.com/dbt-labs/xproj-lineage-poc # POC for a DAG of projects using the Discovery API
+https://github.com/dbt-labs/semantic-layer-deep-dive-coalsece-2024 # starter repo for SL deep dive course at Coalesce.
+https://github.com/dbt-labs/property_management_project # solutions to the property management project
+https://github.com/dbt-labs/dbt_snowflake_demo_mg #
+https://github.com/dbt-labs/coalesce_23_workshop_migrating_stored_procs #
+https://github.com/dbt-labs/dbt-mesh-on-demand-course-platform #
+https://github.com/dbt-labs/advanced-deployment-workshop-coalesce-2024 #
+https://github.com/dbt-labs/tap-copper #
+https://github.com/dbt-labs/coalesce-22-zero-to-dbt #
+https://github.com/dbt-labs/dbt-release # Manages releases of dbt Core
+https://github.com/dbt-labs/demo-shippo #
+https://github.com/dbt-labs/snowflake_summit_demo #
+https://github.com/dbt-labs/dbt-usability-session #
+https://github.com/dbt-labs/hwatson-sandbox-project # A sandbox to play around in without breaking others nice things.
+https://github.com/dbt-labs/fabric_dbt_partner_demo #
+https://github.com/dbt-labs/dbt-mesh-on-demand-course-finance #
+https://github.com/dbt-labs/training-team # This is a repository for saving code that is frequently shared and used in training eng
+agements. https://github.com/dbt-labs/hope_watson_sandbox #
+https://github.com/dbt-labs/core-to-cloud-coalesce-2024 # Core-->Cloud starter repo for Coalesce Core-->Cloud course 2024
+https://github.com/dbt-labs/c24-workshops-sales # A public repo for the sales project in a dbt Mesh implementation
+https://github.com/dbt-labs/joellabes-webhook-testing #
+https://github.com/dbt-labs/mesh-on-demand-course-project-2 # stripe project for dbt mesh on demand course
+https://github.com/dbt-labs/dbt-learn-unit-testing #
+https://github.com/dbt-labs/snowplow-block #
+https://github.com/dbt-labs/talk #
+https://github.com/dbt-labs/test-ov-looker #
+https://github.com/dbt-labs/amazon-eks-ami #
+https://github.com/dbt-labs/schemas #
+https://github.com/dbt-labs/tap-purecloud #
+https://github.com/dbt-labs/facebook-ads-bigquery #
+https://github.com/dbt-labs/learn-on-demand-databricks #
+https://github.com/dbt-labs/codegen-copy #
+https://github.com/dbt-labs/sce_trial #
+https://github.com/dbt-labs/snowflake-tpcds-sales-spoke #
+https://github.com/dbt-labs/tap-duedil #
+https://github.com/dbt-labs/ci_improvements_internal_training # simple jaffle shop repo. to be cloned for the CI improvements inter
+nal training July 2023.

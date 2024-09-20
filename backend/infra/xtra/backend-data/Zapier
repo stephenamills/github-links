@@ -1,0 +1,52 @@
+https://github.com/zapier/resthooks # A lightweight subscription notification layer on top of your existing REST API
+https://github.com/zapier/email-reply-parser # :email: Email reply parser library for Python
+https://github.com/zapier/zapier-platform # The SDK for you to build an integration on Zapier
+https://github.com/zapier/kubechecks # Check your Kubernetes changes before they hit the cluster
+https://github.com/zapier/apollo-server-integration-testing # Test helper for writing apollo-server integration tests
+https://github.com/zapier/zapier-for-alfred # An Alfred workflow to trigger Zaps
+https://github.com/zapier/stripeboard # A simple Django app that collects and displays Stripe data.
+https://github.com/zapier/prom-aggregation-gateway # An aggregating push gateway for Prometheus
+https://github.com/zapier/formatic # :pencil2: A configurable, pluggable forms library for React used on Zapier.com.
+https://github.com/zapier/google-yolo-inline # A demo of how to include Google One-tap sign up anywhere on your own site
+https://github.com/zapier/intl-dateformat # Format a date using Intl.DateTimeFormat goodness.
+https://github.com/zapier/redux-router-kit # Routing tools for React+Redux
+https://github.com/zapier/visual-builder # Learn how to use Zapier Visual Builder to create new Zapier integrations
+https://github.com/zapier/django-rest-framework-jsonmask # Exposes Google Partial Response syntax in Django REST Framework
+https://github.com/zapier/react-element-portal # Blend React into your exising site by rendering elements inline, targeting an elem
+ent by id. https://github.com/zapier/zapier-platform-example-app-github # An example GitHub app for the Zapier platform.
+https://github.com/zapier/tfbuddy # Terraform Cloud pull request alternate workflow
+https://github.com/zapier/preoomkiller-controller # Preoomkiller Controller evicts pods gracefully before they get OOMKilled by Kub
+ernetes https://github.com/zapier/conspiracysanta.com # No longer maintained: A better secret santa for teams.
+https://github.com/zapier/litdoc # :triangular_ruler: A simple Markdown-based 3-column documentation builder.
+https://github.com/zapier/django-stalefields # No longer updated: Automatic .update() instead of .save() for models.
+https://github.com/zapier/django-birdcage # Utilities for maintaining forwards compatibility with Django releases.
+https://github.com/zapier/jsonmask # Implements Google Partial Response dictionary pruning in Python
+https://github.com/zapier/profiling-python-like-a-boss # Sample code for a Zapier engineering blog post
+https://github.com/zapier/resthookdemo # A quick and easy demo application for rest hooks.
+https://github.com/zapier/saasr # A SaaS subscription simulator - a tool to learn about the statistical mechanics of subscriptions
+https://github.com/zapier/langchain-nla-util #
+https://github.com/zapier/awsjavasdk # Boilerplate rJava Access to the AWS Java SDK
+https://github.com/zapier/zapier-platform-example-app-oauth2 # An example Zapier Platform App that demonstrates OAuth2
+https://github.com/zapier/zapier-sugarcrm-box # No longer updated: A vagrant box to boot up an instance of sugarcrm for local testi
+ng https://github.com/zapier/zapier-platform-example-app-files # An example Zapier Platform App that demonstrates file handling (stash File and dehydrate).
+https://github.com/zapier/bemify-js # :corn: Simple BEM prefixing of CSS classes
+https://github.com/zapier/kairos #
+https://github.com/zapier/django-linttest # Lint Test is a simple Django app to perform flake8 linting on your project
+https://github.com/zapier/zapier-platform-example-app-microsoft-exchange # An example Zapier CLI app for MS Exchange
+https://github.com/zapier/docker-proxysql # ProxySQL Docker images
+https://github.com/zapier/release-notes # an npm module for pulling merged PRs and generating release notes from them
+https://github.com/zapier/diff-match-patch-cython # A quick hack that speeds up dmp by about ~3x.
+https://github.com/zapier/ecr-catalog-refresh # Simple sidecar to refresh a catalogfile from ECR
+https://github.com/zapier/terraform-provider-opslevel # Terraform provider for OpsLevel.com
+https://github.com/zapier/babel-preset-zapier # 🏯 A babel preset for Zapier
+https://github.com/zapier/parquetr # Read/Write Parquet from R
+https://github.com/zapier/sentinel-graylog # A simple script which pipes Redis Sentinel messages into Graylog
+https://github.com/zapier/rethinkdb-old # No longer updated
+https://github.com/zapier/import-sort-style-zapier # Zapier's custom style of import-sort to sort import statements
+https://github.com/zapier/zapier-evernote-sdk-python-old # No longer updated: Python SDK for Evernote API version 1.22
+https://github.com/zapier/docker-proxysql-datadog-metrics # Datadog metrics collector for ProxySQL
+https://github.com/zapier/puppet-puppetmaster # Puppet module for bootstrapping pupppet masters
+https://github.com/zapier/stride-app-descriptor #
+https://github.com/zapier/tickets # get tickets
+https://github.com/zapier/zapier-platform-app-converted-full-test # Full Test Converted App tests everything in the legacy-scriptin
+g-runner. https://github.com/zapier/puppet_zkwatcher # Puppet library and manifest for use with zk_watcher
