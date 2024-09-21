@@ -1,0 +1,301 @@
+https://github.com/unity-technologies/ml-agents # The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+https://github.com/unity-technologies/unitycsreference # Unity C# reference source code.
+https://github.com/unity-technologies/entitycomponentsystemsamples #
+https://github.com/unity-technologies/fpssample # A first person multiplayer shooter example project in Unity
+https://github.com/unity-technologies/arfoundation-samples # Example content for Unity projects based on AR Foundation
+https://github.com/unity-technologies/navmeshcomponents # High Level API Components for Runtime NavMesh Building
+https://github.com/unity-technologies/boatattack # Demo Project using the Universal RP from Unity3D
+https://github.com/unity-technologies/graphics # Unity Graphics - Including Scriptable Render Pipeline
+https://github.com/unity-technologies/assetbundles-browser # Editor tool for viewing and debugging asset bundle contents before and
+after builds https://github.com/unity-technologies/com.unity.netcode.gameobjects # Netcode for GameObjects is a high-level netcode SDK that prov
+ides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer. https://github.com/unity-technologies/universalrenderingexamples # This project contains a collection of Custom Renderer examples.
+This will be updated as we refine the feature and add more options. https://github.com/unity-technologies/unity-robotics-hub # Central repository for tools, tutorials, resources, and documentation fo
+r robotics simulation in Unity. https://github.com/unity-technologies/visualeffectgraph-samples # Visual Effect Graph - Samples Project
+https://github.com/unity-technologies/autolod # Automatic LOD generation + scene optimization
+https://github.com/unity-technologies/volumetriclighting # Lighting effects implemented for the Adam demo: volumetric fog, area lig
+hts and tube lights https://github.com/unity-technologies/animation-instancing # This technique is designed to instance Characters(SkinnedMeshRender).
+https://github.com/unity-technologies/com.unity.multiplayer.samples.coop # A small-scale cooperative game sample built on the new,
+Unity networking framework to teach developers about creating a similar multiplayer game. https://github.com/unity-technologies/dots-training-samples # Samples designed as exercises to be ported from Unity GameObjects/Mon
+oBehaviours to Unity DOTS. https://github.com/unity-technologies/2d-extras # Fun 2D Stuff that we'd like to share!
+https://github.com/unity-technologies/game-programming-patterns-demo # A repo of small demos that assemble some of the well-known d
+esign patterns in Unity development to support the ebook "Level up your code with game programming patterns" https://github.com/unity-technologies/inputsystem # An efficient and versatile input system for Unity.
+https://github.com/unity-technologies/unity.mathematics # The C# math library used in Unity providing vector types and math functio
+ns with a shader like syntax https://github.com/unity-technologies/multiplayer # Unity multiplayer packages and samples
+https://github.com/unity-technologies/unityrenderstreaming # Streaming server for Unity
+https://github.com/unity-technologies/addressables-sample # Demo project using Addressables package
+https://github.com/unity-technologies/ugui # Source code for the Unity UI system.
+https://github.com/unity-technologies/shadergraph # Unity ShaderGraph project
+https://github.com/unity-technologies/vfxtoolbox # Additional tools for Visual Effect Artists
+https://github.com/unity-technologies/assetgraph # Visual Workflow Automation Tool for Unity.
+https://github.com/unity-technologies/fontainebleaudemo # Fontainebleau demo
+https://github.com/unity-technologies/xr-interaction-toolkit-examples # This repository contains various examples to use with the X
+R Interaction Toolkit https://github.com/unity-technologies/spaceshipdemo # Spaceship Demo - AAA Playable First person demo showcasing effects made with
+Visual Effect Graph and rendered with High Definition Render Pipeline https://github.com/unity-technologies/dotssample # A third person, multiplayer sample project. Built with Unity and using the new D
+ata Oriented Tech Stack (DOTS). https://github.com/unity-technologies/2d-techdemos # Tech Demos for Unity 2D Features
+https://github.com/unity-technologies/editorxr # Author XR in XR
+https://github.com/unity-technologies/com.unity.perception # Perception toolkit for sim2real training and validation in Unity
+https://github.com/unity-technologies/projecttinysamples # Samples for Project Tiny
+https://github.com/unity-technologies/unityplayground # A collection of simple scripts to create 2D physics game, intended for givi
+ng workshops to a young audience https://github.com/unity-technologies/hlslcc # DirectX shader bytecode cross compiler
+https://github.com/unity-technologies/hlodsystem #
+https://github.com/unity-technologies/projectauditor # Project Auditor is an experimental static analysis tool for Unity Projects.
+https://github.com/unity-technologies/nativerenderingplugin # C++ Rendering Plugin example for Unity
+https://github.com/unity-technologies/com.unity.formats.alembic # Alembic importer and exporter plugin for Unity
+https://github.com/unity-technologies/giles # GILES: A Runtime Level Editor for Unity3D
+https://github.com/unity-technologies/uniteaustintechnicalpresentation #
+https://github.com/unity-technologies/com.unity.webrtc # WebRTC package for Unity
+https://github.com/unity-technologies/uaal-example #
+https://github.com/unity-technologies/com.unity.demoteam.hair # An integrated solution for authoring / importing / simulating / ren
+dering strand-based hair in Unity. https://github.com/unity-technologies/backgrounddownload # Plugins for mobile platforms to enable file downloads in background
+https://github.com/unity-technologies/superscience # Gems of Unity Labs for our user-base.
+https://github.com/unity-technologies/meshapiexamples # Example project for Unity 2020.1 Mesh API improvements
+https://github.com/unity-technologies/com.unity.multiplayer.docs # Open Source documentation for Unity Multiplayer, which includes
+Netcode for GameObjects, the Unity Transport Package, Multiplayer Tools and Educational references and Sample Games such as Boss Room. https://github.com/unity-technologies/graph-visualizer # Visualizer for your Playable graphs
+https://github.com/unity-technologies/guid-based-reference # A component for giving Game Objects a GUID and a class to create refer
+ences to objects in any Scene by GUID https://github.com/unity-technologies/standard-assets-characters # Unity Standard Asset Controllers
+https://github.com/unity-technologies/com.unity.demoteam.mesh-to-sdf # A light and fast real-time SDF generator, primarily for anim
+ated characters. The dynamic SDF can be used for all sorts of VFX. Also enables hair-to-character collisions in the new hair package. https://github.com/unity-technologies/megacity-metro # Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a m
+ultiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games. https://github.com/unity-technologies/barracuda-release #
+https://github.com/unity-technologies/ecs-network-racing-sample # ECS multiplayer racing sample to showcase using Unity Entities an
+d netcode with best practices https://github.com/unity-technologies/unitydatatools # Experimental tools and libraries for reading and analyzing Unity data files.
+https://github.com/unity-technologies/obstacle-tower-env # Obstacle Tower Environment
+https://github.com/unity-technologies/genericframerecorder # This GitHub package is DEPRECATED. Please get the new Unity Recorder f
+rom the Asset Store (https://assetstore.unity.com/packages/essentials/unity-recorder-94079) Use the editor builtin Bug Reporter to report issues. You can track and vote for issues on the Issue Tracker (https://issuetracker.unity3d.com) https://github.com/unity-technologies/com.unity.demoteam.digital-human # Library of tech features used to realize the digital human
+from 'The Heretic' and 'Enemies'. https://github.com/unity-technologies/delightingtool # De-Lighting tool
+https://github.com/unity-technologies/physicsexamples2d # Examples of various Unity 2D Physics components and features.
+https://github.com/unity-technologies/animation-jobs-samples # Code samples using the animation C# jobs feature.
+https://github.com/unity-technologies/com.unity.cinemachine # Smart camera tools for passionate creators
+https://github.com/unity-technologies/usd-unity-sdk # Integration of Pixar's Universal Scene Description into Unity. UPDATE: This p
+ackage has been superseded by our new bundle of USD packages. Please see README & link below for further details. https://github.com/unity-technologies/megacity-2019 # Megacity is a sample showcasing streaming a large scale environment. It also
+contains an action-packed, multiplayer shooter mode. It leverages the power of Netcode for Entities for an immersive, multiplayer experience that can support 64+ players simultaneously. https://github.com/unity-technologies/meshsyncdccplugins # DCC plugins for MeshSync in Unity. Supported tools: Maya, Maya LT, 3ds M
+ax, Motion Builder, Modo, Blender, Metasequoia https://github.com/unity-technologies/ui-toolkit-manual-code-examples # Unity UI Toolkit documentation code examples
+https://github.com/unity-technologies/com.unity.services.samples.use-cases # The collection of samples in this repo use Unity Gamin
+g Services in a Unity project to demonstrate live gaming operations. https://github.com/unity-technologies/uielementsexamples # Unity project containing examples to use UIElements in the Editor
+https://github.com/unity-technologies/multiplayer-community-contributions # Community contributions to Unity Multiplayer Networking
+products and services. https://github.com/unity-technologies/unity.animation.samples # Repository of projects that showcase the new DOTS animation package
+(com.unity.animation). https://github.com/unity-technologies/measuredmateriallibraryurp #
+https://github.com/unity-technologies/endlessrunnersamplegame # Repository for the Endless Runner Game Sample (Trash Dash)
+https://github.com/unity-technologies/batchbreakingcause # This project demonstrates different cases when Unity has to break a batc
+h while rendering. https://github.com/unity-technologies/synthdet # SynthDet - An end-to-end object detection pipeline using synthetic data
+https://github.com/unity-technologies/measuredmateriallibraryhdrp #
+https://github.com/unity-technologies/uitoolkitunityroyaleruntimedemo # This is a sample project to introduce the use of UI Toolkit
+in Runtime https://github.com/unity-technologies/com.unity.probuilder #
+https://github.com/unity-technologies/com.unity.multiplayer.samples.bitesize # A collection of smaller Bitesize samples to educate
+in isolation features of Netcode for GameObjects and related technologies. https://github.com/unity-technologies/articulations-robot-demo #
+https://github.com/unity-technologies/hdrpraytracingscenes # This repository contains a startup DXR project.
+https://github.com/unity-technologies/robotics-nav2-slam-example # An example project which contains the Unity components necessary
+to complete Navigation2's SLAM tutorial with a Turtlebot3, using a custom Unity environment in place of Gazebo. https://github.com/unity-technologies/buildreportinspector # Editor script which implements an inspector for the BuildReport class
+https://github.com/unity-technologies/boat-attack-water # Package repo containing the water system created for the URP Boat Attack
+demo project. https://github.com/unity-technologies/xrlinerenderer # An XR-Focused line renderer that mimics rendering with 3d capsules while onl
+y using two quads worth of geometry. https://github.com/unity-technologies/com.unity.demoteam.digital-human.sample # Character sample featuring the digital human from '
+The Heretic'. https://github.com/unity-technologies/peoplesanspeople # Unity's privacy-preserving human-centric synthetic data generator
+https://github.com/unity-technologies/marathon-envs # A set of high-dimensional continuous control environments for use with Unity
+ML-Agents Toolkit. https://github.com/unity-technologies/classic-sponza # Unity remaster of the classic Sponza scene.
+https://github.com/unity-technologies/robotics-object-pose-estimation # A complete end-to-end demonstration in which we collect tra
+ining data in Unity and use that data to train a deep neural network to predict the pose of a cube. This model is then deployed in a simulated robotic pick-and-place task. https://github.com/unity-technologies/ros-tcp-connector #
+https://github.com/unity-technologies/vralchemylab # VR Demo project using HDRP and unity 2019.3
+https://github.com/unity-technologies/skyboxpanoramicshader # Skybox shader for support of 360/180/cubemap video and static content
+https://github.com/unity-technologies/notificationssamples # Sample project for Unity Notifications
+https://github.com/unity-technologies/shadergraph-custom-lighting # A sample project showcasing a simple method to calculate custom
+lighting inside of Shader Graph for the Lightweight Render Pipeline. Includes a sample toon shaded scene and example assets. Built for Unity 2019.2 . https://github.com/unity-technologies/brg-shooter # Unity blog-post sample showing BatchRendererGroup and Burst/JobSystem. Focus is
+high performance even on budget mobile devices. Unity 2022.3.5 or above required https://github.com/unity-technologies/charactercontrollersamples # Sample projects for the Unity.CharacterController package
+https://github.com/unity-technologies/2d-pixel-perfect # Pixel Perfect Camera
+https://github.com/unity-technologies/desktopsamples # This repository contains Unity samples for desktop platforms
+https://github.com/unity-technologies/unity-ads-android # Unity Ads SDK for Android
+https://github.com/unity-technologies/com.unity.formats.fbx # FBX Exporter tools for editing and exchanging assets between the Unit
+y and Digital Content Creation (DCC) tools such as Maya and 3DS Max https://github.com/unity-technologies/urdf-importer # URDF importer
+https://github.com/unity-technologies/com.autodesk.fbx # FBX SDK C# bindings
+https://github.com/unity-technologies/2d-gamedemo-robodash # Robodash!
+https://github.com/unity-technologies/2d-spriteshape-samples # Samples for the 2D SpriteShape feature.
+https://github.com/unity-technologies/com.unity.services.samples.game-lobby # A sample showcasing a minimal implementation of a lob
+by experience using the Lobby and Relay packages. https://github.com/unity-technologies/srpbatcherbenchmark # various benchmark scenes for SRP batcher ( both LWRP & HDRP )
+https://github.com/unity-technologies/addressableassetswebinar #
+https://github.com/unity-technologies/2d-animation-samples # Samples for 2D Animation features.
+https://github.com/unity-technologies/vector-graphics-samples # SVG and Vector Graphics Sample Project
+https://github.com/unity-technologies/gamekit3d #
+https://github.com/unity-technologies/waterscenes # A collection of scenes showcasing usage of the new HDRP water system
+https://github.com/unity-technologies/com.unity.editoriterationprofiler # Assists in capturing frames from the Profiler of Domain R
+eloads in the Unity Editor. Compatible with Unity 2019.3+. https://github.com/unity-technologies/toolscollection # A collection of all the small tools we
+https://github.com/unity-technologies/com.unity.search.extensions # This package contains a bunch of examples, samples and queries
+to be used with Unity Search. https://github.com/unity-technologies/missilesperfectmaster # A compute shader demo for Unite 2018 Tokyo.
+https://github.com/unity-technologies/ros-tcp-endpoint # ROS package used to create an endpoint to accept ROS messages sent from a
+Unity scene using the ROS TCP Connector scripts https://github.com/unity-technologies/kinematica_demo # Kinematica Demo Project
+https://github.com/unity-technologies/dots-shmup3d-sample # A demo with Unity DOTS and Unity Physics.
+https://github.com/unity-technologies/animation-rigging-workshop-siggraph2019 # Repository for SIGGRAPH 2019 Animation Rigging work
+shop https://github.com/unity-technologies/2d-renderer-samples # Samples for Unity's 2D Renderer
+https://github.com/unity-technologies/termsofservice # Current and prior versions of the terms that apply to your use of the Unity
+Editor software. https://github.com/unity-technologies/theheretic-vfxcharacter # Morgan - a VFX character from The Heretic, a short film made with U
+nity https://github.com/unity-technologies/git-for-unity # Git for Unity, a fork of GitHub for Unity
+https://github.com/unity-technologies/zombieobjectdetector # Tool for detecting "Fake Null" C# instances.
+https://github.com/unity-technologies/shadergraph-masterstack-samples # A sample project using the Universal Render Pipeline that i
+ncludes examples to demo latest ShaderGraph feature - MasterStack https://github.com/unity-technologies/unityscript2csharp # Tool to convert UnityScript (a.k.a, Javascript in Unity parlance) to C#
+https://github.com/unity-technologies/ecsgalaxysample # ECS sample demonstrating an automated simulation of teams of spaceships fig
+hting for the control of planets https://github.com/unity-technologies/unitytextureaccessapiexamples # Example project for Unity 2020.1+ texture data access APIs
+https://github.com/unity-technologies/com.unity.services.samples # A collection of working examples of Unity Gaming Services.
+https://github.com/unity-technologies/unityoptions #
+https://github.com/unity-technologies/unity-ads-ios # Unity Ads SDK for iOS
+https://github.com/unity-technologies/dynamicresolutionsample # A drop-in dynamic resolution script
+https://github.com/unity-technologies/q-gridworld # Demo project using tabular Q-learning algorithm
+https://github.com/unity-technologies/sentis-samples # Sentis samples internal development repository. Contains example and templat
+e projects for Sentis package use. https://github.com/unity-technologies/vehicletools # This sample project provides a series of tools to rig wheeled vehicles
+https://github.com/unity-technologies/com.unity.mobile.notifications # Mobile Notifications Package
+https://github.com/unity-technologies/nativeaudioplugins #
+https://github.com/unity-technologies/uielementsunitecph2019runtimedemo # This is the project used in the Unite Copenhagen 2019 pre
+sentation: Building UI for games with the new UI Builder https://github.com/unity-technologies/conditionalcompilationutility # Automatically add defines upon the detection of predicate cla
+sses https://github.com/unity-technologies/otto # Otto sample project for the AI Planner
+https://github.com/unity-technologies/qstat # New official qstat repository
+https://github.com/unity-technologies/obstacle-tower-source # Obstacle Tower Source Code
+https://github.com/unity-technologies/obstacle-tower-challenge # Starter Kit for the Unity Obstacle Tower challenge
+https://github.com/unity-technologies/dots-streamingsamples # DOTS - Streaming samples
+https://github.com/unity-technologies/performancebenchmarkreporter # The Unity Performance Benchmark tool enables partners and deve
+lopers to establish benchmark samples and measurements using the Performance Testing package, then use these benchmark values to compare subsequent performance test results in an html output utilizing graphical visualizations. https://github.com/unity-technologies/com.unity.selection-groups #
+https://github.com/unity-technologies/anotherthreadecs # A demo made with ECS
+https://github.com/unity-technologies/probuilder-api-examples # This code has moved into the ProBuilder repository under "Samples~"
+https://github.com/unity-technologies/onslaught # A multiplatform XR sample game with no third-party packages.
+https://github.com/unity-technologies/com.unity.gis.high-precision-framework # This high precision framework is a package which all
+ows for the easy creation of large-scale visualizations. It has the ambition of solving problems outside of the pure geospatial streaming applications. https://github.com/unity-technologies/lua_live_coding #
+https://github.com/unity-technologies/animation-rigging-advanced-character-interaction # Advanced Animation Rigging: Character and
+Props interaction https://github.com/unity-technologies/xrautomatedtests # XRAutomatedTests is where you can find functional, graphics, performance,
+and other types of automated tests for your XR Unity development. https://github.com/unity-technologies/com.unity.cv.synthetichumans # A package for creating Unity Perception compatible synthetic p
+eople. https://github.com/unity-technologies/banditdungeon # Demo project using multi-armed bandit algorithm
+https://github.com/unity-technologies/prefabapiexamples # Example code using the Prefab API
+https://github.com/unity-technologies/scriptablerenderpipelinedata # Data for Scriptable Render Pipeline
+https://github.com/unity-technologies/mr-example-meta-openxr # Mixed Reality example project featuring integration of OpenXR, XR In
+teraction Toolkit, XR Hands, AR Foundation and the Meta-OpenXR package. This project will allow creators to quickly get up and running with their own mixed reality games and apps using the Meta Quest 2, Quest Pro and Quest 3 devices. https://github.com/unity-technologies/unity-inverse-dynamics-demo # A small project showing off the Inverse dynamics available in U
+nity https://github.com/unity-technologies/hlodsystemdemo # HLODSystem is applied to 3DGameKit.
+https://github.com/unity-technologies/com.unity.material-switch #
+https://github.com/unity-technologies/synthetichomes # This repository will house builds of Unity's synthetic home generator.
+https://github.com/unity-technologies/com.unity.performance-tracking # A set of tools and utilities to help track Unity Editor perf
+ormance https://github.com/unity-technologies/googleplaylicenseverification # Unity Android plugin example on how to interface the Google P
+lay License Verification (LVL) servers https://github.com/unity-technologies/com.unity.services.samples.matchplay # A Matchmaking with Multiplay Unity example project. Im
+plements the Unity Matchmaking and Multiplay SDK to create an end to end matchmaking game experience. https://github.com/unity-technologies/datasetinsights # Synthetic Dataset Insights
+https://github.com/unity-technologies/probuilder-vr # Kinda like ProBuilder, but in virtual reality.
+https://github.com/unity-technologies/sharedspheres # An example project to demonstrate an AR shared multiplayer experience using U
+nity ARKit Plugin for ARKit 2 and UNet https://github.com/unity-technologies/com.unity.ads.ios-support # Provides support for App Tracking Transparency and SkAdNetwork AP
+I newly introduced in Apple iOS 14. https://github.com/unity-technologies/unitysimulation-coronavirus-example # Unity Simulation Coronavirus Example
+https://github.com/unity-technologies/timelinemarkercustomization # Examples to show how markers and notifications work.
+https://github.com/unity-technologies/uaal-ar-example #
+https://github.com/unity-technologies/asset-auditing-tools # A set of Editor tools to audit project assets and correct errors
+https://github.com/unity-technologies/uielementsunitelaturretdemo # Demo Used in Unite LA 2018 UIElements talk.
+https://github.com/unity-technologies/clusterdisplay # Use the Unity Cluster Display packages (com.unity.cluster-display) to displa
+y synchronously the same Unity Scene across multiple machines through display clustering. https://github.com/unity-technologies/filmsampleproject # Sample Project for Animation / Film Projects
+https://github.com/unity-technologies/unite2019-scenedatatodots # Unite 2019 - Converting Scene Data to DOTS (samples)
+https://github.com/unity-technologies/go-xgboost # XGBoost bindings for golang
+https://github.com/unity-technologies/rival-documentation # Documentation website for Rival - DOTS Character Controller
+https://github.com/unity-technologies/genlockproofofconcept # Proof of concept Unity project for more precise control of framerates
+and GenLock https://github.com/unity-technologies/shadergraphfeaturedemo_litmasternode # Simple HD RP project to showcase new Lit master node.
+https://github.com/unity-technologies/lookdev-studio # LookDev Studio: a template for artists to import their work, and share the r
+esult with their directors, team and clients. https://github.com/unity-technologies/multimaterial #
+https://github.com/unity-technologies/unity-ads # Unity Ads documentation repository
+https://github.com/unity-technologies/robotics-warehouse # A warehouse environment for robotics simulation in Unity.
+https://github.com/unity-technologies/barracuda-starter-kit # Barracuda Starter Kit project. Selected tutorials and documentation f
+or Unity Barracuda project. https://github.com/unity-technologies/splinetooltutorial #
+https://github.com/unity-technologies/genericrecorder-movierecorderplugin # FrameRecorder recorder plugin to record MP4's with audi
+o using Unity API's only. https://github.com/unity-technologies/notchsafeareasample # Simple project to test cutouts, safe area APIs with Device Simulator
+https://github.com/unity-technologies/ml-agents-dodgeball-env # Showcase environment for ML-Agents
+https://github.com/unity-technologies/timeline-messagemarker # Timeline Message markers
+https://github.com/unity-technologies/gettingstartedwithburst-unite2019 # Companion to the "Getting Started With Burst" talk from U
+nite 2019 https://github.com/unity-technologies/com.unity.reflect.viewer # Unity Reflect Viewer
+https://github.com/unity-technologies/potatobenchmark #
+https://github.com/unity-technologies/monobuildtools #
+https://github.com/unity-technologies/visualscripting #
+https://github.com/unity-technologies/animation-rigging-crane-example # Animation Rigging - Crane - Example
+https://github.com/unity-technologies/labs # Repository containing information about Unity Labs research past and current.
+https://github.com/unity-technologies/com.unity.cli-project-setup # Provides a command line parser and options to set editor, build
+, player, and other Unity settings when running Unity from the command line https://github.com/unity-technologies/2d-animation-v2-samples # Samples for 2D Animation v2.
+https://github.com/unity-technologies/infinity_tile_shader # Shader snippets for Artomatix Infinity Tiles (Wang Tiles)
+https://github.com/unity-technologies/simpleiksolver #
+https://github.com/unity-technologies/360-video-heatmaps # Heatmaps for 360 Video
+https://github.com/unity-technologies/com.unity.rpc #
+https://github.com/unity-technologies/tilingrandomization # Randomized Tiling for Unity ShaderGraph
+https://github.com/unity-technologies/unity-cloud-reference-project # A Unity project for building an immersive experience to facil
+itate interactive real-time 3D design reviews
+https://github.com/unity-technologies/com.unity.multiplayer.rfcs #
+https://github.com/unity-technologies/go-ts3 # A golang TeamSpeak 3 ServerQuery client
+https://github.com/unity-technologies/timelinesignalstutorial # Small game demo to showcase Timeline Signals
+https://github.com/unity-technologies/vr-spectator-sample # Sample project for understanding how to VR Spectate in Unity
+https://github.com/unity-technologies/codeeditor #
+https://github.com/unity-technologies/iosnativecodesamples #
+https://github.com/unity-technologies/xrinputtests # Manual Input tests that are used by the Unity X-Reality Quality Assurance team
+to understand status across virtual reality and augmented reality platforms. https://github.com/unity-technologies/huaweiservicesample # Public repository for HUAWEI HMS & AGC Unity SDK
+https://github.com/unity-technologies/sol-games-unity-samples # Unity code samples from the Accelerate Solutions Games team
+https://github.com/unity-technologies/rat-rnn # Simulate Rat neural activity in the maze
+https://github.com/unity-technologies/hello-cube-ecs-training #
+https://github.com/unity-technologies/multiplay-examples # Examples for using Unity Multiplay: https://unity.com/products/multiplay
+https://github.com/unity-technologies/game-simulation-match-3-sample # Game Simulation Match 3 Sample
+https://github.com/unity-technologies/mgobe #
+https://github.com/unity-technologies/spirv-cross #
+https://github.com/unity-technologies/nativeversioncontrolplugins # Perforce Version Control plugins for Unity
+https://github.com/unity-technologies/video-recorder # Unity ML-Agents Toolkit VideoRecorder Plugin
+https://github.com/unity-technologies/com.unity.immediate-window # The Immediate Window provides a way to rapidly edit and debug code. It is not a full development environment, instead it is to be used for API discovery and rapid prototyping. https://github.com/unity-technologies/unitytestrunnerresultsreporter #
+https://github.com/unity-technologies/com.unity.process-server #
+https://github.com/unity-technologies/triangle.net #
+https://github.com/unity-technologies/pysolotools # Python toolchain for SOLO.
+https://github.com/unity-technologies/physically-based-anim-tool #
+https://github.com/unity-technologies/xracceptancetests # This project is used to verify behavior of Unity configurations, compare
+features between Unity releases, and test for changes in performance. https://github.com/unity-technologies/progroups # Organize your scene with groups and visibility toggles.
+https://github.com/unity-technologies/unitykeyer # Use the Unity Keyer to create an alpha mask from green screen images in the Unit
+y Editor. https://github.com/unity-technologies/gametune-example-game # Contains an example game with GameTune integrated
+https://github.com/unity-technologies/unityoscprotocolsupport # Send and receive control messages between the Unity Editor and exte
+rnal devices using the Open Sound Control (OSC) protocol. https://github.com/unity-technologies/quickstart-arcade # Arcade Classics project is a collection of lightweight single scene games
+inspired by early arcade games. https://github.com/unity-technologies/go-slack # Go library for the Slack API.
+https://github.com/unity-technologies/com.unity.mobile.logcat #
+https://github.com/unity-technologies/anthronet # Unity's Privacy-Preserving Novel Human Body Model Trained Solely on Synthetic Dat
+a and Corresponding Dense Anthropometric Measurements https://github.com/unity-technologies/furioos-sdk-js # Furioos SDK for JavaScript
+https://github.com/unity-technologies/unity-gaming-services-cli # The unity gaming services (UGS) CLI is a unified command line int
+erface tool for gaming services. https://github.com/unity-technologies/com.unity.gis.streaming-framework # A streaming framework for geospatial data
+https://github.com/unity-technologies/arfoundationgdc2019 # AR Foundation demo shown on stage at Unity's 2019 GDC Keynote
+https://github.com/unity-technologies/com.unity.editor.tasks #
+https://github.com/unity-technologies/vault-secret-fetcher #
+https://github.com/unity-technologies/2d-entities-starter #
+https://github.com/unity-technologies/audiodemos #
+https://github.com/unity-technologies/unity-relay-mirror-sample # Unity Mirror Sample project! This project demonstrates how to use
+Unity Transport Package (UTP) and Relay service with the Mirror Networking API. https://github.com/unity-technologies/input-prototype # Input prototype revealed here: https://blogs.unity3d.com/2016/04/12/develop
+ing-the-new-input-system-together-with-you/ https://github.com/unity-technologies/furioos-sdk-unity # Furioos SDK for Unity3D
+https://github.com/unity-technologies/com.unity.asset-store-tools # With these tools, you can prepare, validate, and package your a
+ssets for submission through publisher.unity.com. https://github.com/unity-technologies/perception-synthdet-viewer-app # An iPhone and iPad application that displays real-time objec
+t detection from SynthDet in AR https://github.com/unity-technologies/industry-product-configurator # This is a light weight product configurator framework that su
+pports Visibility, Material and transform variants https://github.com/unity-technologies/unetencryptionexample # Contains a reference implementation of a native Unet encryption plugi
+n, as well as a very small example Unity project that uses the plugin. https://github.com/unity-technologies/com.unity.services.samples.multiplayer-chess-cloud-code #
+https://github.com/unity-technologies/kaizen #
+https://github.com/unity-technologies/profiler-snapshot-tool # Tool to make it easier to profile the editor without having the prof
+iler window open. To use it: Tests/Profiler/Toggle Snapshot. https://github.com/unity-technologies/com.unity.light-assistant # Light Assistant Tool
+https://github.com/unity-technologies/traceeventprofiler # Capture Unity profile data to the Trace Event Format using the Unity Pro
+filer Plugin API https://github.com/unity-technologies/opencppcoverage # Coverage tool for C++ code
+https://github.com/unity-technologies/hdr-calibration-sample # This HDR Calibration Sample project shows how an HDR calibration men
+u with Neutral Tonemapping can be implemented. https://github.com/unity-technologies/benchmark #
+https://github.com/unity-technologies/unityblackmagicvideo # The Blackmagic Video package helps you leverage video capture cards fr
+om Blackmagic Design to input and output pro-grade video and audio in the Unity Editor and runtime builds, unlocking new workflows for users working in film, virtual production, live events, and broadcast. https://github.com/unity-technologies/monodevelop.unitymode # A single MonoDevelop Addin that transforms a regular MonoDevelop into
+a version that is tightly integrated with Unity https://github.com/unity-technologies/simpleuidemo #
+https://github.com/unity-technologies/unitylivecapture # Unity Live Capture package and companion apps (Face Capture and Virtual Ca
+mera). https://github.com/unity-technologies/unity-cloud-asset-manager-for-blender # An example of Unity Cloud Asset Manager integration w
+ith Blender, to demonstrate how to use the Unity Cloud Python SDK. https://github.com/unity-technologies/ml-agents-dots # DOTS compatible version of ML-Agents
+https://github.com/unity-technologies/reflect-extensions # Runtime components and Editor tools to make the most of Unity Reflect.
+https://github.com/unity-technologies/com.unity.xr-content.xr-sim-environments # Source for XR Simulation Environments content pack
+used with AR Foundation. https://github.com/unity-technologies/drone-pose-estimation-navigation # Pose Estimation for drones
+https://github.com/unity-technologies/hot-fuzz # HotFuzz is a fuzz testing utility that generates random data and sends it to a ser
+vice's endpoint over HTTP or HTTPS based on a given fuzzing model written in JSON. https://github.com/unity-technologies/paper-ml-agents # A repository to reproduce the experiments of the MA-POCA paper
+https://github.com/unity-technologies/hw18-adventuregame #
+https://github.com/unity-technologies/pysolotools-fiftyone # Solo plugin to Voxel FiftyOne
+https://github.com/unity-technologies/unity_web_research # Contains intermediate and compiled WebGPU Shading Language shaders from
+various Unity projects, to be used for shader compiler testing and profiling by WebGPU implementers. https://github.com/unity-technologies/go-source # A golang source library
+https://github.com/unity-technologies/timeline-cinemachine-test-suite # A generic test suite for the main features of Timeline and
+Cinemachine https://github.com/unity-technologies/volume_lights_system # This project demonstrates how URP's DepthNormals prepass can be used t
+o create mesh-volume-based lights; that is, the illusion of simple lighting rendered on the backfaces of box meshes placed in a scene. https://github.com/unity-technologies/genericrecorder-framecapturerplugin # FrameRecorder recorder plugin that integrates the Frame
+Capturer project with the Frame Recorder https://github.com/unity-technologies/ugs-sql-cookbook # A collection of common SQL queries and best practices for use with Unity G
+aming Services Analytics https://github.com/unity-technologies/unity-ads-cocos2dx #
+https://github.com/unity-technologies/hw20-multiplayer-asteroid-soccer-game # A multiplayer game in Unity
+https://github.com/unity-technologies/android-libunwind # Unity specific customizations to Android's libunwind library
+https://github.com/unity-technologies/referencerewriter # Make it easy to rewrite references of .net assemblies.
+https://github.com/unity-technologies/xr.sdk.validation.input # This repository contains manual and automated tests for XR SDK Prov
+ider validation. All tests are run through Unity Test Runner. This project is mirrored from Unity internal github. https://github.com/unity-technologies/com.unity.cli-config-manager # Provides a command line parser and options to set build, playe
+r, and other Unity settings when running Unity from the command line https://github.com/unity-technologies/com.unity.services.samples.friends # A Friends service sample project, to be published to the
+asset store. https://github.com/unity-technologies/test-framework-training #
+https://github.com/unity-technologies/ziva-vfx-utils #
+https://github.com/unity-technologies/unity-ml-template # template for Unity project using machine learning
+https://github.com/unity-technologies/psl-content # A collection of sample content for the PolySpatial team.
+https://github.com/unity-technologies/com.unity.innovationgroup.filmlib # Innovation Group Film Library
+https://github.com/unity-technologies/nsubstitute.elevated # Extension to NSubstitute that provides mocking of concrete methods and
+statics https://github.com/unity-technologies/go-tensorgen # Lightweight tool that generates Go structures and Tensorflow inference executi
+on code from SavedModel https://github.com/unity-technologies/com.unity.xr-content.template-mars-platformer # The MARS platforming game template. This is t
+he robot demo we've typically showed off when explaining the MARS workflow and features. It is a dynamic, world-aware AR platformer game that will extend for as far as one can scan.

@@ -1,0 +1,30 @@
+Perforce
+https://github.com/perforce/p4python # [Officially Supported] P4Python is a wrapper for the P4 C++ API in Python.
+https://github.com/perforce/p4prometheus # [Community Supported] Perforce (Helix Core) interface for writing Prometheus metrics from real-time analysis of p4d log files.
+https://github.com/perforce/p4transfer # [Community Supported] Utility for transferring a subset of files (with complete history of
+all changelists) from one Helix Core repository to another, only requiring read access to the source repository. https://github.com/perforce/p4api.net # [Officially Supported] P4API.NET is a wrapper for the P4 C++ API in C#.
+https://github.com/perforce/setup-p4 # [Community Supported] Perforce Helix Core Actions
+https://github.com/perforce/helix-authentication-extension # [Officially Supported] Helix Authentication Extension
+https://github.com/perforce/p4vs # [Officially Supported] VisualStudio plugin for HelixCore
+https://github.com/perforce/helix-authentication-service # [Officially Supported] Helix Authentication Service
+https://github.com/perforce/sonar-scm-perforce # SonarQube Perforce plugin
+https://github.com/perforce/p4templates # [Community Supported] Custom tooling for p4admin to quickly create depot/stream/group/pe
+rmission setups from a provided JSON template file https://github.com/perforce/p4exp # [Officially Supported] Windows Explorer plugin for HelixCore
+https://github.com/perforce/p4perl # [Officially Supported] P4Perl is a wrapper for the P4 C++ API in Perl.
+https://github.com/perforce/setup-p4-example-build-template # Example build template that uses perforce/setup-p4
+https://github.com/perforce/p4java-examples # P4Java documented examples
+https://github.com/perforce/helix-alm-reporting-tool #
+https://github.com/perforce/p4ruby # [Officially Supported] P4Ruby is a wrapper for the P4 C++ API in Ruby.
+https://github.com/perforce/sourcepro-vscode-docker # Container Development With Visual Studio Code Extensions, Docker, and SourcePro
+https://github.com/perforce/helix-alm-rest-client #
+https://github.com/perforce/p4java # [Officially Supported] P4Java a native API for Perforce SCM
+https://github.com/perforce/hth-jenkins-plugin # Create build events to Helix TeamHub from Jenkins builds
+https://github.com/perforce/datapushgateway #
+https://github.com/perforce/p4php # [Officially Supported] P4PHP7 is a wrapper for the P4 C++ API in PHP.
+https://github.com/perforce/p4sl # [Officially Supported] Perforce plugin for MATLAB and Simulink
+https://github.com/perforce/chef-perforce # Chef cookbook to install Perforce Command-Line Client (p4)
+https://github.com/perforce/helix-swarm-scripts # Some sample/test scripts for Helix Swarm
+https://github.com/perforce/swarm-rename-users # [Community Supported] RenameUser extension for Helix Swarm
+https://github.com/perforce/jmsl-svm-demo #
+https://github.com/perforce/unity-p4-plugin # [Community Supported] Perforce (Helix Core) plugin for Unity
+https://github.com/perforce/helix-alm-webhook-service-example #

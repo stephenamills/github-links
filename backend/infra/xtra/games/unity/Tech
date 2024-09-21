@@ -1,0 +1,33 @@
+https://github.com/unitytech/unity-ssdlc # A public version of Unity's internal SSDLC. Meant to provide an example framework, not just to share with others, but to also take contributions and continue to improve and evolve. https://github.com/unitytech/doccn # Unity chinese documentation
+https://github.com/unitytech/gamestestautomationexample # The collecting ideas on how to do Test Automation in Games
+https://github.com/unitytech/kafka-archiver # Kafka log persistence service
+https://github.com/unitytech/hw18-infinity-ecs #
+https://github.com/unitytech/user-reporting-vr # A VR Unity project that uses the User Reporting feature of Unity Cloud Diagnostics.
+https://github.com/unitytech/unity_finder # Node.js module for finding all Unity installations on Windows and Mac computers
+https://github.com/unitytech/kafkalogsforwarder # Tool to forward JSON log entries from Kafka to Elasticsearch and PaperTrail
+https://github.com/unitytech/angular-highcharts # Lightweight highcharts wrapper for Angular 1.x
+https://github.com/unitytech/nemesis # A tool for auditing cloud platforms
+https://github.com/unitytech/ump-angular-components # Angular components based on Material design.
+https://github.com/unitytech/udp # UDP Temporary Publish Website
+https://github.com/unitytech/biosphere #
+https://github.com/unitytech/ads-infra-localdev # Local minikube dev tools
+https://github.com/unitytech/ads-infra-kafka-test # Validation pod for Apache Kafka
+https://github.com/unitytech/kubesourcedestcheck #
+https://github.com/unitytech/citd-1-challenge-1 #
+https://github.com/unitytech/ads-infra-haproxy # HAProxy with dynamic zero-downtime configuration & Route53 A record update
+https://github.com/unitytech/devise_oauth2_providable # Duplicate of abandoned oauth2 library we rely on
+https://github.com/unitytech/hackweek #
+https://github.com/unitytech/cloudsave-sdk-sampleapp #
+https://github.com/unitytech/ads-infra-kontrol # Simple distributed control loop for K8S pods
+https://github.com/unitytech/ads-infra-zookeeper # Zookeeper 3.4.9 + Kontrol
+https://github.com/unitytech/iaptestpackages #
+https://github.com/unitytech/citd-1-challenge-3 #
+https://github.com/unitytech/ads-infra-kafka # Apache Kafka 0.10.2.1 + Kontrol
+https://github.com/unitytech/unity-ads-recruiting # Code challenges for UnityAds positions
+https://github.com/unitytech/channel #
+https://github.com/unitytech/ads-recruiting-frontend # UnityAds front-end coding challenge
+https://github.com/unitytech/ads-infra-redis # Redis 3.0.7 + Kontrol
+https://github.com/unitytech/unity-recorder # Unity Recorder temporary Publish Website
+https://github.com/unitytech/citd-1-challenge-2 #
+https://github.com/unitytech/ads-infra-ec2-bootstrap # Mini tool-container to play with the AWS API in Python
+https://github.com/unitytech/ads-infra-nats # NATS 0.9.4 + Kontrol

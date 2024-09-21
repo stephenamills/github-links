@@ -1,3 +1,23 @@
+https://en.wikipedia.org/wiki/Template:Data_structures # Array
+https://en.wikipedia.org/wiki/Template:Data_structures # List
+https://en.wikipedia.org/wiki/Template:Strings # String
+
+https://en.wikipedia.org/wiki/Template:CS_trees # Tree
+https://en.wikipedia.org/wiki/Template:Graph_representations # Graph
+https://en.wikipedia.org/wiki/Template:Graph_traversal_algorithms # Tree and graph traversal
+
+https://en.wikipedia.org/wiki/Template:Probabilistic # Probabilistic data structure
+https://en.wikipedia.org/wiki/Category:Amortized_data_structures # Amortized data structure
+
+https://en.wikipedia.org/wiki/Template:Data_structures_and_algorithms # Algorithm paradigms
+https://en.wikipedia.org/wiki/Template:Sorting # Sorting
+
+https://en.wikipedia.org/wiki/Comparison_of_data_structures # Lists, Maps, Heap, Trees time complexity
+
+https://algorithm-visualizer.org # also has a GitHub repo
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://visualgo.net/en
+
 https://github.com/learn-co-curriculum/python-p3-dsa-singly-linked-list
 https://github.com/learn-co-curriculum/python-p3-dsa-doubly-linked-list
 https://github.com/learn-co-curriculum/phase-5-practice-challenge-reorder-linked-list-solution
@@ -40,22 +60,3 @@ https://github.com/learn-co-curriculum/postwork-data-structures-and-algorithms
 
 https://github.com/learn-co-curriculum/dynamic-programming
 https://github.com/learn-co-curriculum/algos-data-structure-2020-q3
-
-https://en.wikipedia.org/wiki/Template:Data_structures # Arrays
-https://en.wikipedia.org/wiki/Template:Data_structures # Lists
-https://en.wikipedia.org/wiki/Template:Strings # Strings
-https://en.wikipedia.org/wiki/Template:CS_trees # Trees
-https://en.wikipedia.org/wiki/Template:Graph_representations # Graph
-
-https://en.wikipedia.org/wiki/Category:Amortized_data_structures # Amortized data structures
-https://en.wikipedia.org/wiki/Template:Probabilistic # Probabilistic data structures
-
-https://en.wikipedia.org/wiki/Template:Data_structures_and_algorithms # Algorithm paradigms
-https://en.wikipedia.org/wiki/Template:Sorting # Sorting
-https://en.wikipedia.org/wiki/Template:Graph_traversal_algorithms # Graph and tree traversal algorithms
-
-https://en.wikipedia.org/wiki/Comparison_of_data_structures # Lists, Maps, Heap Trees time complexity
-
-https://algorithm-visualizer.org # also has a GitHub repo
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-https://visualgo.net/en

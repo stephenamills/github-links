@@ -1,0 +1,56 @@
+https://github.com/godotengine/godot # Godot Engine – Multi-platform 2D and 3D game engine
+
+https://github.com/godotengine/awesome-godot # A curated list of free/libre plugins, scripts and add-ons for Godot
+https://github.com/godotengine/godot-demo-projects # Demonstration and Template Projects
+https://github.com/godotengine/godot-docs # Godot Engine official documentation
+https://github.com/godotengine/godot-cpp # C++ bindings for the Godot script API
+https://github.com/godotengine/godot-vscode-plugin # Godot development tools for VSCode
+https://github.com/godotengine/godot-blender-exporter # Addon for Blender to directly export to a Godot Scene
+https://github.com/godotengine/godot-proposals # Godot Improvement Proposals (GIPs)
+https://github.com/godotengine/tps-demo # Godot Third Person Shooter with high quality assets and lighting
+https://github.com/godotengine/godot-git-plugin # Git implementation of the VCS interface in Godot
+https://github.com/godotengine/collada-exporter # "Better" Collada exporter for Blender, orignally developed by the Godot Engine co
+mmunity https://github.com/godotengine/godot-syntax-themes # Syntax themes for the Godot Engine script editor
+https://github.com/godotengine/godot-headers # Headers for the Godot API supplied by the GDNative module.
+https://github.com/godotengine/fbx2gltf # A command-line tool for the conversion of 3D model assets on the FBX file format to the g
+lTF file format. https://github.com/godotengine/emacs-gdscript-mode # An Emacs package to get GDScript support and syntax highlighting.
+https://github.com/godotengine/godot-website # The code for the official Godot Engine website. A static site built using Jekyll.
+https://github.com/godotengine/godot-asset-library # PHP frontend for Godot Engine's asset library
+https://github.com/godotengine/godot-csharp-visualstudio # Godot C# extension for Visual Studio
+https://github.com/godotengine/build-containers # Godot engine build containers
+https://github.com/godotengine/webrtc-native # The official GDNative WebRTC implementation for non-html exports.
+https://github.com/godotengine/godot-design # Visual design specific stuff for the godot engine
+https://github.com/godotengine/gdnative-demos # Demo projects for GDNative
+https://github.com/godotengine/godot-csharp-vscode # Debugger and utilities for working with Godot C# projects in VSCode
+https://github.com/godotengine/godot-benchmarks # Collection of benchmarks to test performance of different areas of Godot
+https://github.com/godotengine/godot-visual-script # VisualScript as a Godot Engine c++ module
+https://github.com/godotengine/godot-cpp-template # Quickstart template for GDExtension development with Godot
+https://github.com/godotengine/godot-build-scripts # Build scripts used for official Godot Engine builds with https://github.com/go
+dotengine/build-containers https://github.com/godotengine/godot-mono-builds # Mono build scripts for Godot
+https://github.com/godotengine/godot-builds # Official pre-releases, dev snapshots, and custom builds of the Godot engine.
+https://github.com/godotengine/godot-docs-l10n # Localization of the Godot documentation – Translations should be done on Weblate (
+see link) https://github.com/godotengine/godot-3d-platformer-demo # 3D platformer, developed as part of the Mozilla Grant 2019
+https://github.com/godotengine/godot-tests # Repository for Godot benchmarks, regression tests, etc.
+https://github.com/godotengine/godot-monodevelop-addin # Godot Add-in for MonoDevelop and Visual Studio for Mac
+https://github.com/godotengine/godot-interactive-changelog # An interactive tool to view a changelog for each version of Godot Engi
+ne https://github.com/godotengine/godot-docs-project-starters # A collection of project templates and assets used by tutorials in the
+official Godot documentation. https://github.com/godotengine/godot-docs https://github.com/godotengine/doc-status # Online Godot class reference status
+https://github.com/godotengine/godot-platform-haiku # Godot Engine platform port for the Haiku operating system // UNMAINTAINED, fo
+r reference / forks. https://github.com/godotengine/regression-test-project # Godot engine regression test project
+https://github.com/godotengine/godot-team-reports # Browse Godot PR backlog for each maintenance team
+https://github.com/godotengine/godot-prs-by-file #
+https://github.com/godotengine/godot-editor-l10n # Localization of the Godot editor and class reference – Translations should be do
+ne on Weblate (see link) https://github.com/godotengine/gdscript-tests # Tests for the GDScript module implementation
+https://github.com/godotengine/godot-showreel-voting # A Django app to review and vote videos
+https://github.com/godotengine/.github # Godot community health files
+https://github.com/godotengine/godot-nir-static #
+https://github.com/godotengine/issue-bot # Issuebot for chat.godotengine.org
+https://github.com/godotengine/godot-commit-artifacts # A tool providing quick links to latest CI builds of development branches
+https://github.com/godotengine/godot-benchmarks-results # Website to display godot-benchmarks results
+https://github.com/godotengine/godot-website-cover-generator #
+https://github.com/godotengine/moltenvk-osxcross # Custom MoltenVK builds with `-fno-objc-msgsend-selector-stubs` to be compatible
+with osxcross https://github.com/godotengine/godot-docs-user-notes # User notes for the Godot Engine official documentation
+https://github.com/godotengine/issue-stats # Gather hardware and software information based on Godot GitHub issue reports
+https://github.com/godotengine/discourse-theme # A custom Godot styled theme for discourse
+https://github.com/godotengine/discourse-tweaks # A theme components to enable GDScript highligting and other Godot specific tweaks
+https://github.com/godotengine/godot-social-links # The source code for the Godot links page.

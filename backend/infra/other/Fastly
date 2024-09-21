@@ -1,0 +1,95 @@
+https://github.com/fastly/cli # Build, deploy and configure Fastly services from your terminal
+
+https://github.com/fastly/pushpin # A proxy server for adding push to your API, used at the core of Fastly's Fanout service
+https://github.com/fastly/js-compute-runtime # JavaScript SDK and runtime for building Fastly Compute applications
+https://github.com/fastly/go-fastly # A Fastly API client for Go
+https://github.com/fastly/fastly-magento2 # Module for integrating Fastly CDN with Magento 2 installations
+https://github.com/fastly/viceroy # Viceroy provides local testing for developers working with Compute.
+https://github.com/fastly/terraform-provider-fastly # Terraform Fastly provider
+https://github.com/fastly/fastly-exporter # A Prometheus exporter for the Fastly Real-time Analytics API
+https://github.com/fastly/fastly-ruby # A Fastly API client for Ruby
+https://github.com/fastly/compute-sdk-go # Go SDK for building Fastly Compute applications
+https://github.com/fastly/fastly-py # A Fastly API client for Python
+https://github.com/fastly/wafefficacy # Measures the effectiveness of your Web Application Firewall (WAF)
+https://github.com/fastly/sidekiq-prometheus # Public repository with Prometheus instrumentation for Sidekiq
+https://github.com/fastly/next-compute-js # Run Next.js on Fastly Compute
+https://github.com/fastly/wordpress-plugin # The Official Fastly WordPress Plugin
+https://github.com/fastly/compute-starter-kit-rust-default # Default package template for Rust based Compute projects
+https://github.com/fastly/insights.js # Real user monitoring of network timing signals using the Open Insights framework
+https://github.com/fastly/compute-actions # GitHub Actions for building on Fastly Compute.
+https://github.com/fastly/compute-rust-auth # Authentication at Fastly's edge, using OAuth 2.0, OpenID Connect, and Fastly Compute.
+https://github.com/fastly/performance-observer-polyfill # 🔎 Polyfill for the PerformanceObserver API
+https://github.com/fastly/token-functions # Example implementations for Fastly's token validation
+https://github.com/fastly/fastly-magento # Magento Extension for working with the Fastly Content Delivery Network
+https://github.com/fastly/compute-js-static-publish # Static Publisher for Fastly Compute JavaScript
+https://github.com/fastly/fastly-php # A Fastly API client for PHP
+https://github.com/fastly/compute-starter-kit-rust-static-content # Static content starter kit for Rust based Fastly Compute projects. Speed up your websites with a Compute application serving content from a static bucket, redirects, security and performance headers, and a 404 page.
+https://github.com/fastly/expressly # Express style router for Fastly Compute
+https://github.com/fastly/remix-compute-js # Remix for Fastly Compute JavaScript
+https://github.com/fastly/compute-starter-kit-javascript-default # Default package template for JavaScript based Fastly Compute pro
+jects https://github.com/fastly/fastly-perl # A Fastly API client for Perl
+https://github.com/fastly/fanout-compute-js-demo # Fanout Fastly Compute JavaScript demo
+https://github.com/fastly/http-compute-js # Node.js-compatible request and response objects
+https://github.com/fastly/compute-js-opentelemetry # An implementation of OpenTelemetry for Fastly Compute
+https://github.com/fastly/fastly-rust # A Rust Fastly API client library.
+https://github.com/fastly/demo-fiddle-ci # Using Fastly Fiddle to enable CI testing of Fastly services
+https://github.com/fastly/heroku-fastly # Heroku CLI plugin for Fastly
+https://github.com/fastly/compute-starter-kit-javascript-openapi-validation # OpenAPI Validation Starter Kit for Fastly Compute (Ja
+vaScript) https://github.com/fastly/vscode-fastly-vcl # A Visual Studio Code extension which adds syntax highlighting for Fastly Varnish Conf
+iguration Language (VCL) files. https://github.com/fastly/fastly-js # A Fastly API client for JavaScript
+https://github.com/fastly/security-use-cases # Placeholder for security related use cases and demos
+https://github.com/fastly/sigsci-splunk-app # Splunk app for Fastly (Signal Sciences)
+https://github.com/fastly/fastly_nsq # Public repository with a convenience adapter & testing classes for apps talking to NSQ
+https://github.com/fastly/dnstap-utils # dnstap utilities implemented in Rust
+https://github.com/fastly/compute-starter-kit-typescript # A simple Fastly starter kit for Typescript
+https://github.com/fastly/compute-hibp-filter # Fastly Compute enrichment to detect compromised passwords
+https://github.com/fastly/js-compute-testing # Write JavaScript tests from Node.js, against a local or remote Fastly Compute applic
+ation https://github.com/fastly/compute-starter-kit-rust-beacon-termination # Beacon Termination package template for Rust based Fastly C
+ompute projects. https://github.com/fastly/serve-vercel-build-output # A runtime environment that executes output that targets the Vercel Build Outp
+ut API on Fastly Compute https://github.com/fastly/compute-starter-kit-javascript-queue # Queuing package template for JavaScript based Fastly Compute proje
+cts. Park your users in a virtual queue to reduce the demand on your origins during peak times. https://github.com/fastly/compute-starter-kit-go-default # Default package template for Go based Fastly Compute projects
+https://github.com/fastly/compute-starter-kit-rust-empty # Empty package template for Rust based Fastly Compute projects
+https://github.com/fastly/compute-starter-kit-rust-websockets # WebSockets starter kit for Fastly Compute (Rust)
+https://github.com/fastly/compute-starter-kit-javascript-empty # Empty package template for JavaScript based Fastly Compute project
+s https://github.com/fastly/compute-ll-hls # Fastly Compute application for LL-HLS playlist manipulation.
+https://github.com/fastly/compute-rust-sentry # Send error reports from Rust Fastly Compute services to Sentry.
+https://github.com/fastly/compute-starter-kit-javascript-expressly # A lightweight starter kit for Fastly Compute, demonstrating th
+e expressly framework. https://github.com/fastly/compute-js-apiclarity # compute-js-apiclarity
+https://github.com/fastly/sse-demo # A demo of a streaming data use case for Fastly
+https://github.com/fastly/edgeml-recommender # POC: similarity search recommendation engine at the edge using only Fastly Compute &
+Rust https://github.com/fastly/fastly-template-rust-nel # Package template for a Rust based Network Error Logging Fastly Compute service
+https://github.com/fastly/homebrew-tap # Homebrew Formulae
+https://github.com/fastly/next-compute-js-server # Implementation of Next.js Server class for Fastly Compute JavaScript
+https://github.com/fastly/compute-segmented-caching # Segmented Caching as a Fastly Compute app
+https://github.com/fastly/compute-js-esi # An implementation of ESI (Edge Side Includes) for Fastly Compute JavaScript
+https://github.com/fastly/waf-simulator-automation # Example of automating waf tests with Fastly's waf simulator
+https://github.com/fastly/open-insights-provider-fastly # An open-insights provider for Fastly
+https://github.com/fastly/compute-js-auth # OAuth 2.0 implementation for Fastly Compute, in JavaScript
+https://github.com/fastly/compute-starter-kit-rust-connect-google-bigquery # Google BigQuery package template for Rust based Fastly
+Compute projects. https://github.com/fastly/compute-starter-kit-rust-fanout # Fanout package template for Rust based Fastly Compute projects.
+https://github.com/fastly/url-shortener # A tool makes your message easier to read
+https://github.com/fastly/js-serve-grip-expressly # Extension of js-serve-grip to work with Expressly
+https://github.com/fastly/xcelerate-threat-hunt # Search for threats associated with Out-of-Band Domains (OOB-DOMAIN)
+https://github.com/fastly/fanout-leaderboard-demo # Leaderboard Demo for Fastly Fanout
+https://github.com/fastly/edge-rate-limiting-terraform-example # Example of Fastly's Edge Rate Limiting using Terraform
+https://github.com/fastly/compute-starter-kit-typescript-kv-store # Starter kit demonstrating how to use the Fastly KV store from w
+ithin a TypeScript compute project. https://github.com/fastly/sigsci-module-python # Signal Sciences WSGI python middleware
+https://github.com/fastly/kvstore-benchmarks # Benchmarking tool for compute store read/write latencies
+https://github.com/fastly/jlog-ruby # Ruby C-extension for OmniTI Labs' JLog
+https://github.com/fastly/compute-starter-kit-javascript-fanout-forward # A Fastly Compute JavaScript Starter Kit for forwarding th
+rough Fanout https://github.com/fastly/tacolabs # This is the example static website for the Fastly documentation tutorials.
+https://github.com/fastly/compute-starter-kit-rust-fanout-forward # Fanout forward starter kit for Fastly Compute (Rust)
+https://github.com/fastly/fanout-io-app # Fanout.io Fastly Compute App
+https://github.com/fastly/kingpin # An internal mirror of unmaintained CLI parser repo (alecthomas/kingpin) used by the fastly/cli
+project. https://github.com/fastly/nextjs-examples # Examples for using Next.js on Fastly Compute
+https://github.com/fastly/compute-starter-kit-go-tinygo # Package template for TinyGo-based Fastly Compute projects
+https://github.com/fastly/sigsci-module-php # php sigsci sdk
+https://github.com/fastly/fastly-ember-test-helpers # Tooling to make ember tests more human-readable
+https://github.com/fastly/compute-starter-kit-javascript-remix # Remix Template for JavaScript based Fastly Compute projects
+https://github.com/fastly/.github # Fastly open source GitHub policies and docs
+https://github.com/fastly/compute-starter-kit-rust-kv-store # Starter kit demonstrating how to use the Fastly KV store from within
+a Rust-based Fastly compute project. https://github.com/fastly/fanout-chat-demo # Demonstrates the use of Fastly Fanout to maintain a chat system and send update messag
+es across devices in real time. https://github.com/fastly/graphql-compute-example # An example of using GraphQL inside Fastly Compute
+https://github.com/fastly/chrome-extension-estimate-compression-level # A Chrome browser extension that estimates the compression l
+evel of the algorithm used to compress the page. https://github.com/fastly/compute-starter-kit-go-kv-store # Starter kit demonstrating how to use the Fastly KV store from within a
+Go-based Fastly compute project. https://github.com/fastly/fastly-go # A Fastly API client for Go

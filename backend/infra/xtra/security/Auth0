@@ -1,0 +1,690 @@
+https://github.com/auth0-samples/auth0-react-samples # Auth0 Integration Samples for React Applications
+https://github.com/auth0-samples/auth0-vue-samples # Auth0 Integration Samples for Vue.js Applications
+https://github.com/auth0-samples/auth0-angular-samples # Auth0 Integration Samples for Angular 2+ Applications
+https://github.com/auth0-samples/auth0-javascript-samples # Auth0 Integration Samples for Vanilla JavaScript Applications
+https://github.com/auth0-samples/auth0-aspnetcore-webapi-samples # Auth0 Integration Samples for ASP.NET Core WebAPI Services
+https://github.com/auth0-samples/auth0-python-web-app # Auth0 Integration Samples for Python and Flask Web Applications
+https://github.com/auth0-samples/auth0-aspnetcore-mvc-samples # Auth0 Integration Samples for ASP.NET Core MVC Web Applications
+https://github.com/auth0-samples/auth0-nodejs-webapp-sample # Auth0 Integration Samples for Node Web Applications
+https://github.com/auth0-samples/auth0-golang-web-app # Auth0 Integration Samples for Go Web Applications
+https://github.com/auth0-samples/auth0-react-sample #
+https://github.com/auth0-samples/auth0-golang-api-samples # Auth0 Integration Samples for Go REST API Services
+https://github.com/auth0-samples/auth0-nextjs-samples # Auth0 Integration Samples for Next.js Applications
+https://github.com/auth0-samples/auth0-react-native-sample # Auth0 Integration Samples for React Native
+https://github.com/auth0-samples/auth0-python-api-samples # Auth0 Integration Samples for Python REST API Services using Flask
+https://github.com/auth0-samples/auth0-angularjs2-systemjs-sample #
+https://github.com/auth0-samples/auth0-express-api-samples # Auth0 Integration Samples for Node Express REST API Services
+https://github.com/auth0-samples/auth0-spring-security5-api-sample # Sample demonstrating how to secure your API using Spring Boot
+2 and Spring Security 5 https://github.com/auth0-samples/auth0-roles-permissions-dashboard-sample # Dashboard that allows you to manage roles and permissio
+ns for your Auth0 users https://github.com/auth0-samples/auth0-android-sample # Auth0 Integration Samples for Android Applications
+https://github.com/auth0-samples/auth0-ios-swift-sample # Auth0 Integration Samples for iOS Swift
+https://github.com/auth0-samples/auth0-sso-sample # Doing Single Sign On between SPAs and Regular Web Apps
+https://github.com/auth0-samples/auth0-express-webapp-sample # Auth0 Integration Samples for an Express web application
+https://github.com/auth0-samples/auth0-php-web-app # Auth0 Integration Samples for PHP Web Applications
+https://github.com/auth0-samples/auth0-multitenant-website # Sample that demonstrates a simple multi-tenant web application that us
+es the Authorization extension to manage tenants with groups https://github.com/auth0-samples/auth0-pnp-exampleco-timesheets # End to end sample for the Server + API Patterns & Practices docum
+ent https://github.com/auth0-samples/auth0-django-web-app # Auth0 Integration Samples for Django Web Applications
+https://github.com/auth0-samples/auth0-rubyonrails-sample # Auth0 Integration Samples for Ruby on Rails Web Applications
+https://github.com/auth0-samples/auth0-django-api # Auth0 Integration Samples for Django REST API Services
+https://github.com/auth0-samples/auth0-spring-boot-login-samples # Samples demonstrating adding authentication with Auth0 to Spring
+Boot applications https://github.com/auth0-samples/auth0-servlet-sample # Auth0 Integration Samples for Java Servlets and JSP
+https://github.com/auth0-samples/laravel # Laravel 9 application demonstrating Auth0 integration, using the Auth0 Laravel SDK.
+https://github.com/auth0-samples/auth0-link-accounts-sample # Examples of how to implement account linking
+https://github.com/auth0-samples/auth0-ionic-samples #
+https://github.com/auth0-samples/react-redux-embedded-login # Offers a comprehensive sample using modern react & redux libraries on
+how to achieve a custom UI embedded login https://github.com/auth0-samples/auth0-api-auth-samples # Seed projects for API Authentication and Authorization
+https://github.com/auth0-samples/auth0-xamarin-oidc-samples # Auth0 OIDC Client with Xamarin applications
+https://github.com/auth0-samples/auth0-ionic2-samples #
+https://github.com/auth0-samples/auth0-php-api-samples # Auth0 Integration Samples for PHP REST API Services
+https://github.com/auth0-samples/auth0-flutter-samples # Auth0 Integration Samples for Flutter Applications
+https://github.com/auth0-samples/auth0-aspnet-owin-webapi-samples # Auth0 Integration Samples for ASP.NET OWIN Web API Services
+https://github.com/auth0-samples/auth0-rubyonrails-api-samples # Auth0 Integration Samples for Ruby on Rails REST API Services
+https://github.com/auth0-samples/auth0-winformswpf-oidc-samples # Auth0 OIDC Client with Windows Forms / WPF applications
+https://github.com/auth0-samples/github-source-control-integration # Repository showing how you can configure Source Control integr
+ation with GitHub https://github.com/auth0-samples/auth0-aspnet-owin-mvc-samples # Quickstart and samples for ASP.NET (OWIN) MVC
+https://github.com/auth0-samples/oidc-sso-sample # Single Sign On Example for Single Page Applications
+https://github.com/auth0-samples/aspnet-core-mvc-plus-webapi # Demonstrates how to have both cookie and jwt bearer authentication i
+n the same project for an API that can be called from an external client as well the web site. https://github.com/auth0-samples/auth0-custom-signup-apiv2-sample #
+https://github.com/auth0-samples/auth0-cordova-samples # Integrate Auth0 with Cordova apps
+https://github.com/auth0-samples/auth0-single-sign-out-sample # Sign out from all of your enterprise applications
+https://github.com/auth0-samples/auth0-elixir-single-page-app # Auth0 Universal Login and Embedded Login with Phoenix & Elixir - a
+s a Single Page App using Implicit Grant flow. https://github.com/auth0-samples/spa-quickstarts-tests # A set of SPA test scripts prepared to run using a web automation tool
+https://github.com/auth0-samples/auth0-uwp-oidc-samples # Auth0 OIDC Client with UWP applications
+https://github.com/auth0-samples/auth0-api-auth-implicit-sample #
+https://github.com/auth0-samples/auth0-idin-connector # An OAuth2 authorization server that integrates Auth0 with an iDIN IDP
+https://github.com/auth0-samples/auth0-pnp-webapp-oidc # End to end sample for the Web App (OIDC) Patterns & Practices document
+https://github.com/auth0-samples/angular2-jwt-samples # Sample project for the angular2-jwt library
+https://github.com/auth0-samples/auth0-samlsp-with-oidc-silentauth # SAML SP with OIDC Slient Authentication
+https://github.com/auth0-samples/auth0-password-policy-sample # Custom signup with password policy example
+https://github.com/auth0-samples/auth0-ios-objc-sample # Auth0 Integration Samples for iOS Objective-C
+https://github.com/auth0-samples/auth0-delegated-admin-dashboad-using-authz-extension # Membership integration and user provisionin
+g for federated connections using the Auth0 Authorization and Delegated Administration Dashboard extensions https://github.com/auth0-samples/auth0-samples.github.io # Auth0 Quickstarts
+https://github.com/auth0-samples/auth0-javascript-spa # Auth0 Vanilla examples
+https://github.com/auth0-samples/api-quickstarts-tests # Test scripts for API Quickstarts
+https://github.com/auth0-samples/auth0-aspnetcore-blazor-server-samples # Auth0 Integration Samples for ASP.NET Core Blazor Server
+Web Applications https://github.com/auth0-samples/auth0-elixir-regular-webapp # Auth0 Universal Login with Phoenix & Elixir - as a Regular Web Appl
+ication using code authorization grant flow. https://github.com/auth0-samples/demo-sso #
+https://github.com/auth0-samples/auth0-java-ee-sample # Demonstrates login (authentication) with Auth0 and Java EE 8 Security API
+https://github.com/auth0-samples/saml-sp-linking-sample #
+https://github.com/auth0-samples/auth0-aspnet-saml-idp-initiated #
+https://github.com/auth0-samples/auth0-ionic-firebase # Auth0 + Ionic + Firebase sample
+https://github.com/auth0-samples/multi-tenant-db-per-tenant-lock # This is an example for a multi-tenant environment that needs all
+users for each tenant to be segregated into their own database https://github.com/auth0-samples/auth0-xamarin-samples #
+https://github.com/auth0-samples/auth0-sample-seed # Seed project for samples. Contains all the files required for samples to be in
+dexed properly https://github.com/auth0-samples/chrome-extension-sample #
+https://github.com/auth0-samples/auth0-multi-tenancy # Demonstrates solutions for multi-tenant B2B SaaS applications
+https://github.com/auth0-samples/mobile-quickstarts-tests # A set of test scripts prepared for running test tooling.
+https://github.com/auth0-samples/samples-bootstrap-theme # Theme for the new Auth0 Quickstart sample applications
+https://github.com/auth0-samples/auth0-maui-samples # Auth0 Integration Samples for MAUI Applications
+
+https://github.com/auth0-developer-hub/auth0-b2b-saas-starter # The Auth0 SaaS Starter Kit is a full-stack Next.js + Radix UI appli
+cation designed to help you get started building B2B SaaS with Auth0 by Okta. It features multi-tenancy support, organization member management and access controls, security policies, self-service Single Sign-On configuration, and more. https://github.com/auth0-developer-hub/spa_react_javascript_hello-world # This JavaScript code sample demonstrates how to implement
+authentication in a React application that uses React Router 6. You can integrate the Auth0 React SDK with React Router 6 to create route guards in React. https://github.com/auth0-developer-hub/api_fastapi_python_hello-world #
+https://github.com/auth0-developer-hub/api_actix-web_rust_hello-world #
+https://github.com/auth0-developer-hub/api_express_javascript_hello-world #
+https://github.com/auth0-developer-hub/api_flask_python_hello-world #
+https://github.com/auth0-developer-hub/api_nestjs_typescript_hello-world #
+https://github.com/auth0-developer-hub/spa_angular_typescript_hello-world # Angular/TypeScript: Basic User Authentication Code Samp
+le https://github.com/auth0-developer-hub/spa_svelte_javascript_hello-world #
+https://github.com/auth0-developer-hub/spa_react_typescript_hello-world #
+https://github.com/auth0-developer-hub/api_spring_java_hello-world #
+https://github.com/auth0-developer-hub/spa_react-v17_typescript_hello-world_react-router-5 #
+https://github.com/auth0-developer-hub/api_django_python_hello-world #
+https://github.com/auth0-developer-hub/web-app_nextjs_javascript_hello-world #
+https://github.com/auth0-developer-hub/api_express_typescript_hello-world #
+https://github.com/auth0-developer-hub/spa_vue_javascript_hello-world_composition-api #
+https://github.com/auth0-developer-hub/api_aspnet-core_csharp_hello-world #
+https://github.com/auth0-developer-hub/api_standard-library_golang_hello-world #
+https://github.com/auth0-developer-hub/spa_angular_typescript_hello-world_standalone-components #
+https://github.com/auth0-developer-hub/api_spring-webflux_java_hello-world #
+https://github.com/auth0-developer-hub/api_rails_ruby_hello-world #
+https://github.com/auth0-developer-hub/workshop_angular_typescript_hello-world #
+https://github.com/auth0-developer-hub/api_laravel_php_hello-world_php-sdk #
+https://github.com/auth0-developer-hub/web-app_nextjs_javascript_saas_pages-router #
+https://github.com/auth0-developer-hub/web-app_nextjs_typescript_hello-world_pages-router #
+https://github.com/auth0-developer-hub/api_phoenix_elixir_hello-world #
+https://github.com/auth0-developer-hub/web-app_flask_python_hello-world #
+https://github.com/auth0-developer-hub/spa_react-v17_javascript_hello-world_react-router-5 #
+https://github.com/auth0-developer-hub/spa_vue_typescript_hello-world_vue-plugin #
+https://github.com/auth0-developer-hub/api_symfony_php_hello-world #
+https://github.com/auth0-developer-hub/web-app_nextjs_javascript_hello-world_pages-router #
+https://github.com/auth0-developer-hub/web-app_express_javascript_hello-world #
+https://github.com/auth0-developer-hub/mobile_flutter_dart_hello-world #
+https://github.com/auth0-developer-hub/spa_vue_javascript_hello-world_options-api #
+https://github.com/auth0-developer-hub/api_spring_java_hello-world_functional #
+https://github.com/auth0-developer-hub/spa_vue-v2_javascript_hello-world #
+https://github.com/auth0-developer-hub/spa_vue_javascript_hello-world #
+https://github.com/auth0-developer-hub/digital-badges-bundle # Digital Badges Bundle for events
+https://github.com/auth0-developer-hub/web-app_nextjs_typescript_hello-world #
+https://github.com/auth0-developer-hub/web-app_rails_ruby_hello-world #
+https://github.com/auth0-developer-hub/spa_vue_javascript_hello-world_vue-plugin #
+https://github.com/auth0-developer-hub/spa_angular_typescript_hello-world___workshop #
+https://github.com/auth0-developer-hub/api_aspnet-core-v5_csharp_hello-world #
+https://github.com/auth0-developer-hub/api_aspnet-core_csharp_hello-world___legacy # ASP.NET API server sample (C#), secured with A
+uth0. https://github.com/auth0-developer-hub/web-app_django_python_hello-world #
+https://github.com/auth0-developer-hub/api_laravel_php_hello-world_laravel-sdk #
+https://github.com/auth0-developer-hub/web-app_aspnet-core_csharp_hello-world #
+https://github.com/auth0-developer-hub/web-app_aspnet-core-v5_csharp_hello-world #
+https://github.com/auth0-developer-hub/web-app_laravel_php_hello-world #
+https://github.com/auth0-developer-hub/rails-auth0-workshop #
+https://github.com/auth0-developer-hub/cloud_vercel_nextjs_hello-world #
+https://github.com/auth0-developer-hub/api_lumen_php_hello-world #
+https://github.com/auth0-developer-hub/web-app_symfony_php_hello-world #
+https://github.com/auth0-developer-hub/web-app_laravel_php_hello-world_laravel-sdk #
+https://github.com/auth0-developer-hub/mobile_ionic_typescript_hello-world_angular #
+https://github.com/auth0-developer-hub/cloud_netlify_react_hello-world #
+https://github.com/auth0-developer-hub/web-app_spring_java_hello-world #
+
+https://github.com/auth0-cookbook/spa_angular_typescript_hello-world #
+https://github.com/auth0-cookbook/api_express_typescript_menu # Auth0 Eats Menu API: Express + TypeScript
+https://github.com/auth0-cookbook/spa_react_javascript_store # Auth0 Eats Store: React + JavaScript
+https://github.com/auth0-cookbook/api_rails_ruby_rewards #
+https://github.com/auth0-cookbook/spa_vue_javascript_hello-world #
+https://github.com/auth0-cookbook/api_express_javascript_customers # Auth0 Eats Customers API: Express Sample
+https://github.com/auth0-cookbook/spa_vue_javascript_store #
+https://github.com/auth0-cookbook/spa_react_typescript_store #
+https://github.com/auth0-cookbook/spa_react_javascript_hello-world #
+https://github.com/auth0-cookbook/api_spring-boot_java_rewards #
+https://github.com/auth0-cookbook/spa_angular_typescript_store #
+https://github.com/auth0-cookbook/api_spring-boot_java_customers #
+https://github.com/auth0-cookbook/api_express_javascript_hello-world #
+https://github.com/auth0-cookbook/spa_react_typescript_dashboard # Auth0 Eats Dashboard: React + TypeScript
+https://github.com/auth0-cookbook/api_spring-boot_java_menu #
+https://github.com/auth0-cookbook/api_express_javascript_rewards #
+https://github.com/auth0-cookbook/api_express_typescript_rewards #
+
+https://github.com/auth0-training/labs-vscode-extension # A Visual Studio Code extension that provides interactive laboratory featu
+res https://github.com/auth0-training/labs-node-create-an-application #
+https://github.com/auth0-training/labs-node-oidc-authentication-trace #
+https://github.com/auth0-training/labs-node-working-with-tenants #
+https://github.com/auth0-training/labs-node-working-with-connections #
+https://github.com/auth0-training/labs-node-working-with-multi-factor-authentication #
+https://github.com/auth0-training/labs-node-working-with-the-user-profile #
+https://github.com/auth0-training/labs-node-working-with-apis #
+https://github.com/auth0-training/labs-node-template # A template for creating node based labs
+https://github.com/auth0-training/labs-node-oidc-auth-code-with-pkce-trace #
+https://github.com/auth0-training/labs-node-working-with-apis-spa #
+https://github.com/auth0-training/labs-node-working-with-spa-applications #
+https://github.com/auth0-training/labs-node-customize-the-login-experience #
+https://github.com/auth0-training/labs-node-working-with-scopes #
+https://github.com/auth0-training/labs-node-working-with-organizations #
+https://github.com/auth0-training/auth0-training.github.io #
+https://github.com/auth0-training/labs-node-working-with-forms #
+https://github.com/auth0-training/themes-skilljar # Repo for the Skilljar theme
+https://github.com/auth0-training/labs-node-implementing-step-up-authn-for-apis #
+https://github.com/auth0-training/labs-node-working-with-actions #
+
+https://github.com/auth0-lab/a0-components #
+https://github.com/auth0-lab/mdl # Parse and validate MDOC CBOR encoded binaries according to ISO 18013-5.
+https://github.com/auth0-lab/auth0-unity # An experimental Auth0 SDK for Unity platform.
+https://github.com/auth0-lab/cose # COSE library for node.js
+https://github.com/auth0-lab/hol-verifier-local # Hands On Lab: Using local verification
+https://github.com/auth0-lab/hol-verifier-auth0 # Hands On Lab: Auth0 as Verifier
+https://github.com/auth0-lab/market0 # sample app about authz and AI
+
+https://github.com/auth0-customers/safelink-bypass #
+https://github.com/auth0-customers/oidc-mediator-webtask #
+
+https://github.com/auth0-extensions/auth0-sso-dashboard-extension #
+https://github.com/auth0-extensions/auth0-delegated-administration-extension # This extension allows non-dashboard administrators t
+o manage (a subset of) users. https://github.com/auth0-extensions/auth0-account-link-extension # An extension aimed to help link accounts easily
+https://github.com/auth0-extensions/auth0-user-import-export-extension # Extension that allows you to import/export users from your
+Auth0 account https://github.com/auth0-extensions/auth0-extension-realtime-logs # Access real-time webtask logs
+https://github.com/auth0-extensions/authz-extension-automation-sample # Sample tool showing how you can provision groups, roles and
+permissions with the Authorization Extension API https://github.com/auth0-extensions/canirequire # Can I require modules for Auth0 Extensibility
+https://github.com/auth0-extensions/auth0-extension-tools # A set of tools and utilities to simplify the development of Auth0 Exten
+sions. https://github.com/auth0-extensions/auth0-authentication-api-debugger-extension #
+https://github.com/auth0-extensions/auth0-extension-express-tools # A set of tools and utilities to simplify the development of Aut
+h0 Extensions with Express https://github.com/auth0-extensions/auth0-extensions-cli # Command-line tool allowing you to build a Node.js backend as an Auth0 Ex
+tension https://github.com/auth0-extensions/auth0-singpass-extension # Auth0 - Singpass Extesion
+https://github.com/auth0-extensions/auth0-log-extension-tools #
+https://github.com/auth0-extensions/canirequire-extension # Discover which modules you can require in Auth0 extensibility points
+https://github.com/auth0-extensions/auth0-extension-ui #
+https://github.com/auth0-extensions/auth0-extension-hapi-tools # Extension tools for Hapi
+https://github.com/auth0-extensions/auth0-extension-s3-tools # A set of tools and utilities to simplify the development of Auth0 Ex
+tensions with Amazon S3. https://github.com/auth0-extensions/auth0-extension-mongo-tools # A set of tools and utilities to simplify the development of Auth0
+Extensions with MongoDB https://github.com/auth0-extensions/idp-redirector-extension # This extension implements safe, wildcard based redirection for SAML
+IdP initiated logins based on URLs from RelayState. The extension is setup as a target OIDC app for SAML IdP initiated connection. https://github.com/auth0-extensions/auth0-extension-ui-redux #
+https://github.com/auth0-extensions/auth0-extension-update-tester # This extension helps you to test the extension update process
+https://github.com/auth0-extensions/auth0-ldap-connector-health-monitor # This extension will expose an endpoint you can use from y
+our monitoring tool to monitor your AD/LDAP Connectors https://github.com/auth0-extensions/docker-ci # Docker containers for CI/CD
+
+https://github.com/auth0-marketplace/template-action-post-login #
+https://github.com/auth0-marketplace/template-social-connection #
+https://github.com/auth0-marketplace/template-action-post-password-change #
+https://github.com/auth0-marketplace/template-sso #
+https://github.com/auth0-marketplace/template-action-post-user-registration #
+https://github.com/auth0-marketplace/template-action-pre-user-registration #
+https://github.com/auth0-marketplace/template-universal-login-page-guide #
+https://github.com/auth0-marketplace/template-guide #
+https://github.com/auth0-marketplace/template-oidc-connection-guide #
+https://github.com/auth0-marketplace/template-action-phone-message #
+https://github.com/auth0-marketplace/template-log-streaming-guide #
+https://github.com/auth0-marketplace/template-action-client-credentials #
+
+https://github.com/auth0-blog/dotnet-blazor-maui-auth0-app #
+https://github.com/auth0-blog/rails-api-authorization # This repository implements different authorization models in a Ruby on Rail
+s API https://github.com/auth0-blog/rust-api-example # Example of a RESTful API in Rust
+https://github.com/auth0-blog/dotnet-private-key-jwt-authentication #
+https://github.com/auth0-blog/blazor-interactive-auto #
+https://github.com/auth0-blog/blazor-interactive-auto-call-api #
+https://github.com/auth0-blog/auth0-swift-protected-api-call # Calling a Protected API from an iOS Swift App integrated with Auth0
+https://github.com/auth0-blog/auth0-swift-refresh-tokens # Refresh Token usage in an iOS Swift app using Auth0
+https://github.com/auth0-blog/dotnet-maui-token-management #
+https://github.com/auth0-blog/dotnet-maui-auth0-call-api #
+https://github.com/auth0-blog/dotnet-identity-with-auth0-code #
+https://github.com/auth0-blog/spring5-app # Spring 5, Embedded Tomcat 8, and Gradle: a Quick Tutorial
+https://github.com/auth0-blog/dotnet-maui-auth0-app #
+https://github.com/auth0-blog/image-processing-python-pillow-jupyter # Companion Jupyter Notebook for the “Image Processing in Pyth
+on with Pillow and Jupyter Notebook” article. https://github.com/auth0-blog/swift-date-time-intro # Companion Xcode playgrounds for the “Introduction to Date and Time Programmin
+g in Swift” articles. https://github.com/auth0-blog/swift-date-time-calculations # Companion Xcode playgrounds for the “Date and Time Calculations in Swi
+ft” articles. https://github.com/auth0-blog/parceljs-prototype # Zero Config JavaScript App Prototyping with ParcelJS
+https://github.com/auth0-blog/webpack-prototype # Zero Config JavaScript App Prototyping with Webpack
+https://github.com/auth0-blog/auth0-management-api #
+https://github.com/auth0-blog/auth0-python-fastapi-sample # Code sample for a protected API in FastAPI for Python
+https://github.com/auth0-blog/auth0-twilio-programmable-video #
+https://github.com/auth0-blog/istio-auth0 #
+https://github.com/auth0-blog/unit-integration-test-xunit #
+https://github.com/auth0-blog/nest-react-mongodb-ga #
+https://github.com/auth0-blog/nest-react-blog-ga #
+https://github.com/auth0-blog/gatsby-recipe-react #
+https://github.com/auth0-blog/auth0-react-quickstart # Auth0 React QuickStart sample
+https://github.com/auth0-blog/auth0-gatsby-site #
+https://github.com/auth0-blog/gatsby-recipes-auth0 #
+https://github.com/auth0-blog/wab-menu-api-nestjs # Learn how to use NestJS, a Node.js framework powered by TypeScript, to build a
+secure API https://github.com/auth0-blog/auth0-mobx-ga #
+https://github.com/auth0-blog/vue-emojigame-ga #
+https://github.com/auth0-blog/auth0-login-button #
+https://github.com/auth0-blog/auth0-express-sample # Node.js project that defines an Express API
+https://github.com/auth0-blog/electron-openid-oauth-api # Demo API to test calling secured APIs from a secured Electron app
+https://github.com/auth0-blog/electron-openid-oauth #
+https://github.com/auth0-blog/vue-express-auth #
+https://github.com/auth0-blog/auth0-restful-dashboard #
+https://github.com/auth0-blog/oidc-webapp-auth0 #
+https://github.com/auth0-blog/oidc-webapp #
+https://github.com/auth0-blog/whatabyte-next-intro #
+https://github.com/auth0-blog/nextjs-passport #
+https://github.com/auth0-blog/nest-restaurant-api #
+https://github.com/auth0-blog/react-tutorial #
+https://github.com/auth0-blog/react-auth0-spa-sdk-ga #
+https://github.com/auth0-blog/auth0-id4me-sample # Auth0 ID4me Sample Client Application
+https://github.com/auth0-blog/electron-vue-api #
+https://github.com/auth0-blog/oidc-oauth2-api #
+https://github.com/auth0-blog/rbac-nodejs # Implementing RBAC in Node.js APIs with Auth0
+https://github.com/auth0-blog/auth0-express #
+https://github.com/auth0-blog/to-dos-api-express #
+https://github.com/auth0-blog/onboard #
+https://github.com/auth0-blog/troubleshoo-react-app #
+https://github.com/auth0-blog/react-material # Developing Modern Apps with React Material
+https://github.com/auth0-blog/review-server-no-spam #
+https://github.com/auth0-blog/express-ts-api # Feature-complete API using Node.js, Express, and TypeScript
+https://github.com/auth0-blog/wab-ts-express-api # Use TypeScript to Create a Secure API with Node.js and Express
+https://github.com/auth0-blog/auth0-graphql-server #
+https://github.com/auth0-blog/vue-events-auth #
+https://github.com/auth0-blog/angular-auth0-aside # Aside: Angular with Auth0 and an authenticated Node API.
+https://github.com/auth0-blog/auth0-react-amplify-demo #
+https://github.com/auth0-blog/secure-grpc-dotnet #
+https://github.com/auth0-blog/grpc-dotnet #
+https://github.com/auth0-blog/auth0-express-pug-sample # Node.js project that defines a web app using Express.
+https://github.com/auth0-blog/glossary-web-api-aspnet #
+https://github.com/auth0-blog/blazor-quiz-manager #
+https://github.com/auth0-blog/compose-progressive-profiling #
+https://github.com/auth0-blog/mithril-sample-app #
+https://github.com/auth0-blog/ngrx-auth # Sample code for adding authentication to an NgRx project.
+https://github.com/auth0-blog/csp-against-xss-demo #
+https://github.com/auth0-blog/laravel-got #
+https://github.com/auth0-blog/react-native-auth0-demo #
+https://github.com/auth0-blog/ionic-authconnect-auth0 #
+https://github.com/auth0-blog/electron-vue # Electron Tutorial: Building Modern Desktop Apps with Vue.js
+https://github.com/auth0-blog/blazor-wasm-azure-swa #
+https://github.com/auth0-blog/whatabyte-portal-node-express # Node and Express.js app sample
+https://github.com/auth0-blog/ga-django-python-2 #
+https://github.com/auth0-blog/symfony-authorization #
+https://github.com/auth0-blog/lumen-api-auth # Lumen Authors API. Secured with JWT
+https://github.com/auth0-blog/svelte-auth0 #
+https://github.com/auth0-blog/jetpack-compose-authentication # Completed project for the “Get Started with Jetpack Compose Authenti
+cation” article https://github.com/auth0-blog/spa_angular_typescript_dashboard #
+https://github.com/auth0-blog/sinatra-auth0-songs-api # A Sinatra API that uses Auth0 for protecting endpoints
+https://github.com/auth0-blog/flutter-authentication # Get Started with Flutter Authentication
+https://github.com/auth0-blog/auth0-vue-sample # Vue project that defines a Single-Page Application (SPA)
+https://github.com/auth0-blog/auth0-xamarin #
+https://github.com/auth0-blog/glossary-aspnet-core-webapi #
+https://github.com/auth0-blog/scala-api-sample # Companion code for the Build and Secure a Scala Play Framework API blog post @ aut
+h0.com https://github.com/auth0-blog/auth0-swiftui-login-video # Starter and completed projects to accompany the tutorial video “Integrati
+ng Auth0 within a SwiftUI App” https://github.com/auth0-blog/flask-restful-apis # Project created throughout the "Developing RESTful APIs with Python and Flask" a
+rticle. https://github.com/auth0-blog/refresh-token-aspnet-core #
+https://github.com/auth0-blog/ios-swiftui-metadata #
+https://github.com/auth0-blog/call-protected-api-aspnet-core #
+https://github.com/auth0-blog/android-metadata #
+https://github.com/auth0-blog/extended-basic-role-based-access-control #
+https://github.com/auth0-blog/streamlit-asehmi #
+https://github.com/auth0-blog/get-started-android-authentication-kotlin # The completed project for the article “Get Started with A
+ndroid Authentication Using Kotlin” https://github.com/auth0-blog/terraform-secure-express-example # Express application running on Docker to be used with Terraform bl
+og post https://github.com/auth0-blog/get-started-ios-authentication-swift-uikit # Starter and completed companion projects for the blog ar
+ticle “Get Started with iOS Authentication using Swift and UIKit” https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager #
+https://github.com/auth0-blog/acme-aspnet-razor #
+https://github.com/auth0-blog/auth0-react-native-demo #
+https://github.com/auth0-blog/rust-api-jwt #
+https://github.com/auth0-blog/angular-d3-socketio #
+https://github.com/auth0-blog/get-started-ios-authentication-swiftui #
+https://github.com/auth0-blog/auth0-express-js-sample # Express API to showcase Auth0 API authorization.
+https://github.com/auth0-blog/ngrx-facades # Sample code for adding a facade to an NgRx project.
+https://github.com/auth0-blog/clickjacking-sample-app # A sample web application with Clickjacking vulnerabilities and its attacker
+website. https://github.com/auth0-blog/csrf-sample-app #
+https://github.com/auth0-blog/xss-sample-app #
+https://github.com/auth0-blog/auth0-supabase #
+https://github.com/auth0-blog/auth0-vale-style # A Vale-compatible implementation of the Auth0 Writing Style Guide
+https://github.com/auth0-blog/assign-random-dog #
+https://github.com/auth0-blog/globomantics-games #
+https://github.com/auth0-blog/auth0-react-sample # React project that defines a Single-Page Application (SPA)
+https://github.com/auth0-blog/faunadb-auth0-demo #
+https://github.com/auth0-blog/acme-aspnet-mvc #
+https://github.com/auth0-blog/auth0-android-user-demo # An Android app that demonstrates accessing information about a logged-in Au
+th0 user. https://github.com/auth0-blog/auth0-singpass # Auth0 Singpass Integration
+https://github.com/auth0-blog/phpsso #
+https://github.com/auth0-blog/spring-cloud-stream-sample #
+https://github.com/auth0-blog/bff-auth0-dotnet #
+https://github.com/auth0-blog/glossary-rbac-web-api-aspnet #
+https://github.com/auth0-blog/auth0-spring-thymeleaf-sample # auth0-spring-thymeleaf-sample
+https://github.com/auth0-blog/rails-api-auth0 #
+https://github.com/auth0-blog/api-gateway-aspnetcore-ocelot #
+https://github.com/auth0-blog/glossary-web-api-aspnet-core #
+https://github.com/auth0-blog/fastapi-auth #
+https://github.com/auth0-blog/kotlin-hotsauces-api #
+https://github.com/auth0-blog/c-sharp-async-intro #
+https://github.com/auth0-blog/django-feed-auth0 # Build a Django public feed application
+https://github.com/auth0-blog/jwts-in-python # Check out how to create and validate JWTs in Python
+https://github.com/auth0-blog/aspnet-secrets-managed-identity #
+https://github.com/auth0-blog/go-react-vr # Create a voting application with Go and React
+https://github.com/auth0-blog/xss-trusted-types #
+https://github.com/auth0-blog/vue-3-state-management #
+https://github.com/auth0-blog/aspnet-serverless-nanoservices #
+https://github.com/auth0-blog/whats-new-flask-2 # Check out what is new in Flask 2.0
+https://github.com/auth0-blog/example-redux-to-context #
+https://github.com/auth0-blog/laravel-api-auth #
+https://github.com/auth0-blog/django-vue.js # Securing Django and Vue.js Applications with Auth0
+https://github.com/auth0-blog/puppeteer-sharp-pdf-generator #
+https://github.com/auth0-blog/auth0-react-amplify-sample #
+https://github.com/auth0-blog/angular-animations-storefront # Angular Animations code sample
+https://github.com/auth0-blog/playwright-sharp-auth0 #
+https://github.com/auth0-blog/dotnet-secrets-management #
+https://github.com/auth0-blog/piexifjs-article-companion #
+https://github.com/auth0-blog/wishlist-express-api # Express sample
+https://github.com/auth0-blog/auth0-angular-sample # Angular project that defines a Single-Page Application (SPA)
+https://github.com/auth0-blog/menu-api-spring-boot-java #
+https://github.com/auth0-blog/auth0-aspnet-webapp-project-template #
+https://github.com/auth0-blog/wishlist-public-api # Public API sample
+https://github.com/auth0-blog/menu-api-express-ts #
+https://github.com/auth0-blog/spring-boot-faces #
+https://github.com/auth0-blog/auth0-dotnet-extension-methods #
+https://github.com/auth0-blog/wab-docs #
+https://github.com/auth0-blog/laravel-testing #
+https://github.com/auth0-blog/express-vue-management-api # Request data from the Auth0 Management API using an Express and Vue appl
+ication. https://github.com/auth0-blog/refactoring-breaking-functions-apart #
+https://github.com/auth0-blog/vue-3-app-generator #
+https://github.com/auth0-blog/app-generator-api #
+https://github.com/auth0-blog/nest-restaurant-app #
+https://github.com/auth0-blog/wab-portal-express # Web app built with Node.js, Express, and Pug.
+https://github.com/auth0-blog/auth0-react-sample-classes # React application to showcase user authentication with Auth0
+https://github.com/auth0-blog/actix-diesel-auth # A demo of using actix, disel for authentication using Auth0
+https://github.com/auth0-blog/nodejs-jwt-authentication-sample # A NodeJS API that supports username and password authentication wi
+th JWTs https://github.com/auth0-blog/wishlist-demo-api # Sample API to test Auth0 access tokens
+https://github.com/auth0-blog/angular-2-authentication-tutorial #
+https://github.com/auth0-blog/auth0-react-sdk-video #
+https://github.com/auth0-blog/nestjs-authorization # Starter NestJS project to follow along "The Complete Guide to NestJS API Autho
+rization with Auth0". https://github.com/auth0-blog/auth0_rails_api # A simple API build with Rails 6 and secured with Auth0.
+https://github.com/auth0-blog/ga-django-python #
+https://github.com/auth0-blog/react-b2c-sso # Repository that accompanies a B2C use case.
+https://github.com/auth0-blog/gatsby-auth0 # Sample code for adding Auth0 to a Gatsby site. Can also be used as a Gatsby starter.
+https://github.com/auth0-blog/springboot-auth-updated # Implementing JWT Authentication on Spring Boot APIs
+https://github.com/auth0-blog/kotlin-app # Android application written in Kotlin
+https://github.com/auth0-blog/dependency-injection-dotnet-core #
+https://github.com/auth0-blog/react-rbac # Role-Based Access Control (RBAC) and React Apps
+https://github.com/auth0-blog/react-wiki-auth #
+https://github.com/auth0-blog/oidc-android #
+https://github.com/auth0-blog/oidc-mobile #
+https://github.com/auth0-blog/cdn #
+https://github.com/auth0-blog/golang-angular #
+https://github.com/auth0-blog/auth0-apple-native # Learn how to implement Sign In with Apple Easily on iOS Apps
+https://github.com/auth0-blog/auth0-netid-sample # Auth0 netID Sample
+https://github.com/auth0-blog/oidc-spa-auth0 #
+https://github.com/auth0-blog/oidc-spa #
+https://github.com/auth0-blog/troubleshoo-spring-boot-api #
+https://github.com/auth0-blog/to-do-android-app-part-2 # Android Tutorial, Part 2: Building and Securing Your First App
+https://github.com/auth0-blog/auth0-hooks-context #
+https://github.com/auth0-blog/spring-boot-flyway # Controlling database version with Spring Boot and Flyway
+https://github.com/auth0-blog/jenkins-ci-cd #
+https://github.com/auth0-blog/simple-node-express-app #
+https://github.com/auth0-blog/ambassador-tls #
+https://github.com/auth0-blog/rxjs-react #
+https://github.com/auth0-blog/auth0-verimi-sample # Auth0 Verimi Sample
+https://github.com/auth0-blog/express-cors-demo #
+https://github.com/auth0-blog/to-do-android-app-part-1 #
+https://github.com/auth0-blog/spa-cookie-demo #
+https://github.com/auth0-blog/collaborative-real-time-editor # A Real-Time, Collaborative Editor built with Node.js and Express.
+https://github.com/auth0-blog/aliens-go-home-part-3 # GitHub repository that accompanies the third article of the "Developing Games
+with React, Redux, and SVG" series. https://github.com/auth0-blog/kotlin-graphql #
+https://github.com/auth0-blog/laravel-graphql #
+https://github.com/auth0-blog/react-popup #
+https://github.com/auth0-blog/spring-data-rest # Spring Data REST Tutorial: Developing RESTful APIs with Ease
+https://github.com/auth0-blog/expressjs-validator #
+https://github.com/auth0-blog/xamarin-todo #
+https://github.com/auth0-blog/blog-linter-client # The client code for the Blog Linter GitHub App
+https://github.com/auth0-blog/authorization-sample #
+https://github.com/auth0-blog/meteor-app # A real-time web application with Meteor. Slang Bucket!
+https://github.com/auth0-blog/xamarin-todo-api # The backend API for the Xamarin Todo app
+https://github.com/auth0-blog/lombok #
+https://github.com/auth0-blog/node-dev-env-docker # Docker: Building Node Apps Without Installing Node
+https://github.com/auth0-blog/webpack-starter #
+https://github.com/auth0-blog/spring-webflux-oauth #
+https://github.com/auth0-blog/express-dokku-sample # Sample application for the Hosting Applications using DigitalOcean and Dokku b
+log article https://github.com/auth0-blog/vuejs-dokku-sample # Sample application for the Hosting Applications with DigitalOcean and Dokku blog
+article https://github.com/auth0-blog/symfony-react #
+https://github.com/auth0-blog/pet-adoption-system # This is the sample project for creating custom CLI schematics with Nx.
+https://github.com/auth0-blog/book-app #
+https://github.com/auth0-blog/javaserver-faces # Developing Robust Web Apps with JavaServer Faces and Java EE
+https://github.com/auth0-blog/react-splash-screen #
+https://github.com/auth0-blog/js-starter-webpack #
+https://github.com/auth0-blog/login-page #
+https://github.com/auth0-blog/jsf-review #
+https://github.com/auth0-blog/spring-boot-oauth2 #
+https://github.com/auth0-blog/firestore-web-chat #
+https://github.com/auth0-blog/mdx-tutorial #
+https://github.com/auth0-blog/nancy #
+https://github.com/auth0-blog/vue-js-lambda-part-2 #
+https://github.com/auth0-blog/vue-js-lambda-part-1 #
+https://github.com/auth0-blog/angular-material # Creating Beautiful Apps with Angular Material
+https://github.com/auth0-blog/ionic-4-beta #
+https://github.com/auth0-blog/angular-firebase # Angular app that authenticates with Auth0 and utilizes Firebase with custom tokens
+https://github.com/auth0-blog/redux-in-action #
+https://github.com/auth0-blog/vuex-practical-tutorial #
+https://github.com/auth0-blog/auth0-golang-jwt # Authenticate a Golang API with JSON Web Tokens (JWT)
+https://github.com/auth0-blog/onboard-webtask # Webtask for the onboarding tool.
+https://github.com/auth0-blog/react-mobx-tutorial #
+https://github.com/auth0-blog/retrofit-spring-boot #
+https://github.com/auth0-blog/symfony-got #
+https://github.com/auth0-blog/laravel-auth0-got #
+https://github.com/auth0-blog/nodejs-hapijs #
+https://github.com/auth0-blog/polymer-litelement #
+https://github.com/auth0-blog/nodejs-hapijs-redis # Developing Production-Ready APIs with Node.js, Hapi.js, and Redis
+https://github.com/auth0-blog/next6-auth0 #
+https://github.com/auth0-blog/kubernetes-istio #
+https://github.com/auth0-blog/cakephp-auth0-got # GOT built with CakePHP
+https://github.com/auth0-blog/golang-angular-2 #
+https://github.com/auth0-blog/mean-rsvp-auth0 # MEAN stack application with Auth0 (see sample deployed at https://rsvp.kmaida.net)
+https://github.com/auth0-blog/starwars-phpapp #
+https://github.com/auth0-blog/marvel-bank-app # Online Banking app using React and Storybook.
+https://github.com/auth0-blog/react-redux #
+https://github.com/auth0-blog/node-cd #
+https://github.com/auth0-blog/ionic-audio-player #
+https://github.com/auth0-blog/auth0-web # Auth0 library that facilitates Web development.
+https://github.com/auth0-blog/webvr-tutorial # Repository for the "Getting Started with the New WebVR API" article.
+https://github.com/auth0-blog/nodejs-restify #
+https://github.com/auth0-blog/react-redux-context #
+https://github.com/auth0-blog/stencial-rating-component #
+https://github.com/auth0-blog/dockerized-rails-app #
+https://github.com/auth0-blog/speakerhang # SpeakerHang in AngularJS 1.5+
+https://github.com/auth0-blog/bang-bang-react-game # Creating games with React and SVG.
+https://github.com/auth0-blog/spa-silent-auth-gifbattle #
+https://github.com/auth0-blog/oauth2-mfa-cli-example # OAuth 2.0 MFA drafts CLI example
+https://github.com/auth0-blog/react-lambda-client # React Client for AWS Lambda Rest API
+https://github.com/auth0-blog/nodejs-auth0 # JWT based authentication with Auth0
+https://github.com/auth0-blog/python-flask-angular-3 #
+https://github.com/auth0-blog/python-flask-angular-2 #
+https://github.com/auth0-blog/spring-boot-2.0-angular-part-1 # Repository that contains the final code created in the first part of
+the Spring Boot 2.0 and Angular series. https://github.com/auth0-blog/symfony-blog-part-2 # Project developed on "Symfony Tutorial: Building a Blog (Part 2)" article.
+https://github.com/auth0-blog/symfony-blog-part-1 # Project developed on "Symfony Tutorial: Building a Blog (Part 1)" article.
+https://github.com/auth0-blog/flask-angular-2 # Repository for the "Using Python, Flask, and Angular to Build Modern Web Apps - Par
+t 2" article https://github.com/auth0-blog/python-flask-angular-1 # Repository for the "Using Python, Flask, and Angular to Build Modern Web App
+s - Part 1" article https://github.com/auth0-blog/online-exam # Python, Flask, and Angular Application
+https://github.com/auth0-blog/madlibs # Going in-depth with RxJS, Angular, and speech recognition to build a Madlibs app.
+https://github.com/auth0-blog/aliens-go-home-part-1 # GitHub repository that accompanies the first article of the "Developing Games
+with React, Redux, and SVG" series. https://github.com/auth0-blog/aliens-go-home-part-2 # GitHub repository that accompanies the second article of the "Developing Game
+s with React, Redux, and SVG" series. https://github.com/auth0-blog/node-express-package # GitHub repository that accompanies the "16 Node.js and Express Packages You Ca
+n't Miss" article. https://github.com/auth0-blog/symfony-blog-part-3 #
+https://github.com/auth0-blog/aurelia-quote-app #
+https://github.com/auth0-blog/firebase-auth0-nodeserver # Node.js server that mints custom Firebase tokens and serves dog breed dat
+a. https://github.com/auth0-blog/jsfrontend #
+https://github.com/auth0-blog/jsbackend #
+https://github.com/auth0-blog/ionic-got # A sample ionic 3 application with auth0
+https://github.com/auth0-blog/vuejs2-authentication-tutorial #
+https://github.com/auth0-blog/preact-authentication-tutorial # Chuck Norris World App - A sample app that shows how to add authenti
+cation to a Preact app https://github.com/auth0-blog/nextjs-got # A simple nextjs application that showcases Game of Thrones Characters
+https://github.com/auth0-blog/blog-passwordless-authentication # Learn how to integrate passwordless authentication with Facebook A
+ccount Kit and Auth0 Passwordless https://github.com/auth0-blog/javascript-for-microncontrollers-example-sensor-webserver # Example for the JavaScript for Microcontr
+ollers and IoT series part 3 https://github.com/auth0-blog/next3-auth0 #
+https://github.com/auth0-blog/auth0-rest-server # A flexible REST server secured by Auth0.
+https://github.com/auth0-blog/inferno-app # A simple Inferno app that calls an API and authenticates with Auth0.
+https://github.com/auth0-blog/elm-with-auth0 # Elm v0.18 app with Auth0 integration
+https://github.com/auth0-blog/auth0-fullcontact # Profile Enhancement with FullContact and Auth0
+https://github.com/auth0-blog/vue-auth0-aside # Aside: Vue with Auth0 and an authenticated Node API.
+https://github.com/auth0-blog/hapi-dog-api # A dog API written with Hapi.js version 17
+https://github.com/auth0-blog/ng2-dinos # A sample Angular 2 application
+https://github.com/auth0-blog/sqlalchemy-orm-tutorial # "SQLAlchemy ORM Tutorial for Python Developers" blog post
+https://github.com/auth0-blog/spring-boot-auth # Developing and Securing RESTful APIs with Spring Boot
+https://github.com/auth0/node-jsonwebtoken # JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
+https://github.com/auth0/java-jwt # Java implementation of JSON Web Token (JWT)
+https://github.com/auth0/express-jwt # connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
+https://github.com/auth0/jwt-decode # Decode JWT tokens; useful for browser applications.
+https://github.com/auth0/angular2-jwt # Helper library for handling JWTs in Angular apps
+https://github.com/auth0/nextjs-auth0 # Next.js SDK for signing in with Auth0
+https://github.com/auth0/lock # Auth0's signin solution
+https://github.com/auth0/go-jwt-middleware # A Middleware for Go Programming Language to check for JWTs on HTTP requests
+https://github.com/auth0/auth0.js # Auth0 headless browser sdk
+https://github.com/auth0/auth0-spa-js # Auth0 authentication for Single Page Applications (SPA) with PKCE
+https://github.com/auth0/auth0-react # Auth0 SDK for React Single Page Applications (SPA)
+https://github.com/auth0/node-jwks-rsa # A library to retrieve RSA public keys from a JWKS (JSON Web Key Set) endpoint.
+https://github.com/auth0/node-jws # JSON Web Signatures
+https://github.com/auth0/jwtdecode.swift # A JWT decoder for iOS, macOS, tvOS, and watchOS
+https://github.com/auth0/node-auth0 # Node.js client library for the Auth0 platform.
+https://github.com/auth0/simplekeychain # A simple Keychain wrapper for iOS, macOS, tvOS, and watchOS
+https://github.com/auth0/auth0-python # Auth0 SDK for Python
+https://github.com/auth0/react-native-auth0 # React Native toolkit for Auth0 API
+https://github.com/auth0/express-openid-connect # An Express.js middleware to protect OpenID Connect web applications.
+https://github.com/auth0/jwtdecode.android # A library to help you decode JWTs for Android
+https://github.com/auth0/auth0-php # PHP SDK for Auth0 Authentication and Management APIs.
+https://github.com/auth0/docs # Auth0 documentation
+https://github.com/auth0/auth0.swift # Auth0 SDK for Apple platforms
+https://github.com/auth0/auth0.net # .NET client for the Auth0 Authentication & Management APIs.
+https://github.com/auth0/wt-cli # Webtask CLI - all you need is code
+https://github.com/auth0/passport-auth0 # Auth0 authentication strategy for Passport.js
+https://github.com/auth0/auth0-java # Java client library for the Auth0 platform
+https://github.com/auth0/rules # Rules are code snippets written in JavaScript that are executed as part of the authentication pipeline in Auth0
+https://github.com/auth0/lock.swift # A Swift & iOS framework to authenticate using Auth0 and with a Native Look & Feel
+https://github.com/auth0/auth0-cli # Build, manage and test your Auth0 integrations from the command line
+https://github.com/auth0/laravel-auth0 # Laravel SDK for Auth0 Authentication and Management APIs.
+https://github.com/auth0/auth0-deploy-cli # The Auth0 Deploy CLI is a tool that helps you manage your Auth0 tenant configuration. It integrates into your development workflows as a standalone CLI or as a node module. https://github.com/auth0/auth0.android # Android toolkit for Auth0 API
+https://github.com/auth0/ruby-auth0 # Ruby toolkit for Auth0 API
+https://github.com/auth0/jwks-rsa-java #
+https://github.com/auth0/cxn # cXn: extensible open-source CDN
+https://github.com/auth0/passport-windowsauth # Windows Authentication strategy for Passport.js
+https://github.com/auth0/auth0-angular # Auth0 SDK for Angular Single Page Applications
+https://github.com/auth0/terraform-provider-auth0 # The Auth0 Terraform Provider is the official plugin for managing Auth0 tenant configuration through the Terraform tool.
+https://github.com/auth0/wordpress # WordPress Plugin for Auth0 Authentication
+https://github.com/auth0/lock.android # Android Library to authenticate using Auth0 and with a Native Look & Feel
+https://github.com/auth0/jwt-handbook-samples # JWT Handbook code samples
+https://github.com/auth0/auth0-vue # Auth0 authentication SDK for Vue.js apps
+https://github.com/auth0/node-samlp # SAML Protocol support for node (only IdP for now)
+https://github.com/auth0/go-auth0 # Go SDK for the Auth0 Management API.
+https://github.com/auth0/omniauth-auth0 # OmniAuth strategy to login with Auth0
+https://github.com/auth0/symfony # Symfony SDK for Auth0 Authentication and Management APIs.
+https://github.com/auth0/passport-linkedin-oauth2 # Passport Strategy for LinkedIn OAuth 2.0
+https://github.com/auth0/node-jwa # JSON Web Algorithms
+https://github.com/auth0/express-jwt-authz # Validate the JWT scope to authorize access to an endpoint
+https://github.com/auth0/auth0-aspnetcore-authentication # SDK for integrating Auth0 in ASPNET Core
+https://github.com/auth0/node-oauth2-jwt-bearer # Monorepo for libraries that protect Node APIs with OAuth2 Bearer JWTs
+https://github.com/auth0/open-source-template # A template for open source projects at Auth0
+https://github.com/auth0/auth0-oidc-client-net # OIDC Client for .NET Desktop and Mobile applications
+https://github.com/auth0/auth0-authorization-extension # Auth0 Extension that adds authorization features to your account
+https://github.com/auth0/auth0-spring-security-api # Spring Security integration with Auth0 to secure your API with JWTs
+https://github.com/auth0/idtoken-verifier # Lightweight RSA JWT verification
+https://github.com/auth0/nodejs-msi # Build an MSI Windows Installer for a node.js application using WIX Toolset.
+https://github.com/auth0/password-sheriff # Password policies made easy.
+https://github.com/auth0/ad-ldap-connector # Auth0 AD and LDAP connector
+https://github.com/auth0/node-saml # SAML assertion creation for node
+https://github.com/auth0/id-generator # Generates random ids with a prefix (a la Stripe)
+https://github.com/auth0/passport-azure-ad-oauth2 # OAuth 2.0 authentication Passport strategies for Windows Azure Active Directory
+https://github.com/auth0/auth0-flutter # Auth0 SDK for Flutter
+https://github.com/auth0/sandboxjs # Sandbox node.js code like a boss
+https://github.com/auth0/discourse-plugin # Discourse plugin to authenticate with auth0.
+https://github.com/auth0/multitenant-jwt-auth # This sample shows how to implement an API that authenticates using JWTs. It support
+s mutiple tenants and JWT blacklisting. https://github.com/auth0/disyuntor # A circuit-breaker implementation for node.js
+https://github.com/auth0/passport-wsfed-saml2 # passport strategy for both WS-fed and SAML2 protocol
+https://github.com/auth0/webauthn.me # webauthn.me, learn more about the Web Authentication API or try the debugger.
+https://github.com/auth0/auth0-dotnet-templates # Auth0 Templates for .NET
+https://github.com/auth0/php-jwt-example # Php JWT example.
+https://github.com/auth0/auth0-java-mvc-common # Contains common helper classes and api client logic that are used across our Java
+MVC libraries https://github.com/auth0/auth0-custom-password-reset-hosted-page # An example on how to do a custom reset password hosted page.
+https://github.com/auth0/kbd # Styles for <kbd> tags.
+https://github.com/auth0/magic # Auth0 Cryptography Toolkit
+https://github.com/auth0/node-xml-encryption # W3C XML Encryption implementation for node.js (http://www.w3.org/TR/xmlenc-core/)
+https://github.com/auth0/webtask-tools # Tools to facilitate working in a webtask context.
+https://github.com/auth0/custom-social-connections #
+https://github.com/auth0/webtask-bundle # Module and CLI to bundle your code for use on https://webtask.io
+https://github.com/auth0/webtask-runtime # Runtime components of the webtask.io sandbox
+https://github.com/auth0/kinesis-writable # Node.js writable stream for AWS Kinesis.
+https://github.com/auth0/postman-collections # Postman collections for Auth0 public APIs
+https://github.com/auth0/oauth2-recipes #
+https://github.com/auth0/charata #
+https://github.com/auth0/auth0-guardian.js # Client library for Auth0 Guardian
+https://github.com/auth0/angular-lock #
+https://github.com/auth0/mobile-samples.react # Sample Applications for React Native
+https://github.com/auth0/node-wsfed # WS-Federation middleware for node.js and express
+https://github.com/auth0/lock-smartlock # Google Smart Lock support for Auth0 Lock
+https://github.com/auth0/auth0-log-schemas # Auth0 log schema definitions
+https://github.com/auth0/openidconnect-playground #
+https://github.com/auth0/auth0-pusher # A simple demo of Single Page Application with Auth0 & Pusher
+https://github.com/auth0/auth0-device-flow-cli-sample #
+https://github.com/auth0/guardian.swift # Swift toolkit for Auth0 Guardian API
+https://github.com/auth0/polymer-workshop # The polymer workshop sample
+https://github.com/auth0/auth0-sharepoint # Auth0 SharePoint support
+https://github.com/auth0/express-passport-logout # express middleware to logout from passport
+https://github.com/auth0/mongo-heartbeat # Ping mongodb every x seconds to prevent disconnections
+https://github.com/auth0/db-connections-templates # Securely store and manage username / password credentials either in your own da
+tabase https://github.com/auth0/opensource-marketplace # A collection 3rd-party code that's used to manage the open source marketplace con
+tributions. https://github.com/auth0/yearincode # An experience for developers to see their career in space/time
+https://github.com/auth0/auth0-headless-kerberos-sample # Sample project showing how to do headless Kerberos authentication with Au
+th0 (for Console Applications, Windows Services, ...) https://github.com/auth0/node-waad # Query Windows Azure Active Directory graph from node.js
+https://github.com/auth0/node-mongodb-watcher # Monitor your mongodb connection for bad queries.
+https://github.com/auth0/passport-heroku-addon # Passport strategy for heroku addons
+https://github.com/auth0/claimscookie # An HttpModule that will serialize user information to a chunked protected cookie (with Mach
+ineKey) and deserialize on every request to a ClaimsPrincipal https://github.com/auth0/ethereum-sample-web # standalone sample web application that shows the usage of Ethereum-backed authentica
+tion https://github.com/auth0/ethereum-authenticator-app-public # Ethereum mobile authenticator app PoC
+https://github.com/auth0/native-mobile-samples #
+https://github.com/auth0/auth0-password-policies #
+https://github.com/auth0/packageify # Inline things from your package.json without including all the package.json in the bundle.
+https://github.com/auth0/fix-office-link # Express.js middleware to fix office redirect/links.
+https://github.com/auth0/device-flow-playground # Try out the Device Authorization Grant right from your browser
+https://github.com/auth0/contact-form # Auth0 Contact Form
+https://github.com/auth0/gapps-directory # (Unofficial) Google Apps Directory Api client library.
+https://github.com/auth0/guardian.android # Android toolkit for Auth0 Guardian API
+https://github.com/auth0/mobile-samples.ios # Sample Applications for iOS
+https://github.com/auth0/auth0-cordova-oidc-sample # Work in Progress Cordova app sample with OIDC + PKCE flow
+https://github.com/auth0/node-kerberos-server # Kerberos http server interface
+https://github.com/auth0/guardian.java #
+https://github.com/auth0/auth0-analytics.js # Auth0 Analytics (Web)
+https://github.com/auth0/rule-utilities #
+https://github.com/auth0/developer-centre # Developer Centre Application for Third Party Client API Authorization
+https://github.com/auth0/passport-auth0-openidconnect # Passport strategy for authenticating with Auth0 using OpenID Connect.
+https://github.com/auth0/guardian-example # Example for Guardian configuration
+https://github.com/auth0/auth0-progresive-profiling-demo #
+https://github.com/auth0/oss-library-gradle-plugin #
+https://github.com/auth0/samlp-logout # Federated SAMLP single sign-out
+https://github.com/auth0/db-creation-scripts # Database creation scripts for custom database user management.
+https://github.com/auth0/playground # Auth0 Lock playground
+https://github.com/auth0/passport-planningcenter # A Planning Center passport strategy
+https://github.com/auth0/.github # Org-wide repository files.
+https://github.com/auth0/scoop-auth0-cli #
+https://github.com/auth0/passport-yahoo-oauth2 #
+https://github.com/auth0/homebrew-auth0-cli #
+https://github.com/auth0/auth0-angular-thirdpartyapi-sample # Auth0 + AngularJS + Third party API seed
+https://github.com/auth0/node-azure-store # Windows Azure Store template for Node.js apps
+https://github.com/auth0/gitzero2ro # Git server with username and password authentication (Db and Ad connections only)
+https://github.com/auth0/mobile-samples.android # Sample Applications for Android
+https://github.com/auth0/auth0-rules-test-in-container # Sample demonstrating unit testing rules in a Docker container.
+https://github.com/auth0/component-cdn-uploader # Conditionally sync assets to S3, mostly for CDN things like JS bundles, assets, e
+tc https://github.com/auth0/auth0-oss-badges # Open Source Badges
+https://github.com/auth0/passport-azure-store # Passport strategy for SSO with Windows Azure
+https://github.com/auth0/manage-boilerplate # Basic boilerplate for auth0/manage
+https://github.com/auth0/passport-daccount # Docomo dAccount authentication strategy for Passport and Node.js.
+https://github.com/auth0/auth0-sandbox-ext # Webtask based extensions of Auth0 Webtasks
+https://github.com/auth0/auth0-dviz-globe #
+https://github.com/auth0/forwarded # Parse HTTP X-Forwarded-For header
+https://github.com/auth0/markdown-to-liquid-cli #
+https://github.com/auth0/parcel-plugin-envvar-allowlist # A parcel plugin for simple environment variable substitution with allowli
+st https://github.com/auth0/passport-exact # Passport strategy for Exact
+https://github.com/auth0/environment-jx-release-staging #
+https://github.com/auth0/environment-jx-release-production #
+https://github.com/auth0/extend-loopback-sample # Sample code for the Auth0 Extend/LoopBack series of articles.
+https://github.com/auth0/proxy-addr # Determine address of proxied request
+https://github.com/auth0/grunt-contrib-outdated # Task to check for outdated dependencies on package.json.
+https://github.com/auth0/polyfills # Polyfills and shims
+https://github.com/auth0/angular-jwt # Library to help you work with JWTs on AngularJS
+https://github.com/auth0/fastlane-plugin-auth0_shipper #
+https://github.com/auth0/inside-auth0 # our technical blog
+https://github.com/auth0/level-tb # Token bucket implementation on top of levelup.
+https://github.com/auth0/kaggle_with_the_dream_team # we gonna win (data offsite)
+https://github.com/auth0/psaas-devops-exercise #
+https://github.com/auth0/lock.xamarin # Xamarin library to authenticate using Auth0 and with a Native Look & Feel
+https://github.com/auth0/blog-newsletters #
+https://github.com/auth0/passport-thecity # A passportjs strategy for The City (https://api.onthecity.org/docs/auth)

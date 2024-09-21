@@ -1,0 +1,6 @@
+https://github.com/railsware/mailtrap-php # The official mailtrap.io PHP client
+https://github.com/railsware/mailtrap-nodejs # Official mailtrap.io Node.js client
+https://github.com/railsware/mailtrap-python # Official mailtrap.io Python client
+https://github.com/railsware/mailtrap-ruby # The official mailtrap.io Ruby client
+https://github.com/railsware/email_templates #
+https://github.com/railsware/actionmailer-balancer # A Ruby gem to send your ActionMailer mail through one of several delivery methods, selected by weight.

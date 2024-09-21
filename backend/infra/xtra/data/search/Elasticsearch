@@ -271,3 +271,117 @@ https://github.com/elastic/logstash-filter-elastic_integration # The Elastic Int
 https://github.com/elastic/sql-summary # Summarize any SQL query
 https://github.com/elastic/gen-ai-meetup-to-2023 #
 https://github.com/elastic/osm-bright-desaturated-gl-style # OpenMapTiles OSM Bright GL Style with muted colors to replicate CSS transforms in Kibana
+
+OpenSearch
+https://github.com/opensearch-project/opensearch # 🔎 Open source distributed and RESTful search engine.
+https://github.com/opensearch-project/opensearch-dashboards # 📊 Open source visualization dashboards for OpenSearch.
+https://github.com/opensearch-project/opensearch-k8s-operator # OpenSearch Kubernetes Operator
+https://github.com/opensearch-project/opensearch-py # Python Client for OpenSearch
+https://github.com/opensearch-project/data-prepper # Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.
+https://github.com/opensearch-project/opensearch-go # Go Client for OpenSearch
+https://github.com/opensearch-project/security # 🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields https://github.com/opensearch-project/opensearch-js # Node.js Client for OpenSearch
+https://github.com/opensearch-project/helm-charts # :wheel_of_dharma: A community repository for Helm Charts of OpenSearch Project.
+https://github.com/opensearch-project/k-nn # 🆕 Find the k-nearest neighbors (k-NN) for your vector data
+https://github.com/opensearch-project/opensearch-build # 🧰 OpenSearch / OpenSearch-Dashboards Build Systems
+https://github.com/opensearch-project/opensearch-java # Java Client for OpenSearch
+https://github.com/opensearch-project/spring-data-opensearch #
+https://github.com/opensearch-project/sql # Query your data using familiar SQL or intuitive Piped Processing Language (PPL)
+https://github.com/opensearch-project/opensearch-benchmark # OpenSearch Benchmark - a community driven, open source project to run performance tests for OpenSearch
+https://github.com/opensearch-project/logstash-output-opensearch # A Logstash plugin that sends event data to a OpenSearch clusters and stores as an index.
+https://github.com/opensearch-project/opensearch-net # OpenSearch .NET Client
+https://github.com/opensearch-project/opensearch-php # Official PHP Client for OpenSearch
+https://github.com/opensearch-project/opensearch-ruby # Ruby Client for OpenSearch
+https://github.com/opensearch-project/ml-commons # ml-commons provides a set of common machine learning algorithms, e.g. k-means, or linear regression, to help developers build ML related features within OpenSearch. https://github.com/opensearch-project/ansible-playbook # 🤖 A community repository for Ansible Playbook of OpenSearch Project.
+https://github.com/opensearch-project/terraform-provider-opensearch #
+https://github.com/opensearch-project/security-dashboards-plugin # 🔐 Manage your internal users, roles, access control, and audit
+logs from OpenSearch Dashboards https://github.com/opensearch-project/security-analytics # Security Analytics enables users for detecting security threats on their
+security event log data. It will also allow them to modify/tailor the pre-packaged solution. https://github.com/opensearch-project/documentation-website # The documentation for OpenSearch, OpenSearch Dashboards, and their as
+sociated plugins. https://github.com/opensearch-project/anomaly-detection # Identify atypical data and receive automatic notifications
+https://github.com/opensearch-project/neural-search # Plugin that adds dense neural retrieval into the OpenSearch ecosytem
+https://github.com/opensearch-project/opensearch-rs # OpenSearch Rust Client
+https://github.com/opensearch-project/alerting # 📟 Get notified when your data meets certain conditions by setting up monitors, alerts, and notifications
+https://github.com/opensearch-project/index-management # 🗃 Automate periodic data operations, such as deleting indices at a certain age or performing a rollover at a certain size
+https://github.com/opensearch-project/observability # Visualize and explore your logs, traces and metrics data in OpenSearch Dashboards
+https://github.com/opensearch-project/opensearch-plugins # For all things OpenSearch plugins. You want to install, or develop a plugin? You've come to the right place.
+https://github.com/opensearch-project/cross-cluster-replication # Synchronize your data across multiple clusters for lower latencies and higher availability
+https://github.com/opensearch-project/opensearch-devops # :smile: We welcome all the community members to help develop third party tools/automations/workflows for OpenSearch/OpenSearch-Dashboards.
+https://github.com/opensearch-project/opensearch-cli # A full-featured command line interface (CLI) for OpenSearch.
+https://github.com/opensearch-project/project-website # The source to opensearch.org
+https://github.com/opensearch-project/performance-analyzer # 📈 Get detailed performance metrics from your cluster independently of the Java Virtual Machine (JVM)
+https://github.com/opensearch-project/oui # OpenSearch UI Framework
+https://github.com/opensearch-project/geospatial # Future home of Geospatial features for OpenSearch
+https://github.com/opensearch-project/flow-framework # OpenSearch plugin that enables builders to innovate AI apps on OpenSearch
+https://github.com/opensearch-project/opensearch-migrations # All things migrations and upgrades for OpenSearch
+https://github.com/opensearch-project/opensearch-api-specification # API specification for OpenSearch
+https://github.com/opensearch-project/opensearch-py-ml #
+https://github.com/opensearch-project/performance-analyzer-rca # The Performance Analyzer RCA is a framework that builds on the Performance Analyzer engine to support root cause analysis (RCA) of performance and reliability problems for OpenSearch instances.
+https://github.com/opensearch-project/anomaly-detection-dashboards-plugin # Manage your detectors and identify atypical data in OpenSearch Dashboards
+https://github.com/opensearch-project/opensearch-hadoop #
+https://github.com/opensearch-project/opensearch-sdk-java # OpenSearch SDK to build and run extensions
+https://github.com/opensearch-project/.github # Provides templates and resources for other OpenSearch project repositories.
+https://github.com/opensearch-project/reporting # Export and automate PNG, PDF, and CSV reports in OpenSearch Dashboards
+https://github.com/opensearch-project/asynchronous-search # :arrow_forward: Run queries in the background and retrieve partial results along the way
+https://github.com/opensearch-project/alerting-dashboards-plugin # 📟 Manage your monitors, alerts and notifications in OpenSearch Dashboards
+https://github.com/opensearch-project/notifications # Notifications plugin for OpenSearch enables other plugins to send notifications via Email, Slack, Amazon Chime, Custom web-hook etc channels
+https://github.com/opensearch-project/opensearch-plugin-template-java # Template repo for creating OpenSearch plugins
+https://github.com/opensearch-project/search-processor # Search Request Processor: pipeline for transformation of queries and results inline with a search request.
+https://github.com/opensearch-project/job-scheduler # Run periodic jobs on the cluster from your plugin
+https://github.com/opensearch-project/common-utils # Offers a library of utilities for building Java-based OpenSearch plugins
+https://github.com/opensearch-project/opensearch-catalog # The OpenSearch Catalog is designed to make it easier for developers and community to contribute, search and install artifacts like plugins, visualization dashboards, ingestion to visualization content packs (data pipeline configurations, normalization, ingestion, dashboards). https://github.com/opensearch-project/opensearch-testcontainers #
+https://github.com/opensearch-project/opensearch-benchmark-workloads # Official workloads used by OpenSearch Benchmark (OSB)
+https://github.com/opensearch-project/dashboards-search-relevance # Tools to help search relevance engineers and business users tune search results for their OpenSearch applications.
+https://github.com/opensearch-project/piped-processing-language # Query your data using an intuitive Piped Processing Language (PPL)
+https://github.com/opensearch-project/dashboards-assistant # Dashboard assistant is a way for users on OpenSearch Dashboards to interact with an assistant through chat or the different OSD pages
+https://github.com/opensearch-project/dashboards-maps # :globe_with_meridians: User interface for the backend geospatial plugin which can be integrated with OpenSearch Dashboards and a home for all other map related features.
+https://github.com/opensearch-project/user-behavior-insights # User Behavior Insights plugin for OpenSearch
+https://github.com/opensearch-project/index-management-dashboards-plugin # 🗃 Manage policies and jobs and automate periodic data operations in OpenSearch Dashboards
+https://github.com/opensearch-project/perftop # 📈 PerfTop: A client for the OpenSearch Performance Analyzer
+https://github.com/opensearch-project/opensearch-ci # Enables continuous integration across OpenSearch, OpenSearch Dashboards, and plugins.
+https://github.com/opensearch-project/dashboards-observability # Visualize and explore your logs, traces and metrics data in OpenSearch Dashboards
+https://github.com/opensearch-project/sql-jdbc # This is the driver for JDBC connectivity to a cluster running with OpenSearch SQL support.
+https://github.com/opensearch-project/opensearch-cluster-cdk #
+https://github.com/opensearch-project/opensearch-spark # Spark Accelerator framework ; It enables secondary indices to remote data stores.
+https://github.com/opensearch-project/dashboards-anywhere # Cloud native infrastructure for the OpenSearch Dashboards service.
+https://github.com/opensearch-project/dashboards-visualizations # Visualize the start, end, and duration of unique events in a sequence in OpenSearch Dashboards
+https://github.com/opensearch-project/opensearch-dashboards-functional-test # Maintains functional tests for OpenSearch Dashboards and Dashboards plugins
+https://github.com/opensearch-project/security-analytics-dashboards-plugin # Front end (UI) plugin to support security-analytics
+https://github.com/opensearch-project/opensearch-sdk-py # OpenSearch Extensions SDK for Python.
+https://github.com/opensearch-project/opensearch-clients # For all things about OpenSearch clients.
+https://github.com/opensearch-project/logstash-input-opensearch #
+https://github.com/opensearch-project/dashboards-flow-framework # A UI designer for constructing AI applications with OpenSearch
+https://github.com/opensearch-project/dashboards-notifications # The Notifications plugin provides a central location for all of your notifications from OpenSearch plugins. You can use either OpenSearch Dashboards or the REST API to configure notifications. Dashboards offers a more organized way of selecting a channel type and selecting which OpenSearch plugin sources you want to use.
+https://github.com/opensearch-project/dashboards-reporting #
+https://github.com/opensearch-project/custom-codecs # OpenSearch custom lucene codecs for providing different on-disk index encoding (e.g., compression).
+https://github.com/opensearch-project/sql-odbc # OpenSearchODBC is a read-only ODBC driver for Windows and Mac for connecting to OpenSearch SQL support.
+https://github.com/opensearch-project/query-insights # Query Insights plugin offers frameworks and APIs for analyzing and optimizing query performance in OpenSearch.
+https://github.com/opensearch-project/maps # Maps resources for OpenSearch
+https://github.com/opensearch-project/opensearch-oci-object-storage # OpenSearch Repository Plugin For Oci Object Storage
+https://github.com/opensearch-project/dashboards-query-workbench # The OpenSearch Dashboards Query Workbench enables you to query your OpenSearch data using either SQL or PPL
+https://github.com/opensearch-project/ml-commons-dashboards # User interface for the ml-commons plugin which can be integrated with OpenSearch Dashboards and a health dashboard for machine learning models.
+https://github.com/opensearch-project/simple-schema # The purpose of this Plugin is to enhance open-search engine with user-domain schema by using GraphQL.
+https://github.com/opensearch-project/skills #
+https://github.com/opensearch-project/opensearch-build-libraries #
+https://github.com/opensearch-project/dashboards-desktop #
+https://github.com/opensearch-project/ux # Public repository for OpenSearch UX. Tracks issues, epics and workstreams related to improving the user experience, usability and accessibility of OpenSearch core, dashboards and related plugins.
+https://github.com/opensearch-project/dashboards-i18n #
+https://github.com/opensearch-project/project-tools # OpenSearch project/org tools.
+https://github.com/opensearch-project/sql-cli # The SQL CLI component in OpenSearch is a stand-alone Python application for query
+https://github.com/opensearch-project/performance-analyzer-commons #
+https://github.com/opensearch-project/project-meta # Tools to make it easy to manage processes across the opensearch-project org.
+https://github.com/opensearch-project/reporting-cli #
+https://github.com/opensearch-project/community # OpenSearch Project community standards, practice, process, and governance
+https://github.com/opensearch-project/opensearch-ruby-aws-sigv4 # Sigv4 Wrapper for Ruby OpenSearch Client
+https://github.com/opensearch-project/project-website-search # Provides the search experience for the OpenSearch documentation website
+https://github.com/opensearch-project/opensearch-dashboards-sdk-js #
+https://github.com/opensearch-project/opensearch-dashboards-test-library # Provides utility functions, page object models, test fixture handling for developers to write functional tests for OpenSearch Dashboards and plugins
+https://github.com/opensearch-project/opensearch-metrics # OpenSearch Metrics
+https://github.com/opensearch-project/demos #
+https://github.com/opensearch-project/opensearch-research #
+https://github.com/opensearch-project/query-insights-dashboards #
+https://github.com/opensearch-project/oui-docs-cdk # This is the automation code for creating the infrastructure required for CI/CD of OUI documentations website
+https://github.com/opensearch-project/skills-eval # Eval framework for evaluating quality and performance of skills for ml-common's agent framework
+https://github.com/opensearch-project/data-prepper-documentation-website #
+https://github.com/opensearch-project/opensearch-system-templates # The repository is a plugin which acts as a repository for system templates which should be loaded as part of the cluster setup. These contain application based configuration templates which are used to provide sensible defaults for various use-cases for which users may be using OpenSearch.
+https://github.com/opensearch-project/foundation-website # The OpenSearch Software Foundation website.
+https://github.com/opensearch-project/traffic-replayer #
+https://github.com/opensearch-project/traffic-comparator #
