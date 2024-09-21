@@ -1,2 +1,5 @@
+https://www.iana.org/assignments/ospfv2-parameters
+https://www.iana.org/assignments/ospfv3-parameters
+
 https://github.com/aws-samples/how-to-build-reliable-performing-global-network-over-aws-backbone-network #
 https://github.com/aws-samples/vpn-gateway-strongswan # AWS CloudFormation template to deploy the open source strongSwan VPN solution to act as a VPN gateway in support of site-to-site VPN connections.

@@ -1,3 +1,13 @@
+https://www.iana.org/assignments/bgp-parameters
+
+https://www.iana.org/assignments/bgp-extended-communities
+https://www.iana.org/assignments/bgp-well-known-communities
+https://www.iana.org/assignments/bgp-data-collection-communities-std
+https://www.iana.org/assignments/bgp-tunnel-encapsulation
+https://www.iana.org/assignments/bgp-ls-parameters
+https://www.iana.org/assignments/rpki
+https://www.iana.org/assignments/capability-codes
+
 https://github.com/googlecloudplatform/redis-dataflow-realtime-analytics # Build a real-time website analytics dashboard on GCP using Dataflow, Cloud Memorystore (Redis) and Spring Boot
 https://github.com/googlecloudplatform/bgp-with-nva-on-gcp #
 https://github.com/googlecloudplatform/chef-google-compute #
