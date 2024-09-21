@@ -1,0 +1,72 @@
+https://github.com/tailscale/tailscale # The easiest, most secure way to use WireGuard and 2FA.
+
+https://github.com/tailscale-dev/deck-tailscale # Tailscale install script for the Steam Deck
+https://github.com/tailscale-dev/tclip # A pastebin for Tailscale users
+https://github.com/tailscale-dev/docker-guide-code-examples # https://tailscale.com/blog/docker-tailscale-guide
+https://github.com/tailscale-dev/vscode-tailscale # VS Code extension for Tailscale
+https://github.com/tailscale-dev/docker-mod # The home for our universal Docker mod
+https://github.com/tailscale-dev/tailgraft # Grafting Tailscale into your Raspberry Pi!
+https://github.com/tailscale-dev/tailscale-dev # The site powering tailscale.dev
+https://github.com/tailscale-dev/video-caddy-custom-domains #
+https://github.com/tailscale-dev/video-code-snippets #
+https://github.com/tailscale-dev/tailscale-acl-combiner # A CLI tool to combine multiple Tailscale ACL files into one
+https://github.com/tailscale-dev/examples-infrastructure-as-code # Examples for deploying Tailscale using Infrastructure as Code (IaC) tools such as Terraform
+https://github.com/tailscale-dev/id-headers-demo # Live demo of the Tailscale identity headers included with proxied serve requests
+https://github.com/tailscale-dev/service-design # A template repository for creating tsnet services that "feel like Tailscale".
+https://github.com/tailscale-dev/tailscale-deno # Libraries for using Tailscale with Deno
+https://github.com/tailscale-dev/demo-streamer #
+https://github.com/tailscale-dev/tailscale-prefix-mover # CLI tool to move Tailscale devices between prefixes within CGNAT
+https://github.com/tailscale-dev/examples-api-scripts # Minimally functional demonstration scripts for API actions. Meant to be a starting point to develop your own workflows.
+https://github.com/tailscale-dev/devrel-demo-infra #
+https://github.com/tailscale-dev/.github #
+
+https://github.com/tailscale/golink # A private shortlink service for tailnets
+https://github.com/tailscale/tailscale-android # Tailscale Android Client
+https://github.com/tailscale/tailscale-synology # Synology packages for tailscale.com
+https://github.com/tailscale/hujson # HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
+https://github.com/tailscale/github-action # A GitHub Action to connect your workflow to your Tailscale network.
+https://github.com/tailscale/tailscale-qpkg # Package Tailscale client in QPKG
+https://github.com/tailscale/depaware # depaware makes you aware of your Go dependencies
+https://github.com/tailscale/caddy-tailscale # A highly experimental exploration of integrating Tailscale and Caddy.
+https://github.com/tailscale/security-policies # Security policies for Tailscale
+https://github.com/tailscale/terraform-provider-tailscale # Terraform provider for Tailscale
+https://github.com/tailscale/sqlite # work in progress
+https://github.com/tailscale/libtailscale # Tailscale C library
+https://github.com/tailscale/pam # An experimental, work-in-progress PAM module for Tailscale
+https://github.com/tailscale/tobereviewedbot # GitHub App to watch for PRs merged without a reviewer approving.
+https://github.com/tailscale/cpc # a copy tool
+https://github.com/tailscale/go-mod-archiver # go.mod git archiver
+https://github.com/tailscale/wf # Package for controlling the Windows firewall (aka Windows Filtering Platform, WFP)
+https://github.com/tailscale/setec #
+https://github.com/tailscale/gitops-acl-action # GitOps for your Tailscale ACLs
+https://github.com/tailscale/codespace # Experimenting with codespaces
+https://github.com/tailscale/mkctr # mkctr: cross platform container builder for go
+https://github.com/tailscale/docker-extension # Docker Desktop extension adding Tailscale networking.
+https://github.com/tailscale/tailscale-client-go # A client implementation for the Tailscale HTTP API
+https://github.com/tailscale/art # implementation of the Allotment Routing Table (ART) algorithm by Donald Knuth, as described in the paper by Yoichi Hariguchi
+https://github.com/tailscale/tailsql # A SQL playground service over Tailscale.
+https://github.com/tailscale/tmemes # A meme generator for your tailnet!
+https://github.com/tailscale/squibble # A lightweight schema manager for SQLite databases.
+https://github.com/tailscale/scertec # ACME client daemon that puts fresh HTTPS certs in setec, and client to get them out of at serving time
+https://github.com/tailscale/terms-and-conditions # Terms and conditions for Tailscale
+https://github.com/tailscale/tscert # Minimal package for just the HTTPS cert fetching part of the Tailscale client API
+https://github.com/tailscale/tailscale-chocolatey # Chocolatey packaging for Tailscale IPN
+https://github.com/tailscale/tailscale-aws-host-acl-updater # Update Hosts list in Tailscale ACL file as AWS resources move about.
+https://github.com/tailscale/peercred #
+https://github.com/tailscale/gitpod # Investigation into gitpod.io
+https://github.com/tailscale/wintun # Fork of https://git.zx2c4.com/wintun
+https://github.com/tailscale/ts-webhook-adapter # Adapter for Tailscale Webhooks for Microsoft Teams and Discord.
+https://github.com/tailscale/go-cache-plugin # A Go toolchain cache plugin backed by S3.
+https://github.com/tailscale/tb #
+https://github.com/tailscale/accessbot #
+https://github.com/tailscale/go-mod-tidy-broken # demo showing a go mod tidy bug
+https://github.com/tailscale/web-client-prebuilt # Prebuilt assets for the Tailscale web client
+https://github.com/tailscale/issue-status # Tailscale's status page
+https://github.com/tailscale/pkgsitelib # A fork of golang.org/x/pkgsite that can be used as a library in other projects.
+https://github.com/tailscale/bradtest # Brad's GitHub automation test repo
+https://github.com/tailscale/quis-custodiet # quis custodiet ipsos custodes: a service to check whether someone is assigned to oncall on each calendar at squadcast.com.
+https://github.com/tailscale/terraform-aws-tailscale-site2sitevpn # Create a site to site VPN between AWS VPCs with Tailscale and Terraform
+https://github.com/tailscale/active-directory-sites-subnets # Populate Active Directory Sites & Subnets table for Tailscale clients
+https://github.com/tailscale/.github #
+https://github.com/tailscale/versiontest # Temporary repo for experimenting with versioning
+https://github.com/tailscale/derp-xdp-prebuilt #

@@ -1,0 +1,37 @@
+https://github.com/telegram-mini-apps/telegram-apps # Made from scratch TypeScript packages, examples and documentation you will surely need to start developing on Telegram Mini Apps.
+https://github.com/telegram-mini-apps/telegramui # React components library for Telegram Mini Apps inspired by Telegram interface
+https://github.com/telegram-mini-apps/reactjs-template # Telegram Mini Apps application template using React, tma.js, TypeScript and Vite.
+https://github.com/telegram-mini-apps/nextjs-template # Telegram Mini Apps application template using Nex.jst, TypeScript, TON Connect and tma.js.
+https://github.com/telegram-mini-apps/init-data-golang # Golang library to make work with Telegram Mini Apps init data easier.
+https://github.com/telegram-mini-apps/solidjs-template # Telegram Mini Apps application template using Solid, TypeScript and Vite.
+https://github.com/telegram-mini-apps/tgui-example #
+https://github.com/telegram-mini-apps/vanillajs-template # Telegram Mini Apps application template using @telegram-apps/sdk and JavaScript.
+https://github.com/telegram-mini-apps/typescript-template # Telegram Mini Apps application template using TypeScript, @telegram-apps/sdk and Vite.
+https://github.com/telegram-mini-apps/issues # Centralised storage of platform issues and enhancement proposals.
+https://github.com/telegram-mini-apps/reactjs-js-template # Telegram Mini Apps application template using React, tma.js, JavaScript and Vite.
+https://github.com/telegram-mini-apps/sticky-app # Example of how we can prevent the application from swiping down.
+https://github.com/telegram-mini-apps/nextjs-tsdk-template # Telegram Mini Apps application template using Nex.jst, TypeScript, TON Connect and Telegram SDK.
+https://github.com/telegram-mini-apps/reactjs-tsdk-template # Telegram Mini Apps application template using React, Telegram SDK, TypeScript and Vite.
+https://github.com/telegram-mini-apps/mate-docs #
+https://github.com/telegram-mini-apps/solidjs-tsdk-template # Telegram Mini Apps application template using Solid, TypeScript and Vite.
+https://github.com/telegram-mini-apps/reactjs-js-tsdk-template # Telegram Mini Apps application template using React, Telegram SDK, JavaScript and Vite.
+https://github.com/telegram-mini-apps/vanillajs-tsdk-template # Telegram Mini Apps application template using JavaScript and Telegram SDK.
+https://github.com/telegram-mini-apps/js-template # Telegram Mini Apps application template using @telegram-apps/sdk and Vite.
+https://github.com/telegram-mini-apps/solidjs-js-template # Telegram Mini Apps application template using Solid, JavaScript and Vite.
+https://github.com/telegram-mini-apps/js-tsdk-template # Telegram Mini Apps application template using Telegram SDK and Vite.
+https://github.com/telegram-mini-apps/typescript-tsdk-template # Telegram Mini Apps application template using TypeScript, Telegram SDK and Vite.
+https://github.com/telegram-mini-apps/.github #
+https://github.com/telegram-mini-apps/solidjs-js-tsdk-template # Telegram Mini Apps application template using Solid, JavaScript and Vite.
+
+https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps # A curated list of awesome things related to Telegram Mini Apps (TMA).
+https://github.com/telegram-mini-apps-dev/vanilla-js-boilerplate # This is a basic and straightforward Telegram Mini App(TMA) implemented using plain JavaScript, HTML, and CSS. This project aims to provide a minimalistic example of how to create a simple TWA and launch it within Telegram without relying on complex build tools or bleeding-edge libraries.
+https://github.com/telegram-mini-apps-dev/vite-boilerplate # This template provides a minimal setup to get TWA working in Vite with React, TypeScript, HMR and some ESLint rules.
+https://github.com/telegram-mini-apps-dev/.github #
+
+https://github.com/tdlib/telegram-bot-api # Telegram Bot API server
+
+https://github.com/telegrammessenger/telegram-ios # Telegram-iOS
+https://github.com/telegrammessenger/tgcalls #
+https://github.com/telegrammessenger/rlottie #
+https://github.com/telegrammessenger/telegramstickersimport # TelegramStickersImport helps your users import third-party programaticaly created sticker sets into Telegram Messenger for iOS.
+https://github.com/telegrammessenger/tgminiappsjssdk # JavaScript SDK for Telegram Mini Apps

@@ -1,0 +1,362 @@
+https://github.com/portswigger/turbo-intruder # Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
+https://github.com/portswigger/param-miner #
+https://github.com/portswigger/http-request-smuggler #
+https://github.com/portswigger/backslash-powered-scanner # Finds unknown classes of injection vulnerabilities
+https://github.com/portswigger/bchecks # BChecks collection for Burp Suite Professional and Burp Suite Enterprise Edition
+https://github.com/portswigger/collaborator-everywhere # A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
+https://github.com/portswigger/xss-cheatsheet-data # This repository contains all the XSS cheatsheet data to allow contributions from the community.
+https://github.com/portswigger/hackability # Probe a rendering engine for vulnerabilities and other features
+https://github.com/portswigger/dastardly-github-action # Runs a scan using Dastardly by Burp Suite against a target site and creates a JUnit XML report for the scan on completion.
+https://github.com/portswigger/bambdas # Bambdas collection for Burp Suite Professional and Community.
+https://github.com/portswigger/bypass-bot-detection # Burp Suite extension that mutates ciphers to bypass TLS-fingerprint based bot detection
+https://github.com/portswigger/burp-extensions-montoya-api # Burp Extensions Api
+https://github.com/portswigger/portable-data-exfiltration # This repo contains all the injections mentioned in my talk and enumerators.
+https://github.com/portswigger/burp-extensions-montoya-api-examples # Examples for using the Montoya API with Burp Suite
+https://github.com/portswigger/httpoxy-scanner # A Burp Suite extension that checks for the HTTPoxy vulnerability.
+https://github.com/portswigger/distribute-damage # Evenly distributes scanner load across targets
+https://github.com/portswigger/replicator # Burp extension to help developers replicate findings from pen tests
+https://github.com/portswigger/splitting-the-email-atom #
+https://github.com/portswigger/burp-extender-api # Burp Wiener API (Legacy)
+https://github.com/portswigger/python-scripter # Sourced from gist: https://gist.github.com/mwielgoszewski/7026954
+https://github.com/portswigger/css-exfiltration #
+https://github.com/portswigger/serialization-examples #
+https://github.com/portswigger/aws-security-checks # AWS Security Checks
+https://github.com/portswigger/example-hello-world #
+https://github.com/portswigger/example-traffic-redirector #
+https://github.com/portswigger/example-intruder-payloads #
+https://github.com/portswigger/nice-script # A JavaScript sandbox using proxies
+https://github.com/portswigger/reflected-parameters #
+https://github.com/portswigger/custom-logger #
+https://github.com/portswigger/bseept # Burp Suite Enterprise Edition Power Tools
+https://github.com/portswigger/url-cheatsheet-data # This is the data that powers the PortSwigger URL validation bypass cheat sheet.
+https://github.com/portswigger/example-event-listeners #
+https://github.com/portswigger/example-scanner-checks #
+https://github.com/portswigger/example-custom-editor-tab #
+https://github.com/portswigger/research-labs # This repository contains a number of insecure self-hosted applications that allows interested security engineers to test vulnerabilities found by Portswigger Research team.
+https://github.com/portswigger/3d-css-tutorial #
+https://github.com/portswigger/example-custom-scan-insertion-points #
+https://github.com/portswigger/viewstate-editor # Burp extension to add a view state tab to the message editor
+https://github.com/portswigger/enterprise-reference-stack-for-aws #
+https://github.com/portswigger/ci-driven-scan-github-action # A github action that allows you to run a vulnerability scan.
+https://github.com/portswigger/waf-detect # Burp app (BApp) for detecting WAF fingerprints
+https://github.com/portswigger/certsquirt # A golang PKI in less than 1000 lines of code.
+https://github.com/portswigger/random-ip-address-header #
+https://github.com/portswigger/html5-auditor #
+https://github.com/portswigger/enterprise-helm-charts # Helm charts for BSEE Kubernetes installation.
+https://github.com/portswigger/example-custom-session-tokens #
+https://github.com/portswigger/manual-scan-issues #
+https://github.com/portswigger/burp-suite-enterprise-edition-ami #
+https://github.com/portswigger/open-day #
+https://github.com/portswigger/burp-jenkins-integration # Enterprise integration with Jenkins
+https://github.com/portswigger/websphere-portlet-state-decoder #
+https://github.com/portswigger/example-custom-logger #
+https://github.com/portswigger/odata-explorer # OData Explorer is a Burp Suite extension specifically designed for black-box security testing of OData services.
+https://github.com/portswigger/ci-cd-platform-scanning-examples #
+https://github.com/portswigger/crush # A burp extension that iterates through a request and removes each parameter and gathers the http status code.
+https://github.com/portswigger/clickjacking-poc-generator # This BurpSuite extension facilitates the generation of Proof-of-Concept (PoC) code for Clickjacking vulnerabilities.
+https://github.com/portswigger/webinspect-connector # Binary-only repository for the HP WebInspect Connector, authored by HP
+https://github.com/portswigger/activation-script # Activate Burp from a script
+https://github.com/portswigger/saferviewer # MacOS/Google Drive file previewer utility
+https://github.com/portswigger/jsonp-scanner-check # Burp extension to check for JSONP endpoints
+
+Fork Repositories
+https://github.com/portswigger/upload-scanner # HTTP file upload scanner for Burp Proxy
+https://github.com/portswigger/autowasp # BurpSuite Extension: A one-stop pen testing checklist and logger tool
+https://github.com/portswigger/ip-rotate # Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
+https://github.com/portswigger/autorize # Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests
+https://github.com/portswigger/active-scan-plus-plus # ActiveScan++ Burp Suite Plugin
+https://github.com/portswigger/oauth-scan # Burp Suite Extension useful to verify OAUTHv2 and OpenID security
+https://github.com/portswigger/logger-plus-plus # Burp Suite Logger++: Log activities of all the tools in Burp Suite
+https://github.com/portswigger/js-link-finder # Burp Extension for a passive scanning JS files for endpoint links.
+https://github.com/portswigger/pentest-mapper # A Burp Suite Extension for Application Penetration Testing to map flows and vulnerabilities
+https://github.com/portswigger/json-web-token-attacker #
+https://github.com/portswigger/json-web-tokens # JWT Support for Burp
+https://github.com/portswigger/authz #
+https://github.com/portswigger/command-injection-attacker # SHELLING - a comprehensive OS command injection payload generator
+https://github.com/portswigger/stepper # A natural evolution of Burp Suite's Repeater tool
+https://github.com/portswigger/sqli-py # SQLiPy is a Python plugin for Burp Suite that integrates SQLMap using the SQLMap API.
+https://github.com/portswigger/hackvertor #
+https://github.com/portswigger/xss-validator # This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
+https://github.com/portswigger/auth-analyzer #
+https://github.com/portswigger/j2ee-scan # J2EEScan is a plugin for Burp Suite Proxy. The goal of this plugin is to improve the test coverage during web application penetration tests on J2EE applications.
+https://github.com/portswigger/scan-check-builder # Burp Bounty is a extension of Burp Suite that improve an active and passive scanner by yourself. This extension requires Burp Suite Pro.
+https://github.com/portswigger/wordpress-scanner # Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp.
+https://github.com/portswigger/auto-repeater # Automated HTTP Request Repeating With Burp Suite
+https://github.com/portswigger/copy-as-python-requests # Copy as requests plugin for Burp Suite
+https://github.com/portswigger/js-miner # This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
+https://github.com/portswigger/403-bypasser #
+https://github.com/portswigger/nginx-alias-traversal # Burp extension to detect alias traversal via NGINX misconfiguration at scale.
+https://github.com/portswigger/log4shell-scanner # Log4Shell scanner for Burp Suite
+https://github.com/portswigger/freddy-deserialization-bug-finder #
+https://github.com/portswigger/java-serialized-payloads # YSOSERIAL Integration with burp suite
+https://github.com/portswigger/openapi-parser # Parse OpenAPI specifications, previously known as Swagger specifications, into the BurpSuite for automating RESTful API testing – approved by Burp for inclusion in their official BApp Store.
+https://github.com/portswigger/auth-matrix # AuthMatrix is a Burp Suite extension that provides a simple way to test authorization in web applications and web services.
+https://github.com/portswigger/json-beautifier # JSON Beautifier for Burp written in Java
+https://github.com/portswigger/nope-proxy # Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.
+https://github.com/portswigger/inql # InQL - A Burp Extension for GraphQL Security Testing
+https://github.com/portswigger/bypass-waf # Add headers to all Burp requests to bypass some WAF products
+https://github.com/portswigger/sqlmap-dns-collaborator # Burp Extension that lets you use Burp Collaborator as a DNS server for exfiltrating data via Sqlmap
+https://github.com/portswigger/taborator # A Burp extension to show the Collaborator client in a tab
+https://github.com/portswigger/retire-js # Burp/ZAP extension that integrate Retire.js repository to find vulnerable Javascript libraries.
+https://github.com/portswigger/ssl-scanner # Burp Suite plugin for scanning SSL vulnerabilities.
+https://github.com/portswigger/software-vulnerability-scanner # Vulnerability scanner based on vulners.com search API
+https://github.com/portswigger/burp-smart-buster # A Burp Suite content discovery plugin that add the smart into the Buster!
+https://github.com/portswigger/protobuf-decoder # A simple Google Protobuf Decoder for Burp
+https://github.com/portswigger/paramalyzer # Paramalyzer - Burp extension for parameter analysis of large-scale web application penetration tests.
+https://github.com/portswigger/reissue-request-scripter # ZAP/Burp plugin that generate script to reproduce a specific HTTP request (Intended for fuzzing or scripted attacks)
+https://github.com/portswigger/ator #
+https://github.com/portswigger/nuclei-burp-integration # Simple extension that allows to run nuclei scanner directly from burp and transforms json results into the issues.
+https://github.com/portswigger/server-side-prototype-pollution #
+https://github.com/portswigger/saml-raider # SAML2 Burp Extension
+https://github.com/portswigger/java-deserialization-scanner # All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities
+https://github.com/portswigger/additional-scanner-checks # Collection of scanner checks missing in Burp
+https://github.com/portswigger/request-timer # Burp request/response timer
+https://github.com/portswigger/hackbar # HackBar plugin for Burpsuite
+https://github.com/portswigger/headless-burp # Provides a suite of Burp extensions and a maven plugin to automate security tests using BurpSuite.
+https://github.com/portswigger/graphql-raider # GQL Burp Extension
+https://github.com/portswigger/flow # Extension providing view with filtering capabilities for both complete and incomplete requests from all burp tools.
+https://github.com/portswigger/brida # The new bridge between Burp Suite and Frida!
+https://github.com/portswigger/elastic-burp # The Web Audit Search Engine - Index and Search HTTP Requests and Responses in Web Application Audits with ElasticSearch
+https://github.com/portswigger/co2 # A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.
+https://github.com/portswigger/content-type-converter # Central Repo for Burp extensions
+https://github.com/portswigger/wordlist-extractor #
+https://github.com/portswigger/jwt-editor # A Burp Suite extension for creating and editing JSON Web Tokens. This tool supports signing and verification of JWS, encryption and decryption of JWE and automation of several well-known attacks against applications that con
+sume JWT. https://github.com/portswigger/highlighter-and-extractor # HaE - BurpSuite Highlighter and Extractor
+https://github.com/portswigger/postman-integration # Postman Integration is an extension for burp to generate Postman collection fomat json file.
+https://github.com/portswigger/request-minimizer #
+https://github.com/portswigger/psycho-path # psychoPATH - hunting file uploads & LFI in the dark. This tool is a customisable payload generator designed for blindly detecting LFI & web file upload implementations allowing to write files into the webroot (aka document
+root). The "blind" aspect is the key here and is inherent to dynamic testing usually conducted with no access to the source code or the filesystem. https://github.com/portswigger/agartha # a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for fur
+ther XSS exploitation. https://github.com/portswigger/add-custom-header # A Burp Suite extension to add a custom header (e.g. JWT)
+https://github.com/portswigger/handy-collaborator # Burp Suite plugin created for using Collaborator tool during manual testing
+https://github.com/portswigger/lightbulb-framework # Tools for auditing WAFS
+https://github.com/portswigger/wsdler # WSDL Parser extension for Burp
+https://github.com/portswigger/scope-monitor # Burp Suite Extension to monitor new scope
+https://github.com/portswigger/hunt-scanner #
+https://github.com/portswigger/csrf-scanner # CSRF Scanner Extension for Burp Suite Pro
+https://github.com/portswigger/same-origin-method-execution # A BurpSuite plugin to detect Same Origin Method Execution vulnerabilities
+https://github.com/portswigger/aes-killer # Burp Plugin to decrypt AES encrypted traffic on the fly
+https://github.com/portswigger/sensitive-discoverer # Introduction to CYS4-SensitiveDiscoverer, a Burp extension that discovers sensitive information inside HTTP messages.
+https://github.com/portswigger/asset-discovery # Burp Suite extension to discover assets from HTTP response.
+https://github.com/portswigger/reshaper # Burp Suite Extension - Trigger actions and reshape HTTP request and response traffic using configurable rules
+https://github.com/portswigger/aes-payloads # Burp Extension to manipulate AES encrypted payloads
+https://github.com/portswigger/web-cache-deception-scanner # A Burp Extension to test applications for vulnerability to the Web Cache Deception attack
+https://github.com/portswigger/log4shell-everywhere #
+https://github.com/portswigger/detect-dynamic-js # The DetectDynamicJS Burp Extension provides an additional passive scanner that tries to find differing content in JavaScript files and aid in finding user/session data.
+https://github.com/portswigger/attack-surface-detector # The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters
+https://github.com/portswigger/office-open-xml-editor # Burp extension that add a tab to edit Office Open XML document (xlsx,docx,pptx)
+https://github.com/portswigger/nuclei-template-generator # Nuclei plugin for BurpSuite
+https://github.com/portswigger/proxy-action-rules #
+https://github.com/portswigger/piper # Piper Burp Suite Extender plugin
+https://github.com/portswigger/kerberos-authentication # Burp Suite extension to perform Kerberos authentication
+https://github.com/portswigger/burp-subdomain # Burp Suite extension to easily export sub domains
+https://github.com/portswigger/wayback-machine # Burp Extender plugin that generates a sitemap of a website using Wayback Machine
+https://github.com/portswigger/log-requests-to-sqlite # BURP extension to record every HTTP request send via BURP and create an audit trail log of an assessment.
+https://github.com/portswigger/anonymous-cloud # Burp extension that performs a passive scan to identify cloud buckets and then test them for publicly accessible vulnerabilities
+https://github.com/portswigger/decoder-improved # Improved decoder for Burp Suite
+https://github.com/portswigger/change-menu-level # 一个用于修改右键插件菜单层级的 Burpsuite 插件。A simple BurpSuite extension to change extension context menu level.
+https://github.com/portswigger/php-object-injection-check # PHP Unserialize Check - Burp Scanner Extension
+https://github.com/portswigger/attack-selector # Burp Suite Attack Selector Plugin
+https://github.com/portswigger/get-all-parameters # Burp Extension to find potential endpoints, parameters, and generate a custom target wordlist
+https://github.com/portswigger/site-map-extractor #
+https://github.com/portswigger/error-message-checks # Burp Suite extension to passively scan for applications revealing server error messages
+https://github.com/portswigger/backup-finder # A burp suite extension that reviews backup, old, temporary and unreferenced files on web server for sensitive information (OWASP OTG-CONFIG-004)
+https://github.com/portswigger/yara # Yara intergrated into BurpSuite
+https://github.com/portswigger/burpelfish # BurpelFish - Adds Google Translate to Burp's Context Menu. "Babel Fish" language translation for app-sec testing in other languages.
+https://github.com/portswigger/extended-macro # ExtendedMacro - BurpSuite plugin providing extended macro functionality
+https://github.com/portswigger/json-decoder # Automatically exported from code.google.com/p/burp-extensions
+https://github.com/portswigger/custom-parameter-handler # Custom Parameter Handler extension for Burp Suite.
+https://github.com/portswigger/ntlm-challenge-decoder # Burp extension to decode NTLM SSP headers and extract domain/host information
+https://github.com/portswigger/burp-2-slack # Push notifications to Slack channel or to custom server based on BurpSuite response conditions.
+https://github.com/portswigger/turbo-data-miner # The objective of this Burp Suite extension is the flexible and dynamic extraction, correlation, and structured presentation of information from the Burp Suite project as well as the flexible and dynamic on-the-fly modi
+fication of outgoing or incoming HTTP requests using Python scripts. Thus, Turbo Data Miner shall aid in gaining a better and faster understanding of the data collected by Burp Suite. https://github.com/portswigger/potential-vulnerability-indicator # Burp extension that checks application requests and responses for indicators of vulnerability or targets for attack
+https://github.com/portswigger/browser-repeater # BurpSuite extension for Repeater tool that renders responses in a real browser.
+https://github.com/portswigger/dotnet-beautifier # A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. \_\_VIEWSTATE).
+https://github.com/portswigger/gadgetprobe # Probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.
+https://github.com/portswigger/additional-cors-checks #
+https://github.com/portswigger/csrf-token-tracker #
+https://github.com/portswigger/meth0d-man # Meth0dMan is a Burp Suite extension to aid in testing HTTP Methods
+https://github.com/portswigger/amf-deserializer # A Burp Extender plugin, that will take deserialized AMF objects and encode them in XML using the Xtream library
+https://github.com/portswigger/http-mock #
+https://github.com/portswigger/custom-send-to # Adds a customizable "Send to..."-context-menu to your BurpSuite.
+https://github.com/portswigger/exiftool-scanner # Burp extension, reads metadata using ExifTool
+https://github.com/portswigger/javascript-security # A Burp Suite extension which performs checks for cross-domain scripting against the DOM, subresource integrity checks, and evaluates JavaScript resources against threat intelligence data.
+https://github.com/portswigger/burp-share-requests # This Burp Suite extension enables the generation of shareable links to specific requests which other Burp Suite users can import.
+https://github.com/portswigger/token-extractor # A Burp extension for generic extraction and reuse of data within HTTP requests and responses.
+https://github.com/portswigger/waf-bypadd # This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.
+https://github.com/portswigger/sentinel # GUI Burp Plugin to ease discovering of security holes in web applications
+https://github.com/portswigger/source-mapper # Burpsuite extension for injecting offline source maps for easier JavaScript debugging
+https://github.com/portswigger/uuid-detector # UUID issues for Burp Suite
+https://github.com/portswigger/nucleus-burp-extension # Burp Extension for Nucleus
+https://github.com/portswigger/xss-cheatsheet #
+https://github.com/portswigger/additional-csrf-checks #
+https://github.com/portswigger/copy-request-response # Burp extension for quickly copying request/response data.
+https://github.com/portswigger/sharpener #
+https://github.com/portswigger/encode-ip # Burp Suite extension to encode an IP address focused to bypass application IP / domain blacklist.
+https://github.com/portswigger/5gc-api-parse # A BurpSuite extension to parse 5GC NF OpenAPI 3.0 files to assess 5G core networks
+https://github.com/portswigger/nosqli-scanner # This extension provides a way to discover NoSQL injection vulnerabilities.
+https://github.com/portswigger/route-vul-scan # Burpsuite - Route Vulnerable Scanning 递归式被动检测脆弱路径的 burp 插件
+https://github.com/portswigger/spy-dir # BurpSuite extension to assist with Automated Forced Browsing/Endpoint Enumeration
+https://github.com/portswigger/iis-tilde-enumeration-scanner # Burp extension for exploiting IIS Tilde Enumeration vulnerability
+https://github.com/portswigger/file-upload-traverser # Burp extension to test for directory traversal attacks in insecure file uploads
+https://github.com/portswigger/pyburp # BcryptMontoya is a powerful plugin for Burp Suite that allows you to effortlessly modify HTTP requests and responses passing through the Burp Suite proxy using Jython code or gRPC, especially when dealing with encrypted requests
+. https://github.com/portswigger/proxy-auto-config # Burp Proxy Auto-config Extension
+https://github.com/portswigger/collabfiltrator # Exfiltrate blind remote code execution output over DNS via Burp Collaborator.
+https://github.com/portswigger/pycript # Burp Suite extension for bypassing client-side encryption using custom logic for manual and automation testing.
+https://github.com/portswigger/peach-api-integration # Peach API Security Burp Integration
+https://github.com/portswigger/yes-we-burp # YesWeHack Api Extension for Burp
+https://github.com/portswigger/csp-auditor # Burp and ZAP plugin to analyze CSP headers
+https://github.com/portswigger/json-js-beautifier # Burp Suite JSON/JS-Beautifier
+https://github.com/portswigger/multi-browser-highlighting # Highlight Burp proxy requests made by different browsers
+https://github.com/portswigger/upnp-hunter # Burp Suite Extension useful to inspect UPnP security
+https://github.com/portswigger/cookie-decrypter # A Burp Suite Professional extension for decrypting/decoding various types of cookies.
+https://github.com/portswigger/import-to-sitemap # Import To Sitemap is a Burp Suite Extension to import wstalker CSV file or ZAP export file into Burp Sitemap
+https://github.com/portswigger/copy-as-node-request # Burp extension to copy a request as a node.js requests function
+https://github.com/portswigger/cstc # CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef
+https://github.com/portswigger/progress-tracker # Burp Suite extension to track vulnerability assessment progress
+https://github.com/portswigger/postman-importer #
+https://github.com/portswigger/request-highlighter # Burp Suite extension that automatically highlights different HTTP requests
+https://github.com/portswigger/burp-2-telegram # Push notifications to Telegram bot on BurpSuite response conditions.
+https://github.com/portswigger/aws-signer # Burp Extension for AWS Signing
+https://github.com/portswigger/broken-link-hijacking # Broken Link Hijacking Burp Extension
+https://github.com/portswigger/target-redirector # Target Redirector is a Burp Suite Extension which allows you to redirect requests to a particular target by replacing an incorrect target hostname/IP with the intended one. Written entirely in Kotlin.
+https://github.com/portswigger/cms-scan # An active scan extension for Burp that provides supplemental coverage when testing popular content management systems.
+https://github.com/portswigger/token-jar # Burp Suite extension. Useful for managing tokens like anti-CSRF, CSurf, Session values. Can be used to set params that require random numbers or params that are computed based on application response.
+https://github.com/portswigger/socket-sleuth # Burp Extension to add additional functionality for pentesting websocket based applications
+https://github.com/portswigger/espresso # An extension for BurpSuite that highlights SSO messages in Burp's proxy window..
+https://github.com/portswigger/beanstack-stacktrace-fingerprinter # X41 BeanStack - Stack Trace Fingerprinting BETA
+https://github.com/portswigger/adhoc-payload-processors # Generate payload processors on the fly - without having to create individual extensions.
+https://github.com/portswigger/jq # Burp extension to filter JSON on the fly with JQ queries in the HTTP message viewer.
+https://github.com/portswigger/sri-check # A Burp Suite extension for identifying missing Subresource Integrity attributes.
+https://github.com/portswigger/burpkit # Next-gen BurpSuite penetration testing tool
+https://github.com/portswigger/semgrepper # An extension to use Semgrep inside Burp Suite.
+https://github.com/portswigger/copy-as-go-request # Burp Suite extension to copy requests as Go
+https://github.com/portswigger/js-beautifier # Burp Suite JS Beautifier
+https://github.com/portswigger/pdf-metadata # The PDF Metadata Burp Extension provides an additional passive Scanner check for metadata in PDF files.
+https://github.com/portswigger/image-location-scanner # Scan for GPS location exposure in images with this Burp & ZAP plugin.
+https://github.com/portswigger/burpcrypto # BurpCrypto is a collection of burpsuite encryption plug-ins, support AES/RSA/DES/ExecJs(execute JS encryption code in burpsuite). 支持多种加密算法或直接执行 JS 代码的用于爆破前端加密的 BurpSuite 插件
+https://github.com/portswigger/google-hack # Burp Suite Extension providing Google Hacking Interface
+https://github.com/portswigger/padding-oracle-hunter #
+https://github.com/portswigger/cloud-storage-tester #
+https://github.com/portswigger/csp-bypass # A Burp Plugin for Detecting Weaknesses in Content Security Policies
+https://github.com/portswigger/url-fuzzer-401-403-bypass # A Burp extension to Fuzz URLs for HTTP parser inconsistencies
+https://github.com/portswigger/hashcat-maskprocessor #
+https://github.com/portswigger/intruder-file-payload-generator # Burp Intruder File Payload Generator
+https://github.com/portswigger/google-authenticator # A Burp Suite extension to configure session handling rules that make use of Google 2FA code.
+https://github.com/portswigger/pentagrid-scan-controller # Improve automated and semi-automated active scanning in Burp Pro
+https://github.com/portswigger/software-version-reporter # Burp extension to passively scan for applications revealing software version numbers
+https://github.com/portswigger/qualys-was # Qualys' Burp Extension for WAS
+https://github.com/portswigger/san-scanner # Burp Suite extension for passively discovering Subject Alt Names in SSL/TLS certificates
+https://github.com/portswigger/copy-as-powershell-requests # Copy as PowerShell request(s) plugin for Burp Suite
+https://github.com/portswigger/batch-scan-report-generator # Small Burp Suite Extension to generate multiple scan reports by host with just a few clicks. Works with Burp Suite Professional only.
+https://github.com/portswigger/peoplesoft-token-extractor # Jython Burp Plugin for PS_TOKEN
+https://github.com/portswigger/what-the-waf # Try harder to bypass that WAF...
+https://github.com/portswigger/java-deserializer # A Burp Extender plugin, that will deserialized java objects and encode them in XML using the Xtream library.
+https://github.com/portswigger/custom-deserializer # Custom Deserializer
+https://github.com/portswigger/java-serial-killer # Burp extension to perform Java Deserialization Attacks
+https://github.com/portswigger/length-extension-attacks # Length extension attacks in Burp Suite
+https://github.com/portswigger/poi-slinger # Automatically identify serialization issues in PHP Frameworks by means of an Burp Suite active scan
+https://github.com/portswigger/add-to-tls-pass-through # Burp Extension to add context menus for configuration of the Add to TLS Pass Through setting
+https://github.com/portswigger/token-incrementor # Burp extension to increment a parameter in each active scan request
+https://github.com/portswigger/copy-as-javascript-request # Copy as JavaScript Request plugin for Burp Suite
+https://github.com/portswigger/reverse-proxy-detector #
+https://github.com/portswigger/cvss-calculator # CVSS Calculator - a burp suite extension for calculating CVSS v2 and v3 scores of vulnerabilities.
+https://github.com/portswigger/log-viewer # Logs is a Burp Suite extension to work with log files.
+https://github.com/portswigger/discovering-reversetabnabbing #
+https://github.com/portswigger/header-checks # A Burp Suite Extension that adds Header Checks and other helper functionalities
+https://github.com/portswigger/similar-request-excluder # A Burp Suite extension that detects similar CFG-paths from HTTP responses in a black box manner.
+https://github.com/portswigger/host-header-inchecktion # A burp extention to find host header injection vulnerabilities
+https://github.com/portswigger/image-metadata # Burp and ZAP plugin that display image metadata (JPEG Exif or PNG text chunk).
+https://github.com/portswigger/irule-detector # notorious BIG IP
+https://github.com/portswigger/dradis-framework # Dradis Framework extension for Burp Suite
+https://github.com/portswigger/message-pack # MessagePack converter
+https://github.com/portswigger/intruder-time-payloads # Contains plugin for including current epoch time in intruder requests
+https://github.com/portswigger/type-confusion-scanner #
+https://github.com/portswigger/cookie-monster # A Burp Suite plugin to easily manage cookies
+https://github.com/portswigger/wcf-deserializer # A Burp Extender plugin, that will make binary soap objects readable and modifiable.
+https://github.com/portswigger/burp-beautifier # Burpsuite extension for beautifying writing in Jython
+https://github.com/portswigger/report-to-elastic-search # A Burp extension that passes along discovered Issues to an ElasticSearch database.
+https://github.com/portswigger/pip3line # Swiss Army knife for raw bytes manipulation & interception
+https://github.com/portswigger/copy-as-ffuf-command # Copy as FFUF Command for Burp Suite
+https://github.com/portswigger/mind-map-exporter # Burp Extenders
+https://github.com/portswigger/add-to-sitemap-plus #
+https://github.com/portswigger/response-pattern-matcher # Adds extensibility to Burp by using a list of payloads to pattern match on HTTP responses highlighting interesting and potentially vulnerable areas.
+https://github.com/portswigger/bookmarks # A Burp Suite Extension to take back your repeater tabs
+https://github.com/portswigger/gwt-insertion-points # Burp Suite plugin identifies insertion points for GWT (Google Web Toolkit) requests
+https://github.com/portswigger/notes # Burp Notes Extension is a plugin for Burp Suite that adds a Notes tab. The tool aims to better organize external files that are created during penetration testing.
+https://github.com/portswigger/response-overview # Response Overview Extension for BurpSuite
+https://github.com/portswigger/session-auth # Burp plugin which supports in finding privilege escalation vulnerabilities
+https://github.com/portswigger/rsyntaxtextarea # A syntax highlighting, code folding text editor for Java Swing applications.
+https://github.com/portswigger/cypher-injection-scanner # a Burp Suite Extension that detects Cypher code injection
+https://github.com/portswigger/sqli-query-tampering # SQLi Query Tampering extends and adds custom Payload Generator/Processor in Burp Suite's Intruder. This extension gives you the flexibility of manual testing with many powerful evasion techniques.
+https://github.com/portswigger/pesd-exporter # PESD (Proxy Enriched Sequence Diagrams) Exporter converts Burp Suite's proxy traffic into interactive diagrams
+https://github.com/portswigger/wildcard # Burp extension intended to compact Burp extension tabs by hijacking them to own tab.
+https://github.com/portswigger/mine-sweeper # A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 5700+ malicious cryptocurrency mining domains (cryptojacking).
+https://github.com/portswigger/scan-manual-insertion-point # Burp Suite Pro extension
+https://github.com/portswigger/pentest-manager # Penetration Test Vulnerabilities Manager is an extension for Burp Suite, written in Jython. It was developed by Barak Tawily in order to help application security professionals manage vulnerabilities
+https://github.com/portswigger/decompressor # An extension for BurpSuite used to access and modify compressed HTTP payloads without changing the content-encoding.
+https://github.com/portswigger/diff-last-response # A BApp to show the differences between two responses
+https://github.com/portswigger/match-replace-session-action # Burp extension provides match and replace function as Session Handling Rule
+https://github.com/portswigger/go-ocsp-responder # OCSP responder written in Go meant to be used with PortSwigger's CertSquirt solution
+https://github.com/portswigger/sign-saboteur # SignSaboteur is a Burp Suite extension for editing, signing, verifying various signed web tokens
+https://github.com/portswigger/reflected-file-download-checker #
+https://github.com/portswigger/json-query # JSONPath extension for BurpSuite
+https://github.com/portswigger/nessus-loader # Burp Suite extension to import detected web servers from a Nessus scan xml file (.nessus)
+https://github.com/portswigger/headers-analyzer # Burp extension that checks for interesting and security headers
+https://github.com/portswigger/auto-gql # A plugin for Burp Suite Pro that uses the GraphQL schema to begin Active Scanning the entire endpoint.
+https://github.com/portswigger/aws-cognito #
+https://github.com/portswigger/request-randomizer # Randomize parts of requests with a session handling rule action.
+https://github.com/portswigger/issue-poster #
+https://github.com/portswigger/anti-csrf-token-from-referer #
+https://github.com/portswigger/timestamp-editor # Provides a popup menu to edit Unix timestamps in Burp message editors
+https://github.com/portswigger/carbonator # Integris Security Carbonator - The Burp Suite Pro extension that automates scope, spider & scan from the command line. Carbonator helps automate the vulnerability scanning of web applications. Either 1 or 100 web application
+s can be scanned by issuing a single command. Carbonator is now available from within Burp Suite Pro through the BApp Store. https://github.com/portswigger/jcryption-handler # Burp Suite plugin useful to analyze Web Applications that using JCryption (Javascript HTML-Form encryption)
+https://github.com/portswigger/buby # A JRuby implementation of the BurpExtender interface for PortSwigger Burp Suite.
+https://github.com/portswigger/methods-discloser #
+https://github.com/portswigger/paraforge # A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
+https://github.com/portswigger/directory-importer # This is a Burpsuite plugin built to enable you to import your directory bruteforcing results into burp for easy viewing later. This is an alternative to proxying bruteforcing tools through burp to catch the results.
+https://github.com/portswigger/dns-analyzer # A Burp Suite extension for finding DNS vulnerabilities in web applications!
+https://github.com/portswigger/customizer # Because just a dark theme wasn't enough!
+https://github.com/portswigger/bugpoc # Burp Suite Extension to send raw HTTP Requests to BugPoC.com
+https://github.com/portswigger/splunk-connector # ActiveEvent is a Burp plugin that integrates Burp Scanner and Splunk events
+https://github.com/portswigger/faraday # Faraday Burp Extension
+https://github.com/portswigger/pdf-viewer # PDF preview in Burp Suite
+https://github.com/portswigger/crypto-messages-handler # CyRadar Interceptor
+https://github.com/portswigger/header-issue-reporter # Headers Burp Extension
+https://github.com/portswigger/parrot-ng # ParrotNG is a tool capable of identifying Adobe Flex applications (SWF) vulnerable to CVE-2011-2461
+https://github.com/portswigger/aws-sigv4 # Anvil Ventures' Burp extension for signing AWS requests with SigV4
+https://github.com/portswigger/copy-as-c # A Burp Suite extension that allows you to copy requests as a C program.
+https://github.com/portswigger/bcheck-helper #
+https://github.com/portswigger/pcap-importer # Pcap importer for Burp
+https://github.com/portswigger/filter-options-method # A Burp extension that filters out OPTIONS requests from populating Burp's Proxy history.
+https://github.com/portswigger/response-grepper #
+https://github.com/portswigger/c-surfer # A CSRF guard hiding extension that keeps track of the latest guard value per session and update new requests accordingly
+https://github.com/portswigger/dns-exfilnspector # Automagically decode DNS Exfiltration queries to convert Blind RCE into proper RCE via Burp Collaborator
+https://github.com/portswigger/passkey-scanner #
+https://github.com/portswigger/oauthv1 # Expands the capabilities of Burp Suite's Platform Authentication by adding additional authentication methods (OAuth v1)
+https://github.com/portswigger/header-snipper # Burp extension used to snip any header from all the requests.
+https://github.com/portswigger/fast-infoset-tester # A Burp Extender plugin allowing decoding of fastinfoset encoded communications.
+https://github.com/portswigger/burp-auto-drop # Burp extension to automatically drop requests that match a certain regex.
+https://github.com/portswigger/hopla # HopLa Burp Suite Extender plugin - Adds autocompletion support and useful payloads in Burp Suite
+https://github.com/portswigger/levo-burp-integration # Build OpenApi specs for your APIs from Burp's traffic using Levo.ai. Also detect the PII in your APIs.
+https://github.com/portswigger/conditional-match-and-replace # Burp Plugin - Conditional Match and Replace (CMAR)
+https://github.com/portswigger/quicker-context # Quickly select context menu entries using a search dialog
+https://github.com/portswigger/clipboard-repeater #
+https://github.com/portswigger/http-digest-auth # A Burp Suite extension to handle HTTP Digest Authentication, which is no more supported by Burp Suite since version 2020.7.
+https://github.com/portswigger/admin-panel-finder # A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)
+https://github.com/portswigger/jwt-scanner # JWT-attacker Burp Extension
+https://github.com/portswigger/session-handler-plus # Burp extension that provide more control on session handling of JWT/Access_Tokens/Refresh_Tokens/CSRF_Tokens, launching custom scripts using session handling, helps to trigger selenium automation to perform complic
+ated logins https://github.com/portswigger/timeinator # Timeinator is an extension for Burp Suite that can be used to perform timing attacks over an unreliable network such as the internet.
+https://github.com/portswigger/xchromelogger-decoder # This BurpSuite extension adds a new tab in the HTTP message editor to display X-ChromeLogger-Data (see https://craig.is/writing/chrome-logger) in decoded form.
+https://github.com/portswigger/burp-hash #
+https://github.com/portswigger/session-timeout-test # Automatically exported from code.google.com/p/burp-suite-session-timeout-test
+https://github.com/portswigger/oauth2-token-grabber # Burpsuite Extension to grab OAuth2 access tokens and add them to requests as custom headers
+https://github.com/portswigger/commentator # Generates comments for selected request(s) based on regular expressions
+https://github.com/portswigger/quoted-printable-parser # A Burp Suite extension to parse Content-Transfer-Encoding: quoted-printable emails received in Burpcollaborator's SMTP
+https://github.com/portswigger/nmap-parser # NMap Parsing Extension for Burp Suite
+https://github.com/portswigger/site-map-fetcher #
+https://github.com/portswigger/samesite-reporter # Burp extension that passively reports various SameSite flags
+https://github.com/portswigger/token-refresh # Token Refresh Tool
+https://github.com/portswigger/copy-headers-as-arguments # Copy request headers in -H format (cURL, Wfuzz, Gobuster etc.)
+https://github.com/portswigger/swagger-parser #
+https://github.com/portswigger/json-escaper #
+https://github.com/portswigger/response-clusterer # Burp plugin that clusters responses to show an overview of received responses
