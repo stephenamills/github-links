@@ -1,0 +1,15 @@
+https://www.iana.org/assignments/http-methods # Methods
+https://www.iana.org/assignments/http-fields # Header entries
+https://www.iana.org/assignments/http-cache-directives # Cache directives
+
+https://www.iana.org/assignments/http-status-codes # Status codes
+
+https://www.iana.org/assignments/http-authschemes # Authentication approaches
+
+https://www.iana.org/assignments/http-parameters
+https://www.iana.org/assignments/media-types # Media types
+https://www.iana.org/assignments/http-upgrade-tokens # Upgrade token
+
+https://www.iana.org/assignments/http-dig-alg
+
+https://www.iana.org/assignments/http-proxy-status

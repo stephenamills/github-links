@@ -1,13 +1,12 @@
-https://github.com/hashicorp-services/tfm # tfm (terraform migrate) is an open source tool to help customers migrate from Terraform
-Community Edition to TFC/TFE and to and from TFE and TFC https://github.com/hashicorp-services/ansible-role-vault # Ansible role to deploy HashiCorp Vault.
-https://github.com/hashicorp-services/enablement-interview # Repo to provide assets for facilitate the presentation and technical e
-xercise for applicants to the ISE Enablement position https://github.com/hashicorp-services/enablement-terraform-lab-modules # Terraform code and modules used in instruqt labs
-https://github.com/hashicorp-services/consul-in-prod # Procedures and assets to create Enterprise-grade Consul &amp; Vault in produ
-ction https://github.com/hashicorp-services/terraform-bundle-binary # This repo contains pre-compiled binaries for terraform-bundle
+https://github.com/hashicorp-services/tfm # tfm (terraform migrate) is an open source tool to help customers migrate from Terraform Community Edition to TFC/TFE and to and from TFE and TFC
+https://github.com/hashicorp-services/ansible-role-vault # Ansible role to deploy HashiCorp Vault.
+https://github.com/hashicorp-services/enablement-interview # Repo to provide assets for facilitate the presentation and technical exercise for applicants to the ISE Enablement position
+https://github.com/hashicorp-services/enablement-terraform-lab-modules # Terraform code and modules used in instruqt labs
+https://github.com/hashicorp-services/consul-in-prod # Procedures and assets to create Enterprise-grade Consul & Vault in production
+https://github.com/hashicorp-services/terraform-bundle-binary # This repo contains pre-compiled binaries for terraform-bundle
 https://github.com/hashicorp-services/vault-onboarding #
 https://github.com/hashicorp-services/vault-plugin-wif-examples # Vault plugin WIF setup examples
-https://github.com/hashicorp-services/.github # https://docs.github.com/en/github/building-a-strong-community/creating-a-default-co
-mmunity-health-file#about-default-community-health-files
+https://github.com/hashicorp-services/.github #
 
 https://github.com/hashicorp-guides/jenkins # Jenkins Integration Guide with the Hashicorp Stack
 https://github.com/hashicorp-guides/vault-approle-chef # Some integration patterns using Vault AppRole authentication and Chef
@@ -15,38 +14,42 @@ https://github.com/hashicorp-guides/vault-operations #
 https://github.com/hashicorp-guides/hashistack # Config to build the Hashi Stack.
 https://github.com/hashicorp-guides/vault-aws-auth # Example usage of HashiCorp Vault using AWS authentication backend for secure i
 ntroduction https://github.com/hashicorp-guides/lambda-api-gateway-stack # An example Terraform Stack that provisions an AWS S3 bucket, an AWS
-Lambda function served from that bucket, and an AWS API Gateway to invoke that function at a URL https://github.com/hashicorp-guides/consul-api-gateway-on-nomad # Deploying Consul API Gateway on nomad
+Lambda function served from that bucket, and an AWS API Gateway to invoke that function at a URL
+https://github.com/hashicorp-guides/consul-api-gateway-on-nomad # Deploying Consul API Gateway on nomad
 https://github.com/hashicorp-guides/vault-radar-demo # A repository for vault-radar CLI demo content and documentation
 https://github.com/hashicorp-guides/vault-dynamicsecrets # How to manage database credentials using Vault
-https://github.com/hashicorp-guides/nomad-workload-identity-terraform-demo # Terraform configuration to setup Nomad to use workload
-identites to acess Consul and Vault. https://github.com/hashicorp-guides/vault-java-example # An example of a Java runtime integration with Vault
-https://github.com/hashicorp-guides/lambda-multi-account-stack # A Terraform Stack that provisions an AWS S3 bucket, an AWS Lambda
-function served from that bucket, and an AWS API Gateway to invoke that function at a URL, all across multiple AWS accounts. https://github.com/hashicorp-guides/gcp-stacks-example #
+https://github.com/hashicorp-guides/nomad-workload-identity-terraform-demo # Terraform configuration to setup Nomad to use workload identites to acess Consul and Vault.
+https://github.com/hashicorp-guides/vault-java-example # An example of a Java runtime integration with Vault
+https://github.com/hashicorp-guides/lambda-multi-account-stack # A Terraform Stack that provisions an AWS S3 bucket, an AWS Lambda function served from that bucket, and an AWS API Gateway to invoke that function at a URL, all across multiple AWS accounts.
+https://github.com/hashicorp-guides/gcp-stacks-example #
 https://github.com/hashicorp-guides/eks-deferred-stack #
 https://github.com/hashicorp-guides/nomad-spark # Integration Guide for running Spark on top of Nomad
 https://github.com/hashicorp-guides/azure-stacks-example #
 https://github.com/hashicorp-guides/github-via-vault-stack # An example Terraform Stack which uses Vault JWT Auth to fetch a static
-credential for GitHub, provisioning an example GitHub repository https://github.com/hashicorp-guides/nomad-vault-aws #
+credential for GitHub, provisioning an example GitHub repository
+https://github.com/hashicorp-guides/nomad-vault-aws #
 https://github.com/hashicorp-guides/terraform-stacks-identity-tokens #
-https://github.com/hashicorp-guides/.github #
 https://github.com/hashicorp-guides/vpc-ec2-stack # This stack provisions an AWS virtual private cloud (VPC) using three availabili
-ty zones and with six subnets using the popular AWS VPC Terraform module. An EC2 instance running the latest Ubuntu AMI is then provisioned within each subnet. https://github.com/hashicorp-guides/pet-nulls-stack # A Terraform Stack using two components, two environments, and the random_pet
-and null_resource resources. The purpose is a no-authentication, state-only test of the stacks concepts. https://github.com/hashicorp-guides/vault-staticsecrets # A quick guide on CRUD operations on Static Secrets
-https://github.com/hashicorp-guides/consul-enterprise-automated-upgrades # A recorded demo of the Automated Upgrades feature of Has
-hiCorp's Consul Enterprise https://github.com/hashicorp-guides/lambda-component-expansion-stack #
+ty zones and with six subnets using the popular AWS VPC Terraform module. An EC2 instance running the latest Ubuntu AMI is then provisioned within each subnet.
+https://github.com/hashicorp-guides/pet-nulls-stack # A Terraform Stack using two components, two environments, and the random_pet
+and null_resource resources. The purpose is a no-authentication, state-only test of the stacks concepts.
+https://github.com/hashicorp-guides/vault-staticsecrets # A quick guide on CRUD operations on Static Secrets
+https://github.com/hashicorp-guides/consul-enterprise-automated-upgrades # A recorded demo of the Automated Upgrades feature of HashiCorp's Consul Enterprise
+https://github.com/hashicorp-guides/lambda-component-expansion-stack #
 https://github.com/hashicorp-guides/github-via-vault-secrets-stack # An example Terraform Stack that uses a datasource to fetch a s
 tatic GitHub token from HCP Vault Secrets (using OIDC authentication to Vault) and passes the token to another component for provisioning resources with the GitHub provider (in this case, a respository).
+https://github.com/hashicorp-guides/.github #
 
 https://github.com/hashicorp-forge/hermes # A document management system
 https://github.com/hashicorp-forge/grove # A Software as a Service (SaaS) log collection framework.
 https://github.com/hashicorp-forge/semgrep-rules # HashiCorp-relevant rules for the Semgrep code analysis tool
-https://github.com/hashicorp-forge/go-test-split-action # Github Action to produce a list of go tests to run in parallel action ste
-ps using a matrix strategy https://github.com/hashicorp-forge/terraform-cloud-action # Actions for Terraform Cloud
+https://github.com/hashicorp-forge/go-test-split-action # Github Action to produce a list of go tests to run in parallel action steps using a matrix strategy
+https://github.com/hashicorp-forge/terraform-cloud-action # Actions for Terraform Cloud
 https://github.com/hashicorp-forge/nomad-bench #
 https://github.com/hashicorp-forge/terraform-provider-enos # A Terraform provider for the Enos Software Quality as Code Toolset.
 https://github.com/hashicorp-forge/nomad-nodesim # Simulate large numbers of Nomad client nodes
-https://github.com/hashicorp-forge/backstage-plugin-hcp-consul # This is backstage plugin for hcp consul to display the overview an
-d service details https://github.com/hashicorp-forge/.github # HashiCorp Forge Default Community Health Files
+https://github.com/hashicorp-forge/backstage-plugin-hcp-consul # This is backstage plugin for hcp consul to display the overview and service details
+https://github.com/hashicorp-forge/.github # HashiCorp Forge Default Community Health Files
 https://github.com/hashicorp-forge/go-streamguard # WireGuard for wrapping sockets
 
 https://github.com/hashicorp-modules/hashistack-aws # Nomad, Vault and Consul server on a single ASG
@@ -56,9 +59,9 @@ https://github.com/hashicorp-modules/ssh-keypair-aws # Terraform config for an A
 https://github.com/hashicorp-modules/network-aws # Terraform config for a standard AWS network
 https://github.com/hashicorp-modules/vault-aws #
 https://github.com/hashicorp-modules/tls-self-signed-cert #
-https://github.com/hashicorp-modules/terraform-consul-nomad-setup # Terraform module to configure a Consul cluster for Nomad worklo
-ad identities. https://github.com/hashicorp-modules/terraform-vault-nomad-setup # Terraform module to configure a Vault cluster for Nomad workload
-identities. https://github.com/hashicorp-modules/consul-auto-join-instance-role-aws #
+https://github.com/hashicorp-modules/terraform-consul-nomad-setup # Terraform module to configure a Consul cluster for Nomad workload identities.
+https://github.com/hashicorp-modules/terraform-vault-nomad-setup # Terraform module to configure a Vault cluster for Nomad workload identities.
+https://github.com/hashicorp-modules/consul-auto-join-instance-role-aws #
 https://github.com/hashicorp-modules/nomad-lb-aws #
 https://github.com/hashicorp-modules/nomad-aws #
 https://github.com/hashicorp-modules/terraform-tfe-workspace # Module for getting started with TFE workspaces.

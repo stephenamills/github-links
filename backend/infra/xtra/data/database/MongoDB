@@ -1,0 +1,616 @@
+https://github.com/mongodb/mongo # The MongoDB Database
+
+https://github.com/mongodb-industry-solutions/vehicle-digital-twin-feedback-loop # In this repository you'll find everything you need to get started in creating a Digital Twin with MongoDB and AWS. More specifically, you'll find code samples and demos using the Realm
+database with MongoDB Atlas, Device sync and Amazon SageMaker. https://github.com/mongodb-industry-solutions/insurance-image-search #
+https://github.com/mongodb-industry-solutions/industrialconnectivity # Code and configuration samples to connect shop floors to the cloud leveraging MongoDB and other ecosystem technologies such as Kafka, MQTT etc.
+https://github.com/mongodb-industry-solutions/connected-products # Code samples and demos around using the Realm database in combination with MongoDB Atlas and device sync.
+https://github.com/mongodb-industry-solutions/rag-insurance #
+https://github.com/mongodb-industry-solutions/digital-underwriting-usage-based-insurance # In this GitHub repository, we will demonstrate how to utilize MongoDB to build an automated underwriting process to calculate a customized premium for a connected car.
+https://github.com/mongodb-industry-solutions/aml-fraud-prevention-demo #
+https://github.com/mongodb-industry-solutions/smart-factory-computer-vision-inference # How to connect the camera on a Smart Factory to feed a Computer Vision model in order to sync its Digital Twin
+https://github.com/mongodb-industry-solutions/insurance-pdf-search #
+https://github.com/mongodb-industry-solutions/real-time-pricing # Orchestrating streaming data from an ecommerce storefront to achieve real time analytics for pricing strategies
+https://github.com/mongodb-industry-solutions/retail-pricing-search-personaliztion # Retail AI pricing and personalization enhanced search results
+https://github.com/mongodb-industry-solutions/leafy-predictive-maintenance # This demo uses Atlas Vector Search and Atlas Stream Processing to build a predictive maintenance solution
+https://github.com/mongodb-industry-solutions/queryable-encryption-healthcare # Example Node.js app for leveraging MongoDB's Queryable Encryption, using a sample Healthcare schema.
+https://github.com/mongodb-industry-solutions/ist.media # AI-powered Content Personalization and Summarization
+https://github.com/mongodb-industry-solutions/credit_score #
+https://github.com/mongodb-industry-solutions/tmforum-openapi-example # Reference implementation of a TM Forum Open API using MongoDB.
+https://github.com/mongodb-industry-solutions/retail-store #
+https://github.com/mongodb-industry-solutions/healthcare-workshop #
+https://github.com/mongodb-industry-solutions/vehicle-digital-twin-feedback-loop-aws-acdp #
+https://github.com/mongodb-industry-solutions/leafy-smart-meters #
+https://github.com/mongodb-industry-solutions/insurance-relational-refactoring # Modernise insurance data models with MongoDB Relational Migrator. Refactor the OMG Party-Role Data Model effortlessly. Step-by-step tutorial inside!
+https://github.com/mongodb-industry-solutions/workforceenablement #
+https://github.com/mongodb-industry-solutions/mongodb-healthcare-framework #
+https://github.com/mongodb-industry-solutions/payments_odl #
+https://github.com/mongodb-industry-solutions/fhir-microservice #
+https://github.com/mongodb-industry-solutions/connected_truck_edge_server #
+https://github.com/mongodb-industry-solutions/acoustic-based-real-time-diagnosis-for-machines-using-vector-search #
+https://github.com/mongodb-industry-solutions/risk-assessor #
+
+https://github.com/mongodb-partners/mongo-rocks # MongoDB storage integration layer for the Rocks storage engine
+https://github.com/mongodb-partners/maap-framework # Pre-designed architectures for generative AI use cases.
+https://github.com/mongodb-partners/atlas_to_redshift # Migrate data from MongoDB Atlas to AWS Redshift
+https://github.com/mongodb-partners/mongodb-rag-vercel # A starter RAG application for developers to learn and start building;
+https://github.com/mongodb-partners/s3toatlas # Upload Data from S3 to Atlas using AWS Glue Studio Transformation
+https://github.com/mongodb-partners/appsync_atlas_integration # AWS Appsync integration with MongoDB Atlas
+https://github.com/mongodb-partners/azure-iiot # This repo defines different modules which can help build a robust Smart Factory with a combined effort from MongoDB and Azure.
+https://github.com/mongodb-partners/aws_mongodb_generative_ai # AWS_MongoDB_Generative_AI
+https://github.com/mongodb-partners/meanstack_with_atlas_on_fargate # Deploy a serverless MEAN Stack application with MongoDB Atlas and Fargate
+https://github.com/mongodb-partners/semantic_search_api_mongodb_atlas_vector_search_and_amazon_bedrock # semantic search API with MongoDB Atlas Vector Search, Amazon Bedrock, and AWS Serverless
+https://github.com/mongodb-partners/fraud-detection-datawrangler # MongoDB and AWS integration for fraud detection
+https://github.com/mongodb-partners/mongodb-databricks # Integration on MongoDB with Databricks
+https://github.com/mongodb-partners/meanstack_with_atlas_on_aws_eb # Sample MEAN Stack application with Atlas as it's backend deployed using AWS Elastic Beanstalk
+https://github.com/mongodb-partners/mongodb_atlas_as_aws_bedrock_knowledge_base # a repository for demonstrating MongoDB Atlas Vector store and Search and AWS Bedrock's knowledge base
+https://github.com/mongodb-partners/vehicle-digital-twin-solution # MongoDB and AWS integration for connected vehicles
+https://github.com/mongodb-partners/qs-anthropic-1 # this repo will host AWS Anthropic agentic solution with MongoDB
+https://github.com/mongodb-partners/mongodb_atlas_integration_with_microsoft_power_apps_and_power_automate # Integration of MongoDB Atlas with Microsoft Power Apps and Power Automate in building a Customer Onboarding Application for a Bank
+https://github.com/mongodb-partners/microservice-api-lambda-mongodbatlas # Repository to demonstrate the MongoDB Atlas with API based Microservice Architecture in Lambda Applications
+https://github.com/mongodb-partners/mongodb-aws-csfle # client side field level encryption with MongoDB Atlas and AWS services
+https://github.com/mongodb-partners/frauddetection_with_mongodbatlas_and_sagemakercanvas # This repository is showcase the Fraud detection capabilities with MongoDB Atlas and Amazon SageMaker Canvas
+https://github.com/mongodb-partners/synapse-spark-streaming # Real Time Sync from MongoDB Atlas to Azure Synapse using Spark Streaming
+https://github.com/mongodb-partners/mongodb-vertexai-qwiklab # Need a public repo for Qwiklab content
+https://github.com/mongodb-partners/mongodb_atlas_to_microsoft_purview # Build a Custom Push Solution to listen to the Change Events in MongoDB and push those changes to Microsoft Azure Purview
+https://github.com/mongodb-partners/mongodb-connector-starter # This repo gives a template for building a MongoDB Connector along with the best practices to follow.
+https://github.com/mongodb-partners/graphql_awsappsyncmergedapi_with_mongodbatlas # Create a single merged GraphQL API with AWS AppSync Merged API and MongoDB Atlas
+https://github.com/mongodb-partners/mongodb-rag-render # A starter RAG application for developers to learn and start building from.
+https://github.com/mongodb-partners/application_modernization_with_amazonfargate_mongodbatlas # repository to demonstrate a serverless architecture with Amazon EKS Fargate and MongoDB Atlas
+https://github.com/mongodb-partners/azure_champion_lab1_mongodb_handson # Repository for Azure Champion Program Lab 1
+https://github.com/mongodb-partners/azure_synapse_realtimesync_using_atlastrigger_and_azurefunction # Integration of MongoDB Atlas with Azure Synapse for Real-time Sync using the Atlas Trigger and Azure function
+https://github.com/mongodb-partners/mongodb-rag-netlify # A starter RAG application for developers to learn and start building from.
+https://github.com/mongodb-partners/microservice_application_with_mongodbatlas_awscdk_apigw_lambda # This is a reference architecture for API based application with MongoDB Atlas , APIGW and Lambda
+https://github.com/mongodb-partners/aws_mdb_futurebank # FutureBank setup for trading transcations
+https://github.com/mongodb-partners/sagemaker_jumpstart_mongodb_vectorsearch_generativeai # repository for SageMaker Jump Start and MongoDB Vector Search Generative AI usecase
+https://github.com/mongodb-partners/mongodb-mde-connctor # Need this repo to host code for Google MDE connector
+https://github.com/mongodb-partners/amplify_appsync_mongodb_atlas_startup # amplify_appsync_mongodb_atlas_startup
+https://github.com/mongodb-partners/appmodernization_amplify_appsync_with_mongodb_atlas_vector_search # Application Modernization with Amplify , AppSync and MongoDB Atlas Vector Search
+https://github.com/mongodb-partners/mongodb-vertexai-reasoning-engine # Need a public facing repo which will have code and steps that customers need to follow to set up reasoning engine on Google Cloud VertexAI
+https://github.com/mongodb-partners/mongodb_fabric_mirroring # Code to enable mirroring in Microsoft Fabric for MongoDB
+https://github.com/mongodb-partners/iot_greengrass_realm_genai_framework # A reference architecture (framework) to show case the generative AI capabilities and IoT Greengrass Edge computing with MongoDB Realm
+https://github.com/mongodb-partners/mongodb-vertexai-agent-sdk # This repo will host Vertex AI Agent SDK demo piece for reference for our customer
+https://github.com/mongodb-partners/azure_champion_lab3_synapse_integration # Repository for Azure Champion Program Lab 3
+https://github.com/mongodb-partners/azure_synapse_batch_integration_mongodbconnector # Integration of MongoDB Atlas with Azure Synapse for Batch and micro-batches using MongoDB connector
+https://github.com/mongodb-partners/azure_champion_lab2_powerautomate_powerapps # Repository for Azure Champion Program Lab 2
+https://github.com/mongodb-partners/amplify_apigw_atlas_for_startup # repository for hosting the AWS Startup Activate applications
+https://github.com/mongodb-partners/mean_stack_with_mongodb_atlas_on_amazon_eks # Deploy a MEAN Stack application with MongoDB Atlas as backend on Amazon EKS cluster
+https://github.com/mongodb-partners/mongodb-bigquery-workshops # Contains Workshops for MongoDB and BigQuery integrations
+https://github.com/mongodb-partners/stream_data_into_mongodb_aws_glue # This repository is showcase the steps to stream data into MongoDB using AWS Glue
+https://github.com/mongodb-partners/mongodb-vertexai-extensions # To add source code for creation of the vertexAI extesions.
+https://github.com/mongodb-partners/aws_codewhisperer # Showcases the usage of Amazon CodeWhisperer for MongoDB
+
+https://github.com/mongodb-developer/genai-showcase # GenAI Cookbook
+https://github.com/mongodb-developer/mongodb-with-fastapi # Example of using MongoDB with FastAPI
+https://github.com/mongodb-developer/nodejs-quickstart # This repository contains code samples for the Node.js Quick Start blog post series
+https://github.com/mongodb-developer/mern-stack-example # Mern Stack code for the Mern Tutorial
+https://github.com/mongodb-developer/pymongo-fastapi-crud # PyMongo with FastAPI CRUD application
+https://github.com/mongodb-developer/mongodb-express-rest-api-example # Example for the article on MongoDB and Express JS web REST API tutorial
+https://github.com/mongodb-developer/java-spring-boot-mongodb-starter # MongoDB Blog Post: REST APIs with Java, Spring Boot and MongoDB
+https://github.com/mongodb-developer/java-quick-start # This repository contains code samples for the Java Quick Start blog post series
+https://github.com/mongodb-developer/flask-pymongo-example # Implementation of flask and pymongo using mflix sample data set and mflix python UI
+https://github.com/mongodb-developer/mean-stack-example # Sample CRUD application built with the MEAN stack.
+https://github.com/mongodb-developer/social-app-demo #
+https://github.com/mongodb-developer/nextjs-with-mongodb # nextjs-with-mongodb
+https://github.com/mongodb-developer/service-tests # Correctness test runner for MongoDB API endpoint and instructions for performance testing
+https://github.com/mongodb-developer/prisma-mongodb-nextjs-example #
+https://github.com/mongodb-developer/mongodb-typescript-example #
+https://github.com/mongodb-developer/library-management-system # Sample App used in the hands-on labs during Developer Days
+https://github.com/mongodb-developer/mongodb-dotnet-example # MongoDB and .NET CRUD example project
+https://github.com/mongodb-developer/farm-auth # Adding authentication to FARM stack
+https://github.com/mongodb-developer/atlas-vector-search-rag #
+https://github.com/mongodb-developer/google-cloud-semantic-search # Vector search with MongoDB Atlas and Google Cloud
+https://github.com/mongodb-developer/laravel-mongodb-tutorial # This repository illustrates a tutorial article about how to use MongoDB with Laravel 9 and the Laravel MongoDB package
+https://github.com/mongodb-developer/docbridge # A (currently experimental) Object-Document Mapping library.
+https://github.com/mongodb-developer/leafsteroids # This repository contains the MongoDB Leafsteroids Game
+https://github.com/mongodb-developer/rust-quickstart-code #
+https://github.com/mongodb-developer/mongodb-ecommerce #
+https://github.com/mongodb-developer/liberate-data # Learn how data trapped in an RDBMS can be liberated using MongoDB's Developer Data Platform (DDP) by migrating to Atlas, powering with search, and expose to API and mobile clients. This demo was created for AWS re:I
+nvent 2023 and presented at the MongoDB booth theater at the Venetian expo hall. https://github.com/mongodb-developer/beanie-example #
+https://github.com/mongodb-developer/mongodb-springboot3-kotlin # Getting started App with Spring Boot 3 in Kotlin using MongoDB
+https://github.com/mongodb-developer/google-cloud-sentiment-chef # Sentiment Analysis, Summarization, Tagging with MongoDB Atlas and Gemini — Google Cloud's AI model
+https://github.com/mongodb-developer/google-cloud-rag-langchain # RAG Chat Assistant with MongoDB Atlas, Google Cloud and Langchain
+https://github.com/mongodb-developer/langgraph.js-mongodb-example #
+https://github.com/mongodb-developer/housemovingassistant # A sample demo, showing the use of .NET MAUI with Realm
+https://github.com/mongodb-developer/mongodb-kmip-fle-queryable # How to setup Hashicorp Vault KMIP Secrets Engine with MongoDB CSFLE and Queryable encryption to
+https://github.com/mongodb-developer/google-cloud-generative-ai-chatbot # Generative AI Customer Service Chatbot with MongoDB Atlas and Google Cloud Vertex AI PaLM API
+https://github.com/mongodb-developer/farm-stack-to-do-app # A sample to-do application built as a teaching tool.
+https://github.com/mongodb-developer/rticket # A very simple issue ticket system built using Realm and SwiftUI
+https://github.com/mongodb-developer/kotlin-driver-quick-start #
+https://github.com/mongodb-developer/image-search-vector-demo # A Jupyter Notebook demonstrating how to use a multi-modal embedding model to build an image search engine.
+https://github.com/mongodb-developer/bidding-app-angular # Web App demonstrating Real-time event delivery with MongoDB Atlas App Services and Realm Web SDK
+https://github.com/mongodb-developer/mongodb-realm-react-rest-api # Template of a React + Axios + Realm REST API project.
+https://github.com/mongodb-developer/remix #
+https://github.com/mongodb-developer/atlasforms # Forms Based UI for MongoDB Atlas
+https://github.com/mongodb-developer/python-quickstart-code #
+https://github.com/mongodb-developer/location-tracking #
+https://github.com/mongodb-developer/mongorx #
+https://github.com/mongodb-developer/atlas-vector-search-langchain # This Repo shows how to integrate LangChain, Open AI and store embeddings in the MongoDB Atlas and run a similarity search using MongoDB Atlas Vector Search.
+https://github.com/mongodb-developer/plummeting-people-game # A tribute to "Fall Guys: Ultimate Knockout"
+https://github.com/mongodb-developer/mern-k8s # Simple demo app using the MongoDB Atlas Operator on k8s
+https://github.com/mongodb-developer/mern-stack-azure-deployment-example # A demo repo showing a simple MERN stack application that can be deployed to Azure Web Apps using GitHub Actions
+https://github.com/mongodb-developer/mongodb-sprint-zero # Contains reusable code artifacts that can be used in Sprint Zero engagements
+https://github.com/mongodb-developer/laravel-example # Laravel and MongoDB example main files
+https://github.com/mongodb-developer/search-nextjs #
+https://github.com/mongodb-developer/google-cloud-natural-language-mongodb-query-api #
+https://github.com/mongodb-developer/mongodb-codeigniter # MongoDB & CodeIgniter CRUD Tutorial
+https://github.com/mongodb-developer/quickstart-rag-python # This Python project demonstrates semantic search using MongoDB and two different LLM frameworks: LangChain and LlamaIndex. The goal is to load documents from MongoDB, generate embeddings for the text data, a
+nd perform semantic searches using both LangChain and LlamaIndex frameworks. https://github.com/mongodb-developer/kotlin-driver-atlas-search # This repository demonstrates how to integrate MongoDB Atlas Search with the Kotlin Sync driver using a Spring Boot REST application. The goal is to create a solution for exploring and discovering an ide
+al Airbnb, leveraging the advanced search capabilities of MongoDB Atlas. https://github.com/mongodb-developer/hr_agentic_chatbot # Agentic chatbot built using a chainlit interface
+https://github.com/mongodb-developer/data-federation-tutorial # This repo contains some code samples for DevHub blog posts.
+https://github.com/mongodb-developer/vectorsearch-videotext # Learn how to search video within text using SDDB and Vector embeddings
+https://github.com/mongodb-developer/celeb-matcher-farm # A sample FARM stack app that allows you to find your celebrity lookalike!
+https://github.com/mongodb-developer/e2e-game-offers #
+https://github.com/mongodb-developer/mongo-resilient-evolvability-demo # Demonstrates MongoDB best practices for building resilient yet evolvable shared data applications, using Rust as an example
+https://github.com/mongodb-developer/mdb-spring-boot-reactive # Reactive Java Spring Boot with Spring Data MongoDB
+https://github.com/mongodb-developer/microservices-architecture-mongodb # Templates to create a Java Spring Boot microservices architecture with MongoDB
+https://github.com/mongodb-developer/meeting-mate # MVP to showcase how MongoDB can be used to implement an end-to-end user-facing app
+https://github.com/mongodb-developer/getting-started-deno-mongodb #
+https://github.com/mongodb-developer/mongodb-change-stream-to-google-cloud-pubsub # This is a Node.js application that demonstrates how to publish data from a MongoDB change stream to a Google Cloud Pub/Sub topic.
+https://github.com/mongodb-developer/semantickernel_with_csharp_and_atlas #
+https://github.com/mongodb-developer/atlas-admin-api-digest-auth # Demonstration of calling the MongoDB Atlas Administration API using digest authentication
+https://github.com/mongodb-developer/google-cloud-mongodb-atlas-workshop # Demo Application for MongoDB Atlas on Google Cloud
+https://github.com/mongodb-developer/php-quickstart # MongoDB PHP Quick-start Guide
+https://github.com/mongodb-developer/mongodb-node-crud-example # Code samples for the MongoDB and npm article.
+https://github.com/mongodb-developer/vector-search-workshop #
+https://github.com/mongodb-developer/mongodb-atlas-rivet-ai-samples # Sample projects and graph for rivet and MongoDB Atlas plugin integration.
+https://github.com/mongodb-developer/bun-with-mongodb #
+https://github.com/mongodb-developer/pymongoarrow-sample-code # Sample code for PyMongoArrow blog posts
+https://github.com/mongodb-developer/ai_lab_assistant_chat # MongoDB Developer Days Lab AI Assistant
+https://github.com/mongodb-developer/rocket-analytics # Learn how the various components of MongoDB's Developer Data Platform (DDP) can support app-driven and traditional analytics in real-time without duplicating data to other data stores. This demo was created for A
+WS re:Invent 2022 and presented at the MongoDB booth area at the Venetian expo hall. https://github.com/mongodb-developer/tensorflow_demos #
+https://github.com/mongodb-developer/mongodb-with-sanic # Example of using MongoDB with Sanic
+https://github.com/mongodb-developer/getting-started-search-java # A demo application for getting started with Atlas Search.
+https://github.com/mongodb-developer/atlas-search-as-you-type-suggest # Code for as-you-type suggest solution using Atlas Search
+https://github.com/mongodb-developer/docs-vector-search-demo #
+https://github.com/mongodb-developer/mongo-and-go-example # The code for mongodb and go article examples
+https://github.com/mongodb-developer/atlas-cli-docker-example #
+https://github.com/mongodb-developer/listings-ai-vector-search # Small web app to demo vector search and gpt-4 working together.
+https://github.com/mongodb-developer/langchain-examples # A set of small scripts with langchain/ML/AI and MongoDB Atlas capabilities.
+https://github.com/mongodb-developer/mongodb-with-starlette # Example of using MongoDB with Starlette
+https://github.com/mongodb-developer/relational-migrator-lab #
+https://github.com/mongodb-developer/seesharpmovies #
+https://github.com/mongodb-developer/atlasvectorsearchwithamazonsagemaker # Example implementation for MongoDB Atlas Vector Search with Amazon SageMaker
+https://github.com/mongodb-developer/triggers-sentence-transformers # This trigger demonstrates how you can automatically update document embeddings whenever a new document is inserted or modified in a specific collection.
+https://github.com/mongodb-developer/morphia-quickstart #
+https://github.com/mongodb-developer/aggregation_expression_builders # Source code to accompany blog post on using aggregation expression builder in the MongoDB Java Drivers
+https://github.com/mongodb-developer/bash-wordle #
+https://github.com/mongodb-developer/moviesearchapp #
+https://github.com/mongodb-developer/foodiefinder-csharp # A sample console application showing how to implement some of the new features available in the GA release of the MongoDB Provider for EF Core
+https://github.com/mongodb-developer/atlas-search-java-server #
+https://github.com/mongodb-developer/mongodb-java-spring-boot-csfle # This repository contains a Java Spring Boot template to start a MongoDB project with CSFLE.
+https://github.com/mongodb-developer/quarkus-mongodb-crud #
+https://github.com/mongodb-developer/unity-infinite-runner #
+https://github.com/mongodb-developer/get-started-cxx # Repository to help getting started with MongoDB C++ driver connecting to MongoDB Atlas
+https://github.com/mongodb-developer/docs-vector-search-demo-py #
+https://github.com/mongodb-developer/google-cloud-workshop # MongoDB Atlas on Google Cloud Workshop Content
+https://github.com/mongodb-developer/aerodata # Sample source code to accompany "Single-Collection Designs with Spring Data" article
+https://github.com/mongodb-developer/mongodb-with-tornado # Example of using MongoDB with Tornado
+https://github.com/mongodb-developer/spring-boot-mongodb-aggregations #
+https://github.com/mongodb-developer/microservices-architecture-mongodb-config-repo # This is just the config repository for the GitHub repository microservices-architecture-mongodb
+https://github.com/mongodb-developer/vercel-ai-vector-search-template #
+https://github.com/mongodb-developer/relational-migrator-demo # A Docker, self-contained demo to demo MongoDB Relational Migrator
+https://github.com/mongodb-developer/get-started-c # Getting started with the MongoDB C driver connecting to MongoDB Atlas
+https://github.com/mongodb-developer/laravel-transaction-rentals #
+https://github.com/mongodb-developer/dotlocalpopquiz # Code to generate the sample data and metrics used in the "Pop Quiz: Optimizing Data Designs for High Performance" presentation at .Local NYC 2024
+https://github.com/mongodb-developer/symfony-mongodb-rental-workshop # Symfony Demo Application - A Docosourus workshop to built a Symfony and MongoDB rental booking web applicaiton. Symfony Demo Application.
+https://github.com/mongodb-developer/atlas-cicd-aws #
+https://github.com/mongodb-developer/mongodb-rust #
+https://github.com/mongodb-developer/azurecontainerappdemo #
+https://github.com/mongodb-developer/fsidemo-payments # Conceptual demo for MongoDB Enterprise capabilities used to build a payments demo.
+https://github.com/mongodb-developer/ai-shop # A sample application using MVEN and Langchain with Atlas AI capabalities
+https://github.com/mongodb-developer/netlify-mongodb-starter # A starter for MongoDB on the Netlify platform
+https://github.com/mongodb-developer/search-analysers-with-mongodb # This repository will help you understand the advanced concepts of Atlas search like custom analyzers, atlas search with geo locations and use of compounds
+https://github.com/mongodb-developer/mongodb-flask-cryptoshredding-example #
+https://github.com/mongodb-developer/ai-drawing-game # Drawing game sample app using MongoDB Vector Search and AWS Services
+https://github.com/mongodb-developer/java-spring-boot-csfle #
+https://github.com/mongodb-developer/ble-periph-mp-rp2 # BLE implementation in MicroPython for the RPP2.
+https://github.com/mongodb-developer/aws-sentiment-chef-demo #
+https://github.com/mongodb-developer/vercel-mongodb-next-fastapi-starter # A sample starter application to build vercel / nextjs + Fast API all working with an Atlas Cluster.
+https://github.com/mongodb-developer/codeyourdreams #
+https://github.com/mongodb-developer/supercargarage #
+https://github.com/mongodb-developer/testcontainers-with-mongodb-and-java #
+https://github.com/mongodb-developer/go-intro # This repository contains the code used in the Intro to Golang Workshop and YouTube videos.
+https://github.com/mongodb-developer/awslambda-pymongo #
+https://github.com/mongodb-developer/mdb-java-workshop # In this hands-on session, you’ll learn essential concepts such as using MongoTemplate for data access, implementing object mapping with Spring Data MongoDB, leveraging data repositories for CRUD operations, and
+harnessing the power of aggregation pipelines for advanced querying. https://github.com/mongodb-developer/aggregation-pipeline-lab # A Hands-on Lab to learn about advanced querying and Aggregation Pipelines
+https://github.com/mongodb-developer/simple-movie-microservice #
+https://github.com/mongodb-developer/atlas-flask-azure-demo #
+https://github.com/mongodb-developer/time-series-window-functions #
+https://github.com/mongodb-developer/flask-mongoengine-pymongo #
+https://github.com/mongodb-developer/atlas-pyspark-databricks #
+https://github.com/mongodb-developer/netlify-mongodb-nextjs-ai-chatbot # A sample starter application to build AI chatbots with netlify and MongoDB
+https://github.com/mongodb-developer/llama_index_demo # LlamaIndex quick setup query and high level walk through
+https://github.com/mongodb-developer/mongodb-atlas-with-ruby-on-rails-example # An example application showing how to use MongoDB Atlas with Ruby on Rails
+https://github.com/mongodb-developer/intro-lab # Documentation used for the initial cluster and sample app setup in the hands-on labs at Developer Days
+https://github.com/mongodb-developer/bakery-workshop #
+https://github.com/mongodb-developer/hugging-face-train-json-data # You can extract chunks of JSON data from MongoDB, preprocess them, and then train a model using Hugging Face tools like you've done in your script.
+https://github.com/mongodb-developer/mongodb-java-spring-boot-atlas-search # This repository contains a Java Spring Boot template to start a MongoDB project with Atlas Search.
+https://github.com/mongodb-developer/atlas-chatbot-sandbox #
+https://github.com/mongodb-developer/rails-mongodb #
+https://github.com/mongodb-developer/huggingface-local # Creating sentence embeddings on local downloaded model (Cisco)
+https://github.com/mongodb-developer/stream-airbnb-ai-reviews #
+https://github.com/mongodb-developer/.github #
+https://github.com/mongodb-developer/php-error-handling-sample #
+https://github.com/mongodb-developer/security-showcase #
+https://github.com/mongodb-developer/mongodbank # Banking and Financial Services Industry Example Application
+https://github.com/mongodb-developer/dotnetmovierecommendationbot #
+https://github.com/mongodb-developer/heroku-mern-atlas-starter # A sample MERN starter to use with Heroku single click deployment
+https://github.com/mongodb-developer/lyric-semantic-search #
+https://github.com/mongodb-developer/ai-agents-lab #
+https://github.com/mongodb-developer/airbnb-openai-demo # This demo allows you to create sentence embeddings in place and then query from the prompt in python - Only requirements are a working Atlas connection and an OpenAI key
+https://github.com/mongodb-developer/testcontainers-with-spring-boot---mongodb # This tutorial explains on using testcontainers for Junits in a Spring Boot application.
+https://github.com/mongodb-developer/ai-ocr-llm-agnostic #
+https://github.com/mongodb-developer/content-catalog #
+https://github.com/mongodb-developer/swiftui-atlas-device-sdk-app-lab # Hands-on lab to build a SwiftUI App that stores data using Atlas Device SDKs
+https://github.com/mongodb-developer/scrapy # MongoDB & Scrapy Demonstration
+https://github.com/mongodb-developer/mongodb-developer #
+https://github.com/mongodb-developer/pymongoarrow_demo #
+https://github.com/mongodb-developer/aws-reinvent-ai-game # AI Game for AWS Re:invent 2024
+https://github.com/mongodb-developer/nlp-product-search # This repository is home to an advanced search engine pipeline that leverages PySpark, MongoDB, and Airflow to create a powerful and efficient search functionality.
+https://github.com/mongodb-developer/vector-search-with-quarkus # This repository contains the code to perform vector search using Quarkus framework.
+https://github.com/mongodb-developer/mongo-core-test #
+https://github.com/mongodb-developer/atlassearchwithspringboot # This tutorial will help you understand the concepts of Atlas search with a Spring Boot application
+https://github.com/mongodb-developer/python # The home of Python demo code for MongoDB.
+https://github.com/mongodb-developer/mongodb-workshop-eventer #
+https://github.com/mongodb-developer/ai-rag-lab-notebooks #
+https://github.com/mongodb-developer/search-lab # Documentation used in the Search & Vector Search hands-on labs during Developer Days
+https://github.com/mongodb-developer/ai-rag-lab #
+https://github.com/mongodb-developer/atlasdatafederationcookbook #
+https://github.com/mongodb-developer/search-play-workshop #
+https://github.com/mongodb-developer/mdblinks #
+https://github.com/mongodb-developer/mongodb-sprout-workshop #
+https://github.com/mongodb-developer/minecraftwithmongodb # This code example will help understand on how to connect to Minecraft using simple Java application
+https://github.com/mongodb-developer/twitter-slang-search #
+https://github.com/mongodb-developer/ai-agents-lab-notebooks #
+https://github.com/mongodb-developer/atlas-search-workshop #
+https://github.com/mongodb-developer/mongobalanceservice #
+https://github.com/mongodb-developer/atlas-bedrock-crime-story-demo # A demo game to showcase a fun interaction between MongoDB Atlas Database, Atlas Vector Search and AWS Bedrock base modules
+https://github.com/mongodb-developer/efcore_highlights # EF Core Feature Highlights repository showcasing features from the MongoDB EF Core provider v8.1.0. Accompanies the Microsoft Dev Blog Article.
+https://github.com/mongodb-developer/serverless_nodejs # Example for Cisco (Nazeer)
+https://github.com/mongodb-developer/atlas-bedrock-crime-story-workshop # The workshop for AWS and Bedrock embeddings setup
+https://github.com/mongodb-developer/java-spring-boot-secure-todo-app #
+https://github.com/mongodb-developer/celeb-matcher-mern #
+https://github.com/mongodb-developer/mongodb-atlas-python-quickstart #
+https://github.com/mongodb-developer/lab-assistant # MongoDB AI Lab Assistant
+https://github.com/mongodb-developer/java-mapping-and-builders # This tutorial will help you understand the concepts of POJOs and Builders in Java
+https://github.com/mongodb-developer/dotnethuggingfacedatasetuploader # A simple dotnet console app for uploading the movies dataset from AIATMongoDB on Hugging Face to your own cluster
+https://github.com/mongodb-developer/atlas-ai-battleship-game #
+https://github.com/mongodb-developer/render-mern-atlas-starter # A Render.com template for MERN with Atlas
+https://github.com/mongodb-developer/mongodb-rag-heroku #
+https://github.com/mongodb-developer/mdb-modern-app-workshop #
+
+https://github.com/mongodb-university/atlas_starter_nodejs #
+https://github.com/mongodb-university/atlas_starter_python # Example Python application for MongoDB Atlas
+https://github.com/mongodb-university/kafka-edu # Kafka education materials
+https://github.com/mongodb-university/mflix-ui # MongoDB M220 Courses React Front-End
+https://github.com/mongodb-university/bluehawk # A markup language and tool for extracting code examples, checkpointing tutorials, and dynamically transforming text
+https://github.com/mongodb-university/realm-tutorial-backend #
+https://github.com/mongodb-university/realm-electron-advanced-quickstart # An advanced guide to creating an Electron app with MongoDB Realm and writing to a Realm from multiple processes.
+https://github.com/mongodb-university/realm-graphql-apollo-react #
+https://github.com/mongodb-university/docs-in-use-encryption-examples # In-use encryption sample applications
+https://github.com/mongodb-university/stitch-tutorial-todo-web # stitch-tutorial-todo-web
+https://github.com/mongodb-university/realm-template-apps # The MongoDB Realm template apps source
+https://github.com/mongodb-university/atlas_starter_java #
+https://github.com/mongodb-university/realm-tutorial-web #
+https://github.com/mongodb-university/mflix-java #
+https://github.com/mongodb-university/atlas_starter_dotnet # A C# example of the CRUDing with Atlas
+https://github.com/mongodb-university/mflix-js #
+https://github.com/mongodb-university/realm-android-livedata #
+https://github.com/mongodb-university/cookbook-chat # Source code for the Gilded Age Gourmet, a cooking chat app based on the Boston Cooking-School Cook Book.
+https://github.com/mongodb-university/customer-labs #
+https://github.com/mongodb-university/atlas_starter_go #
+https://github.com/mongodb-university/stitch-tutorial-todo-android #
+https://github.com/mongodb-university/node # Learning materials produced by the Curriculum Team for Node.js driver
+https://github.com/mongodb-university/js-starter # Starter JS app
+https://github.com/mongodb-university/realm-tutorial-unity # Follow along at https://docs.mongodb.com/realm/tutorial/unity/
+https://github.com/mongodb-university/laravel-quickstart # Starter code for the Laravel MongoDB quickstart documentation
+https://github.com/mongodb-university/stitch-tutorial-todo-graphql #
+https://github.com/mongodb-university/spring-ai-demo-app # A demo app for the Spring AI integration tutorial in the Atlas documentation.
+https://github.com/mongodb-university/realm-docs-sdk-java #
+https://github.com/mongodb-university/stitch-tutorial-todo-ios #
+https://github.com/mongodb-university/yokedox # Yokedox, the docs generator harness
+https://github.com/mongodb-university/stitch-todo-tutorial-backend #
+https://github.com/mongodb-university/universal-driver-examples # Universal Driver Examples
+https://github.com/mongodb-university/atlasstarter_net #
+https://github.com/mongodb-university/java # Learning materials produced by the Curriculum Team for Java driver
+https://github.com/mongodb-university/csharp # Learning materials produced by the Curriculum Team for C# driver
+https://github.com/mongodb-university/curriculum # Code recaps and demo code from MongoDB University
+https://github.com/mongodb-university/python # Learning materials produced by the Curriculum Team for Python driver
+
+https://github.com/mongodb-labs/full-stack-fastapi-mongodb # Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more.
+https://github.com/mongodb-labs/socialite # Social Data Reference Architecture - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/disasm # Interactive Disassembler GUI - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/edda # A log visualizer for MongoDB - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/mongoproxy # A server that speaks the MongoDB wire protocol and can analyze/transform requests and responses - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/mongo-arrow # MongoDB integrations for Apache Arrow. Export MongoDB documents to numpy array, parquet files, and pandas dataframes in one line of code.
+https://github.com/mongodb-labs/ycsb # This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/mongorover # Intern project - MongoDB driver for the Lua programming language - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/mongo-mockup-db # MockupDB - Simulate a MongoDB server.
+https://github.com/mongodb-labs/python-bsonjs # A fast BSON to MongoDB Extended JSON converter for Python - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/py-tpcc # MongoDB Adaptation of PyTPCC
+https://github.com/mongodb-labs/mangrove # Mangrove: the MongoDB C++ ODM - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/mongosh-snippets # An experimental plugin feature for mongosh
+https://github.com/mongodb-labs/mms-api-examples # This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/ledger # An implementation of a ledger using MongoDB
+https://github.com/mongodb-labs/mongo-csharp-search # C# driver extension providing support for Atlas Search
+https://github.com/mongodb-labs/migration-verifier # A public tool for validating the correctness of a migration
+https://github.com/mongodb-labs/pymongo-stubs # Experimental stub files for PyMongo
+https://github.com/mongodb-labs/jaeger-mongodb # A mongodb based storage backend for the jaeger collector
+https://github.com/mongodb-labs/field-level-encryption-sandbox # sample code for the client-side field level encryption project
+https://github.com/mongodb-labs/mongodb-redpanda-example #
+https://github.com/mongodb-labs/drivers-evergreen-tools # Scripts for MongoDB drivers to bootstrap their Evergreen configuration file - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/mindexer # Experimental tool to recommend indexes for MongoDB
+https://github.com/mongodb-labs/drivers-atlas-testing # Drivers Atlas Testing
+https://github.com/mongodb-labs/mongodb-wp-proxy # A logging mongodb wire protocol proxy
+https://github.com/mongodb-labs/repl-trace-checker # Check that a replica set's execution trace is a valid TLA+ spec behavior
+https://github.com/mongodb-labs/cubes # Creating OLAP Cubes with MongoDB's Aggregation Framework
+https://github.com/mongodb-labs/symfony-mongodb # (Experimental) Bundle to provide a lightweight integration of MongoDB in Symfony
+https://github.com/mongodb-labs/agg_edsl # A simple eDSL for aggregation in Python
+https://github.com/mongodb-labs/terraform-provider-mongodb # Terraform Provider for MongoDB Cloud resources (This repository is NOT a supported MongoDB product)
+https://github.com/mongodb-labs/omida # Ops Manager in Docker (arm64) WARNING: THIS IS NOT A PRODUCTION-GRADE IMAGE !!!
+https://github.com/mongodb-labs/cobra2snooty # Generate cobra docs compatible with the snooty docs tooling
+https://github.com/mongodb-labs/benchmarks #
+https://github.com/mongodb-labs/pymongoexplain # Explainable CRUD API for PyMongo
+https://github.com/mongodb-labs/powerbi-connector-prototype # Prototype Custom Connector for PowerBI
+https://github.com/mongodb-labs/pymongoagg # Transpile Python functions to MongoDB Aggregations
+https://github.com/mongodb-labs/ai-ml-pipeline-testing # Repository Dedicated to testing our third-party AI/ML integrations
+https://github.com/mongodb-labs/django-mongodb # MongoDB Backend for Django
+https://github.com/mongodb-labs/mongo-c-driver-async # An experimental asynchronous MongoDB C client library
+https://github.com/mongodb-labs/mongo-ebpf-tools #
+https://github.com/mongodb-labs/mongodbmobile # This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/driver-performance-test-data # Datasets for MongoDB's internal driver benchmarking experiments - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/mdbrtools # Experimental tools for schema analysis and query workload generation used by MongoDB Research
+https://github.com/mongodb-labs/mongodb-cloudloads # Cloud-native MongoDB sample apps and workloads.
+https://github.com/mongodb-labs/python-service-tools # A repository to share common tools for working with python services.
+https://github.com/mongodb-labs/mongoid-fle-sample-app # Ruby on Rails Application that uses Mongoid/MongoDB to demonstrate Client-Side Field Level Encryption
+https://github.com/mongodb-labs/slogger # Go logging library - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/helium-ti-poc # Repo for UI prototype of TI-Helium POC
+https://github.com/mongodb-labs/mongodb-aem-course # Adobe Experience Manager and MongoDB Online Education Course - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/icecream # Icecream package repository for developer workstations
+https://github.com/mongodb-labs/mpc-cli #
+https://github.com/mongodb-labs/mongo-kafka-streaming-pipeline # Performance testing a vanilla Kafka pipeline with MongoDB as the sink.
+https://github.com/mongodb-labs/mongo-ruby-spec-shared # MongoDB Ruby driver & Mongoid shared test code
+https://github.com/mongodb-labs/drivers-github-tools # Scripts for MongoDB drivers to use in GitHub Actions - This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/gupty # Live terminal demos that are just as smooth as pre-recorded
+https://github.com/mongodb-labs/consistent-secondary-reads # Experiment with consistent queries from secondaries
+https://github.com/mongodb-labs/dcrcli # Data Collection Request CLI program
+https://github.com/mongodb-labs/vscode # Fork of the mongodb-js/vscode extension
+https://github.com/mongodb-labs/crypto-multiparty-db # Code and Writeups for Multiparty Database Project in Crypto Research
+https://github.com/mongodb-labs/tla-trace-checker # TLA+ Trace Checker paper
+https://github.com/mongodb-labs/timeseries # This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/nlp-search # NLP search skunkworks project using Atlas Search
+https://github.com/mongodb-labs/aggl # aggregation language
+https://github.com/mongodb-labs/buildfest-2022 # Contains projects for Buildfest 2022
+https://github.com/mongodb-labs/mongodb-activerecord-adapter # An experimental adapter for ActiveRecord that allows MongoDB to be used on the backend
+https://github.com/mongodb-labs/experimental-benchmarks # Experimental performance benchmarks. This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/rietveld-usability-toolkit # This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/dev-data-platform-benchmarks # A reusable benchmarking tool for developer data platform
+https://github.com/mongodb-labs/tools-3411-script # Scripts related to TOOLS-3411
+https://github.com/mongodb-labs/multi-cluster-cli # A cli tool that enables you to run a MongoDB deployment across multiple Kubernetes clusters on your local machine. This Repository is NOT a supported MongoDB product
+https://github.com/mongodb-labs/ipc-benchmark # Linux IPC benchmarking code
+https://github.com/mongodb-labs/mongoid-upgrade-helper # Ruby tooling for identifying query shape differences between Mongoid ODM versions
+https://github.com/mongodb-labs/mql-debugger # json parser retains original text location
+
+https://github.com/mongodb/node-mongodb-native # The official MongoDB Node.js driver
+https://github.com/mongodb/mongo-go-driver # The Official Golang driver for MongoDB
+https://github.com/mongodb/laravel-mongodb # A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+https://github.com/mongodb/mongo-python-driver # PyMongo - the Official MongoDB Python driver
+https://github.com/mongodb/mongoid # The Official Ruby Object Mapper for MongoDB
+https://github.com/mongodb/mongo-csharp-driver # The Official C# .NET Driver for MongoDB
+https://github.com/mongodb/mongo-java-driver # The official MongoDB drivers for Java, Kotlin, and Scala
+https://github.com/mongodb/motor # Motor - the async Python driver for MongoDB and Tornado or asyncio
+https://github.com/mongodb/mongo-php-library # The Official MongoDB PHP library
+https://github.com/mongodb/mongo-rust-driver # The official MongoDB Rust Driver
+https://github.com/mongodb/mongo-ruby-driver # The Official MongoDB Ruby Driver
+https://github.com/mongodb/mongodb-kubernetes-operator # MongoDB Community Kubernetes Operator
+https://github.com/mongodb/js-bson # BSON Parser for node and browser
+https://github.com/mongodb/mongo-cxx-driver # C++ Driver for MongoDB
+https://github.com/mongodb/mongo-tools #
+https://github.com/mongodb/homebrew-brew # The Official MongoDB Software Homebrew Tap
+https://github.com/mongodb/mongo-php-driver # The Official MongoDB PHP driver
+https://github.com/mongodb/mongo-c-driver # The Official MongoDB driver for C language
+https://github.com/mongodb/docs # The MongoDB Documentation Project Source.
+https://github.com/mongodb/flask-pymongo # PyMongo support for Flask applications
+https://github.com/mongodb/mongo-spark # The MongoDB Spark Connector
+https://github.com/mongodb/bson-rust # Encoding and decoding support for BSON in Rust
+https://github.com/mongodb/mongo-snippets # snippets of code that might be useful for your mongodb deployment
+https://github.com/mongodb/specifications # Specifications related to MongoDB
+https://github.com/mongodb/cookbook # MongoDB recipes.
+https://github.com/mongodb/pymodm # A Pythonic, object-oriented interface for working with MongoDB.
+https://github.com/mongodb/mongo-perf # performance tools for mongodb
+https://github.com/mongodb/mongo-kafka # MongoDB Kafka Connector
+https://github.com/mongodb/mongo-swift-driver # The official MongoDB driver for Swift
+https://github.com/mongodb/mongodb-enterprise-kubernetes # MongoDB Enterprise Kubernetes Operator
+https://github.com/mongodb/mongo-efcore-provider # MongoDB Entity Framework Core Provider
+https://github.com/mongodb/terraform-provider-mongodbatlas # Terraform MongoDB Atlas Provider: Deploy, update, and manage MongoDB Atlas infrastructure as code through HashiCorp Terraform
+https://github.com/mongodb/leafygreen-ui # LeafyGreen UI – LeafyGreen's React UI Kit
+https://github.com/mongodb/mongodb-atlas-cli # MongoDB Atlas CLI and MongoDB CLI enable you to manage your MongoDB in the Cloud
+https://github.com/mongodb/mongodb-atlas-kubernetes # MongoDB Atlas Kubernetes Operator - Manage your MongoDB Atlas clusters from Kubernetes
+https://github.com/mongodb/stitch-examples # MongoDB Stitch Examples
+https://github.com/mongodb/chatbot # MongoDB Chatbot Framework. Powered by MongoDB and Atlas Vector Search.
+https://github.com/mongodb/support-tools # For support tools to be shared publicly
+https://github.com/mongodb/stitch-js-sdk # MongoDB Stitch JavaScript SDK
+https://github.com/mongodb/mongo-bi-connector-odbc-driver # ODBC driver for MongoDB Connector for Business Intelligence
+https://github.com/mongodb/mongo-azure #
+https://github.com/mongodb/amboy # Amboy -- A Go(lang) Job Queue Tool
+https://github.com/mongodb/libmongocrypt # Required C library for Client Side and Queryable Encryption in MongoDB
+https://github.com/mongodb/bsonspec.org # site for bsonspec.org
+https://github.com/mongodb/helm-charts #
+https://github.com/mongodb/terraform-aws-ecs-task-definition # A Terraform module for creating Amazon ECS Task Definitions
+https://github.com/mongodb/bson-ruby # Ruby Implementation of the BSON Specification (2.0.0+)
+https://github.com/mongodb/go-client-mongodb-atlas # Go Client for MongoDB Atlas
+https://github.com/mongodb/docs-ecosystem # MongoDB Ecosystem Documentation
+https://github.com/mongodb/stitch-android-sdk # MongoDB Stitch Android SDK
+https://github.com/mongodb/mongodbatlas-cloudformation-resources # MongoDB Atlas CloudFormation Resources: Deploy, update, and manage MongoDB Atlas infrastructure as code through AWS CloudFormation
+https://github.com/mongodb/winkerberos # A native Kerberos client implementation for Python on Windows
+https://github.com/mongodb/genny # 🧞‍♀️ Grants 3 wishes. As long as those wishes are to generate load 🧞‍♂️
+https://github.com/mongodb/docs-realm # Realm Database SDK documentation
+https://github.com/mongodb/swift-bson # pure Swift BSON library
+https://github.com/mongodb/stitch-ios-sdk #
+https://github.com/mongodb/signal-processing-algorithms #
+https://github.com/mongodb/mongo-jdbc-driver # JDBC Driver for MongoDB Atlas SQL interface
+https://github.com/mongodb/mongodb-vapor # MongoDB + Vapor integration
+https://github.com/mongodb/design # Source code for MongoDB.design, LeafyGreen's official documentation site.
+https://github.com/mongodb/awscdk-resources-mongodbatlas # MongoDB Atlas AWS CDK Resources
+https://github.com/mongodb/atlas-billing #
+https://github.com/mongodb/atlas-app-services-examples # Example use cases for Atlas App Services
+https://github.com/mongodb/snooty # MongoDB Documentation front end
+https://github.com/mongodb/mongo-csharp-analyzer # The MongoDB Analyzer is a free tool that helps you understand how your code translates into the MongoDB Query API.
+https://github.com/mongodb/realm-practice # realm-node-practice & realm-swift-practice
+https://github.com/mongodb/charts-embedding-examples # charts-embedding-examples
+https://github.com/mongodb/mongo-csharp-driver-jsondotnet # The C#/.NET driver will have a new component to integrate with JSON.NET that needs to live separately from the .NET driver itself.
+https://github.com/mongodb/ftdc # utils for working with mongodb full-time diagnostic data capture files
+https://github.com/mongodb/template-app-react-native-todo # Atlas Template Starter App - Use Device Sync from a React Native client application. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/marian # A search engine focused on documentation.
+https://github.com/mongodb/snooty-parser #
+https://github.com/mongodb/curator # Curator -- a build and package automation tool
+https://github.com/mongodb/mongo-odbc-driver #
+https://github.com/mongodb/anser # Data Transformation/Migration Tool
+https://github.com/mongodb/docs-compass #
+https://github.com/mongodb/academia-mongodb-lab-python # Lab using MongoDB with Python (PyMongo driver). Created for educational use by the MongoDB for Academia program.
+https://github.com/mongodb/kbson # Kotlin Multiplatform Bson Library
+https://github.com/mongodb/snooty-vscode #
+https://github.com/mongodb/docs-bi-connector #
+https://github.com/mongodb/atlas-sdk-go # MongoDB Atlas Golang SDK
+https://github.com/mongodb/template-app-swiftui-todo # Atlas Template Starter App - Use Device Sync from a SwiftUI client application. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/grip #
+https://github.com/mongodb/jasper # Jasper is a Process Management Framework
+https://github.com/mongodb/docs-worker-pool #
+https://github.com/mongodb/go-client-mongodb-ops-manager # An HTTP client for Ops Manager and Cloud Manager Public API endpoints.
+https://github.com/mongodb/mongo-tools-common #
+https://github.com/mongodb/hacktoberfest2018 # Hacktoberfest Repository for MongoDB
+https://github.com/mongodb/mongo-meta-driver #
+https://github.com/mongodb/mongo-aspnetcore-odata # Adds MongoDB support to Microsoft ASP.NET Core oData.
+https://github.com/mongodb/docs-java # MongoDB Java driver documentation
+https://github.com/mongodb/template-app-dart-flutter-todo # Atlas Template Starter App - use Device Sync from a Dart/Flutter client application. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/docs-mongodb-shell # Documentation for the mongodb shell
+https://github.com/mongodb/docs-assets # Documentation Assets
+https://github.com/mongodb/mut #
+https://github.com/mongodb/mongodb-selinux #
+https://github.com/mongodb/server-workflow-tool #
+https://github.com/mongodb/atlas-github-action # Github Action for the MongoDB Atlas CLI
+https://github.com/mongodb/docs-coding-challenge # MongoDB Documentation Team coding challenge
+https://github.com/mongodb/leafygreen-sketch # Sketch Symbol Libraries
+https://github.com/mongodb/pymongo-auth-aws # The Python MONGODB-AWS authentication mechanism for PyMongo
+https://github.com/mongodb/mongosql-auth-c # A MySQL authentication plugin that implements the client-side of MongoDB authentication mechanisms supported by mongosqld https://www.mongodb.com/products/bi-connector
+https://github.com/mongodb/docs-node #
+https://github.com/mongodb/mongo-java-examples #
+https://github.com/mongodb/docs-spark-connector # Document for
+https://github.com/mongodb/docs-landing #
+https://github.com/mongodb/mongosql-auth-java # A MySQL authentication plugin for Java that implements the client-side of MongoDB authentication mechanisms supported by mongosqld
+https://github.com/mongodb/docs-app-services # App Services documentation
+https://github.com/mongodb/template-app-kotlin-todo # Atlas Template Starter App - Use Device Sync from a Kotlin client application. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/docs-meta # MongoDB Documentation documentation about documentation
+https://github.com/mongodb/docs-kotlin # MongoDB Kotlin driver documentation
+https://github.com/mongodb/mongodb-vapor-template # A Swift Vapor template for MongoDB
+https://github.com/mongodb/stitch-starter-apps # Starter Apps to get you up and running with Stitch, Atlas, and MongoDB Local
+https://github.com/mongodb/mongo-ruby-kerberos # Kerberos authentication support for the Ruby Driver.
+https://github.com/mongodb/mongo-c-driver-performance #
+https://github.com/mongodb/docs-search-transport #
+https://github.com/mongodb/docs-commandline-tools # Storing documentation for the command line tools
+https://github.com/mongodb/docs-golang # The MongoDB Go Driver Documentation Project
+https://github.com/mongodb/charts-demo # For the .local events in general, and for .local SF specifically
+https://github.com/mongodb/slogger #
+https://github.com/mongodb/world-singleview # MongoDB World - Creating a Single View
+https://github.com/mongodb/m001 #
+https://github.com/mongodb/mongo-tableau-connector # Tableau connector for MongoDB Atlas SQL
+https://github.com/mongodb/libmongosql # MySQL Server fork used for building the MongoDB ODBC Driver
+https://github.com/mongodb/mongo-php-builder # (experimental) Aggregation and Query Builder for the MongoDB PHP Driver
+https://github.com/mongodb/docs-mongodb-vscode # Documentation for the MongoDB for VS Code Extension
+https://github.com/mongodb/mongo-swift-driver-performance # MongoDB driver benchmarks for Swift
+https://github.com/mongodb/mongo-powerbi-connector # PowerBI Connector for MongoDB Atlas SQL
+https://github.com/mongodb/docs-mongoid #
+https://github.com/mongodb/cookiecutter-aws-sam-python-mongodb-atlas # A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.6 for MongoDB Atlas
+https://github.com/mongodb/docs-ruby # MongoDB Ruby Documentation
+https://github.com/mongodb/gatsby-source-mongodb-stitch # A lightweight sourceNodes Stitch plugin for Gatsby
+https://github.com/mongodb/deluge #
+https://github.com/mongodb/motor-performance # A separate repository in which to develop performance benchmark tests for Motor, my alternative Python driver for MongoDB
+https://github.com/mongodb/mongodb-vale-action # GitHub action that runs vale configured with customized MongoDB docs team rules
+https://github.com/mongodb/libmongocrypt-rust # Rust bindings for libmongocrypt
+https://github.com/mongodb/docs-cxx #
+https://github.com/mongodb/mongoid-railsmdb # A command-line tool like the Rails CLI for creating, managing, and maintaining a Mongoid/Rails app.
+https://github.com/mongodb/template-app-maui-todo # Atlas Template Starter App - Use Device Sync from a C#/Maui client application. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/world-timeseries # MongoDB World Time Series Data - Sensor Management
+https://github.com/mongodb/terraform_peered_vpc # A terraform module for creating cross AWS account VPCs
+https://github.com/mongodb/ftdc-tools # A FTDC library in python that can decode and stream FTDC data.
+https://github.com/mongodb/awscdk-resources-mongodbatlas-go # MongoDB Atlas AWS CDK Resources for Go
+https://github.com/mongodb/docs-visual-studio-extension #
+https://github.com/mongodb/openapi # MongoDB OpenAPI specs
+https://github.com/mongodb/sc-portal-frontend # Host all of the services / code used for the frontend UI of the Solution Consulting (SC) Portal Project
+https://github.com/mongodb/greenbay #
+https://github.com/mongodb/dagger # library dependency graph introspection tool
+https://github.com/mongodb/snooty-pushless-staging #
+https://github.com/mongodb/docs-php-library #
+https://github.com/mongodb/snooty-workerpool-stitchapp # Stitch app for the snooty workerpool
+https://github.com/mongodb/stitch-specifications #
+https://github.com/mongodb/template-app-edge-server # Atlas Template Starter App - connect to Edge Server and use MongoDB APIs over the wireprotocol from a MongoDB Driver. This repo is generated from source code in https://github.com/mongodb-university/realm-template-
+apps https://github.com/mongodb/mongo-task-generator # Dynamically split evergreen tasks into subtasks for testing the mongodb/mongo project
+https://github.com/mongodb/stitch-sample-apps # (In Development) Sample apps used in Stitch docs
+https://github.com/mongodb/mlab-data-api # Standalone mLab Data API for self-hosting
+https://github.com/mongodb/sample-apps-nyu # Sample apps project with NYU students
+https://github.com/mongodb/docs-screencapture-tool # A screencapture scripting tool to automatically take and replace screenshots in documentation
+https://github.com/mongodb/docs-atlas-cli # Documentation for the Atlas CLI
+https://github.com/mongodb/docs-relational-migrator # Contains Relational Migrator documentation
+https://github.com/mongodb/docs-csharp # MongoDB .NET/C# documentation
+https://github.com/mongodb/atlas-cli-core # Library containing core functionality for the Atlas CLI
+https://github.com/mongodb/atlas-cli-plugin-example #
+https://github.com/mongodb/docs-cluster-to-cluster-sync # Docs repo for the cluster to cluster synchronization project
+https://github.com/mongodb/stitch-tutorial-todo-android #
+https://github.com/mongodb/docs-docurl # Does CURL things a little more explicitly.
+https://github.com/mongodb/docs-java-other #
+https://github.com/mongodb/snooty-data-api # REST API for communicating between the Autobuilder and Snooty's Gatsby source plugin
+https://github.com/mongodb/docs-rust # Documentation for the Official MongoDB Rust Driver
+https://github.com/mongodb/libmongocrypt-helper-ruby # libmongocrypt packaged as a Ruby gem
+https://github.com/mongodb/eng-blog-examples #
+https://github.com/mongodb/stitch-tutorial-todo-backend #
+https://github.com/mongodb/docs-conferences # Doc repository for conference specific documentation
+https://github.com/mongodb/push-to-artifact-repo # GitHub Action that copies source to another repo
+https://github.com/mongodb/template-app-cpp-todo # Atlas Template Starter App - use Device Sync from a C++ client application. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/mongo-test-metadata #
+https://github.com/mongodb/world-retail # MongoDB World - Retail Reference Architecture
+https://github.com/mongodb/sonar #
+https://github.com/mongodb/template-app-web-mql-todo # Atlas Template Starter App - Use the MongoDB Query Language on Web with React. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/edge-kubernetes-operator # This is a Kubernetes Operator which deploys the MongoDB Edge Server into Kubernetes clusters.
+https://github.com/mongodb/snooty-realm-workerpoolstaging #
+https://github.com/mongodb/redalert # A system state validation tool
+https://github.com/mongodb/docs-kafka-connector #
+https://github.com/mongodb/sc-portal-backend # Host all of the code used for the backend services of the Solution Consulting (SC) Portal Project
+https://github.com/mongodb/vuln-mgt-without-agents # Vulnerability scanning without agents
+https://github.com/mongodb/docs-pymongo # Documentation for PyMongo, the MongoDB Python driver for synchronous applications
+https://github.com/mongodb/docs-examples #
+https://github.com/mongodb/kubeobject # A simple to use wrapping on top of Kubernetes custom resources with object oriented semantics.
+https://github.com/mongodb/docs-cpp #
+https://github.com/mongodb/snooty-pool # Snooty's Realm application
+https://github.com/mongodb/ai-docs-artifacts # AI generated/translated code examples and pages for use in the MongoDB Docs.
+https://github.com/mongodb/docs-pymongo-arrow # MongoDB Docs PyMongo Arrow Driver
+https://github.com/mongodb/snooty-starter # Starter template repo for Snooty-enabled repositories
+https://github.com/mongodb/docs-entity-framework # MongoDB Entity Framework Provider documentation
+https://github.com/mongodb/docs-worker-actions # Custom GitHub Actions for Docs Platform workflows
+https://github.com/mongodb/docs-scala # Documentation site for MongoDB Scala Driver
+https://github.com/mongodb/docs-java-rs # Documentation for the Java RS Driver
+https://github.com/mongodb/cdkdemo # MongoDB Atlas CDK Demos
+https://github.com/mongodb/num-num #
+https://github.com/mongodb/docs_build_test #
+https://github.com/mongodb/freddytest # test
+https://github.com/mongodb/mongodb-code-examples # Official MongoDB Code Examples
+https://github.com/mongodb/template-app-web-data-api-todo # Atlas Template Starter App - Use the Atlas Data API on Web with React. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/template-app-web-graphql-todo # Atlas Template Starter App - Use the Atlas GraphQL API on Web with React. This repo is generated from source code in https://github.com/mongodb-university/realm-template-apps
+https://github.com/mongodb/myrepo #
+https://github.com/mongodb/apix-action # Monorepo of APIx Github Actions
+https://github.com/mongodb/stitch-tutorial-todo-ios #
+https://github.com/mongodb/docs-c # Documentation of the C driver
+https://github.com/mongodb/mongo-qa # General QA materials for Mongo
+https://github.com/mongodb/docs-yourrepo #
+https://github.com/mongodb/docs-kotlin-sync # Documentation for Kotlin Sync Driver
+https://github.com/mongodb/docs-atlas-architecture # Docs for the Atlas Architecture Center
+https://github.com/mongodb/docs-404 #
+https://github.com/mongodb/netlify-integrations # Docs platform Netlify integrations
+https://github.com/mongodb/devhub-backend #
+https://github.com/mongodb/docs-mongoid-railsmdb # Documentation for Railsmdb for Mongoid
+https://github.com/mongodb/docs-integrations #
+https://github.com/mongodb/atlas-functions-triggers-examples # Example code snippets for Atlas Triggers and Functions available in the UI and in the docs.
+https://github.com/mongodb/realm-quick-start-swiftui # Quick start with Realm and SwiftUI (non-Sync)
+https://github.com/mongodb/docs-asset-automation #
+https://github.com/mongodb/tse-amer-east-core # TSE AMER East Core Project Base
+https://github.com/mongodb/curriculum-datasets # Datasets used in MongoDB University courses activities.
+https://github.com/mongodb/ako-blueprints # Blueprints for using the Atlas Kubernetes Operator (AKO)

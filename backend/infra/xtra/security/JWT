@@ -27,7 +27,7 @@ https://github.com/aws-samples/cognito-device-grant-flow #
 https://github.com/aws-samples/delivery-driver-app-demo # A simple website that demonstrates Amazon Chime proxy phone sessions
 https://github.com/aws-samples/amazon-eks-cicd-codepipeline-java-microservices # Sample code to demonstrate Containerized and Kubernetized microservices deployment on Amazon EKS through CI/CD Pipeline using AWS DevOps Tools.
 https://github.com/aws-samples/client-event-sample #
-https://github.com/aws-samples/dotnet-serverless-imagerecognition # The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate a serverless processing workflow using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition.
+https://github.com/aws-samples/dotnet-serverless-imagerecognition # Image recognition and processing using Step Functions to orchestrate a serverless processing workflow with Lambda, S3, DynamoDB and Rekognition.
 https://github.com/aws-samples/amazon-cloudfront-functions #
 https://github.com/aws-samples/aws-saas-factory-ref-solution-metrics-analytics #
 https://github.com/aws-samples/Intelli-Agent # Chatbot Portal with Agent: Streamlined Workflow for Building Agent-Based Applications
