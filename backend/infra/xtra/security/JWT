@@ -1,4 +1,3 @@
-JWT
 https://github.com/aws-samples/openbanking-brazilian-auth-samples #
 https://github.com/aws-samples/aws-serverless-airline-booking # Web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD.
 https://github.com/aws-samples/authorization-lambda-at-edge # Code demonstrates authorization with Lambda@Edge and JSON Web Tokens (JWTs)
@@ -28,7 +27,7 @@ https://github.com/aws-samples/cognito-device-grant-flow #
 https://github.com/aws-samples/delivery-driver-app-demo # A simple website that demonstrates Amazon Chime proxy phone sessions
 https://github.com/aws-samples/amazon-eks-cicd-codepipeline-java-microservices # Sample code to demonstrate Containerized and Kubernetized microservices deployment on Amazon EKS through CI/CD Pipeline using AWS DevOps Tools.
 https://github.com/aws-samples/client-event-sample #
-https://github.com/aws-samples/dotnet-serverless-imagerecognition # The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate a serverless processing workflow using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition.  
+https://github.com/aws-samples/dotnet-serverless-imagerecognition # The Image Recognition and Processing Backend reference architecture demonstrates how to use AWS Step Functions to orchestrate a serverless processing workflow using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition.
 https://github.com/aws-samples/amazon-cloudfront-functions #
 https://github.com/aws-samples/aws-saas-factory-ref-solution-metrics-analytics #
 https://github.com/aws-samples/Intelli-Agent # Chatbot Portal with Agent: Streamlined Workflow for Building Agent-Based Applications
@@ -59,7 +58,7 @@ https://github.com/aws-samples/aws-well-architected-miro #
 https://github.com/aws-samples/cross-account-private-api-patterns # Examples for consuming Private API Gateway across AWS Accounts
 https://github.com/aws-samples/generative-ai-applications-foundational-architecture #
 https://github.com/aws-samples/aws-real-time-web-shop-analytics # Real-time web shop streaming analytics on AWS
-https://github.com/aws-samples/cloudfront-app-with-cognito-auth-at-edge # A tool for easy authentication and authorization of users in Cloudfront Distributions by leveraging Lambda@Edge to request an ID token from any OpenId Connect Provider, then exchanging that token for temporary, rotatable credentials using Cognito Identity Pools.  
+https://github.com/aws-samples/cloudfront-app-with-cognito-auth-at-edge # A tool for easy authentication and authorization of users in Cloudfront Distributions by leveraging Lambda@Edge to request an ID token from any OpenId Connect Provider, then exchanging that token for temporary, rotatable credentials using Cognito Identity Pools.
 https://github.com/aws-samples/cloudfront-paywall-demo #
 https://github.com/aws-samples/aws-network-apis-poc # AWS Network APIs POC
 https://github.com/aws-samples/amazon-ivs-real-time-collaboration-web-demo # This project demonstrates a video collaboration application powered by Amazon IVS Real-time, serving as a reference for building compelling social video experiences.

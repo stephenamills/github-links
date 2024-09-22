@@ -8,6 +8,8 @@ https://www.iana.org/assignments/bgp-ls-parameters
 https://www.iana.org/assignments/rpki
 https://www.iana.org/assignments/capability-codes
 
+https://www.iana.org/numbers
+
 https://github.com/googlecloudplatform/redis-dataflow-realtime-analytics # Build a real-time website analytics dashboard on GCP using Dataflow, Cloud Memorystore (Redis) and Spring Boot
 https://github.com/googlecloudplatform/bgp-with-nva-on-gcp #
 https://github.com/googlecloudplatform/chef-google-compute #
@@ -70,4 +72,14 @@ https://github.com/equinix-labs/bird-helper-scripts # A couple of helpful startu
 https://github.com/equinix-labs/terraform-equinix-fabric-connection-oci # Terraform module to create a Fabric L2 Connection to Oracle Cloud Infrastructure FastConnect
 https://github.com/equinix-labs/terraform-equinix-fabric-connection-ibm # Terraform module to create a Fabric L2 Connection to IBM Cloud Direct Link
 
+https://github.com/cloudflare/isbgpsafeyet.com # Is BGP safe yet?
+https://github.com/cloudflare/fgbgp #
+https://github.com/cloudflare/bbmp2kafka # BMP to Kafka processor
+https://github.com/cloudflare/the-deep-dive-into-how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-monda
 
+#
+
+https://github.com/akamai/lke-loadbalancer # Load Balancer for Linode Kubernetes Engine
+
+https://github.com/linode/linode-cloud-controller-manager # Kubernetes Cloud Controller Manager for Linode
+https://github.com/linode/lelastic # elastic IP client

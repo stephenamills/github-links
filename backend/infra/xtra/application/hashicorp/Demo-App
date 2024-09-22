@@ -1,0 +1,13 @@
+https://github.com/hashicorp-demoapp/product-api-go # Products API written in Go
+https://github.com/hashicorp-demoapp/hashicups-client-go # Simple Go Client for HashiCups
+https://github.com/hashicorp-demoapp/hashicups-setups # A project that showcases different setups of HashiCups
+https://github.com/hashicorp-demoapp/infrastructure # Contains infrastructure as code for running demo app locally or in the cloud
+https://github.com/hashicorp-demoapp/frontend # A GraphQL frontend to the demo app
+https://github.com/hashicorp-demoapp/payments # Payments API - Java SpringBoot RESTful API
+https://github.com/hashicorp-demoapp/coffee-service #
+https://github.com/hashicorp-demoapp/public-api # A GraphQL public API for the demo app
+https://github.com/hashicorp-demoapp/go-hckit # Standard library of reusable abstractions.
+https://github.com/hashicorp-demoapp/traffic-simulation # Traffic Simulation for HashiCups demo application
+https://github.com/hashicorp-demoapp/images # Repository containing raw assets for generating HashiCups cup images
+https://github.com/hashicorp-demoapp/instruqt # Instruqt config for Demo Example
+https://github.com/hashicorp-demoapp/postgres # Docker Official Image packaging for Postgres

@@ -1,0 +1,110 @@
+https://github.com/hashicorp-education/learn-terraform-github-actions #
+https://github.com/hashicorp-education/learn-consul-get-started-vms # Scripts to generate Consul agent configuration for VMs
+https://github.com/hashicorp-education/learn-vault-secrets-operator #
+https://github.com/hashicorp-education/learn-terraform-dynamic-credentials #
+https://github.com/hashicorp-education/learn-nomad-getting-started # Companion repo for the HashiCorp Nomad Get Started collection
+of tutorials https://github.com/hashicorp-education/learn-terraform-test #
+https://github.com/hashicorp-education/learn-consul-get-started-kubernetes #
+https://github.com/hashicorp-education/learn-vault-docker-lab # A minimal Vault cluster Terraformed onto Docker containers
+https://github.com/hashicorp-education/learn-vault-spring-cloud #
+https://github.com/hashicorp-education/consul-k8s-nginx-ingress-controller # An example deployment that shows using NGINX as ingres
+s with Consul on Kubernetes in transparent mode https://github.com/hashicorp-education/learn-vault-raft # Terraform configuration and scripts used by Vault tutorials covering Raft
+storage https://github.com/hashicorp-education/learn-packer-windows-ami #
+https://github.com/hashicorp-education/learn-vault-secrets-dotnet-vault # Supporting content for the Using HashiCorp Vault C# Clien
+t with .NET Core tutorial https://github.com/hashicorp-education/learn-consul-cts # A repository to help learn Consul-Terraform-Sync
+https://github.com/hashicorp-education/learn-vault-lambda-extension # Repo for the code used in the Vault Lambda Extension Lab.
+https://github.com/hashicorp-education/learn-terraform-drift-and-opa #
+https://github.com/hashicorp-education/learn-consul-service-mesh-deploy # A repository to help learn deploying Consul Service Mesh
+on Kubernetes https://github.com/hashicorp-education/learn-terraform-vault-backed-dynamic-credentials #
+https://github.com/hashicorp-education/learn-vault-agent-envconsul # Tutorial files used by the "n_version: 1.14.0 Vault Agent - se
+crets as environment variables" tutorial https://github.com/hashicorp-education/learn-terraform-drift-detection #
+https://github.com/hashicorp-education/learn-consul-api-gateway #
+https://github.com/hashicorp-education/learn-vault-sentinel # Sentinel files used by the Vault tutorials
+https://github.com/hashicorp-education/learn-boundary-session-rec-aws-vault # Lab environment to accompany the Boundary Enable sess
+ion recording with AWS and Vault tutorial. https://github.com/hashicorp-education/learn-vault-kubernetes-consul # Used for "Vault installation to minikube via Helm with Consu
+l" tutorial. https://github.com/hashicorp-education/learn-consul-windows-vm # Learn Consul Windows VM
+https://github.com/hashicorp-education/learn-nomad-gs-pytechco #
+https://github.com/hashicorp-education/terraform-github-static-app #
+https://github.com/hashicorp-education/learn-vault-kubernetes # Repo for files supporting Vault/Kubernetes learn labs.
+https://github.com/hashicorp-education/learn-vault-pki-engine #
+https://github.com/hashicorp-education/learn-vault-azure-rotate-root-creds #
+https://github.com/hashicorp-education/learn-terraform-azure-scale-sets # Manage Azure Virtual Machine Scale Sets with Terraform
+https://github.com/hashicorp-education/learn-consul-terminating-gateways #
+https://github.com/hashicorp-education/learn-vault-plugin-secrets-hashicups # Supporting content for the Define Roles for the Secre
+ts Engine tutorial https://github.com/hashicorp-education/learn-terraform-checks #
+https://github.com/hashicorp-education/learn-vault-plugins # Supporting content for the Vault plugins tutorial
+https://github.com/hashicorp-education/learn-vault-github-actions # Content to support Vault ecosystem tutorials
+https://github.com/hashicorp-education/learn-terraform-sentinel #
+https://github.com/hashicorp-education/learn-consul-circuit-breaking # A companion repository for the 'Implement circuit breakers t
+o improve service resilience' tutorial https://github.com/hashicorp-education/learn-vault-sentinel-examples # Example Sentinel policies used by the Vault tutorial
+https://github.com/hashicorp-education/learn-vault-sentinel-http-import # Content to support Sentinel HTTP import tutorials
+https://github.com/hashicorp-education/learn-terraform-dynamic-credentials-no-code #
+https://github.com/hashicorp-education/learn-vault-plugin-wif # Used for a HashiCorp Vault tutorial on plugin workload identity fed
+eration. https://github.com/hashicorp-education/learn-vault-redhat-openshift #
+https://github.com/hashicorp-education/learn-vault-enterprise-secrets-sync #
+https://github.com/hashicorp-education/learn-consul-template-load-balancing-vms # Learn how to use consul-template for load balanci
+ng in a VM based scenario https://github.com/hashicorp-education/learn-terraform-cloudflare-static-website #
+https://github.com/hashicorp-education/terraform-aws-s3-website #
+https://github.com/hashicorp-education/learn-terraform-confluent-provider #
+https://github.com/hashicorp-education/learn-consul-hashiconf-2023 #
+https://github.com/hashicorp-education/terraform-aws-route53-subdomain #
+https://github.com/hashicorp-education/learn-vault-kubernetes-sidecar # Used by "Injecting Secrets into Kubernetes Pods via Vault A
+gent Containers" tutorial https://github.com/hashicorp-education/learn-nomad-workload-identity-federation # Terraform and other assets for using HashiCorp No
+mad with Google Cloud Platform's Federated Identity https://github.com/hashicorp-education/learn-vault-audit-elasticsearch # Learn Vault: Audit Device Logs and Incident Response with
+Elasticsearch https://github.com/hashicorp-education/learn-vault-external-kubernetes # Used by "Integrate a Kubernetes Cluster with an External V
+ault" tutorial https://github.com/hashicorp-education/learn-consul-apigee-external-authz #
+https://github.com/hashicorp-education/learn-consul-admin-partitions # A repostiory to help learn Consul Admin Partitions
+https://github.com/hashicorp-education/learn-consul-hashidays-2023 #
+https://github.com/hashicorp-education/learn-hcp-waypoint-static-app-template #
+https://github.com/hashicorp-education/learn-consul-disaster-recovery # A repository to help learn how to perform disaster recovery
+for Consul https://github.com/hashicorp-education/learn-vault-intro-lambda-extension # Github repo for the Introduction to Vault Lambda Extens
+ion. https://github.com/hashicorp-education/learn-vault-agent-demo # Vault Agent with AWS hands on lab code
+https://github.com/hashicorp-education/learn-vault-monitoring # Content for Vault monitoring related tutorials
+https://github.com/hashicorp-education/learn-vault-openldap-ssh # Content for Vault OpenLDAP secrets engine with SSH lab
+https://github.com/hashicorp-education/learn-terraform-hcp-vault #
+https://github.com/hashicorp-education/learn-waypoint-get-started # Companion repo for the HashiCorp Waypoint Get Started tutorials
+https://github.com/hashicorp-education/rita-pr-test #
+https://github.com/hashicorp-education/learn-vault-hello-world #
+https://github.com/hashicorp-education/learn-hcp-packer-revocation #
+https://github.com/hashicorp-education/learn-consul-external-services-vms # Learn how to use consul-esm for external services monit
+orin in a VM based scenario https://github.com/hashicorp-education/learn-consul-k8s-windows #
+https://github.com/hashicorp-education/learn-vault-hcp-codify-mgmt # learn-vault-hcp-codify-mgmt
+https://github.com/hashicorp-education/learn-vault-lease-lab # Supporting content for Troubleshooting irrevocable leases tutorial
+https://github.com/hashicorp-education/learn-boundary-vault-quickstart # Lab environment to accompany Boundary Vault integration qu
+ickstart tutorial. https://github.com/hashicorp-education/learn-vault-policy-path-templates # Used by "Recommended pattern for Vault ACL policy path t
+emplates" tutorial https://github.com/hashicorp-education/learn-consul-cluster-telemetry #
+https://github.com/hashicorp-education/learn-consul-proxy-metrics #
+https://github.com/hashicorp-education/learn-consul-proxy-access-logs #
+https://github.com/hashicorp-education/learn-vault-transit-rewrap # Supporting configuration and code for rewrap secrets with Trans
+it lab https://github.com/hashicorp-education/hcp-terraform-provider-example #
+https://github.com/hashicorp-education/learn-boundary-event-logging # Lab environment to accompany the Boundary event logging tutor
+ial. https://github.com/hashicorp-education/learn-boundary-target-aware-workers # Lab environment to accompany the Boundary worker-aware
+targets tutorial. https://github.com/hashicorp-education/learn-consul-cluster-peering-google-cloud #
+https://github.com/hashicorp-education/learn-consul-ecs #
+https://github.com/hashicorp-education/learn-consul-redundancy-zones # A repository to help learn how Consul's Redundancy Zones wor
+k https://github.com/hashicorp-education/learn-consul-permissive-mtls #
+https://github.com/hashicorp-education/learn-consul-k8s-nginx-inc-ingress-controller #
+https://github.com/hashicorp-education/learn-boundary-cloud-host-catalogs # Lab environment to accompany the Boundary Dynamic Host
+Catalogs Learn tutorial. https://github.com/hashicorp-education/learn-boundary-azure-sql-database # Lab environment to accompany the Boundary with Azure SQL
+Database tutorial. https://github.com/hashicorp-education/learn-vault-migrate-hcp # Supporting content for the Migrate self hosted Vault to HCP Vault
+Learn tutorial https://github.com/hashicorp-education/learn-vault-agent-templates # Supporting content for the Vault Agent Templates tutorial
+https://github.com/hashicorp-education/learn-consul-audit-logs #
+https://github.com/hashicorp-education/learn-consul-sameness-groups # A repository to help learn how Consul's Sameness Groups work
+https://github.com/hashicorp-education/consul-argo-rollouts # Using canary splitter with Consul and Argo Rollouts progressive deliv
+ery https://github.com/hashicorp-education/learn-consul-cluster-peering # A repository to help learn how Consul's Cluster Peering works
+https://github.com/hashicorp-education/learn-boundary-upgrade # Lab environment to accompany Boundary upgrade and database migratio
+n tutorial. https://github.com/hashicorp-education/learn-consul-service-separation # A repository to help learn how to separate services in Con
+sul using admin partitions and namespaces https://github.com/hashicorp-education/hcp-vault-radar-foundations # Sample code from https://go.dev/doc/tutorial/web-service-gin
+https://github.com/hashicorp-education/learn-boundary-prometheus-metrics # Lab environment to accompany the Boundary prometheus met
+rics tutorial. https://github.com/hashicorp-education/learn-sentinel-get-started #
+https://github.com/hashicorp-education/terramino-go #
+https://github.com/hashicorp-education/learn-consul-health-checks-vms # Learn how to configure health checks on a VM based Consul s
+cenario. https://github.com/hashicorp-education/learn-vault-foundations # Used by the "How to use the Vault Terraform Provider" tutorial.
+https://github.com/hashicorp-education/learn-vault-secure-logs-confluent #
+https://github.com/hashicorp-education/learn-vault-autounseal-azure #
+https://github.com/hashicorp-education/learn-vault-agent-caching # Terraform files to demonstrate Vault Agent Caching feature
+https://github.com/hashicorp-education/learn-consul-canary-deployments # A companion repository for the 'Deploy seamless canary dep
+loyments with service splitters' tutorial https://github.com/hashicorp-education/learn-consul-intentions-vms # Learn how to use Intentions on a VM based Consul scenario.
+https://github.com/hashicorp-education/learn-consul-acls-vms # Learn how to use ACLs on a VM based Consul scenario.
+
+https://github.com/hashicorp-interviews/education-assignments #

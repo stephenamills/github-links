@@ -1,6 +1,33 @@
 https://github.com/digitalocean/doctl # The official command line interface for the DigitalOcean API.
 https://github.com/digitalocean/openapi # The OpenAPI v3 specification for DigitalOcean's public API.
 
+https://github.com/do-solutions/digitalocean-appplatform-cron # This tutorial shows you how to run scheduled jobs on App Platform using a Cron Worker.
+https://github.com/do-solutions/droplet-autoscale-tutorial # Droplet cluster autoscaling allows a developer to create a cluster of Droplets that automatically scales based on load.
+https://github.com/do-solutions/doks-s3 # How to use a Spaces Object Storage bucket as RWX storage for a Kubernetes Pod with DOKS (DigitalOcean Kubernetes)
+https://github.com/do-solutions/iot-docker # One-click Droplet for Mosquitto, InfluxDB, Telegraf & Grafana
+https://github.com/do-solutions/doks-rook-ceph # In this guide we will deploy a DigitalOcean Managed Kubernetes cluster, create two Node Pools, one for our standard applications and one dedicated to our Rook / Ceph storage nodes. We'll then deploy a Rook / Ceph cluster and give some working examples of consuming RWO Block and RWX Filesystem storage.
+https://github.com/do-solutions/digitalocean-kubernetes-netmaker # DigitalOcean | Kubernetes (DOKS) and Netmaker
+https://github.com/do-solutions/do-kubernetes # Kubernetes solution examples on DigitalOcean
+https://github.com/do-solutions/paperspace-openai # Deploy Open Source Models on Paperspace Gradient with OpenAI API Compatibility
+https://github.com/do-solutions/os-k8s # Collect and Forward DigitalOcean Kubernetes (DOKS) Logs to DigitalOcean Managed OpenSearch.
+https://github.com/do-solutions/snapshot-alerts # This Python script checks the creation date of snapshots listed in a JSON file (s
+napshots.json). If any snapshot is older than 30 days, it sends a POST request to a specified webhook URL, alerting you with the snapshot's resource ID.
+https://github.com/do-solutions/digitalocean-site-to-site-vpn # Site-to-Site VPN with DigitalOcean Guide
+https://github.com/do-solutions/digitalocean-diagrams # DigitalOcean Reference Architecture Diagrams
+https://github.com/do-solutions/docker-cron #
+https://github.com/do-solutions/droplet-firewalls # GitHub Action workflow to enumerate all Droplets in a DigitalOcean account and
+check if they have firewalls attached. If any Droplet does not have a firewall attached, it logs a message indicating the issue.
+https://github.com/do-solutions/ansible-haproxy-tls-termination # Ansible role to configure install and configure haproxy with a TL
+S certificate.
+https://github.com/do-solutions/droplet-autoscale #
+https://github.com/do-solutions/ansible-nginx-backend # Configure nginx backends on a DigitalOcean Droplets
+https://github.com/do-solutions/tf-do-firewall # Terraform module to create a DigitalOcean Cloud Firewall
+https://github.com/do-solutions/ansible-haproxy #
+https://github.com/do-solutions/web_checkr # checks domain status, title and description from list
+https://github.com/do-solutions/galera-tf-mod # Terraform module to deploy a Galera Cluster on DigitalOcean
+https://github.com/do-solutions/tf_haproxy_loadbalancer #
+https://github.com/do-solutions/do-terraform # Terraform solution examples on DigitalOcean
+
 https://github.com/digitalocean/nginxconfig.io # ⚙️ NGINX config generator on steroids 💉
 https://github.com/digitalocean/godo # DigitalOcean Go API client
 https://github.com/digitalocean/go-libvirt # Package libvirt provides a pure Go interface for interacting with Libvirt. Apache 2.0 Licensed.

@@ -8,3 +8,153 @@ https://github.com/aws-samples/aws-iam-ra-for-kubernetes #
 https://github.com/aws-samples/aws-saas-factory-data-isolation-using-hashicorp-vault-in-amazon-eks #
 https://github.com/aws-samples/msk-third-party-mtls #
 https://github.com/aws-samples/aws-mainframe-modernization-hashicorp-vault-integration #
+
+https://github.com/hashicorp-validated-designs/terraform-vault-policies # Terrform module to manage Vault policies
+
+https://github.com/hashicorp-education/learn-vault-secrets-operator #
+https://github.com/hashicorp-education/learn-vault-raft # Terraform configuration and scripts used by Vault tutorials covering Raft
+storage https://github.com/hashicorp-education/learn-vault-spring-cloud #
+https://github.com/hashicorp-education/hcp-vault-radar-foundations # Sample code from https://go.dev/doc/tutorial/web-service-gin
+https://github.com/hashicorp-education/learn-vault-github-actions # Content to support Vault ecosystem tutorials
+https://github.com/hashicorp-education/learn-vault-lambda-extension # Repo for the code used in the Vault Lambda Extension Lab.
+https://github.com/hashicorp-education/learn-vault-agent-envconsul # Tutorial files used by the "n_version: 1.14.0 Vault Agent - se
+crets as environment variables" tutorial https://github.com/hashicorp-education/learn-vault-secrets-dotnet-vault # Supporting content for the Using HashiCorp Vault C# Clien
+t with .NET Core tutorial https://github.com/hashicorp-education/learn-vault-hcp-codify-mgmt # learn-vault-hcp-codify-mgmt
+https://github.com/hashicorp-education/learn-vault-docker-lab # A minimal Vault cluster Terraformed onto Docker containers
+https://github.com/hashicorp-education/learn-vault-kubernetes-sidecar # Used by "Injecting Secrets into Kubernetes Pods via Vault A
+gent Containers" tutorial https://github.com/hashicorp-education/learn-terraform-vault-backed-dynamic-credentials #
+https://github.com/hashicorp-education/learn-vault-sentinel # Sentinel files used by the Vault tutorials
+https://github.com/hashicorp-education/learn-vault-kubernetes # Repo for files supporting Vault/Kubernetes learn labs.
+https://github.com/hashicorp-education/learn-vault-kubernetes-consul # Used for "Vault installation to minikube via Helm with Consu
+l" tutorial. https://github.com/hashicorp-education/learn-vault-pki-engine #
+https://github.com/hashicorp-education/learn-boundary-session-rec-aws-vault # Lab environment to accompany the Boundary Enable sess
+ion recording with AWS and Vault tutorial. https://github.com/hashicorp-education/learn-vault-migrate-hcp # Supporting content for the Migrate self hosted Vault to HCP Vault
+Learn tutorial https://github.com/hashicorp-education/learn-vault-monitoring # Content for Vault monitoring related tutorials
+https://github.com/hashicorp-education/learn-vault-foundations # Used by the "How to use the Vault Terraform Provider" tutorial.
+https://github.com/hashicorp-education/learn-vault-plugins # Supporting content for the Vault plugins tutorial
+https://github.com/hashicorp-education/learn-vault-agent-demo # Vault Agent with AWS hands on lab code
+https://github.com/hashicorp-education/learn-vault-openldap-ssh # Content for Vault OpenLDAP secrets engine with SSH lab
+https://github.com/hashicorp-education/learn-terraform-hcp-vault #
+https://github.com/hashicorp-education/learn-vault-sentinel-examples # Example Sentinel policies used by the Vault tutorial
+https://github.com/hashicorp-education/learn-vault-plugin-wif # Used for a HashiCorp Vault tutorial on plugin workload identity fed
+eration. https://github.com/hashicorp-education/learn-vault-redhat-openshift #
+https://github.com/hashicorp-education/learn-vault-lease-lab # Supporting content for Troubleshooting irrevocable leases tutorial
+https://github.com/hashicorp-education/learn-boundary-vault-quickstart # Lab environment to accompany Boundary Vault integration qu
+ickstart tutorial. https://github.com/hashicorp-education/learn-vault-audit-elasticsearch # Learn Vault: Audit Device Logs and Incident Response with
+Elasticsearch https://github.com/hashicorp-education/learn-vault-external-kubernetes # Used by "Integrate a Kubernetes Cluster with an External V
+ault" tutorial https://github.com/hashicorp-education/learn-vault-agent-templates # Supporting content for the Vault Agent Templates tutorial
+https://github.com/hashicorp-education/learn-vault-hello-world #
+https://github.com/hashicorp-education/learn-vault-transit-rewrap # Supporting configuration and code for rewrap secrets with Trans
+it lab https://github.com/hashicorp-education/learn-vault-autounseal-azure #
+https://github.com/hashicorp-education/learn-vault-agent-caching # Terraform files to demonstrate Vault Agent Caching feature
+https://github.com/hashicorp-education/learn-vault-intro-lambda-extension # Github repo for the Introduction to Vault Lambda Extens
+ion. https://github.com/hashicorp-education/learn-vault-plugin-secrets-hashicups # Supporting content for the Define Roles for the Secre
+ts Engine tutorial https://github.com/hashicorp-education/learn-vault-sentinel-http-import # Content to support Sentinel HTTP import tutorials
+https://github.com/hashicorp-education/learn-vault-enterprise-secrets-sync #
+https://github.com/hashicorp-education/learn-vault-policy-path-templates # Used by "Recommended pattern for Vault ACL policy path t
+emplates" tutorial https://github.com/hashicorp-education/learn-vault-secure-logs-confluent #
+https://github.com/hashicorp-education/learn-vault-azure-rotate-root-creds #
+
+https://github.com/hashicorp/vault # A tool for secrets management, encryption as a service, and privileged access management
+https://github.com/hashicorp/terraform-provider-vault # Terraform Vault provider
+https://github.com/hashicorp/vault-helm # Helm chart to install Vault and other associated components.
+https://github.com/hashicorp/vault-guides # Example usage of HashiCorp Vault secrets management
+https://github.com/hashicorp/consul-template # Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
+https://github.com/hashicorp/vault-action # A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables.
+https://github.com/hashicorp/vault-ruby # The official Ruby client for HashiCorp's Vault
+https://github.com/hashicorp/vault-k8s # First-class support for Vault and Kubernetes.
+https://github.com/hashicorp/envconsul # Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault
+. https://github.com/hashicorp/consul # Consul is a distributed, highly available, and data center aware solution to connect and conf
+igure applications across dynamic, distributed infrastructure. https://github.com/hashicorp/vault-secrets-operator # The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets nativel
+y from Kubernetes Secrets. https://github.com/hashicorp/vault-rails # A Rails plugin for easily integrating Vault secrets
+https://github.com/hashicorp/vault-ssh-helper # Vault SSH Agent is used to enable one time keys and passwords
+https://github.com/hashicorp/vault-csi-provider # HashiCorp Vault Provider for Secret Store CSI Driver
+https://github.com/hashicorp/vault-plugin-auth-kubernetes # Vault authentication plugin for Kubernetes Service Accounts
+https://github.com/hashicorp/vault-examples # A collection of example code snippets demonstrating the various ways to use the Hashi
+Corp Vault client libraries. https://github.com/hashicorp/learn-terraform-pipelines-vault #
+https://github.com/hashicorp/terraform-azurerm-vault # A Terraform Module for how to run Vault on AzureRM using Terraform and Packe
+r https://github.com/hashicorp/vault-plugin-auth-jwt # A Vault plugin to allow authentication via JWT (and OIDC) tokens
+https://github.com/hashicorp/vault-service-broker # The official HashiCorp Vault broker integration to the Open Service Broker API.
+This service broker provides support for secure secret storage and encryption-as-a-service to HashiCorp Vault. https://github.com/hashicorp/field-workshops-vault # Slide decks and Instruqt code for Vault Workshops
+https://github.com/hashicorp/vault-lambda-extension #
+https://github.com/hashicorp/hello-vault-go # Runnable examples in Go of how to integrate an application with HashiCorp Vault.
+https://github.com/hashicorp/go-kms-wrapping # KMS wrapping libraries split out from Vault
+https://github.com/hashicorp/vault-plugin-auth-gcp # GCP Authentication Plugin for Vault
+https://github.com/hashicorp/vault-plugin-secrets-azure # Vault Azure Secrets plugin
+https://github.com/hashicorp/vault-auth-plugin-example # An example @HashiCorp Vault auth plugin
+https://github.com/hashicorp/vault-provision-example # A sample layout and configuration for provisioning Vault policies and config
+uration. https://github.com/hashicorp/vault-plugin-secrets-kv #
+https://github.com/hashicorp/vault-client-go # HashiCorp Vault Go Client Library generated from OpenAPI spec.
+https://github.com/hashicorp/vault-benchmark # A tool for benchmarking usage of Vault.
+https://github.com/hashicorp/vault-plugin-secrets-gcp #
+https://github.com/hashicorp/learn-terraform-inject-secrets-aws-vault #
+https://github.com/hashicorp/vault-demo-server # The server for the Vault demo that servers vaultproject.io
+https://github.com/hashicorp/nomad # Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix
+of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. https://github.com/hashicorp/vault-selinux-policies # SELinux Policies for Vault
+https://github.com/hashicorp/vault-plugin-auth-azure # Azure Authentication Plugin for Vault
+https://github.com/hashicorp/vault-plugin-auth-oci # OCI auth plugin for Vault
+https://github.com/hashicorp/vault-plugin-database-redis # A Vault plugin for the REDIS database
+https://github.com/hashicorp/vault-plugin-auth-kerberos # A plugin for HashiCorp Vault enabling Kerberos authentication.
+https://github.com/hashicorp/learn-vault-raft # Tutorial assets for Integrated Storage demo
+https://github.com/hashicorp/vault-plugin-database-oracle #
+https://github.com/hashicorp/vault-plugin-secrets-ad # Active Directory (AD) Secrets Plugin for Vault
+https://github.com/hashicorp/terraform-aws-hashicorp-vault-eks-addon # HashiCorp Vault Add-on for AWS EKS
+https://github.com/hashicorp/se-terraform-vault-workshop # Training slides, Terraform code, and instructions for trainers
+https://github.com/hashicorp/hello-vault-spring # Runnable examples of how to integrate a Java Spring Boot application with HashiCo
+rp Vault. https://github.com/hashicorp/consul-k8s # First-class support for Consul Service Mesh on Kubernetes
+https://github.com/hashicorp/learn-boundary-vault-quickstart # Lab environment to accompany Boundary Vault Integration Quickstart L
+earn tutorial. https://github.com/hashicorp/learn-vault-codify # Vault tutorial assets used to codify the Vault configuration with Terraform
+https://github.com/hashicorp/demo-vault-101 # Vault 101 lab files
+https://github.com/hashicorp/vault-plugin-secrets-openldap # OpenLDAP secret engine for Vault
+https://github.com/hashicorp/vault-plugin-database-elasticsearch # Provides short-lived credentials for Elasticsearch that are uniq
+ue to each user or application. https://github.com/hashicorp/vault-plugin-secrets-gcpkms # Manage, encrypt, decrypt, sign, and verify data with @GoogleCloudPlatfor
+m KMS and @HashiCorp Vault https://github.com/hashicorp/vault-plugin-database-snowflake #
+https://github.com/hashicorp/vault-plugin-database-mongodbatlas #
+https://github.com/hashicorp/hcat # Hashicorp Configuration and Templating library (hcat, pronounced hashicat)
+https://github.com/hashicorp/webinar-vault-hiera-puppet # The repo to accompany the webinar for using a Hiera backend for Vault for
+secrets with Puppet https://github.com/hashicorp/vault-plugin-auth-alicloud # Alibaba Auth Plugin for Vault
+https://github.com/hashicorp/learn-vault-agent # Learn tutorial assets related to Vault Agent
+https://github.com/hashicorp/demo-vault-102 # Vault 102 lab files
+https://github.com/hashicorp/field-demo-vault-secrets-mgmt #
+https://github.com/hashicorp/demo-vault-202 # Vault 202 lab files
+https://github.com/hashicorp/learn-vault-kubernetes # Terraform examples to provision a Kubernetes clusters for Vault tutorials use
+https://github.com/hashicorp/vault-plugin-secrets-terraform # Terraform Cloud Secrets Backend for Vault
+https://github.com/hashicorp/vault-client-dotnet # HashiCorp Vault client library in C#
+https://github.com/hashicorp/vault-plugin-database-couchbase #
+https://github.com/hashicorp/vault-plugin-secrets-kubernetes # Vault secrets plugin for Kubernetes Service Accounts
+https://github.com/hashicorp/vault-plugin-auth-cf # A Vault plugin for authenticating using Cloud Foundry's identity certificates.
+https://github.com/hashicorp/demo-vault-beginner # Before and after course files for the introductory Vault class from HashiCorp.
+https://github.com/hashicorp/hcdiag # hcdiag is a CLI utility that collects and bundles product and platform diagnostics. It suppor
+ts Consul, Nomad, TFE, and Vault. https://github.com/hashicorp/vault-plugin-secrets-alicloud # Dynamic secrets for Alibaba Cloud.
+https://github.com/hashicorp/vault-plugin-secrets-mongodbatlas #
+https://github.com/hashicorp/vault-plugin-auth-centrify #
+https://github.com/hashicorp/hello-vault-dotnet # Runnable C# examples of how to integrate an application with HashiCorp Vault.
+https://github.com/hashicorp/vault-chip-assets #
+https://github.com/hashicorp/vault-workflows-common # Reusable workflows for use by Vault OSS repos
+https://github.com/hashicorp/se-demo-vault-enterprise-transit-tde_assets # Vault Enterprise Transparent Data Encryption with the MS
+SQL TDE Extensible Key Management (EKM) Module https://github.com/hashicorp/vault-testing-stepwise # Stepwise package used in some Vault tests
+https://github.com/hashicorp/vault-plugin-mock #
+https://github.com/hashicorp/vault-servicenow-credential-resolver #
+https://github.com/hashicorp/learn-hcp-vault-ops # HCP Vault tutorial files to walk through step-by-step tutorials
+https://github.com/hashicorp/consul-k8s-wan-fed-vault-backend # This repo show how to configure Vault as the backend for two Consul
+-K8s deployed in a WAN Federation topology. https://github.com/hashicorp/learn-vault-eaas-transit-rewrap # Repository for sample code for the Vault Transit Secrets Re-wrapping
+tutorial https://github.com/hashicorp/vault-devex-usability-study # A collection of scenarios complete with preconfigured Vault instances an
+d starter code https://github.com/hashicorp/vault-hcp-lib # HCP Vault Library
+https://github.com/hashicorp/learn-boundary-azure-sql-database # Lab environment to accompany the Boundary with Azure SQL Database
+Learn tutorial. https://github.com/hashicorp/learn-hcp-vault-replication-terraform # Vault tutorial assets used to for the Deploy HCP Vault Perform
+ance Replication with Terraform tutorial. https://github.com/hashicorp/da-instruqt-vault-k8s # Vault on K8s track for Instruqt
+https://github.com/hashicorp/micron-vault-workshop #
+https://github.com/hashicorp/vault-msgraph-sdk # Autogenerated Go SDK for Azure
+https://github.com/hashicorp/learn-vault-support-files # Contains assets used in Vault Learn tutorials
+https://github.com/hashicorp/learn-vault-mount-move # Use for the Mount Move tutorial
+https://github.com/hashicorp/vault-pki-cieps-example # Example Certificate Issuance External Policy Service (CIEPS) implementation
+https://github.com/hashicorp/learn-manage-codified-hcp-vault-terraform # HCP Vault tutorial assets used to for the HCP Vault Operat
+ions With Terraform virtual lab from HashiConf EU 2022. https://github.com/hashicorp/hcp-vault-eks-jwt-auth # Configuration for HCP Vault with EKS and JWT Auth Method tutorial
+https://github.com/hashicorp/terraform-google-vault-enterprise-hvd # A Terraform module for provisioning and installing Vault Enter
+prise on Google Compute Engine as described in HashiCorp Validated Designs https://github.com/hashicorp/vault-plugin-database-redis-elasticache # Vault plugin repository to manage AWS Elasticache Redis user
+s and credentials https://github.com/hashicorp/se-demo-vault-intern_assets # Building block demo for Vault by the Innovation Lab Interns. These are t
+he demo assets. https://github.com/hashicorp/terraform-azurerm-vault-enterprise-hvd # A Terraform module for provisioning and installing Vault Ente
+rprise on Azure virtual machines as described in HashiCorp Validated Designs https://github.com/hashicorp/terraform-aws-vault-enterprise-hvd # A Terraform module for provisioning and installing Vault Enterpri
+se on AWS EC2 as described in HashiCorp Validated Designs https://github.com/hashicorp/field-demos-vault-expand-team-transformers-assets # Assets for hashicorp/field-demos-vault-expand-team
+-transformers https://github.com/hashicorp/golang-math-big # Temporary fork of Go 1.10's math/big and cpu/internal packages until Vault can stand
+ardize on Go 1.10.

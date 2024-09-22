@@ -1,0 +1,38 @@
+https://github.com/vultr/vultr-cli # Official command line tool for Vultr services
+
+https://github.com/vultr/govultr # Vultr Go API client
+https://github.com/vultr/terraform-provider-vultr # Terraform Vultr provider
+https://github.com/vultr/whmcs-vultr # Vultr Module for WHMCS
+https://github.com/vultr/vultr-node # Vultr Node API client
+https://github.com/vultr/vultr-cloud-controller-manager # Kubernetes Cloud Controller Manager for Vultr
+https://github.com/vultr/packer-plugin-vultr # Packer Builder plugin for Vultr snapshots
+https://github.com/vultr/vultr-csi # Container Storage Interface (CSI) Driver for Vultr Block Storage
+https://github.com/vultr/slik # Slurm in Kubernetes
+https://github.com/vultr/ansible-collection-vultr #
+https://github.com/vultr/docker-machine-driver-vultr # Vultr Driver Plugin for Docker Machine
+https://github.com/vultr/vultr-php # The Official Vultr API PHP Wrapper
+https://github.com/vultr/vultr-mdtk # Vultr Markdown Toolkit
+https://github.com/vultr/cert-manager-webhook-vultr # A Vultr cert-manager repo for creating an ACME DNS01 solver webhook
+https://github.com/vultr/vultr-marketplace #
+https://github.com/vultr/archian # A fully scripted Arch installer. This is replacing the arch-scripted repo.
+https://github.com/vultr/vultr-docs #
+https://github.com/vultr/homebrew-vultr-cli # Homebrew tap for vultr-cli
+https://github.com/vultr/helm-charts # Helm charts for Vultr
+https://github.com/vultr/solution-vpc-peering # VPC Peering solutions for Vultr's infrastructure
+https://github.com/vultr/vultr-python-client # An OpenAPI Python Client for Vultr
+https://github.com/vultr/crossplane-provider-vultr # Crossplane provider for Vultr
+https://github.com/vultr/api-postman-collection # Vultr API v2 Postman Collection
+https://github.com/vultr/rancher-ui-driver-vultr # Vultr options when used as a Rancher Node Template
+https://github.com/vultr/metadata # go client for vultr metadata api
+https://github.com/vultr/vultr-imageless # An imageless app template for making imageless Marketplace app for Vultr
+https://github.com/vultr/archian-iso # This is the ISO builder for Archian
+https://github.com/vultr/cluster-api-provider-vultr #
+https://github.com/vultr/packer-vultr-condor # Pre-provisioned image for use with the Condor Terraform Module.
+https://github.com/vultr/vultr-csharp #
+https://github.com/vultr/vultr-ruby #
+https://github.com/vultr/ib-network-setup # This repo simply holds the scripts used to setup Infiniband networks in Vultr.
+https://github.com/vultr/slinkee #
+https://github.com/vultr/cloud-init-files #
+https://github.com/vultr/vcr-credential-provider #
+https://github.com/vultr/v-agent # Prometheus remote_write agent
+https://github.com/vultr/.github # Community Files
