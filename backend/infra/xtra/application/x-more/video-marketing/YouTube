@@ -1,0 +1,7 @@
+https://github.com/youtube/api-samples # Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API.
+https://github.com/youtube/youtube-ios-player-helper # Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView
+https://github.com/youtube/cobalt # Cobalt is a lightweight HTML5 application container
+https://github.com/youtube/geo-search-tool # A tool to perform YouTube API v3 searches for videos tagged with geo-coordinates.
+https://github.com/youtube/youtubechatbot # This is a sample YouTube chat bot that's designed to run on Google App Engine. It leverages Task Queues to simulate a long-running background process which polls the YouTube LiveChatMessages API for the specified video.
+https://github.com/youtube/youtube-chat-for-minecraft # A plugin for Minecraft Forge that provides an API for YouTube live chat services
+https://github.com/youtube/rcat # A proposal for detecting engagement abuse of embedded third-party web content without depending on cookies.

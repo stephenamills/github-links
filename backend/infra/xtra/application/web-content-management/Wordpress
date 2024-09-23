@@ -1,0 +1,140 @@
+https://github.com/wordpress/wordpress # WordPress, Git-ified. This repository is just a mirror of the WordPress subversion reposit
+ory. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. https://github.com/wordpress/gutenberg # The Block Editor project for WordPress and beyond. Plugin is available from the official r
+epository. https://github.com/wordpress/requests # Requests for PHP is a humble HTTP request library. It simplifies how you interact with othe
+r sites and takes away all your worries. https://github.com/wordpress/wordpress-coding-standards # PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
+https://github.com/wordpress/wordpress-develop # WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, includ
+ing branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. https://github.com/wordpress/wordpress-playground # Run WordPress in the browser via WebAssembly PHP
+https://github.com/wordpress/gutenberg-examples # Examples for extending WordPress/Gutenberg with blocks.
+https://github.com/wordpress/two-factor # Two-Factor Authentication for WordPress.
+https://github.com/wordpress/gutenberg-starter-theme # A simple theme for testing Gutenberg.
+https://github.com/wordpress/theme-experiments # Experimenting with themes made out of blocks.
+https://github.com/wordpress/book # Our book about WordPress. Version 1
+https://github.com/wordpress/performance # Performance plugin from the WordPress Performance Group, which is a collection of standa
+lone performance modules. https://github.com/wordpress/theme-check # Theme Check plugin
+https://github.com/wordpress/create-block-theme # A WordPress plugin to create block themes
+https://github.com/wordpress/learn # WordPress.org Learn - The canonical source for the code and content behind https://learn.WordP
+ress.org https://github.com/wordpress/openverse # Openverse is a search engine for openly-licensed media. This monorepo includes all applica
+tion code. https://github.com/wordpress/plugin-check # A repository for the new Plugin Check plugin from the WordPress Performance and Plugins
+Team. https://github.com/wordpress/phpdoc-parser # Documentation parser powering developer.wordpress.org
+https://github.com/wordpress/sqlite-database-integration # Feature Plugin to add SQLite support to WordPress. Under Development.
+https://github.com/wordpress/block-development-examples # Practical examples for building WordPress blocks and extending the Editor
+. https://github.com/wordpress/wp-movies-demo # Demo of the Interactivity API
+https://github.com/wordpress/meta-environment # A collection of scripts that provision the official WordPress.org websites into a V
+arying Vagrant Vagrants installation. https://github.com/wordpress/wp-feature-notifications # WP Feature Notifications - a proposal to modernise the way in which WordPre
+ss handles emails, admin notices and user notifications https://github.com/wordpress/health-check # Health Check is a WordPress plugin that will perform a number of checks on your WordPre
+ss install to detect common configuration errors and known issues. https://github.com/wordpress/classic-editor # A plugin to restore the Classic Editor in WordPress.
+https://github.com/wordpress/playground-tools #
+https://github.com/wordpress/secure-swfupload # A fork of the long-abandoned SWFUpload project, maintained by WordPress and others
+to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. https://github.com/wordpress/wordcamp.org # WordCamps are casual, locally-organized conferences covering everything related to Word
+Press. https://github.com/wordpress/wporg-plugin-guidelines # WordPress.org Plugin Directory Guidelines
+https://github.com/wordpress/pattern-directory # The WordPress Block Pattern Directory
+https://github.com/wordpress/helphub # The WordPress user documentation portal
+https://github.com/wordpress/wordpress.org # WordPress.org Meta, Git-ified. Synced from git://meta.git.wordpress.org/ This reposito
+ry is just a mirror of the WordPress Meta subversion repository. Please include a link to a pre-existing ticket on https://meta.trac.wordpress.org/ with every pull request. https://github.com/wordpress/twentytwentyfive #
+https://github.com/wordpress/browsehappy #
+https://github.com/wordpress/security-white-paper # The WordPress Security White Paper, available directly on the WordPress.org sit
+e at https://wordpress.org/about/security/ https://github.com/wordpress/advanced-administration-handbook # WordPress Advanced Administration Handbook. This handbook will have
+the most technical, general, documentation about WordPress. https://github.com/wordpress/slides # Slides: Presentations with WordPress
+https://github.com/wordpress/servehappy-resources # Third-party articles and specific tutorials on PHP upgrades.
+https://github.com/wordpress/wordpress-importer # The WordPress Importer
+https://github.com/wordpress/community-themes # A collection of Block Themes built by the WordPress community.
+https://github.com/wordpress/documentation-issue-tracker # Issue Tracker for the WordPress Documentation team.
+https://github.com/wordpress/wpcs-docs # WordPress Coding Standards Docs
+https://github.com/wordpress/hosting-handbook # WordPress Hosting Team Handbook
+https://github.com/wordpress/wp-reasons # A public domain marketing flyer/brochure about the reasons to use WordPress, brought to y
+ou by some members of the WordPress community. https://github.com/wordpress/revisions-extended #
+https://github.com/wordpress/data-liberation #
+https://github.com/wordpress/wp-plugin-dependencies # WordPress Feature Project: Plugin Dependencies
+https://github.com/wordpress/phpunit-test-runner #
+https://github.com/wordpress/wporg-main-2022 # A block-based child theme for WordPress.org, plus local environment
+https://github.com/wordpress/wporg-code-analysis # An experiment.
+https://github.com/wordpress/wpdev-docker-images # Docker images for use with the Core local development environment.
+https://github.com/wordpress/wporg-developer # WordPress.org Developer theme
+https://github.com/wordpress/wporg-mu-plugins # Development of the Global Header and other mu-plugins used on WordPress.org.
+https://github.com/wordpress/blueprints # Blueprints gallery and examples
+https://github.com/wordpress/servehappy # Information page about PHP versions and updates, to be used through the WordPress.org pro
+ject. https://github.com/wordpress/plugin-check-action # Test your WordPress plugin with Plugin Check
+https://github.com/wordpress/grunt-patch-wordpress # Patch Trac based projects
+https://github.com/wordpress/wordpress-documentation-style-guide # Style Guide for WordPress documentation.
+https://github.com/wordpress/press-this # Press This is a little tool that lets you grab bits of the web and create new posts with
+ease. It will even allow you to choose from images or videos included on the page and use them in your post. Use Press This as a quick and lightweight way to highlight another page on the web. https://github.com/wordpress/block-theme-examples # A repository of feature examples for block themes.
+https://github.com/wordpress/design-experiments # A simple plugin for WP-Admin design experiments. Brought to you by the WordPress
+Design Team. https://github.com/wordpress/five-for-the-future # Plugins and themes for the Five for the Future subsite
+https://github.com/wordpress/wp20-book # Our book about WordPress. Version 2
+https://github.com/wordpress/css-audit #
+https://github.com/wordpress/developer-blog-content # In this GitHub space, WordPress team coordinate content to be published on th
+e Developer Blog. Discussion and montly meetings (first Thu) in WP Slack #core-dev-blog https://github.com/wordpress/wporg-two-factor # 2FA for WordPress.org accounts
+https://github.com/wordpress/rollback-update-failure # Feature plugin to test zip rollback of plugin/theme update failures.
+https://github.com/wordpress/marketing-team # The central repository for the WordPress Marketing Team
+https://github.com/wordpress/meeting-calendar # The plugin powering https://make.wordpress.org/meetings/
+https://github.com/wordpress/blueprints-library #
+https://github.com/wordpress/theme-review-action #
+https://github.com/wordpress/wporg-news-2021 # The WordPress.org News Theme
+https://github.com/wordpress/phpunit-test-reporter #
+https://github.com/wordpress/contributor-day-handbook #
+https://github.com/wordpress/developer-plugins-handbook # Welcome to the WordPress Plugin Developer Handbook; are you ready to jump
+right in to the world of WordPress plugins? https://github.com/wordpress/wporg-showcase-2022 # The official theme of the WordPress.org showcase.
+https://github.com/wordpress/classic-widgets # A plugin to restore the Classic Widgets in WordPress.
+https://github.com/wordpress/wporg-parent-2021 #
+https://github.com/wordpress/spain-handbook # Manuales de la Comunidad de WordPress España (Handbook)
+https://github.com/wordpress/google-fonts-to-wordpress-collection # Gets the Google fonts collection and transform it to a WordPres
+s font library collection, including SVG previews https://github.com/wordpress/sustainability # WordPress Sustainability Team
+https://github.com/wordpress/wp-jquery-update-test # WordPress plugin to test updates for jQuery and jQuery UI
+https://github.com/wordpress/community # WordPress Community Team Projects and Plans | https://make.wordpress.org/community/
+https://github.com/wordpress/wporg-theme-directory #
+https://github.com/wordpress/rss-importer # The WordPress RSS Importer.
+https://github.com/wordpress/wporg-documentation-2022 #
+https://github.com/wordpress/theme-directory-env # A local environment for running the WordPress.org theme directory.
+https://github.com/wordpress/wporg-support-guidelines # WordPress.org Support Guidelines
+https://github.com/wordpress/gutenberg-tutorial # Code samples for Developer’s Guide to the Block Editor course
+https://github.com/wordpress/wporg-gp-translation-events # Translation Events on WordPress.org
+https://github.com/wordpress/wporg-contributor-orientation # A block to help contributors learn where they'll fit best.
+https://github.com/wordpress/props-bot-action # A GitHub Action for compiling a list of contributor props.
+https://github.com/wordpress/debug-bar # Development of the WordPress Debug Bar plugin.
+https://github.com/wordpress/translate-w-org-env # Local development environment for translate.wordpress.org
+https://github.com/wordpress/community-team # WordPress.org Community Team | Projects, Tasks, Goals, and tracking.
+https://github.com/wordpress/doaction.org # do_action is a charity hackathon that uses WordPress to uplift local communities.
+https://github.com/wordpress/jquery-migrate-helper # Get information about calls to deprecated jQuery features in plugins or themes
+. https://github.com/wordpress/contributor-handbook # Draft for the WordPress.org Contributor Handbook
+https://github.com/wordpress/wporg-developer-blog #
+https://github.com/wordpress/wporg-gutenberg # The theme for https://wordpress.org/gutenberg/
+https://github.com/wordpress/deib-issue-tracker # WordPress DEIB Team Issue Tracker
+https://github.com/wordpress/documentation-end-user # WordPress End-User Documentation
+https://github.com/wordpress/matrix # WordPress Matrix project
+https://github.com/wordpress/plugins-handbook # WordPress Plugins Team Handbook
+https://github.com/wordpress/test-handbook # Make WordPress Test Handbook
+https://github.com/wordpress/link-manager #
+https://github.com/wordpress/wp-contributor-working-group-tracker #
+https://github.com/wordpress/wp20.wordpress.net # Celebrating 20 years of WordPress
+https://github.com/wordpress/wpcat2tag-importer # The WordPress Categories to Tags Converter.
+https://github.com/wordpress/dynamic-properties-utils #
+https://github.com/wordpress/marcomms-internal-comms # This is an old repo. It has been migrated to the Marketing-Team repo under '
+WordPress'. Please use discussion areas in that repo. https://github.com/wordpress/wporg-repo-tools #
+https://github.com/wordpress/wporg-internal-notes #
+https://github.com/wordpress/tumblr-importer # The WordPress Tumblr Importer.
+https://github.com/wordpress/marcomms-rolling-tasks # This is the old repo. 2022: use Marketing-Team repo. This repo will be archiv
+ed once all final checks completed. https://github.com/wordpress/wporg-wasm #
+https://github.com/wordpress/matrix-bots # Matrix bots for https://community.wordpress.org
+https://github.com/wordpress/blogger-importer # The WordPress Blogger Importer.
+https://github.com/wordpress/marcomms-meetups # This repo is being merged with the new central repo Marketing-Team. Please add item
+s there. https://github.com/wordpress/marcomms-wp-releases # Collaborations and creation of WordPress release assets related to Marketing an
+d Communication https://github.com/wordpress/block-directory-e2e # End-to-end tests that are run on WordPress.org Block Plugins after each release.
+https://github.com/wordpress/theme-review-e2e #
+https://github.com/wordpress/opml-importer # The WordPress OPML Importer.
+https://github.com/wordpress/gutenberg-license # Stores the grants of consent and tooling for Gutenberg's dual license
+https://github.com/wordpress/hello-dolly # This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation
+summed up in two words sung most famously by Louis Armstrong. https://github.com/wordpress/movabletype-importer # The WordPress Moveable Type & TypePad Importer.
+https://github.com/wordpress/stp-importer # The WordPress Simple Tags Importer.
+https://github.com/wordpress/textpattern-importer # The WordPress TextPattern Importer.
+https://github.com/wordpress/default-theme-issue-tracker #
+https://github.com/wordpress/openverse-sensitive-terms #
+https://github.com/wordpress/edit-image-thumbnails-separately # Plugin to re-enable editing of the thumbnail size of images separat
+ely https://github.com/wordpress/github-test-branch-protection-rules # [REPO TO BE DELETED] Quick test of branch protection rules to pr
+event accidental merges for PRs opened to wordpress-develop https://github.com/wordpress/marcomms-onboarding # This is meant as a place to produce the documentation needed to onboard new and
+returning contributors, this is NOT the place to be if you are brand new that is: https://github.com/wpmarketingteam/Marcomms-START_HERE https://github.com/wordpress/wporg-book #
+https://github.com/wordpress/site-health-tools # A plugin to introduce additional tools to the Site Health parts of WordPress
+https://github.com/wordpress/.github #
+https://github.com/wordpress/media-corps-group-issue-tracker #
+https://github.com/wordpress/site-health-troubleshooting # Provides a Troubleshooting Mode plugin to help with support and debuggin
+g. https://github.com/wordpress/try-wordpress #
+https://github.com/wordpress/wporg-make # The repo for the Make.WordPress.org theme. wporg-make-2024

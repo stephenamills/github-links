@@ -1,0 +1,287 @@
+https://github.com/discourse/discourse # A platform for community discussion. Free, open, simple.
+
+https://github.com/discourse/wp-discourse # WordPress plugin that lets you use Discourse as the community engine for a WordPress bl
+https://github.com/discourse/discourse_api # Ruby API for Discourse
+https://github.com/discourse/rails_multisite # Multi tenancy for Rails applications
+https://github.com/discourse/discoursemobile # Discourse Mobile
+https://github.com/discourse/discourse-solved # Allow accepted answers on topics
+https://github.com/discourse/discourse-adplugin # Official Discourse Advertising Plugin. Install & Start Serving Ads on Your Disco
+urse Forum
+https://github.com/discourse/discourse-topic-voting # Adds the ability for voting on a topic within a specified category in Discourse.
+https://github.com/discourse/discourse-oauth2-basic # A basic OAuth2 plugin for use with Discourse
+https://github.com/discourse/discourse-chat-integration #
+https://github.com/discourse/all-the-plugins #
+https://github.com/discourse/discourse-air # A modern theme with a dark mode option.
+https://github.com/discourse/discourse-ai #
+https://github.com/discourse/discourse-calendar # Adds the ability to create a dynamic calendar in the first post of a topic.
+https://github.com/discourse/discourse-whos-online # A plugin for Discourse which uses the messagebus to display a live list of active users
+https://github.com/discourse/discourse-openid-connect # Allows an OpenID Connect provider to be used as an authentication provider
+for Discourse
+https://github.com/discourse/discourse-assign # Plugin for assigning users to a topic
+https://github.com/discourse/discourse-user-notes # Plugin for Staff users to create notes on users
+https://github.com/discourse/material-design-stock-theme #
+https://github.com/discourse/discourse-patreon # Enable syncronization between Discourse Groups and Patreon rewards
+https://github.com/discourse/discourse-encrypt # A plugin that provides a secure communication channel through Discourse.
+https://github.com/discourse/discourse-algolia # A plugin for indexing and searching your Discourse with Algolia
+https://github.com/discourse/discourse-subscriptions # A Discourse plugin that allows payments and subscription management via Stri
+pe.
+https://github.com/discourse/letter-avatars # Teeny tiny web service to generate letter-based avatars
+https://github.com/discourse/discourse-saml # Support for SAML in Discourse
+https://github.com/discourse/discourse_theme # CLI helper for developing Discourse themes
+https://github.com/discourse/discourse_api_docs # Discourse API Documentation
+https://github.com/discourse/discourse-github #
+https://github.com/discourse/discourse-gamification #
+https://github.com/discourse/discourse-reactions #
+https://github.com/discourse/discourse-auth-proxy # An http proxy that uses the DiscourseConnect protocol to authenticate users
+https://github.com/discourse/discourse-brand-header # Brand header theme component for Discourse
+https://github.com/discourse/install-rails # Install Rails
+https://github.com/discourse/discourse-post-voting # Allows users to vote on posts within a topic
+https://github.com/discourse/discourse-follow # A Discourse plugin that lets you follow other users.
+https://github.com/discourse/ember-route-template #
+https://github.com/discourse/all-the-themes #
+https://github.com/discourse/discourse-docs #
+https://github.com/discourse/discourse-affiliate #
+https://github.com/discourse/discourse-simple-theme # Sam's simple discourse theme
+https://github.com/discourse/discourse-custom-header-links #
+https://github.com/discourse/discourse-kanban-theme # A Discourse theme component providing basic kanban-board functionality
+https://github.com/discourse/discourse-zoom # Integrate Zoom events in Discourse.
+https://github.com/discourse/discourse-rss-polling #
+https://github.com/discourse/discotoc # A Discourse theme component that generates a table of contents for topics with one click
+https://github.com/discourse/discourse-category-banners #
+https://github.com/discourse/discourse-plugin-skeleton # Template for Discourse plugins
+https://github.com/discourse/discourse-jwt # Discourse Auth support for JSON Web Tokens (JWT)
+https://github.com/discourse/discourse-zendesk-plugin # Official Zendesk Integration for Discourse
+https://github.com/discourse/discourse-signatures # A Discourse Plugin to show user signatures below posts
+https://github.com/discourse/discourse-microsoft-auth #
+https://github.com/discourse/discourse-bbcode-color # A Discourse Plugin to support BBCode color tags.
+https://github.com/discourse/image-optimizer #
+https://github.com/discourse/discourse-code-review # This allows commits and pull requests to be imported to Discourse as topics an
+d reviewed https://github.com/discourse/discourse-prometheus # Official Discourse Plugin for Prometheus Monitoring
+https://github.com/discourse/discourse-perspective-api # Google Perspective API Plugin for Discourse
+https://github.com/discourse/discourse-user-card-badges # This plugin allows users to choose one badge with an image to show on the
+ir user card. https://github.com/discourse/discourse-easy-footer #
+https://github.com/discourse/discourse-shared-edits # Shared edits for Discourse
+https://github.com/discourse/discourse-anonymous-moderators #
+https://github.com/discourse/discourse-search-banner #
+https://github.com/discourse/discourse-tooltips # Show tooltips around Discourse on hover, including topic previews
+https://github.com/discourse/discourse-tiles-image-gallery #
+https://github.com/discourse/discourse-topic-thumbnails # Display thumbnails in topic lists
+https://github.com/discourse/discourse-bbcode # vBulletin BBCode plugin
+https://github.com/discourse/discourse-antivirus # Scan your Discourse uploads.
+https://github.com/discourse/discourse-yearly-review # Publishes an automated Year in Review topic
+https://github.com/discourse/graceful #
+https://github.com/discourse/discourse-linkify-words # theme to auto linkify urls in discourse
+https://github.com/discourse/discourse-versatile-banner #
+https://github.com/discourse/discourse-radiant-theme #
+https://github.com/discourse/discourse-saved-searches # Allow users to save searches and be notified of new results.
+https://github.com/discourse/discourse-teambuild # Team building activity for Discourse
+https://github.com/discourse/discourse-unlock #
+https://github.com/discourse/mail-receiver #
+https://github.com/discourse/discourse-fingerprint # A plugin that computes user fingerprints to help administrators combat interne
+t trolls. https://github.com/discourse/discourse-homepage-feature-component #
+https://github.com/discourse/discourse-no-bump # A plugin to prevent users from bumping their own topics
+https://github.com/discourse/discourse-vincent-theme # v0.77
+https://github.com/discourse/discourse-apple-auth # Login to Discourse with your Apple ID
+https://github.com/discourse/discourse-icon-header-links #
+https://github.com/discourse/discourse-right-sidebar-blocks #
+https://github.com/discourse/discourse-graphviz # Adds the Viz.js library to discourse
+https://github.com/discourse/discourse-akismet # give spam a whoopin
+https://github.com/discourse/discourse-color-scheme-toggle # Color Scheme Toggler to switch between Dark / Light schemes set by the
+user's preferences https://github.com/discourse/fakebook #
+https://github.com/discourse/zeronoise # A theme for the Discourse app
+https://github.com/discourse/discourse-categories-suppressed #
+https://github.com/discourse/discourse-prometheus-alert-receiver #
+https://github.com/discourse/discourse-jitsi #
+https://github.com/discourse/discourse-policy #
+https://github.com/discourse/discourse-characters-required # Display how many characters are required before a post be made
+https://github.com/discourse/discourse-nav-links-component #
+https://github.com/discourse/mini_suffix # FFI wrapper for libpsl
+https://github.com/discourse/discourse-slick-image-gallery #
+https://github.com/discourse/discourse-header-submenus #
+https://github.com/discourse/discourse-hamburger-theme-selector #
+https://github.com/discourse/discourse-watch-category-mcneel # Watches a category for all the users in a particular group
+https://github.com/discourse/discourse-full-width-component # Make Discourse occupy the full browser width
+https://github.com/discourse/discourse-mint-theme # A modern theme with a hint of mint
+https://github.com/discourse/discourse-custom-category-boxes-component #
+https://github.com/discourse/discourse-google-one-tap # A discourse plugin for one tap login and sign up
+https://github.com/discourse/discourse-social-share #
+https://github.com/discourse/discourse-central-theme # CENTRAL
+https://github.com/discourse/minima #
+https://github.com/discourse/discourse-auto-deactivate # This plugin will automatically deactivate stale users so that they need to
+recomfirm their email in order to login in again https://github.com/discourse/discourse-templates # A plugin that allows users to use templates to insert frequently used content
+https://github.com/discourse/discourse-surveys #
+https://github.com/discourse/service_skeleton # The bare bones of a service
+https://github.com/discourse/discourse-matomo-analytics # Add Matomo Analytics to your Discourse forum
+https://github.com/discourse/discourse-category-icons # A theme component to display icons next to category links in Discourse.
+https://github.com/discourse/discourse-restricted-replies # Plugin to restrict replies in a category to the OP, and members of a sp
+ecified group https://github.com/discourse/discourse-meteor # A plugin that provides authentication with Meteor
+https://github.com/discourse/discourse-minimal-category-boxes #
+https://github.com/discourse/discourse-fully # A simple & fun to use Discourse theme based on a full-width layout
+https://github.com/discourse/discourse-lti #
+https://github.com/discourse/discourse-video #
+https://github.com/discourse/ghost #
+https://github.com/discourse/discourse-insert-video #
+https://github.com/discourse/discourse-staff-alias # Allow staff users to post under an alias
+https://github.com/discourse/discourse-animated-avatars # A plugin to add gif avatars in Discourse
+https://github.com/discourse/discourse-user-card-directory # Theme component which replaces the user directory with a grid of user
+cards https://github.com/discourse/discourse-custom-hamburger-links #
+https://github.com/discourse/discourse-top-contributors-sidebar # A theme component for adding top contributors in Discourse.
+https://github.com/discourse/discourse-chart #
+https://github.com/discourse/discourse-category-experts # Distinguish groups of users as experts per-category
+https://github.com/discourse/rubocop-discourse # Custom rubocop cops used by Discourse
+https://github.com/discourse/experimental-usercard #
+https://github.com/discourse/discourse-post-badges #
+https://github.com/discourse/twitter-profile-link # A plugin that adds a link to a user's Twitter profile if they ever authenticate
+d with Twitter. https://github.com/discourse/unformatted-code-detector # Discourse theme component to detect and warn users about unformatted code
+https://github.com/discourse/discourse-tag-banners #
+https://github.com/discourse/new-like-icon # How to change the Like icon using the APIs
+https://github.com/discourse/html-to-markdown #
+https://github.com/discourse/discourse-bcc # Allows staff members to send individual PMs to many users at once (like email BCC)
+https://github.com/discourse/mass-merge # A script for mass-approving and merging Dependabot pull requests
+https://github.com/discourse/discourse-users-nav # Add users nav for Discourse (theme component)
+https://github.com/discourse/discourse-group-tracker # Group Tracker plugin for Discourse
+https://github.com/discourse/discourse-theme-creator #
+https://github.com/discourse/discourse-pirate-speak # Pirate speak plugin for Discourse
+https://github.com/discourse/discourse-theme-skeleton # Template for Discourse themes
+https://github.com/discourse/inky-theme #
+https://github.com/discourse/discourse-new-topic-button-theme-component #
+https://github.com/discourse/discourse-fontawesome-pro # Install FontAwesome Pro to Discourse
+https://github.com/discourse/discourse-sidebar-category-nav #
+https://github.com/discourse/discourse-user-portfolio # Theme component to display a portfolio in the user profile
+https://github.com/discourse/folksy-store-name # A Discourse plugin to show the Folksy Store name on posts where available.
+https://github.com/discourse/hljs-theme-picker # A Discourse theme component that allows you to change the highlight colors used in
+code blocks https://github.com/discourse/discourse-mermaid-theme-component #
+https://github.com/discourse/discourse-alt-logo #
+https://github.com/discourse/discourse-placeholder-theme-component # discourse-placeholder-theme-component
+https://github.com/discourse/raw-post-button #
+https://github.com/discourse/discourse-newsletter-integration #
+https://github.com/discourse/discourse-clickable-topic #
+https://github.com/discourse/config_skeleton # Generate configuration files and reload services
+https://github.com/discourse/fakebook-modern #
+https://github.com/discourse/discourse-pdf-previews # A theme component that creates previews for pdfs when they're uploaded as att
+achments https://github.com/discourse/mass-pr # A tool for applying automated changes across a large number of GitHub repositories
+https://github.com/discourse/discourse-topic-excerpts # Add topic excerpts to all topics in the topic list
+https://github.com/discourse/discourse-trendy-login #
+https://github.com/discourse/discourse-browser-history # Plugin demonstrating overriding of user prefs by a plugin
+https://github.com/discourse/discourse-dark-admin-editor #
+https://github.com/discourse/discourse-brightcove #
+https://github.com/discourse/mini_tarball # A minimal implementation of the GNU Tar format in Ruby
+https://github.com/discourse/azure-prometheus-exporter # Prometheus exporter for Azure awg
+https://github.com/discourse/discourse-unhandled-tagger # Simple plugin that tags topics automatically if non-staff replies
+https://github.com/discourse/discourse-avatar-component # Theme component to change the avatar size
+https://github.com/discourse/lint-configs #
+https://github.com/discourse/discourse-baidu-search #
+https://github.com/discourse/mini_yaml # A toolkit for amending and formatting YAML files
+https://github.com/discourse/discourse-login-with-amazon # Discourse Plugin that allows users to sign up, sign in or link existing
+accounts with their Amazon accounts https://github.com/discourse/discourse-intercom # Official intercom integration plugin for Discourse.
+https://github.com/discourse/discourse-categories-tag-column #
+https://github.com/discourse/discourse-showcased-categories # This theme component allows a forum to feature two additional topic l
+ists on the forum's main page. https://github.com/discourse/discourse-sidebar-theme-toggle #
+https://github.com/discourse/discourse-table-builder # A theme component that allows for easily building and editing of markdown ta
+bles in Discourse. https://github.com/discourse/discourse-thin-header-theme-component #
+https://github.com/discourse/discourse-category-groups-component # Group categories on your Discourse categories page
+https://github.com/discourse/discourse-docs-card-filter #
+https://github.com/discourse/discourse-global-filter #
+https://github.com/discourse/clean-export #
+https://github.com/discourse/discourse-classic #
+https://github.com/discourse/.github #
+https://github.com/discourse/discourse-gifs #
+https://github.com/discourse/discourse-preset-topic-composer # preset composer
+https://github.com/discourse/2024-performance-profiling-workshop #
+https://github.com/discourse/discourse-topic-author #
+https://github.com/discourse/discourse-orgchart #
+https://github.com/discourse/discourse-locale-switcher # Purpose built for a specific theme, if you want a locale switcher for your
+forum check out https://meta.discourse.org/t/header-locale-selector/240697 https://github.com/discourse/discourse-reply-template-component #
+https://github.com/discourse/discourse-excalidraw-embed #
+https://github.com/discourse/discourse-iframe-lightboxes #
+https://github.com/discourse/discourse-image-annotator # image annotation theme component
+https://github.com/discourse/discourse-material-icons # Discourse x Google Material Design Icons
+https://github.com/discourse/data-explorer-examples # Examples for Discourse Data Explorer
+https://github.com/discourse/discourse-google-font-component #
+https://github.com/discourse/discourse-experimental-filter-component # Experimental menu for the /filter route, this may stop worki
+ng or lose support at any moment. https://github.com/discourse/discourse_dev_assets #
+https://github.com/discourse/discourse-colorful-categories #
+https://github.com/discourse/discourse-topic-status-filter # A Discourse theme component to filter topics list by its status.
+https://github.com/discourse/discourse-categories-navbar # Shows a horizontally scrolling nav of categories in your Discourse site
+header https://github.com/discourse/discourse-atlassian-statuspage # This component pings your status page api to alert users when your sy
+stems are down. https://github.com/discourse/discourse-stat-banner #
+https://github.com/discourse/discourse-header-search #
+https://github.com/discourse/discourse-user-card-on-hover # Displays user card when hovering over avatar or mention
+https://github.com/discourse/discourse-user-field-prompt #
+https://github.com/discourse/discourse-dice # Allow users to roll dice in their posts
+https://github.com/discourse/discourse-geoblocking # Restricts access to content based upon the user's geographical location (IP lo
+cation). https://github.com/discourse/github-status-theme # Discourse theme component to display live status information for pull requests a
+nd issues on GitHub oneboxes https://github.com/discourse/discourse-unanswered-filter #
+https://github.com/discourse/discourse-hcaptcha #
+https://github.com/discourse/syntax_tree-disable_ternary # syntax_tree plugin to prevent converting `if` expressions to ternary
+https://github.com/discourse/discourse-highlightjs-structured-text #
+https://github.com/discourse/discourse-watched-word-exceptions # A Discourse plugin which adds a new tab to the watched words panel
+: "Exceptions" https://github.com/discourse/discourse-tudiabetes # Customizations for TuDiabetes forums
+https://github.com/discourse/rtlcss # A wrapper around the rtlcss npm package to flip CSS direction in Ruby
+https://github.com/discourse/discourse-meta-banner #
+https://github.com/discourse/itsatrap # mousetrap fork by discourse
+https://github.com/discourse/discourse-whisper-warning # This component better distinguishes a public reply from a whisper.
+https://github.com/discourse/discourse-pm-dropdown-button # Adds a button to create a new PM from the notification dropdown
+https://github.com/discourse/discourse-client-performance # Collects performance information from client browsers and writes it to
+a log file for later analysis https://github.com/discourse/discourse-extra-group-classes # Add extra classes to posts made by groups
+https://github.com/discourse/discourse-groups-css-classes-in-body #
+https://github.com/discourse/discourse-huggingface-theme #
+https://github.com/discourse/discourse-splash-screen # A welcome splash screen for first time users
+https://github.com/discourse/discourse-group-alert-banners # Show custom alert banners to specific Discourse groups
+https://github.com/discourse/discourse-logster-rate-limit-checker #
+https://github.com/discourse/discourse-welcome-link-banner #
+https://github.com/discourse/discourse-marketo # Synchronizes Marketo leads with Discourse users
+https://github.com/discourse/discourse-topic-list-solution-highlight # Works together with the solved plugin to highlight the backg
+round of solved topics in the topic list https://github.com/discourse/discourse-sidebar-tags #
+https://github.com/discourse/discourse-add-category-column #
+https://github.com/discourse/discourse-like-column # Add the Like column to the /latest homepage
+https://github.com/discourse/discourse-maintenance-message # A component that shows a "we're making big changes to the forum, hang
+tight" message to users. https://github.com/discourse/discourse-customize-new-topic-button-text # This theme component allows admins to edit the text of the
+"new topic" button based on the current category or tag https://github.com/discourse/discourse-tag-icons # A theme component to display icons next to tags in Discourse.
+https://github.com/discourse/discourse-theme-hibiscus #
+https://github.com/discourse/discourse-sketchup-sso # SSO support for SketchUp
+https://github.com/discourse/discourse-prepend-tags-in-topic-slug # A small plugin to prepend selected tags to the topics slugs
+https://github.com/discourse/discourse-hide-users-column # A theme component for Discourse
+https://github.com/discourse/discourse-amazon-sns #
+https://github.com/discourse/discourse-doc-categories #
+https://github.com/discourse/mass_git_clone # Tool for maintaining clones of a large number of git repositories
+https://github.com/discourse/discourse-logster-transporter #
+https://github.com/discourse/discourse-minimal-footer #
+https://github.com/discourse/discourse-media-events # A theme component to enable tracking of media (video and audio) player events
+https://github.com/discourse/discourse-tag-group-topic-filter #
+https://github.com/discourse/discourse-featured-tiles #
+https://github.com/discourse/discourse-sketch # discourse-sketch
+https://github.com/discourse/discourse-default-composer-category #
+https://github.com/discourse/discourse-material-design-icons-outlined #
+https://github.com/discourse/discourse-hide-muted-categories # Theme component to hide muted categories from the `/categories` page
+. Categories are still available via the dropdown menu https://github.com/discourse/discourse-feather-icons # Use Feather icons in Discourse
+https://github.com/discourse/discourse-inline-codeblock-styles # Experiment on dev for inline code blocks
+https://github.com/discourse/discourse-hide-auth-method # A theme component which allows hiding a specific login method from the UI
+, without fully disabling it https://github.com/discourse/navigation-restructure-testing #
+https://github.com/discourse/discourse-onboarding-banner #
+https://github.com/discourse/discourse-localized-header-nav # Adds a localizable nav bar above your Discourse site header
+https://github.com/discourse/discourse-development-auth # A discourse plugin which adds a fake authentication provider. For develop
+ment purposes only. https://github.com/discourse/discourse-minimal-welcome-banner #
+https://github.com/discourse/discourse-categories-tracking-toggle # Adds a customizable tracking toggle to each category on the cat
+egories page https://github.com/discourse/discourse-topic-featured-link-banner # This is a Discourse theme component that shows a topic's featur
+ed link in a fixed position banner https://github.com/discourse/discourse-chart-color-override #
+https://github.com/discourse/discourse-heroicons # Heroicons theme component for Discourse.
+https://github.com/discourse/uipath-taggroup-styles # Styles intended to be used with https://github.com/discourse-com/discourse-ta
+g-group-filters https://github.com/discourse/discourse-post-quote-copy-to-clipboard-component # Adds a "Copy" button to the post context menu when
+highlighting text, that takes the Quote markdown and copies it to clipboard. https://github.com/discourse/discourse-offline-page # offline page for discourse
+https://github.com/discourse/discourse-group-aggregations #
+https://github.com/discourse/discourse-livestream #
+https://github.com/discourse/composer-peek # A peek-mode for composer on sites using the full screen theme component.
+https://github.com/discourse/discourse-needs-love #
+https://github.com/discourse/discourse-category-search-filters #
+https://github.com/discourse/discourse-dev-utils # A theme component that gives quick access to common links, actions, and settings
+often used when developing with Discourse. https://github.com/discourse/discourse-user-menu-tab #
+https://github.com/discourse/discourse-apple-add-to-homescreen #
+https://github.com/discourse/discourse-wcag-contrast #
+https://github.com/discourse/category-boxes-topic-count #
+https://github.com/discourse/discourse-jira #
+https://github.com/discourse/discourse-upload-consent # Display a consent modal when attaching files to the specified categories
+https://github.com/discourse/discourse-url-filters #
+https://github.com/discourse/discourse-group-membership-ip-block #
+https://github.com/discourse/discourse-local-site-contacts # Allows the 'site contact username' to be customized on a per-locale ba
+sis

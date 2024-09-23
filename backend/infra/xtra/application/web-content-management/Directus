@@ -1,0 +1,24 @@
+https://github.com/directus-labs/agency-os # The open source operating system for digital agencies. Built with Directus and Nuxt.
+https://github.com/directus-labs/awesome-directus # A curated list of awesome things related to Directus
+https://github.com/directus-labs/directus-template-cli # Apply "templates" to a new, empty Directus project.
+https://github.com/directus-labs/directus-templates # Community maintained templates to jump start your Directus project
+https://github.com/directus-labs/schema-builder-kit #
+https://github.com/directus-labs/extensions # Experimental and community-maintained extensions for Directus
+https://github.com/directus-labs/helm-chart # Directus Community Helm Chart
+https://github.com/directus-labs/heroku-template # Template to deploy Directus on Heroku
+https://github.com/directus-labs/guest-authoring # A repo for our guest authors to work on content
+https://github.com/directus-labs/job-board #
+https://github.com/directus-labs/gcp-example #
+https://github.com/directus-labs/getting-started-demo-data # Some default data to use with our getting started guides
+https://github.com/directus-labs/workshops # Home for Directus workshops
+https://github.com/directus-labs/.github #
+https://github.com/directus-labs/image-transformation #
+https://github.com/directus-labs/hackathon-submission-template # Use this README format to enter Directus hackathons
+
+https://github.com/directus/directus # The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels
+, or apps with a custom UI, instant APIs, auth & more. https://github.com/directus/website #
+https://github.com/directus/guides # Technical guides on our website (contributions welcome!)
+https://github.com/directus/gatsby-source-directus # Source plugin for pulling data into Gatsby from a Directus API.
+https://github.com/directus/file-metadata #
+https://github.com/directus/cla-bot # Small GitHub Action that'll check if all contributors in a PR have signed the CLA
+https://github.com/directus/stale-issues-action # GitHub Action for closing stale issues.

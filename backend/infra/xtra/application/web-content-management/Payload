@@ -1,0 +1,33 @@
+https://github.com/payloadcms/payload # Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+
+https://github.com/payloadcms/payload-3.0-demo # The official demo for Payload 3.0
+https://github.com/payloadcms/website # The official Next.js website for payloadcms.com
+https://github.com/payloadcms/public-demo # The official public demo for Payload
+https://github.com/payloadcms/website-cms # The CMS behind payloadcms.com
+https://github.com/payloadcms/remix-server # Monorepo template with Remix and Payload
+https://github.com/payloadcms/custom-website-series # A fully custom website built with Payload and Next.js
+https://github.com/payloadcms/vercel-deploy-payload-postgres # One-click deployment template of Payload 3.0 on Vercel
+https://github.com/payloadcms/payload-admin-bar # An admin bar for React apps using Payload
+https://github.com/payloadcms/custom-field-guide #
+https://github.com/payloadcms/migrate-mongo-example # Payload project using migrate-mongo to demonstrate migrations
+https://github.com/payloadcms/plugin-password-protection # The official password protection plugin for Payload
+https://github.com/payloadcms/access-control-demo # A demo of the powerful access control measures built into Payload
+https://github.com/payloadcms/plugin-zapier # The official Zapier plugin for Payload
+https://github.com/payloadcms/plugin-template # A template for creating your own Payload plugin
+https://github.com/payloadcms/enterprise-website-cms # An enterprise website CMS that can show how to build large websites on a des
+ign system, at scale https://github.com/payloadcms/game-admin-guide # An entire admin system for an imaginary game
+https://github.com/payloadcms/plugin-relationship-object-ids # A Payload plugin to store all relationship IDs as ObjectIDs
+https://github.com/payloadcms/speed-test # A speed test for use in comparisons.
+https://github.com/payloadcms/enterprise-website # An enterprise website frontend that can show how to build large websites on a de
+sign system, at scale https://github.com/payloadcms/discord-bot # A bot to help manage Payload's Discord
+https://github.com/payloadcms/drizzle-test #
+https://github.com/payloadcms/db-mongoose # The official Mongoose / MongoDB database adapter for Payload
+https://github.com/payloadcms/wp-to-payload # A head-to-head comparison about what it's like to build in WP and ACF vs. Payload.
+https://github.com/payloadcms/rich-text-with-markdown #
+https://github.com/payloadcms/eslint-config # The official Payload ESLint config
+https://github.com/payloadcms/blank #
+https://github.com/payloadcms/blog-rbac #
+https://github.com/payloadcms/typescript-jest-vscode # A tutorial for how to set up Payload with TypeScript, Jest, and VSCode Debug
+ging https://github.com/payloadcms/import-uploads-payload-cloud # Utility script to import existing media into payload cloud
+https://github.com/payloadcms/config-parser # A utility to parse a Payload config into server-only and admin-only configs
+https://github.com/payloadcms/issue-416 # This is a testing repo that attempts to recreate the issue communicated in Payload issue 416. https://github.com/payloadcms/multi-tenant-single-domain #

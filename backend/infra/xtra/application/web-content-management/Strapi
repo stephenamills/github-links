@@ -1,0 +1,125 @@
+https://github.com/strapi-support-demo-apps/strapi-example-v4-customupdateme # Example Strapi app showing how you can add a PUT /ap
+i/user/me https://github.com/strapi-support-demo-apps/strapi-example-v4-custom-db # Example Strapi v4 app showing how the custom v4 migration
+s work https://github.com/strapi-support-demo-apps/strapi-example-v4-customuploadadmin # Shows a Strapi v4 example on customizing the Admi
+n panel of the Upload package https://github.com/strapi-support-demo-apps/strapi-example-v4-injectuuid #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-aws-s3 # Example Strapi app showing how to configure AWS-S3 upload pr
+ovider https://github.com/strapi-support-demo-apps/strapi-example-v4-hide-drafts #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-update-own-user # Example showing a Strapi updateMe route
+https://github.com/strapi-support-demo-apps/strapi-example-v4-maintenancemode #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-exclude-fields-middleware #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-preventdelete #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-custom-provider #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-inject-ip-logger #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-force-sso-local #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-azure-ad-group-sync #
+https://github.com/strapi-support-demo-apps/strapi-test-v4-deep-filter-compo #
+https://github.com/strapi-support-demo-apps/custom_filters # This demo shows you how to build custom filters for a list view in the
+Strapi admin and also add a Custom admin route https://github.com/strapi-support-demo-apps/strapi-example-v4-upsertcontroller # Example repo for internal ticket 1603
+https://github.com/strapi-support-demo-apps/strapi-example-v4-ctm-route-middleware #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-splitadmin-sso #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-bulk-st # Example Strapi v4 app showing how to combine multiple singl
+e-type responses into a single custom rest endpoint https://github.com/strapi-support-demo-apps/strapi_sso_examples # [WIP] This example repo details how to setup SSO with various pro
+viders on Strapi https://github.com/strapi-support-demo-apps/strapi-example-v4-custom-routes-and-controllers #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-override-up-blocked-default #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-customize-users-permissions #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-providermodification # Example Strapi v4 app on how to modify the get
+Profile function for U&P Providers https://github.com/strapi-support-demo-apps/strapi-example-v4-customuploadmigration # A sample Strapi application, showing how you
+can create the database records after manually migrating your files https://github.com/strapi-support-demo-apps/strapi-example-v4-check-license-expire #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-add-okta-provider #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-nested-population #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-custom-sitemap-route #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-select-specific-format #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-okta-saml #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-middleware-populate-perf-test #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-graphql-is-owner-middleware #
+https://github.com/strapi-support-demo-apps/strapi-example-v5-injectuuid #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-bootstrap-no-lifecycles #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-compotype-injection # Example Strapi v4 application that injects the
+\_\_component type into all 2 levels non-dz compos in REST https://github.com/strapi-support-demo-apps/strapi-example-v4-semver-virtual-fields #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-prod-docker # Example testing a production docker container config
+https://github.com/strapi-support-demo-apps/strapi-example-v4-custom-plugin-route #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-custom-controller-combined #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-sso-proxy #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-plugin-routes #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-schema-endpoint #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-timepolicy # Example strapi v4 app showing a time policy that restric
+ts requests except for a specific window of time https://github.com/strapi-support-demo-apps/strapi-example-v4-admin-expire-date # Example Strapi app showing how to adjust the Admi
+n panel's JWT expire date https://github.com/strapi-support-demo-apps/strapi-example-v4-okta-sso # Strapi v4 example showing how to configure okta as an SSO
+provider https://github.com/strapi-support-demo-apps/strapi-example-v4-disablelocalauthsso #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-bulk-create-webhook #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-admin-reset-pass-temp #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-protect-single-draft #
+https://github.com/strapi-support-demo-apps/strapi-example-v4-static-file-plugin #
+
+https://github.com/strapi/strapi # 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully custom
+izable and developer-first. https://github.com/strapi/strapi-examples # :mortar_board: List of examples using Strapi
+https://github.com/strapi/strapi-docker # Install and run your first Strapi project using Docker
+https://github.com/strapi/foodadvisor # 🥘 THE Strapi demo application
+https://github.com/strapi/nextjs-corporate-starter # Strapi Demo application for Corporate Websites using Next.js
+https://github.com/strapi/documentation # Strapi Documentation
+https://github.com/strapi/community-content # Contribute and collaborate on educational content for the Strapi Community
+https://github.com/strapi/design-system # Strapi.io's design system :rocket:
+https://github.com/strapi/blocks-react-renderer # A React renderer for the Strapi's Blocks rich text editor
+https://github.com/strapi/strapi-next-14-dashboard-demo #
+https://github.com/strapi/strapi-heroku-template # Strapi official template for Heroku 1 click deploy button
+https://github.com/strapi/strapi-plugin-seo # The official plugin to make your Strapi content SEO friendly
+https://github.com/strapi/rfcs # RFCs for Strapi future changes
+https://github.com/strapi/one-click-deploy #
+https://github.com/strapi/migration-scripts # Collection of Strapi Migration scripts
+https://github.com/strapi/codemods # A set of scripts to help migrate Strapi plugins (and in some cases Strapi applications) from v
+3 to v4 https://github.com/strapi/strapi-heroku-cms-demo # Repository for "CMS" from the Gatsby / Strapi Video Tuturial Series
+https://github.com/strapi/strapi-template-event-vercel # Template to create Strapi projects pre-configured for event using the Verc
+el Event kit https://github.com/strapi/strapi-conf-next-template #
+https://github.com/strapi/strapi-plugin-open-ai # The official plugin that allows you to create Open AI completion from a prompt
+https://github.com/strapi/strapi-meetups # Learn, share and collaborate with the community at Strapi meetups. Contributions welcome
+. https://github.com/strapi/community-resources # Explore and learn a diverse range of ways to contribute to the Strapi Community
+https://github.com/strapi/strapi-conf-admin-template # Template for the StrapiConf Admin
+https://github.com/strapi/strapi-plugin-gatsby-preview #
+https://github.com/strapi/components # Official Strapi components library
+https://github.com/strapi/strapi-cloud-template-blog #
+https://github.com/strapi/eslint-config # Strapi eslint config
+https://github.com/strapi/strapi-template-next-example #
+https://github.com/strapi/sdk-plugin # CLI toolkit for developing a Strapi plugin
+https://github.com/strapi/.github # Community health files for the @strapi organization
+https://github.com/strapi/internal-lms # Strapi's Internal Learning Management System
+https://github.com/strapi/best-practices-samples # Sample project code for Strapi Best Practice calls
+https://github.com/strapi/pack-up # Simple tools for creating interoperable CJS & ESM packages.
+https://github.com/strapi/plugin-rfc-examples #
+https://github.com/strapi/foodadvisor-migration-example #
+https://github.com/strapi/security-patches # Patch-package patches for TID2212
+https://github.com/strapi/javascript # Strapi Javascript Style Guide
+https://github.com/strapi/dbt-config #
+https://github.com/strapi/v5-experiments #
+https://github.com/strapi/launchpad # Official Strapi Demo application
+https://github.com/strapi/strapi-cloud-template-blog-6aa0fbc136 #
+https://github.com/strapi/strapi-cloud-template-blog-5d43ee786c #
+https://github.com/strapi/strapi-cloud-template-blog-27f6f389c1 #
+
+https://github.com/strapi-community/awesome-strapi # A curated list of awesome things related to Strapi
+https://github.com/strapi-community/strapi-tool-dockerize # Easy add support for docker to your strapi project
+https://github.com/strapi-community/strapi-provider-upload-google-cloud-storage # Google Cloud Storage Upload Provider for Strapi
+https://github.com/strapi-community/strapi-plugin-transformer # A plugin for Strapi Headless CMS that provides the ability to trans
+form the API request or response. https://github.com/strapi-community/strapi-plugin-local-image-sharp # Dynamically resize, format and optimize images based on url m
+odifiers. https://github.com/strapi-community/jekyll-strapi # Jekyll plugin to retrieve content from any Strapi API.
+https://github.com/strapi-community/strapi-plugin-io # A plugin for Socket IO integration with Strapi CMS.
+https://github.com/strapi-community/strapi-plugin-publisher # A plugin for Strapi Headless CMS that provides the ability provides t
+he ability to easily schedule publishing and unpublishing of any content type. https://github.com/strapi-community/strapi-tool-deployify # Easy deploy strapi to cloud platforms
+https://github.com/strapi-community/strapi-plugin-slugify # A plugin for Strapi Headless CMS that provides the ability to auto slug
+ify a field for any content type. https://github.com/strapi-community/plugin-redis # Plugin used to centralize management of Redis connections in Strapi
+https://github.com/strapi-community/strapi-plugin-website-builder # A plugin for Strapi Headless CMS that provides the ability to t
+rigger website builds manually, periodically or through model events. https://github.com/strapi-community/strapi-plugin-protected-populate #
+https://github.com/strapi-community/strapi-typed-fronend # make strapi types compatible with frontend
+https://github.com/strapi-community/website # The repo for the website development competition of the @strapi-community.
+https://github.com/strapi-community/strapi-plugin-notes # A plugin for Strapi Headless CMS that provides the ability to add notes t
+o entity records. https://github.com/strapi-community/strapi-plugin-measurement-protocol # Send data to Google Analytics with Measurement Protocol.
+https://github.com/strapi-community/jekyll-blog # Simple Jekyll blog powered by Strapi
+https://github.com/strapi-community/strapi-plugin-multitenancy #
+https://github.com/strapi-community/eslint-config # Shared eslint configuration for Strapi v4 plugins & applications.
+https://github.com/strapi-community/strapi-plugin-search # A Strapi CMS plugin that provides search engine agnostic sync support
+https://github.com/strapi-community/strapi-plugin-audit # Audit Log plugin for Strapi v4
+https://github.com/strapi-community/strapi-ai-bot # Discord bot used by the Strapi Community Discord Server
+https://github.com/strapi-community/website-backend #
+https://github.com/strapi-community/docus-theme #
+https://github.com/strapi-community/.github #
+https://github.com/strapi-community/governance #
+https://github.com/strapi-community/plugin-rate-limit # Global and narrow scoped rate limit plugin with Redis support

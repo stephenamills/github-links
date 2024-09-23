@@ -1,0 +1,46 @@
+https://github.com/primer/css # The CSS design system that powers GitHub
+https://github.com/primer/octicons # A scalable set of icons handcrafted with <3 by GitHub
+https://github.com/primer/react # An implementation of GitHub's Primer Design System using React
+https://github.com/primer/github-vscode-theme # GitHub's VS Code themes
+https://github.com/primer/prism # A tool for creating and maintaining cohesive, consistent, and accessible color palettes
+https://github.com/primer/design # Primer Design Guidelines
+https://github.com/primer/view_components # ViewComponents for the Primer Design System
+https://github.com/primer/doctocat # A Gatsby theme for building Primer documentation sites
+https://github.com/primer/primitives # Color, typography, and spacing primitives in json.
+https://github.com/primer/stylelint-config # Sharable stylelint config used by GitHub's CSS
+https://github.com/primer/primer.style # The website for all things Primer
+https://github.com/primer/github-syntax-theme-generator # Uses a prettylights theme object to generate syntax themes for multiple p
+latforms https://github.com/primer/github-syntax-light # The CSS syntax theme for GitHub
+https://github.com/primer/brand # React components and Primitives for GitHub marketing websites
+https://github.com/primer/github-vscode-theme-dark-classic # GitHub Dark (classic) theme for VS Code
+https://github.com/primer/figma # Primer, GitHub's design system, available on Figma.
+https://github.com/primer/github-syntax-dark # The CSS dark syntax theme for GitHub
+https://github.com/primer/behaviors # Shared behaviors for JavaScript components
+https://github.com/primer/react-template # The quickest way to start playing around with Primer React
+https://github.com/primer/github-atom-light-syntax # GitHub's official light syntax theme as an atom theme
+https://github.com/primer/swatch # Get a swatch svg for a color token from @primer/primitives
+https://github.com/primer/github-textmate-theme # GitHub's official syntax themes as TextMate themes
+https://github.com/primer/doctocat-template #
+https://github.com/primer/codemirror-github-light # Codemirror GitHub syntax theme
+https://github.com/primer/github-atom-dark-syntax # GitHub's official dark syntax theme as an atom theme
+https://github.com/primer/keynote-octicons # Keynote templates for using GitHub's octicons in presentations
+https://github.com/primer/eslint-plugin-primer-react # ESLint rules for Primer React
+https://github.com/primer/contribute # Contribution guidelines for the Primer Design System
+https://github.com/primer/sync # Sync Primer CSS source files from npm to your git repo
+https://github.com/primer/react-toolchain # Toolchain to help in building React components with @primer/react
+https://github.com/primer/doctocat-nextjs # A Next.js theme for building Primer documentation sites
+https://github.com/primer/react-migrate # One time migrations for primer/react
+https://github.com/primer/primer.github.io #
+https://github.com/primer/view_components-template # The quickest way to start playing around with Primer ViewComponents
+https://github.com/primer/storybook # Compiled storybook source for GH-pages
+https://github.com/primer/.github # GitHub Stuff
+https://github.com/primer/live-region-element # A custom element for making announcements with live regions
+https://github.com/primer/codemirror-github-dark # Codemirror GitHub syntax theme
+https://github.com/primer/github-ace-dark # Ace theme for GitHub dark syntax
+https://github.com/primer/github-ace-light # Ace theme for GitHub light syntax
+https://github.com/primer/atom-packages # A list of Atom packages recommended by the GitHub design systems team
+https://github.com/primer/next-auth-template # A template for using Next + Primer + Auth.js + Octokit
+https://github.com/primer/api # A GraphQL API for collecting and accessing data about the Primer Design System
+https://github.com/primer/comment-token-update #
+https://github.com/primer/generated-data # A repo with generated GitHub-like data to be used in tools like Figma plugins and protot
+ypes.

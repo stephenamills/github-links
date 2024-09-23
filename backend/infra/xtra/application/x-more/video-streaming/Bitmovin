@@ -1,0 +1,83 @@
+https://github.com/bitmovin/libdash # MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation
+https://github.com/bitmovin/demos #
+https://github.com/bitmovin/bitmovin-player-ui # The Bitmovin Adaptive Streaming Player UI
+https://github.com/bitmovin/bitmovin-player-web-samples # Showcases build around the Bitmovin Adaptive Streaming Player, demonstrat
+ing usage and capabilities of the HTML5 based HLS and MPEG-DASH player, as well as the Flash based Fallback. https://github.com/bitmovin/mp4inspector # A Chrome extension to help you inspect Mp4 video content and find irregularities in vide
+o streams. https://github.com/bitmovin/bitmovin-javascript # DEPRECATED: JavaScript client for the Bitmovin API, see https://github.com/bitmov
+in/bitmovin-api-sdk-javascript https://github.com/bitmovin/mse-demo # Simple working example using the Media Source Extensions (MSE) to playback video
+https://github.com/bitmovin/bitmovin-player-android-samples # Sample apps for the Bitmovin Player Android SDK
+https://github.com/bitmovin/bitmovin-go # Golang-Client which enables you to seamlessly integrate the new Bitmovin API into your ex
+isting projects https://github.com/bitmovin/bitmovin-player-react-native # Official React Native bindings for Bitmovin's Mobile Player SDKs.
+https://github.com/bitmovin/bitmovin-player-ios-samples #
+https://github.com/bitmovin/bitmovin-api-sdk-examples # Set of encoding workflow examples highlighting the use of the Bitmovin API
+SDKs https://github.com/bitmovin/bitmovin-python # DEPRECATED: Python client for the Bitmovin API, see https://github.com/bitmovin/bitmo
+vin-api-sdk-python https://github.com/bitmovin/unda # This repo contains the Universal NDA intended for routine commercial transactions.
+https://github.com/bitmovin/bitmovin-api-sdk-javascript # TypeScript/JavaScript API SDK which enables you to seamlessly integrate t
+he Bitmovin API into your projects https://github.com/bitmovin/bitmovin-php # DEPRECATED: PHP client for the Bitmovin API, see https://github.com/bitmovin/bitmovin-ap
+i-sdk-php https://github.com/bitmovin/bitmovin-player-webos-demo # Sample app for how to use the Bitmovin Web SDK on LG WebOS devices
+https://github.com/bitmovin/vvdecplayer #
+https://github.com/bitmovin/github_wiki_index # Creates an index with links from a github wiki which is structured in folders
+https://github.com/bitmovin/bitmovin-api-sdk-dotnet # C# API SDK which enables you to seamlessly integrate the Bitmovin API into yo
+ur projects https://github.com/bitmovin/bitmovin-api-sdk-python # Python API SDK which enables you to seamlessly integrate the Bitmovin API int
+o your projects https://github.com/bitmovin/bitmovin-java # DEPRECATED: Java client for the Bitmovin API, see https://github.com/bitmovin/bitmovin-
+api-sdk-java https://github.com/bitmovin/bitmovin-player-tizen-demo # Sample app for how to use the Bitmovin Web SDK on Samsung Tizen devices
+https://github.com/bitmovin/bitmovin-player-flutter # Official Flutter bindings for Bitmovin's mobile Player SDKs.
+https://github.com/bitmovin/bitmovin-analytics-collector-android # Bitmovin Analytics Android Collector
+https://github.com/bitmovin/bitmovin-ruby # DEPRECATED: Bitmovin API Ruby Client
+https://github.com/bitmovin/bitmovin-dotnet # DEPRECATED: C# client for the Bitmovin API, see https://github.com/bitmovin/bitmovin-
+api-sdk-dotnet https://github.com/bitmovin/bitmovin-analytics-sample-dashboard # Sample Bitmovin Analytics Dashboard
+https://github.com/bitmovin/bitmovin-player-caf-receiver # CAF receiver implementation to communication with Bitmovin Player SDKs
+https://github.com/bitmovin/bitmovin-player-vr-ambisonics #
+https://github.com/bitmovin/bitmovin-api-sdk-java # Java API SDK which enables you to seamlessly integrate the Bitmovin API into yo
+ur projects https://github.com/bitmovin/analytics-grafana-datasource # Easily visualize your video analytics data in your Grafana dashboard usi
+ng our new Grafana plugin so Bitmovin Analytics can be used as a Data Source in your Grafana deployment https://github.com/bitmovin/streams-examples # Examples of how to use Bitmovin Streams
+https://github.com/bitmovin/bitmovin-analytics-collector-ios #
+https://github.com/bitmovin/bitmovin-player-ios-sdk-cocoapod #
+https://github.com/bitmovin/bitmovin-player-akamai-analytics # This repository demonstrates how to connect the Bitmovin Adaptive St
+reaming Player with the Akamai Analytics Interface for data monitoring. https://github.com/bitmovin/bitmovin-player-roku-samples # Sample channels for the Bitmovin Player Roku SDK
+https://github.com/bitmovin/live-to-vod-demo # This demo shows how to start a live stream and then creating a VoD manifests from th
+e live stream using the Bitmovin API and a Web-Application. https://github.com/bitmovin/streams-android-sdk # Jetpack Compose Android Component to play Bitmovin Streams. Api reference is avai
+lable at https://bitmovin.github.io/streams-android-sdk/ https://github.com/bitmovin/bitmovinvideo-wordpress # The Bitmovin Wordpress Plugin
+https://github.com/bitmovin/bitmovin-api-sdk-go # Go API SDK which enables you to seamlessly integrate the Bitmovin API into your p
+rojects https://github.com/bitmovin/analytics-tableau-web-data-collector #
+https://github.com/bitmovin/licensing-demo # Showcase of how to use the Bitmovin 3rd party licensing in combination with the Adapti
+ve Streaming Player. https://github.com/bitmovin/player-ios # Swift Package Manager Repository for the Bitmovin iOS/tvOS Player SDK
+https://github.com/bitmovin/bitmovin-player-web-integrations-yospace # Integration between the Bitmovin Player and the Yospace AdMa
+nagement SDK https://github.com/bitmovin/analytics-live-monitoring-dashboard #
+https://github.com/bitmovin/bitmovin-analytics-collector-roku # Bitmovin Analytics Roku Collector
+https://github.com/bitmovin/bitmovin-player-react #
+https://github.com/bitmovin/analytics-comparison-dashboard #
+https://github.com/bitmovin/analytics-google-datastudio-connector # Connector for Google Data Studio to Bitmovin Analytics
+https://github.com/bitmovin/bitmovin-player-web-analytics-conviva # Integration of the Bitmovin Web Player SDK with the Conviva Ana
+lytics https://github.com/bitmovin/bitmovin-api-sdk-php # PHP API SDK which enables you to seamlessly integrate the Bitmovin API into your
+projects https://github.com/bitmovin/s3-mimetype-updater #
+https://github.com/bitmovin/analyze-docker #
+https://github.com/bitmovin/bitmovin-livestream-com-demo # This little demo allows you to easily test your Livestream livestream wi
+th our fully customizable player by inserting your livestream.com API Key into the configuration of this app https://github.com/bitmovin/lambda-watchfolder-sample #
+https://github.com/bitmovin/learning-labs # Hands on example of video workflow: encoding, player and analytics.
+https://github.com/bitmovin/bitmovin-player-ios-integrations-comscore #
+https://github.com/bitmovin/bitmovin-player-remote-websocketserver #
+https://github.com/bitmovin/cocoapod-specs #
+https://github.com/bitmovin/bitmovin-player-roku-analytics-conviva # Integration of the Bitmovin Roku Player SDK with the Conviva A
+nalytics https://github.com/bitmovin/bitmovin-player-windows-app-demo # Sample app for how to use the Bitmovin Web SDK in Universal Windows
+Platform (UWP) apps https://github.com/bitmovin/analytics-js-api-explorer #
+https://github.com/bitmovin/bitmovin-player-android-integrations-comscore # Integration of the Bitmovin Player with ComScore
+https://github.com/bitmovin/bitmovin-player-web-integration-mediatailor #
+https://github.com/bitmovin/bitmovin-player-android-analytics-conviva # Integration of the Bitmovin Android Player SDK with the Con
+viva Analytics https://github.com/bitmovin/bitmovin-player-react-native-analytics-conviva #
+https://github.com/bitmovin/bitmovin-player-android-analytics-adobe #
+https://github.com/bitmovin/bitmovin-player-android-integrations-yospace #
+https://github.com/bitmovin/bitmovin-player-ios-analytics-adobe #
+https://github.com/bitmovin/bitmovin-player-ios-analytics-conviva # Conviva Analytics Integration for the Bitmovin Player iOS SDK
+https://github.com/bitmovin/amphtml #
+https://github.com/bitmovin/terraform-cloud-connect #
+https://github.com/bitmovin/amazon-ivs-collector-web-example #
+https://github.com/bitmovin/bitmovin-player-roku-integrations-yospace # Bitmovin Player integration with the Yospace AdManagement S
+DK https://github.com/bitmovin/bitmovin-analytics-collector-ios-samples #
+https://github.com/bitmovin/bitmovin-player-web-analytics-comscore # Integration of the Bitmovin Video Player with ComScore
+https://github.com/bitmovin/bitmovin-player-web-analytics-adobe # Integration of the Bitmovin Video Player with Adobe Analytics
+https://github.com/bitmovin/bitmovin-player-web-integration-cmcd #
+https://github.com/bitmovin/bitmovin-player-ios-integrations-yospace # Bitmovin Player integration with the Yospace AdManagement SD
+K https://github.com/bitmovin/player-ios-core # Swift Package Manager Repository for the Bitmovin iOS/tvOS Player SDK
+https://github.com/bitmovin/amazon-ivs-analytics-demo #
+https://github.com/bitmovin/pwx-package-template #
