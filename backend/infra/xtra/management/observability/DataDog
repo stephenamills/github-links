@@ -1,0 +1,303 @@
+https://github.com/datadog/go-profiler-notes # felixge's notes on the various go prof
+iling methods that are available. https://github.com/datadog/glommio # Glommio is a thread-per-core crate that makes wr
+iting highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. https://github.com/datadog/datadog-agent # Main repository for Datadog Agent
+https://github.com/datadog/stratus-red-team # :cloud: :zap: Granular, Actionable Adve
+rsary Emulation for the Cloud https://github.com/datadog/dd-agent # Datadog Agent Version 5
+https://github.com/datadog/integrations-core # Core integrations of the Datadog Agent
+https://github.com/datadog/kubehound # Tool for building Kubernetes attack paths
+https://github.com/datadog/zstd # Zstd wrapper for Go
+https://github.com/datadog/dd-trace-go # Datadog Go Library including APM tracing, pr
+ofiling, and security monitoring. https://github.com/datadog/dd-trace-js # JavaScript APM Tracer
+https://github.com/datadog/the-monitor # Markdown files for Datadog's longform blog p
+osts: https://www.datadoghq.com/blog/ https://github.com/datadog/datadogpy # The Datadog Python library
+https://github.com/datadog/guarddog # :snake: :mag: GuardDog is a CLI tool to Identif
+y malicious PyPI and npm packages https://github.com/datadog/dd-trace-java # Datadog APM client for Java
+https://github.com/datadog/dd-trace-py # Datadog Python APM Client
+https://github.com/datadog/yubikey # YubiKey at Datadog
+https://github.com/datadog/kafka-kit # Kafka storage rebalancing, automated replicati
+on throttle, cluster API and more https://github.com/datadog/dd-trace-php # Datadog PHP Clients
+https://github.com/datadog/documentation # The source for Datadog's documentation sit
+e. https://github.com/datadog/dd-trace-dotnet # .NET Client Library for Datadog APM
+https://github.com/datadog/security-labs-pocs # Proof of concept code for Datadog Sec
+urity Labs referenced exploits. https://github.com/datadog/terraform-provider-datadog # Terraform Datadog provider
+https://github.com/datadog/datadog-go # go dogstatsd client library for datadog
+https://github.com/datadog/helm-charts # Helm charts for Datadog products
+https://github.com/datadog/datadog-serverless-functions # Repo of AWS Lambda and Azur
+e Functions functions that process streams and send data to Datadog https://github.com/datadog/threatest # Threatest is a CLI and Go framework for end-to
+-end testing threat detection rules. https://github.com/datadog/managed-kubernetes-auditing-toolkit # All-in-one auditing
+toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS. https://github.com/datadog/dd-trace-rb # Datadog Tracing Ruby Client
+https://github.com/datadog/datadog-operator # Kubernetes Operator for Datadog Resourc
+es https://github.com/datadog/docker-dd-agent # Datadog Agent Dockerfile for Trusted Bui
+lds. https://github.com/datadog/ansible-datadog # Ansible role for Datadog Agent
+https://github.com/datadog/browser-sdk # Datadog Browser SDK
+https://github.com/datadog/integrations-extras # Community developed integrations and
+plugins for the Datadog Agent. https://github.com/datadog/miscellany # Miscellaneous scripts and tools
+https://github.com/datadog/watermarkpodautoscaler # Custom controller that extends th
+e Horizontal Pod Autoscaler https://github.com/datadog/dd-sdk-ios # Datadog SDK for iOS - Swift and Objective-C.
+https://github.com/datadog/php-datadogstatsd # A PHP client for DogStatsd
+https://github.com/datadog/dogstatsd-ruby # A Ruby client for DogStatsd
+https://github.com/datadog/java-dogstatsd-client # Java statsd client library
+https://github.com/datadog/chaos-controller # :monkey: :fire: Datadog Failure Injecti
+on System for Kubernetes https://github.com/datadog/sketches-go # Go implementations of the distributed quanti
+le sketch algorithm DDSketch https://github.com/datadog/grimoire # Generate datasets of cloud audit logs for commo
+n attacks https://github.com/datadog/dd-sdk-android # Datadog SDK for Android (Compatible with
+Kotlin and Java) https://github.com/datadog/datadog-api-client-go # Golang client for the Datadog API
+https://github.com/datadog/orchestrion # Automatic compile-time instrumentation of Go
+code https://github.com/datadog/hash # HASH (HTTP Agnostic Software Honeypot)
+https://github.com/datadog/malicious-software-packages-dataset # An open-source datas
+et of malicious software packages found in the wild, 100% vetted by humans. https://github.com/datadog/datadog-ci # Use Datadog from your CI.
+https://github.com/datadog/ebpf-manager # This manager helps handle the life cycle of
+your eBPF programs https://github.com/datadog/trace-examples # trace sample apps
+https://github.com/datadog/dd-sdk-reactnative # Datadog SDK for ReactNative
+https://github.com/datadog/gostackparse # Package gostackparse parses goroutines stac
+k traces as produced by panic() or debug.Stack() at ~300 MiB/s. https://github.com/datadog/sketches-java # DDSketch: A Fast and Fully-Mergeable Quant
+ile Sketch with Relative-Error Guarantees. https://github.com/datadog/datadog-api-client-python # Python client for the Datadog
+API https://github.com/datadog/datadog-lambda-js # The Datadog AWS Lambda Library for Nod
+e https://github.com/datadog/build-plugins # A set of universal bundler plugins to inte
+ract with Datadog directly from your builds. https://github.com/datadog/datadog-static-analyzer # Datadog Static Analyzer
+https://github.com/datadog/jmxfetch # Export JMX metrics
+https://github.com/datadog/chef-datadog # Chef cookbook for Datadog Agent & Integrati
+ons https://github.com/datadog/extendeddaemonset # Kubernetes Extended Daemonset controll
+er https://github.com/datadog/dogapi-rb # Ruby client for Datadog's API
+https://github.com/datadog/ansible-datadog-callback # Ansible callback to get stats &
+events directly into Datadog http://datadoghq.com https://github.com/datadog/serverless-plugin-datadog # Serverless plugin to automagic
+ally instrument your Lambda functions with Datadog https://github.com/datadog/dogstatsd-csharp-client # A DogStatsD client for C#/.NET
+https://github.com/datadog/ebpf-training #
+https://github.com/datadog/ecommerce-workshop # Example eCommerce App for workshops a
+nd observability https://github.com/datadog/ebpfbench # profile eBPF programs from Go
+https://github.com/datadog/datadog-lambda-python # The Datadog AWS Lambda Layer for P
+ython https://github.com/datadog/sketches-py # Python implementations of the distributed qu
+antile sketch algorithm DDSketch https://github.com/datadog/ddqa # Datadog's QA manager for releases of GitHub reposit
+ories https://github.com/datadog/datadog-api-client-typescript # Typescript client for the
+Datadog API https://github.com/datadog/lading # A suite of data generation and load testing tools
+https://github.com/datadog/datadog-lambda-extension # Datadog Lambda Extension
+https://github.com/datadog/heroku-buildpack-datadog # Heroku Buildpack to run the Dat
+adog Agent in a Dyno https://github.com/datadog/datadog-cdk-constructs # CDK construct library to automagi
+cally instrument your Lambda functions with Datadog https://github.com/datadog/datadog-api-client-java # Java client for the Datadog API
+https://github.com/datadog/serilog-sinks-datadog-logs # Serilog Sink that sends log e
+vents to Datadog https://www.datadoghq.com/ https://github.com/datadog/jsonapi # A marshaler/unmarshaler for JSON:API.
+https://github.com/datadog/datadog-lambda-go # The Datadog AWS Lambda package for Go
+https://github.com/datadog/puppet-datadog-agent # Puppet module to install the Datado
+g agent https://github.com/datadog/undocumented-aws-api-hunter # A tool to uncover undocument
+ed APIs from the AWS Console. https://github.com/datadog/datadog-cloudformation-resources #
+https://github.com/datadog/effective-dashboards # A curated list of useful Datadog da
+shboards and Dashboard design best practices https://github.com/datadog/libdatadog # Datadog shared rust-based library. For now on
+ly used in other products (e.g. Ruby or PHP libraries). https://github.com/datadog/rum-react-integration-examples # rum-react-integration
+https://github.com/datadog/ddprof # The Datadog Native Profiler for Linux
+https://github.com/datadog/dd-sdk-flutter # Flutter bindings and tools for utilizing
+Datadog Mobile SDKs https://github.com/datadog/synthetics-ci-github-action # Use Browser and API tests in
+your CI/CD with Datadog Continuous Testing https://github.com/datadog/dd-opentracing-cpp # Datadog Opentracing C++ Client
+https://github.com/datadog/apigentools # Generate API clients with ease
+https://github.com/datadog/fluent-plugin-datadog # Fluentd output plugin for Datadog:
+https://www.datadog.com https://github.com/datadog/datadog-sync-cli # Datadog cli tool to sync resources acro
+ss organizations. https://github.com/datadog/datadog-api-client-ruby # Ruby client for the Datadog API
+https://github.com/datadog/cloudformation-template # Easily set up the Datadog AWS in
+tegration using CloudFormation https://github.com/datadog/temporal-large-payload-codec # HTTP service and accompany
+ing Temporal Payload Codec which allows Temporal clients to automatically persist large payloads outside of workflow histories. https://github.com/datadog/libddwaf # Datadog's WAF & RASP Engine
+https://github.com/datadog/pg_tracing # Distributed Tracing for PostgreSQL
+https://github.com/datadog/czlib # Fast zlib implementation for Go
+https://github.com/datadog/datadog-formula # A saltstack formula for Datadog
+https://github.com/datadog/workload-security-evaluator # Tooling to simulate runtime
+attacks and test default runtime detections from Datadog Cloud Security Management. https://github.com/datadog/uwsgi-dogstatsd # uwsgi dogstatsd plugin
+https://github.com/datadog/dd-apm-test-agent # Test agent for Datadog APM client libr
+aries https://github.com/datadog/serverless-sample-app # Explore Datadog's serverless obser
+vability features with this sample app. https://github.com/datadog/system-tests # Test framework for libraries and agents.
+https://github.com/datadog/security-agent-policies # Policies for Security Agent - co
+mpliance and runtime checks https://github.com/datadog/riot # A Python virtual env builder and command runner
+https://github.com/datadog/container-security-resources # A collection of container s
+ecurity resources https://github.com/datadog/java-profiler #
+https://github.com/datadog/schema # Datadog JSON Schemas
+https://github.com/datadog/nginx-datadog # Enhance NGINX Observability and Security w
+ith Datadog's Module https://github.com/datadog/slapr # Add Pull Request status emojis to Slack posts.
+https://github.com/datadog/datadog-pgo #
+https://github.com/datadog/agent-payload # Payload format description for communicati
+on between the agent and the Datadog backend https://github.com/datadog/documentor # Improve technical documentation with the powe
+r of AI. https://github.com/datadog/attache # Attaché provides an emulation layer for Cloud Pr
+ovider IMDS APIs https://github.com/datadog/datadog-vale # Documentation Style Guide for the Vale Lint
+er. Owned and maintained by the Datadog Docs team. https://github.com/datadog/apps #
+https://github.com/datadog/dd-sdk-swift-testing # Datadog Test Instrumentation framew
+ork for Swift / ObjC https://github.com/datadog/react-native-performance-limiter # A package for deliberat
+ely limiting the performance of React Native applications https://github.com/datadog/swift-jsonapi # Effortless JSON:API encoding and decoding
+in Swift https://github.com/datadog/llm-observability # Learn by example how to instrument Dat
+adog's LLM Observability product https://github.com/datadog/kong-plugin-ddtrace # Datadog APM Plugin for Kong Gateway
+https://github.com/datadog/rum-events-format # JSON schema of RUM events send by SDKs
+https://github.com/datadog/cloud-siem-aws-threat-emulation # A guide to simplify the
+process of evaluating Datadog's Cloud SIEM security capabilities to detect AWS threats. https://github.com/datadog/chef-handler-datadog # Get Chef stats & events directly in
+to Datadog https://github.com/datadog/rules_oci # blazing fast Bazel rules for building OCI Imag
+es https://github.com/datadog/datadog-cloudformation-macro # CloudFormation Macros by Da
+tadog https://github.com/datadog/action-py-black-formatter # apply python code formatting s
+tandards https://github.com/datadog/opentelemetry-mapping-go # Go modules that implement OpenT
+elemetry-to-Datadog mapping for all telemetry signals https://github.com/datadog/statsd-datadog-backend # A plugin to connect etsy's statsD
+to Datadog https://github.com/datadog/dpn # Datadog Partners Network
+https://github.com/datadog/datadog-lambda-java # The Datadog AWS Lambda package for J
+ava https://github.com/datadog/dd-sdk-android-gradle-plugin # The Datadog Gradle Plugin f
+or Android https://github.com/datadog/go-sqllexer # Simple SQL lexer written in Go
+https://github.com/datadog/storedog #
+https://github.com/datadog/temporal-worker-controller #
+https://github.com/datadog/logstash-output-datadog_logs # DatadogLogs lets you send l
+ogs to Datadog based on LogStash events. https://github.com/datadog/test-infra-definitions #
+https://github.com/datadog/datadog-agent-buildimages # Build images for the Datadog A
+gent https://github.com/datadog/datadog-unix-agent # Datadog Unix Agent
+https://github.com/datadog/sirun # sirun = metricrunner
+https://github.com/datadog/opentelemetry-examples # OpenTelemetry examples for rampin
+g up https://github.com/datadog/appsec-threat-emulation #
+https://github.com/datadog/saluki # An experimental toolkit for building telemetry da
+ta planes in Rust. https://github.com/datadog/vulnerable-java-application # This repository contains a s
+ample Java application vulnerable to command injection and server-side request forgery (SSRF). https://github.com/datadog/jmeter-datadog-backend-listener # Send JMeter test results
+to Datadog. https://github.com/datadog/go-libddwaf # Go bindings for DataDog/libddwaf
+https://github.com/datadog/docker-filter # Filtering proxy for a read-only access to
+the Docker socket https://github.com/datadog/apm-tutorial-golang # Tutorial for Golang applications usi
+ng the Datadog Agent in popular configurations https://github.com/datadog/docker-library # Dockerfiles for custom images
+https://github.com/datadog/dd-continuous-profiler-example # This is an example servic
+e that goes along with Datadog's "Intro to Profiling" documentation. https://github.com/datadog/datadog-aws-controltower # Contains resources for adding D
+atadog monitoring to AWS accounts created with AWS Control Tower. https://github.com/datadog/datadog-for-vscode # Datadog for VS Code
+https://github.com/datadog/agent-linux-install-script # Datadog Agent Linux Install S
+cript https://github.com/datadog/dd-appsec-php # Datadog PHP Application Security
+https://github.com/datadog/datadog-cloudfoundry-buildpack # Datadog Cloud Foundry Bui
+ldpack https://github.com/datadog/datadog-static-analyzer-github-action #
+https://github.com/datadog/dd-sensitive-data-scanner #
+https://github.com/datadog/datadog-aas-extension # Datadog Azure App Services Site Ex
+tension https://github.com/datadog/nikos #
+https://github.com/datadog/data-streams-go #
+https://github.com/datadog/sketches-js # TypeScript implementation of the distributed
+quantile sketch algorithm DDSketch https://github.com/datadog/learning-center-assets # Assets and resources used in the
+Training team's labs. https://github.com/datadog/dd-agent-omnibus # Omnibus project to build the Datadog Ag
+ent v5 https://github.com/datadog/content-addressable-store # A Go service with potential fo
+r improvement. https://github.com/datadog/slack-channel-manager # Slack Bot for private channel mana
+gement in a public workspace. https://github.com/datadog/datadog-lambda-rb # The Datadog AWS Lambda Layer for Ruby
+https://github.com/datadog/dd-trace-cpp # C++ APM SDK
+https://github.com/datadog/expo-datadog # Datadog SDK for Expo
+https://github.com/datadog/upload-dsyms-github-action # Github Action to upload iOS d
+SYM files using datadog-ci tool. https://github.com/datadog/datadog-api-client-rust # Rust client for the Datadog API
+https://github.com/datadog/dd-native-metrics-js # Node.js native metrics collector fo
+r libuv and v8 https://github.com/datadog/dd-sdk-unity #
+https://github.com/datadog/dd-sdk-go-testing # Datadog Test Instrumentation framework
+for Go https://github.com/datadog/junit-upload-github-action # GitHub Action to Upload Junit
+XML files to CI Visibility https://github.com/datadog/yorkshire # Yorkshire is your friend, yorkshire checks Pyt
+hon's requirements files for a possible dependency confusion. https://github.com/datadog/envier # Python application configuration from the environ
+ment https://github.com/datadog/cloudcraft-go # Go client for the Cloudcraft developer API
+. https://github.com/datadog/dd-trace-dotnet-aws-lambda-layer # The Datadog AWS Lambda
+Layer for .NET https://github.com/datadog/tfc-workshop #
+https://github.com/datadog/datadog-kafka-connect-logs # A plugin for Kafka Connect to
+send Kafka records as logs to Datadog. https://github.com/datadog/apm-tutorial-python # Tutorial for running Datadog agent a
+nd application on the same host with tracing. https://github.com/datadog/datadog-ci-rb # Ruby library for Datadog test visibility
+https://github.com/datadog/datadog-fastlane-plugin # Datadog's fastlane plugin for iO
+S development https://github.com/datadog/datadog-ci-azure-devops # Use Browser and API tests in you
+r Azure pipelines with Datadog Continuous Testing https://github.com/datadog/pprof-format # Pure JavaScript pprof encoder and decoder
+https://github.com/datadog/techstories-demo-app # Used by the Customer Education & Tr
+aining team in labs https://github.com/datadog/datadog-cloud-resource-tagger # Tag terraform cloud resour
+ces for visibility within Datadog https://github.com/datadog/dd-sdk-reactnative-examples # Datadog SDK examples in Reac
+t Native https://github.com/datadog/rules_oci_bootstrap # Bazel rules to bootstrap from an OCI
+registry https://github.com/datadog/datadog-for-intellij-platform # Datadog for IntelliJ IDEA
+https://github.com/datadog/dd-native-iast-taint-tracking-js # Node taint tracking nat
+ive addon https://github.com/datadog/rosie # Rosie code analyzer from Codiga
+https://github.com/datadog/graft-rb # Generic vendor-independent hooking library for
+Ruby https://github.com/datadog/datadog-agent-macos-build # Dev - Stores workflow to run M
+acOS Agent builds https://github.com/datadog/dd-trace-java-docker-build # Docker container to build Jav
+a APM Tracer https://github.com/datadog/jamf-api-client-go # Golang client for Jamf's REST API
+https://github.com/datadog/jupyterlab-freeze # Freeze extension for jupyterlab
+https://github.com/datadog/datadog-react-native-wizard # Setup wizard for Datadog Rea
+ct Native SDK https://github.com/datadog/go-secure-sdk # Datadog Go Secure SDK
+https://github.com/datadog/otel-profiling-agent # Copy of https://github.com/elastic/
+otel-profiling-agent https://github.com/datadog/dd-trace-java-kinesis-example #
+https://github.com/datadog/dnsstress # Simple Go program to stress test DNS servers
+https://github.com/datadog/openapi-coverage # Calculate schema coverage
+https://github.com/datadog/dd-javac-plugin # Java compiler plugin that enriches compi
+led classes with additional data https://github.com/datadog/unity-package #
+https://github.com/datadog/go-sample-app # A sample application composed of several s
+ervices, written in Go. https://github.com/datadog/dd-native-iast-rewriter-js #
+https://github.com/datadog/swift-dogstatsd # A Swift Dogstatsd client built for the V
+apor framework https://github.com/datadog/juice-shop # Fork of the Juice-Shop AppSec test applicatio
+n https://github.com/datadog/test-visibility-github-action # GitHub Action that install
+s Datadog Test Visibility https://github.com/datadog/appsec-go-test-app #
+https://github.com/datadog/rust-license-tool # Tooling to manage the `LICENSE-3rdpart
+y.csv` file for DataDog's Rust projects https://github.com/datadog/synthetics-test-automation-circleci-orb # CircleCI Orb for
+running the Datadog Synthetics tests on builds https://github.com/datadog/flask-realworld-example-app # Exemplary real world JSON AP
+I built with Flask (Python) https://github.com/datadog/homebrew-datadog-agent-macos-build #
+https://github.com/datadog/cloudcraft-python # Python client for the Cloudcraft devel
+oper API. https://github.com/datadog/ci-visibility-azure-pipelines # Quickly connect your Azure
+Pipelines to Datadog to gain comprehensive visibility into the performance of your pipelines, stages, and jobs https://github.com/datadog/datadog-agent-ecs-task-patcher # CWS Fargate task definiti
+on patcher https://github.com/datadog/terraform-modules-datadog-security # Terraform modules for
+integrating Datadog security products with cloud providers https://github.com/datadog/libddwaf-java # libddwaf bindings for Java
+https://github.com/datadog/catadog # cat'a-dog - a semantic-aware tool for tracing li
+brary development and diagnostic https://github.com/datadog/dd-sdk-roku # Datadog SDK for Roku (Brightscript and Scene
+Graph) https://github.com/datadog/azure-devops-monitor-gate-extension # The Azure Devops ext
+ension for adding Datadog monitors as gates. Includes a listing as well as the source code. https://github.com/datadog/datadog-labs-jp #
+https://github.com/datadog/opw-terraform # Terraform manifests for installing the Obs
+ervability Pipelines Worker. https://github.com/datadog/opentelemetry-swift-packages # Builds and distribute opent
+elemetry-swift packages as XCFramework, Cocoapods and Carthage. https://github.com/datadog/swift-test-action # Github action to run your Swift or Obj
+-C tests using CI Visibility https://github.com/datadog/datadog-for-visual-studio #
+https://github.com/datadog/datadog-firehose-nozzle # CF component to forward metrics
+from the Loggregator Firehose to Datadog https://github.com/datadog/rum-profiler-poc # This is a PoC of RUM Profiler. This rep
+ository will be deleted in the future, please do not depend on it. https://github.com/datadog/kics #
+https://github.com/datadog/datadog-agent-boshrelease # Bosh release for Datadog Agent
+https://github.com/datadog/sync-upstream-release-tag # Action to automatically create
+tag in a forked repo for the latest upstream release https://github.com/datadog/crpb #
+https://github.com/datadog/datadog-sca-github-action # GitHub Action for Software Com
+position Analysis https://github.com/datadog/datadog-cloud-resource-tagger-action # Github Action for d
+atadog-cloud-resource-tagger repository https://github.com/datadog/hatch-datadog-build-metadata # Hatch build plugin for sour
+ce code metadata used by APM https://github.com/datadog/dc-polyfill # A Node.js package providing a polyfill for d
+iagnostics_channel / TracingChannel https://github.com/datadog/serverless-dash-pre-workshop-setup # pre-workshop setup sc
+ript to help facilitate the creation of github apps for workshop attendees https://github.com/datadog/ssss-paper-code #
+https://github.com/datadog/dd-continuous-profiler-dash2023 # Example service used for
+the "Diagnose and Optimize CPU Performance with Continuous Profiler" workshop at Dash 2023 https://github.com/datadog/apm-transport-stress-tests # Stress and chaos testing the
+tracer UDS implementations https://github.com/datadog/hello-datadog-cf-ruby # a sample Cloud Foundry app with do
+gstatsd https://github.com/datadog/dd-asm-samples # Application examples to evaluate Datadog'
+s security products https://github.com/datadog/otel_demo_server # Sample demonstration application for Ja
+va tracer Open Telemetry support https://github.com/datadog/datadog-cdk-constructs-go #
+https://github.com/datadog/fastapi-realworld-example-app # Exemplary real world JSON
+API built with FastAPI (Python) https://github.com/datadog/pysigma-backend-datadog # Datadog PySigma Backend
+https://github.com/datadog/test-visibility-gitlab-script # Bash script that installs
+and configures Datadog Test Visibility for GitLab https://github.com/datadog/datadog-lambda-go-terraform-reference-implementation # A r
+eference implementation for Datadog Lambda Go, deployed using Terraform. https://github.com/datadog/terraform-aws-lambda-datadog # Terraform module to install
+Datadog Serverless Monitoring for AWS Lambda https://github.com/datadog/httpd-datadog # Enhance Apache HTTPD Observability with Da
+tadog's Module https://github.com/datadog/appsec-internal-go # Shared code between all flavors of Ap
+pSec Go (in-tracer, serverless, etc...). Meant for internal use. https://github.com/datadog/dbm-examples #
+https://github.com/datadog/dd-continuous-profiler-dash2022 # Example service used for
+the "Diagnose and Optimize CPU Performance with Continuous Profiler" workshop at Dash 2022 https://github.com/datadog/images-rb # Ruby-specific Docker images
+https://github.com/datadog/node-leak-detector # A memory/resource leak detector for N
+ode.js applications https://github.com/datadog/test-visibility-install-script # Script that installs Data
+dog tracing libraries and prints environment variables necessary for configuring Test Visibility https://github.com/datadog/ci-teamcity-plugin #
+https://github.com/datadog/fliphash-rs # An implementation of FlipHash in Rust
+https://github.com/datadog/cloudcraft-node # Node.js client for the Cloudcraft develo
+per API. https://github.com/datadog/synthetics-browser-extension # CRX file for the Synthetics
+Test Recorder extension. https://github.com/datadog/docker-dd-agent-build-deb-x64 #
+https://github.com/datadog/dd-native-appsec-js # Node.js bindings for libddwaf
+https://github.com/datadog/libddwaf-rb # Bindings to libddwaf for Ruby
+https://github.com/datadog/datadog-aas-linux # Datadog option for submitting traces a
+nd metrics from Azure App Service Linux https://github.com/datadog/sketches-dotnet # This repo contains .NET implementations
+of the distributed quantile sketch algorithm DDSketch. https://github.com/datadog/demo-static-analysis-python # Demonstration for the static
+analysis product https://github.com/datadog/oracle-cloud-integration # Houses code for OCI's log colle
+ction. https://github.com/datadog/synthetics-test-automation-bitrise-step-upload-application
+
+# https://github.com/datadog/qlpack # Code Scanning QL Packs for public Datadog GitHub
+
+repositories https://github.com/datadog/datadog-signing-keys # Source for datadog-signing-keys DEB
+package https://github.com/datadog/prof-correctness # Tests for Datadog's profilers
+https://github.com/datadog/terraform-module-datadog-agentless-scanner # Terraform mod
+ule to setup the Datadog Agentless Scanner https://github.com/datadog/datadog-application-monitoring-pivotal-tile # Send Cloud F
+oundry Application Metrics, Logs and Traces to Datadog! https://github.com/datadog/github-actions # This repository contains a collection of
+GitHub actions used in public repositories. https://github.com/datadog/datadog-api-client-generator #
+https://github.com/datadog/dotnet-vendored-code #
+https://github.com/datadog/datadog-firehose-nozzle-release # BOSH release for datadog
+-firehose-nozzle https://github.com/datadog/datadog-cluster-agent-boshrelease # Bosh release for Datad
+og Cluster Agent https://github.com/datadog/datadog-cluster-monitoring-pivotal-tile #
+https://github.com/datadog/bad-boggle-solver # A toy project to benchmark usage of pr
+ofiling https://github.com/datadog/datadog-agent-orb # CircleCI Orb for running the Datadog A
+gent on builds https://github.com/datadog/dotnet-aas-samples # Datadog Dotnet AAS samples app
+https://github.com/datadog/test-visibility-circleci-orb # CircleCI orb that installs
+and configures Datadog Test Visibility https://github.com/datadog/logs-psa # examples, docs, POCs, demos, etc
+https://github.com/datadog/action-prebuildify # Action to generate prebuilds for a No
+de native add-on https://github.com/datadog/docker-dd-agent-build-rpm-x64 #
+https://github.com/datadog/windows-dotnet-reliability-config #
+https://github.com/datadog/datadog-labs-sg #
+https://github.com/datadog/dd-continuous-profiler-dash2024 # Example service used for
+the "Diagnose and Optimize CPU Performance with Continuous Profiler" workshop at Dash 2024 https://github.com/datadog/crashtracking-repro #
+https://github.com/datadog/test-github-settings-fork #
+https://github.com/datadog/tps-training-diagrams #
+https://github.com/datadog/webshell-detector # Stores static analysis rules for web s
+hell detection and test corpus of web shell code. https://github.com/datadog/ci-visibility-circle-ci # Quickly connect Circle CI to Dat
+adog to gain comprehensive visibility into the performance of your pipelines https://github.com/datadog/go-runtime-metrics-internal # Library to export metrics fr
+om the Go runtime to Datadog https://github.com/datadog/devsecops-workshop # Code and files for the devsecops work
+shop for DASH24 https://github.com/datadog/datadog-static-analyzer-circleci-orb # https://docs.datado
+ghq.com/continuous_integration/

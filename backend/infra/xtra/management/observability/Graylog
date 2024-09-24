@@ -1,0 +1,117 @@
+https://github.com/graylog2/graylog2-server # Free and open log management
+https://github.com/graylog2/docker-compose # A set of Docker Compose files that allow
+you to quickly spin up a Graylog instance for testing or demo purposes. https://github.com/graylog2/graylog-docker # Official Graylog Docker image
+https://github.com/graylog2/collector-sidecar # Manage log collectors through Graylog
+https://github.com/graylog2/graylog-ansible-role # Ansible role which installs and co
+nfigures Graylog https://github.com/graylog2/graylog-plugin-threatintel # Graylog Processing Pipeline
+functions to enrich log messages with IoC information from threat intelligence databases https://github.com/graylog2/graylog-plugin-aws # Several bundled Graylog plugins to i
+ntegrate with different AWS services like CloudTrail and FlowLogs. https://github.com/graylog2/graylog-guide-syslog-linux # How to send syslog from Linu
+x systems into Graylog https://github.com/graylog2/graylog2-cookbook # Chef recipes to deploy Graylog
+https://github.com/graylog2/graylog-guide-ubiquity-unify-ap # How to receive and pars
+e Ubiquity Unify Access Point logs with Graylog https://github.com/graylog2/gelfclient # GELF client library for Java based on Netty
+4 https://github.com/graylog2/graylog-guide-snort # How to send structured Snort IDS al
+ert logs into Graylog https://github.com/graylog2/graylog-guide-rails # Guide about how to get Ruby On Rail
+s logs into Graylog https://github.com/graylog2/graylog-guide-syslog-kafka # This Guide will give you lit
+tle help on using Graylog with Kafka Input to get Syslog Data https://github.com/graylog2/jadconfig # Annotation-driven configuration library for t
+he Java programming language https://github.com/graylog2/graylog-project-cli # CLI tool for graylog-project
+https://github.com/graylog2/graylog-project # Packaging/development helper for Graylo
+g https://github.com/graylog2/graylog-plugin-beats # [DEPRECATED] Elastic Beats Input p
+lugin for Graylog https://github.com/graylog2/graylog-guide-windows-eventlog # How to send Windows Even
+tLogs into Graylog https://github.com/graylog2/fpm-recipes # Graylog package build recipes
+https://github.com/graylog2/graylog-plugin-collector # Collector plugin for Graylog
+https://github.com/graylog2/graylog-plugin-integrations # A collection of open source
+Graylog integrations that will be released together. https://github.com/graylog2/graylog-s3-lambda # An AWS Lambda function that reads log
+s from S3 and sends them to Graylog https://github.com/graylog2/graylog-plugin-sample # Sample plugin for Graylog 2.0 inc
+luding web ui parts. https://github.com/graylog2/graylog-guide-ossec # How to write OSSEC alerts into Gray
+log https://github.com/graylog2/graylog-plugin-cef # [DEPRECATED] CEF (Common Event Forma
+t) input plugin for Graylog https://github.com/graylog2/graylog-guide-syslog-amqp # How to use send Syslog messag
+es via AMQP to Graylog https://github.com/graylog2/puppet-graylog # Install and configure a Graylog system v
+ia Puppet https://github.com/graylog2/frontend-documentation # Graylog frontend documentation a
+nd component gallery https://github.com/graylog2/graylog-training-data # Houses public facing Graylog Acad
+emy Training data for course specific purposes https://github.com/graylog2/graylog-guide-docker # [DEPRECATED] Guide about how to g
+et Docker logs into Graylog https://github.com/graylog2/graylog-schema # Repository for Graylog Schema files and
+Documentation https://github.com/graylog2/se-poc-docs # SEs Documentation for POCs
+https://github.com/graylog2/illuminate-documentation #
+https://github.com/graylog2/sawmill-sd # sd design system
+https://github.com/graylog2/ctf-handbook #
+https://github.com/graylog2/graylog-guide-chef # Chef handler to send events to Grayl
+og via GELF HTTP https://github.com/graylog2/actions # Custom public GitHub actions
+https://github.com/graylog2/prettier-config # A shared prettier config for Graylog pr
+ojects https://github.com/graylog2/.github #
+https://github.com/graylog2/auto-value-javabean # Auto Value extension to automatical
+ly generate getters conforming to the JavaBean standard https://github.com/graylog2/tsconfig # Shared TypeScript config for Graylog projects
+https://github.com/graylog2/reviewbot #
+https://github.com/graylog2/graylog-playground # Nothing in here is supported, useful
+, free of malware, or providing value in any way.
+
+https://github.com/graylog-labs/cli-dashboard # A Graylog stream dashboard that runs
+in your shell. https://github.com/graylog-labs/gelf-rb # Ruby GELF library (Graylog Extended Log For
+mat) https://github.com/graylog-labs/graylog-plugin-slack # Graylog alarm callback for Sla
+ck https://github.com/graylog-labs/graylog-plugin-spaceweather # Ever needed a proof tha
+t a solar storm made a bit flip and your code crash? Now you can! Correlate proton density to the response time of your app and the ion temperature to your exception rate. https://github.com/graylog-labs/syslog4j-graylog2 # The syslog4j fork from Graylog2.
+This is used since 0.10.0. The original code was very "special" and no actions were taken to improve it. This is planned to be replaced completely in future versions. https://github.com/graylog-labs/apache-mod_log_gelf # Apache2 module for writing acce
+ss logs to Graylog https://github.com/graylog-labs/graylog-plugin-snmp # Graylog plugin to receive SNMP
+traps https://github.com/graylog-labs/shadowca # Create a CA and Certificates to use in you
+r Infrastructure https://github.com/graylog-labs/graylog-plugin-metrics # Graylog output plugin for Gr
+aphite and Ganglia https://github.com/graylog-labs/graylog-plugin-mongodb-profiler # Graylog input plugi
+n that reads MongoDB profiler data https://github.com/graylog-labs/check-graylog2-stream # Icinga/Nagios check to monito
+r Graylog2 stream alerts https://github.com/graylog-labs/graylog-plugin-redis # Redis plugin for Graylog
+https://github.com/graylog-labs/graylog-plugin-mqtt # MQTT Input Plugin for Graylog
+https://github.com/graylog-labs/graylog-plugin-internal-logs # Graylog plugin to reco
+rd internal logs of Graylog efficiently instead of sending them over the network https://github.com/graylog-labs/graylog-plugin-splunk # Graylog output plugin that fo
+rwards one or more streams of data to Splunk via TCP. https://github.com/graylog-labs/graylog-plugin-dnsresolver # Message filter plugin to
+reverse lookup the source field https://github.com/graylog-labs/graylog-plugin-hipchat # Alarm callback that is writi
+ng to HipChat chatrooms https://github.com/graylog-labs/graylog-contentpack-cisco-catalyst # Graylog content
+pack for Cisco Catalyst devices https://github.com/graylog-labs/jest-elasticsearch-rest # [WIP] Elasticsearch low-lev
+el REST client adapter for Jest https://github.com/graylog-labs/graylog-plugin-twitter # Graylog input plugin that re
+ads Twitter messages based on keywords in realtime https://github.com/graylog-labs/graylog-plugin-riemann # Graylog2 output plugin to se
+nd events to a Riemann instance https://github.com/graylog-labs/graylog-vscode-extension #
+https://github.com/graylog-labs/graylog-contentpack-heroku # Graylog content pack for
+Heroku logs https://github.com/graylog-labs/metrics-gelf # A GELF reporter for the Dropwizard Met
+rics library https://github.com/graylog-labs/graylog-example-plugin-function-strlen # Example plug
+in: Pipeline function that returns the length of a string. https://github.com/graylog-labs/graylog-contentpack-haproxy # Graylog content pack to
+parse the standard HAProxy HTTP logs. https://github.com/graylog-labs/graylog-plugin-rundeck # Graylog alarm callback plugi
+n for Rundeck https://github.com/graylog-labs/graylog-playground #
+https://github.com/graylog-labs/apollo # The Graylog support data collector
+https://github.com/graylog-labs/graylog-plugin-nats # NATS plugin for Graylog
+https://github.com/graylog-labs/regex-library-shootout # Simple comparison benchmarks
+for various regex-based operations https://github.com/graylog-labs/graylog-plugin-twiliosms # Transport that sends alarm
+s via the Twilio SMS API https://github.com/graylog-labs/udpcat # CLI utility to send text files to a remote h
+ost via UDP, one packet per line https://github.com/graylog-labs/graylog-plugin-jabber # Jabber Alarmcallback Plugin f
+or Graylog https://github.com/graylog-labs/svloggelfd # Sends service log messages as UDP/GELF t
+o a Graylog server https://github.com/graylog-labs/graylog-mpproxy-messina # Bunyan (node.js) GELF suppo
+rt https://github.com/graylog-labs/java-compression-benchmarks #
+https://github.com/graylog-labs/eaio-uuid # Fork of eaio-uuid that works with Java 9+
+https://github.com/graylog-labs/graylog-plugin-ipanonymizer # A graylog-server plugin
+that replaces the last octet of IP addresses in messages with xxx https://github.com/graylog-labs/graylog-contentpack-rails # Content pack for this off
+icial guide: https://marketplace.graylog.org/addons/2a5a0954-96f7-4c86-895b-a44e358a9571 https://github.com/graylog-labs/graylog-plugin-filter-messagesize # A filter plugin t
+hat identifies messages with an estimated size over a certain threshold. https://github.com/graylog-labs/graylog-plugin-zeromq # ZeroMQ integration for Graylo
+g https://github.com/graylog-labs/elastic-client-compat-test #
+https://github.com/graylog-labs/bulk-asset-upload # Script to bulk upload assets from
+a csv https://github.com/graylog-labs/graylog-plugin-discardprocessor #
+https://github.com/graylog-labs/graylog-mpproxy-log4perlgelf # Log::Log4perl::Layout:
+:GELF https://github.com/graylog-labs/esbenchmarks # Benchmarks for different Elasticsearch
+bulk indexing implementations in Graylog. https://github.com/graylog-labs/graylog-mpproxy-logbackgelf # Logback plugin to send
+GELF messages https://github.com/graylog-labs/log-replay # Replay script for sending log files into
+Graylog https://github.com/graylog-labs/graylog-mpproxy-nodegraylog # GELF library for node.j
+s https://github.com/graylog-labs/graylog-mpproxy-graypy # Python GELF logging handler
+https://github.com/graylog-labs/graylog-plugin-internal-qa # QA Plugin for Graylog
+https://github.com/graylog-labs/jest-okhttp # [WIP] OkHttp adapter for Jest
+https://github.com/graylog-labs/graylog-utility-scripts # Utility scripts for Graylog
+https://github.com/graylog-labs/graylog-mpproxy-gelf4j # GELF Log4j appender
+https://github.com/graylog-labs/graylog-plugin-certificate-transparency #
+https://github.com/graylog-labs/graylog-mpproxy-gelfhandler # Python GELF library
+https://github.com/graylog-labs/elasticsearch-http-playground # Playground for Elasti
+csearch HTTP clients https://github.com/graylog-labs/graylog-plugin-output-http #
+https://github.com/graylog-labs/graylog-mpproxy-erlgraylogsender # Erlang Graylog sen
+der https://github.com/graylog-labs/benchmark-cef-parsing #
+https://github.com/graylog-labs/capybara-travis-test # Testing capybara + headless ch
+rome + travis https://github.com/graylog-labs/proto-netty-sample #
+https://github.com/graylog-labs/graylog-mpproxy-easygelf # GELF for log4net and NLog
+https://github.com/graylog-labs/graylog-mpproxy-gelf4cplus # GELF library for C++
+https://github.com/graylog-labs/osdc-2015-demo # Demo setup for the OSDC 2015 confere
+nce https://github.com/graylog-labs/graylog-mpproxy-log4jsnode # GELF support for log4js-
+node https://github.com/graylog-labs/graylog-mpproxy-monolog-gelf # Monolog GelfHandler (P
+HP/Monolog) https://github.com/graylog-labs/graylog-mpproxy-hubottranscript # Log all Hubot chat
+messages to Graylog https://github.com/graylog-labs/jest-benchmarks #
+https://github.com/graylog-labs/json-benchmarks #

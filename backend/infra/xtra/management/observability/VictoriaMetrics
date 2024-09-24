@@ -1,0 +1,20 @@
+https://github.com/victoriametrics/victoriametrics # VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+
+https://github.com/victoriametrics/fastcache # Fast thread-safe inmemory cache for bi
+g number of entries in Go. Minimizes GC overhead https://github.com/victoriametrics/metrics # Lightweight alternative to github.com/pr
+ometheus/client_golang https://github.com/victoriametrics/operator # Kubernetes operator for Victoria Metric
+s https://github.com/victoriametrics/helm-charts # Helm charts for VictoriaMetrics, Vic
+toriaLogs and ecosystem https://github.com/victoriametrics/metricsql # Standalone PromQL and MetricsQL parser
+https://github.com/victoriametrics/prometheus-benchmark # Benchmark for Prometheus-co
+mpatible systems https://github.com/victoriametrics/easyproto # Simple building blocks for protobuf ma
+rshaling and unmarshaling https://github.com/victoriametrics/victoriametrics-datasource # Grafana datasource fo
+r VictoriaMetrics https://github.com/victoriametrics/ansible-playbooks # Ansible Playbooks for Victoria
+Metrics monorepo https://github.com/victoriametrics/victorialogs-datasource # Grafana datasource for V
+ictoriaLogs https://github.com/victoriametrics/vmctl # Victoria Metrics command line tool
+https://github.com/victoriametrics/vmui # UI monorepo for VictoriaMetrics
+https://github.com/victoriametrics/billy # Billy benchmarks for VictoriaMetrics
+https://github.com/victoriametrics/metrics-java #
+https://github.com/victoriametrics/slack2logs #
+https://github.com/victoriametrics/victoriametrics-boshrelease # VictoriaMetrics BOSH
+Release https://github.com/victoriametrics/victoriametrics.github.io # https://victoriametric
+s.github.io https://github.com/victoriametrics/.github #

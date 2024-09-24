@@ -1,1 +1,468 @@
+https://github.com/redislabs-solution-architects/redis-workshops # Learn Redis Enterprise and Redis Stack with simple Google Colab notebooks
+https://github.com/redislabs-solution-architects/ecstats2 #
+https://github.com/redislabs-solution-architects/vss-ops # Various Vector Similarity Search examples
+https://github.com/redislabs-solution-architects/redis-spring-data-handsonlab # Building lightning-fast applications lighting-fast with Redis and Spring Data
+https://github.com/redislabs-solution-architects/osstats #
+https://github.com/redislabs-solution-architects/rediscogs # RediSearch demo based on data from discogs.com
+https://github.com/redislabs-solution-architects/redisbank # A simple mobile banking application using Redis Enterprise.
+https://github.com/redislabs-solution-architects/ecstats #
+https://github.com/redislabs-solution-architects/redis-connect # A collection of redis client samples
+https://github.com/redislabs-solution-architects/specialist-solution-workshops # Content and code repository for SA Specialist Solution Workshops
+https://github.com/redislabs-solution-architects/redisbank-microservices # A distributed retail banking application using Redis Enterprise
+https://github.com/redislabs-solution-architects/redis-enterprise-cloud-gcp #
+https://github.com/redislabs-solution-architects/openshift_crdb # How to create an Active-active (CRDB) between two Openshift clusters using the Redis Enterprise REST API.
+https://github.com/redislabs-solution-architects/dnstracer # Automated checker of delegates subdomains
+https://github.com/redislabs-solution-architects/adgears # Example of how to maximize Ad Revenue using Gears/Streams/Bloom Filters
+https://github.com/redislabs-solution-architects/msstats #
+https://github.com/redislabs-solution-architects/redis-streams-ws # Redis Streams with Websockets
+https://github.com/redislabs-solution-architects/gcp-retail-solution #
+https://github.com/redislabs-solution-architects/redisdi-docker # Build script for RedisDI docker environment
+https://github.com/redislabs-solution-architects/ratelimitingexample #
+https://github.com/redislabs-solution-architects/rate_limiting_demo #
+https://github.com/redislabs-solution-architects/acrp2acre # Python script to gather stats for Azure Cache for Redis Premium and lower tiers
+https://github.com/redislabs-solution-architects/securities_portfolio_data_model #
+https://github.com/redislabs-solution-architects/debezium-monitoring # Grafana dashboards for Debezium JMX metrics
+https://github.com/redislabs-solution-architects/acre-terraform-geo-replication # Deploy Azure Cache for Redis Enterprise (ACRE) in two separate regions with active geo-replication
+https://github.com/redislabs-solution-architects/hands-on-labs-redis-aws-sagemaker # Hands on labs for Redis AWS Webinars, Immersion Days etc
+https://github.com/redislabs-solution-architects/rediscrdtdemo # Dockerized and k8s-ready version of Roshan's CRDT Demo App: Star Wars planets version.
+https://github.com/redislabs-solution-architects/stream-slam # Slam a bunch of messages through redis streams
+https://github.com/redislabs-solution-architects/redis-pulsar # Redis + Apache Pulsar integration
+https://github.com/redislabs-solution-architects/gcp-microservices-demo #
+https://github.com/redislabs-solution-architects/redis-aws-bedrock-workshop # This is a workshop designed for you to learn about Redis and Amazon Bedrock.
+https://github.com/redislabs-solution-architects/handsonlab-spring # Redis Labs Hands-On Lab using Spring
+https://github.com/redislabs-solution-architects/redisearch_demo_and_preso #
+https://github.com/redislabs-solution-architects/acre-sql-demo # Basic implementation of write-behind architecture using ACRE. This was based on the basic leaderboard demo
+https://github.com/redislabs-solution-architects/bdb-usage-sizing # Simple bash script which leverages the REST API to report on the usage and sizing of BDBs in one or more Redis Enterprise Clusters.
+https://github.com/redislabs-solution-architects/tfmodule-azure-redis-enterprise # Public Azure Instance setup
+https://github.com/redislabs-solution-architects/redis-locust # Collection of locustfiles and utilities for using locust.io to test Redis
+https://github.com/redislabs-solution-architects/redisaml #
+https://github.com/redislabs-solution-architects/aws-microservices-workshop-images #
+https://github.com/redislabs-solution-architects/docdevdemo # Basic JSON/Search CRUD ops from multiple different interfaces
+https://github.com/redislabs-solution-architects/bloom_deduplication #
+https://github.com/redislabs-solution-architects/redis-aws-game-dev-day-workshop # Workshop material for joint Redis/AWS game developer day
+https://github.com/redislabs-solution-architects/acre-terraform-cron-replication # Deploy Azure Cache for Redis Enterprise (ACRE) in two separate regions with scheduled replication from primary to secondary.
+https://github.com/redislabs-solution-architects/redisinfo #
+https://github.com/redislabs-solution-architects/re-rdi-k8s # Build script with step by step explanation of deployment of Redis Enterprise + Redis Data Integration on K8s
+https://github.com/redislabs-solution-architects/logstashconfig # Example of pulling in Redis Enterprise Logstash log
+https://github.com/redislabs-solution-architects/rdi-quickstart-postgres #
+https://github.com/redislabs-solution-architects/openshift-route-to-redis # How to expose a Redis Enterprise database for use outside of Openshift K8s
+https://github.com/redislabs-solution-architects/cryptomodule #
+https://github.com/redislabs-solution-architects/elasticache-riot-acre # Use RIOT for a live migration from Elasticache to Azure Cache for Redis Enterprise (ACRE)
+https://github.com/redislabs-solution-architects/acre-arm # ARM templates for Azure Cache for Redis Enterprise
+https://github.com/redislabs-solution-architects/redis-analyzer # DB/key analyzer
+https://github.com/redislabs-solution-architects/redconn # Connectivity and failover tester for Redis
+https://github.com/redislabs-solution-architects/document-lookaside # Example lookaside cache implementation with MongoDB
+https://github.com/redislabs-solution-architects/selfserveenterprise # Example of a self service enterprise portal
+https://github.com/redislabs-solution-architects/doc-dev-calc #
+https://github.com/redislabs-solution-architects/openai-notebook #
+https://github.com/redislabs-solution-architects/cloud-sa-vss-labs # A repo to hold Jupyter notebooks for Cloud efforts
+https://github.com/redislabs-solution-architects/acre-deploy-with-alerts #
+https://github.com/redislabs-solution-architects/mappingworkshop # Mapping Workshop
+https://github.com/redislabs-solution-architects/consumptionreportredisenterprise #
+https://github.com/redislabs-solution-architects/redis-vss-getting-started #
+https://github.com/redislabs-solution-architects/retail_banking_data_model #
+https://github.com/redislabs-solution-architects/osscluster2rl # Grab Data from an OSS Cluster necessary to convert it to Redis Enterprise
+https://github.com/redislabs-solution-architects/tfmodule-aws-redis-enterprise # Terraform module to setup nodes preparing for Redis Enterprise
+https://github.com/redislabs-solution-architects/ci-pipelines-enterprise-example # Examples for using RedisEnterprise in CI Pipelines
+https://github.com/redislabs-solution-architects/memtier_benchmark_framework #
+https://github.com/redislabs-solution-architects/redis-msft-labs #
+https://github.com/redislabs-solution-architects/spring-search # A spring-boot webapp showcasing Redis search functionality with Jedis
+https://github.com/redislabs-solution-architects/terraform-aws-redislabs-cloud-account-iam-resources # Terraform module to create AWS resources for a Redis Labs Cloud Account
+https://github.com/redislabs-solution-architects/openshift-gcp #
+https://github.com/redislabs-solution-architects/aws-fraud-detection # Utility codes for the AWS Fraud Detection blog post
+https://github.com/redislabs-solution-architects/ioredis-search # Demo of search functionality with the ioredis client lib
+https://github.com/redislabs-solution-architects/dbadmin # Redis Enterprise database admin tool
+https://github.com/redislabs-solution-architects/presto-redis # Configuration to connect Presto to Redis
+https://github.com/redislabs-solution-architects/redisentrpr-openshift-community-distribution #
+https://github.com/redislabs-solution-architects/prometheus-grafana-redis-enterprise # Simple docker-compose setup to pull Redis Enterprise metrics via prometheus into grafana. I am mainly using with rl-docker for local fun.
+https://github.com/redislabs-solution-architects/demo-streams-redistimeseries-grafana #
+https://github.com/redislabs-solution-architects/redis_dotnet_demos # Redis dotnet demo with StackExchange.Redis
+https://github.com/redislabs-solution-architects/spring-batch-redisearch # Spring Batch reader and writer for RediSearch
+https://github.com/redislabs-solution-architects/upscale-rec-post-email-notification #
+https://github.com/redislabs-solution-architects/redis-enterprise-capacity-planning #
+https://github.com/redislabs-solution-architects/kafka2redis # A simple Python and Flask app for ingesting from Kafka, storing in Redis, and supporting search
+https://github.com/redislabs-solution-architects/azureopenai-notebook #
+https://github.com/redislabs-solution-architects/redispring-music # Spring Boot demo using Redis Enterprise and Pivotal Cloud Foundry (PCF)
+https://github.com/redislabs-solution-architects/retile # Like tile replicator, but for Redis Enterprise tiles
+https://github.com/redislabs-solution-architects/azure-iot-redis-edge # Azure IoT Edge RedisEdge Module
+https://github.com/redislabs-solution-architects/gears-average-field # Demonstrate averaging fields as they are collected
+https://github.com/redislabs-solution-architects/redis-timeseries-stock # Demo of Redis TimeSeries capabilities to generate candlestick data information out of price value stored in Redis TimeSeries, feeding ApexCharts.
+https://github.com/redislabs-solution-architects/redrest # REST API for Redis and Redis Modules
+https://github.com/redislabs-solution-architects/fast_failover_client # Redis failover test client
+https://github.com/redislabs-solution-architects/acre-terraform-geo-replication-simple # Deploy Azure Cache for Redis Enterprise (ACRE) in two separate regions with active geo-replication
+https://github.com/redislabs-solution-architects/re-aa # ACRE Active-Active cluster
+https://github.com/redislabs-solution-architects/terraform_aws_memtier_benchmark # Install memtier_benchmark on an AWS EC2 instance in the default VPC
+https://github.com/redislabs-solution-architects/speedtest # RediSearch execution time comparison - numeric vs tag
+https://github.com/redislabs-solution-architects/json-search-demo # This is a Demo Magic driven script for running a JSON and Search demo without having to type the queries.
+https://github.com/redislabs-solution-architects/feast-credit-scoring-demo # Demo of credit scoring with Redis and Feast
+https://github.com/redislabs-solution-architects/rdirejectedmessageconsumer #
+https://github.com/redislabs-solution-architects/appointment-directory # appointment-directory
+https://github.com/redislabs-solution-architects/spring-boot-cache # Sample application using Redis as the data store for Spring Boot cache.
+https://github.com/redislabs-solution-architects/terraform-aws-ec-to-acre-demo # Simple schematic demo showing migration from elasticache to ACRE
+https://github.com/redislabs-solution-architects/azure-openshift-redis-enterprise-delivery #
+https://github.com/redislabs-solution-architects/security-search-node # A Node.js and express app to index and search securities data
+https://github.com/redislabs-solution-architects/aws-redis-vss-labs #
+https://github.com/redislabs-solution-architects/acrs-riot-acre #
+https://github.com/redislabs-solution-architects/stream-demo # Demo of Redis streams using Spring Data Redis
+https://github.com/redislabs-solution-architects/aks-terraform-default #
+https://github.com/redislabs-solution-architects/qwiklabs # Storing assets for Qwiklabs courses
+https://github.com/redislabs-solution-architects/vss-sizer # Tool for gaining intuition on VSS index memory usage
+https://github.com/redislabs-solution-architects/rdi-arcion-k8s # Scripts for building a local K8s environment of RE, RDI, MSSQL, and Arcion Replicant.
+https://github.com/redislabs-solution-architects/redis-enterprise-demos #
+https://github.com/redislabs-solution-architects/aws-microservices-workshop-hugo #
+https://github.com/redislabs-solution-architects/hands-on-labs-aws-dms-redis # hands-on-labs-aws-dms-redis
+https://github.com/redislabs-solution-architects/jedis-csv-loader #
+https://github.com/redislabs-solution-architects/run_riot # Terraform artifacts to create an EC2 instance to run Redislabs RIOT
+https://github.com/redislabs-solution-architects/acre-retail-solution #
+https://github.com/redislabs-solution-architects/acre-terraform-geo-replication-migration #
+https://github.com/redislabs-solution-architects/azure-container-registry-terraform #
+https://github.com/redislabs-solution-architects/redis-enterprise-aks-terraform #
+https://github.com/redislabs-solution-architects/micro-redis #
+https://github.com/redislabs-solution-architects/docker-springboot # Spring boot docker example
+https://github.com/redislabs-solution-architects/geosearchexample #
+https://github.com/redislabs-solution-architects/gcp_redis_enterprise # Walk through of the pre-reqs and steps of setting up a GCP Marketplace-based Redis Enterprise subscription and DBs.
+https://github.com/redislabs-solution-architects/jupyter-notebooks #
+https://github.com/redislabs-solution-architects/redis-connect-k8s-helpers # Some helpful configs and scripts when using Redis Connect in K8s
+https://github.com/redislabs-solution-architects/keyslot # Utility for calculating slot + node for a key in a OSS Cluster.
+https://github.com/redislabs-solution-architects/redis-observer # Use Redis to track usage of python scripts
+https://github.com/redislabs-solution-architects/gcp-microservices-demo-qwiklabs # MIrcoservices demo for Qwiklabs
+https://github.com/redislabs-solution-architects/leaderboard # Distributed leaderboard
+https://github.com/redislabs-solution-architects/openshiftokd # Openshift Install
+https://github.com/redislabs-solution-architects/gears-embed # Demo of use of Redis Functions for vector embeddings
+https://github.com/redislabs-solution-architects/redis-java-samples # Command line app demonstrating the different uses and best practices with the Lettuce Redis client
+https://github.com/redislabs-solution-architects/cloudformation-aws-redislabs-cloud-account-iam-resources #
+https://github.com/redislabs-solution-architects/acre-terraform-clusterpolicy #
+https://github.com/redislabs-solution-architects/tech_exercise_terraform #
+https://github.com/redislabs-solution-architects/acrp-terraform-simple #
+https://github.com/redislabs-solution-architects/doc-memory-footprint # RediSearch memory footprint comparator
+https://github.com/redislabs-solution-architects/cluster-func # Demonstration of writes from Redis Trigger/function with RE and RE w/OSS Cluster API
+https://github.com/redislabs-solution-architects/acre-demo #
+https://github.com/redislabs-solution-architects/easy-acre-geo-replication # Deploy Azure Cache for Redis Enterprise (ACRE) in two separate regions with active geo-replication, using a deployment template.
+https://github.com/redislabs-solution-architects/redisbulkoperation #
+https://github.com/redislabs-solution-architects/redis-client-side-caching-csc-jedis-demo # Gabriel Cerioni (SA) demo for Jedis CSC with GuavaClientSideCache - Please use Redis 7.4+
+https://github.com/redislabs-solution-architects/bifass # Sample Golang code for simulating a high-performance interbank fund transfer service
+https://github.com/redislabs-solution-architects/cfn-step-by-step-go # Go implementation of the "Writing an AWS CloudFormation Resource Provider in Python: Step by Step"
+https://github.com/redislabs-solution-architects/redischocos #
+https://github.com/redislabs-solution-architects/crdt-humidity #
+https://github.com/redislabs-solution-architects/tfmodule-azure-re-dns #
+https://github.com/redislabs-solution-architects/azure-base #
+https://github.com/redislabs-solution-architects/tfmodule-aws-redienterprise-route53 # Properly setup route53 DNS for Redis Enterprise
+https://github.com/redislabs-solution-architects/.github # placeholder for master level readme
+https://github.com/redislabs-solution-architects/spring-boot-redisearch-example # Sample SpringBoot code with low-level access to Jedis library, executing RediSearch commands.
+https://github.com/redislabs-solution-architects/cc_zendesk #
+https://github.com/redislabs-solution-architects/active-geo-replication-demo # Active Geo-replication using User Profile application deployed in two different regions each pointing to their respective ACRE clusters
+https://github.com/redislabs-solution-architects/sample-fitnessapp-json-search # Searching and aggregating data in fitness application
+https://github.com/redislabs-solution-architects/bdb-sizing-java # Sizing Script In Java
+https://github.com/redislabs-solution-architects/redis-dotnet-examples #
+
+https://github.com/redis-field-engineering/redis-smart-cache # Transparent SQL caching proxy for Redis
+https://github.com/redis-field-engineering/redis-connect-dist # Real-Time Event Streaming & Change Data Capture
+https://github.com/redis-field-engineering/redis-sql-trino # Real-time Indexed SQL Queries for Redis
+https://github.com/redis-field-engineering/redis-kafka-connect # Redis Kafka Connector (Source and Sink) by Redis
+https://github.com/redis-field-engineering/redis-sql-odbc-dist # Cross Platform SQL Driver for Redis
+https://github.com/redis-field-engineering/demo-microservices-saga #
+https://github.com/redis-field-engineering/redis-graphql # GraphQL Service for Redisearch
+https://github.com/redis-field-engineering/redis-enterprise-observability # Observe Redis Enterprise and Redis Cloud deployments using Grafana, Datadog, Dynatrace, New Relic, and Splunk.
+https://github.com/redis-field-engineering/demo-market-basket-analysis # Uses RedisAI to score a market basket
+https://github.com/redis-field-engineering/redis-enterprise-docker-extension # Docker Extension for Redis Enterprise
+https://github.com/redis-field-engineering/datadog-vagrant # Setup Datadog to collect Redis Enterprise telemetry data
+https://github.com/redis-field-engineering/redis-rdb-cache-aside-demo # Cache-Aside demo using Redis Enterprise and RDBMS TestContainers
+https://github.com/redis-field-engineering/redisenterpriseprometheus # Ansible to setup prometheus and configure alerts for Redis Enterprise
+https://github.com/redis-field-engineering/demo-baseball-statcast # Example of processing Baseball Statcast with Gears in Real Time
+https://github.com/redis-field-engineering/dynatrace-activegate-for-redis-enterprise # [DEPRECATED] Dynatrace ActiveGate Extension for Redis Enterprise
+https://github.com/redis-field-engineering/redis-micrometer # Micrometer registry for Redis
+https://github.com/redis-field-engineering/redis-connect-crud-loader # A generic CRUD loader for redis-connect
+https://github.com/redis-field-engineering/redis-benchmark # Load test and benchmark Redis using Jedis
+https://github.com/redis-field-engineering/redis-streams-to-ws # Serve Redis streams as a Web socket endpoint
+https://github.com/redis-field-engineering/es-redis-proxy #
+https://github.com/redis-field-engineering/observability-playbook #
+https://github.com/redis-field-engineering/demo-microservices-fraud # Detecting Fraud using Redis backed Microservices
+https://github.com/redis-field-engineering/redis-smart-cache-cli #
+https://github.com/redis-field-engineering/redis-connect-integration-test # Integration (black-box) testing for redis-connect
+https://github.com/redis-field-engineering/failovertester # Use this to test failover and transaction times
+https://github.com/redis-field-engineering/redisconnect-splunk-hec-source-demo # Splunk Java Logging using Logback
+https://github.com/redis-field-engineering/redis-connect-custom-stage-sample # Redis Connect Custom Stage demo project
+https://github.com/redis-field-engineering/spark-redis-dist #
+https://github.com/redis-field-engineering/dns-zone-generator # Redis Enterprise DNS configuration tool for bind, Route53, Azure, etc.
+https://github.com/redis-field-engineering/homebrew-tap # Homebrew Tap for Redis Field Engineering Organization
+https://github.com/redis-field-engineering/redis-connect-geode-demo # Live Stream trading data to geode
+https://github.com/redis-field-engineering/mongo-connect-embedding-demo #
+https://github.com/redis-field-engineering/datadogredisenterprise-dockercontainer # A builder that will allow you to create a docker container that has the Datadog agent with RedisEnterprise pluign enabled
+https://github.com/redis-field-engineering/redis-connect-gemfire-function # Redis Connect Gemfire Function
+https://github.com/redis-field-engineering/new-relic-redis-enterprise # Redis Enterprise Software Plugin for NewRelic
+https://github.com/redis-field-engineering/demo-openflight-graph #
+https://github.com/redis-field-engineering/redis-connect-api-docs # REST API docs for Redis Connect
+https://github.com/redis-field-engineering/grafanaleaderboard-simplejson # A Simple JSON data source for displaying leaderboards in Grafana
+https://github.com/redis-field-engineering/redisconnect-gemfire-producer # Gemfire Producer for Redis Connect testing
+https://github.com/redis-field-engineering/redis-enterprise-monitoring-extension #
+https://github.com/redis-field-engineering/haproxy_redis_docker # A docker container for load balancing Redis with HAProxy
+https://github.com/redis-field-engineering/docker-images # Docker container configurations, images, and examples for various databases including Redis Enterprise
+https://github.com/redis-field-engineering/redis-enterprise-admin # Java admin client for Redis Enterprise
+
+https://github.com/redis-professionalservice/redis-app-studio # Redis App Studio framework development project
+https://github.com/redis-professionalservice/financial-rag-workshop # This repo contains financial workshop notebooks for demonstrating Redis capabilities for different RAG scenarios
+https://github.com/redis-professionalservice/cloud-api #
+https://github.com/redis-professionalservice/redis-vs-workshop # Demo contents for Vector Search with Redis Enterprise Workshop
+https://github.com/redis-professionalservice/cache_and_session_workshop #
+https://github.com/redis-field-engineering/.github #
+
+https://github.com/redislabs-training/ru101 # Source code and examples for Redis University RU101 Introduction to Redis Data Structures
+https://github.com/redislabs-training/ru102py # The example project for Redis University's RU102PY course.
+https://github.com/redislabs-training/ru102js # Source code for the RU102JS Redis for JavaScript Developers Course
+https://github.com/redislabs-training/ru202 # Source code for the RU202 Redis Streams Course
+https://github.com/redislabs-training/ru102j # Source code for the RU102J Redis for Java Developers Course
+https://github.com/redislabs-training/exercises-scaling-redis #
+https://github.com/redislabs-training/redis-sitesearch # Real-time search and indexing for any website
+https://github.com/redislabs-training/node-js-crash-course # The Sample Application for the Node.js Redis Crash Course.
+https://github.com/redislabs-training/ru102n # This is the course repository for Redis University RU102N, Redis for .NET Developers.
+https://github.com/redislabs-training/ru203 # Example code for the Redis University course RU203: Querying, Indexing, and Full-text Search with RediSearch.
+https://github.com/redislabs-training/keybase # Redis based knowledge base
+https://github.com/redislabs-training/ru330 # RU330: Redis Security is a course at Redis University.
+https://github.com/redislabs-training/redisfi #
+https://github.com/redislabs-training/ru204 # This is the course repository for the Redis University RU204 Storing, Querying, and Indexing JSON at Speed course.
+https://github.com/redislabs-training/dockerized-redis-cluster # Simple Docker Compose to create an OSS cluster
+https://github.com/redislabs-training/training-geo-public # This repository provides some exercises around Redis commands that are related to geospatial.
+https://github.com/redislabs-training/hitc-new-in-redis-62 # Example data and container for the What's New in Redis 6.2 Head in the Corner video.
+https://github.com/redislabs-training/redis-limiter # A simple rate limiter and benchmark using Redis Triggers and Functions
+https://github.com/redislabs-training/ioredis-demos # Demo code using the ioredis client.
+https://github.com/redislabs-training/ru402 # This is the course repository for the Redis University RU404 Redis as a Vector Database
+https://github.com/redislabs-training/redis-sitesearch-frontend # Frontend code for redis-sitesearch.
+https://github.com/redislabs-training/discordia-bot # Sample code for "Writing a Discord Bot with Node.js, Redis, and the Illuminati". Video can be found at https://www.youtube.com/watch?v=NUGdJG1WUjU.
+https://github.com/redislabs-training/ru201 # Source code for the RU201 RediSearch Course
+https://github.com/redislabs-training/ru301 # Exercise files for RU301 - Running Redis at Scale.
+https://github.com/redislabs-training/dockerized-redis-oss-sentinel #
+https://github.com/redislabs-training/ocsp-responder # A dockerized ocsp responder for testing
+https://github.com/redislabs-training/generics # Things that are generally useful and not specific to any one thing
+https://github.com/redislabs-training/tools-docs-link-checker # Checks for broken links on the documentation sites
+https://github.com/redislabs-training/redislabs-training.github.io #
+https://github.com/redislabs-training/slides-as-code-setup # Setup scripts for the slides-as-code project
+https://github.com/redislabs-training/keybase-vss-indexer # VSS indexer to operate the Redis Knowledge Base
+https://github.com/redislabs-training/lms-course-backup-poc #
+https://github.com/redislabs-training/redisfi-vss #
+https://github.com/redislabs-training/enablement-session-store-java # Java proof-of-concept of a Redis session store using the JSON format
+https://github.com/redislabs-training/redis-sitesearch-workshop # Notes for a workshop on redis-sitesearch
+
+https://github.com/redis-developer/arxivchatguru # Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache.
+https://github.com/redis-developer/redis-product-search # Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface.
+https://github.com/redis-developer/redis-ai-resources # ✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.
+https://github.com/redis-developer/redis-arxiv-search # Vector search demo with the arXiv paper dataset, RedisVL, HuggingFace, OpenAI, Cohere, FastAPI, React, and Redis.
+https://github.com/redis-developer/basic-redis-chat-app-demo-nodejs # A basic Redis chat application demo written in Nodejs
+https://github.com/redis-developer/llm-document-chat # Using LlamaIndex, Redis, and OpenAI to chat with PDF documents. Supplementary material for blog post on Microsoft Developer Blog
+https://github.com/redis-developer/fastapi-redis-tutorial # Using Redis with FastAPI
+https://github.com/redis-developer/redis-datasets # A Curated List of Sample Redis Datasets
+https://github.com/redis-developer/agentic-rag #
+https://github.com/redis-developer/redis-stack-stocks # This project demonstrates how you can use the multi-model capabilities of Redis to create a real-time stock watchlist application.
+https://github.com/redis-developer/basic-redis-chat-app-demo-python # Redis chat demo app written in Python
+https://github.com/redis-developer/redis-microservices-demo # Microservice application with various Redis use-cases with RediSearch, RedisGraph and Streams. The data are synchronize between MySQL and Redis using Debezium as a CDC engine
+https://github.com/redis-developer/redis-nvidia-recsys # Three examples of recommendation system pipelines with NVIDIA Merlin and Redis
+https://github.com/redis-developer/redis-om-python-flask-skeleton-app # A starter application for performing CRUD type operations with Redis OM Python and the Flask Microframework
+https://github.com/redis-developer/redis-developer.github.io # The Home of Redis Developers
+https://github.com/redis-developer/redis-microservices-ecommerce-solutions #
+https://github.com/redis-developer/basic-redis-chat-app-demo-dotnet # Basic Redis Chat Demo App dot net
+https://github.com/redis-developer/testcontainers-redis # Testcontainers module for Redis
+https://github.com/redis-developer/basic-redis-chat-demo-go # A Basic redis chat demo app written in Go language
+https://github.com/redis-developer/gcp-redis-llm-stack # Reference architecture for LLM-based applications on Google Cloud Platform with Redis Enterprise as a high-performance data layer.
+https://github.com/redis-developer/redi2read #
+https://github.com/redis-developer/basic-redis-chat-app-demo-java # A sample redis chat demo app written in Java
+https://github.com/redis-developer/redis-om-fastapi # Examples of using Redis OM Python with FastAPI
+https://github.com/redis-developer/basic-redis-shopping-chart-nodejs # Basic Redis Shopping cart demo using NodeJS
+https://github.com/redis-developer/finding-bigfoot-with-semantic-search # Sample application showing how to use semantic search with Redis and JavaScript.
+https://github.com/redis-developer/llm-recommender # Use OpenAI, Redis, and streamlit to recommend hotels using Large Language Models
+https://github.com/redis-developer/basic-caching-demo-nodejs # This is an example demo app that shows how Redis caching works using Nodejs
+https://github.com/redis-developer/express-redis-om-workshop #
+https://github.com/redis-developer/redis-chat-challenge # A Hackathon challenge to build a real-time chat application powered by Redis.
+https://github.com/redis-developer/redis-aqi-monitor # A demonstration of Redis Stack Streams, Timeseries, JSON, and Search using a Raspberry Pico W and PMS5003 sensor
+https://github.com/redis-developer/nosql-data-modeling-patterns # Contains sample code for modeling data using Redis and NoSQL
+https://github.com/redis-developer/redis-hacker-news-demo # The demo is a Hacker News clone and uses RedisJSON for storing the data and RediSearch for searching.
+https://github.com/redis-developer/beats-by-redis # A demonstration of Redis Stack with Vue, Express, and Node.js
+https://github.com/redis-developer/introducing-the-geosearch-command # Demo application using a Bulma / Leaflet JS / JavaScript front end and Python / Flask backend to demonstrate the GEOSEARCH command added in Redis 6.2.
+https://github.com/redis-developer/redis-om-dotnet-skeleton-app # skeleton app for redis-om-dotnet
+https://github.com/redis-developer/redis-om-spring-react-todomvc # Tutorial: Redis OM Spring + React TodoMVC
+https://github.com/redis-developer/brewdis # Retail demo
+https://github.com/redis-developer/redis-caching-api-responses #
+https://github.com/redis-developer/redis-bike-co # Redis Bike Company Example Application
+https://github.com/redis-developer/basic-redis-leaderboard-demo-go # A basic Redis leaderboard demo app written in Go
+https://github.com/redis-developer/basic-redis-leaderboard-demo-python # A Basic Redis leaderboard demo app written in Python
+https://github.com/redis-developer/redis-om-spring-skeleton-app # Redis OM Spring Skeleton App
+https://github.com/redis-developer/redis-kaboom-rpg # Redis RPG game example with Kaboom.JS.
+https://github.com/redis-developer/basic-redis-leaderboard-demo-nodejs # Basic Redis Leaderboard demo written in Nodejs
+https://github.com/redis-developer/basic-analytics-dashboard-redis-bitmaps-nodejs # This repo shows a basic analytics dashboard app that uses Redis Bitmap written in NodeJS (JavaScript)
+https://github.com/redis-developer/basic-redis-leaderboard-demo-dotnet # Basic leaderboard app written in C#.net
+https://github.com/redis-developer/nredi2read-preview #
+https://github.com/redis-developer/basic-rate-limiting-demo-python # This repo shows a basic rate limiting demo in Python and Django
+https://github.com/redis-developer/financial-vss # Notebooks demonstrating vector search & RAG design patterns with Redis Python clients.
+https://github.com/redis-developer/aws-redis-cloud-demo # A Demo App using Redis Enterprise Cloud with AWS Services
+https://github.com/redis-developer/redis-om-python-search-demo # Demo using the Redis OM Python client and RediSearch
+https://github.com/redis-developer/redis-caching-slow-database-queries # Simple demonstration of caching database queries with Redis.
+https://github.com/redis-developer/introducing-redis-talk # Resources for Simon's Introducing Redis Talk.
+https://github.com/redis-developer/basic-redis-rate-limiting-demo-nodejs # This is a basic Redis Rate Limiting demo written in NodeJS
+https://github.com/redis-developer/video-qa-semantic-vector-caching # This repository is a Video Q&A site that uses LangChain, OpenAI, Google Gemini, and Redis to answer questions using videos for RAG.
+https://github.com/redis-developer/hitc-dotnet-redisearch-demo # HITC video accompanying repository
+https://github.com/redis-developer/dot-net-redis-intro #
+https://github.com/redis-developer/redis-om-node-tutorial # Code sample for tutorial on Redis OM for Node.js
+https://github.com/redis-developer/haunted-places-data-service # Simple Node.js data service that exposes haunted places using Apollo GraphQL, Redi, and RediSearch.
+https://github.com/redis-developer/keyspace-notifications-node-redis # Keyspace Notifications demo with Node Redis 4
+https://github.com/redis-developer/hackathon-docs #
+https://github.com/redis-developer/redis-streams-hotel-jobs # Redis Streams example with Python and Node.js
+https://github.com/redis-developer/ebook-speed-mern-backend #
+https://github.com/redis-developer/basic-redis-rate-limiting-demo-go-lang # A basic redis rate limiting demo written in Go language
+https://github.com/redis-developer/redis-om-autocomplete-demo # Redis OM Spring Autocomplete/Autosuggest Demo
+https://github.com/redis-developer/spring-ai-redis-demo #
+https://github.com/redis-developer/basic-redis-rate-limiting-demo-csharp-dot-net # Basic redis rate limiting demo written in C# .net
+https://github.com/redis-developer/sql-cache-invalidation-debezium # This project shows how to use Debezium to update Redis from PostgreSQL transactions
+https://github.com/redis-developer/redis-real-time-inventory-solutions #
+https://github.com/redis-developer/redismod-docker-compose # Contains a docker-compose.yml using redismod : a Docker image with selected Redis Labs modules
+https://github.com/redis-developer/devcember # Redis Devcember: https://developer.redis.com/devcember/
+https://github.com/redis-developer/fixed-window-rate-limiter # Redis Fixed Window Rate Limiter with Spring Boot
+https://github.com/redis-developer/sliding-window-rate-limiter-aspnet # Sliding Window Rate Limiter Example for ASP.NET Core
+https://github.com/redis-developer/basic-redisgraph-movie-demo-app-nodejs # Basic RedisGraph movie demo app written in NodeJS
+https://github.com/redis-developer/redis-streams-with-dotnet # Example applications use Redis Streams with various .NET libraries
+https://github.com/redis-developer/redis-om-node-skeleton-app #
+https://github.com/redis-developer/demo-movie-app-redisearch-nodejs # A movie demo app that shows redisearch capabilities
+https://github.com/redis-developer/acre-terraform # Templates to get started with the 'azurerm_redis_enterprise_cluster' resource.
+https://github.com/redis-developer/mlh-prize-potato # For those who win MLH hackathons where Redis is a sponsor, this repo is aimed at getting you started with a Libre Potato mini computer and using Redis.
+https://github.com/redis-developer/banking-on-redis # An app demonstrating real time querying of JSON within a banking application
+https://github.com/redis-developer/redisbloom-moby-dick # Experiments with RedisBloom and the text from Moby Dick
+https://github.com/redis-developer/nextjs-redis-netlify # This app is a minimal starter template for building a site with Next.js, TailwindCSS, Redis, and deploying to Netlify
+https://github.com/redis-developer/ebook-speed-mern-frontend #
+https://github.com/redis-developer/redis-vector-nodejs-solutions #
+https://github.com/redis-developer/basic-caching-demo-python # This project shows a basic caching demo in Python
+https://github.com/redis-developer/doc-crawler # Web crawler with search indexing
+https://github.com/redis-developer/basic-caching-redis-demo-go-lang # Basic caching redis demo app written in GO language
+https://github.com/redis-developer/redis-polygon-search-trains-demo # Redis Stack Polygon search demo with train data, written in Node.js.
+https://github.com/redis-developer/fhir-search # Redis Document (JSON + Search) examples against FHIR data
+https://github.com/redis-developer/micropython-redis-boilerplate # A boilerplate MicroPython script for getting started with Redis on microcontrollers (tested on Raspberry Pi Pico W)
+https://github.com/redis-developer/demo-movie-app-redisearch-java # A demo movie app that show cases Redisearch. Written in Java
+https://github.com/redis-developer/polygon-demo # Polygon search in Redis
+https://github.com/redis-developer/redisbirdtracker # A demonstration of JSON storage and query capabilities using bird sightings as a data set
+https://github.com/redis-developer/basic-aspnetcore-api-caching # Basic Example of how to cache the results of API requests using Redis and ASP.NET Core
+https://github.com/redis-developer/gitpod-express-redis # A Node.js Express with Redis starter application that uses Gitpod
+https://github.com/redis-developer/product-catalog-redis-om-dotnet #
+https://github.com/redis-developer/basic-caching-demo-csharpdotnet # Basic caching demo written in C# .net
+https://github.com/redis-developer/the-redis-marketplace-app-frontend # The Redis Marketplace app
+https://github.com/redis-developer/llm-redisrail # RAG with Redis. Parallel implementations with/without guardrails.
+https://github.com/redis-developer/basic-rate-limiting-demo-java # This project show how to implement a basic rate limiting using Redis in Java
+https://github.com/redis-developer/basic-redis-rate-limiting-demo-ruby # A basic Redis rate limiting demo written in Ruby
+https://github.com/redis-developer/speechdis # A Tool that transcribe audio from Podcast using RedisAI and RediSearch
+https://github.com/redis-developer/redis-developer-old #
+https://github.com/redis-developer/gitpod-flask-redis # A quick start to get up and running with Flask and Redis application development using GitPod
+https://github.com/redis-developer/rediner # Named Entity Recognition for Redis
+https://github.com/redis-developer/basic-redis-chat-demo-ruby # Basic redis chat app written in Ruby
+https://github.com/redis-developer/node-redis-json-demo # Node Redis 4 RedisJSON demo.
+https://github.com/redis-developer/basic-redis-leaderboard-demo-java # A basic Redis Leaderboard app written in Java
+https://github.com/redis-developer/redis-bloom-dotnet-demo # Basic demo app for using Redis Bloom with .NET
+https://github.com/redis-developer/apartani-realtime-search # Project for the Redis Hackathon 2021
+https://github.com/redis-developer/redis-rag-workbench #
+https://github.com/redis-developer/session-store-nextjs #
+https://github.com/redis-developer/basic-acd # Implementation of a contact center ACD in Redis Enterprise
+https://github.com/redis-developer/redis-om-spring-kotlin-skeleton-app # Redis OM Spring Skeleton App ported to Kotlin
+https://github.com/redis-developer/acre-terraform-simple # Simplified template to get started with the 'azurerm_redis_enterprise_cluster' resource
+https://github.com/redis-developer/cctxn-examples # Redis Search examples in a credit card transaction data domain
+https://github.com/redis-developer/menu-demo # Comparison of JSON and String operations in a restaurant menu data domain.
+https://github.com/redis-developer/redis-rag-chat-dotnet #
+https://github.com/redis-developer/redis-as-a-vector-database # A companion codebase for the Explainer Video Redis as a Vector Database
+https://github.com/redis-developer/basic-redis-leaderboard-demo-ruby # A basic Redis leaderboard app written in Ruby
+https://github.com/redis-developer/redis-polygon-search-weather-demo # Redis Stack 7.2 Polygon Search demonstration with Shipping Forecast data. Written in Python.
+https://github.com/redis-developer/the-redis-marketplace-app-backend # Contains backend for the Redis Marketplace app
+https://github.com/redis-developer/demo-movie-app-redisearch-python # A demo movie app that showcases Redisearch written in Python
+https://github.com/redis-developer/spring-redis-modules # Spring auto-configuration for Redis modules client
+https://github.com/redis-developer/redi2read-data # Repository Containing Raw JSON Data Files for the Redi2Read Spring Boot + Redis Demo
+https://github.com/redis-developer/jredisearch-spring-demo # A Spring Boot App showing how to implement faceted full-text search and autocomplete with RediSearch using JRediSearch
+https://github.com/redis-developer/overtones-game-redis #
+https://github.com/redis-developer/developer #
+https://github.com/redis-developer/redis-discogs-backend # CRUD back-end demonstration using Redis Om for Node.js and Express
+https://github.com/redis-developer/redis-php-getting-started # Redis & Php
+https://github.com/redis-developer/basic-caching-demo-java # This repo shows a basic caching demo in Java
+https://github.com/redis-developer/redis-time-series-demo-dotnet # Basic Demo App for Redis Time Series
+https://github.com/redis-developer/chocolatey-bucket #
+https://github.com/redis-developer/redis-client-cheat-sheets #
+https://github.com/redis-developer/redis-ruby-getting-started # Ruby and Redis
+https://github.com/redis-developer/redisconf-signature #
+https://github.com/redis-developer/palmsight # Palmsight - Using Redis Enterprise and AWS EC2
+https://github.com/redis-developer/scoop # Scoop repository for Redis Developer organization
+https://github.com/redis-developer/rental-availability # Demo of Redis Search functionality in a property rental domain
+https://github.com/redis-developer/adding-apps-to-redis-marketplace # This repo contains steps to add 3rd party apps to the Redis marketplace
+https://github.com/redis-developer/covid-dash # Covid-19 Dashboard for India made using Redis
+https://github.com/redis-developer/voting-with-redis-active-active-crdb #
+https://github.com/redis-developer/redis-rag-chat-python #
+https://github.com/redis-developer/redispqclient # RedisPQClient
+https://github.com/redis-developer/feast-mssqlserver-connector # A Feast connector for MS SQL Server, Azure SQL Server, and Azure Synapse
+https://github.com/redis-developer/riot-snap #
+https://github.com/redis-developer/redis-parent # Parent build for Redis Labs projects
+https://github.com/redis-developer/redis-java-samples # Sample Java projects for Redis :coffee:
+https://github.com/redis-developer/search-sql # Comparison of various Redis Search and SQL commands against the Chinook dataset.
+https://github.com/redis-developer/site #
+https://github.com/redis-developer/explore-redis-modules-with-jedis # Source code for the short presentation "Explore Redis Modules with Jedis and Friends"
+https://github.com/redis-developer/redispqscripts #
+https://github.com/redis-developer/sahay.us # Sahay - A collaborative experience for hospitals to manage resources.
+https://github.com/redis-developer/aqi-server # backend server for AQI sensors using Redis
+https://github.com/redis-developer/redis-node-search-bikes # Redis Search and Aggregations with the Redis Node Client
+https://github.com/redis-developer/riot-macports #
+https://github.com/redis-developer/jbang-catalog #
+https://github.com/redis-developer/docai_pipeline # Invoice de-duplication via Azure Form Recognition, OpenAI, Apache Airflow and Redis Enterprise VSS
+https://github.com/redis-developer/redis-dicom # Demo of usage of Redis in DICOM imagery domain
+https://github.com/redis-developer/rate-limiting-middleware-aspnetcore #
+https://github.com/redis-developer/redis-nodejs-starter #
+https://github.com/redis-developer/recording-meta # Demo of Redis JSON + Search in a contact center domain
+https://github.com/redis-developer/cae-re-env0 #
+https://github.com/redis-developer/redis-rag-chat-common #
+https://github.com/redis-developer/basic-redis-caching-demo-ruby # Basic Redis caching demo app written in Ruby
+https://github.com/redis-developer/redis-graph-dotnet-basic-app # A basic .NET app using Redis Graph
+https://github.com/redis-developer/fixed-rate-limiter-aspnet-core # Fixed Rate limiter for ASP.NET Core
+https://github.com/redis-developer/ts-counter # Demo of usage of Redis Triggers/Functions to implement time series aggregations.
+https://github.com/redis-developer/address-ac # Demo of address autocomplete.
+https://github.com/redis-developer/hackathon-images #
+https://github.com/redis-developer/vss-cosine # Comparison of VSS cosine calculations between Redis and Pinecone
+
+https://github.com/redisventures/simple-vecsim-intro # Simple containerized application for spinning up, using, and exploring Redis Vector Similarity capabilities.
+https://github.com/redisventures/azure-openai-redis-deployment # End-to-end deployment of Azure OpenAI applications using Redis Enterprise as a vector database.
+https://github.com/redisventures/redis-feast-gcp # A demo of Redis Enterprise as the Online Feature Store deployed on GCP with Feast and NVIDIA Triton Inference Server.
+https://github.com/redisventures/aws-redis-bedrock-stack # Reference architecture, guides, and examples using Amazon Bedrock and Redis as a knowledge base for RAG.
+https://github.com/redisventures/redis-vector-php # Redis Vector Library (RedisVL) enables Redis as a real-time database for LLM applications, based on Predis PHP client
+https://github.com/redisventures/loan-prediction-microservice # An example of using Redis + RedisAI for a microservice that predicts consumer loan probabilities using Redis as a feature and model store and RedisAI as an inference server.
+https://github.com/redisventures/redis-vss-getting-started #
+https://github.com/redisventures/redisventures.github.io # Hackathon sponsored by Redis, MLOps Community, and Saturn Cloud.
+
+https://github.com/redis/redis # Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+https://github.com/redis/go-redis # Redis Go client
+https://github.com/redis/node-redis # Redis Node.js client
+https://github.com/redis/ioredis # 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+https://github.com/redis/redis-py # Redis Python client
+https://github.com/redis/jedis # Redis Java client
+https://github.com/redis/hiredis # Minimalistic C client for Redis >= 1.2
+https://github.com/redis/lettuce # Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
+https://github.com/redis/redis-rb # A Ruby client library for Redis
+https://github.com/redis/rueidis # A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
+https://github.com/redis/redis-doc # Redis documentation source code for markdown and metadata files, conversion scripts, and so forth
+https://github.com/redis/redis-om-node # Object mapping, and more, for Redis and Node.js. Written in TypeScript.
+https://github.com/redis/docker-library-redis # Docker Official Image packaging for Redis
+https://github.com/redis/redis-om-python # Object mapping, and more, for Redis and Python
+https://github.com/redis/redis-io # Application running http://redis.io
+https://github.com/redis/redis-om-spring # Spring Data Redis extensions for better search, documents models, and more
+https://github.com/redis/hiredis-py # Python wrapper for hiredis
+https://github.com/redis/redis-om-dotnet # Object mapping, and more, for Redis and .NET
+https://github.com/redis/hiredis-rb # Ruby wrapper for hiredis
+https://github.com/redis/riot # 🧨 Get data in & out of Redis with RIOT
+https://github.com/redis/nredisstack # Redis Stack .Net client
+https://github.com/redis/redis-vl-python # Redis Vector Library (RedisVL) interfaces with Redis' vector database for realtime semantic search, RAG, and recommendation systems.
+https://github.com/redis/redis-rcp # Redis Change Proposals
+https://github.com/redis/redis-hashes # Redis tarball SHA1 hashes
+https://github.com/redis/lettucemod # Java client for Redis Modules
+https://github.com/redis/spring-batch-redis # Spring Batch extension for Redis
+https://github.com/redis/redis-specifications # A bin for Redis' specs
+https://github.com/redis/minipilot # MiniPilot is a GenAI-assisted chatbot backed by Redis. Chat with your documents
+https://github.com/redis/redis-benchmarks-specification # The Redis benchmarks specification describes the cross-language/tools requirements and expectations to foster performance and observability standards around redis related technologies. Members from both industry and academia, including organizations and individuals are encouraged to contribute.
+https://github.com/redis/librdb # Redis RDB file parser, with JSON, RESP and RDB-loader extensions
+https://github.com/redis/docs # Documentation for Redis, Redis Cloud, and Redis Enterprise
+https://github.com/redis/redis-debian # Debian packaging
+https://github.com/redis/redis-snap # A repository for snap packaging
+https://github.com/redis/redis-website #
+https://github.com/redis/redis-insight-guides # Learn modern data models and data processing tools bundled in Redis Stack to build real-time applications with the speed and stability of Redis.
+https://github.com/redis/redis-clinterwebz #
+https://github.com/redis/redis-extra-ci #
+https://github.com/redis/redis-rpm #
+https://github.com/redis/riot-docker #
+https://github.com/redis/homebrew-tap # Homebrew tap for Redis organization
+https://github.com/redis/scoop #
+
 https://dbdb.io/db/redis

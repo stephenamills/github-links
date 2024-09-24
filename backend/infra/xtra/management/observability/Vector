@@ -1,0 +1,19 @@
+https://github.com/vectordotdev/vector # A high-performance observability data pipeline.
+https://github.com/vectordotdev/vrl # Vector Remap Language
+https://github.com/vectordotdev/helm-charts # Helm charts for Vector.
+https://github.com/vectordotdev/vector-test-harness # End-to-end test harness for the Vector observability data router 
+https://github.com/vectordotdev/vector-demos # Some examples of how to use Vector
+https://github.com/vectordotdev/http_test_server # HTTP server useful for testing
+https://github.com/vectordotdev/rust-musl-toolchain # Timber.io Rust musl toolchain
+https://github.com/vectordotdev/homebrew-brew # Homebrew formula for the Vector
+https://github.com/vectordotdev/vector-heroku-buildpack # (WIP!)
+https://github.com/vectordotdev/chronicle-emulator # A simple web server that emulates Google Chronicle
+https://github.com/vectordotdev/vector-generate # Generates files across different Vector repos
+https://github.com/vectordotdev/vector-k8s-dev-env # Gitops config for managing Vector development environment in Kubernetes
+https://github.com/vectordotdev/issue-examples # 
+https://github.com/vectordotdev/leveldb-build-demo # A simple cross leveldb build. It's broken, so you probably can't use it.
+https://github.com/vectordotdev/splunk-cost-cutting # Example code for Splunk cost cutting scenarios
+https://github.com/vectordotdev/go-duration # Package for manipulating RFC3339 / ISO8601 durations in Go
+https://github.com/vectordotdev/rust-benches # Stand-alone benches for profiling usage of types we use in vector
+https://github.com/vectordotdev/tcp_test_server # TCP server useful for testing
+

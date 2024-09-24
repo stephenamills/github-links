@@ -1,0 +1,29 @@
+https://github.com/zabbix/zabbix # Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
+
+https://github.com/zabbix/zabbix-docker # Official Zabbix Dockerfiles
+https://github.com/zabbix/community-templates # Zabbix Community Templates repository
+https://github.com/zabbix/python-zabbix-utils # Python library "zabbix-utils"
+https://github.com/zabbix/zabbix-bash-completion # Bash completion for Zabbix commands
+https://github.com/zabbix/ansible-collection # Zabbix Ansible Collection
+https://github.com/zabbix/zabbix-ircbot # Zabbix IRC Bot
+https://github.com/zabbix/zabbix-cookbook #
+
+https://github.com/zabbix-tools/mib2zabbix # SNMP Template generator for Zabbix
+https://github.com/zabbix-tools/libzbxpgsql # Monitor PostgreSQL with Zabbix
+https://github.com/zabbix-tools/go-zabbix # Go bindings for the Zabbix API
+https://github.com/zabbix-tools/zabbix-module-systemd # Native systemd monitoring for Zabbix
+https://github.com/zabbix-tools/g2z # Write Zabbix modules in Go!
+https://github.com/zabbix-tools/zabbix-template-converter # Migrate Zabbix templates between versions
+https://github.com/zabbix-tools/zabbix-module-python # Embedded Python interpreter module for Zabbix
+https://github.com/zabbix-tools/zabbix-pgsql-partitioning # Partitioning scripts for Zabbix on PostgreSQL
+https://github.com/zabbix-tools/zabbix_agent_bench # Benchmarking and stress testing tool for the Zabbix agent
+https://github.com/zabbix-tools/zabbix-module-sockets # A Zabbix loadable module to monitor Linux Sockets
+https://github.com/zabbix-tools/zabbixtemplates # PowerShell module for working with Zabbix Templates
+https://github.com/zabbix-tools/docker-zabbix # Zabbix All-In-One in Docker
+https://github.com/zabbix-tools/export-countertozabbixtemplate # Exports Windows Performance Counters into a Zabbix Template
+https://github.com/zabbix-tools/libzbxpgsql-build # Build and test scripts for libzbxpgsql
+https://github.com/zabbix-tools/packer-zabbix # Packer scripts to build a Zabbix/CentOS 7 x86_64 Vagrant box
+https://github.com/zabbix-tools/libzbxlinux # Linux kernel internals monitoring with Zabbix
+https://github.com/zabbix-tools/puppet-zabbix # A Puppet module to deploy and configure Zabbix server, web server and agent
+https://github.com/zabbix-tools/zabbops # A Python framework to configure Zabbix using Amazon AWS services
+https://github.com/zabbix-tools/libzbxpython-build # Build scripts for libzbxpython

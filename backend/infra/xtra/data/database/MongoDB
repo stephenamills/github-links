@@ -1,13 +1,13 @@
 https://github.com/mongodb/mongo # The MongoDB Database
 
-https://github.com/mongodb-industry-solutions/vehicle-digital-twin-feedback-loop # In this repository you'll find everything you need to get started in creating a Digital Twin with MongoDB and AWS. More specifically, you'll find code samples and demos using the Realm
-database with MongoDB Atlas, Device sync and Amazon SageMaker. https://github.com/mongodb-industry-solutions/insurance-image-search #
-https://github.com/mongodb-industry-solutions/industrialconnectivity # Code and configuration samples to connect shop floors to the cloud leveraging MongoDB and other ecosystem technologies such as Kafka, MQTT etc.
-https://github.com/mongodb-industry-solutions/connected-products # Code samples and demos around using the Realm database in combination with MongoDB Atlas and device sync.
+https://github.com/mongodb-industry-solutions/vehicle-digital-twin-feedback-loop # In this repository you'll find everything you need to get started in creating a Digital Twin with MongoDB and AWS. More specifically, you'll find code samples and demos using the Realm database with MongoDB Atlas, Device sync and Amazon SageMaker.
+https://github.com/mongodb-industry-solutions/insurance-image-search #
+https://github.com/mongodb-industry-solutions/industrialconnectivity # Connect shop floors to the cloud leveraging MongoDB and other ecosystem technologies such as Kafka, MQTT etc.
+https://github.com/mongodb-industry-solutions/connected-products # Use the Realm database in combination with MongoDB Atlas and device sync.
 https://github.com/mongodb-industry-solutions/rag-insurance #
-https://github.com/mongodb-industry-solutions/digital-underwriting-usage-based-insurance # In this GitHub repository, we will demonstrate how to utilize MongoDB to build an automated underwriting process to calculate a customized premium for a connected car.
+https://github.com/mongodb-industry-solutions/digital-underwriting-usage-based-insurance # Build an automated underwriting process to calculate a customized premium for a connected car.
 https://github.com/mongodb-industry-solutions/aml-fraud-prevention-demo #
-https://github.com/mongodb-industry-solutions/smart-factory-computer-vision-inference # How to connect the camera on a Smart Factory to feed a Computer Vision model in order to sync its Digital Twin
+https://github.com/mongodb-industry-solutions/smart-factory-computer-vision-inference # Connect the camera on a Smart Factory to feed a Computer Vision model in order to sync its Digital Twin
 https://github.com/mongodb-industry-solutions/insurance-pdf-search #
 https://github.com/mongodb-industry-solutions/real-time-pricing # Orchestrating streaming data from an ecommerce storefront to achieve real time analytics for pricing strategies
 https://github.com/mongodb-industry-solutions/retail-pricing-search-personaliztion # Retail AI pricing and personalization enhanced search results

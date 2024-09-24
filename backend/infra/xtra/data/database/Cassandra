@@ -1,1 +1,548 @@
+https://github.com/datastax-cda/s3-file-to-astra # This repo contains documentation, and sample code showing how to automatically process text files in Amazon S3 to ingest them as rows in Astra DB.
+https://github.com/datastax-cda/telco-billing-app #
+https://github.com/datastax-cda/astra-cdc-to-bigquery-sink # Astra DB CDC to Astra Streaming BigQuery sink
+https://github.com/datastax-cda/workshop-content #
+https://github.com/datastax-cda/.github #
+https://github.com/datastax-cda/spark-zdm-demo #
+https://github.com/datastax-cda/astradb-devops-samples # Sample DevOps scripts, tools and best practices
+https://github.com/datastax-cda/workshop-base #
+https://github.com/datastax-cda/homebrew-tap #
+
+https://github.com/dspn/azure-resource-manager-dse # Azure Resource Manager templates for DataStax Enterprise
+https://github.com/dspn/google-compute-engine-dse # Google Deployment Manager scripts for deploying DataStax Enterprise (DSE) on Google Compute Engine (GCE)
+https://github.com/dspn/azure-deployment-guide # DataStax Enterprise (DSE) Deployment Guide for Azure
+https://github.com/dspn/amazon-deployment-guide # DataStax Enterprise (DSE) Deployment Guide for Amazon Web Services (AWS)
+https://github.com/dspn/google-deployment-guide # DataStax Enterprise (DSE) Deployment Guide for Google Cloud Platform (GCP)
+https://github.com/dspn/kubernetes-dse-gke # DataStax Enterprise (DSE) Deployment on Google Kubernetes Engine (GKE)
+https://github.com/dspn/install-datastax-ubuntu # bash scripts to install and configure DataStax Enterprise (DSE) and OpsCenter on Ubuntu
+https://github.com/dspn/install-datastax-redhat # bash scripts to install and configure DataStax Enterprise (DSE) and OpsCenter on RedHat
+https://github.com/dspn/partners # Selected links to information on DataStax Partners
+https://github.com/dspn/datastaxday # Hands on instructions for DataStax Labs during Microsoft Events and Test Drives
+https://github.com/dspn/click-to-deploy-dse-gke # Click to deploy DataStax Enterprise (DSE) on Google Kubernetes Engine (GKE)
+https://github.com/dspn/oracle-bare-metal-cloud-dse # Scripts to deploy DSE to Oracle Bare Metal Cloud
+https://github.com/dspn/ddac-azure-install #
+https://github.com/dspn/test #
+https://github.com/dspn/oracle-public-cloud-dse # Scripts for deploying DataStax Enterprise (DSE) to Oracle Public Cloud (OPC)
+https://github.com/dspn/oracle-deployment-guide # DataStax Enterprise (DSE) Deployment Guide for Oracle Cloud Offerings
+https://github.com/dspn/oracle-jumpstart #
+https://github.com/dspn/aws-mp-oss-public # AWS Cloudformation templates for Marketplace OSS offering
+https://github.com/dspn/pulsar-gcp-mp #
+https://github.com/dspn/ddac-aws-install #
+https://github.com/dspn/k8ssandra-gcp-mp # K8ssandra on gcp marketplace
+
+https://github.com/datastaxdocs/datastax-streaming-docs-site # The "playbook" repo holding antora build directions as well as the docs home page for streaming
+https://github.com/datastaxdocs/healthcare # Sample files for the DataStax healthcare demo
+
+https://github.com/datastax-training/curriculum-plugin # A Gradle plugin for the curriculum build system
+https://github.com/datastax-training/retail #
+https://github.com/datastax-training/justenoughspark # Just enough scala for spark, and just enough spark
+https://github.com/datastax-training/java-driver-example #
+https://github.com/datastax-training/henrik-ingo # This repo is meant to be used for interview purposes by Henrik Ingo.
+https://github.com/datastax-training/casopt #
+
+https://github.com/datastax-academy/cassandra-workshop-series # All materials for the Cassandra Workshop Series in a single place
+https://github.com/datastax-academy/workshop-cassandra-certification #
+https://github.com/datastax-academy/old-workshop-online # As attendee you will find everything you need for Cassandra Developer Workshop online
+https://github.com/datastax-academy/kubernetes-workshop-online # Run a workshop on Kubernetes Operator online
+https://github.com/datastax-academy/kubecon-cassandra-workshop #
+https://github.com/datastax-academy/kubecon2020 #
+https://github.com/datastax-academy/workshop-crud-with-python-and-node # Datastax Online workshop helping people creating CRUD Applications
+https://github.com/datastax-academy/spring-boot-todo-app #
+https://github.com/datastax-academy/cassandra-day-2019 #
+https://github.com/datastax-academy/workshop-k8ssandra-certification #
+https://github.com/datastax-academy/developer-day-2018 #
+https://github.com/datastax-academy/nosqlbench-workshop-online # An online workshop using the NoSQLBench benchmarking tool
+https://github.com/datastax-academy/developer-day-2019 #
+https://github.com/datastax-academy/better-botz-workshop-online # Cassandra Developer Workshop on Astra for Better Botz.
+https://github.com/datastax-academy/httpie-katapod # Guided tour of Stargate APIs on Astra
+https://github.com/datastax-academy/battlestax #
+https://github.com/datastax-academy/data-modeling-time-series-data #
+https://github.com/datastax-academy/training-cassandra-kubernetes # 6H training on Cassandra + Kubernetes
+https://github.com/datastax-academy/zdm-scenario-katapod # A Katapod-based ZDM interactive scenario
+https://github.com/datastax-academy/cassandra-fundamentals-cassandra #
+https://github.com/datastax-academy/sddemos #
+https://github.com/datastax-academy/cassandra-fundamentals-keyspaces #
+https://github.com/datastax-academy/data-modeling-investment-data #
+https://github.com/datastax-academy/cassandra4-migrating-from-cassandra3 #
+https://github.com/datastax-academy/jdbc-with-spark-sql # Connect Java App to SparkSQL using JDBC
+https://github.com/datastax-academy/cassandra-fundamentals-queries #
+https://github.com/datastax-academy/data-modeling-sensor-data #
+https://github.com/datastax-academy/solution-day-2018 # Materials for DataStax Enterprise 6 Solution Day
+https://github.com/datastax-academy/datastax-vehicle-demo #
+https://github.com/datastax-academy/cassandra-fundamentals-bulk-loading #
+https://github.com/datastax-academy/cassandra4-audit-logging #
+https://github.com/datastax-academy/cassandra-fundamentals-tables-single-row-partitions #
+https://github.com/datastax-academy/vector-search-short-course-colabs #
+https://github.com/datastax-academy/cassandra-for-data-engineers # Training Day for Data Engineer to work with Cassandra
+https://github.com/datastax-academy/ds220-exercise-3-2 #
+https://github.com/datastax-academy/data-modeling-music-data #
+https://github.com/datastax-academy/cassandra-fundamentals-cql #
+https://github.com/datastax-academy/ds201-lab14 #
+https://github.com/datastax-academy/ds220-exercise-2-3 #
+https://github.com/datastax-academy/getting-started-dsegraph # Working with Dse Graph
+https://github.com/datastax-academy/katapod-quickstart #
+https://github.com/datastax-academy/cassandra-fundamentals-tables-multi-row-partitions #
+https://github.com/datastax-academy/cday-appdev-java # Application Development with Java
+https://github.com/datastax-academy/bootcamp-crud #
+https://github.com/datastax-academy/ds201-lab10 #
+https://github.com/datastax-academy/astra-cli-scenario-katapod # Explaing Astra CLI as a scenario
+https://github.com/datastax-academy/node-js-crud #
+https://github.com/datastax-academy/astraportia # Demo project fo Stargate Hackathon
+https://github.com/datastax-academy/ac201-01-cassandra #
+https://github.com/datastax-academy/cassandra4-repair #
+https://github.com/datastax-academy/ds220-exercise-1-1 #
+https://github.com/datastax-academy/ds201-lab01 #
+https://github.com/datastax-academy/cassandra-fundamentals-secondary-indexes #
+https://github.com/datastax-academy/data-modeling-order-management-data #
+https://github.com/datastax-academy/ds220-exercise-2-2 #
+https://github.com/datastax-academy/ds201-lab08 #
+https://github.com/datastax-academy/cassandra-fundamentals-linearizable-consistency #
+https://github.com/datastax-academy/workshop-cassandra-data-modeling-tables-single-row-partitions #
+https://github.com/datastax-academy/ds201-lab15 #
+https://github.com/datastax-academy/ds201-lab03 #
+https://github.com/datastax-academy/ds220-exercise-2-1 #
+https://github.com/datastax-academy/ds201-lab07 #
+https://github.com/datastax-academy/java-crud #
+https://github.com/datastax-academy/cassandra-fundamentals-batches #
+https://github.com/datastax-academy/ds201-lab09 #
+https://github.com/datastax-academy/sandbox-springdata-todoapp # Use of Spring Data / Spring for a TODO App
+https://github.com/datastax-academy/cassandra4-full-query-logging #
+https://github.com/datastax-academy/ds220-exercise-3-1 #
+https://github.com/datastax-academy/ds201-lab06 #
+https://github.com/datastax-academy/ds201-lab02 #
+https://github.com/datastax-academy/data-modeling-messaging-data #
+https://github.com/datastax-academy/katapod #
+https://github.com/datastax-academy/ds201-lab04 #
+https://github.com/datastax-academy/python-crud #
+https://github.com/datastax-academy/cassandra4-internode-messaging #
+https://github.com/datastax-academy/cassandra-fundamentals-tunable-consistency #
+https://github.com/datastax-academy/cassandra-fundamentals-inserts-updates-deletes #
+https://github.com/datastax-academy/ds201-lab11 #
+https://github.com/datastax-academy/astrakathon # Final destination for all Hackathon submissions
+https://github.com/datastax-academy/katapod-shared-assets # Scenarios could leverage on those files
+https://github.com/datastax-academy/cassandra-fundamentals-materialized-views #
+https://github.com/datastax-academy/cassandra4-virtual-tables #
+https://github.com/datastax-academy/workshop-cassandra-data-modeling-sensor-data #
+https://github.com/datastax-academy/workshop-cassandra-data-modeling-tables-multi-row-partitions #
+https://github.com/datastax-academy/data-modeling-shopping-cart-data #
+https://github.com/datastax-academy/ds201-lab12 #
+https://github.com/datastax-academy/ds220-exercise-1-2 #
+https://github.com/datastax-academy/cassandra-fundamentals-advanced-data-types #
+https://github.com/datastax-academy/ds201-lab13 #
+
+https://github.com/datastaxcodesamples/spark-streaming-demo #
+https://github.com/datastaxcodesamples/datastax-iot-demo # This is a small demo to show how to insert meter readings for a smart reader. Note : in this example readings come in through a file with a no of readings per day (per customer).
+https://github.com/datastaxcodesamples/datastax-tickdb-full # Sample tick database. Provides a web server with a REST interface.
+https://github.com/datastaxcodesamples/datastax-tickdata-comparison # Project to show the difference in speed and efficiency of storing data in blobs than columns
+https://github.com/datastaxcodesamples/datastax-creditcard-demo # A simple Credit card demo which shows some of the features of the Datastax Java driver including collections, batching, paging and static columns.
+https://github.com/datastaxcodesamples/datastax-paging-demo # A simple demo to use the automatic paging in Cassandra to pull back thousands/millions rows with a simple select.
+https://github.com/datastaxcodesamples/spark-driver-demo #
+https://github.com/datastaxcodesamples/datastax-banking-iot # Banking IoT example of processing millions of transactions
+https://github.com/datastaxcodesamples/datastax-bulkload-example # Example of bulk loading transactions into Cassandra 2.0.\*
+https://github.com/datastaxcodesamples/datastax-dclatency-checker # Simple checker to see what the difference in latencies between 2 dcs and calculates an ongoing average.
+https://github.com/datastaxcodesamples/datastax-tickdata-demo # Demo project for generating and inserting tick data into cassandra
+https://github.com/datastaxcodesamples/datastax-shared-session-example # An example of sharing a session between multiple threads. This example uses the idea of inserting messages into a followers timeline.
+https://github.com/datastaxcodesamples/datastax-userinteractions-demo # Demo which shows how to insert and query user interactions. The demo data is based on a banks applications
+https://github.com/datastaxcodesamples/datastax-storm-cql3-demo # A follow on from the datastax-risksensitivity-demo project which uses storm and cql3
+https://github.com/datastaxcodesamples/datastax-transaction-demo # A short example of how to use light weight transactions to control the quantity of products in an order system.
+https://github.com/datastaxcodesamples/datastax-java-starter # Starter project for creating a sample project in Java.
+https://github.com/datastaxcodesamples/datastax-analytics-example # A short example of running an analytics function over a table. Transaction data is loaded from the sstableloader through jmx. This is a interesting alternative to hive for single analytics clusters that run over a small to medium amount of data..
+https://github.com/datastaxcodesamples/datastax-bulkloader-writer-example # This demo creates the sstable files and loads them through jmx to a Cassandra cluster. It then writes transactions into a file of a certain size. The default is to load 1 million records and create files of 100,000 transactions in each file.
+https://github.com/datastaxcodesamples/datastax-liveindexing-demo # Demo to show live indexing in DSE Search.
+https://github.com/datastaxcodesamples/datastax-referencedata-example # Demo application which loads historic data for US Exchanges
+https://github.com/datastaxcodesamples/datastax-geospatial-demo # Geo spatial test for checking postcodes in a certain area.
+https://github.com/datastaxcodesamples/datastax-referencedata-binary-example # A reference data example where the end of day close data in held in bytebuffers instead of individual rows.
+https://github.com/datastaxcodesamples/datastax-risksensitivity-demo # A demo of a risk sensitivity collector and aggregator.
+https://github.com/datastaxcodesamples/datastax-tickdata-binary-example # Example of storing and accessing tickdata in binary format
+https://github.com/datastaxcodesamples/cassandra-logback-appender # Logback appender for sending logs to Cassandra - In Development - clone of https://github.com/datastax/cassandra-log4j-appender for logback
+https://github.com/datastaxcodesamples/datastax-taxi-app # This demo traces moving vehicles as they pass through geohash tiles. It also keeps track of a vehicle movements on a day to day basis. Similar to a vessel tracking or taxi application.
+https://github.com/datastaxcodesamples/datastax-titan-example # The following example loads Users and Products into a Titan graph using Cassandra/DSE as the back end storage. The sample query code is used to find recommendations for a random user.
+
+https://github.com/datastaxdevs/workshop-graphql-netflix # Workshop to illustrate how to use GraphQL
+https://github.com/datastaxdevs/workshop-introduction-to-nosql # Learn NoSQL fundamentals in this hands-on workshop
+https://github.com/datastaxdevs/workshop-ai-as-api #
+https://github.com/datastaxdevs/workshop-ecommerce-app # Are you building or do you support an e-commerce website? If so, then this content is for you! Worldwide digital sales in 2020 eclipsed four trillion dollars (USD). Businesses that want to compete, need a high
+performing e-commerce website. Here, we will demonstrate how to build a high performing persistence layer with DataStax ASTRA DB. https://github.com/datastaxdevs/appdev-week1-todolist # Summer Series Week 1 - Run your first frontend application the Todolist
+https://github.com/datastaxdevs/workshop-intro-to-graphql # Learn the basics of GraphQL. Plenty of hands-on experience covering: a React client interacting with Astra DB using the Netlify stack; usage of playgrounds and tooling; running your own Java GraphQL backend b
+ased on the Netflix DGS framework. https://github.com/datastaxdevs/bootcamp-fullstack-apps-with-cassandra # Learn how to build a backend for Cassandra, from data model to drivers to API exposition
+https://github.com/datastaxdevs/workshop-spring-stargate # Building Spring Boot/data Application leveraging Cassandra and Stargate
+https://github.com/datastaxdevs/learningpath-docker # Docker online course for developers
+https://github.com/datastaxdevs/workshop-spring-data-cassandra # Build a Todolist with Spring Data Cassandra
+https://github.com/datastaxdevs/react-basics # A quick overview of React Basics
+https://github.com/datastaxdevs/workshop-streaming-game # A simple multiplayer online game (with in-game chat) featuring: Astra Streaming, Astra DB, WebSockets, React for the front-end and FastAPI for the back-end. Also spiders!
+https://github.com/datastaxdevs/workshop-microservices-java # Rest API for Todobackend on top of Cassandra
+https://github.com/datastaxdevs/workshop-cassandra-data-modeling # This session looks at how to effectively design a data model for your application. You’ll leave knowing how to create data models that scale effectively as your system grows
+https://github.com/datastaxdevs/workshop-pulsar # Getting started with Pulsar and Cassandra
+https://github.com/datastaxdevs/workshop-intro-quarkus-cassandra #
+https://github.com/datastaxdevs/workshop-cassandra-fundamentals # Welcome to the Apache Cassandra™ Fundamentals workshop! In this two-hour workshop, we shows the most important fundamentals and basics of the powerful distributed NoSQL database Apache Cassandra™.
+https://github.com/datastaxdevs/workshop-sql-to-nosql-migration #
+https://github.com/datastaxdevs/event-streaming-series # Materials and content for the 3-episodes Event Streaming Series by DataStax Developers
+https://github.com/datastaxdevs/workshop-cassandra-application-development # Learn about drivers, connectivity and requests by running a simple API with Apache Cassandra/Astra DB as its data backend.
+https://github.com/datastaxdevs/workshop-storage-attached-indexes # Welcome to the 'Scalable Indexing for Cassandra using DataStax Astra' workshop! In this two-hour workshop, the Developer Advocate team of DataStax will explain the new Storage Attached Indexing (SAI)
+feature using Astra, the cloud based Cassandra-as-a-Service platform delivered by DataStax, to demonstrate how you can use them to add some much wante https://github.com/datastaxdevs/conference-2024-devoxx-france # Generative AI with Java
+https://github.com/datastaxdevs/conference-2022-devoxx # Deep Dive - A Java Developer Journey in to Cassandra
+https://github.com/datastaxdevs/workshop-introduction-to-machine-learning # Come ready to discover the goals and approaches of machine learning, and how to build effective algorithms and solutions!
+https://github.com/datastaxdevs/ai-agent-java # Online workshop to learn how to build your own Java AI Agent
+https://github.com/datastaxdevs/ai_ml_workshop_notebooks #
+https://github.com/datastaxdevs/workshop-rag-fashion-buddy # Material and step by step instructions for the Fashion Buddy workshop
+https://github.com/datastaxdevs/workshop-intro-streaming-and-cdc # We will visit the basics of change data capture (CDC) and why it's become so popular recently - with CDC, developers create smarter applications when real-time data is connected to the whole data ecosystem. During the workshop we will highlight use cases that make it your go-to solution when modernizing applications, getting more value out of your data (real-time), and joining new machine learning techniques with old applications. We will introduce you to Apache Pulsar, show you how to enable the CDC feature in Datastax Astra, how to set up Astra Streaming, and (of course) how to get it all working together!
+https://github.com/datastaxdevs/workshop-your-k8s-to-cloud # Taking your K8s App to the cloud Online Workshop
+https://github.com/datastaxdevs/workshop-battlestax #
+https://github.com/datastaxdevs/cassandra-day # Public resources for Cassandra Day (slide decks and other useful content)
+https://github.com/datastaxdevs/advanced-cdc-for-astra #
+https://github.com/datastaxdevs/workshop-spring-quarkus-micronaut-cassandra # Support Material for workshops going over the 3 frameworks
+https://github.com/datastaxdevs/feast-cassandra-online-store # A Feast custom online store using Cassandra / Astra DB
+https://github.com/datastaxdevs/workshop-streaming-graph-quine # Workshop with Quine Partner showing power of Astra with Graph Analytics Quine.io
+https://github.com/datastaxdevs/workshop-swinburne # Repository for Swinburne University Hanoi workshop
+https://github.com/datastaxdevs/conference-2020-javafest-api # Source code for the talk on May 30th
+https://github.com/datastaxdevs/conf-grpc-rest-graphql-data-apis # Expose Rest,Graphql,Grpc Apis on Top for Your Databases
+https://github.com/datastaxdevs/workshop-realtime-data-pipelines # You will inspect and run a sample architecture making use of Apache Pulsar™ and Pulsar Functions for real-time, event-streaming-based data ingestion, cleaning and processing.
+https://github.com/datastaxdevs/workshop-beam # Getting Started with Beam and Astra
+https://github.com/datastaxdevs/conference-2021-apidays-stargate # Demos of Stargate with the APS
+https://github.com/datastaxdevs/workshop-cassandra-driver-nodejs-portugues # Portuguese version of the Cassandra driver javascript node.js workshop
+https://github.com/datastaxdevs/netlify-astra-example #
+https://github.com/datastaxdevs/conference-2022-devoxx-france # DEVOXX FRANCE, Build Performant applications with Apache Cassandra
+https://github.com/datastaxdevs/quarkus-astra-intro-demo #
+https://github.com/datastaxdevs/workshop-astra-block # AstraBlock Workshop
+https://github.com/datastaxdevs/workshop-wikipedia-qa # Real-time document Q&A using Pulsar, Cassandra, LangChain, and open-source language models.
+https://github.com/datastaxdevs/conference-2020-dataconla-stargate # Material and Demo for a Talk on 2020/10/24
+https://github.com/datastaxdevs/cdc-for-astra-guides #
+https://github.com/datastaxdevs/astrapy #
+https://github.com/datastaxdevs/terraform-tryout #
+https://github.com/datastaxdevs/learningpath-terraform-it #
+https://github.com/datastaxdevs/workshop-nosqlbench # The goal of this workshop is to get you familiar with the powerful and versatile tool NoSQLBench. With that, you can perform industry-grade, robust benchmarks aimed at several (distributed) target systems, especially NoSQL databases.
+https://github.com/datastaxdevs/datastaxdevs.github.io # Website for DataStax developers initiatives
+https://github.com/datastaxdevs/conference-2021-apachecon-stargate # Materials for the conference Apachecon2021
+https://github.com/datastaxdevs/demo-astra-sdk-java # Sample codes for the tutorial series on getting started with the SDK
+https://github.com/datastaxdevs/workshop-ios-swift-astra # Sample IOS app in Swift that connects to Datastax Astra
+https://github.com/datastaxdevs/demo-generativeai-with-java # Show how to build a project to do generative Ai with Java
+https://github.com/datastaxdevs/python_vector_shakespeare #
+https://github.com/datastaxdevs/mini-demo-astradb-llamaindex #
+https://github.com/datastaxdevs/apiworld-stargate-tour #
+https://github.com/datastaxdevs/datastax-content-repository #
+https://github.com/datastaxdevs/nodejs-vector-shakespeare #
+https://github.com/datastaxdevs/killercoda-scenarios # Collaborative Scenarios repository
+https://github.com/datastaxdevs/astra-and-startree-demo # A collection of the things used during the Astra and StarTree demonstration
+https://github.com/datastaxdevs/mini-demo-astradb-glean # Demo showing how to index AstraDB data into Glean
+https://github.com/datastaxdevs/conference-2019-shiftdev-apis # Source code, slides and material for Talk at ShiftConf Dev
+https://github.com/datastaxdevs/shared-assets # Shared library for assets in README and documentations
+https://github.com/datastaxdevs/conference-2021-javazone # 4H Workshop that will happen on December 7th 2021
+https://github.com/datastaxdevs/luna-streaming-examples # A collection of examples that can be used with DataStax Pulsar Helm chart.
+https://github.com/datastaxdevs/astra_vector_examples #
+https://github.com/datastaxdevs/gallery_content_loader #
+https://github.com/datastaxdevs/conference-2024-devoxx # From naive to advanced RAG: the complete guide
+https://github.com/datastaxdevs/demo-astra-db-amazon-bedrock # Instruction to run the demo of AstraDB with bedrock
+https://github.com/datastaxdevs/gallery-typescript #
+https://github.com/datastaxdevs/mini-demo-astradb-langchain #
+https://github.com/datastaxdevs/mini-demo-astradb-griptape # Demo of the Astra DB integration with Griptape
+
+https://github.com/datastax-examples/sparkbuildexamples # Example projects for using Spark and Cassandra With DSE Analytics
+https://github.com/datastax-examples/spring-data-starter # ⚡️ A sample Spring Data Cassandra REST API
+https://github.com/datastax-examples/spring-k8s-cassandra-microservices # Example microservices with Spring, Kubernetes, and Cassandra
+https://github.com/datastax-examples/todo-astra-jamstack-netlify # Todo list JAMStack app example with ReactJS + DataStax Astra DB
+https://github.com/datastax-examples/battlestax # BattleStax is a stateful JAMStack game that is wholesome fun for the entire crew.
+https://github.com/datastax-examples/java-cassandra-driver-from3x-to4x # StandAlone classes illustrating portion of DataStax Java Driver in version 3.x then 4.x
+https://github.com/datastax-examples/astra-tik-tok # A simple Tik Tok clone running on AstraDB that leverages the Document API.
+https://github.com/datastax-examples/astra-netflix # Let's code a Netflix Clone with GraphQL Pagination!
+https://github.com/datastax-examples/getting-started-with-astra-python # Example REST API in Python showing how to connect to and query DataStax Astra databases
+https://github.com/datastax-examples/astra-next.js-starter # ⚡️ A sample Next.js + DataStax Astra starter app that leverages the AstraDB REST API to manage a character database.
+https://github.com/datastax-examples/getting-started-with-astra-java # Example REST API in Java showing how to connect to and query DataStax Astra databases
+https://github.com/datastax-examples/kafka-connector-sink-json # Ingest JSON records from Kafka to multiple tables in the database using the DataStax Apache Kafka Connector
+https://github.com/datastax-examples/rpg-astra # This example is a simple RPG application that allows you to add skills and allocate skill points to them, gaining you experience and levels as a result.
+https://github.com/datastax-examples/spring-petclinic-reactive # Reactive version of Spring PetClinic sample application based on Spring Webflux and Cassandra
+https://github.com/datastax-examples/java-framework-compare # Samples comparing popular Java frameworks: Spring, Quarkus, Micronaut, Helidon
+https://github.com/datastax-examples/crud-with-python-and-node # ✨ Learn how to execute CRUD operations against with NodeJS and Python
+https://github.com/datastax-examples/python-website-scraper # Learn how to scrape websites with Python, Selenium, Requests HTML, Celery, FastAPI, & NoSQL with Cassandra via AstraDB.
+https://github.com/datastax-examples/concurrent-requests-java # Execute multiple concurrent requests asynchronously with Cassandra using the Java DataStax Driver
+https://github.com/datastax-examples/astra-gatsbyjs-starter # 🚀 A sample React, Typescript, DataStax Astra, Gatsby.js app
+https://github.com/datastax-examples/object-mapper-jvm # Examples of the Java DataStax Driver Object Mapper with alternative JVM languages and frameworks
+https://github.com/datastax-examples/astra-loom # Elixir/Phoenix based web chat using Liveviews and the DataStax Astra Elixir module
+https://github.com/datastax-examples/dsbulk-to-astra # Load data from CSV or Cassandra into Astra with the DataStax Bulk Loader
+https://github.com/datastax-examples/ai-as-an-api # Learn to create & deploy a deep learning algorithm into a production REST API microservice using Python, Keras, FastAPI, & NoSQL.
+https://github.com/datastax-examples/cassandra-reactive-demo-java # Use reactive programming in Java applications with Cassandra and DataStax databases
+https://github.com/datastax-examples/getting-started-with-astra-ui #
+https://github.com/datastax-examples/astra-spark-migration # Migrate data from an existing Cassandra cluster to Astra using a Spark application.
+https://github.com/datastax-examples/google-cloud-functions-nodejs # Use Google Cloud Functions with the Node.js DataStax Driver to set up a Cassandra REST API with the Serverless Framework
+https://github.com/datastax-examples/graphql-example-java # Application demonstrating using Cassandra, GraphQL, and a modern javascript based frontend.
+https://github.com/datastax-examples/astra-nextjs-tutorial # reate a fullstack NextJS app while following along with the tutorial video and blogpost from Eddie Jaoude.
+https://github.com/datastax-examples/quickstart-nodejs # A basic demo CRUD application using the DataStax Node.js driver
+https://github.com/datastax-examples/sample-app-template # Use this as a template for creating new Sample Apps for AstraDB
+https://github.com/datastax-examples/quickstart-python # A basic demo CRUD application using the DataStax Python driver
+https://github.com/datastax-examples/quickstart-java # A basic demo CRUD application using the DataStax Java driver
+https://github.com/datastax-examples/object-mapper-csharp # Basic example of the C# DataStax Driver Object Mapper with Cassandra
+https://github.com/datastax-examples/astradb-spring-rest #
+https://github.com/datastax-examples/ticker-demo-python # A basic Python stock tick demo application using DataStax Enterprise.
+https://github.com/datastax-examples/kafka-connector-sink-avro # Ingest Avro records from Kafka to a table in the database using the DataStax Apache Kafka Connector
+https://github.com/datastax-examples/astra-dataflow-starter # Integration of Astra with Beam and GCP Dataflow
+https://github.com/datastax-examples/spring-data-cassandra-dse # Samples Codes to work with both
+https://github.com/datastax-examples/linq-csharp # Basic example of using LINQ with Cassandra and the C# DataStax Driver
+https://github.com/datastax-examples/langflow-demo-prod #
+https://github.com/datastax-examples/concurrent-requests-python # Execute multiple concurrent requests asynchronously with Cassandra using the Python DataStax Driver
+https://github.com/datastax-examples/metrics-to-prometheus-java # Configure the java driver to send metrics to Prometheus
+https://github.com/datastax-examples/betterreads-webapp # Companion code for the Java Brains "code with me" series that reads data from DataStax Astra DB.
+https://github.com/datastax-examples/dsegraphframes-spark-filtering # Load vertices and edges via DataStax Graph Frames and use Spark collaborative filtering algorithms
+https://github.com/datastax-examples/astra-nodejs-starter # Bootstrap your next NodeJS app with an Astra integration.
+https://github.com/datastax-examples/telco-billing-app # An example of a telcom app dashboard, built with React and Netlify.
+https://github.com/datastax-examples/astra-jdbc-connector # Astra Jdbc Drivers leveragin ING one
+https://github.com/datastax-examples/all_astra_apis # Demonstrates how to use the various available Astra APIs
+https://github.com/datastax-examples/glitch-astra-starter # Jumpstart your next NodeJS prototype with this starter!
+https://github.com/datastax-examples/forward-paging-restui-java # Forward paging of results from a REST endpoint using the Java DataStax Driver
+https://github.com/datastax-examples/taxi-iot-demo # This demo traces moving vehicles as they pass through geohash tiles. It also keeps track of a vehicle movements on a day to day basis.
+https://github.com/datastax-examples/prepared-statements-nodejs # Query Cassandra using prepared statements and the Node.js DataStax Driver
+https://github.com/datastax-examples/quickstart-csharp # A basic demo CRUD application using the DataStax C# driver
+https://github.com/datastax-examples/datastax-examples-template # This is an template repo for use on the DataStax examples site
+https://github.com/datastax-examples/aws-lambda-nodejs # Use AWS Lambda Functions with the Node.js DataStax Driver to set up a Cassandra REST API with the Serverless Framework
+https://github.com/datastax-examples/random-paging-restui-java # Random paging of results from a REST endpoint using the Java DataStax Driver
+https://github.com/datastax-examples/spark-dsegf-identity-resolution # Identity Resolution using Spark 3.1 & Spark 2.4 (branch: spark-2.4.8) and DSE GraphFrames (DSE v6.8) with BYOS
+https://github.com/datastax-examples/query-diagnostics # A simple example to demonstrate ways to diagnose problems when querying an Apache Cassandra™ cluster.
+https://github.com/datastax-examples/banking-iot-demo # Banking IoT example of processing millions of transactions.
+https://github.com/datastax-examples/graph-traversal-builder-java # Simplify construction of complex graph traversals by implementing a traversal builder pattern in Java
+https://github.com/datastax-examples/object-mapper-java # Basic example of the Java DataStax Driver Object Mapper with Cassandra
+https://github.com/datastax-examples/astra-ide-plugin # Astra DB is a serverless NoSQL database as a service, built on Apache Cassandra (tm). Navigate, insert and edit data in your Astra DB without coding, directly in your favorite JetBrains IDE using this plugin from DataStax. This plugin also works with open source Apache Cassandra 4.0 once a Stargate Data API gateway has been configured.
+https://github.com/datastax-examples/weatherapp # Stargate Document API as TimeSeries DB for Weather Monitoring
+https://github.com/datastax-examples/blobs-java # Write and read blobs with Cassandra using the Java DataStax Driver
+https://github.com/datastax-examples/cluster-topology-java # Programmatically retrieve cluster topology in Java
+https://github.com/datastax-examples/todo-native-mobile # Adaptation of ToDo List Web App created for a DataStax workshop
+https://github.com/datastax-examples/nf-data-explorer # Launch Netlfix's Open Source Data Explorer in Gitpod and connect to your Astra DB instance!
+https://github.com/datastax-examples/astra-aws-glue-starter #
+https://github.com/datastax-examples/concurrent-requests-csharp # Execute multiple concurrent requests asynchronously with Cassandra using the C# DataStax Driver
+https://github.com/datastax-examples/iot-demo-java # A small demo to show how to insert meter readings for a smart reader, using Cassandra and the DataStax Java Driver.
+https://github.com/datastax-examples/column-level-encryption-with-python-driver-demo # This example demonstrates the usage of Column Level Encryption feature of the open-source DataStax Cassandra Python Driver with DataStax Astra DB
+https://github.com/datastax-examples/quickstart-c # A basic demo CRUD application using the DataStax C/C++ driver
+https://github.com/datastax-examples/springboot3-astrastreaming-db #
+https://github.com/datastax-examples/dscryptocommerce-astradb #
+https://github.com/datastax-examples/getting-started-with-astra-csharp # Example REST API in C# showing how to connect to and query DataStax Astra databases
+https://github.com/datastax-examples/killrvideo-developerapis # Examples of Rest, GraphQL and gPRC interfaces working with Apache Cassandra.
+https://github.com/datastax-examples/astra-cli-github-action # Trigger the creation of a DB by github actions
+https://github.com/datastax-examples/fastsite-console # FastSite is a no-code tool to generate content-driven websites. It leverages the power of modern JAMStack and cloud-native technologies.
+https://github.com/datastax-examples/intro-dsegraphframes # Basic usage of DataStax Enterprise Graph Frames
+https://github.com/datastax-examples/how-to-create-an-example # This describes the process required to create and submit a new DataStax Example repository.
+https://github.com/datastax-examples/astra-samples-java # Set of sample codes to use Astra with Java
+https://github.com/datastax-examples/stargate-mongoose-demo-photography # Official sample app for stargate-mongoose and JSON API
+https://github.com/datastax-examples/astra-spring-data-standalone # Demo of Spring Data Cassandra + AstraDB without Spring BOOT
+https://github.com/datastax-examples/ex_bestpractices #
+https://github.com/datastax-examples/doom-patrol #
+https://github.com/datastax-examples/dc-latency-checker # Simple checker to see what the difference in latencies between 2 dcs and calculates an ongoing average.
+https://github.com/datastax-examples/geospatial-demo # Geospatial test for checking postcodes in a certain area.
+https://github.com/datastax-examples/stargate-mongoose-demo-discord-bot # Official sample app for stargate-mongoose and JSON API
+https://github.com/datastax-examples/cassandra-cicd-example #
+https://github.com/datastax-examples/tuples-nodejs # Write and read tuple types with Cassandra using the Node.js DataStax Driver
+https://github.com/datastax-examples/switch-connection-nodejs # Configure application at runtime to connect to an on-prem or cloud database using the Node.js DataStax Driver
+https://github.com/datastax-examples/object-mapper-nodejs # Basic example of the Node.js DataStax Driver Object Mapper with Cassandra
+https://github.com/datastax-examples/langchain-astrapy-hotels-app # The GenAI "Hotels demo" ported to AstraPy and the JSON API
+https://github.com/datastax-examples/switch-connection-csharp # Configure application at runtime to connect to an on-prem or cloud database using the C# DataStax Driver
+https://github.com/datastax-examples/spark-kafka-streaming # Demonstrate streaming data to Cassandra through Apache Spark from Kafka borkers.
+https://github.com/datastax-examples/switch-connection-java # Configure application at runtime to connect to on-prem or cloud database using Java DataStax Driver
+https://github.com/datastax-examples/kong-charts # demo Helm charts for Example Helm charts for deploying Kong on Kubernetes backed by Apache Cassandra running within DataStax Astra.
+https://github.com/datastax-examples/gremlin-reference-guides # Find the available Gremlin steps for Gremlin OLAP, Gremlin OLTP, and DataStax Enterprise Graph Frames across DSE versions
+https://github.com/datastax-examples/concurrent-requests-nodejs # Execute multiple concurrent requests asynchronously with Cassandra using the Node.js DataStax Driver
+https://github.com/datastax-examples/sai-demo # A brief demo to highlight Datastax's new feature, Storage-Attached Indexes.
+https://github.com/datastax-examples/beam-sdks-java-io-astra # Apache Beam SDK to work with Astra Pipelines
+https://github.com/datastax-examples/astra-samples-java-sdk # Set of sample codes to work with Astra SDK JAVA
+https://github.com/datastax-examples/azure-functions-nodejs # Use Azure Functions with the Node.js DataStax Driver to set up a Cassandra REST API with the Serverless Framework
+https://github.com/datastax-examples/paging-graph-results-java # Page result sets from a DataStax Graph traversal using the Java DataStax Driver
+https://github.com/datastax-examples/stargate-mongoose-demo-typescript-express-reviews # Official sample app for stargate-mongoose and JSON API
+https://github.com/datastax-examples/stargate-mongoose-demo-ecommerce # Official sample app for stargate-mongoose and JSON API
+https://github.com/datastax-examples/django-cassandra-blog # Learn how to build a blog application with Django and connect it to Astra DB by following along with Tomi's video.
+https://github.com/datastax-examples/astra101java # Minimal code sample to work ASTRA in Java
+https://github.com/datastax-examples/astra-nuxtjs-nestjs # Create a fullstack NuxtJS + NestJS app while following along with the tutorial video from Eddie Jaoude.
+https://github.com/datastax-examples/grpc-drivers-demo-java # Sample code to work with the cloud native drivers
+
+https://github.com/datastax-labs/astra-cli # DataStax Astra automation CLI https://astra.datastax.com
+https://github.com/datastax-labs/hunter #
+https://github.com/datastax-labs/knowledge-graphs-langchain #
+https://github.com/datastax-labs/montecristo # Datastax Cluster Health Check Tooling
+https://github.com/datastax-labs/colbert-wikipedia-data # ColBERT dense passage retrieval (DPR) search on Wikipedia datasets
+https://github.com/datastax-labs/astradb-janusgraph-demo-app #
+https://github.com/datastax-labs/knowledge-store #
+https://github.com/datastax-labs/cassandra-performance #
+https://github.com/datastax-labs/butler # Test results tracking tool for multi-ci, multi-version projects.
+
+https://github.com/killrvideo/killrvideo-python # Python implementation of KillrVideo service layer
+https://github.com/killrvideo/killrvideo-nodejs # A reference application for using Cassandra, DataStax Enterprise, and Node.js
+https://github.com/killrvideo/killrvideo-all-in-one # All-in-One Simplest KillrVideo Environment. Easiest way to launch KillrVideo using Docker.
+https://github.com/killrvideo/killrvideo-data # Schema and other database-related scripts for KillrVideo
+https://github.com/killrvideo/killrvideo-web # The web server and browser single page app for KillrVideo
+https://github.com/killrvideo/killrvideo.github.io # The info and docs site at https://killrvideo.github.io
+https://github.com/killrvideo/killrvideo-documentation # Extra documentation for KillrVideo (Schemas, UML)
+https://github.com/killrvideo/killrvideo-docker-common # Common docker scripts for KillrVideo
+https://github.com/killrvideo/killrvideo-service-protos # The Grpc service definitions for KillrVideo
+https://github.com/killrvideo/killrvideo-cdm # The KillrVideo dataset available in Cassandra Dataset Manager (CDM)
+https://github.com/killrvideo/killrvideo-dse-config # Docker Container to initialize a DataStax Enterprise cluster w/ KillrVideo Schema and Config https://killrvideo.github.io/
+https://github.com/killrvideo/killrvideo-studio-docker # DataStax Studio in a Docker Container initialized w/ KillrVideo sample notebooks https://killrvideo.github.io/
+https://github.com/killrvideo/killrvideo-generator # Sample data generator for KillrVideo
+https://github.com/killrvideo/killrvideo-csharp-migration # The migration base for the newest killrvideo-csharp!
+https://github.com/killrvideo/kvgraphql # Killrvideo graphql
+
+https://github.com/riptano/ccm # A script to easily create and destroy an Apache Cassandra cluster on localhost
+https://github.com/riptano/comboami # The AMI takes a set of input parameters via the EC2 user-data to install, RAID, ring, and launch a DataStax Enterprise/Community cluster.
+https://github.com/riptano/cdm # Cassandra Dataset Manager
+https://github.com/riptano/astra-portal-getting-started # Content home for Astra Portal getting started workflows
+https://github.com/riptano/fashion-buddy # Multimodal RAG application powered by DataStax Astra DB which performs a similarity search on the clothing worth in a users image.
+
+https://github.com/apache/cassandra # Apache Cassandra®
+https://github.com/apache/cassandra-java-driver # Java Driver for Apache Cassandra®
+https://github.com/apache/cassandra-gocql-driver # GoCQL Driver for Apache Cassandra®
+https://github.com/apache/cassandra-dtest # Distributed tests for Apache Cassandra®
+
+https://github.com/datastax/spark-cassandra-connector # DataStax Connector for Apache Spark to Apache Cassandra
+https://github.com/datastax/python-driver # DataStax Python Driver for Apache Cassandra
+https://github.com/datastax/nodejs-driver # DataStax Node.js Driver for Apache Cassandra
+https://github.com/datastax/csharp-driver # DataStax C# Driver for Apache Cassandra
+https://github.com/datastax/php-driver # [MAINTENANCE ONLY] DataStax PHP Driver for Apache Cassandra
+https://github.com/datastax/cpp-driver # DataStax C/C++ Driver for Apache Cassandra
+https://github.com/datastax/cass-operator # The DataStax Kubernetes Operator for Apache Cassandra
+https://github.com/datastax/ruby-driver # [MAINTENANCE ONLY] DataStax Ruby Driver for Apache Cassandra
+https://github.com/datastax/graph-book # The Code Examples and Notebooks for The Practitioners Guide to Graph Data
+https://github.com/datastax/cql-proxy # A client-side CQL proxy/sidecar.
+https://github.com/datastax/astra-assistants-api # Drop in replacement for the OpenAI Assistants API
+https://github.com/datastax/ragstack-ai # RAGStack is an out of the box solution simplifying Retrieval Augmented Generation (RAG) in AI apps.
+https://github.com/datastax/metric-collector-for-apache-cassandra # Drop-in metrics collection and dashboards for Apache Cassandra
+https://github.com/datastax/dsbulk # DataStax Bulk Loader (DSBulk) is an open-source, Apache-licensed, unified tool for loading into and unloading from Apache Cassandra(R), DataStax Astra and DataStax Enterprise (DSE)
+https://github.com/datastax/zdm-proxy # An open-source component designed to seamlessly handle the real-time client application activity while a migration is in progress.
+https://github.com/datastax/dynamo-cassandra-proxy # Preview version of an open source tool that enables developers to run their AWS DynamoDB™ workloads on Apache Cassandra™. With the proxy, developers can run DynamoDB workloads outside of AWS (including on premises,
+other clouds, and in hybrid configurations). https://github.com/datastax/docker-images # Docker images published by DataStax.
+https://github.com/datastax/cstar_perf # Apache Cassandra performance testing platform
+https://github.com/datastax/ai-chatbot-starter # A starter app to build AI powered chat bots with Astra DB and LlamaIndex
+https://github.com/datastax/ragbot-starter # An Astra DB and OpenAI chatbot
+https://github.com/datastax/zdm-proxy-automation # An Ansible-based automation suite to deploy and manage the Zero Downtime Migration Proxy
+https://github.com/datastax/wikichat #
+https://github.com/datastax/graph-examples #
+https://github.com/datastax/fallout # Distributed System Testing as a Service
+https://github.com/datastax/reactive-pulsar # Reactive Streams adapter for Apache Pulsar Java Client
+https://github.com/datastax/pulsar-jms # DataStax Starlight for JMS, a JMS API for Apache Pulsar ®
+https://github.com/datastax/swiftiegpt #
+https://github.com/datastax/pulsar-helm-chart # Apache Pulsar Helm chart
+https://github.com/datastax/kafka-examples # Examples of using the DataStax Apache Kafka Connector.
+https://github.com/datastax/kaap # KAAP, Kubernetes Autoscaling for Apache Pulsar
+https://github.com/datastax/cassandra-quarkus # An Apache Cassandra(R) extension for Quarkus
+https://github.com/datastax/pulsar-admin-console # Pulsar Admin Console is a web based UI that administrates topics, namespaces, sources, sinks and various aspects of Apache Pulsar features.
+https://github.com/datastax/sstable-to-arrow #
+https://github.com/datastax/cdc-apache-cassandra # Datastax CDC for Apache Cassandra
+https://github.com/datastax/simulacron # Simulacron - An Apache Cassandra® Native Protocol Server Simulator
+https://github.com/datastax/astra-cli # Command Line Interface for DataStax Astra
+https://github.com/datastax/code-samples # Code samples from DataStax
+https://github.com/datastax/starlight-for-rabbitmq # Starlight for RabbitMQ, a proxy layer between RabbitMQ/AMQP0.9.1 clients and Apache Pulsar
+https://github.com/datastax/diagnostic-collection # Diagnostic Collector for Apache Cassandra
+https://github.com/datastax/dse-metric-reporter-dashboards # Prometheus & Grafana dashboards for DSE metric collector
+https://github.com/datastax/cassandra-data-migrator # Cassandra Data Migrator - Migrate & Validate data between origin and target Apache Cassandra®-compatible clusters.
+https://github.com/datastax/cla-enforcer # A Contributor License Agreement enforcement bot
+https://github.com/datastax/spark-cassandra-stress # A tool for testing the DataStax Spark Connector against Apache Cassandra or DSE
+https://github.com/datastax/pulsar-heartbeat # Pulsar Heartbeat monitors Pulsar cluster availability, tracks latency of Pulsar message pubsub, and reports failures of the Pulsar cluster. It produces synthetic workloads to measure end-to-end message pubsub latency.
+https://github.com/datastax/cassandra-log4j-appender # Cassandra appenders for Log4j
+https://github.com/datastax/astrapy # AstraPy is a Pythonic interface for DataStax Astra DB and the Data API
+https://github.com/datastax/terraform-provider-astra # A project that allows DataStax Astra users to manage their full database lifecycle for Astra Serverless databases (built on Apache Cassandra(TM)) using Terraform
+https://github.com/datastax/cassandra-data-apis # Data APIs for Apache Cassandra
+https://github.com/datastax/labs # DataStax Labs preview program
+https://github.com/datastax/astra-sdk-java # Set of client side libraries to help with Astra Platform usage
+https://github.com/datastax/movies_plus_plus #
+https://github.com/datastax/dc-failover-demo # Fault Tolerant Applications with Apache Cassandra™ Demo
+https://github.com/datastax/kafka-sink # Apache Kafka® sink for transferring events/messages from Kafka topics to Apache Cassandra®, DataStax Astra and DataStax Enterprise (DSE).
+https://github.com/datastax/starlight-for-kafka # DataStax - Starlight for Kafka
+https://github.com/datastax/native-protocol # An implementation of the Apache Cassandra® native protocol
+https://github.com/datastax/astrajs # A monorepo containing tools for interacting with DataStax Astra and Stargate
+https://github.com/datastax/astra-db-ts # Typescript client for Astra DB Vector
+https://github.com/datastax/pulsar-sink # An Apache Pulsar® sink for transferring events/messages from Pulsar topics to Apache Cassandra®, DataStax Astra or DataStax Enterprise (DSE) tables.
+https://github.com/datastax/block-explorer #
+https://github.com/datastax/go-cassandra-native-protocol # Cassandra Native Protocol bindings for the Go language
+https://github.com/datastax/cassandra-reactive-demo # A demo application that interacts with Apache Cassandra(R) using the Java driver 4.4+ and reactive programming
+https://github.com/datastax/pulsar-transformations #
+https://github.com/datastax/astra-db-java # Java Client for DataStax Astra DB and the Data API
+https://github.com/datastax/adelphi # Automation tool for testing C* OSS that assembles cassandra-diff, nosqlbench, fqltool
+https://github.com/datastax/remote-junit-runner # JUnit runner that executes tests in a remote JVM
+https://github.com/datastax/release-notes # Release Notes for DataStax Products
+https://github.com/datastax/dsbulk-migrator #
+https://github.com/datastax/gatling-dse-plugin #
+https://github.com/datastax/vault-plugin-secrets-datastax-astra # HashiCorp Vault Plugin for Datstax Astra
+https://github.com/datastax/snowflake-connector # Datastax Snowflake Sink Connector for Apache Pulsar
+https://github.com/datastax/pulsar-3rdparty-connector # This project provides simple templates and instructions to build Apache Pulsar connectors on base of the existing Apache Kafka connectors.
+https://github.com/datastax/gocql-astra # Support for gocql on Astra
+https://github.com/datastax/cass-config-builder # Configuration builder for Apache Cassandra based on definitions at datastax/cass-config-definitions
+https://github.com/datastax/dsbench-labs # DSBench - A Database Testing Power Tool
+https://github.com/datastax/astra-client-go #
+https://github.com/datastax/java-driver-scala-extras # Scala extensions and utilities for the DataStax Java Driver
+https://github.com/datastax/astra-db-chatbot-starter #
+https://github.com/datastax/ai-agent-java # AI Agent Starter in Java
+https://github.com/datastax/burnell # A proxy to Pulsar cluster
+https://github.com/datastax/gatling-dse-stress #
+https://github.com/datastax/gatling-dse-simcatalog #
+https://github.com/datastax/pulsar-ansible #
+https://github.com/datastax/ragstack-ai-ts #
+https://github.com/datastax/java-quotient-filter # A Java Quotient Filter implementation.
+https://github.com/datastax/charts # DataStax Helm Charts
+https://github.com/datastax/ds-support-diagnostic-collection # Scripts for collection of diagnostic information from DSE/Cassandra clusters running on various platforms
+https://github.com/datastax/astra-ide-plugin #
+https://github.com/datastax/terraform-helm-oci-release #
+https://github.com/datastax/cass-config-definitions #
+https://github.com/datastax/terraform-datastax-ai-stack #
+https://github.com/datastax/go-cassandra-simple-client # A simple Go client for the Cassandra native protocol
+https://github.com/datastax/doyouknowyourstuff #
+https://github.com/datastax/cpp-dse-driver-examples # Examples for using the DataStax C/C++ Enterprise Driver
+https://github.com/datastax/starlight-for-grpc #
+https://github.com/datastax/genai-cookbook # Recipes for building on GenAI apps on AstraDB
+https://github.com/datastax/java-driver-examples-osgi # Examples showing the usage of the DataStax Java driver in OSGi applications.
+https://github.com/datastax/nodejs-driver-graph # DataStax Node.js Driver Extensions for DSE Graph
+https://github.com/datastax/junitpytest # JUnit5 plugin to run pytest via Gradle
+https://github.com/datastax/spark-cassandra-connector-devtools # Extra stuff useful for development of spark-cassandra-connector e.g. performance tests
+https://github.com/datastax/cassandra-drivers-smoke-test # Smoke tests for Apache Cassandra using the DataStax Drivers
+https://github.com/datastax/astra-streaming-examples #
+https://github.com/datastax/homebrew-luna-streaming-shell #
+https://github.com/datastax/aws-secrets-manager-integration-astra #
+https://github.com/datastax/venice-helm-chart #
+https://github.com/datastax/migration-docs #
+https://github.com/datastax/astra-db-recommendations-starter #
+https://github.com/datastax/java-driver-archetypes # Maven archetypes for the DataStax Cassandra(R) Java Driver
+https://github.com/datastax/terraform-aws-ai-stack #
+https://github.com/datastax/fallout-tests #
+https://github.com/datastax/create-astradb-mongoose-app #
+https://github.com/datastax/adoc-howto # Asciidoc How-to guide for use with several DataStax documentation guides. We use AsciiDoc for writing documentation, and want users to know how to contribute.
+https://github.com/datastax/csharp-driver-graph # DataStax C# Driver Extensions for DSE Graph
+https://github.com/datastax/python-driver-wheels #
+https://github.com/datastax/messaging-connectors-commons #
+https://github.com/datastax/powerquery_astra_db_connector #
+https://github.com/datastax/vertex-ai-extension #
+https://github.com/datastax/pulsar-openid-connect-plugin #
+https://github.com/datastax/ragulate #
+https://github.com/datastax/venice #
+https://github.com/datastax/kcloud #
+https://github.com/datastax/pulsar-fallout #
+https://github.com/datastax/classic-graph-migration #
+https://github.com/datastax/langstream-vscode #
+https://github.com/datastax/starlight-for-kafka-docs #
+https://github.com/datastax/pulsar_workshop #
+https://github.com/datastax/kaap-operator-docs #
+https://github.com/datastax/pulsar-docs # Documentation for the Pulsar on K8 project.
+https://github.com/datastax/pulsar-subscription-example #
+https://github.com/datastax/vectorize-perf #
+https://github.com/datastax/starlight-for-jms-docs #
+https://github.com/datastax/graph-rag-example #
+https://github.com/datastax/homebrew-astra-cli #
+https://github.com/datastax/vercel-datastax-ai-sdk #
+https://github.com/datastax/api-plumber-doclet # I'm in your API, checking for leaks
+https://github.com/datastax/streaming-learning-docs #
+https://github.com/datastax/tutorials #
+https://github.com/datastax/terraform-gcp-ai-stack #
+https://github.com/datastax/java-driver-shaded-guava # Shaded Guava artifact for use in the DataStax Java driver for Apache Cassandra®
+https://github.com/datastax/dseebcfittransformer #
+https://github.com/datastax/adelphi-schemas #
+https://github.com/datastax/pulsar-goperf-k8s #
+https://github.com/datastax/accordclient # Hosting source code for Accord's transaction consistency tests
+https://github.com/datastax/astra-support-troubleshooting #
+https://github.com/datastax/java-driver-policies # A collection of extra policies for the Apache Cassandra Java Driver.
+https://github.com/datastax/astra-cli-docs #
+https://github.com/datastax/pulsar-examples # Pulsar examples ...
+https://github.com/datastax/cohere-basic-astradb-integration #
+https://github.com/datastax/shared-github-actions #
+https://github.com/datastax/collectd #
+https://github.com/datastax/raffle-nextjs #
+https://github.com/datastax/pulsar-mirror #
+https://github.com/datastax/starlight-for-rabbitmq-docs #
+https://github.com/datastax/langflow-api-chat # A UI you can hook up to your DataStax Langflow chat bots
+https://github.com/datastax/libuv-packaging #
+https://github.com/datastax/terraform-azure-ai-stack #
+https://github.com/datastax/pulsar-admin-client-go # For a new client library written in Go for accessing pulsar clusters
+https://github.com/datastax/astra-streaming-docs #
+https://github.com/datastax/pulsar-sink-docs # Pulsar connector for C*
+https://github.com/datastax/luna_streaming_deployments #
+
 https://dbdb.io/db/cassandra

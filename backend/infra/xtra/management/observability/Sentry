@@ -1,0 +1,299 @@
+https://github.com/sentry-demos/android #
+https://github.com/sentry-demos/react #
+https://github.com/sentry-demos/sentry-micro-frontend #
+https://github.com/sentry-demos/detective-scentry # Chrome extension which "sniffs" f
+or monitoring SDKs (Sentry, NewRelic, Rollbar, Bugsnag) https://github.com/sentry-demos/express # https://docs.sentry.io/platforms/node/expre
+ss/ https://github.com/sentry-demos/fsharp #
+https://github.com/sentry-demos/nextjs-typescript #
+https://github.com/sentry-demos/tracing # Tracing between React javascript and back-e
+nd REST API's and other microservices https://github.com/sentry-demos/angular #
+https://github.com/sentry-demos/rest-api-scripts #
+https://github.com/sentry-demos/giraffe #
+https://github.com/sentry-demos/sentry_react_native # Error Monitoring, Performance M
+onitoring, Release Health https://github.com/sentry-demos/grpc #
+https://github.com/sentry-demos/aaa #
+https://github.com/sentry-demos/django #
+https://github.com/sentry-demos/apache-flink #
+https://github.com/sentry-demos/flutter #
+https://github.com/sentry-demos/next-js #
+https://github.com/sentry-demos/api_script_qm #
+https://github.com/sentry-demos/sentry-native #
+https://github.com/sentry-demos/vue-js #
+https://github.com/sentry-demos/flask # https://docs.sentry.io/platforms/python/flask
+/ https://github.com/sentry-demos/stackdriver-logging #
+https://github.com/sentry-demos/ruby_on_rails #
+https://github.com/sentry-demos/empower # Monorepo for web app (Empower Plant) and it
+s backend implementations in multiple languages/frameworks used in SE-demos, as well as for testing and sample events across the company. NOTE: used to be called "application-monitoring". https://github.com/sentry-demos/serverless # cloud functions
+https://github.com/sentry-demos/gql-tracing #
+https://github.com/sentry-demos/content-security-policy # https://docs.sentry.io/erro
+r-reporting/security-policy-reporting/#content-security-policy https://github.com/sentry-demos/ionic #
+https://github.com/sentry-demos/aspnetcore-mvc #
+https://github.com/sentry-demos/sentry_jira_server_webhook #
+https://github.com/sentry-demos/react-native # THIS is OLD (DO NOT USE)
+https://github.com/sentry-demos/ios # iOS Empower Plant
+https://github.com/sentry-demos/express-proxy #
+https://github.com/sentry-demos/terraform-demo #
+https://github.com/sentry-demos/advanced_scrubbing_automation #
+https://github.com/sentry-demos/ember #
+https://github.com/sentry-demos/webhook-replay #
+https://github.com/sentry-demos/java-spring-boot-logback #
+https://github.com/sentry-demos/kubernetes # sentry-kubernetes R&D
+https://github.com/sentry-demos/java-spring-boot-log4j # Sentry in a Java application
+using Log4j https://github.com/sentry-demos/react-error-boundary #
+https://github.com/sentry-demos/sentry-dashboard-export #
+https://github.com/sentry-demos/rust #
+https://github.com/sentry-demos/elixir #
+https://github.com/sentry-demos/component_to_dsn_mux # A proxy server written in Gola
+ng routing events from one codebase to different projects in Sentry based on a component tag name called `sentry_relay_component` https://github.com/sentry-demos/apache-spark # https://docs.sentry.io/platforms/pytho
+n/pyspark/ https://github.com/sentry-demos/a-vue #
+https://github.com/sentry-demos/unity-demo #
+https://github.com/sentry-demos/team_productivity_report # Team productivity report w
+ill be generated for a given project - JSON results https://github.com/sentry-demos/cocoa #
+https://github.com/sentry-demos/sentry-react-native-navigation #
+https://github.com/sentry-demos/toolstore-next.js #
+https://github.com/sentry-demos/quota_management_api_script #
+https://github.com/sentry-demos/dotnet-maui # .NET MAUI Sample
+https://github.com/sentry-demos/go-http #
+https://github.com/sentry-demos/sentrydsn #
+https://github.com/sentry-demos/qt-demo #
+https://github.com/sentry-demos/apache-beam #
+https://github.com/sentry-demos/electron #
+
+https://github.com/getsentry/sentry # Developer-first error tracking and performance
+monitoring https://github.com/getsentry/sentry-javascript # Official Sentry SDKs for JavaScript
+https://github.com/getsentry/self-hosted # Sentry, feature-complete and packaged up f
+or low-volume deployments and proofs-of-concept https://github.com/getsentry/responses # A utility for mocking out the Python Request
+s library. https://github.com/getsentry/sentry-python # The official Python SDK for Sentry.io
+https://github.com/getsentry/sentry-php # The official PHP SDK for Sentry (sentry.io)
+https://github.com/getsentry/sentry-react-native # Official Sentry SDK for React Nati
+ve https://github.com/getsentry/sentry-laravel # The official Laravel SDK for Sentry (se
+ntry.io) https://github.com/getsentry/sentry-java # A Sentry SDK for Java, Android and other J
+VM languages. https://github.com/getsentry/sentry-ruby # Sentry SDK for Ruby
+https://github.com/getsentry/sentry-go # The official Go SDK for Sentry (sentry.io)
+https://github.com/getsentry/sentry-cli # A command line utility to work with Sentry.
+https://github.com/getsentry/sentry-cocoa # The official Sentry SDK for iOS, tvOS, ma
+cOS, watchOS. https://github.com/getsentry/milksnake # A setuptools/wheel/cffi extension to embed a
+binary data in wheels https://github.com/getsentry/sentry-dart # Sentry SDK for Dart and Flutter
+https://github.com/getsentry/sentry-symfony # The official Symfony SDK for Sentry (se
+ntry.io) https://github.com/getsentry/sentry-elixir # The official Elixir SDK for Sentry (sent
+ry.io) https://github.com/getsentry/sentry-rust # Official Sentry SDK for Rust
+https://github.com/getsentry/sentry-dotnet # Sentry SDK for .NET
+https://github.com/getsentry/sentry-kubernetes # Kubernetes event reporter for Sentry
+https://github.com/getsentry/symbolic # Stack trace symbolication library written in
+Rust https://github.com/getsentry/action-release # GitHub Action for creating a release on
+Sentry https://github.com/getsentry/sentry-native # Sentry SDK for C, C++ and native applica
+tions. https://github.com/getsentry/pdb # A parser for Microsoft PDB (Program Database) debu
+gging information https://github.com/getsentry/symbolicator # Native Symbolication as a Service
+https://github.com/getsentry/spotlight # Your Universal Debug Toolbar
+https://github.com/getsentry/snuba # Search the seas for your lost treasure.
+https://github.com/getsentry/sentry-docs # Sentry's documentation (and tools to build
+it) https://github.com/getsentry/sentry-php-sdk # This is a meta package to ship sentry-p
+hp with a recommend http client. https://github.com/getsentry/relay # Sentry event forwarding and ingestion service.
+https://github.com/getsentry/rb # Routing and connection management for Redis in Pyth
+on https://github.com/getsentry/rust-sourcemap # A library for rust that implements basi
+c sourcemap handling https://github.com/getsentry/sentry-electron # The official Sentry SDK for Electron
+https://github.com/getsentry/sentry-unity # Development of Sentry SDK for Unity
+https://github.com/getsentry/sentry-wizard # Sentry Project Setup Wizard
+https://github.com/getsentry/action-github-app-token # Gets a GitHub auth token for a
+GitHub App installation https://github.com/getsentry/sentry-android-gradle-plugin # Gradle plugin for Sentry
+Android. Upload proguard, debug files, and more. https://github.com/getsentry/sentry-fastlane-plugin # Official fastlane plugin for Se
+ntry https://github.com/getsentry/sentry-kotlin-multiplatform # Sentry SDK for Kotlin Mult
+iplatform https://github.com/getsentry/sentry-javascript-bundler-plugins # JavaScript Bundler P
+lugins for Sentry https://github.com/getsentry/craft # The universal Sentry release CLI 🚀
+https://github.com/getsentry/fsl.software # Functional Source License (FSL)
+https://github.com/getsentry/sentry-capacitor # The official Sentry SDK for Capacitor
+https://github.com/getsentry/sentry-clj # Sentry SDK for Clojure
+https://github.com/getsentry/pytest-responses # py.test integration for responses
+https://github.com/getsentry/sentry-unreal # Unreal Engine
+https://github.com/getsentry/sentry-cordova # The official Sentry SDK for Cordova
+https://github.com/getsentry/sentry-dart-plugin # A Dart Build Plugin that uploads de
+bug symbols for Android, iOS/macOS and source maps for Web to Sentry via sentry-cli https://github.com/getsentry/sourcemaps.io # Web-based Source Map validator
+https://github.com/getsentry/integration-platform-example # An example kanban applica
+tion which explores the ways developers can build apps on Sentry's integration platform https://github.com/getsentry/breakpad-tools # Prebuilt tools and examples to work wit
+h Breakpad's minidumps https://github.com/getsentry/dotnet-assembly-alias # Tool to rename .NET assemblies a
+nd references https://github.com/getsentry/pytest-sentry # Track flaky tests in Sentry
+https://github.com/getsentry/sentry-mobile-release-health-app # Sentry Mobile App
+https://github.com/getsentry/sentry-xamarin # Sentry for Xamarin Native and Xamarin.F
+orms https://github.com/getsentry/babel-gettext-extractor # A fork of babel-gettext-plugin
+that works with older versions of node and supports comment and location extraction https://github.com/getsentry/vanguard #
+https://github.com/getsentry/unity # Unity SDK UPM package
+https://github.com/getsentry/arroyo # A library to build streaming applications that
+consume from and produce to Kafka. https://github.com/getsentry/sentry-fullstory # The Sentry-FullStory integration seam
+lessly integrates the Sentry and FullStory platforms. https://github.com/getsentry/platformicons # A platform and framework icon font.
+https://github.com/getsentry/xds # xDS service for Envoy
+https://github.com/getsentry/symbol-collector # Clients and Server to collect system
+symbols. https://github.com/getsentry/sentry-vscode # VSCode editor integration for Sentry
+https://github.com/getsentry/hackweek-coda # A queue thing with a sprinkle of Italian
+https://github.com/getsentry/gib-potato # More Potato, more awesome 🥔
+https://github.com/getsentry/rfcs # A place for technical discussions for Sentry
+https://github.com/getsentry/apple-crash-report-parser # A simple apple crash report
+parser for rust https://github.com/getsentry/chartcuterie # NodeJS service to render charts as images
+. Uses node-canvas + echarts https://github.com/getsentry/atlas # A map to your company
+https://github.com/getsentry/rust-proguard # A rust library for handling proguard map
+ping files https://github.com/getsentry/sentlog # CLI util for parsing arbitrary text data and s
+ending error-like events to Sentry https://github.com/getsentry/edmgutil # a handy utility to work with encrypted DMGs
+https://github.com/getsentry/sentry-github-actions-app # This app allows your organiz
+ation to instrument Github Actions with Sentry. You can use this to get insight of what parts of your CI are slow or failing often https://github.com/getsentry/vroom #
+https://github.com/getsentry/json-schema-diff # Diff changes between JSON schemas
+https://github.com/getsentry/sentaur-survivors # A Sentry-themed Vampire Survivors cl
+one written for Unity in C# https://github.com/getsentry/coredump-uploader # Coredump uploader
+https://github.com/getsentry/sentry-deno # The Official Sentry Deno SDK
+https://github.com/getsentry/eslint-config-sentry # eslint rules for sentry
+https://github.com/getsentry/sentry-release-registry # Meta repository with collected
+release history for SDKs and apps https://github.com/getsentry/sentry-defenses # A tower defense game based on live bug
+s coming into Sentry. https://github.com/getsentry/sentry-data-schemas # shared data schema definitions acr
+oss Sentry's services https://github.com/getsentry/js-source-scopes #
+https://github.com/getsentry/rust-anylog # Parses logfiles a bit
+https://github.com/getsentry/team-ospo # Open Source Program Office (OSPO)
+https://github.com/getsentry/reload #
+https://github.com/getsentry/.github # Global repo settings for sentry.io
+https://github.com/getsentry/publish # The repository to publish Craft prepared relea
+ses with approvals and without secrets https://github.com/getsentry/apple-system-symbols-upload #
+https://github.com/getsentry/utf16string # UTF-16 string types
+https://github.com/getsentry/sentry-visualstudio # Visual Studio 2019 plugin for Sent
+ry https://github.com/getsentry/event-ingestion-graph # Temporary (?) repo for interacti
+ve event ingestion graph/diagram https://github.com/getsentry/action-setup-venv #
+https://github.com/getsentry/pypi # sentry internal pypi
+https://github.com/getsentry/snuba-sdk # SDK for generating SnQL queries for Snuba
+https://github.com/getsentry/sentry.engineering #
+https://github.com/getsentry/seer # Seer is a service that provides AI capabilities t
+o Sentry, running inference on Sentry issues and providing insights to users. https://github.com/getsentry/sentry-orbital # Shim to send data to live.sentry.io, no
+w vendored into `getsentry` (were you using it?) https://github.com/getsentry/rust-json-forensics # Lossily convert non-standard JSON
+and overflowing integers to something serde-json can parse https://github.com/getsentry/status-page-list # JS Library for list of public status
+pages https://github.com/getsentry/web-benchmark # Get quick metrics for your web applicati
+on https://github.com/getsentry/cookie-sync # Browser extension to copy login cookies fr
+om sentry.io to dev.getsentry.net https://github.com/getsentry/go-load-tester # Proof of concept for a distributed load
+tester using Vegeta library https://github.com/getsentry/po-catalog-loader # Basic support module for loading po
+catalogs through webpack. https://github.com/getsentry/github-workflows # Collection of GitHub reusable workflo
+ws https://github.com/getsentry/sdk-measurements #
+https://github.com/getsentry/sentry-global-search # Unified search across Sentry's st
+atic content https://github.com/getsentry/statsdproxy # A proxy for transforming, pre-aggregating
+and routing statsd metrics https://github.com/getsentry/eng-pipes # Automations for the Engineering organization
+([get]sentry CI/CD tooling, metrics, issues/label management, ...) https://github.com/getsentry/delightful-developer-metrics # Examples for custom metri
+cs https://github.com/getsentry/sentry-user-scripts # greasemonkey / tampermonkey browse
+r user scripts https://github.com/getsentry/pokemon-market #
+https://github.com/getsentry/sentry-kafka-schemas #
+https://github.com/getsentry/action-app-sdk-overhead-metrics # Action to measure SDK
+overhead on Apps in SDK repos https://github.com/getsentry/action-migrations # GitHub Action to auto-generate SQL s
+tatements from a django migration https://github.com/getsentry/praise # Chrome extension to give praise to GitHub PRs w
+ith one click. https://github.com/getsentry/sentry-powershell # Sentry for PowerShell
+https://github.com/getsentry/team-mobile # Meta issues for the Mobile team
+https://github.com/getsentry/symx # Apple symbol manager
+https://github.com/getsentry/skrooge # A quick and dirty kubernetes cost estimator
+https://github.com/getsentry/watto #
+https://github.com/getsentry/github-deployment-gate #
+https://github.com/getsentry/devenv # unified dev environment management tool
+https://github.com/getsentry/errors-playground # A playground of errors in multiple f
+rameworks. https://github.com/getsentry/homebrew-tools #
+https://github.com/getsentry/sentry-echo # Hear the sound of errors — Powered by sent
+ry.io https://github.com/getsentry/deps # Dependency processing utilities
+https://github.com/getsentry/security-advisories # Centralized location for all secur
+ity vulnerability advisories stored as issues https://github.com/getsentry/sentry-hydrogen-demo # A demo of using Sentry + https://
+hydrogen.shopify.dev/ https://github.com/getsentry/sentry-api-schema # Sentry's public API schema
+https://github.com/getsentry/uptime-checker # Service responsible for powering Sentry
+'s uptime detection features https://github.com/getsentry/action-prepare-release # Common release prep action for
+Sentry projects, wrapping Craft https://github.com/getsentry/action-self-hosted-e2e-tests # A centralized location fo
+r self-hosted end-to-end tests https://github.com/getsentry/rust-debugid # Identifiers for code and debug files.
+https://github.com/getsentry/hackweek #
+https://github.com/getsentry/image-mirror # mirror dockerhub images into ghcr
+https://github.com/getsentry/sentry-devtools #
+https://github.com/getsentry/session-replay-analyzer # Session Replay analysis servic
+e https://github.com/getsentry/bucket-compression # Benchmarks for various floating poi
+nt compression algorithms https://github.com/getsentry/action-github-commit # GitHub Action to commit to GitHub
+using the API https://github.com/getsentry/sentry-migr8 # Migrate your Sentry SDK usage to v8.
+https://github.com/getsentry/action-fast-revert # quickly revert a merged PR (bypassi
+ng CI) https://github.com/getsentry/sentry-agent # Experimental proof of concept to send sys
+info metrics to Sentry https://github.com/getsentry/sentry-maven-plugin # A Sentry plugin for Maven
+https://github.com/getsentry/distributed-tracing-examples #
+https://github.com/getsentry/sentry-dotnet-aspire-demo # .NET Aspire Demo
+https://github.com/getsentry/profiling-browser # Official SDK integration for JS Self
+Profiling. https://github.com/getsentry/test-factory-utils #
+https://github.com/getsentry/hackweek-the-box #
+https://github.com/getsentry/web-benchmark-demo #
+https://github.com/getsentry/hackweek-rust-gui # A Hackweek project to create a Crash
+Reporter GUI in Rust https://github.com/getsentry/sentry-release-parser # A parser for sentry release name
+s https://github.com/getsentry/hackweek-trialbytriage #
+https://github.com/getsentry/test-sentry-fastapi-otel # Simple test setup for testing
+FastAPI microservices instrumented with Sentry and OTel. https://github.com/getsentry/test-otel-app # A test server & app to try OpenTelemetry
+integration. https://github.com/getsentry/piinguin # Playground for the new (experimental) PII str
+ipping in Sentry https://github.com/getsentry/hackweek-feature-flags # You got features? We got flags!
+https://github.com/getsentry/johen # Generative (property) testing, from python annot
+ations. https://github.com/getsentry/frontend-tutorial # Sample app for the Sentry frontend t
+utorial https://github.com/getsentry/hackweek-servicegraph # A graph of services
+https://github.com/getsentry/zentry # top secret hackweek project
+https://github.com/getsentry/sentry-waste-management # App for managing waste at Sent
+ry https://github.com/getsentry/hackweek-sentry-intellij-plugin # View issues and stackt
+races directly in Intellij or Android Studio. (hackweek project) https://github.com/getsentry/action-get-dependent-pr # GitHub Action to find cross re
+ferenced PRs https://github.com/getsentry/tacos-gha # Terraform Automation & Collaboration Softwar
+e (TACOS) help organizations to scale the use of Terraform by enabling collaboration through governance, access controls, and automation of Terraform runs. https://github.com/getsentry/example-minidump-upload # An example tool that uploads m
+inidumps and event payloads to Sentry with compression https://github.com/getsentry/action-validate-gocd-pipelines # Validates GoCD pipeline
+s. https://github.com/getsentry/sentry-infra-tools # An attempt to move senytry-kube to
+its own repository https://github.com/getsentry/usage-accountant # A library the Sentry application uses
+to account for usage of shared system resources broken down by feature. https://github.com/getsentry/sentry-godot # WIP Godot SDK
+https://github.com/getsentry/hackweek-terraform-registry-server # A basic private ser
+ver implementation of the Terraform Registry API. https://github.com/getsentry/sentry-group-test-tools # Tools for testing Sentry error
+grouping https://github.com/getsentry/sentry-javascript-examples # Example Apps for the Sentry
+JS SDKs https://github.com/getsentry/test-tracing-wo-performance-python # Simple test setup f
+or tracing without performance in Python. https://github.com/getsentry/demo-movie-search # A internal demo application with Dja
+ngo backend and React frontend. https://github.com/getsentry/sentaur-leaderboard #
+https://github.com/getsentry/security-cloud-functions-template #
+https://github.com/getsentry/changelog-twitter-poster # Update Twitter with new feed
+from Changelog https://github.com/getsentry/gocd-jsonnet # Jsonnet libraries used to help structure
+GoCD pipelines for getsentry https://github.com/getsentry/sentry-defender-server #
+https://github.com/getsentry/action-gocd-jsonnet # An action to check jsonnet files u
+p-to-date, rendering correctly and are formatted and linting well. https://github.com/getsentry/demo-python-trace-over-env # Simple demo that shows how
+to continue a trace in a sub process https://github.com/getsentry/peanutbutter # PB: Project Budgeting
+https://github.com/getsentry/fsf-philosophy #
+https://github.com/getsentry/grouping-tests # Create & visualize output of different
+grouping strategies https://github.com/getsentry/testing-craft-chadwhitacre #
+https://github.com/getsentry/replay-chrome-extension #
+https://github.com/getsentry/sentry-fuse # FUSE for Sentry
+https://github.com/getsentry/action-collect-test-data #
+https://github.com/getsentry/unreal-tower #
+https://github.com/getsentry/dev-hub # A hub for every developer. Manage your triage
+queue and the issues you are working on. https://github.com/getsentry/sentry-mirror # An ingest proxy that enables best-effor
+traffic mirroring across multiple DSNs to help facilitate region relocations. https://github.com/getsentry/python-new-hubs-and-scopes #
+https://github.com/getsentry/action-setup-volta # a github action to set up volta and
+its caches https://github.com/getsentry/github-deployment-gate-demo #
+https://github.com/getsentry/gcloud-tools # tools and scripts used for working with (
+and/or around) gcloud https://github.com/getsentry/clickhouse-query-sender #
+https://github.com/getsentry/test-awslambda-zappa-django # Reproduction repo for a cu
+stomer issue. https://github.com/getsentry/pycon22 #
+https://github.com/getsentry/clickhouse-tools # A repository to hold tooling built fo
+r clickhouse operations at Sentry https://github.com/getsentry/team-sdks # A meta repository for tracking work across a
+ll SDK teams. https://github.com/getsentry/chadwhitacre-test #
+https://github.com/getsentry/jsonnet-libs #
+https://github.com/getsentry/sentrymap # Hackweek project. Create a map of the Kingdo
+m of Sentry. https://github.com/getsentry/sentry-conventions # Sentry Semantic Conventions
+https://github.com/getsentry/sudo-gcp # CLI wrapper for `gcloud` to use a more secure
+pattern of temporary access tokens and service account impersonation. https://github.com/getsentry/size-limit-release # Add size limit information to a Git
+hub release. https://github.com/getsentry/gh-workflow-terrariform # A github workflow for use with
+Hashicorp Terrariform. https://github.com/getsentry/gocd-jsonnet-config-example #
+https://github.com/getsentry/devservices #
+https://github.com/getsentry/test-jsonnet #
+https://github.com/getsentry/sentry-timetravel #
+https://github.com/getsentry/.github-chadwhitacre # Chad's dev env for https://github
+.com/getsentry/.github https://github.com/getsentry/find-deprecated-github-actions #
+https://github.com/getsentry/action-enforce-license-compliance #
+https://github.com/getsentry/tacos-gha.demo # system-under-test for tacos-gha
+https://github.com/getsentry/sentry-redis-tools # Common utilities related to how Sen
+try uses Redis. https://github.com/getsentry/sentry-sdk-browser-extension # A browser extension to de
+bug the Sentry JavaScript Browser SDK. This is a hackweek project! https://github.com/getsentry/minimum_python_async # For testing async python
+https://github.com/getsentry/downtime-simulator # A simple app for creating a tempora
+ry downtime based on the host, built with Next.JS and KV storage. https://github.com/getsentry/haproxy-neighbors # haproxy with peer service discovery
+and consistent hashing https://github.com/getsentry/team-webplatform-meta #
+https://github.com/getsentry/craft-test-repo # craft tests
+https://github.com/getsentry/action-clickhouse-in-ci # Run Clickhouse in GitHub Actio
+ns https://github.com/getsentry/debugids # debugids Website
+https://github.com/getsentry/rust-usage-accountant # A library the Sentry application
+uses to account for usage of shared system resources broken down by feature. https://github.com/getsentry/sentry-avatar-generator #
+https://github.com/getsentry/sentry-protos # Protobuf schema, and service stub librar
+ies repo for internal sentry services https://github.com/getsentry/react-testing-library-slack-bot # Small slack bot to get
+the current react testing library conversion progress of sentry https://github.com/getsentry/session-replay-debugger #
+https://github.com/getsentry/sentry-cli-bin # A temporary repository for sharing bina
+ries https://github.com/getsentry/test-snuba-k8s # A mostly broken Snuba manifest for test
+s https://github.com/getsentry/sporadic # orbital but better
+https://github.com/getsentry/infra-event-notifier # Python package to parse topicctl
+output & send notifications https://github.com/getsentry/sentry-sourcemap-debug-id-cli # Repo for a POC JS source
+map debug id CLI implementation https://github.com/getsentry/hackweek-changetogether #
+https://github.com/getsentry/ophio #

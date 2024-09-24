@@ -1,0 +1,17 @@
+https://github.com/checkmk/checkmk # Checkmk - Best-in-class infrastructure & application monitoring
+
+https://github.com/checkmk/ansible-collection-checkmk.general # The official Checkmk Ansible collection - brought to you by the Checkmk company.
+https://github.com/checkmk/grafana-checkmk-datasource # CheckMK data source for Grafana
+https://github.com/checkmk/checkmk-docs # Checkmk user manual
+https://github.com/checkmk/checkmk_kube_agent #
+https://github.com/checkmk/kubernetes # Deploy Checkmk in Kubernetes
+https://github.com/checkmk/salt-checkmk # Salt integration of CheckMK
+https://github.com/checkmk/tribe29_jobs # tribe29 is the company developing Checkmk – an all-in-one IT monitoring software available both as an open-source and a commercial version. Checkmk allows you to monitor your servers, applications, networks, storage systems, databases, and cloud and container environments to ensure that your IT backbone never fails. Open-source is at the foundation of our company – we build it, we use it, we love it!
+https://github.com/checkmk/pyspdx # A small library to validate SPDX expressions
+https://github.com/checkmk/checkmk-dev-tools # A set of tools we use for developing Checkmk and related projects
+https://github.com/checkmk/checkmk-weblate-syncer # Synchronization between Checkmk and Weblate
+https://github.com/checkmk/robotmk-examples # Example testcases and templates for Synthetic Monitoring / Robotmk
+https://github.com/checkmk/checkmk-fosdem-content #
+https://github.com/checkmk/netapp-ontap-cmk # This is a fork from https://pypi.org/project/netapp-ontap
+https://github.com/checkmk/robotframework-robotmklibrary #
+https://github.com/checkmk/checkmk-fosdem-static #

@@ -1,0 +1,19 @@
+https://github.com/jaegertracing/jaeger # CNCF Jaeger, a Distributed Tracing Platform
+
+https://github.com/jaegertracing/jaeger-ui # Web UI for Jaeger
+https://github.com/jaegertracing/jaeger-operator # Jaeger Operator for Kubernetes sim
+plifies deploying and running Jaeger on Kubernetes. https://github.com/jaegertracing/helm-charts # Helm Charts for Jaeger backend
+https://github.com/jaegertracing/jaeger-clickhouse # Jaeger ClickHouse storage plugin
+implementation https://github.com/jaegertracing/spark-dependencies # Spark job for dependency links
+https://github.com/jaegertracing/docker-protobuf # An all-inclusive protoc Docker im
+age for the Jaeger project https://github.com/jaegertracing/jaeger-idl # A set of shared data model definitions
+used by Jaeger components. https://github.com/jaegertracing/jaeger-analytics-flink # Big data analytics for Jaeg
+er using Apache Flink https://github.com/jaegertracing/jaeger-lib # A collection of shared infrastructure l
+ibraries used by different components of Jaeger. https://github.com/jaegertracing/documentation # Documentation/website for the Jaeger
+Distributed Tracing project. https://github.com/jaegertracing/jaeger-vscode # VSCode extension for Jaeger
+https://github.com/jaegertracing/vertx-create-span # Demo application used in e2e tes
+ts for the Jaeger Operator https://github.com/jaegertracing/security-audits # Jaeger security audits
+https://github.com/jaegertracing/artwork # Jaeger Logo and Artwork
+https://github.com/jaegertracing/.github # Repository containing default community he
+alth files such as issue templates (e.g. bug_report, feature_request, etc.) https://github.com/jaegertracing/xdock-zipkin-brave # Crossdock test to verify that J
+aeger accepts Zipkin data format

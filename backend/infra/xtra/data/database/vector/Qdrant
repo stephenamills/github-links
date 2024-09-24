@@ -1,0 +1,72 @@
+https://github.com/qdrant/qdrant # Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
+https://github.com/qdrant/qdrant_demo # Demo of the neural semantic search built with Qdrant
+https://github.com/qdrant/page-search # Neural search for web-sites, docs, articles - online!
+https://github.com/qdrant/examples # A collection of examples and tutorials for Qdrant vector search engine
+https://github.com/qdrant/qdrant-rag-eval # This repo is the central repo for all the RAG Evaluation reference material and partner workshop
+https://github.com/qdrant/demo-food-discovery # Source code of the food discovery demo built on top of Qdrant
+https://github.com/qdrant/goods_categorization_demo # Demo example of consumer goods categorization
+https://github.com/qdrant/workshop-rag-optimization # Notebooks for RAG optimization workshop, using HackerNews data
+https://github.com/qdrant/demo-code-search #
+https://github.com/qdrant/workshop-ultimate-hybrid-search # Materials for the Ultimate Hybrid Search Workshop
+https://github.com/qdrant/demo-cloud-faq # Demo of fine-tuning QA models for answering FAQ of cloud providers documentation
+https://github.com/qdrant/demo-hnm #
+https://github.com/qdrant/qdrant-langchain-qa #
+https://github.com/qdrant/template-hybrid-search-fasthtml # A template for a FastHTML app implementing hybrid search with Qdrant
+
+https://github.com/qdrant/fastembed # Fast, Accurate, Lightweight Python library to make State of the Art Embedding
+https://github.com/qdrant/qdrant-client # Python client for Qdrant vector search engine
+https://github.com/qdrant/quaterion # Blazing fast framework for fine-tuning similarity learning models
+https://github.com/qdrant/awesome-metric-learning # 😎 A curated list of awesome practical Metric Learning and its applications
+https://github.com/qdrant/vector-db-benchmark # Framework for benchmarking vector search engines
+https://github.com/qdrant/qdrant-js # JavaScript/Typescript SDK for Qdrant Vector Database
+https://github.com/qdrant/rust-client # Rust client for Qdrant vector search engine
+https://github.com/qdrant/qdrant-web-ui # Self-hosted web UI for Qdrant
+https://github.com/qdrant/go-client # Go client for Qdrant vector search engine
+https://github.com/qdrant/qdrant-helm #
+https://github.com/qdrant/qdrant-dotnet # Qdrant .Net SDK
+https://github.com/qdrant/bm42_eval # Evaluation of bm42 sparse indexing algorithm
+https://github.com/qdrant/qdrant-haystack # An integration of Qdrant ANN vector database backend with Haystack
+https://github.com/qdrant/qdrant-spark # Qdrant's Apache Spark connector
+https://github.com/qdrant/java-client # Official Java client for Qdrant
+https://github.com/qdrant/ann-filtering-benchmark-datasets # Collection of datasets for benchmarking filtered vector similarity retrieval
+https://github.com/qdrant/quaterion-models # The collection of bulding blocks building fine-tunable metric learning models
+https://github.com/qdrant/wal # Write Ahead Logging for Rust
+https://github.com/qdrant/qdrant-txtai # An integration of Qdrant ANN vector database backend with txtai
+https://github.com/qdrant/landing_page # Landing page for qdrant.tech
+https://github.com/qdrant/bfb # _high-load_ benchmarking tool
+https://github.com/qdrant/benchmark # Collection of Qdrant benchmarks
+https://github.com/qdrant/autocomplete-openapi # Autocomplete queries using OpenAPI spec
+https://github.com/qdrant/qdrant-kafka # Kafka Sink connector for Qdrant. Stream vector data into a Qdrant collection. Supports named/unnamed dense/sparse vectors.
+https://github.com/qdrant/mri # A simple tool to monitor process resource usage as frequent as possible
+https://github.com/qdrant/qdrant-markdown-indexer # Simple pipeline to index markdown files into Qdrant using OpenAI embeddings
+https://github.com/qdrant/qdrant-genkit #
+https://github.com/qdrant/demo-midlibrary-explorer-nextjs # Exploration of Midjourney Library styles using Qdrant and NextJS
+https://github.com/qdrant/quantization #
+https://github.com/qdrant/qdrant-fluvio # Stream records from Fluvio topics to a Qdrant collection.
+https://github.com/qdrant/haloperidol # Antipsychotic therapy for qdrant cluster
+https://github.com/qdrant/sparse-vectors-benchmark # This is a benchmarking tool for Qdrant's sparse vector implementation
+https://github.com/qdrant/api-reference # Repository for Qdrant's API Reference Documentation
+https://github.com/qdrant/rust-parser # Extracts semantics from rust code
+https://github.com/qdrant/page-search-js # Web interface for integrated web-site search powered by Qdrant
+https://github.com/qdrant/demo-distributed-deployment-docker # An example of setting up the distributed deployment of Qdrant with docker-compose
+https://github.com/qdrant/contexto # A simple script to solve contexto.me using word embeddings
+https://github.com/qdrant/dataset-cloud-platform-faq #
+https://github.com/qdrant/qdrant-qa-workshop #
+https://github.com/qdrant/sparse-vectors-experiments #
+https://github.com/qdrant/qdrant-stars-handbook # The primary goal of Qdrant Stars is to recognize, reward, and support our most active and helpful users making significant contributions to the vector search community.
+https://github.com/qdrant/rivet-plugin-qdrant #
+https://github.com/qdrant/crasher # Crashing the party
+https://github.com/qdrant/coach # Coach running drills to train qdrant deployments
+https://github.com/qdrant/terraform-provider-qdrant-cloud # A Terraform plugin that allows to manage and configure Qdrant Cloud resources
+https://github.com/qdrant/demo-qdrant-fiftyone # An example of integrating Qdrant with FiftyOne
+https://github.com/qdrant/kubernetes-api # API definitions for the Qdrant Kubernetes operator
+https://github.com/qdrant/hybrid-cloud-examples #
+https://github.com/qdrant/qa-automation #
+https://github.com/qdrant/lightning-wine-reviews # An example of integrating Lightning.ai with Qdrant
+https://github.com/qdrant/rocksdb-flush-safety # Demonstrate the need for WAL in Rocksdb
+https://github.com/qdrant/qdrant-distributed-docker-compose # This is an example of running Qdrant in a distributed mode with docker-compose
+https://github.com/qdrant/qdrant-sizing-calculator # Estimate qdrant cluster size given the data volume
+https://github.com/qdrant/mmap-payload-storage # Experiment with new designs for payload storage
+https://github.com/qdrant/qdrant-cloud-support-tools # Tools to help Qdrant Cloud users troubleshoot issues and help Qdrant Support Engineers diagnose problems
+https://github.com/qdrant/.github #

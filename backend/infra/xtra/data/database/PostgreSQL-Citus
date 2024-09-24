@@ -1,2 +1,57 @@
+Citus
+https://github.com/citusdata/citus # Distributed PostgreSQL as an extension
+
+https://github.com/citusdata/citus-example-ad-analytics # Reference App for Ad Analytics, using Ruby on Rails.
+https://github.com/citusdata/citus-django-example-ad-analytics # Reference App for Ad Analytics, using Django
+https://github.com/citusdata/citus-example-microservices #
+
+https://github.com/citusdata/pg_cron # Run periodic jobs in PostgreSQL
+https://github.com/citusdata/cstore_fdw # Columnar storage extension for Postgres built as a foreign data wrapper. Check out https://github.com/citusdata/citus for a modernized columnar storage implementation built as a table access method.
+https://github.com/citusdata/postgresql-hll # PostgreSQL extension adding HyperLogLog data structures as a native data type
+https://github.com/citusdata/pg_shard # ATTENTION: pg_shard is superseded by Citus, its more powerful replacement
+https://github.com/citusdata/django-multitenant # Python/Django support for distributed multi-tenant databases like Postgres+Citus
+https://github.com/citusdata/activerecord-multi-tenant # Rails/ActiveRecord support for distributed multi-tenant databases like Postgres+Citus
+https://github.com/citusdata/postgres_vectorization_test # Vectorized executor to speed up PostgreSQL
+https://github.com/citusdata/docker # :ship: Docker images and configuration for Citus
+https://github.com/citusdata/postgresql-topn # TopN is an open source PostgreSQL extension that returns the top values in a database according to some criteria
+https://github.com/citusdata/citus_docs # Documentation for Citus. Distributed PostgreSQL as an extension.
+https://github.com/citusdata/pgconfsv-tutorial # Files for the PGConf SV tutorial on real-time analytics
+https://github.com/citusdata/citus-benchmark # Tools for running benchmarks against Citus
+https://github.com/citusdata/postgres-analytics-tutorial # Exercises for the Architecting Real-Time Analytics for your Customers tutorial
+https://github.com/citusdata/membership-manager # :ship: Docker image for managing Citus membership via docker-py
+https://github.com/citusdata/packaging # Packaging scripts for Citus
+https://github.com/citusdata/test-automation # Tools for making our tests easier to run
+https://github.com/citusdata/tools # Tools and config used in Citus Data projects
+https://github.com/citusdata/pgconfus-tutorial-multi-tenant # Files for the tutorial on Citus & Multi-Tenant Models @ PGConf US 2017
+https://github.com/citusdata/python-citus-rebalancer # A python command line tool to recommend shard moves to customers with unbalanced clusters
+https://github.com/citusdata/pg_octopus # A health checker for PostgreSQL
+https://github.com/citusdata/pg_intpair #
+https://github.com/citusdata/the-process # Trust it.
+https://github.com/citusdata/realtime-dashboards-resources # Some useful scripts
+https://github.com/citusdata/interactive-tutorials #
+https://github.com/citusdata/workerlist-gen # :ship: Docker image for generating Citus workerlist file using docker-gen
+https://github.com/citusdata/pathtocituscon # This repo stores show notes for our PathToCitusCon series of events on Discord
+https://github.com/citusdata/real-time-analytics-hands-on-lab-hyperscale-citus #
+https://github.com/citusdata/nationwide-hands-on-session #
+https://github.com/citusdata/public-schemas # Public schemas that can be load into a citus cluster with citus_load to speed up citus development
+https://github.com/citusdata/.github # Default Community Health/Policy Files for the organization on GitHub
+
+PGVector
+https://github.com/pgvector/pgvector # Open-source vector similarity search for Postgres
+
+https://github.com/pgvector/pgvector-python # pgvector support for Python
+https://github.com/pgvector/pgvector-node # pgvector support for Node.js, Deno, and Bun (and TypeScript)
+https://github.com/pgvector/pgvector-go # pgvector support for Go
+https://github.com/pgvector/pgvector-elixir # pgvector support for Elixir
+https://github.com/pgvector/pgvector-dotnet # pgvector support for .NET (C#, F#, and Visual Basic)
+https://github.com/pgvector/pgvector-rust # pgvector support for Rust
+https://github.com/pgvector/pgvector-php # pgvector support for PHP
+https://github.com/pgvector/pgvector-ruby # pgvector support for Ruby
+https://github.com/pgvector/pgvector-java # pgvector support for Java, Kotlin, Groovy, and Scala
+https://github.com/pgvector/pgvector-cpp # pgvector support for C++
+https://github.com/pgvector/pgvector-swift # pgvector examples for Swift
+https://github.com/pgvector/pgvector-c # pgvector examples for C
+https://github.com/pgvector/.github #
+
 https://dbdb.io/db/postgresql
 https://dbdb.io/db/citus

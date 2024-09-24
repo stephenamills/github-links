@@ -1,0 +1,31 @@
+https://github.com/openzipkin/zipkin # Zipkin is a distributed tracing system
+
+https://github.com/openzipkin/brave # Java distributed tracing implementation compatible with Zipkin backend services.
+https://github.com/openzipkin/zipkin-go # Zipkin distributed tracing library for go.
+https://github.com/openzipkin/zipkin-js # Zipkin instrumentation for Node.js and browsers
+https://github.com/openzipkin/b3-propagation # Repository that describes and sometimes implements B3 propagation
+https://github.com/openzipkin/zipkin4net # A .NET client library for Zipkin
+https://github.com/openzipkin/zipkin-php # Zipkin instrumentation for PHP
+https://github.com/openzipkin/brave-example # A collection of examples how to use brave instrumentation in various frameworks and libraries.
+https://github.com/openzipkin/zipkin-dependencies # Spark job that aggregates zipkin spans for use in the UI
+https://github.com/openzipkin/zipkin-reporter-java # Shared library for reporting zipkin spans on transports such as http or kafka
+https://github.com/openzipkin/zipkin-ruby # zipkin-tracer ruby gem
+https://github.com/openzipkin/zipkin-gcp # Reporters and collectors for use in Google Cloud Platform
+https://github.com/openzipkin/zipkin-aws # Reporters and collectors for use in Amazon's cloud
+https://github.com/openzipkin/zipkin-php-example # See how much time php services spend on an http request
+https://github.com/openzipkin/zipkin-api # Zipkin's language independent model and HTTP Api Definitions
+https://github.com/openzipkin/zipkin-js-example # Example project that shows how to use zipkin with javascript
+https://github.com/openzipkin/zipkin-finagle # Integration between Finagle tracing to Zipkin transports such as http and kafka
+https://github.com/openzipkin/openzipkin.github.io # content for https://zipkin.io
+https://github.com/openzipkin/zipkin-browser-extension # Chrome and Firefox browser extensions for Zipkin
+https://github.com/openzipkin/pyramid_zipkin-example # See how much time python services spend on an http request
+https://github.com/openzipkin/brave-cassandra # Tracing instrumentation for Cassandra and the DataStax Java Driver
+https://github.com/openzipkin/docker-java # A small Docker image based on azul/zulu-openjdk-alpine
+https://github.com/openzipkin/zipkin-api-example # Example of how to use the OpenApi/Swagger api spec
+https://github.com/openzipkin/brave-karaf # Karaf integration and tests for Brave (java Zipkin tracer)
+https://github.com/openzipkin/zipkin-layout-factory # Spring Boot Layout Factory for Zipkin Server derivatives
+https://github.com/openzipkin/zipkin-support # repository for support questions raised as issues
+https://github.com/openzipkin/zipkin-ruby-example #
+https://github.com/openzipkin/docker-alpine # Alpine Linux base layer for Zipkin Docker images
+https://github.com/openzipkin/zipkin-release # Documentation and templates used for projects released the same way as OpenZipkin
+https://github.com/openzipkin/zipkin-helm # A helm chart for zipkin

@@ -1,1 +1,66 @@
+https://github.com/clickhouse/clickhouse # ClickHouse® is a real-time analytics DBMS
+
+https://github.com/clickhouse/examples # ClickHouse Examples
+https://github.com/clickhouse/pastila # Paste toy-service on top of ClickHouse
+https://github.com/clickhouse/clickhouse-academy # ClickHouse Academy training and certification
+https://github.com/clickhouse/houseclick # House prices app
+https://github.com/clickhouse/1trc # 1 trillion rows
+https://github.com/clickhouse/bedrock_rag # A simple RAG pipeline for Google Analytics with ClickHouse and Bedrock
+https://github.com/clickhouse/clickhouse-recipes # Sample code for solving common problems with ClickHouse
+
+https://github.com/clickhouse/clickhouse-go # Golang driver for ClickHouse
+https://github.com/clickhouse/clickhouse-java # ClickHouse Java Clients & JDBC Driver
+https://github.com/clickhouse/clickhouse-presentations # Presentations, meetups and talks about ClickHouse
+https://github.com/clickhouse/clickbench # ClickBench: a Benchmark For Analytical Databases
+https://github.com/clickhouse/metabase-clickhouse-driver # ClickHouse database driver for the Metabase business intelligence front-end
+https://github.com/clickhouse/clickhouse_exporter # This is a simple server that periodically scrapes ClickHouse stats and exports them via HTTP for Prometheus consumption.
+https://github.com/clickhouse/ch-go # Low-level Go Client for ClickHouse
+https://github.com/clickhouse/clickhouse-connect # Python driver/sqlalchemy/superset connectors
+https://github.com/clickhouse/clickhouse-cpp # C++ client library for ClickHouse
+https://github.com/clickhouse/clickhouse-rs # Official pure Rust typed client for ClickHouse DB
+https://github.com/clickhouse/noisql # NoiSQL — Generating Music With SQL Queries
+https://github.com/clickhouse/graphouse # Graphouse allows you to use ClickHouse as a Graphite storage.
+https://github.com/clickhouse/clickhouse-odbc # ODBC driver for ClickHouse
+https://github.com/clickhouse/dbt-clickhouse # The Clickhouse plugin for dbt (data build tool)
+https://github.com/clickhouse/adsb.exposed # Interactive visualization and analytics on ADS-B data with ClickHouse
+https://github.com/clickhouse/clickhouse-js # Official JS client for ClickHouse DB
+https://github.com/clickhouse/spark-clickhouse-connector # Spark ClickHouse Connector build on DataSourceV2 API
+https://github.com/clickhouse/clickhouse-jdbc-bridge # A JDBC proxy from ClickHouse to external databases
+https://github.com/clickhouse/clickhouse-kafka-connect # ClickHouse Kafka Connector
+https://github.com/clickhouse/github-explorer # Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)
+https://github.com/clickhouse/clickhouse-docs # Official documentation for ClickHouse
+https://github.com/clickhouse/click-ui # The home of the ClickHouse design system and component library.
+https://github.com/clickhouse/homebrew-clickhouse # ClickHouse Homebrew tap (old repository, unused)
+https://github.com/clickhouse/clickhouse-tableau-connector-jdbc # Tableau connector to ClickHouse using JDBC driver
+https://github.com/clickhouse/power-bi-clickhouse # This connector allows you to retrieve data from ClickHouse directly into Power BI for analysis and visualization
+https://github.com/clickhouse/reversedns.space # https://reversedns.space/
+https://github.com/clickhouse/clickpy # PyPI analytics powered by ClickHouse
+https://github.com/clickhouse/libhdfs3 # HDFS file read access for ClickHouse
+https://github.com/clickhouse/cryptohouse # Artifacts including queries and materialized views used for CryptoHouse
+https://github.com/clickhouse/ch-bench # Benchmarks for ch
+https://github.com/clickhouse/sysroot # Files for cross-compilation
+https://github.com/clickhouse/ch2rs # Generate Rust structs from ClickHouse rows
+https://github.com/clickhouse/terraform-provider-clickhouse # Terraform Provider for ClickHouse Cloud
+https://github.com/clickhouse/web-tables-demo #
+https://github.com/clickhouse/clickhub # Github analytics powered by the world's fastest real-time analytics database
+https://github.com/clickhouse/icudata # Pregenerated data for ICU library
+https://github.com/clickhouse/copier # clickhouse-copier (obsolete)
+https://github.com/clickhouse/keeper-extend-cluster # Experiment on how to upgrade single-node clickhouse-keeper to a cluster
+https://github.com/clickhouse/laion # Supporting code for inserting and searching laion in ClickHouse
+https://github.com/clickhouse/checkout # Wrapper around actions/checkout for flexible tuning
+https://github.com/clickhouse/fuzz-corpus # Corpuses for libFuzzer-type fuzzers
+https://github.com/clickhouse/aretestsgreenyet # A single-page website to display the status of the open-source ClickHouse CI system.
+https://github.com/clickhouse/grpc # Stripped version of grpc
+https://github.com/clickhouse/ch-async-inserts-demo # Demo on how to create a Node API that sends data to CH via Async inserts
+https://github.com/clickhouse/clickhouse_vs_snowflake #
+https://github.com/clickhouse/antlr4-runtime # Subtree of antlr4 original repo
+https://github.com/clickhouse/kafka-samples # Sample datasets for Kafka
+https://github.com/clickhouse/clickhouse-typescript-schema #
+https://github.com/clickhouse/clickhouse-fivetran-destination # ClickHouse Cloud Fivetran Destination
+https://github.com/clickhouse/clickhouse-repos-manager # a config and artifacts for packages.clickhouse.com
+https://github.com/clickhouse/simple-logging-benchmark # A simple ClickHouse benchmark for the logging usecase
+https://github.com/clickhouse/doc-pr-preview-test # Testing workflow to build Docusaurus previews for pull requests.
+https://github.com/clickhouse/clickhouse-kafka-transforms # This is meant to hold Clickhouse created kafka transforms.
+https://github.com/clickhouse/clickhouse-docs-content #
+
 https://dbdb.io/db/clickhouse
