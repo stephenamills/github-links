@@ -1,3 +1,14 @@
+https://github.com/googlecloudplatform/cortex-data-foundation # Data Foundation - Google Cloud Cortex Framework
+https://github.com/googlecloudplatform/cortex-salesforce #
+https://github.com/googlecloudplatform/salesforce-cloud-functions-crm-tutorial #
+https://github.com/googlecloudplatform/cortex-marketing #
+https://github.com/googlecloudplatform/application-integration-management-toolkit # Interact with Application Integration, Integration Connectors or Apigee Integration/Connector APIs.
+https://github.com/googlecloudplatform/salesforce-serverless-cicd-cloudbuild #
+https://github.com/googlecloudplatform/customer-experience-modernization # Best practices and code samples for using Google Cloud Vertex AI APIs
+
+https://github.com/google/sf-evolve-forms # A forms engine for Salesforce which allows record pages to be much more dynamic than is possible with out of the box features
+https://github.com/google/ditto-mocks #
+
 https://github.com/aws-ia/cfn-ps-salesforce-health-cloud-virtual-care #
 https://github.com/aws-ia/cfn-ps-salesforce-connect-appsync-rds-postgresql #
 
@@ -14,17 +25,6 @@ https://github.com/aws-samples/iot-connect-drug-reminder-blog # Blog post "Build
 https://github.com/aws-samples/data-for-saas-patterns # A collection of samples, best practices and reference architectures for implementing SaaS applications on AWS for databases and data services.
 https://github.com/aws-samples/aws-partner-custom-crm-connector # Share opportunities from your CRM with AWS to automate to speed up operations.
 https://github.com/aws-samples/appfabric-sample-log-generator #
-
-https://github.com/googlecloudplatform/cortex-data-foundation # Data Foundation - Google Cloud Cortex Framework
-https://github.com/googlecloudplatform/cortex-salesforce #
-https://github.com/googlecloudplatform/salesforce-cloud-functions-crm-tutorial #
-https://github.com/googlecloudplatform/cortex-marketing #
-https://github.com/googlecloudplatform/application-integration-management-toolkit # Interact with Application Integration, Integration Connectors or Apigee Integration/Connector APIs.
-https://github.com/googlecloudplatform/salesforce-serverless-cicd-cloudbuild #
-https://github.com/googlecloudplatform/customer-experience-modernization # Best practices and code samples for using Google Cloud Vertex AI APIs
-
-https://github.com/google/sf-evolve-forms # A forms engine for Salesforce which allows record pages to be much more dynamic than is possible with out of the box features
-https://github.com/google/ditto-mocks #
 
 https://github.com/trailheadapps/lwc-recipes # A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform
 https://github.com/trailheadapps/apex-recipes # A library of concise, meaningful examples of Apex code for common use cases following best practices.

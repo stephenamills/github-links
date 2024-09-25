@@ -1,0 +1,9 @@
+https://github.com/sap/ui5-webcomponents # UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
+https://github.com/sap/ui5-webcomponents-react # A wrapper implementation for React of the UI5 Web Components that are compliant with the SAP Fiori User Experience
+https://github.com/sap/ui5-webcomponents-ngx # UI5 Web Components for Angular provides directives for each UI5 Web Component. The directives allow to easily build your Angular application following the SAP Design System.
+https://github.com/sap/ui5-tooling-webc # UI5 Tooling extensions to create, develop and test wrapper UI libraries for UI5 Web Components NPM packages.
+
+https://github.com/sap/fundamental # Fundamental Library - SAP Design System Component Library
+https://github.com/sap/fundamental-ngx # Fundamental Library for Angular is SAP Design System Angular component library
+https://github.com/sap/fundamental-react # React implementation of the reusable component library designed in Fundamental Library Styles
+https://github.com/sap/fundamental-styles # SAP Design System component library for building SAP user interfaces with any web technology.

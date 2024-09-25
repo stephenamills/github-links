@@ -9,8 +9,8 @@ https://github.com/primer/doctocat # A Gatsby theme for building Primer document
 https://github.com/primer/primitives # Color, typography, and spacing primitives in json.
 https://github.com/primer/stylelint-config # Sharable stylelint config used by GitHub's CSS
 https://github.com/primer/primer.style # The website for all things Primer
-https://github.com/primer/github-syntax-theme-generator # Uses a prettylights theme object to generate syntax themes for multiple p
-latforms https://github.com/primer/github-syntax-light # The CSS syntax theme for GitHub
+https://github.com/primer/github-syntax-theme-generator # Uses a prettylights theme object to generate syntax themes for multiple platforms
+https://github.com/primer/github-syntax-light # The CSS syntax theme for GitHub
 https://github.com/primer/brand # React components and Primitives for GitHub marketing websites
 https://github.com/primer/github-vscode-theme-dark-classic # GitHub Dark (classic) theme for VS Code
 https://github.com/primer/figma # Primer, GitHub's design system, available on Figma.
@@ -33,7 +33,6 @@ https://github.com/primer/react-migrate # One time migrations for primer/react
 https://github.com/primer/primer.github.io #
 https://github.com/primer/view_components-template # The quickest way to start playing around with Primer ViewComponents
 https://github.com/primer/storybook # Compiled storybook source for GH-pages
-https://github.com/primer/.github # GitHub Stuff
 https://github.com/primer/live-region-element # A custom element for making announcements with live regions
 https://github.com/primer/codemirror-github-dark # Codemirror GitHub syntax theme
 https://github.com/primer/github-ace-dark # Ace theme for GitHub dark syntax
@@ -42,5 +41,5 @@ https://github.com/primer/atom-packages # A list of Atom packages recommended by
 https://github.com/primer/next-auth-template # A template for using Next + Primer + Auth.js + Octokit
 https://github.com/primer/api # A GraphQL API for collecting and accessing data about the Primer Design System
 https://github.com/primer/comment-token-update #
-https://github.com/primer/generated-data # A repo with generated GitHub-like data to be used in tools like Figma plugins and protot
-ypes.
+https://github.com/primer/generated-data # A repo with generated GitHub-like data to be used in tools like Figma plugins and prototypes.
+https://github.com/primer/.github # GitHub Stuff

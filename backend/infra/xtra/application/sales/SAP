@@ -1,0 +1,680 @@
+https://github.com/sap-docs/btp-cloud-platform # Markdown source for the SAP BTP documentation.
+https://github.com/sap-docs/btp-business-application-studio # Markdown source for the SAP Business Application Studio documentation.
+https://github.com/sap-docs/btp-best-practices-guide # Markdown source for the Best Practices Guide for SAP BTP.
+https://github.com/sap-docs/btp-integration-suite # Markdown source for the Integration Suite documentation.
+https://github.com/sap-docs/btp-cloud-identity-services # Markdown source for the Identity Authentication documentation.
+https://github.com/sap-docs/btp-document-management-service # Markdown source for the SAP Document Management Service documentation.
+https://github.com/sap-docs/btp-process-orchestration-migration-guide # Markdown source for the Migration Guide for SAP Process Orchestration.
+https://github.com/sap-docs/btp-task-center # Markdown source for the SAP Task Center documentation.
+https://github.com/sap-docs/btp-neo-environment # Markdown source for the SAP BTP, Neo environment documentation.
+https://github.com/sap-docs/btp-ui-theme-designer # Markdown source for the UI theme designer documentation.
+https://github.com/sap-docs/btp-fiori-tools # Markdown source for the SAP Fiori tools documentation.
+https://github.com/sap-docs/btp-developer-guide # Markdown source for the SAP BTP Developer's Guide.
+https://github.com/sap-docs/btp-service-manager # Markdown source for the SAP Service Manager documentation.
+https://github.com/sap-docs/btp-job-scheduling-service # Markdown source for the SAP Job Scheduling service.
+https://github.com/sap-docs/btp-cloud-identity-services-system-integration-guide # Markdown source for the System Integration Guide for SAP Cloud Identity Services.
+https://github.com/sap-docs/btp-continuous-integration-and-delivery # Markdown source for the SAP Continuous Integration and Delivery documentation.
+https://github.com/sap-docs/btp-application-autoscaler # Markdown source for the Application Autoscaler documentation.
+https://github.com/sap-docs/btp-private-link-service # Markdown source for the SAP Private Link service.
+https://github.com/sap-docs/btp-credential-store # Markdown source for the SAP Credential Store documentation.
+https://github.com/sap-docs/btp-cloud-logging # Markdown source for the SAP Cloud Logging service documentation.
+https://github.com/sap-docs/btp-intelligent-situation-automation # Markdown source for the Intelligent Situation Automation documentation.
+https://github.com/sap-docs/btp-object-store # Markdown source for the Object Store documentation.
+https://github.com/sap-docs/btp-custom-domain-service # Markdown source for the Custom Domain Service documentation.
+https://github.com/sap-docs/btp-build-work-zone-advanced # Markdown source for the SAP Build Work Zone, advanced edition documentation.
+https://github.com/sap-docs/btp-master-data-integration # Markdown source for the SAP Master Data Integration documentation.
+https://github.com/sap-docs/btp-cloud-integration-automation-service # Markdown source for the Cloud Integration Automation service documentation.
+https://github.com/sap-docs/btp-connectivity # Markdown source for the SAP BTP Connectivity documentation.
+https://github.com/sap-docs/btp-cloud-transport-management # Markdown source for the SAP Cloud Transport Management service documentation.
+
+https://github.com/sap-docs/abap-platform-trial-image # End user documentation for ABAP Platform Trial image
+https://github.com/sap-docs/preview.developer.concur.com # This repo contains the documentation and support content for the Concur APIdeveloper audience. This includes both internal and external developers.
+
+https://github.com/sap-docs/contribution-guidelines # SAP Documentation: Contribution Guidelines
+https://github.com/sap-docs/sap-datasphere # Markdown source for the SAP Data Suite documentation.
+https://github.com/sap-docs/sap-hana-cloud-hana-database # Markdown source for the SAP HANA Cloud, SAP HANA Database documentation.
+https://github.com/sap-docs/api-style-guide # Markdown source for the SAP API Style Guide.
+
+https://github.com/sap-docs/sap-artificial-intelligence # Markdown source for the SAP AI documentation.
+
+https://github.com/sap-docs/sap-hana-cloud-data-intelligence # Markdown source for the SAP Data Intelligence Cloud documentation.
+
+https://github.com/sap-docs/sap-hana-cloud-data-lake # Markdown source for the SAP HANA Cloud, Data Lake documentation.
+
+https://github.com/sap-docs/s4hana-cloud-advanced-financial-closing # Markdown source for the administration guide for SAP S/4HANA Cloud for Advanced Financial Closing.
+
+https://github.com/sap-docs/cloud-alm-setup-admin-guide # Markdown source for the Setup and Administration for SAP Cloud ALM documentation.
+https://github.com/sap-docs/.github # Default community health files for the SAP-docs organization
+
+https://github.com/sap-samples/abap-cheat-sheets # Explore ABAP syntax in a nutshell supported by executable demo examples.
+https://github.com/sap-samples/cloud-cap-samples # This project contains sample applications for SAP Cloud Application Programming Model.
+https://github.com/sap-samples/abap-platform-rap-opensap # openSAP course "Building Apps with the ABAP RESTful Application Programming model (RAP)."
+https://github.com/sap-samples/machine-learning-diff-private-federated-learning # Simulate a federated setting and run differentially private federated learning.
+https://github.com/sap-samples/fiori-elements-opensap # This repository offers optional hands-on exercises for the free openSAP course"Developing and Extending SAP Fiori Elements Apps."
+https://github.com/sap-samples/abap-platform-refscen-flight # SFlight is back! This is the Flight Reference Scenario for the ABAP RESTful Application Programming Model.
+https://github.com/sap-samples/cloud-abap-rap # This repository contains several examples how to develop with the ABAP RESTful Application Programming Model (RAP) in SAP BTP, ABAP environment.
+https://github.com/sap-samples/fiori-elements-feature-showcase # Variety of features of SAP Fiori elements for OData V4.
+https://github.com/sap-samples/abap-platform-rap-workshops # This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP).
+https://github.com/sap-samples/abap-oo-basics # In support of the YouTube video series on ABAP Object Oriented basics, this repositorycontains the ABAP source code samples which are used in the video series.
+https://github.com/sap-samples/cap-sflight # Using SAP Cloud Application Programming Model and SAP Fiori elements to build a simple travel management app, both with Node.js and Java.
+https://github.com/sap-samples/kyma-runtime-extension-samples # This project contains sample applications for building extensions andmicroservices on SAP BTP, Kyma runtime.
+https://github.com/sap-samples/abap-platform-fiori-feature-showcase # Annotation-driven SAP Fiori Elements UI features for oData V4, using the ABAP RESTful Application Programming Model (RAP).
+https://github.com/sap-samples/hana-xsa-opensap-hana7 # openSAP HANA7 Course Exercise Materials - Software Development on SAP HANA (Update Q1/2019)
+https://github.com/sap-samples/cloud-cap-samples-java # A sample application that demonstrates the features of the Java SDK for the SAP Cloud Application Programming Model.
+https://github.com/sap-samples/multi-cloud-html5-apps-samples # Examples of HTML5 applications for multiple SAP BTP environments.
+https://github.com/sap-samples/hana-shine-xsa # Educational content for SAP HANA Extended Application Services, Advanced Model (XS Advanced), successor to XS Classic
+https://github.com/sap-samples/cf-mta-examples # The repository contains multitarget application (MTA) examples for SAP BTP, Cloud Foundry environment.
+https://github.com/sap-samples/hana-shine # SAP HANA Interactive Education (SHINE) is an education content to learn, develop and deploy SAP HANA Application Services (XS Engine) on the SAP HANA Platform
+https://github.com/sap-samples/hana-ml-samples # SAP HANA predictive and machine learning scenarios using Predictive Analysis Library SQL and HANA-ML Python notebooks.
+https://github.com/sap-samples/cloud-commerce-sample-setup # Find the sample manifest.json and configuration files that you can use to build out your commerce repository in SAP Commerce Cloud.
+https://github.com/sap-samples/ui5-cap-event-app # Showcase of SAP Cloud Application Programming Model and OData V4 with draft mode ina freestyle SAPUI5 app and an SAP Fiori elements app.
+https://github.com/sap-samples/hana-developer-cli-tool-example # Build a developer-centric SAP HANA command line tool, designed to be used when performing SAP HANA development in non-SAP tooling such as VS Code.
+https://github.com/sap-samples/sap-tech-bytes # Accompanying the SAP Developer Advocates "SAP Tech Bytes" initiative.
+https://github.com/sap-samples/abap-exercises-codejam # Material for CodeJams on SAP Business Technology Platform, ABAP Environment and ABAP RESTful Application Programming Model.
+https://github.com/sap-samples/cloud-cap-hana-swapi # SAP Cloud Application Programming Model fun sample to demonstrate many-to-many relationships.
+https://github.com/sap-samples/hana-opensap-cloud-2020 # Courses targeted to application developers, SAP HANA developers, Cloud Application Programming Model developers, and SAP Business Technology Platform developers.
+https://github.com/sap-samples/ui5-typescript-tutorial # Tutorial for building UI5 applications with TypeScript.
+https://github.com/sap-samples/byd-api-samples # A set of Postman collections that enables users to consume SAP Business ByDesign webservices.
+https://github.com/sap-samples/btp-cap-multitenant-saas # Setup a multitenant application for a software-as-a-service scenario, leveraging the Kyma and Cloud Foundry Runtimes of the SAP Business Technology Platform.
+https://github.com/sap-samples/btp-cf-cap-multitenant-susaas # Sample project that demonstrates how to setup a multitenant application for a software-as-a-service scenario using the SAP BTP Cloud Foundry environment.
+https://github.com/sap-samples/cloud-cap-risk-management # The SAP Risk Management example applications show how to deploy a CAP (SAPCloud Application Programming model) application to Cloud Foundry and Kyma.
+https://github.com/sap-samples/datasphere-content # Explore SAP Datasphere. The downloads contain sample data as CSV files, but could also include model / metadata information.
+https://github.com/sap-samples/ui5-typescript-helloworld # Showcase of a TypeScript setup for developing UI5 applications.
+https://github.com/sap-samples/btp-cap-genai-rag # Explore this repository for GenAI samples on SAP Business Technology Platform (SAPBTP). We provide examples for single and multitenant versions, showcasing integration of LLMs via SAP AI Core, LangChain in SAP CAP, and advanced techniques like Retrieval Augmented Generation (RAG).
+https://github.com/sap-samples/btp-genai-starter-kit # Setup AI Core and HANA Vector Engine using the Terraform provider for SAP BTP.
+https://github.com/sap-samples/cloud-workflow-samples # Workflow sample projects as reference content. Users can download and import the content of this project to their tenant to understand and learn how to consume workflow.
+https://github.com/sap-samples/ui5-webcomponents-sample-vue # UI5 Web Components Sample TODO application built with Vue.
+https://github.com/sap-samples/openui5-pwa-sample # How to build a progressive web app (PWA) with OpenUI5.
+https://github.com/sap-samples/ui5-webcomponents-sample-react # UI5 Web Components Sample TODO application built with React.
+https://github.com/sap-samples/ui5-exercises-codejam # Material for SAP CodeJam events about UI5. Step-by-step guide explaining how tobuild a frontend web application using UI5.
+https://github.com/sap-samples/fiori-tools-samples # This project contains sample SAP Fiori elements applications built using SAP Fiori tools.
+https://github.com/sap-samples/odata-basics-handsonsapdev # A simple OData service to accompany the "Back to basics: OData" series onthe Hands-on SAP Dev live stream show.
+https://github.com/sap-samples/btp-side-by-side-extension-learning-journey # Starter Template for the learning journey "Building side-by-side extensions on SAP BTP".
+https://github.com/sap-samples/teched2023-xp286v # SAP Business Technology Platform Solution Diagrams
+https://github.com/sap-samples/fiori-elements-v4-cap-advanced # Develop SAP Fiori Elements applications based on SAP CAP OData v4 services.
+https://github.com/sap-samples/security-services-tools # If you use security-related services and tools such as EWA, SOS, System Recommendations, Configuration Validation, or a security dashboard in SAP Solution Manager, the ABAP reports in this repository can help with further analysis and development.
+https://github.com/sap-samples/abap-file-uploader # Sample code to demonstrate easy upload and filling of a custom ABAP table with data from the client side (JSON).
+https://github.com/sap-samples/btp-ai-sustainability-bootcamp # btp-ai-sustainability-bootcamp, which showcases how to build Intelligence and Sustainability into Your Solutions on SAP Business Technology Platform with SAP AI Core and SAP Analytics Cloud for Planning.
+https://github.com/sap-samples/cap-hana-exercises-codejam # This repo contains the exercise instructions, starting template code, andsample solution for the CodeJam based on SAP Cloud Application Programming Model.
+https://github.com/sap-samples/analytics-cloud-datasphere-community-content # Download content packages for SAP Analytics Cloud and SAP Datasphere. Find technical samples, best practices or business scenarios. Packages contain data models, visualisations and sample data (if applicable).
+https://github.com/sap-samples/sme-partner-reference-application # Partner reference application to run full-stack cloud applications on the SAP Business Technology Platform for SAP partners in the Cloud ERP market.
+https://github.com/sap-samples/cloud-cap-multitenancy # SAP Cloud Application Programming Model (CAP) sample code project with multitenancy using service manager-created SAP HANA containers for tenant data isolation.
+https://github.com/sap-samples/cloud-sfsf-benefits-ext # SAP Employee Benefits Management is a sample extension application for SuccessFactors Employee Central. The application runs on SAP Cloud Platform and can be used by employees to make orders in specific benefits' campaigns and by HR managers to manage employee benefits and set up new benefits campaigns.
+https://github.com/sap-samples/datahub-integration-examples # Example operators, pipelines, and Dockerfiles for SAP Data Hub showing how to connect to different sources or how to perform certain tasks.
+https://github.com/sap-samples/cloud-espm-cloud-native # Enterprise Sales and Procurement Model (ESPM) Cloud Native is a project thatshowcases how an application can be made resilient by implementing resilience design patterns. This application is developed using Spring Boot framework and can be deployed locally as well as on SAP BTP, Cloud Foundry environment.
+https://github.com/sap-samples/btp-build-resilient-apps # SAP S/4HANA extension application following patterns for building resilientapplications on SAP BTP, such as the use of DevOps, observability, integration with business process workflows, and multi-region failover
+https://github.com/sap-samples/cloud-sample-node-chat # A simple chat application that is built on Node.js.
+https://github.com/sap-samples/btp-service-metadata # Contains the metadata of SAP BTP services - in a machine-readable format - available in an SAP BTP pay-as-you-go account.
+https://github.com/sap-samples/ui5-webcomponents-sample-angular # UI5 Web Components Sample TODO application built with Angular.
+https://github.com/sap-samples/teched2021-dev160 # DEV160 - Scale Application Development with SAPUI5
+https://github.com/sap-samples/abap-alv-google-upload-sheet # Sample demonstrating export of ALV Grid data from SAP GUI directly to Google Drive and display exported data snapshots automatically in Google Sheets.
+https://github.com/sap-samples/btp-azure-opensap # Exercises and sample code for the openSAP course "Building Applications on SAP BTPwith Microsoft Services"
+https://github.com/sap-samples/btp-terraform-samples # Best practices and examples to use the Terraform provider for SAP BTP.
+https://github.com/sap-samples/cap-service-integration-codejam # Material for the CodeJam on service integration with the SAP Cloud Application Programming Model.
+https://github.com/sap-samples/digital-manufacturing-extension-samples # Use these sample extensions to learn how to build your own extensions on top of SAP Digital Manufacturing.
+https://github.com/sap-samples/btp-generative-ai-hub-use-cases # Samples on how to build industry solution leveraging generative AI capabilities on top of SAP BTP and integrated with SAP S/4HANA Cloud.
+https://github.com/sap-samples/frun-csa-policies-best-practices # Best practices check examples for creating CSA policies in SAP Focused Run
+https://github.com/sap-samples/cloud-mdk-samples # Sample mobile development kit applications showcasing capabilities and common how-to topics for the intermediate to experienced user.
+https://github.com/sap-samples/analytics-cloud-custom-widget # Repository for SAP Analytics Cloud customers and partners to exchange custom widgets.
+https://github.com/sap-samples/hana-cloud-learning # This repository contains sample code and sample data for SAP HANA Cloud learningcontent such as like learning tracks, tutorials, and missions.
+https://github.com/sap-samples/teched2022-dt181 # Boost Your Productivity in Developing SAP Fiori Apps
+https://github.com/sap-samples/btp-developer-guide-cap # SAP BTP Developer’s Guide offers developer guidance to software developers onhow to implement business applications using SAP Cloud Application Programming Model on SAP BTP Cloud Foundry and SAP BTP Kyma Runtime following the best practices.
+https://github.com/sap-samples/teched2022-dt281 # Build and Extend Apps with the ABAP RESTful Application Programming Model
+https://github.com/sap-samples/btp-resource-consumption-monitor # Monitors the CPEA credit consumption of your global account and alerts on increased usage
+https://github.com/sap-samples/teched2023-ad283v # Develop Applications with SAPUI5 and Best Practices of SAP
+https://github.com/sap-samples/fiori-elements-incident-management # This repository contains the sample OData V4 service material forthe tutorials provided in the SAP Developer Center.
+https://github.com/sap-samples/cloud-sdk-js # This repository provides code samples and examples how to use the SAP Cloud SDK for JavaScript/TypeScript. The SAP Cloud SDK makes developing applications on the SAP Business Technology Platform easy.
+https://github.com/sap-samples/cloud-mdk-tutorial-samples # Sample from the SAP mobile development kit tutorials demonstrating variouscomponents and features of the MDK in the context of an enterprise mobile solution.
+https://github.com/sap-samples/btp-aws1-opensap # This repository contains exercises and sample code for the openSAP course "Build Resilient Applications on SAP BTP with Amazon Web Services."
+https://github.com/sap-samples/integrated-business-planning-excel-add-in-templates # Collection of best practices planning view templates for the SAP Integrated Business Planning (IBP) Add-In for Microsoft Excel.
+https://github.com/sap-samples/ariba-extensibility-samples # This repository contains sample applications for extending SAP Ariba using various SAP products, including SAP Integration Suite and SAP Data Intelligence. The purpose is to create a showcase available extensibility options to the SAP Ariba developer.
+https://github.com/sap-samples/acl2020-commonsense # Source code for paper on commonsense reasoning for 2020 Annual Conference of theAssociation for Computational Linguistics (ACL) 2020.
+https://github.com/sap-samples/gateway-odata-v4 # Collection of sample code to show how services based on OData V4 can be build usingthe SAP Gateway OData V4 framework.
+https://github.com/sap-samples/sapui5-development-learning-journey # Exercise scenario for the learning journey "UI Development with SAPUI5".
+https://github.com/sap-samples/azure-openai-aicore-cap-api # With AI Core as a proxy for Azure OpenAI Services, we are able to performprompt engineering, e.g. to add more context in the form of (SAP) documents or to perform input validation. This repo serves as a starting point for such a raw proxy and shows how SAP BTP, AI Core can be consumed and exposed via a CAP API.
+https://github.com/sap-samples/commerce-migration-toolkit # SAP Commerce extensions to support data migrations to SAP Commerce Cloud.
+https://github.com/sap-samples/acl2022-self-contrastive-decorrelation # Source code for ACL 2022 paper "Self-contrastive Decorrelationfor Sentence Embeddings".
+https://github.com/sap-samples/abap-platform-application-jobs # Implementation of a simple RAP (ABAP RESTful application programming model) business object that allows you to schedule a class as an application job that takes the semantic key of the selected entity as a parameter.
+https://github.com/sap-samples/teched2021-iis160 # IIS160 - Accelerate the Development of SAP Fiori Apps Using SAP Fiori Elements
+https://github.com/sap-samples/abap-platform-rap100 # RAP100
+https://github.com/sap-samples/abap-platform-rap630 # This repository contains the material for the RAP hands-on workshop called RAP630 - Use ABAP Cloud for developer extensibility.
+https://github.com/sap-samples/btp-cap-demo-usecases # Use cases demonstrating SAP CAP (Cloud Application Programming Model) applications using different SAP BTP services. Demonstrates advanced concepts required for many business applications.
+https://github.com/sap-samples/analytics-cloud-scim-api-samples # This is a collection of sample scripts developed as collections in Postman. This provides a means for customers to use the SAP Analytics Cloud SCIM API out of the box.
+https://github.com/sap-samples/cloud-btp-cli-api-codejam # Material for the CodeJam on the CLI and APIs for the SAP Business Technology Platform.
+https://github.com/sap-samples/ui5-webcomponents-sample-svelte # UI5 Web components sample TODO application built with Svelte.
+https://github.com/sap-samples/teched2023-dt182v # Use ABAP Cloud for Developer Extensibility
+https://github.com/sap-samples/process-automation-enablement # This repository contains content for SAP Process Automation trainings.
+https://github.com/sap-samples/cap-llm-plugin-samples # CAP LLM Plugin helps developers create tailored Generative AI based CAP applications without exposing confidential data to LLM by anonymizing sensitive data leveraging SAP HANA Cloud Data Anonymization.
+https://github.com/sap-samples/smart-co2nverter-ai # A mobile application enabling bank customers to be more climate conscious while strengthening their loyalty to the bank.
+https://github.com/sap-samples/btp-data-to-value-workshop # This repo contains a dataset, exercises, and sample code for an end-to-endSAP BTP data-to-value bootcamp covering SAP HANA Cloud, SAP Data Warehouse Cloud, SAP Data Intelligence Cloud, and SAP Analytics Cloud.
+https://github.com/sap-samples/ui5-typescript-walkthrough # A walkthrough tutorial that introduces all major development paradigms ofOpenUI5 using TypeScript with OpenUI5.
+https://github.com/sap-samples/ui5-deployments # Showcases a simple UI5 freestyle application and its deployment options to SAP BTP, Cloud Foundry Environment
+https://github.com/sap-samples/teched2023-ad181v # Delve into ABAP Cloud on SAP BTP, ABAP Environment
+https://github.com/sap-samples/ui5-service-worker-sample # ui5-service-worker-sample demonstrates how the Service Worker API, available in modern web browsers, could be used in a UI5 app to realize different caching strategies.
+https://github.com/sap-samples/teched2023-ad180v # Create Apps, Processes, and Workspaces with SAP Build Solutions
+https://github.com/sap-samples/teched2022-ad280 # SAP TechEd 2022 Session AD280: A Beginning-to-End Workshop on Configuring SAP Launchpad Service
+https://github.com/sap-samples/btp-launchpad-ui-samples # Sample code of UI projects for SAP BTP Launchpad Service.
+https://github.com/sap-samples/cloud-messaging-handsonsapdev # For the host and participants of the Hands-on SAP Dev live stream showto share discoveries and scripting efforts in the Diving into messaging on SAP Cloud Platform series.
+https://github.com/sap-samples/build-codejam # This repository contains the material for the CodeJam on using SAP Build to create a process, an app, and a business site.
+https://github.com/sap-samples/abap-platform-ci-cd-samples # This repository shows different configurations of steps and pipelines specific to the ABAP Environment Pipeline as part of project “Piper.”
+https://github.com/sap-samples/teched2020-iis201 # IIS201 - Bring the Full SAP Fiori User Experience to Your Screens in SAP GUI
+https://github.com/sap-samples/teched2022-xp280 # Combining CI/CD with Transports for Speedy and Controlled Delivery
+https://github.com/sap-samples/event-mesh-client-java-samples # Samples based on the Java messaging client for SAP Event Mesh (formerly Enterprise Messaging in SAP Cloud Platform).
+https://github.com/sap-samples/cloud-abap-exchange-rates # This example code helps loading currency exchange rates from the European Central Bank into an SAP BTP, ABAP environment system for utilization in the currency conversion functionality.
+https://github.com/sap-samples/sap-community-activity-badges # Display your SAP Community public activity, badges, and Devtoberfest contest progress as graphical badges that you can add to any profile that allows for displaying of images, including your GitHub profile README.md.
+https://github.com/sap-samples/btp-end-to-end-scenario-use-cases # A collection of use cases and samples for building end-to-end extension scenarios on SAP BTP.
+https://github.com/sap-samples/hana-graph-examples # SAP HANA includes a graph engine for network analysis. The examples demonstrate the usage of built-in algorithms, e.g. for path finding.
+https://github.com/sap-samples/btp-kyma-cap-multitenant-susaas # Sample project that demonstrates how to setup a multitenant application for a Software-as-a-Service scenario using the SAP BTP, Kyma environment. Developers learn how to implement their own CAP (mtxs) based SaaS app including an inbound API and integration with various essential SAP BTP service offerings.
+https://github.com/sap-samples/cloud-gamification-demo-app # This code example includes a sample application named "HelpDesk" in orderto demonstrate how to use the APIs of the gamification service for the Neo Environment (formerly SAP Cloud Platform Gamification service)
+https://github.com/sap-samples/abap-platform-jak # The JSON ABAP Konverter
+https://github.com/sap-samples/connecting-systems-services-integration-suite-codejam # This repo contains the exercise instructions for the CodeJam based on SAP Integration Suite.
+https://github.com/sap-samples/cap-development-learning-journey # Starter Template for the learning journey to get started with CAP.
+https://github.com/sap-samples/hana-ml-py-codejam # Material (learning content and exercises) for SAP CodeJams on getting started withMachine Learning using SAP HANA Cloud and Python.
+https://github.com/sap-samples/ui5-mdc-json-tutorial # Tutorial explaining the key concepts of the sap.ui.mdc library of UI5.
+https://github.com/sap-samples/cloud-extension-ecc-business-process # This sample showcases how to complement an existing business process in an SAP solution – currently SAP ECC, with additional business process steps. This involves adding major logic and/or additional data.
+https://github.com/sap-samples/cloud-alm-api-examples # Open source examples for APIs that get delivered within SAP Cloud ALM - find help on getting started with SAP Cloud ALM APIs, some sample applications, code snippets, and more.
+https://github.com/sap-samples/cloud-nodejs-oflm # This repository demonstrates how to implement security in a business scenario usingthe Node.js framework. The application is secured using the SAP BTP, Cloud Foundry environment Authorization and Trust Management Service.
+https://github.com/sap-samples/teched2022-in180 # Leveraging Commands from “Piper” for CI/CD Setup with SAP Integration Suite
+https://github.com/sap-samples/teched2023-xp185v # Get Hands-On Security Recommendations for Your SAP BTP Environment
+https://github.com/sap-samples/abap-platform-code-samples-cloud # Collection of sample code to demonstrate ABAP for cloud development.
+https://github.com/sap-samples/ai-core-samples # The SAP AI Core sample workflow templates and example machine learning notebooks using SAP AI Core SDK calls will help you get started with the product and understand how to productize a ML use case using SAP AI Core.
+https://github.com/sap-samples/cloud-businessrules-samples # SAP Cloud Platform Business Rules sample projects that can be used as reference content. Users can download and import the content of these projects in their account to understand and learn how-to author and maintain business rules
+https://github.com/sap-samples/cloud-objectstore-java-sample # The Object Store reference application aims to provide a single-code line application, which can be run in SAP BTP, Cloud Foundry environment, consuming Object Store service with different IaaS providers underneath - e.g. AWS, GCS, Azure.
+https://github.com/sap-samples/teched2022-dt280 # Develop Cloud-Ready Extensions with SAP S/4HANA Cloud, ABAP Environment
+https://github.com/sap-samples/abap-platform-rap110 # This repository contains the material for the hands-on session RAP110 - BuildingFiori Apps with the ABAP RESTful Application Programming Model (RAP).
+https://github.com/sap-samples/cloud-cf-feature-flags-sample # A sample application that demonstrates the consumption of Feature Flagsservice on SAP Cloud Platform, Cloud Foundry environment
+https://github.com/sap-samples/s4hana-hana-audit-policies # Templates for SAP HANA audit policies of SAP S/4HANA systems.
+https://github.com/sap-samples/btp-industry-use-cases # Key SAP BTP components implemented in the proposed architecture of the BTP forIndustries use cases.
+https://github.com/sap-samples/build-workzone-integration # This repository serves as a template for SAP Build Workzone integration samples, providing a structured starting point for developers.
+https://github.com/sap-samples/partner-reference-application # The partner reference application provides samples and guidance to build, deploy, run, and integrate full-stack multi-tenant applications on the SAP Business Technology Platform.
+https://github.com/sap-samples/btp-cf-cap-reuse-service # This repository contains sample code of a business service including a ReuseUI and provides guidance how to integrate both components (business service & Reuse UI) with a standalone application as well as software-as-a-service solution on SAP BTP.
+https://github.com/sap-samples/teched2022-ad180 # SAP TechEd 2022 Session AD180: Visually Build a Full-Stack Application with SAP AppGyver
+https://github.com/sap-samples/cloud-cf-multitenant-inventory-management # Developing a SaaS Multi-tenant application on SAP BTP, Cloud Foundry environment.
+https://github.com/sap-samples/workzone-content-package-templates # Github templates for developers to create content packages and their contained artifacts for SAP Work Zone.
+https://github.com/sap-samples/fiori-elements-fpm-exercises-codejam # Material for SAP CodeJam events about the SAP Fiori elements flexible programming model. Step-by-step guide explaining how to build a frontend web application using SAP Fiori elements.
+https://github.com/sap-samples/datasphere-fedml # The publication is a collection of sample code to show how data from SAP and non-SAPsystems can be made available for training in ANY hyperscaler machine learning service via several layers of abstraction from data connection to training using our FedML Python libraries.
+https://github.com/sap-samples/event-mesh-client-nodejs-samples # Samples based on the Node.js messaging client for SAP Event Mesh (formerly Enterprise Messaging in SAP Cloud Platform).
+https://github.com/sap-samples/cloud-sdk-ios-specs # Dependency Manager specs repository for SAP BTP SDK for iOS.
+https://github.com/sap-samples/teched2023-ai284v # Jumpstart Your Document Processing Use Case with Generative AI
+https://github.com/sap-samples/btp-events-to-business-actions-framework # Build Events-to-Business Actions Scenarios with SAP BTP andMicrosoft Azure/AWS
+https://github.com/sap-samples/automation-pilot-examples # Example SAP Automation Pilot commands, which demonstrate the automation ofcomplex manual processes.
+https://github.com/sap-samples/tier2-rfc-proxy #
+https://github.com/sap-samples/btp-user-management-microservice # Sample CAP microservice to manage business applications' users and their respective authorizations.
+https://github.com/sap-samples/security-research-taintgraphs # A tool to extract tainted code graphs from C/C++ and Java source code.
+https://github.com/sap-samples/fundamental-ngx-sample-apps # Intended as a showcase of Fundamental Library for Angular components andtheir capabilities. The project also uses Firebase for some mock data loading.
+https://github.com/sap-samples/fsm-extension-sample # This sample provides a template that helps configure deployment information thatcan be uploaded and then integrated into SAP Field Service Management.
+https://github.com/sap-samples/launchpad-service-samples # Code samples for extending and developing on top of the SAP Launchpad service.
+https://github.com/sap-samples/acl2019-commonsense # Source code for the paper "Attention Is (not) All You Need for Commonsense Reasoning" published at ACL 2019.
+https://github.com/sap-samples/ui5-evolution-apps # Sample applications and information to complement ongoing UI5 Evolution activities(such as substantially improving the UI5 framework by a modular core, lightweight bootstrap, consolidated configuration, etc.).
+https://github.com/sap-samples/cloud-extension-html5-sample # The sample showcases a custom SAP Fiori UX application for an API exposed from an SAP S/4HANA system or any other backend.
+https://github.com/sap-samples/hana-hdbext-promisfied-example # Example of how to use @sap/hdbext (standard node.js SAP HANA interface) via a promisfied wrapper.
+https://github.com/sap-samples/ui5-typescript-control-library # This repository demonstrates how to develop UI5 control libraries in TypeScript.
+https://github.com/sap-samples/teched2023-dt187v # Build Analytical Applications with ABAP Cloud
+https://github.com/sap-samples/btp-bas-risk-management # This sample code showcases how to build applications on SAP Business Technology Platform using SAP Business Application Studio for low-code development, in this case to display business partner data from an SAP S/4HANA on-premise system.
+https://github.com/sap-samples/analytics-cloud-data-generator # This project contains Node.js scripts and Microsoft Excel templates for creating realistic sample fact data in SAP Analytics Cloud or other data sources.
+https://github.com/sap-samples/appgyver-auth-flows # SAP Cloud Identity and XSUAA authentication samples for SAP AppGyver. This repository shows how to apply OAuth 2.0 authorization and token flows to your SAP AppGyver apps.
+https://github.com/sap-samples/openui5-fhir-sample-app # Sample app demonstrating the use of the openui5-fhir open source project.
+https://github.com/sap-samples/sap-community-developer-challenge-eda-hana # SAP Developer Challenge: Exploratory Data Analysis with SAP HANA and Python. Take part in the challenge and build your skills using the Python Client for SAP HANA.
+https://github.com/sap-samples/cloud-sdk-team-calendar # Learn how to build an extension to SAP S/4HANA and SAP SuccessFactors using the SAP Cloud SDK. Start using this sample and follow the given instructions.
+https://github.com/sap-samples/teched2022-in280 # Central Monitoring of Integration Scenarios Using SAP Cloud ALM
+https://github.com/sap-samples/teched2023-in265 # Event-Driven Architecture with SAP Integration Suite, advanced event mesh
+https://github.com/sap-samples/landscape-management-sample-scripts # Within this project, SAP, customers, and partners can post samplescripts relating to SAP Landscape Management. These scripts shall demonstrate automation possibilities across SAP Landscape Management and further tools related to automating landscape processes.
+https://github.com/sap-samples/btp-kyma-multitenant-extension # DEPRECATED - This project contains a reference application, showcasingan end-to-end development scenario for a multitenant extension on SAP BTP Kyma runtime, which has an SAP partner as focus persona.
+https://github.com/sap-samples/cross-language-detection-artifacts # This repository complements our paper by offering the training dataset, the best-performing models utilized in our real-world experiment, the list of identified malicious packages, and the scripts necessary to replicate and verify our results.
+https://github.com/sap-samples/logistics-business-network-gtt-standardapps-samples # Contains implementation sample code and relevantdocumentation that shows how to integrate external systems such as SAP ERP with standard apps of the SAP Logistics Business Network, global track and trace option to build a tracking application.
+https://github.com/sap-samples/ui5-react-redux-samples # Example of how to add Redux and Redux Toolkit to a React UI5 Web Components for React application. The branches correspond with presentations linked in the branches README.
+https://github.com/sap-samples/successfactors-extension-calculate-employee-seniority # The publication is a sample extension to SAP SuccessFactors to manage seniority adjustments based on business events, using the SAP Business Technology Platform.
+https://github.com/sap-samples/integrated-business-planning-excel-addin-vba-samples # Collection of planning view enhanced with VBA coding. These samples should kick-start your VBA journey within SAP IBP.
+https://github.com/sap-samples/teched2022-ad181 # SAP TechEd 2022 Session AD180: Compose Enterprise-Grade Mobile Apps on SAP BTP
+https://github.com/sap-samples/btp-showcase-actuals-cap # This project creates an SAP HANA Deployment Infrastructure (aka HDI) container on SAP HANA Cloud and persists actual sales data originated from an external system in the same SAP Data Warehouse Cloud’s existing persistence area.
+https://github.com/sap-samples/ui5-webcomponents-data-binding-example # A sample application using UI5 Web Components and implementingframework-agnostic data binding capabilities.
+https://github.com/sap-samples/abap-platform-code-samples-standard # Collection of sample code to demonstrate ABAP for standard on-premise development.
+https://github.com/sap-samples/abap-platform-yy # YY Data Service: A Poor Man's RTTI for the ABAP Environment on SAP Cloud Platform
+https://github.com/sap-samples/hana-cloud-relational-data-lake-onboarding # This is an end-to-end onboarding sample for SAP HANA Cloud, relational data lake. It shows how to create schema, load data, and execute queries.
+https://github.com/sap-samples/s4hana-cloud-extension-process-automation # The main intent of this scenario is to put an event-drivenarchitecture into action by automating business processes through SAP Build Process Automation and also by building an extension application on SAP Business Technology Platform using SAP Cloud Application Programming Model (CAP) which consumes and further processes the SAP S/4HANA On-pre...
+https://github.com/sap-samples/teched2023-da183v # Explore SAP Datasphere from A to Z
+https://github.com/sap-samples/teched2023-da285v # Building Intelligent Data Applications with SAP HANA Cloud
+https://github.com/sap-samples/event-driven-integrations-codejam # In this SAP CodeJam we will look at SAP Integration Suite, advancedevent mesh and how we can use it to connect our systems and services following an Event-driven architecture approach.
+https://github.com/sap-samples/cloud-abap-event-mesh-api # The sample code provides an ABAP abstraction layer on top of the SAP BTP Event Mesh REST API, which allows ABAP developers to quickly and easily interact with the SAP BTP Event Mesh.
+https://github.com/sap-samples/hana-xsa-live-reporting # Pre-configured multi-target application with calculation views for deploymentin XS Advanced or SAP Cloud Platform, Cloud Foundry.
+https://github.com/sap-samples/cap-bookshop-wdi5 # Sample SAP Fiori application based on SAP Cloud Application Programming Model usedin the associated SAP tutorial for developers.
+https://github.com/sap-samples/data-warehouse-cloud-connectors # Connecting third party clients to SAP Data Warehouse Cloud.
+https://github.com/sap-samples/logistics-business-network-integration # The content stored in this repository enables you to integratewith SAP Logistics Business Network (LBN).
+https://github.com/sap-samples/vscode-abap-cds # Vscode language support for ABAP CDS Views.
+https://github.com/sap-samples/btp-services-intelligent-routing # Route Multi-Region Traffic to SAP BTP Services Intelligently. SampleCode and step-by-step guides to set up a multi-region landscape for SAP Cloud Integration and SAP Launchpad service using Azure Traffic Manager or Amazon Route 53 to distribute incoming traffic intelligently.
+https://github.com/sap-samples/btp-msteams-extend-workflow # Integrate SAP Business Processes in Microsoft Teams using SAP Business Technology Platform.
+https://github.com/sap-samples/teched2021-iis162 # IIS162 - Manage Your Implementation Using SAP Cloud ALM
+https://github.com/sap-samples/teched2023-in160 # #IN160 - Discover next-generation hybrid integrations with Edge Integration Cell
+https://github.com/sap-samples/btp-cf-multitenant-extension # The main intent of this application  is to show how to build and deployan End-to-end Scenario for SAP Partners to develop a multi tenant SaaS solution on SAP Business Technology Platform Cloud Foundry runtime.
+https://github.com/sap-samples/node-rfc-samples # This repository provides small sets of configuration and code relating to various node-rfc usage scenarios and platform integrations.
+https://github.com/sap-samples/cloud-cap-with-javascript-basics # This is an SAP Cloud Application Programming Model project that demonstrates how to integrate and use standard JavaScript within your CAP application. It also teaches basic JavaScript techniques and language elements that will be helpful in CAP development.
+https://github.com/sap-samples/cloud-extension-s4hana-business-process # This sample showcases how to complement an existing businessprocess in an SAP solution – currently SAP S/4HANA, with additional business process steps. This involves adding major logic and/or additional data.
+https://github.com/sap-samples/sap-community-code-challenge-ui5 # SAP Community Code Challenge: This repository contains an empty OpenUI5 application and end-to-end tests written with wdi5. Take part in the challenge and develop an app that passes the tests.
+https://github.com/sap-samples/forms-service-by-adobe-samples # Example projects to illustrate how the SAP Forms Service could be integrated into various projects and platforms.
+https://github.com/sap-samples/teched2023-xp160 # Automating SAP BTP Accounts with Terraform Provider
+https://github.com/sap-samples/multimodal-generative-ai-for-bpm # Contains dataset and source code for the thesis "Generative AI for Business Process Management - Suitability of Modalities". Aims to evaluate feasibility of generating structured process models from unstructured documents containing images and texts using multimodal LLMs
+https://github.com/sap-samples/teched2023-xp260 # Getting Started with Full-Stack Application Development on SAP BTP
+https://github.com/sap-samples/acl2023-micse # Source code for ACL 2023 paper "miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings".
+https://github.com/sap-samples/teched2022-ad264 # SAP TechEd 2022 Session AD264: Boost Application Verticalization, Customization, andComposition
+https://github.com/sap-samples/abap-test-isolation-examples # The samples in this repository demonstrate how test isolation can be achieved in ABAP. It does this by giving examples for the available tools the ABAP Platform.
+https://github.com/sap-samples/btp-global-center-of-excellence-samples # Samples from the Global Center of Excellence for SAP BTP.
+https://github.com/sap-samples/teched2022-da160 # Explore SAP Data Warehouse Cloud from A to Z
+https://github.com/sap-samples/service-ticket-intelligence-jupyter-notebook # Use Jupyter Notebook samples to try out the Service Ticket Intelligence classification and recommendation APIs.
+https://github.com/sap-samples/s4hana-microsoft-team-app-integration # Learn how to build a Microsoft Teams extension app and approveSAP S/4HANA purchase order in Microsoft Teams App
+https://github.com/sap-samples/teched2023-ad282v # Develop Cloud Applications on SAP Business Technology Platform with AI
+https://github.com/sap-samples/teched2022-ad265 # SAP TechEd 2022 Session AD265: Bringing Service Integration to Your Fingertips
+https://github.com/sap-samples/hana-enterprise-search-engine # Sample application exposing SAP HANA search features as HTTP-REST services.
+https://github.com/sap-samples/btp-private-link-approuter # Application router as a proxy for SAP Private Link service for SAP Cloud Integration and SAP Launchpad scenarios.
+https://github.com/sap-samples/teched2022-ai180 # SAP TechED 2022 AI180 - Automate Your Invoice Processing with SAP Build Process Automation
+https://github.com/sap-samples/idm-business-extensions-service # This repository contains the content of the SAP Identity Management Business Extensions Service from SAP Consulting (formerly known as RDS).
+https://github.com/sap-samples/teched2023-ad264 # Extend SaaS Apps with SAP Cloud Application Programming Model on SAP BTP
+https://github.com/sap-samples/teched2023-in261 # Gain a Comprehensive View of Event-Driven Architecture
+https://github.com/sap-samples/cap-hana-mobile-end2end-samples # This sample repository contains the project files for the Advocates Service CAP project as well as the Advocates App written with the SAP BTP SDK for iOS.
+https://github.com/sap-samples/cloud-s4-sample-ext # The repository hosts issues for SAP S/4HANA Extensibility Scenarios from SAP Extensibility Explorer.
+https://github.com/sap-samples/fiori-custom-plugin-abap # Learn how to create a custom SAP Fiori Launchpad plugin to modify the SAP Fiori Launchpad header title and extract title information via a custom service in Embedded Steampunk.
+https://github.com/sap-samples/cp-cli-automate-operations # With this example for the Command-Line Interface (CLI) for SAP BTP, you can automate the setting up of new development environments. This includes the creation of a directory, subaccounts, and entitlements, as well as a Cloud Foundry space and an instance of the SAP HANA Cloud service in the space.
+https://github.com/sap-samples/hana-dynamic-deploy # Code sample demonstrating use of the SAP HANA XSA Dynamic HANA Deployment Infrastructure (HDI) Deployer.
+https://github.com/sap-samples/btp-create-api-integrations # Create your own digital experiences with SAP Build and SAP Integration Suite to operationalize access requests, federate APIs from disparate gateways, and monetize their use.
+https://github.com/sap-samples/service-cloud-ms-teams-integration # Integrate Microsoft Teams with SAP Service Cloud through SAP Integration Suite! It imports customers' ticket information within the chat and exports the chat messages directly to the ticket within the chat. It simplifies SAP Service Cloud calls using SAP Integration Suite.
+https://github.com/sap-samples/kyma-mtx-faq-management # The FAQ management service allows customers to manage a list of frequently asked questions through an SAP Fiori interface. For this, it leverages multiple SAP technologies such as the Kyma runtime, SAP Cloud Application Programming Model (CAP), SAP Application Router, Luigi, Fundamental Vue, and SAP Fiori elements.
+https://github.com/sap-samples/manage-apis-codejam # In this SAP CodeJam, we will look at SAP API Management part of the SAP Integration Suite and how we can use it to manage the different APIs exposed by our systems and services.
+https://github.com/sap-samples/teched2023-ai267 # Empowering AI embedding into SAP S/4HANA with ISLM
+https://github.com/sap-samples/btp-onboarding # How to get started with your SAP BTP Enterprise Account.
+https://github.com/sap-samples/integration-suite-learning-journey # Template for the learning journey "Developing with SAP IntegrationSuite".
+https://github.com/sap-samples/teched2023-ad164 # Introduction of ABAP Cloud for Use by Classic ABAP Developers
+https://github.com/sap-samples/concur-api-sample-code # This repository contains the sample code that is used in the "Calling Concur APIs" tutorial series on SAP Tutorial Navigator.
+https://github.com/sap-samples/build-apps-enablement # A library of samples to build applications using SAP Build Apps.
+https://github.com/sap-samples/teched2023-xp264 # Get Hands-On Security Recommendations for Your SAP BTP Environment
+https://github.com/sap-samples/cf-routing-samples # Samples for the Cloud Foundry runtime on SAP BTP related to application routing topics such as HTTP/2 server examples for SAP BTP, Cloud Foundry runtime in various popular programming languages. The examples include H2C and gRPC examples.
+https://github.com/sap-samples/luigi-micro-frontend-application # Learn how to build a Luigi micro-frontend application with React andUI5. It demonstrates the usage of the Luigi open source project.
+https://github.com/sap-samples/sapui5-development-advanced-learning-journey # This repository contains templates and solutions for theAdvanced SAPUI5 Development learning journey on learning.sap.com.
+https://github.com/sap-samples/teched2021-dev164 # DEV164 - Develop, Configure, and Provision Application Workflows and Content
+https://github.com/sap-samples/btp-s4hana-nocode-extension # Create a simple custom UI application using the no-code tool SAP AppGyver, push the code to the HTML5 repository, and show different options on how to expose this application - stand-alone or with different SAP Launchpad environments.
+https://github.com/sap-samples/clustertabnet # Implementation of the table detection and table structure recognition deep learning model described in the paper "ClusterTabNet: Supervised clustering method for table detection and table structure recognition".
+https://github.com/sap-samples/abap-platform-rap640 # This repository contains the material for the hands-on session RAP640 - Mitigating Missing Released SAP APIs in the 3-tier Extensibility Model.
+https://github.com/sap-samples/teched2022-ad163 # SAP TechEd 2022 Session AD163: Accelerate Development of Enterprise-Grade Applications with SAPUI5
+https://github.com/sap-samples/abap-odata-client-proxy-samples # Sample code to show customers and partners how to use the OData client proxy API to call public REST and OData services.
+https://github.com/sap-samples/teched2022-ad162 # SAP TechEd 2022 Session AD162: Build and Extend Apps with ABAP RESTful Application Programming Model
+https://github.com/sap-samples/teched2023-ad260 # Building SAP Fiori Apps with ABAP Cloud on SAP BTP, ABAP Environment
+https://github.com/sap-samples/teched2022-da280 # Build an Integrated Planning Scenario with Data and Analytics Solutions
+https://github.com/sap-samples/btp-fiori-helloworld # This tutorial covers the first elementary steps for developing SAPUI5/Fiori UIs.
+https://github.com/sap-samples/teched2023-xp162 # Get Started with SAP BTP Leveraging SAP Discovery Center.
+https://github.com/sap-samples/cloud-dqm-sample-payloads # Sample JSON payloads for SAP Data Quality Management, microservices for location data.
+https://github.com/sap-samples/graph-example-apps # Example apps using the SAP Graph API.
+https://github.com/sap-samples/xsa-cap-migration # A sample application that demonstrates the migration of XSA-based application to SAP Cloud Application Programming model and Hana Cloud.
+https://github.com/sap-samples/teched2022-dt264 # Learn How to Set Up and Configure SAP Mobile Start with SAP S/4HANA
+https://github.com/sap-samples/security-research-commit-anomaly-detection # SAP Security Research sample code and data to reproduce the research done in our paper "Detecting Backdoors in Collaboration Graphs of Software Repositories".
+https://github.com/sap-samples/ui5-webcomponents-ngx-sample # Sample application to demonstrate UI5 Web Components for Angular poweredby Fundamental Library Styles.
+https://github.com/sap-samples/s4hana-gcts-badi # Sample code to integrate your ABAP development processes with gCTS to enable task-based committing and to integrate the gCTS Registry in the process of releasing a task.
+https://github.com/sap-samples/btp-sf-extension-adv-event-mesh # This sample showcases how to complement an existing business processin an SAP solution – currently SAP SuccessFactors, with additional business process steps by consuming business events using SAP Advanced Event Mesh. This involves adding major logic and/or additional data.
+https://github.com/sap-samples/abap-platform-fundamentals-01 # This project contains ABAP and SQL source used in customer facing events for SAP user groups.
+https://github.com/sap-samples/teched2023-da271 # Delight Your Analytics Users with Advanced Data Models in SAP Datasphere
+https://github.com/sap-samples/teched2023-ad262 # Create Extensions to SAP S/4HANA Using ABAP Cloud and SAP Build
+https://github.com/sap-samples/data-attribute-recommendation-postman-tutorial # Sample code and dataset example for anyone who wants to try out the data attribute recommendation machine learning service using a REST client.
+https://github.com/sap-samples/mobile-cards-templates # Templates provided in this repository help developers realize the power of SAPMobile Cards and accelerate the development process.
+https://github.com/sap-samples/teched2022-in181 # Achieving Composability with a Digital Integration Hub
+https://github.com/sap-samples/teched2023-ad265 # Bringing UI to the Next Level: Develop SAPUI5 with SAP Build Code
+https://github.com/sap-samples/teched2023-dt168 # Using ABAP Cloud to Build Extensions for SAP S/4HANA Cloud, Private Edition
+https://github.com/sap-samples/ui5-react-exercises-codejam # Material for SAP CodeJam events on UI5 Web Components for React. Step-by-step guide explaining how to build a frontend web application using UI5 Web Components for React.
+https://github.com/sap-samples/upscale-commerce-open-payment-integration # SAP Upscale Commerce builds a no code/low code open paymentframework for customers to integrate various payment gateways. This repository contains integration examples for different gateway integrations.
+https://github.com/sap-samples/btp-spend-analysis # The sample integration flows in this repository demonstrate how to use SAP BTP Integration Suite to pull data from the SAP Ariba Analytical Reporting API, process it into SAP Data Warehouse Cloud, and analyze it using the SAP Analytics Cloud Spend Analysis business content.
+https://github.com/sap-samples/sap-genai-hub-with-sap-hana-cloud-vector-engine # This repository contains hands-on content to be use in workshops.
+https://github.com/sap-samples/btp-abap-cna # A sample bonus calculation app, written in RAP on SAP BTP ABAP Environment, consuming SAP Kyma and Cloud Foundry services.
+https://github.com/sap-samples/cap-appgyver-covid-certcheck # An SAP AppGyver sample app that checks Covid certificates automaticallywith the help of SAP Cloud Application Programming Model, SAP Cloud Identity Services, SAP Graph and many more!
+https://github.com/sap-samples/teched2022-da180 # Getting Started with Multimodel Capabilities in SAP HANA Cloud
+https://github.com/sap-samples/s4hana-ext-create-employee # SAP Extensibility Explorer example: SAP S/4HANA Cloud App for One-Click User Creation http://tiny.cc/s4-create-employee
+https://github.com/sap-samples/teched2021-isp261 # ISP261 - Extend SAP Commerce Cloud Through Cloud Native Functions and Services
+https://github.com/sap-samples/teched2023-dt262 # Extend Your Core ERP Software with Enterprise-Grade Apps
+https://github.com/sap-samples/localization-toolkit-s4hana-cloud-bank-account-validation # A Java program is provided to download andextract the white list of the encoded bank account/tax number pairs from Polish authorities. It also provides a service to check if a requested pair is included in the downloaded list.
+https://github.com/sap-samples/teched2021-dat161 # DAT161 - Integrating SAP S/4HANA into SAP Data Intelligence: Deep Dive and Hands On
+https://github.com/sap-samples/teched2023-ad161 # Session AD161 - The pro-code offering allows developers to rapidly develop applications on SAP Business Technology Platform. Learn how to build a full-stack application using the productivity tools in SAP Business Application Studio, including back-end services with SAP Cloud Application Programming Model and an SAP Fiori elements application.
+https://github.com/sap-samples/teched2023-in260 # Resilient Integration of SAP Solutions on SAP BTP
+https://github.com/sap-samples/data-intelligence-replication # Replication from SQL DB to Object Store using SAP Data Intelligence.
+https://github.com/sap-samples/teched2023-da160 # Hands-On Experience with SAP Master Data Governance, Cloud Edition
+https://github.com/sap-samples/teched2022-ad160 # SAP TechEd 2022 Session AD160: Build Robust Apps Enhanced with Process Automation and Low-Code Tooling
+https://github.com/sap-samples/cap-ai-vector-engine-sample # This repository contains sample code for a CAP application utilizing theCAP-LLM-Plugin to establish a connection to SAP AI Core and SAP HANA Cloud for creating and storing vector embeddings, perform similarity searches and requesting RAG responses.
+https://github.com/sap-samples/cloud-mobile-end2end-sample # Mahlwerk is a make-believe coffee machine manufacturer in need of mobilizing its business processes. Realize the power of SAP Mobile Services through this end-to-end sample application designed to highlight the capabilities of native (SAP BTP SDK for Android/iOS) and cross-platform (Mobile Development Kit/SAP Mobile Cards) applications developed through use cases commonly found in the industry.
+https://github.com/sap-samples/hana-cf-get-started-trial # Explore NoSQL, graph, geospatial and text analytics in SAP HANA.
+https://github.com/sap-samples/teched2023-in264 # Combine SAP Integration Suite and SAP Build Process Automation in HR
+https://github.com/sap-samples/btp-event-mesh-connectivity-bridge # Enable integration of SAP events to Microsoft Azure with SAP EventMesh Connectivity Bridge and Azure Event Grid
+https://github.com/sap-samples/ui5-p13n-tutorial # Tutorial on how to add personalization capabilities to almost any control
+https://github.com/sap-samples/btp-extension-s4-material-availability # SAP S/4HANA product availability service, using SAP Business Application Studio, SAP Cloud Application Programming (CAP), and SAP Integration Suite.
+https://github.com/sap-samples/teched2022-da262 # Modeling External and SAP Software Data in SAP Data Warehouse Cloud
+https://github.com/sap-samples/hda-cross-pm-samples # Samples, tutorials, and use cases for SAP HANA database and analytics products,including SAP Datasphere, SAP Analytics Cloud, and more.
+https://github.com/sap-samples/cloud-extension-graph-sample # This sample showcases how to use SAP Graph service on SAP BTP to get data from different SAP systems.
+https://github.com/sap-samples/teched2022-xp260 # Configuring Services on SAP BTP Securely
+https://github.com/sap-samples/teched2022-xp261 # Operating Your SAP BTP Platform Environment with SAP Cloud ALM
+https://github.com/sap-samples/s4hana-ext-migrate-historical-data # SAP Extensibility Explorer example: Migrated Sales Order Data.
+https://github.com/sap-samples/btp-batch-admin # Simple Cloud Foundry multi-target-application with BASH-based batch files for creating/deleting/deploying via the btp command.
+
+https://github.com/sap-tutorials/tutorials # Tutorials on sap.com
+https://github.com/sap-tutorials/how-tos # How-To documents for sap.com - DEPRECATED
+https://github.com/sap-tutorials/abap-core-development # Tutorials to support various abap products and functions.
+https://github.com/sap-tutorials/sap-build-apps # Repository to contain developer tutorials related to the SAP Build Apps product.
+https://github.com/sap-tutorials/sap-build-process-automation # Tutorials for SAP Build Process Automation.
+https://github.com/sap-tutorials/issues #
+https://github.com/sap-tutorials/devtoberfest-2022 #
+https://github.com/sap-tutorials/ai-core # Repository for AI Core and AI Launchpad tutorials
+https://github.com/sap-tutorials/sap-btp-sdk-android # This repository will house tutorials to support the SAP Business Technology Platform software development kit for Android OS.
+https://github.com/sap-tutorials/community # Tutorials to assist SAP Community users
+https://github.com/sap-tutorials/sap-mobile-development-kit # This repository will contain tutorials designed to assist those workingwith the SAP Mobile Development Kit
+https://github.com/sap-tutorials/sap-btp-sdk-ios # This repository will house tutorials to support the SAP Business Technology Platform software development kit for iOS.
+https://github.com/sap-tutorials/btp-dev-guidance # This repository will contain tutorials to support development guidance with the SAP Business Technology Platform.
+https://github.com/sap-tutorials/btp-onboarding # Repository for SAP Tutorials related to BTP Onboarding
+https://github.com/sap-tutorials/sap-conversational-ai #
+https://github.com/sap-tutorials/data-warehouse-cloud # This repository will house tutorials that support the set up, operations, andusag of the SAP Data Warehouse Cloud.
+https://github.com/sap-tutorials/.github #
+https://github.com/sap-tutorials/xpa-tutorials # This repository will house tutorials to support developers xP&A
+https://github.com/sap-tutorials/btp-adai # Developer Tutorials for SAP BTP App Development Automation & Integration
+https://github.com/sap-tutorials/btp-foundation # Learn with BTP Foundation tutorials. Get an introduction to SAP technology and configuration options.
+https://github.com/sap-tutorials/joshua-tutorials #
+https://github.com/sap-tutorials/sapcommunity #
+https://github.com/sap-tutorials/tutorial-actions # This repo is used for actions for the sap-tutorials organizations
+https://github.com/sap-tutorials/sap-mobile-cards # This repository will house tutorials to support SAP Mobile Cards.
+
+https://github.com/sap/openui5 # OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
+https://github.com/sap/styleguides # This repository provides SAP style guides for coding and coding-related topics.
+https://github.com/sap/ui5-webcomponents # UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
+https://github.com/sap/macos-enterprise-privileges # For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS. Users can set a timeframe in the application's settings to perform specific tasks, such as installing or removing an application.
+https://github.com/sap/luigi # Micro frontend framework
+https://github.com/sap/jenkins-library # Jenkins shared library for Continuous Delivery pipelines.
+https://github.com/sap/spartacus # Spartacus is a lean, Angular-based JavaScript storefront for SAP Commerce Cloud that communicates exclusively through the Commerce REST API.
+https://github.com/sap/sapmachine # An OpenJDK release maintained and supported by SAP
+https://github.com/sap/pyrfc # Asynchronous, non-blocking SAP NW RFC SDK bindings for Python
+https://github.com/sap/ui5-tooling # An open and modular toolchain to develop state of the art applications based on the UI5 framework
+https://github.com/sap/ui5-webcomponents-react # A wrapper implementation for React of the UI5 Web Components that are compliant withthe SAP Fiori User Experience
+https://github.com/sap/abap-cleaner # ABAP cleaner applies 95+ cleanup rules to ABAP code at a single keystroke
+https://github.com/sap/opensap-ui5-course # Repository for content related to the openSAP courses "Evolved Web Apps with SAPUI5"
+https://github.com/sap/macos-icon-generator # Icons for macOS is the easiest way to create customized app icons in PNG format for yourcompany’s internal app store. No graphic skills needed.
+https://github.com/sap/code-pal-for-abap # code pal for ABAP is a highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.
+https://github.com/sap/node-hdb # SAP HANA Database Client for Node
+https://github.com/sap/credential-digger # A Github scanning tool that identifies hardcoded credentials while filtering the false positive data through machine learning models :lock:
+https://github.com/sap/openui5-sample-app # OpenUI5 Sample App
+https://github.com/sap/fundamental # Fundamental Library - SAP Design System Component Library
+https://github.com/sap/infrabox # InfraBox is a cloud native continuous integration system
+https://github.com/sap/fundamental-ngx # Fundamental Library for Angular is SAP Design System Angular component library
+https://github.com/sap/node-rfc # Asynchronous, non-blocking SAP NW RFC SDK bindings for Node.js
+https://github.com/sap/generator-easy-ui5 # Meta-generator various project types within the UI5 Universe
+https://github.com/sap/python-pyodata # Enterprise-ready Python OData client
+https://github.com/sap/ui5-typescript # Tooling to enable TypeScript support in SAPUI5/OpenUI5 projects
+https://github.com/sap/fundamental-react # React implementation of the reusable component library designed in Fundamental Library Styles
+https://github.com/sap/fundamental-styles # SAP Design System component library for building SAP user interfaces with any web technology.
+https://github.com/sap/go-hdb # SAP HANA Database Client for Go
+https://github.com/sap/odata-vocabularies # SAP Vocabularies for semantic markup of structured data published via OData (www.odata.org) services.
+https://github.com/sap/cloud-sdk-js # Use the SAP Cloud SDK for JavaScript / TypeScript to reduce development effort when building applications on SAP Business Technology Platform that communicate with SAP solutions and services such as SAP S/4HANA Cloud, SAP SuccessFactors, and many others.
+https://github.com/sap/curated-resources-for-domain-driven-design # You want to get started with Domain-Driven Design or are looking for advanced learning resources in this topic? Then this collection of curated learning resources is a good place to check out.
+https://github.com/sap/btp-solution-diagrams # SAP Business Technology Platform solution diagram repository, based on the official SAPBTP Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic and user experience.
+https://github.com/sap/cloud-security-services-integration-library # Integration libraries and samples for authenticating users and clients bound to XSUAA authentication and authorization service or Identity authentication service.
+https://github.com/sap/project-portal-for-innersource # Lists all InnerSource projects of a company in an interactive and easy to useway. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
+https://github.com/sap/ui5-inspector # With the UI5 Inspector, you can easily debug and support your OpenUI5/SAPUI5 based apps.
+https://github.com/sap/cloud-mta-build-tool # Multi-Target Application (MTA) build tool for Cloud Applications
+https://sap.github.io/cloud-mta-build-tool
+https://github.com/sap/e-mobility-charging-stations-simulator # OCPP-J charging stations simulator
+https://github.com/sap/sqlalchemy-hana # SQLAlchemy Dialect for SAP HANA
+https://github.com/sap/sap-btp-service-operator # SAP BTP service operator enables developers to connect Kubernetes clusters to SAP BTP accounts and to consume SAP BTP services within the clusters by using Kubernetes native tools.
+https://github.com/sap/kafka-connect-sap # Kafka Connect SAP is a set of connectors, using the Apache Kafka Connect framework for reliably connecting Kafka with SAP systems
+https://github.com/sap/olingo-jpa-processor-v4 # The JPA Processor fills the gap between Olingo V4 and the database, by providing a mapping between JPA metadata and OData metadata, generating queries and supporting the entity manipulations.
+https://github.com/sap/ui5-uiveri5 # End-to-end testing framework for SAPUI5
+https://github.com/sap/project-kb # Home page of project "KB"
+https://github.com/sap/sap-btp-reference-architectures # This repository contains "SAP BTP reference architectures" based on the official BTP solution diagrams and icons..
+https://github.com/sap/cloud-sdk-ios-fiori # SwiftUI implementation of the SAP Fiori for iOS Design Language.
+https://github.com/sap/power-monitoring-tool-for-macos # Power Monitor is an application that measures and reports the power consumption of a Mac.
+https://github.com/sap/apibusinesshub-integration-recipes # Accelerate integration projects using SAP Cloud Platform Integration withcrowdsourced best practices, curated by experts, designed for developers.
+https://github.com/sap/yeoman-ui # Provide rich user experience for Yeoman generators using VSCode extension or the browser.
+https://github.com/sap/ui5-cli # UI5 Tooling: CLI
+https://github.com/sap/script-to-package-tool-for-macos # Script2Pkg is an application for creating payload-free installer packages for macOS.
+https://github.com/sap/gorfc # SAP NW RFC Connector for GO
+https://github.com/sap/open-ux-tools # Enable community collaboration to jointly promote and facilitate best in class tooling capabilities
+https://github.com/sap/terraform-provider-btp # Terraform provider for SAP BTP
+https://github.com/sap/devops-docker-images # A collection of Dockerfiles for images that can be used to implement Continuous Deliverypipelines for SAP development projects with project "Piper" or any other CD tool.
+https://github.com/sap/webchat # The SAP Conversational AI webchat let you deploy a bot straight to a website
+https://github.com/sap/ui5-builder # UI5 Tooling: Builder
+https://github.com/sap/cloud-active-defense # Add a layer of active defense to your cloud applications.
+https://github.com/sap/cf-java-logging-support # The Java Logging Support for Cloud Foundry supports the creation of structured log messages and the collection of request metrics
+https://github.com/sap/project-foxhound # A web browser with dynamic data-flow tracking enabled in the Javascript engine and DOM, based on Mozilla Firefox (
+https://github.com/mozilla/gecko-dev). It can be used to identify insecure data flows or data privacy leaks in client-side web applications.
+https://github.com/sap/abap-atc-cr-cv-s4hc # ABAP test cockpit cloud readiness check variants for SAP S/4HANA Cloud
+https://github.com/sap/openui5-docs # OpenUI5 Markdown Documentation
+https://github.com/sap/risk-explorer-for-software-supply-chains # A taxonomy of attacks on software supply chains in the form of an attack tree, based on and linked to numerous real-world incidents and other resources. The taxonomy as well as related safeguards can be explored using an interactive visualization tool.
+https://github.com/sap/fundamental-tools # Web applications with ABAP, done simple.
+https://github.com/sap/karma-ui5 # A Karma plugin for UI5
+https://github.com/sap/machine-learning-lab # ML Lab enables teams to be more productive in delivering machine learning solutions fortheir products and datasets.
+https://github.com/sap/fosstars-rating-core # A framework for defining ratings for open source projects. In particular, the frameworkoffers a security rating for open source projects that may be used to assess the security risk that comes with open source components.
+https://github.com/sap/apibusinesshub-api-recipes # Accelerate integration projects using SAP Cloud Platform API Management with crowdsourced best practices, curated by experts, designed for developers.
+https://github.com/sap/abap-file-formats # File formats that define and specify the file representation for ABAP development objects
+https://github.com/sap/ui5-language-assistant # VSCode Extension and Editor Tooling for SAPUI5
+https://github.com/sap/open-ux-odata # Enable community collaboration to jointly promote and facilitate best in class framework and tooling capabilities when working with OData services.
+https://github.com/sap/theming-base-content # Color, font and metric definitions of SAP themes to be used by application UIs and UI frameworks.
+https://github.com/sap/ui5-server # UI5 Tooling: Server
+https://github.com/sap/emobility-smart-charging # Smart charging algorithms with REST API for electric vehicle fleets
+https://github.com/sap/xml-tools # A Set of libraries for working with XML in JavaScript, mainly focused on Editor Tooling Scenarios.
+https://github.com/sap/odbc-cpp-wrapper # An object-oriented C++-wrapper of the ODBC API
+https://github.com/sap/odata-library # Javascript library for processing OData protocol and developing OData clients.
+https://github.com/sap/cloud-sdk # The SAP Cloud SDK documentation and support repository.
+https://github.com/sap/ui5-linter # A static code analysis tool for UI5
+https://github.com/sap/cf-html5-apps-repo-cli-plugin # Cloud Foundry CLI plugin to work with SAP Cloud HTML5 Applications Repository
+https://github.com/sap/openui5-worklist-app # OpenUI5 worklist template app
+https://github.com/sap/cf-nodejs-logging-support # Node.js Logging Support for Cloud Foundry provides the creation of structured log messages and the collection of request metrics
+https://github.com/sap/ui5-project # UI5 Tooling: Project Handling
+https://github.com/sap/neonbee # A reactive dataflow engine, a data stream processing framework using Vert.x
+https://github.com/sap/code-pal-for-abap-cloud # Code Pal for ABAP - Cloud Edition helps ABAP developers adhere to clean code standards
+https://github.com/sap/project-piper-action # CI/CD tooling for the SAP Ecosystem, integrated with GitHub Actions
+https://github.com/sap/ui5-migration # ARCHIVED - A tool to support the migration of UI5 projects by adapting code for new UI5 framework versions.
+https://github.com/sap/backgrounds # Backgrounds is an application that allows users to create their own custom background (wallpaper)for their Mac desktop. They can choose between two gradient types - linear and radial - and embed a logo. Each pixel of the background is calculated and optimized for the size of the connected screens.
+https://github.com/sap/hybris-commerce-eclipse-plugin # A plugin for Eclipse IDE that makes developers more efficient when developingon SAP Hybris Commerce.
+https://github.com/sap/abap-to-json # ABAP to JSON serializer and deserializer
+https://github.com/sap/vscode-webview-rpc-lib # Provides a conventient way to communicate between VSCode extension and his Webviews. Use RPC calls to invoke functions on the webview and receive callbacks.
+https://github.com/sap/ewm-cloud-robotics # Source code, containers & Helm charts enabling users to leverage the core of Google CloudRobotics to automate fulfilment warehouse orders & tasks commissioned by SAP EWM
+https://github.com/sap/commerce-gradle-plugin # Gradle plugins for the full development lifecycle of a SAP Commerce project
+https://github.com/sap/openui5-fhir # The openui5-fhir project connects the worlds of UI5 and FHIR®. Build beautiful and enterprise-ready web applications based on the FHIR® specification.
+https://github.com/sap/openui5-website # The OpenUI5 website.
+https://github.com/sap/ui5-manifest # This project contains the flattend json schema for the ui5 manifest.
+https://github.com/sap/less-openui5 # Build OpenUI5 themes with Less.js.
+https://github.com/sap/vscode-logging # Logger Library for VSCode Extensions.
+https://github.com/sap/ui5-webcomponents-ngx # UI5 Web Components for Angular provides directives for each UI5 Web Component. The directives allow to easily build your Angular application following the SAP Design System.
+https://github.com/sap/sap-commerce-db-sync # SAP Commerce extensions to perform table-to-table replication in single-directionally manner between two SAP Commerce instances or between SAP Commerce and an external database.
+https://github.com/sap/scimono # SAP SCIMono is a java reference implementation of the SCIM 2.0 industry standard for identity management. For more information about the specification visit: http://www.simplecloud.info
+https://github.com/sap/inquirer-gui # Displays inquirer.js questions in an interactive HTML form. It displays each question type in its corresponding UI control; it supports answer validations and question visibility based on a given condition.
+https://github.com/sap/abap-file-formats-tools # Tools for the development of ABAP file formats
+https://github.com/sap/go-ase # SAP ASE Database Client for Go
+https://github.com/sap/gigya-swift-sdk # SAP CDC (Gigya) swift sdk for mobile
+https://github.com/sap/open-resource-discovery # Open Resource Discovery (ORD) is a protocol that allows applications and services toself-describe their exposed resources and capabilities.
+https://github.com/sap/project-sailor # Easy access to APIs from SAP Digital Supply Chain for data scientists.
+https://github.com/sap/ui5-fs # UI5 Tooling: File System Abstraction
+https://github.com/sap/cloud-primetime # PrimeTime is a free digital signage solution originating from SAP. It helps you to easily manage contents for screens of all types - supporting many different formats, custom templates as well as public and secured content.
+https://github.com/sap/abap-open-source-namespaces # ABAP open source projects can register own namespaces. This repository lists allknown ones and provides development and repair keys for the ABAP Cloud Developer Trial system.
+https://github.com/sap/cloud-sdk-java # Use the SAP Cloud SDK for Java to reduce development effort when building applications on SAPBusiness Technology Platform that communicate with SAP solutions and services such as SAP S/4HANA Cloud, SAP SuccessFactors, and many others.
+https://github.com/sap/cloud-mta # Built-in tools to work with Multi-Target-Application (MTA) projects
+https://github.com/sap/vscode-mta-tools # VS Code extension providing tools for developing Multi-Target Applications
+https://github.com/sap/cloud-sdk-ios-fiori-ar # SAP Fiori for iOS AR
+https://github.com/sap/migration-tool-for-cloud-integration # Tool to migrate your Cloud Integration content from Neo to Cloud Foundry.
+https://github.com/sap/sapmachine-infrastructure # Tools, scripts and infrastructure required to built, test and maintain the SapMachine project
+https://github.com/sap/cf-java-client-sap # Java Client Library for Cloud Foundry
+https://github.com/sap/business-document-processing # Python client library for the SAP AI Business Services: Document Classificationand Document Information Extraction. This library provides easy access to the services' REST APIs and the UI application for Document Information Extraction.
+https://github.com/sap/ui5-logger # UI5 Tooling: Logger
+https://github.com/sap/infrabox-cli # Command Line Interface for working with InfraBox, a continuous integration system
+https://github.com/sap/gigya-android-sdk # SAP CDC (Gigya) android sdk for mobile
+https://github.com/sap/btp-environment-variable-access # Utility for easily reading application configurations for bound services in the SAP Business Technology Platform Cloud Foundry and Kubernetes (K8S) environment.
+https://github.com/sap/cloud-sdk-ios # Get the binary frameworks of the SAP BTP SDK for iOS through SPM and learn about related open-source Swift packages
+https://github.com/sap/odfuzz #
+https://github.com/sap/cf-cli-java-plugin # Cloud Foundry CLI Plugin to troubleshoot Java apps
+https://github.com/sap/stewardci-core # A Kubernetes-native Jenkins pipeline execution orchestrator.
+https://github.com/sap/webide-client-tools # Tools & Flows for SAP Web IDE Client Side Features.
+https://sap.github.io/webide-client-tools/web/site/
+https://github.com/sap/cap-operator # CAP Operator manages and automates the lifecycle of multi-tenant SAP Cloud Application Programming Model (CAP) based applications on Kubernetes.
+https://github.com/sap/cf-python-logging-support # Logging library for python applications deployed on SAP Cloud Platform - CloudFoundry environment
+https://github.com/sap/data-attribute-recommendation-python-sdk # A client SDK for the Data Attribute Recommendation service on SAP Business Technology Platform (SAP BTP). Part of SAP AI Business Services.
+https://github.com/sap/cloud-foundry-tools # This VSCode extension provides tools for easy application development with Cloud Foundry.Its' tools contains such functionality as "Login to Cloud Foundry", "Create service", "Bind service", "Unbind service", etc.
+https://github.com/sap/app-studio-toolkit # A VSCode extension that provides a simple way to developer to execute common platform tasks for specific scenarios.
+https://github.com/sap/data-synthesis-for-machine-learning # Synthesize a new dataset based on the original dataset for later machinelearning to facilitate the data sharing from the customer.
+https://github.com/sap/open-source-manifesto # The SAP Open Source Manifesto
+https://github.com/sap/ui5-flush-game # Flush! Defeat the evil Render Manager - an innovative game combining OpenUI5 and thirdparty technology to showcase real-time and interaction capabilities of UI5
+https://github.com/sap/homebrew-sapmachine # HomeBrew Tap for SapMachine.
+https://github.com/sap/gigya-react-native-plugin-for-sap-customer-data-cloud # A React Native plugin for interfacing SAP Customer DataCloud. The plugin provides quick access to core elements & business API flows available within the SAP Customer Data Cloud designed for React Native mobile application.
+https://github.com/sap/sap-hana-compatibility-layer-for-mongodb-wire-protocol # Emulates MongoDB's Wire Protocol on top of SAP HANA. This way SAP HANA can be used as a drop-in replacement for MongoDB, which reduces migration efforts and enables legacy applications to run on SAP HANA's JSON Document Store.
+https://github.com/sap/sap-iot-sdk-nodejs # SDK which simplifies the interaction between an client / server application and SAP IoT.
+https://github.com/sap/gigya-flutter-plugin # Plugin for easily integrating SAP CDC functionality and flows into your Flutter app.
+https://github.com/sap/gigya-java-sdk # SAP CDC (Gigya) java sdk for server
+https://github.com/sap/cloud-rest-api-client # Java HTTP client library for HTTP handling, when building clients for RESTful APIs.
+https://github.com/sap/terraform-provider-cloudfoundry # Terraform Provider for Cloud Foundry
+https://github.com/sap/redis-operator # Manage Redis clusters in Kubernetes
+https://github.com/sap/wdio-qmate-service # Custom wdio service for testing SAP web applications
+https://github.com/sap/ai-sdk-js # Integrate chat completion into your business applications with SAP Cloud SDK for AI. Leverage the Generative AI Hub of SAP AI Core to make use of templating, grounding, data masking, content filtering and more. Access all features of SAP AI Core with the SAP Cloud SDK for AI.
+https://github.com/sap/clm-sl-alert-notification-client # Extend your application with reliable real-time events. Be the first who detects any issues with your solution.
+https://github.com/sap/transactional-storage-framework # A transactional storage framework for building a transactional storage system
+https://github.com/sap/webclientdevguide # Developer Guide for the SAP Conversational AI WebClient
+https://github.com/sap/alm-plug-in-for-grafana # Extend your analytics for application life-cycle management with the datasource plugins for SAP Cloud ALM and SAP Focused Run. With the SAP Cloud ALM Plugin for Rest interface, you are able to connect your SAP Cloud ALM tenants and get data in Table format or Time-series format to get new insights on your different ALM processes.
+https://github.com/sap/software-documentation-data-set-for-machine-translation # A parallel evaluation data set of SAP software documentation with document structure annotation
+https://github.com/sap/cloud-security-client-go # Client Library in GoLang for application developers requiring authentication and authorization information in their application. The library is used to obtain token information like user name, user attributes and audiences.
+https://github.com/sap/cloud-pysec # Cloud Container Security API for python
+https://github.com/sap/forensic-artifact-automation # A collection of powershell scripts that are designed to be ran from a MicrosoftDefender for Endpoint Live Response terminal, utilizing open-source tools, such as Kape (Kroll Artifact Parser and Extractor), to forensically acquire and process necessary artifact used in compromise assessments. Additional scripts provide pre-processing automation capabilities and other supporting functions.
+https://github.com/sap/elasticsearch-logs-plugin # A Jenkins plugin to send Pipeline build logs to an Elasticsearch instance.
+https://github.com/sap/orientdb-enterprise-agent # Enterprise Plug-in for OrientDB. Adds capabilities like Incremental, non-blockingbackup, Auditing, Monitoring
+https://github.com/sap/gigya-nss # The engine that evaluates and renders the native Screen Sets for SAP CDC (Gigya).
+https://github.com/sap/guided-answers-extension # Enable community collaboration to jointly promote, develop and consume a VSCode extension which provides a simple interactive way to show the developers how to troubleshoot issues, navigate processes and guide through tasks via the content published to SAP's Guided Answers (
+https://ga.support.sap.com/dtp/viewer/).
+https://github.com/sap/spartacus-docs # Spartacus documentation published in GitHub Pages
+https://github.com/sap/eslint-plugin-openui5 #
+https://github.com/sap/alert-notification-node-client # Promise based client library for SAP Alert Notification service for SAP BTP
+https://github.com/sap/application-support-center # Application Support Center
+https://github.com/sap/openapi-specification # The SAP's extension to OpenAPI Specification defines a standard for describing HTTP APIs at SAP.
+https://github.com/sap/fosstars-rating-core-action # A GitHub action for calculating Fosstars security ratings.
+https://github.com/sap/node-socketio-stream # Extends socket.io to support data streaming. Same functionality as socket.io-stream butdependent modules have been updated.
+https://github.com/sap/cloud-foundry-tools-api # This package provides a set of APIs for easy application development with Cloud Foundry. You can use these APIs to manage apps, service instances, orgs, spaces, and users in your environment.
+https://github.com/sap/task-management-sample-app-sfsf-solutions # SAP Business Technology Platform offers a standard way for extending SAP solutions. You can extend SAP SuccessFactors systems without disrupting the performance and the core processes. When building extension applications, you can also benefit from the automation of the integration between the cloud platform and SAP SuccessFactors. This is such one extension application that manage employee onboarding in SAP SuccessFactors system.
+https://github.com/sap/ui5-tooling-extensions # A repository offering extensions of UI5 Tooling
+https://github.com/sap/gigya-php-sdk # SAP CDC (Gigya) php sdk for server
+https://github.com/sap/devops-docker-node-browsers # Dockerfile for an image with node and web browsers. This image is intended to beused for end-to-end tests of web applications in Jenkins pipelines.
+https://github.com/sap/pie-chart-reporting-for-jamf-pro # The pie chart reporting app is a user-friendly tool for viewing reports about internal Macs' properties. These reports are obtained through data obtained from a Jamf Pro endpoint management system and displayed in an easy-to-understand pie chart format.
+https://github.com/sap/sapmachine-manager-for-macos # SapMachine Manager is designed to easily install, manage, and automatically update one or more instances of SapMachine on a Mac. SapMachine Manager supports the creation of SapMachine installer packages for macOS and the definition of the default Java environment.
+https://github.com/sap/mobilesdk-certificateprovider #
+https://github.com/sap/ui5-simple-require # Import UI5 modules into NodeJS applications, allowing isolation of UI5 components and injection of dependencies to create an isolated test environment.
+https://github.com/sap/hana-my-thai-star-data-generator # A data generator that creates sample data for the SAP HANA use-cases of thedevonfw reference application (My Thai Star)
+https://github.com/sap/quality-continuous-traceability-monitor # Link your product's requirements with automated tests and their testresults
+https://github.com/sap/sap-customer-data-cloud-accelerator # The SAP Customer Data Cloud accelerator is a local development environment for SAP CDC. Enables the use of all modern tools, including modern JavaScript and real source control. Provides code separation, enabling best practices, unit tests and quality checks
+https://github.com/sap/ui5-tooling-webc # UI5 Tooling extensions to create, develop and test wrapper UI libraries for UI5 Web Components NPM packages.
+https://github.com/sap/devops-docker-cf-cli # Dockerfile for the Cloud Foundry command line client that can be used in Continuous Delivery pipelines for SAP development projects with project "Piper" or any other CD tool.
+https://github.com/sap/.github # Default community health files for the SAP organization
+https://github.com/sap/go-generics # Go module providing generic reuse types and functions for standard data structures, such as slices, maps, sets, ...
+https://github.com/sap/java-integration-for-sap-mobile-services # Java library that integrates to SAP Mobile Services Backend APIs. Asa start this will only provide the Notification Backend API to send notifications to mobile devices. Further APIs may be included in the future.
+https://github.com/sap/project-fontus # Dynamic tainting framework for Java applications leveraging on-the-fly bytecode rewriting.
+https://github.com/sap/cloud-sdk-ios-cai # Swift package as module for interfacing with SAP Conversational AI in native iOS apps.
+https://github.com/sap/performance-regression-data-set # An open data set consisting of performance measurement results over time to allow research on performance regression detection.
+https://github.com/sap/stewardci-jenkinsfilerunner-image # This project contains the sources for Docker image creation of the Jenkinsfile runner to be used in project stewardci-core
+https://github.com/sap/code-snippet # A VSCode extension that provides a simple way to add code snippets.
+https://github.com/sap/cf-service-operator # A Kubernetes operator for Cloud Foundry services
+https://github.com/sap/json-data-and-query-generator # A generator of JSON data and queries, e.g., for benchmarking JSON document stores.
+https://github.com/sap/fsm-shell # Client library for applications rendered in FSM shell host
+https://github.com/sap/cloud-metrics-dashboard # TBD
+https://github.com/sap/cf-cli-smsi-plugin #
+https://github.com/sap/clustersecret-operator # Manage Kubernetes secrets at cluster scope
+https://github.com/sap/admission-webhook-runtime # A generic Kubernetes admission webhook implementation framework
+https://github.com/sap/gigya-cdp-js-sdk # Customer Data Platform JavaScript SDK for editing configuration and sending events for ingestion from node.js and browsers.
+https://github.com/sap/cloud-authorization-buildpack # You can use the content of this repository to leverage the Open Policy Agent (
+https://www.openpolicyagent.org/) for cloud foundry environments. If offers runtime support to make calls to the open policy server from a CF application and support to manage and distribute Open Policy Agent bundles.
+https://github.com/sap/secret-generator # Kubernetes Secret Generator
+https://github.com/sap/cgo-ase #
+https://github.com/sap/cds-textmate-grammar # TextMate grammar for CDS files of SAP Cloud Application Programming Model
+https://github.com/sap/repository-template # Default templates of SAP's repositories. Provides template files including LICENSE, .reuse/dep5, Code of Conduct, etc...
+https://github.com/sap/configuration-tools-for-gitops # This repository provides CoCo, a configuration management tool for dealing with many services across a large number of target environments. CoCo helps to align configurations and identify deviations (between environments as well as different commits).
+https://github.com/sap/sap-customer-data-cloud-toolkit # SAP Customer Data Cloud toolkit, adds new functionalities and improves existing ones in the SAP Customer Data Cloud product.
+https://github.com/sap/gigya-python-sdk # SAP CDC (Gigya) python sdk for server i
+https://github.com/sap/cloud-metricswatcher # Simple console Java notification application that will watch each metric for a criticalstate (of an app running on HCP), will notify you via email or SMS when such metrics are received, and will take actions to fix the issues caused by such metrics
+https://github.com/sap/go-dblib # Shared library for go-ase (
+https://github.com/SAP/go-ase) and cgo-ase (
+https://github.com/SAP/cgo-ase).
+https://github.com/sap/knowledge-hub-extension # A collaborative project driven by the SAP development community to build and enhancea Visual Studio Code extension that aggregates SAP development resources (tutorials, blogs, walkthroughs, and more) in the user's development environment.
+https://github.com/sap/cloud-robotics # Cloud Robotics Core: Kubernetes, Federation, App Management
+https://github.com/sap/scientific-publications-of-sap-hana-database-analytics # List of scientific publications from SAP HANA Database& Analytics
+https://github.com/sap/component-operator-runtime # A framework that supports creating opinionated Kubernetes operators managing the lifecycle of arbitrary deployment components of Kubernetes clusters.
+https://github.com/sap/ai-sdk-java # Integrate chat completion into your business applications with SAP Cloud SDK for AI. Leverage theGenerative AI Hub of SAP AI Core to make use of templating, grounding, data masking, content filtering and more. Access all features of SAP AI Core with the SAP Cloud SDK for AI.
+https://github.com/sap/sanitizer-checker # A tool to evaluate the security of JavaScript sanitizer functions.
+https://github.com/sap/redis-operator-cop # Component operator (usable with Kyma) for
+https://github.com/sap/redis-operatorhttps://github.com/sap/devops-docker-neo-cli # Dockerfile for the SAP Cloud Platform Neo Environment SDK that can be used in Continuous Delivery pipelines for SAP development projects with project "Piper" or any other CD tool.
+https://github.com/sap/sap-hana-plugin-for-cytoscape # Connect Cytoscape and SAP HANA to enable import, export and visualization of graph data stored in SAP HANA.
+https://github.com/sap/spartacus-financial-services-accelerator #
+https://github.com/sap/fsm-sdk # A client library that provides APIs to call Services/APIs from SAP Field Service Management (aka CoreSystems).
+https://github.com/sap/spartacus-tua # Spartacus is a lean, Angular-based JavaScript storefront for SAP Commerce Cloud working exclusively through the Commerce REST API. This Spartacus project works with and enhances the telco and utilities accelerator.
+https://github.com/sap/project-operator # Enable teams and pipelines to manage Kubernetes namespaces including RBAC configuration
+https://github.com/sap/arp142-hana # Project "Arp 142" - Linux OS checks for HANA environments - SLES,RHEL for Intel x64 and IBM Power
+https://github.com/sap/redis-operator-helm # Helm chart for
+https://github.com/sap/redis-operatorhttps://github.com/sap/vs-code-extension-for-project-credential-digger # VS Code extension for project Credential Digger
+https://github.com/SAP/credential-digger
+https://github.com/sap/cap-operator-lifecycle # Helm chart and CAP Operator Manager (usable with Kyma) for
+https://github.com/SAP/cap-operator
+https://github.com/sap/neonbee-plugin-kickstart # NeonBee Kickstart Gradle Plugin to lower the barrier to entry to explore NeonBee.
+https://github.com/sap/clustersecret-operator-cop # Component operator (usable with Kyma) for
+https://github.com/sap/clustersecret-operator
+https://github.com/sap/reactivejob-operator # Reactive jobs for Kubernetes (reactive jobs will re-execute whenever their definition changes)
+https://github.com/sap/cf-service-operator-cop # Component operator (usable with Kyma) for
+https://github.com/sap/cf-service-operatorhttps://github.com/sap/pod-reloader # An operator to reload Kubernetes pods on configuration changes
+https://github.com/sap/async-migrator # This tool helps developers to convert synchronous code to asynchronous.
+https://github.com/sap/project-piper-action-utils # CI/CD tooling for the SAP Ecosystem, GitHub Actions utilities
+https://github.com/sap/ui5-flexibility-utils # Utilities to generate the UI5 flexibility changes programmatically
+https://github.com/sap/ui5-task-adaptation # A custom task for ui5-builder which allows building UI5 Flexibility Adaptation Projects for SAP Cloud Platform Cloud Foundry Environment
+https://github.com/sap/k8s-resource-validator # A Go library that retrieves resources from a Kubernetes cluster and verifies their validity. Invalid resources are logged as such.
+https://github.com/sap/jcomigrationhelperplugin # The JCo Migration Helper Plugin is an Eclipse plugin to help applications to migrateto the JCo 3 API
+https://github.com/sap/feature-toggle-node # A Node.js module for enabling or disabling Node.js-based SAP Business Application Studiofeatures.
+https://github.com/sap/cf-service-operator-helm # Helm chart for
+https://github.com/sap/cf-service-operatorhttps://github.com/sap/project-operator-cop # Component operator (usable with Kyma) for
+https://github.com/sap/project-operatorhttps://github.com/sap/swagger-plugin-for-sphinx # A sphinx plugin which renders a OpenAPI specification with Swagger.
+https://github.com/sap/project-operator-helm # Helm chart for
+https://github.com/sap/project-operatorhttps://github.com/sap/clustersecret-operator-helm # Helm chart for
+https://github.com/sap/clustersecret-operatorhttps://github.com/sap/guided-development #
+https://github.com/sap/registry-credential-injector # Kubernetes admission webhook to inject registry pull credentials into pods
+https://github.com/sap/iot-rapid-connect # This repository contains both frontend code and backend code for IoT-LBN Adapter.
+https://github.com/sap/gigya-dotnet-sdk # SAP CDC (Gigya) dotnet sdk for server
+https://github.com/sap/neonbee-examples #
+https://github.com/sap/task-explorer # Visual Studio Code extension providing tool for task browsing, execution, and management as well as a GUI for task editing.
+https://github.com/sap/dns-masquerading-operator-cop # Component operator (usable with Kyma) for
+https://github.com/sap/dns-masquerading-operator
+https://github.com/sap/cert-manager-cop # Component operator (usable with Kyma) for
+https://cert-manager.iohttps://github.com/sap/hr-request-data-set # Synthetic HR text requests from employees to employers, created using Open Data information about salaries, sick leaves etc to contain realistic information, generated using GPT-J.
+https://github.com/sap/nested-hashing-psi # Private Set Intersection (PSI) is a famous secure two-party computation (2PC) problem where two parties (client and server) want to jointly compute the intersection of their inputs sets without revealing additional information about the input sets. Our implementation offers open-source research code to perform fast privacy-preserving set interse...
+https://github.com/sap/reactivejob-operator-helm # Helm chart for
+https://github.com/sap/reactivejob-operatorhttps://github.com/sap/reactivejob-operator-cop # Component operator (usable with Kyma) for
+https://github.com/sap/reactivejob-operator
+https://github.com/sap/kubectl-container # A lightweight container housing kubectl and curl for easy interaction with Kubernetes and other APIs.
+https://github.com/sap/remote-work-processor # Remote work processor extends SAP Automation Pilot with advanced Kubernetes native capabilities in order to enable the customers to create their own Kubernetes operators based on low-code/no-code user experience.
+https://github.com/sap/ssi-dim-middle-layer # Integration layer between DIM solution and Tractus-X Portal.
+https://github.com/sap/credential-digger-tests # Testing repository for Credential Digger
+https://github.com/sap/invoke-plugin-for-pylint # Pylint plugin which automatically disables unnecessary checks for invoke tasks.
+https://github.com/sap/cs-actions #
+https://github.com/sap/cloudevents-asyncapi-converter # CloudEvents payload to AsyncAPI conversion tool for ABAP, written in TypeScript
+https://github.com/sap/business-partner-sample-app-s4hana-cloud # You can extend the functionality of your SAP S/4HANA Cloud system tomanage your business partners. To do that, you can use the Sample Extension Application for Managing Business Partners, deploy it in a subaccount in SAP Business Technology Platform (SAP BTP) but have it fully integrated in your SAP S/4HANA Cloud system
+https://github.com/sap/cf-cli-defaultenv-plugin # A Cloud Foundry CLI plugin to create a default-env.json file from the Cloud FoundryEnvironment.
+https://github.com/sap/opentelemetry-exporter-for-sap-cloud-logging-for-nodejs # OpenTelemetry exporter for SAP Cloud Logging is a Node.js package providing a set of auto-configured OpenTelemetry exporters for shipping logs, metrics and traces to SAP Cloud Logging.
+https://github.com/sap/component-operator # A Kubernetes operator to deploy components into Kubernetes clusters. Components can be described as Kustomizations or Helm charts.
+https://github.com/sap/pod-reloader-helm # Helm chart for
+https://github.com/sap/pod-reloaderhttps://github.com/sap/json-merger-and-symbol-interpolator # Command line tools to merge json files and to replace symbols in json files.
+https://github.com/sap/fundamental-shelp # ABAP business logic consumption by SAP fundamental styles frontends.
+https://github.com/sap/sap.github.io # GitHub page to redirect from sap.github.io to
+https://community.sap.com/topics/open-sourcehttps://github.com/sap/systemd-wrapper-lib # High level access to libsystemd calls that hides D-Bus communication
+https://github.com/sap/ctz # Build tool to containerise cloud applications.
+https://github.com/sap/registry-credential-injector-cop # Component operator (usable with Kyma) for
+https://github.com/sap/registry-credential-injector
+https://github.com/sap/registry-credential-injector-helm # Helm chart for
+https://github.com/sap/registry-credential-injectorhttps://github.com/sap/image-mapper # Kubernetes admission webhook to rewrite container images
+https://github.com/sap/dns-masquerading-operator # DNS masquerading for Kubernetes clusters
+https://github.com/sap/nginx-ingress-controller-cop # Component operator (usable with Kyma) for
+https://github.com/kubernetes/ingress-nginx
+https://github.com/sap/data-formatter-for-concur-request # Data Formatter for Concur Request, enabled by Concur Compleat technology
+https://github.com/sap/pod-reloader-cop # Component operator (usable with Kyma) for
+https://github.com/sap/pod-reloaderhttps://github.com/sap/dns-masquerading-operator-helm # Helm chart for
+https://github.com/sap/dns-masquerading-operatorhttps://github.com/sap/secret-generator-cop # Component operator (usable with Kyma) for
+https://github.com/sap/secret-generatorhttps://github.com/sap/image-mapper-cop # Component operator (usable with Kyma) for
+https://github.com/sap/image-mapperhttps://github.com/sap/spartacus-docs-v1 # Documentation for Spartacus 1.x
+https://github.com/sap/automated-usage-tracking-tool # Automated usage tracking tool is a user-centric data collection tool, using a Customer Data Cloud tenant, that tracks the usage of CX IAS's automation tools.
+https://github.com/sap/sap-btp-service-operator-migration # SAP BTP service operator enables developers to connect Kubernetes clustersto SAP BTP accounts and to consume SAP BTP services within the clusters by using Kubernetes native tools.
+https://github.com/sap/bipec-a-combined-change-point-analyzer # Materials for our paper BIPeC: A Combined Change-Point Analyzer to Identify Performance Regressions in Large-scale Database Systems.
+https://github.com/sap/business-entity-recognition-client-library # Exposes easy consumable methods via a client library, to access and use the API offerings of the AI BUS Service - Business Entity Recognition.
+https://github.com/sap/invoke-plugin-for-sphinx # A plugin for Sphinx which let's you document invoke tasks.
+https://github.com/sap/cloud-commerce-spartacus-storefront-docs # This repository hosts the old Spartacus documentation GitHub Pages site, which remains active so that
+https://sap.github.io/cloud-commerce-spartacus-storefront-docs/ can redirect to
+https://sap.github.io/spartacus-docs/. To access the current, active Spartacus documentation repository, see
+https://github.com/SAP/spartacus-docs/.
+https://github.com/sap/sql-interface-specification # The SQL interface specification for SAP ecosystem defines a standard document format for describing and publishing metadata of database-level API resources of a (database) server to allow consumers to discover API resources and to interact with a server via SQL client interfaces and SQL query or data manipulation statements.
+https://github.com/sap/accessibility-design-tools # Accessibility Design Tools Figma Plugins
+https://github.com/sap/image-mapper-helm # Helm chart for
+https://github.com/sap/image-mapperhttps://github.com/sap/secret-generator-helm # Helm chart for
+https://github.com/sap/secret-generatorhttps://github.com/sap-docs/sapui5 # This is the markdown version of the official SAPUI5 documentation from the SAPUI5 Demo Kit for external contributions.
