@@ -1,0 +1,27 @@
+https://github.com/skills/introduction-to-github # Get started using GitHub in less than an hour.
+https://github.com/skills/github-pages # Create a site or blog from your GitHub repositories with GitHub Pages.
+https://github.com/skills/communicate-using-markdown # Organize ideas and collaborate using Markdown, a lightweight language for text formatting.
+https://github.com/skills/hello-github-actions # Create a GitHub Action and use it in a workflow.
+https://github.com/skills/test-with-actions # Create workflows that enable you to use Continuous Integration (CI) for your projects.
+https://github.com/skills/reusable-workflows # Make a workflow reusable, call it in another workflow, and use a matrix strategy to run multiple versions.
+
+https://github.com/skills/review-pull-requests # Collaborate and work together on GitHub.
+https://github.com/skills/publish-packages # Use GitHub Actions to publish your project to a Docker image.
+https://github.com/skills/resolve-merge-conflicts # Learn why conflicts happen and how to resolve them.
+https://github.com/skills/release-based-workflow # Create a release based workflow that is built on the foundations of the GitHub flow
+https://github.com/skills/connect-the-dots # Useful tips when navigating through your repository
+https://github.com/skills/.github # .github is a special repository. <<Not a course>>
+https://github.com/skills/change-commit-history # A skills course on changing the commit history with Git
+
+https://github.com/skills/copilot-codespaces-vscode # Develop with AI-powered code suggestions using GitHub Copilot and VS Code
+https://github.com/skills/code-with-codespaces # Develop code using GitHub Codespaces and Visual Studio Code!
+https://github.com/skills/introduction-to-codeql # Enable code scanning and secure your code with CodeQL.
+https://github.com/skills/secure-code-game # An in-repo learning experience, where learners secure intentionally vulnerable code.
+https://github.com/skills/template-template # A template to make course templates. <<Not a course>>
+https://github.com/skills/write-javascript-actions # Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow.
+https://github.com/skills/deploy-to-azure # Create two deployment workflows using GitHub Actions and Microsoft Azure.
+https://github.com/skills/secure-repository-supply-chain # Secure your supply chain, understand dependencies in your environment
+https://github.com/skills/introduction-to-secret-scanning # Enable secret scanning to identify plain-text credentials
+https://github.com/skills/action-update-step # Action step: Update the course repository when the learner completes a step. <<Not a course>>
+https://github.com/skills/configure-codeql-language-matrix # Learn how to simplify your code scanning workflows with CodeQL language matrices
+https://github.com/skills/action-check-file # Action: Check file for expected changes. <<Not a course>>

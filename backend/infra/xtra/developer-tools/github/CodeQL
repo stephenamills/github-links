@@ -1,0 +1,47 @@
+https://github.com/github/codeql # CodeQL: the libraries and queries that power security researchers around the world
+https://github.com/github/securitylab # Resources related to GitHub Security Lab
+https://github.com/github/codeql-action # Actions for running CodeQL analysis
+https://github.com/github/vscode-codeql # An extension for Visual Studio Code that adds rich language support for CodeQL
+https://github.com/github/vscode-codeql-starter # Starter workspace to use with the CodeQL extension for Visual Studio Code.
+https://github.com/github/codeql-cli-binaries # Binaries for the CodeQL CLI
+https://github.com/github/codeql-coding-standards # This repository contains CodeQL queries and libraries which support various Coding Standards.
+https://github.com/github/ghas-jira-integration # Synchronize GitHub Code Scanning alerts to Jira issues
+https://github.com/github/codeql-action-sync-tool # A tool for syncing the CodeQL Action from GitHub.com to GitHub Enterprise Server, including copying the CodeQL bundle.
+https://github.com/github/codespaces-codeql # Get to know more about the concepts of CodeQL by trying our simple tutorials.
+https://github.com/github/gh-codeql # GitHub CLI extension for working with CodeQL
+https://github.com/github/codeql-variant-analysis-action #
+https://github.com/github/codeql-ctf-go-return # Extension project for the Go and Don't Return CodeQL CTF
+
+https://github.com/githubsecuritylab/actions-permissions # GitHub token permissions Monitor and Advisor actions
+https://github.com/githubsecuritylab/codeql-zero-to-hero # CodeQL zero to hero blog post series challenges
+https://github.com/githubsecuritylab/codeql-community-packs # Collection of community-driven CodeQL query, library and extension packs
+https://github.com/githubsecuritylab/gh-mrva # Run CodeQL queries at scale using Multi-Repository Variant Analysis (MRVA)
+https://github.com/githubsecuritylab/gh-qldb # CodeQL database manager
+https://github.com/githubsecuritylab/codeql-jupyter-kernel # Jupyter Kernel for CodeQL
+https://github.com/githubsecuritylab/ruby-unsafe-deserialization # Proof of Concepts for unsafe deserialization in Ruby
+https://github.com/githubsecuritylab/secure-code-challenge # We are excited to present you a code security challenge inspired from real-world code, with which you can feel the thrill of finding a security issue and win a GitHub Shop voucher!
+https://github.com/githubsecuritylab/grehack2023-workshop # Original workshop: https://github.com/githubuniverseworkshops/codeql-codifying-security-knowledge/
+https://github.com/githubsecuritylab/.github #
+
+https://github.com/advanced-security/codeql-queries # [Deprecated] GitHub's Field Team's CodeQL Custom Queries, Suites, and Configurations. See GitHubSecurityLab/CodeQL-Community-Packs instead
+https://github.com/advanced-security/set-codeql-language-matrix # Automatically set the CodeQL matrix job using the languages in your repository.
+https://github.com/advanced-security/codeql-bundle-action # Action to retrofit a CodeQL bundle with additional queries, libraries, and customizations
+https://github.com/advanced-security/codeql-extractor-iac # CodeQL Extractor, Library, and Queries for Infrastructure as Code
+https://github.com/advanced-security/advanced-security-material #
+https://github.com/advanced-security/codeql-workshops-staging # Original workshops and staging area for new ones
+https://github.com/advanced-security/gh-codeql-scan # GH CLI CodeQL Scan Extension
+https://github.com/advanced-security/sample-codeql-pipeline-config # Integrate CodeQL into CI/CD pipelines, using the CodeQL CLI Bundle for Automated Code Scanning
+https://github.com/advanced-security/codeql-docker # CodeQL Docker image
+https://github.com/advanced-security/awesome-codeql # A curated list of awesome CodeQL resources.
+https://github.com/advanced-security/codeql-bundle # CLI to build a custom CodeQL bundle
+https://github.com/advanced-security/codeql-summarize # CodeQL Summary Generator
+https://github.com/advanced-security/cbom-action # Create a Crypto Bill of Materials using CodeQL
+https://github.com/advanced-security/codeql-coding-standards-bundle-releases # CodeQL bundles containing the CodeQL Coding Standards queries
+https://github.com/advanced-security/monorepo-filtering-workaround # A monorepo filtering workaround for GitHub Advanced Security Code Scanning using renaming of the scanning tool in an Actions workflow
+https://github.com/advanced-security/codeql-development-toolkit # The CodeQL Development toolkit is a tool for making common CodeQL development workflows easier.
+https://github.com/advanced-security/codeql-sarif-security-standard-annotator # Compare a CodeQL SARIF results file to a security standard CWE list and annotate the SARIF rules with a tag to highlight results applicable to the security standard
+https://github.com/advanced-security/grab_ql # Grab some/all of CodeQL CLI binary, QL library, VSCode starter workspace, VSCode and VSCode QL extension
+https://github.com/advanced-security/codeql_container_example # This repository serves as an exemplary resource demonstrating how to set up CodeQL to scan containerized applications for vulnerabilities. Its primary objective is to showcase the implementation of CodeQL in the code scanning process.
+https://github.com/advanced-security/ghas-bootcamp-query # Example custom query used to demo CodeQL
+https://github.com/advanced-security/crypto-bill-of-materials-data # Generate a Crypto Bill of Materials using CodeQL
+https://github.com/advanced-security/alert-suppression-queries # CodeQL packs for alert suppression queries for each supported code scanning language

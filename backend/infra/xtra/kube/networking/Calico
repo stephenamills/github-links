@@ -1,0 +1,40 @@
+https://github.com/projectcalico/calico # Cloud native networking and network security
+
+https://github.com/projectcalico/calicoctl # Calico CLI tool
+https://github.com/projectcalico/felix # Project Calico's per-host agent Felix, responsible for programming routes and security policy.
+https://github.com/projectcalico/canal # Policy based networking for cloud native applications
+https://github.com/projectcalico/cni-plugin # Calico CNI plugin
+https://github.com/projectcalico/vpp-dataplane # VPP dataplane implementation for Calico
+https://github.com/projectcalico/libcalico-go # Golang Calico library functions: https://www.projectcalico.org
+https://github.com/projectcalico/kube-controllers # Kubernetes controllers for Calico
+https://github.com/projectcalico/node # The calico/node container
+https://github.com/projectcalico/bird # Calico's fork of the BIRD protocol stack
+https://github.com/projectcalico/app-policy # Calico Application Layer Policy
+https://github.com/projectcalico/libnetwork-plugin # Docker libnetwork plugin for Calico
+https://github.com/projectcalico/typha # Calico's datastore fan-out daemon.
+https://github.com/projectcalico/community # Calico community content
+https://github.com/projectcalico/go-build #
+https://github.com/projectcalico/api # Calico API
+https://github.com/projectcalico/calico-kubernetes-ubuntu-demo # [Deprecated] Kubernetes Deployment on Ubuntu
+https://github.com/projectcalico/bpftool # Scripts for building bpftool
+https://github.com/projectcalico/pod2daemon # Secure connections from K8s Pods to local daemons using FlexVolume + Unix Domain Socket
+https://github.com/projectcalico/calico-dnsmasq # The temporary Project Calico specific fork of dnsmasq.
+https://github.com/projectcalico/networking-calico # Calico integration with OpenStack (Neutron)
+https://github.com/projectcalico/calico-upgrade # Data migration tool for Calico upgrades
+https://github.com/projectcalico/spire-demo #
+https://github.com/projectcalico/katacoda-scenarios #
+https://github.com/projectcalico/test-ca # Scripts to create a test certificate authority
+https://github.com/projectcalico/mesos-nettest-framework # A Dockerized Framework for Mesos to test Calico Functionality
+https://github.com/projectcalico/apiserver # Kubernetes extension apiserver for Calico REST APIs
+https://github.com/projectcalico/go-json # A "fork" of the golang encoding/json module
+https://github.com/projectcalico/scapy-image # Docker image for scapy, used in integration tests
+https://github.com/projectcalico/dockerrun # A small go library which wraps the docker CLI
+https://github.com/projectcalico/dind # Simple Docker In Docker file
+https://github.com/projectcalico/packaging # Scripts for Debian/RPM packaging of Calico
+https://github.com/projectcalico/charm-bird # Juju charm for BIRD
+https://github.com/projectcalico/charm-etcd # Juju charm for etcd
+https://github.com/projectcalico/bundle-openstack-calico # Juju bundle for installing a Calico/OpenStack cluster
+https://github.com/projectcalico/charm-neutron-calico # Juju charm providing Calico compute function
+
+https://github.com/tigera/operator # Kubernetes operator for installing Calico and Calico Enterprise
+https://github.com/tigera/k8s-security-observability-book # O'Reilly content

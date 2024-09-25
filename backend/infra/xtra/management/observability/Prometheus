@@ -1,3 +1,40 @@
+https://github.com/promlabs/promlens-public # Public repository for PromLens documentation, issues, bugs, and feature requests
+https://github.com/promlabs/promql-compliance-tester # Compliance tests for vendor PromQL implementations outside of Prometheus
+https://github.com/promlabs/webhook-receiver # A demo webhook receiver that receives and logs alerts received by Alertmanager
+https://github.com/promlabs/demo-prometheus # Small demo Prometheus setup using Docker Compose
+https://github.com/promlabs/go-instrumentation-exercise # An example service written in Go that can be instrumented as an exercise
+https://github.com/promlabs/otel-instrumentation-example # An example of how to set up OpenTelemetry for metrics and using the different instrument kinds
+https://github.com/promlabs/instrumentation-examples # Go instrumentation examples for use in the "Instrumenting Applications" PromLabs training
+https://github.com/promlabs/otel-instrumentation-examples # OpenTelemetry instrumentation examples to accompany PromLabs' OpenTelemetry training
+https://github.com/promlabs/mem-exporter # A small memory exporter example
+https://github.com/promlabs/gitpod-starter # Empty starter repo for running things on Gitpod
+
+https://github.com/autometrics-dev/autometrics-rs # Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
+https://github.com/autometrics-dev/autometrics-py # Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
+https://github.com/autometrics-dev/autometrics-ts # Easily add metrics to your system – and actually understand them using automatically customized Prometheus queries
+https://github.com/autometrics-dev/autometrics-go # Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
+https://github.com/autometrics-dev/autometrics-cs # A C# Implementation of Autometrics
+https://github.com/autometrics-dev/am # Autometrics Companion CLI app
+https://github.com/autometrics-dev/diff-metrics # A github action that comments on PR to describe impact on metrics
+https://github.com/autometrics-dev/vscode-autometrics # A vscode extension to extract information from your autometrics enabled code.
+https://github.com/autometrics-dev/autometrics-shared # Resources used by all of the autometrics implementations
+https://github.com/autometrics-dev/autometrics-rb #
+https://github.com/autometrics-dev/instrument-pipeline # Export job execution metrics to a Prometheus aggregation gateway
+https://github.com/autometrics-dev/quickmetrics # a docker compose setup with prometheus, alertmanager, grafana, an aggregation gateway
+https://github.com/autometrics-dev/docs # Documentation site for autometrics
+https://github.com/autometrics-dev/animalbuttons.biz # Example of adding Objectives and Alerts to Supabase Edge Functions with Autometrics
+https://github.com/autometrics-dev/gettingstarted-am-go #
+https://github.com/autometrics-dev/render-prometheus # Cooking ground for Prometheus render blueprint
+https://github.com/autometrics-dev/gettingstarted-am-rs # Getting started with Autometrics and the Rust Axum web framework
+https://github.com/autometrics-dev/gettingstarted-am-py # Getting started with Autometrics and the Python FastAPI web framework
+https://github.com/autometrics-dev/gettingstarted-am-ts # Sample app to get started with Autometrics in a backend TypeScript project
+https://github.com/autometrics-dev/homebrew-tap # Homebrew formula for installing am
+https://github.com/autometrics-dev/slack-app # A slack-app to translate SLO alerts into graphs in a slack channel
+https://github.com/autometrics-dev/autometrics-demo-python-fastapi-animals # Example of a fastapi project that uses autometrics
+https://github.com/autometrics-dev/render-otelcol # A Render blueprint to setup OTel Collector and a Prometheus instance to visualize collected data
+https://github.com/autometrics-dev/autometrics-demo-embeddings # Demo app with autometrics-py and autometrics-ts
+https://github.com/autometrics-dev/.github #
+
 https://github.com/prometheus/prometheus # The Prometheus monitoring system and time series database.
 
 https://github.com/prometheus/node_exporter # Exporter for machine metrics
@@ -5,35 +42,35 @@ https://github.com/prometheus/alertmanager # Prometheus Alertmanager
 https://github.com/prometheus/client_golang # Prometheus instrumentation library for Go applications
 https://github.com/prometheus/blackbox_exporter # Blackbox prober exporter
 https://github.com/prometheus/client_python # Prometheus instrumentation library for Python applications
-https://github.com/prometheus/jmx_exporter # A process for exposing JMX Beans via HTT
-P for Prometheus consumption https://github.com/prometheus/pushgateway # Push acceptor for ephemeral and batch job
-s. https://github.com/prometheus/client_java # Prometheus instrumentation library for JV
-M applications https://github.com/prometheus/mysqld_exporter # Exporter for MySQL server metrics
+https://github.com/prometheus/jmx_exporter # A process for exposing JMX Beans via HTTP for Prometheus consumption
+https://github.com/prometheus/pushgateway # Push acceptor for ephemeral and batch jobs.
+https://github.com/prometheus/client_java # Prometheus instrumentation library for JVM applications
+https://github.com/prometheus/mysqld_exporter # Exporter for MySQL server metrics
 https://github.com/prometheus/snmp_exporter # SNMP Exporter for Prometheus
 https://github.com/prometheus/statsd_exporter # StatsD to Prometheus metrics exporter
-https://github.com/prometheus/cloudwatch_exporter # Metrics exporter for Amazon AWS C
-loudWatch https://github.com/prometheus/procfs # procfs provides functions to retrieve system,
-kernel and process metrics from the pseudo-filesystem proc. https://github.com/prometheus/docs # Prometheus documentation: content and static sit
-e generator https://github.com/prometheus/promlens # PromLens – The query builder, analyzer, and
-explainer for PromQL https://github.com/prometheus/client_ruby # Prometheus instrumentation library for Ru
-by applications https://github.com/prometheus/client_rust # Prometheus / OpenMetrics client library i
-n Rust https://github.com/prometheus/consul_exporter # Exporter for Consul metrics
-https://github.com/prometheus/prom2json # A tool to scrape a Prometheus client and du
-mp the result as JSON. https://github.com/prometheus/graphite_exporter # Server that accepts metrics via the
-Graphite protocol and exports them as Prometheus metrics https://github.com/prometheus/promu # Prometheus Utility Tool
+https://github.com/prometheus/cloudwatch_exporter # Metrics exporter for Amazon AWS CloudWatch
+https://github.com/prometheus/procfs # procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
+https://github.com/prometheus/docs # Prometheus documentation: content and static site generator
+https://github.com/prometheus/promlens # PromLens – The query builder, analyzer, andexplainer for PromQL
+https://github.com/prometheus/client_ruby # Prometheus instrumentation library for Ruby applications
+https://github.com/prometheus/client_rust # Prometheus / OpenMetrics client library in Rust
+https://github.com/prometheus/consul_exporter # Exporter for Consul metrics
+https://github.com/prometheus/prom2json # A tool to scrape a Prometheus client and dump the result as JSON.
+https://github.com/prometheus/graphite_exporter # Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
+https://github.com/prometheus/promu # Prometheus Utility Tool
 https://github.com/prometheus/exporter-toolkit # Utility package to build exporters
-https://github.com/prometheus/common # Go libraries shared across Prometheus componen
-ts and libraries. https://github.com/prometheus/influxdb_exporter # A server that accepts InfluxDB metr
-ics via the HTTP API and exports them via HTTP for Prometheus consumption https://github.com/prometheus/collectd_exporter # A server that accepts collectd stat
-s via HTTP POST and exports them via HTTP for Prometheus consumption https://github.com/prometheus/memcached_exporter # Exports metrics from memcached ser
-vers for consumption by Prometheus. https://github.com/prometheus/test-infra # Prometheus E2E benchmarking tool
-https://github.com/prometheus/compliance # A set of tests to check compliance with va
-rious Prometheus interfaces https://github.com/prometheus/demo-site # Demo site auto-deployed with Ansible and Tr
-avis CI. https://github.com/prometheus/client_model # Data model artifacts for Prometheus.
-https://github.com/prometheus/golang-builder # Prometheus Golang builder Docker image
-s https://github.com/prometheus/busybox # Prometheus Busybox Docker base images
-https://github.com/prometheus/prometheus_api_client_ruby # A Ruby library for reading
-metrics stored on a Prometheus server https://github.com/prometheus/talks # Track Prometheus talks
+https://github.com/prometheus/common # Go libraries shared across Prometheus components and libraries.
+https://github.com/prometheus/influxdb_exporter # A server that accepts InfluxDB metrics via the HTTP API and exports them via HTTP for Prometheus consumption
+https://github.com/prometheus/collectd_exporter # A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption
+https://github.com/prometheus/memcached_exporter # Exports metrics from memcached servers for consumption by Prometheus.
+https://github.com/prometheus/test-infra # Prometheus E2E benchmarking tool
+https://github.com/prometheus/compliance # A set of tests to check compliance with various Prometheus interfaces
+https://github.com/prometheus/demo-site # Demo site auto-deployed with Ansible and Travis CI.
+https://github.com/prometheus/client_model # Data model artifacts for Prometheus.
+https://github.com/prometheus/golang-builder # Prometheus Golang builder Docker images
+https://github.com/prometheus/busybox # Prometheus Busybox Docker base images
+https://github.com/prometheus/prometheus_api_client_ruby # A Ruby library for reading metrics stored on a Prometheus server
+https://github.com/prometheus/talks # Track Prometheus talks
 https://github.com/prometheus/proposals # Design documents for Prometheus Ecosystem
 https://github.com/prometheus/circleci #
 https://github.com/prometheus/snmp_exporter_mibs #
@@ -41,41 +78,36 @@ https://github.com/prometheus/promci # GitHub Actions repository
 https://github.com/prometheus/client_java-benchmarks #
 https://github.com/prometheus/kube-demo-site # Kubernetes Demo Site
 
-https://github.com/prometheus-community/helm-charts # Prometheus community Helm chart
-s https://github.com/prometheus-community/windows_exporter # Prometheus exporter for Wi
-ndows machines https://github.com/prometheus-community/postgres_exporter # A PostgreSQL metric expor
-ter for Prometheus https://github.com/prometheus-community/elasticsearch_exporter # Elasticsearch stats
-exporter for Prometheus https://github.com/prometheus-community/pushprox # Proxy to allow Prometheus to scrap
-e through NAT etc. https://github.com/prometheus-community/json_exporter # A prometheus exporter which s
-crapes remote JSON by JSONPath https://github.com/prometheus-community/node-exporter-textfile-collector-scripts # Sc
-ripts for node-exporter's textfile collector https://github.com/prometheus-community/ipmi_exporter # Remote IPMI exporter for Prom
-etheus https://github.com/prometheus-community/avalanche # Prometheus/OpenMetrics endpoint s
-eries generator for load testing. https://github.com/prometheus-community/ansible # Ansible Collection for Prometheus
-https://github.com/prometheus-community/jiralert # JIRA integration for Prometheus Al
-ertmanager https://github.com/prometheus-community/pro-bing # A library for creating continuous
-probers https://github.com/prometheus-community/bind_exporter # Prometheus exporter for BIND
-https://github.com/prometheus-community/smartctl_exporter # Export smartctl statistic
-s to prometheus https://github.com/prometheus-community/systemd_exporter # Exporter for systemd unit
-metrics https://github.com/prometheus-community/prom-label-proxy # A proxy that enforces a gi
-ven label in a given PromQL query. https://github.com/prometheus-community/stackdriver_exporter # Google Stackdriver Pro
-metheus exporter https://github.com/prometheus-community/promql-langserver # PromQL language server
-https://github.com/prometheus-community/prometheus-playground # Turnkey sandbox proje
-cts demonstrating a wide variety of Prometheus use cases https://github.com/prometheus-community/pgbouncer_exporter # Prometheus exporter for
-PgBouncer https://github.com/prometheus-community/ecs_exporter # Prometheus exporter for Amazon
-Elastic Container Service (ECS) https://github.com/prometheus-community/vscode-promql # This is supposed to become a
-PromQL extension for vs code. https://github.com/prometheus-community/monaco-promql # PromQL support for the Monaco
-code editor https://github.com/prometheus-community/community # Prometheus & The Ecosystem Commun
-ity Meeting Information https://github.com/prometheus-community/snmp # Tools and configurations for translati
-ng SNMP into Prometheus https://github.com/prometheus-community/kitefactory #
-https://github.com/prometheus-community/sublimelsp-promql # PromQL support for Sublim
-e LSP plugin, using promql-langserver
+https://github.com/prometheus-community/helm-charts # Prometheus community Helm charts
+https://github.com/prometheus-community/windows_exporter # Prometheus exporter for Windows machines
+https://github.com/prometheus-community/postgres_exporter # A PostgreSQL metric exporter for Prometheus
+https://github.com/prometheus-community/elasticsearch_exporter # Elasticsearch stats exporter for Prometheus
+https://github.com/prometheus-community/pushprox # Proxy to allow Prometheus to scrape through NAT etc.
+https://github.com/prometheus-community/json_exporter # A prometheus exporter which scrapes remote JSON by JSONPath
+https://github.com/prometheus-community/node-exporter-textfile-collector-scripts # Scripts for node-exporter's textfile collector
+https://github.com/prometheus-community/ipmi_exporter # Remote IPMI exporter for Prometheus
+https://github.com/prometheus-community/avalanche # Prometheus/OpenMetrics endpoint series generator for load testing.
+https://github.com/prometheus-community/ansible # Ansible Collection for Prometheus
+https://github.com/prometheus-community/jiralert # JIRA integration for Prometheus Alertmanager
+https://github.com/prometheus-community/pro-bing # A library for creating continuous probers
+https://github.com/prometheus-community/bind_exporter # Prometheus exporter for BIND
+https://github.com/prometheus-community/smartctl_exporter # Export smartctl statistics to prometheus
+https://github.com/prometheus-community/systemd_exporter # Exporter for systemd unit metrics
+https://github.com/prometheus-community/prom-label-proxy # A proxy that enforces a given label in a given PromQL query.
+https://github.com/prometheus-community/stackdriver_exporter # Google Stackdriver Prometheus exporter
+https://github.com/prometheus-community/promql-langserver # PromQL language server
+https://github.com/prometheus-community/prometheus-playground # Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases
+https://github.com/prometheus-community/pgbouncer_exporter # Prometheus exporter for PgBouncer
+https://github.com/prometheus-community/ecs_exporter # Prometheus exporter for Amazon Elastic Container Service (ECS)
+https://github.com/prometheus-community/vscode-promql # This is supposed to become a PromQL extension for vs code.
+https://github.com/prometheus-community/community # Prometheus & The Ecosystem Community Meeting Information
+https://github.com/prometheus-community/snmp # Tools and configurations for translating SNMP into Prometheus
+https://github.com/prometheus-community/kitefactory #
 
-https://github.com/prometheus-operator/prometheus-operator # Prometheus Operator crea
-tes/configures/manages Prometheus clusters atop Kubernetes https://github.com/prometheus-operator/kube-prometheus # Use Prometheus to monitor Ku
-bernetes and applications running on Kubernetes
+https://github.com/prometheus-operator/prometheus-operator # Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+https://github.com/prometheus-operator/kube-prometheus # Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 https://github.com/prometheus-operator/runbooks #
-https://github.com/prometheus-operator/poctl # [EXPERIMENTAL] Manage, troubleshoot an
-d validate Prometheus-Operator resources via Command Line Interface!
+https://github.com/prometheus-operator/poctl # [EXPERIMENTAL] Manage, troubleshoot and validate Prometheus-Operator resources via Command Line Interface!
 https://github.com/prometheus-operator/community # Repository used for managing Prometheus-Operator's community related tasks.
 
 https://github.com/cortexproject/cortex # A horizontally scalable, highly available, multi-tenant, long term Prometheus.

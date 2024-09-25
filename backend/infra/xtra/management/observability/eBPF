@@ -1,0 +1,104 @@
+https://github.com/qpoint-io/kubernetes-qtap-operator # A kubernetes operator to simplify routing outbound traffic through Qpoint's 3rd-party API Gateway
+https://github.com/qpoint-io/kubernetes-qpoint-init # A Kubernetes init container for transparently routing traffic.
+https://github.com/qpoint-io/helm-charts # Qpoint Helm charts
+https://github.com/qpoint-io/demos # A collection of apps and helpers to quickly spin up demos
+https://github.com/qpoint-io/.github # Qpoint is an eBPF-based egress observability platform for your cloud and production applications.
+
+https://github.com/groundcover-com/caretta # Instant K8s service dependency map, right to your Grafana.
+https://github.com/groundcover-com/murre # Murre is an on-demand, scaleable source of container resource metrics for K8s.
+https://github.com/groundcover-com/cli # groundcover's official CLI tool. Level up your K8s observability game with eBPF.
+https://github.com/groundcover-com/loki-proxy #
+https://github.com/groundcover-com/blog # groundcover's blog materials. Level up your K8s observability game with eBPF.
+https://github.com/groundcover-com/helm-charts #
+https://github.com/groundcover-com/terraform-grafana-example # How to provision groundcover's grafana alerts and dashboards using terraform
+https://github.com/groundcover-com/solutions #
+https://github.com/groundcover-com/play #
+https://github.com/groundcover-com/metrics # utility for exporting metrics on groundcover's applications
+
+https://github.com/iovisor/bcc # BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+https://github.com/iovisor/gobpf # Go bindings for creating BPF programs.
+https://github.com/iovisor/kubectl-trace # Schedule bpftrace programs on your Kubernetes cluster using the kubectl
+https://github.com/iovisor/bpf-docs # Presentations and docs
+
+https://github.com/eunomia-bpf/bpf-developer-tutorial # eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+https://github.com/eunomia-bpf/bpftime # Userspace eBPF runtime for Observability, Network & General Extensions Framework
+https://github.com/eunomia-bpf/eunomia-bpf # Build, Distribute and Run CO-RE eBPF programs easier with JSON and Webassembly OCI images
+https://github.com/eunomia-bpf/wasm-bpf # WebAssembly library, toolchain and runtime for eBPF programs
+https://github.com/eunomia-bpf/gpttrace # Generate eBPF programs and tracing with ChatGPT
+https://github.com/eunomia-bpf/llvmbpf # Userspace eBPF VM with llvm JIT/AOT compiler
+https://github.com/eunomia-bpf/libbpf-starter-template # Template designed to get new developers with libbpf development.
+https://github.com/eunomia-bpf/cilium-ebpf-starter-template # Template designed to get new developers with cilium-ebpf development.
+https://github.com/eunomia-bpf/eunomia-template # Compile eBPF program with GitHub Actions and Run locally in one line!
+https://github.com/eunomia-bpf/chatrepo # A Github App to chat with Your GitHub Repo's Issues Using ChatGPT
+https://github.com/eunomia-bpf/ken # Kernel Extensions Large Language Model Agent
+https://github.com/eunomia-bpf/inline-hook-demo # A simple example of how to implement an Inline Hook
+https://github.com/eunomia-bpf/gpttrace-web # Generate bpftrace eBPF programs online with GPT or LLM
+https://github.com/eunomia-bpf/bpf-benchmark # Userspace eBPF Runtime Benchmarking Test Suite and Results
+https://github.com/eunomia-bpf/bpf-compatible # compatible library for ebpf programs to improve BTF portability
+https://github.com/eunomia-bpf/libbpf-rs-starter-template # Template designed to get new developers with libbpf-rs development.
+https://github.com/eunomia-bpf/func-call-for-command # Generate GPT function call API from command-line help info
+https://github.com/eunomia-bpf/ebpf-knowledge-base # An ebpf knowledge base, based on llama_index and bpf-developer-tutorial
+https://github.com/eunomia-bpf/eunomia.dev # https://github.com/eunomia-bpf homepage, documents and blogs
+https://github.com/eunomia-bpf/eunomia-exporter # A simple OpenTelemetry collector for custom eBPF metrics with Wasm
+https://github.com/eunomia-bpf/eunomia-cc # Compile and Run eBPF with WASM (Development move to https://github.com/eunomia-bpf/eunomia-bpf)
+https://github.com/eunomia-bpf/btf2wit # Convert BTF types to wit format
+https://github.com/eunomia-bpf/code-survey # Understand the evolution in Large software systems with LLM
+https://github.com/eunomia-bpf/linux-trace-ai-agent # An experiment AI agent for automatic monitoring of system performance.
+https://github.com/eunomia-bpf/bpftime-evaluation #
+https://github.com/eunomia-bpf/multiarch-relocate-example #
+https://github.com/eunomia-bpf/c-rust-component-test # Demonstration on linking components written in different languages together
+https://github.com/eunomia-bpf/mini-ubpf # A portable minimal userspace eBPF vm and jit library
+https://github.com/eunomia-bpf/c-struct-bindgen # Generate C structs serialization-free bindings and marshal / unmarshal functions for JSON (Can be used for pass structs between Wasm and eBPF/host)
+https://github.com/eunomia-bpf/clickhouse-uring #
+https://github.com/eunomia-bpf/bpf-oci # A lib manage wasm-bpf exec as OCI image
+https://github.com/eunomia-bpf/rust-struct-bindgen # CO-RE binding generation for Rust, based on BTF
+https://github.com/eunomia-bpf/ebpm # an eBPF package manager demo (see LMP project)
+https://github.com/eunomia-bpf/bpf2c # Compile eBPF bytecode to C code. A fork of https://github.com/microsoft/ebpf-for-windows/tree/main/tools/bpf2c which can be easily built on Linux
+https://github.com/eunomia-bpf/wasm-bpf-rs # A WebAssembly eBPF runtime based on wasmtime in rust
+https://github.com/eunomia-bpf/docsgpt-backend #
+https://github.com/eunomia-bpf/nginx-ebpf-module # Userspace eBPF as nginx module
+https://github.com/eunomia-bpf/add-table-export # A tool to add an export of the table defined in the wasm module
+https://github.com/eunomia-bpf/eunomia-bpf.github.io # documents
+https://github.com/eunomia-bpf/btf-relocate-demo # Using btf to relocate bpf code
+https://github.com/eunomia-bpf/ai-func-call-gen #
+https://github.com/eunomia-bpf/kernel-bpf-library # a standalone userspace eBPF runtime and verifier extracted from the Linux kernel
+https://github.com/eunomia-bpf/wasm-bpf-guest-sdk-c # SDK for wasm-bpf guest programs, suitable for C programs
+https://github.com/eunomia-bpf/vmlinux # vmlinux headers that ecc uses
+https://github.com/eunomia-bpf/ecli-webui #
+https://github.com/eunomia-bpf/bpftime-new-api-poc #
+https://github.com/eunomia-bpf/wasm-bpf-guest-sdk-go # Guest SDK of wasm-bpf, for Go programs
+https://github.com/eunomia-bpf/chatgpt-plugin-bpf # ChatGPT-plugin-eBPF
+https://github.com/eunomia-bpf/xdp-pktgen #
+https://github.com/eunomia-bpf/wasm-bpf-guest-sdk-rust # Guest SDK of wasm-bpf, for Rust programs
+https://github.com/eunomia-bpf/ebpf-wasm-go-sdk #
+https://github.com/eunomia-bpf/wasmtime-test #
+https://github.com/eunomia-bpf/ebpf-wasm-rust-sdk #
+https://github.com/eunomia-bpf/ci-checker-test #
+https://github.com/eunomia-bpf/prepare-cargo-appimage #
+https://github.com/eunomia-bpf/eunomia-repo-frondend # the frontend website of eBPF hub programs
+https://github.com/eunomia-bpf/ebpf-wasm-cpp-sdk #
+https://github.com/eunomia-bpf/kube-bpf #
+https://github.com/eunomia-bpf/.github # eunomia-bpf project template
+
+https://github.com/bpftools/kube-bpf # (e)BPF primitives for Kubernetes
+https://github.com/bpftools/bpf-workshop # Let's share some eBPF love!
+https://github.com/bpftools/prometheus-ebpf-example # How to connect eBPF with prometheus to create nice dashboards with kernel stuff in them
+https://github.com/bpftools/pandoc-report-doc-base # A skeleton repo for the builtin pandoc site generator used to add reports to bpf.sh
+https://github.com/bpftools/bpf.sh # Submit eBPF related docs here!
+
+https://github.com/inspektor-gadget/inspektor-gadget # Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
+https://github.com/inspektor-gadget/gadget-template # Template to create your own gadgets
+https://github.com/inspektor-gadget/website # Inspektor Gadget's website
+https://github.com/inspektor-gadget/ig-test-reports #
+https://github.com/inspektor-gadget/inspektor-gadget-scaling #
+https://github.com/inspektor-gadget/learn-ig #
+https://github.com/inspektor-gadget/ig-benchmarks #
+https://github.com/inspektor-gadget/charts # Helm Repository for Inspektor Gadget
+https://github.com/inspektor-gadget/.github # Organisation-wide templates
+
+https://github.com/ebpfdev/explorer # eBPF explorer is Web UI that lets you see all the maps and programs in eBPF subsystem
+https://github.com/ebpfdev/dev-agent # eBPF remote debug agent
+https://github.com/ebpfdev/explorer-ui #
+
+https://github.com/bpfman/bpfman # An eBPF Manager for Linux and Kubernetes
+https://github.com/bpfman/bpfman-operator # Kubernetes operator for bpfman

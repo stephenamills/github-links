@@ -1,0 +1,84 @@
+https://github.com/cilium/cilium # eBPF-based Networking, Security, and Observability
+
+https://github.com/cilium/ebpf # ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+https://github.com/cilium/tetragon # eBPF-based Security Observability and Runtime Enforcement
+https://github.com/cilium/hubble # Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+https://github.com/cilium/pwru # Packet, where are you? -- eBPF-based Linux kernel networking debugger
+https://github.com/cilium/cilium-cli # CLI to install, manage & troubleshoot Kubernetes clusters running Cilium
+https://github.com/cilium/hubble-ui # Observability & Troubleshooting for Kubernetes Services
+https://github.com/cilium/proxy # Envoy with Cilium filters
+https://github.com/cilium/k8s-iptables-diagram # Diagram of Kubernetes / kube-proxy iptables rules architecture
+https://github.com/cilium/little-vm-helper # tool for building and running VMs for development and testing
+https://github.com/cilium/cilium-perf-networking # Utilities for Cilium networking performance evaluation
+https://github.com/cilium/team-manager # Bot to manage team members in GitHub organizations
+https://github.com/cilium/charts # Helm charts repository for the Cilium project
+https://github.com/cilium/coverbee # Code coverage tooling for eBPF
+https://github.com/cilium/cilium.io # Cilium project website
+https://github.com/cilium/statedb # In-memory state database for Go
+https://github.com/cilium/star-wars-demo # Cilium Star Wars Demo
+https://github.com/cilium/design-cfps # Repo to store Cilium CFP design docs
+https://github.com/cilium/workerpool # Run tasks concurrently with limits
+https://github.com/cilium/certgen # A convenience tool to generate and store certificates for Hubble Relay mTLS
+https://github.com/cilium/fake # A Go library to generate random data for testing and/or performance evaluation
+https://github.com/cilium/image-tools # Dockerfiles for cilium-runtime and cilium-builder dependencies
+https://github.com/cilium/ci-kernels # A collection of kernels used for CI builds
+https://github.com/cilium/hive # Hive dependency injection
+https://github.com/cilium/echoserver # k8s.gcr.io/echoserver fork
+https://github.com/cilium/json-mock # Simple container image for json-server to mock REST/JSON APIs
+https://github.com/cilium/little-vm-helper-images #
+https://github.com/cilium/community # Here you can find community content around Cilium
+https://github.com/cilium/scaffolding # Set of tools and resources for automating performance tests.
+https://github.com/cilium/packer-ci-build # Contains the scripts and data for building the Cilium CI testing VM.
+https://github.com/cilium/ipam #
+https://github.com/cilium/chaos-monkeys # Base infrastructure plus collection of tests to assist in the Cilium chaos testing efforts
+https://github.com/cilium/client-example # Cilium API example
+https://github.com/cilium/release # Repository used to generate release notes for Cilium releases
+https://github.com/cilium/alpine-curl # Container image for curl client
+https://github.com/cilium/docsearch-scraper-webhook #
+https://github.com/cilium/stream # Reactive streams for Go
+https://github.com/cilium/xdp-config # XDP config quirks / troubleshooting documents
+https://github.com/cilium/github-actions # Repository dedicated for the GitHub actions logic executed in cilium/cilium. Also known as the maintainer's little helper (MLH).
+https://github.com/cilium/arping #
+https://github.com/cilium/misc-scripts # Misc netperf scripts
+https://github.com/cilium/clustermesh-tools # Tooling to set up a cluster mesh
+https://github.com/cilium/cilium-perf-test #
+https://github.com/cilium/kube-apate #
+https://github.com/cilium/echoserver-udp # Container image serving a dynamic TFTP page similar to cilium/echoserver
+https://github.com/cilium/scale-tests-action # Repository that hosts the GitHub action to run scale tests
+https://github.com/cilium/linters #
+https://github.com/cilium/kustomize-bases # A collection of kustomize bases used for demos
+https://github.com/cilium/star-wars-demo-automated #
+https://github.com/cilium/helm-toolbox # Set of tools that are useful for linting helm charts and generating documentation
+https://github.com/cilium/starwars-docker # Deathstar as a Service
+https://github.com/cilium/.github #
+https://github.com/cilium/api-router # Simple HTTP API router
+https://github.com/cilium/bpf-ci-scripts # Make testing BPF trees easier with Jenkins
+https://github.com/cilium/state-writer # Restore endpoint state from API and write to disk
+https://github.com/cilium/go-bindata #
+https://github.com/cilium/test-connection-disruption # Testing connection interruptions during Cilium upgrades
+https://github.com/cilium/busybox #
+https://github.com/cilium/graceful-termination-test-apps # Apps to test graceful termination
+https://github.com/cilium/dummylb # Dummy k8s LB used for testing
+https://github.com/cilium/affinity-test-apps # Apps to test connection affinity with load-balancing endpoint updates
+https://github.com/cilium/stale-rules # A tool to detect and remove stale routing rules
+https://github.com/cilium/kubectl-image # kubectl container image
+https://github.com/cilium/identity-scale-test #
+https://github.com/cilium/mock-hubble # A mock implementation of Hubble API
+https://github.com/cilium/testing-repository # This repository is used for testing GH features
+https://github.com/cilium/connectivity-container # A basic container with a simple golang HTTP server and with curl packaged in.
+https://github.com/cilium/testing-recipes # Collection of testing recipes and playgrounds for manual testing
+https://github.com/cilium/reusable-workflows #
+https://github.com/cilium/delayed-httpd #
+https://github.com/cilium/tetragon-testdata # testdata for cilium/tetragon
+https://github.com/cilium/dnssec-client # Small utility for testing dnsec entries.
+https://github.com/cilium/hubble-export-stdout # Export Hubble data to stdout
+https://github.com/cilium/netperf # netperf related tooling for CI
+https://github.com/cilium/endpointslice-controller #
+https://github.com/cilium/log-gatherer #
+https://github.com/cilium/scruffy # Utility to garbage collect docker image tags from quay.io
+https://github.com/cilium/python-bmemcached #
+https://github.com/cilium/health-examples # Repository with examples on how to use Cilium's LB health datapath
+https://github.com/cilium/demo-image # Docker container image for demos
+https://github.com/cilium/docker-bind # Docker Bind9 container for testing purposes.
+https://github.com/cilium/startup-script # Container image for startup-script
+

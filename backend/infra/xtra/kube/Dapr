@@ -1,10 +1,9 @@
 https://github.com/dapr/dapr # Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
-https://github.com/dapr/cli # Command-line tools for Dapr.
-
 https://github.com/dapr/quickstarts # Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
 https://github.com/dapr/samples # Community driven repository for Dapr samples
 
+https://github.com/dapr/cli # Command-line tools for Dapr.
 https://github.com/dapr/go-sdk # Dapr SDK for go
 https://github.com/dapr/dotnet-sdk # Dapr SDK for .NET
 https://github.com/dapr/java-sdk # Dapr SDK for Java

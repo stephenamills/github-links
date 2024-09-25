@@ -1,0 +1,63 @@
+https://github.com/open-policy-agent/opa # Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+
+https://github.com/open-policy-agent/gatekeeper # 🐊 Gatekeeper - Policy Controller for Kubernetes
+https://github.com/open-policy-agent/conftest # Write tests against structured configuration data using the Open Policy Agent Rego query language
+https://github.com/open-policy-agent/gatekeeper-library # 📚 The OPA Gatekeeper policy library
+https://github.com/open-policy-agent/contrib # Integrations, examples, and proof-of-concepts that are not part of OPA proper.
+https://github.com/open-policy-agent/opa-envoy-plugin # A plugin to enforce OPA policies with Envoy
+https://github.com/open-policy-agent/kube-mgmt # Sidecar for managing OPA instances in Kubernetes.
+https://github.com/open-policy-agent/npm-opa-wasm # Open Policy Agent WebAssembly NPM module (opa-wasm)
+https://github.com/open-policy-agent/frameworks #
+https://github.com/open-policy-agent/vscode-opa # An extension for VS Code which provides support for OPA and the Rego policy language
+https://github.com/open-policy-agent/example-api-authz-go # Example Go service that uses OPA for API authorization.
+https://github.com/open-policy-agent/library # The Open Policy Agent project standard library.
+https://github.com/open-policy-agent/cert-controller #
+https://github.com/open-policy-agent/opa-docker-authz # A policy-enabled authorization plugin for Docker.
+https://github.com/open-policy-agent/opa-idea-plugin # Open Policy Agent plugin for IntelliJ
+https://github.com/open-policy-agent/rego-python # Python library for interacting with Rego ASTs.
+https://github.com/open-policy-agent/opa-envoy-spire-ext-authz # OPA-Envoy-SPIRE External Authorization Example.
+https://github.com/open-policy-agent/setup-opa # Sets up Open Policy Agent CLI in your GitHub Actions workflow.
+https://github.com/open-policy-agent/community # The Community repository is the place to go for support with OPA and OPA Sub-Projects, like Conftest and Gatekeeper.
+https://github.com/open-policy-agent/example-api-authz-python # Example Python service that uses OPA for API authorization.
+https://github.com/open-policy-agent/golang-opa-wasm # Open Policy Agent WebAssembly Go SDK
+https://github.com/open-policy-agent/gatekeeper-external-data-provider # A template repository for building external data providers for Gatekeeper.
+
+https://github.com/styrainc/awesome-opa # A curated list of OPA related tools, frameworks and articles
+https://github.com/styrainc/regal # Regal is a linter and language server for Rego, bringing your policy development experience to the next level!
+https://github.com/styrainc/rego-style-guide # Style guide for Rego
+https://github.com/styrainc/opa-kafka-plugin # Open Policy Agent (OPA) plug-in for Kafka authorization
+https://github.com/styrainc/opa-aws-cloudformation-hook # AWS Cloudformation Hook for OPA-powered infrastructure policy enforcement
+https://github.com/styrainc/enterprise-opa # Enterprise OPA is a distribution of Open Policy Agent with enterprise-grade features to get OPA into production quickly, easily, and inexpensively.
+https://github.com/styrainc/zed-rego # Zed extension for the Rego policy language from Open Policy Agent (OPA)
+https://github.com/styrainc/setup-regal # Run Regal, the OPA Rego Linter, as a GitHub Action
+https://github.com/styrainc/opa-java # The Styra-supported driver to connect via Java to Open Policy Agent (OPA) and Enterprise OPA deployments.
+https://github.com/styrainc/graphql-apollo-example # GraphQL API Auth Example
+https://github.com/styrainc/vscode-styra # An extension to bring the Styra CLI natively into VS Code and provide Intellisense and snippets for rego.
+https://github.com/styrainc/example-policy-management # Example of policy management across multiple environments
+https://github.com/styrainc/opa-csharp # The Styra-supported driver to connect via C# to Open Policy Agent (OPA) and Enterprise OPA deployments
+https://github.com/styrainc/opa-springboot # The Styra-supported driver to connect Spring Boot applications to Open Policy Agent (OPA) and Enterprise OPA deployments.
+https://github.com/styrainc/mcov # Minimum compatible OPA version checker
+https://github.com/styrainc/entitlements-samples # sample apps and code for use with the entitlements feature
+https://github.com/styrainc/rego-cheat-sheet # Rego Cheat Sheet for those learning or working with Rego
+https://github.com/styrainc/styra-cli-orb # CircleCI integration
+https://github.com/styrainc/codemirror-rego # A basic rego mode for CodeMirror and the base key-map that we use in our product.
+https://github.com/styrainc/opa-typescript # Styra-supported Open Source TypeScript packages for use with the Styra products, and Open Policy Agent (OPA).
+https://github.com/styrainc/academy-samples # Styra Academy code samples and other supporting material.
+https://github.com/styrainc/das-opa-samples # Styra DAS and OPA Integration Samples
+https://github.com/styrainc/opa-apigee-demo # Demo to illustrate an integration between Apigee, Okta and OPA to authenticate, authorize and route client requests to a backend service and return appropriate information back to the client.
+https://github.com/styrainc/sample-scan-repository # A sample repository with dummy kubernetes and terraform files
+https://github.com/styrainc/styra-demo-tickethub # The TicketHub sample application for Styra's OPA SDKs.
+https://github.com/styrainc/homebrew-packages # Homebrew Packages
+https://github.com/styrainc/.github # Styra README
+https://github.com/styrainc/opa-sdk-demos # Collection of demos for the Styra-supported OPA SDKs
+https://github.com/styrainc/test_envoy_enh # test_envoy_enh
+https://github.com/styrainc/styra-ansible-collection #
+https://github.com/styrainc/tfc-das-tutorial # Terraform code used for the Styra DAS and Terraform Cloud integration tutorial.
+https://github.com/styrainc/custom-snippet-samples # Demonstrations for the custom snippets feature of Styra DAS
+https://github.com/styrainc/trino-opa-plugin-artifacts # Artifacts for the Trino-OPA plugin
+https://github.com/styrainc/racm-policy # RACM policies that will ensure the Styra installation of OPA is performed on each managed cluster
+https://github.com/styrainc/configuration-examples # Kubernetes example configurations to use with Styra DAS Kubernetes system policy library rules.
+https://github.com/styrainc/eopa-ci-demo #
+https://github.com/styrainc/terraform-provider-styra # Terraform provider for the Styra DAS Enterprise OPA Platform
+https://github.com/styrainc/test-sample_repo #
+https://github.com/styrainc/istio-workshop #

@@ -1,0 +1,74 @@
+https://github.com/disqus/nydus # Nydus is a Python toolkit for managing database connections and routing operations, primarily for Redis
+https://github.com/disqus/django-bitfield # A BitField extension for Django Models
+https://github.com/disqus/disqus-react # A React component for Disqus
+https://github.com/disqus/disqus-api-recipes # Cook all the things!
+https://github.com/disqus/django-mailviews # Class-based email views for the Django framework, including a message previewer.
+https://github.com/disqus/overseer # A status board built with Django
+https://github.com/disqus/gutter # Fully featured Python feature switch toolkit
+https://github.com/disqus/disqus-python # Disqus API bindings for Python
+https://github.com/disqus/python-phabricator # Python bindings for Phabricator
+https://github.com/disqus/django-db-utils # Utilities for your Django Database
+https://github.com/disqus/disqus-php # Disqus API bindings for PHP
+https://github.com/disqus/django-modeldict #
+https://github.com/disqus/sharding-example # Example of sharding tools used at Disqus
+https://github.com/disqus/django-perftools # Performance monitoring tools for Django
+https://github.com/disqus/backbone.uniquemodel # Backbone.js plugin for ensuring unique model instances across your app
+https://github.com/disqus/porkchop # Simple HTTP-based system information server
+https://github.com/disqus/durabledict # Dictionary-style access to different types of models.
+https://github.com/disqus/postfix-stats # Simple threaded stats aggregator for Postfix
+https://github.com/disqus/grunt-smartrev # A "smart" file versioner for production environments which takes inter-file dependencies into account automatically.
+https://github.com/disqus/orbital # Orbital is a real-time map built on top of Websockets and ZeroMQ.
+https://github.com/disqus/disqus-wordpress # Legacy WordPress plugin 1.x - 2.x. Go to disqus/disqus-wordpress-plugin for current version -
+https://github.com/disqus/toronado # fast lxml-based stylesheet inliner
+https://github.com/disqus/disqus-install-examples # Installation Examples for Disqus
+https://github.com/disqus/mule # Mule is a distributed test runner for Python
+https://github.com/disqus/gutter-django #
+https://github.com/disqus/menagerie # ZooKeeper-backed Django settings interface.
+https://github.com/disqus/disqus-postgres #
+https://github.com/disqus/fpm-recipes #
+https://github.com/disqus/grockets # Realtime streaming graphite data via socket.io and node.js
+https://github.com/disqus/nose-performance # A plugin for Nose for running performance tests
+https://github.com/disqus/disqus-wordpress-plugin # WordPress plugin for Disqus (Latest version)
+https://github.com/disqus/zumanji # A web interface for aggregating results from nose-performance
+https://github.com/disqus/nagios-plugins # Nagios plugins written at Disqus
+https://github.com/disqus/channels # A demo of a modern forum powered by DISQUS
+https://github.com/disqus/nydus-django #
+https://github.com/disqus/playa # An audio playing web service
+https://github.com/disqus/sentry-graphite # An extension for Sentry that increments a key in graphite based on the error.
+https://github.com/disqus/disqus-arcanist # Arcanist extensions by Disqus
+https://github.com/disqus/php-disqus # Old PHP bindings for Disqus
+https://github.com/disqus/porkchop-plugins # Plugins for Porkchop
+https://github.com/disqus/nose-socket-whitelist # nose plugin that provides control over what socket connections can be opened during test execution
+https://github.com/disqus/disqus.github.com #
+https://github.com/disqus/codebox # Code Sharing for Teams
+https://github.com/disqus/mockhttp #
+https://github.com/disqus/nose-template-usage # Template usage reports for testing Django applications with Nose.
+https://github.com/disqus/django-patches # A collection of patches of various changes in Django used by Disqus
+https://github.com/disqus/pgshovel # A change data capture system for PostgreSQL
+https://github.com/disqus/pg_audit # Audit PostgreSQL tables in an automated fashion.
+https://github.com/disqus/graphite-reporter-agent # Java Agent for Cassandra's Metrics' Graphite Reporter
+https://github.com/disqus/django-metaredirect # META-tag and JavaScript based generic redirect views for maintaining HTTP referrers.
+https://github.com/disqus/facebook-python-sdk # Facebook Platform Python SDK
+https://github.com/disqus/psycopg2-managed-connection # Thread-safe connection manager for psycopg2 connections.
+https://github.com/disqus/fastly-slurper # Slurps delicious fastly logs. Mmm.
+https://github.com/disqus/django-test-helpers #
+https://github.com/disqus/pg_partition # Partition management for PostgreSQL
+https://github.com/disqus/disqus-api-demos #
+https://github.com/disqus/convey #
+https://github.com/disqus/docker-pgqd # pgqd (PgQ Ticker Daemon) on Docker
+https://github.com/disqus/grunt-kssgen # KSS styleguide generator for grunt. - Alternative to grunt-kss since it is dead
+https://github.com/disqus/bokbok #
+https://github.com/disqus/imperium-python # Impermium API bindings for Python
+https://github.com/disqus/standup-helper # Disqus' standup bot + dashboard.
+https://github.com/disqus/diamond-collectors #
+https://github.com/disqus/nose-unittest #
+https://github.com/disqus/datasketches-hive #
+https://github.com/disqus/smartrev # A "smart" file versioner for production environments which takes inter-file dependencies into account automatically.
+https://github.com/disqus/kazoo-eventlet-handler # Kazoo handler for usage in eventlet greenthreaded environments.
+https://github.com/disqus/disqus-slack # post Disqus comments to a Slack channel or PM with /disqus <comment url>
+https://github.com/disqus/docker-heka # heka in a docker
+https://github.com/disqus/facebook-sdk # Mirror of facebook-sdk
+https://github.com/disqus/hive-json-serde-tmp #
+https://github.com/disqus/nginx # Disqus Nginx Build
+https://github.com/disqus/kafka-python # mirror of original dpkp/kafka-python
+https://github.com/disqus/dataweek2013 #

@@ -1,0 +1,210 @@
+https://github.com/cli/cli # GitHub’s official command line tool
+https://github.com/github/rest-api-description # An OpenAPI description for GitHub's REST API
+
+https://github.com/github/gh-actions-importer # Automate the migration to GitHub Actions
+https://github.com/github/codeql-action # Actions for running CodeQL analysis
+https://github.com/github/dependabot-action # Runs Dependabot Updates via GitHub Actions.
+https://github.com/github/issue-labeler # Automatically label issues
+https://github.com/github/ossar-action # Run multiple open source security static analysis tools
+https://github.com/github/actions-oidc-debugger # Show OIDC claims in GitHub Actions.
+https://github.com/github/webpack-bundlesize-compare-action # Output bundlesize comparison tables for pull requests
+https://github.com/github/actions-oidc-gateway-example # Use the Actions OIDC token to proxy into a private network
+https://github.com/github/octoforce-actions # A lightweight open-source Salesforce CI/CD template built on the GitHub Actions platform.
+https://github.com/github/update-project-action # Update an item on a GitHub Projects (beta) board based on a workflow dispatch (or other) event's input.
+https://github.com/github/branch-deploy # Enabling Branch Deployments through IssueOps with GitHub Actions
+https://github.com/github/local-action # Run and debug a GitHub Action locally
+https://github.com/github/codeql-variant-analysis-action #
+https://github.com/github/lock # Lock Action to support deployment locking for the branch-deploy Action
+https://github.com/github/command # IssueOps commands in GitHub Actions
+https://github.com/github/combine-prs # Combine multiple PRs into a single one
+https://github.com/github/licensed-ci # Update and check cached licenses in a GitHub Actions workflow
+https://github.com/github/cleanowners # A GitHub Action to suggest removal of non-organization members from CODEOWNERS files
+https://github.com/github/contributors # Given an organization or repository, produces information about the contributors over the specified time period.
+https://github.com/github/setup-licensed # Setup your GitHub Actions workflow with a specific version of github/licensed
+https://github.com/github/evergreen # GitHub Action to enable automated security updates and open a issue/PR in repos that don't have a dependabot.yaml file
+
+https://github.com/github/platform-samples # A public place for all platform sample projects.
+
+https://github.com/github/roadmap # GitHub public roadmap
+https://github.com/github/opensource.guide # 📚 Community guides for open source creators
+https://github.com/github/choosealicense.com # A site to provide non-judgmental guidance on choosing a license for your open source project
+https://github.com/github/site-policy # Collaborative development on GitHub's site policies, procedures, and guidelines
+https://github.com/github/how-engineering-communicates # A community version of the "common API" for how the GitHub Engineering organization communicates
+
+https://github.com/github/gitignore # A collection of useful .gitignore templates
+https://github.com/github/docs # The open-source repo for docs.github.com
+https://github.com/github/advisory-database # Security vulnerability database inclusive of CVEs and GitHub originated security advisories
+https://github.com/github/catalyst # Catalyst is a set of patterns and techniques for developing components within a complex application.
+https://github.com/github/backup-utils # GitHub Enterprise Backup Utilities
+https://github.com/github/opensourcefriday # 🚲 Contribute to the open source community every Friday
+https://github.com/github/.github # Community health files for the @GitHub organization
+https://github.com/github/github-ds # A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection
+https://github.com/github/email_reply_parser # Small library to parse plain text email content
+https://github.com/github/freno # freno: cooperative, highly available throttler service
+https://github.com/github/safe-settings #
+https://github.com/github/vscode-github-actions # GitHub Actions extension for VS Code
+https://github.com/github/issue-metrics # Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
+https://github.com/github/hackathons # Tips, Tricks, and Resources for running your hackathon.
+https://github.com/github/gh-gei # Migration CLI for GitHub to GitHub migrations
+https://github.com/github/eslint-plugin-github # An opinionated collection of ESLint rules used by GitHub.
+https://github.com/github/github-ldap # LDAP client for humans. Part of GitHub Enterprise.
+https://github.com/github/pages-health-check # Checks your GitHub Pages site for common DNS configuration issues
+https://github.com/github/markdownlint-github # An opinionated collection of markdownlint rules used by GitHub.
+https://github.com/github/actions-learning-pathway # Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.
+https://github.com/github/forgoodfirstissue # Find your first issue for good to contribute to
+https://github.com/github/gh-migration-analyzer #
+https://github.com/github/chatops-controller # A rails plugin to make creating chatops easy
+https://github.com/github/ghec-audit-log-cli # Query the GitHub Audit Log for your organization to send it over to other services like Elastic, Splunk or Sentinel
+https://github.com/github/pets-workshop # Workshop and getting started content for organizations using GitHub for Startups
+https://github.com/github/copilot-survey-engine # Engine for prompting users to take a survey about Copilot
+https://github.com/github/prettier-config # Prettier config used at GitHub
+https://github.com/github/copilot-hack # Open form hack for GitHub Copilot
+https://github.com/github/skills-based-volunteering-public # Template for setting up a Skills-Based Volunteering Program
+https://github.com/github/gh-ado2gh # Migration CLI for Azure DevOps to GitHub migrations
+https://github.com/github/gh-ost-ci-env # CI environment for gh-ost testing
+
+Developer
+https://github.com/github-developer/github-apps-cheat-sheet # A cheat sheet for GitHub Apps
+https://github.com/github-developer/javascript-action # Create a JavaScript Action with tests, linting, workflow, publishing, and versioning. An opinionated alternative template to actions/javascript-action to bootstrap the creation of a JavaScript action. 🚀
+https://github.com/github-developer/self-hosted-runners-anthos # GitHub Actions Self Hosted Runners on Anthos GKE
+https://github.com/github-developer/example-actions-flux-eks # GitHub Actions, Flux, and Amazon EKS ✨
+https://github.com/github-developer/example-actions-eks-fargate #
+https://github.com/github-developer/example-setup-gh # An example action, demonstrating how CLI authors may develop actions that allow setup their of CLIs on GitHub's host
+ed runners, using JavaScript https://github.com/github-developer/creating-ci-tests-with-the-checks-api #
+https://github.com/github-developer/upload-azure-blob # Example GitHub action to upload file(s) to Azure Blob Storage
+https://github.com/github-developer/octochat-gcp # Demo project for privately messaging with your GitHub followers 🐱
+
+Education
+https://github.com/github-education-resources/codespaces-project-template-js # Codesp
+aces template for creating and deploying your own React portfolio https://github.com/github-education-resources/codespaces-project-template-py # Codesp
+aces template for building a Python project https://github.com/github-education-resources/codespaces-project-template-dotnet # Co
+despaces template for building a .NET project https://github.com/github-education-resources/octernships # GitHub Octernships progra
+m connects students with industry partners in paid professional experiences and mentorship on open source and software development projects. https://github.com/github-education-resources/memebot_discord # Launch your very own
+Discord bot to welcome your users and share a meme. https://github.com/github-education-resources/student-developer-pack-current-partners
+-faq # This repo gives you an overview of the Student Developer Pack, the current partners in the pack and answers to frequently asked questions about the pack. https://github.com/github-education-resources/codespaces-teaching-template-py # Codes
+paces template for teaching Python https://github.com/github-education-resources/github-university-2020 #
+https://github.com/github-education-resources/pr-talentlandmx # Participa para ganar
+swag especial dentro de Talend Land 2023 https://github.com/github-education-resources/pr-pao-de-queijo-request #
+https://github.com/github-education-resources/codespaces-teaching-js-template # Codes
+paces template for teaching JavaScript https://github.com/github-education-resources/pr-patches-campus-party # PR-Patches-Ca
+mpus-Party https://github.com/github-education-resources/classroom-report-2018 # Design, analysi
+s, findings and raw data from the 2018 GitHub Education Classroom Report https://github.com/github-education-resources/classroom-report-2020 # Design, analysi
+s, findings and raw data from the 2020 GitHub Education Classroom Report https://github.com/github-education-resources/hackconviii # The conference for hacker
+community leaders: https://hackcon.mlh.io/. Here you can find everything related to the GitHub Scavenger Hunt. https://github.com/github-education-resources/codespaces-teaching-template-dotnet # C
+odespaces template for teaching .NET https://github.com/github-education-resources/classroom-report-2019 # Design, analysi
+s, findings and raw data from the 2019 GitHub Education Classroom Report https://github.com/github-education-resources/global-campus-experiences # This is a g
+uide to Global Campus Experiences and how learners can approach incorporating them into your learning journey. https://github.com/github-education-resources/edu-resource-guide # Resources for GitH
+ub and GitHub Education products and services. https://github.com/github-education-resources/autograding-command-grader #
+https://github.com/github-education-resources/autograding-io-grader #
+https://github.com/github-education-resources/example-classroom-template #
+https://github.com/github-education-resources/github-education-classroom-399065-testt
+esttest-codespaces-teaching-js-template # github-education-classroom-399065-testtesttest-codespaces-teaching-js-template created by GitHub Classroom https://github.com/github-education-resources/na-campus-party #
+https://github.com/github-education-resources/github-education-classroom-399065-no-mo
+re-sporks-github-starter-course # github-education-classroom-399065-no-more-sporks-github-starter-course created by GitHub Classroom
+
+Integrations
+https://github.com/integrations/slack # Bring your code to the conversations you care about with the GitHub and Slack integration
+https://github.com/integrations/terraform-provider-github # Terraform GitHub provider
+https://github.com/integrations/microsoft-teams # Bringing your code and work to the conversations you care about with the GitHub and Microsoft integration
+https://github.com/integrations/html-to-mrkdwn # Convert HTML to Slack's mrkdwn format
+https://github.com/integrations/jsonwebtokenydoo # Command line utility that assists with GitHub App Authentication
+https://github.com/integrations/snappydoo # Turns Jest snapshots into Slack message builder screenshots
+https://github.com/integrations/snappydoo-action #
+
+Octokit
+https://github.com/octokit/octokit.js # The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+https://github.com/octokit/octokit.rb # Ruby toolkit for the GitHub API
+https://github.com/octokit/octokit.net # A GitHub API client library for .NET
+https://github.com/octokit/core.js # Extendable client for GitHub's REST & GraphQL APIs
+https://github.com/octokit/rest.js # GitHub REST API client for JavaScript
+https://github.com/octokit/graphql.js # GitHub GraphQL API client for browsers and Node
+https://github.com/octokit/request-action # A GitHub Action to send arbitrary requests to GitHub's REST API
+https://github.com/octokit/authentication-strategies.js # GitHub API authentication strategies for Browsers, Node.js, and Deno
+https://github.com/octokit/webhooks.js # GitHub webhook events toolset for Node.js
+https://github.com/octokit/request.js # Send parameterized requests to GitHub’s APIs with sensible defaults in browsers and Node
+https://github.com/octokit/webhooks # machine-readable, always up-to-date GitHub Webhooks specifications
+https://github.com/octokit/action.js # GitHub API client for GitHub Actions
+https://github.com/octokit/graphql-schema # GitHub’s GraphQL Schema with validation. Automatically updated.
+https://github.com/octokit/app.js # GitHub Apps toolset for Node.js
+https://github.com/octokit/auth-app.js # GitHub App authentication for JavaScript
+https://github.com/octokit/octokit.graphql.net # A GitHub GraphQL client library for .NET
+https://github.com/octokit/types.ts # Shared TypeScript definitions for Octokit projects
+https://github.com/octokit/graphql-action # A GitHub Action to send queries to GitHub's GraphQL API
+https://github.com/octokit/plugin-rest-endpoint-methods.js # Octokit plugin adding one method for all of api.github.com REST API endpoints
+https://github.com/octokit/plugin-throttling.js # Octokit plugin for GitHub’s recommended request throttling
+https://github.com/octokit/fixtures # Fixtures for all the octokittens
+https://github.com/octokit/auth-token.js # GitHub API token authentication for browsers and Node.js
+https://github.com/octokit/oauth-app.js # GitHub OAuth toolset for Node.js
+https://github.com/octokit/auth-oauth-app.js # GitHub OAuth App authentication for JavaScript
+https://github.com/octokit/go-sdk # A generated Go SDK from GitHub's OpenAPI specification. Built on Kiota.
+https://github.com/octokit/endpoint.js # Turns REST API endpoints into generic request options
+https://github.com/octokit/dotnet-sdk #
+https://github.com/octokit/webhooks.net # GitHub webhook events toolset for .NET
+https://github.com/octokit/octopoller.rb # A micro gem for polling and retrying. Perfect for making repeating requests.
+https://github.com/octokit/plugin-paginate-rest.js # Octokit plugin to paginate REST API endpoint responses
+https://github.com/octokit/openapi # GitHub's official OpenAPI spec with Octokit extensions
+https://github.com/octokit/auth-action.js # GitHub API token authentication for GitHub Actions
+https://github.com/octokit/plugin-paginate-graphql.js # Octokit plugin to paginate GraphQL Query responses
+https://github.com/octokit/openapi-types.ts # Generated TypeScript definitions based on GitHub's OpenAPI spec
+https://github.com/octokit/plugin-retry.js # Octokit plugin for GitHub’s recommended request retries
+https://github.com/octokit/fixtures-server # Fixtures server for browser & language agnositic octokit testing
+https://github.com/octokit/webhooks-methods.js # Methods to handle GitHub Webhook requests
+https://github.com/octokit/octokit-next.js #
+https://github.com/octokit/plugin-enterprise-server.js # Octokit plugin for GitHub Enterprise REST APIs
+https://github.com/octokit/auth-oauth-user-client.js # OAuth user authentication without exposing client secret
+https://github.com/octokit/auth-oauth-user.js # Octokit authentication strategy for OAuth clients
+https://github.com/octokit/oauth-authorization-url.js # Universal library to retrieve GitHub’s identity URL for the OAuth web flow
+https://github.com/octokit/create-octokit-project.js # "npm init" script to create a new Octokit JS module
+https://github.com/octokit/request-error.js # Error class for Octokit request errors
+https://github.com/octokit/plugin-create-or-update-text-file.js # Convenience method to create/edit/delete a text file based on its current content
+https://github.com/octokit/app-permissions # machine-readable, always up-to-date GitHub App permissions
+https://github.com/octokit/auth-oauth-device.js # GitHub OAuth Device authentication strategy for JavaScript
+https://github.com/octokit/handbook # Handbook for Octokit maintainers and GitHub integrators
+https://github.com/octokit/source-generator # Generates SDKs from GitHub's OpenAPI specification. Built on Kiota.
+https://github.com/octokit/plugin-request-log.js # Log all requests and request errors
+https://github.com/octokit/plugin-enterprise-cloud.js # Octokit plugin for GitHub Enterprise Cloud REST APIs
+https://github.com/octokit/auth-callback.js # GitHub API authentication using a callback method
+https://github.com/octokit/oauth-methods.js # Request methods to create and refresh user access tokens for OAuth and GitHub Apps
+https://github.com/octokit/auth-unauthenticated.js # strategy for explicitly unauthenticated Octokit instances
+https://github.com/octokit/tsconfig # TypeScript configuration for Octokit packages
+https://github.com/octokit/openapi-webhooks #
+https://github.com/octokit/tf-acc-test-empty-f89p1 # Terraform acceptance test f89p1
+https://github.com/octokit/plugin-enterprise-compatibility.js # Octokit plugin for improving GHE compatibility
+https://github.com/octokit/dotnet-sdk-enterprise-cloud # A generated .NET SDK from GitHub's OpenAPI specification, for the Enterprise Cloud product. Built on Kiota.
+https://github.com/octokit/dotnet-sdk-enterprise-server # A generated .NET SDK from GitHub's OpenAPI specification, for the Enterprise Server product. Built on Kiota.
+https://github.com/octokit/go-sdk-enterprise-cloud # A generated Go SDK from GitHub's OpenAPI specification, for the Enterprise Cloud product. Built on Kiota.
+https://github.com/octokit/go-sdk-enterprise-server # A generated Go SDK from GitHub's OpenAPI specification, for the Enterprise Server product. Built on Kiota.
+https://github.com/octokit/tf-acc-test-em7ji #
+https://github.com/octokit/tf-acc-test-441uo #
+https://github.com/octokit/sandbox # testing apps
+https://github.com/octokit/.github #
+
+Partners
+https://github.com/githubpartners/workshop-tonkotsu-nodejs # 🍜 Repository for the GitHub Verified Partner "tonkotsu" workshop.
+https://github.com/githubpartners/microsoft-learn # The planning and tracking of GitHub modules on MS Learn
+https://github.com/githubpartners/write-a-ll-course-template # Template repo for Learning Lab course "Write a Learning Lab course". Course repo ➡
+https://github.com/githubpartners/demo-github-codespaces #
+https://github.com/githubpartners/scenarios #
+https://github.com/githubpartners/partner-bootcamp-actions-template # The template repository for the partner-bootcamp-actions course on Learning Lab.
+https://github.com/githubpartners/github-applet-testing # fission.io specification example application
+https://github.com/githubpartners/learning-lab-markdown # Markdown files generated from Learning Lab courses. X- means migrated, Z- means won't migrate. (Cloned from /githublearn)
+https://github.com/githubpartners/workshop-yakitori-webgoat #
+https://github.com/githubpartners/partner-bootcamp-actions-course # GitHub Actions hands-on work for partner bootcamp.
+https://github.com/githubpartners/.github #
+
+Universe Workshops
+https://github.com/githubuniverseworkshops/codeql # CodeQL workshops for GitHub Universe
+https://github.com/githubuniverseworkshops/workshop-automate-your-workflow # 🎓 Automate your workflow using GitHub Actions and GitHub Packages.
+https://github.com/githubuniverseworkshops/grafting-monorepos # Keep monorepos manageable using grafting
+https://github.com/githubuniverseworkshops/github-actions-planet-githubuniverse2021 # Welcome to GitHub Actions planet, which lives among the GitHub Universe and is a place with full of joys, knowledges, and activities
+https://github.com/githubuniverseworkshops/devsecops-automation-with-ghas # DevSecOps automation with GHAS workshop for Universe 2020
+https://github.com/githubuniverseworkshops/cd-with-actions # Continuous Delivery with GitHub Actions
+https://github.com/githubuniverseworkshops/template-workshop # Template Repo for workshop related contents
+https://github.com/githubuniverseworkshops/intro-to-graphql # Resources for the Starting out with GraphQL workshop
+https://github.com/githubuniverseworkshops/devsecops-automation-with-ghas-solutions #
+https://github.com/githubuniverseworkshops/github-app-device-flow #
+https://github.com/githubuniverseworkshops/sample-template-repository-universe # Sample Template Repository to be used for GitHub Universe - GitHub Actions
+https://github.com/githubuniverseworkshops/importer-labs-jschanfung #
+https://github.com/githubuniverseworkshops/devsecops-ghas-with-bryanchasko #
+
+https://github.com/github-linguist/linguist # Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
