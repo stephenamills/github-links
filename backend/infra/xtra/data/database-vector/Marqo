@@ -1,0 +1,27 @@
+https://github.com/marqo-ai/marqo # Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
+
+https://github.com/marqo-ai/marqo-fashionclip # State-of-the-art CLIP-like models finetuned for the fashion domain. +57% increase in evaluation metrics vs FashionCLIP 2.0.
+https://github.com/marqo-ai/py-marqo # Python client for Marqo
+https://github.com/marqo-ai/gcl # Generalised Contrastive Learning. This is a Repository for Google Shopping Dataset and Benchmarks followed by our novel fine-grained contrastive learning framework.
+https://github.com/marqo-ai/fine-tuning-embedding-models-course # Marqo's Course on 'Fine-Tuning Embedding Models for Semantic Search'.
+https://github.com/marqo-ai/marqo-on-kubernetes #
+https://github.com/marqo-ai/marqo-demo #
+https://github.com/marqo-ai/local-image-search-demo # This is a demo of E-Commerce search using Marqo that can be run locally on a laptop or desktop with or without a GPU.
+https://github.com/marqo-ai/marqo-tutorials # This repository contains code to Marqo tutorials.
+https://github.com/marqo-ai/marqo-haystack # The official integration for Marqo vector search and Haystack 2.0
+https://github.com/marqo-ai/marqo-js # Javascript client for Marqo
+https://github.com/marqo-ai/marqo-demos # Monorepo for demos using Marqo as a standalone or integrated into other frameworks.
+https://github.com/marqo-ai/marqtune-examples #
+https://github.com/marqo-ai/marqo-hybrid-demo # A demo for hybrid search with e-commerce data
+https://github.com/marqo-ai/getting_started_marqo_cloud #
+https://github.com/marqo-ai/marqo-clip-onnx #
+https://github.com/marqo-ai/.coco_image #
+https://github.com/marqo-ai/marqo-api-tests # Api tests for marqo
+https://github.com/marqo-ai/througput-test #
+https://github.com/marqo-ai/marqo-instantapi #
+https://github.com/marqo-ai/marqo-on-gcp-marketplace # Marqo Kubernetes app on Google Marketplace
+https://github.com/marqo-ai/marqo-base # The dependencies and Dockerfile for creating the Marqo base image
+https://github.com/marqo-ai/marqo_ecomm_models #
+https://github.com/marqo-ai/marqo-commons #
+https://github.com/marqo-ai/public-assets #
+https://github.com/marqo-ai/terraform-provider-marqo #

@@ -1,0 +1,89 @@
+https://github.com/honeycombio/refinery # Refinery is a trace-aware tail-based sampling proxy. It examines whole traces and intelligently applies sampling decisions (whether to keep or discard) to each trace.
+https://github.com/honeycombio/buildevents # A small helper to generate Honeycomb traces from CI builds
+https://github.com/honeycombio/honeytail # Honeycomb's open-source agent. Contains various parsers for extracting structured data out of common log files.
+https://github.com/honeycombio/beeline-go # Legacy instrumentation for golang apps with Honeycomb
+https://github.com/honeycombio/dynsampler-go # Dynsampler is a Golang library for dynamic sampling of events sent to Honeycomb.
+https://github.com/honeycombio/examples # Example apps and instrumentation for Honeycomb
+https://github.com/honeycombio/libhoney-go # Go library for sending data to Honeycomb
+https://github.com/honeycombio/honeycomb-kubernetes-agent # Application visibility for Kubernetes.
+https://github.com/honeycombio/beeline-nodejs # Legacy instrumentation for node.js applications with Honeycomb
+https://github.com/honeycombio/honeyaws # Observability for your AWS load balancers, CloudFront, and more
+https://github.com/honeycombio/gha-buildevents # Trace GitHub Action workflows with Honeycomb
+https://github.com/honeycombio/libhoney-js # Javascript library for sending data to Honeycomb
+https://github.com/honeycombio/terraform-provider-honeycombio # A Terraform provider for Honeycomb.io
+https://github.com/honeycombio/agentless-integrations-for-aws # Lambda-based AWS integrations for Honeycomb
+https://github.com/honeycombio/honeycomb-opentelemetry-web # Honeycomb's Distro for OpenTelemetry in the browser
+https://github.com/honeycombio/beeline-python # Legacy instrumentation for your Python apps with Honeycomb.
+https://github.com/honeycombio/microservices-demo #
+https://github.com/honeycombio/helm-charts # Helm repository and charts for Honeycomb
+https://github.com/honeycombio/kspan #
+https://github.com/honeycombio/honeycomb-lambda-extension # An AWS Lambda Extension (layer) that uses the Logs API to send events to Honeycomb
+https://github.com/honeycombio/beeline-ruby # Legacy instrumentation for your Ruby apps with Honeycomb.
+https://github.com/honeycombio/honeycomb-opentelemetry-dotnet # Honeycomb's OpenTelemetry .NET SDK distribution
+https://github.com/honeycombio/honeycomb-opentelemetry-go # Honeycomb's OpenTelemetry Go SDK distribution
+https://github.com/honeycombio/libhoney-dotnet # Honeycomb.io client library for .NET
+https://github.com/honeycombio/libhoney-py # Python library for sending data to Honeycomb
+https://github.com/honeycombio/honeycomb-opentelemetry-java # Honeycomb's OpenTelemetry Java SDK distribution
+https://github.com/honeycombio/honeyvent # CLI for sending individual events in to Honeycomb
+https://github.com/honeycombio/otel-config-go #
+https://github.com/honeycombio/example-greeting-service # A silly microservices app for testing interoperability
+https://github.com/honeycombio/workshop-advanced-instrumentation # Exercises for the Advanced Instrumentation workshop, delivered at hnycon 2021
+https://github.com/honeycombio/honeycomb-opentelemetry-node # Honeycomb's OpenTelemetry Node.js SDK distribution
+https://github.com/honeycombio/third-party-contrib # Integrations and more from the Honeycomb ecosystem
+https://github.com/honeycombio/beeline-java # Legacy instrumentation for Java apps with Honeycomb
+https://github.com/honeycombio/buildevents-orb # Orb for CircleCI to instrument builds with Honeycomb
+https://github.com/honeycombio/honeymarker # CLI for managing markers in your honeycomb datasets
+https://github.com/honeycombio/intro-to-o11y-nodejs # An instrumented microservice in Node.js - it'll give you some Honeycomb data to play with.
+https://github.com/honeycombio/libhoney-rb # Ruby library for sending data to Honeycomb
+https://github.com/honeycombio/terraform-aws-integrations # Terraform module to integrate Honeycomb and AWS
+https://github.com/honeycombio/mysqltools # A set of utilities for working with MySQL logs. Imported directly by the Honeycomb agent, honeytail
+https://github.com/honeycombio/happy-o11ydays # A fun activity for the end of the year🎄
+https://github.com/honeycombio/honeycomb-opentelemetry-python # Honeycomb's OpenTelemetry Python SDK distribution
+https://github.com/honeycombio/libhoney-java # Java library for sending data to Honeycomb
+https://github.com/honeycombio/intro-to-o11y-go # An instrumented microservice in Go - it'll give you some Honeycomb data to play with.
+https://github.com/honeycombio/intro-to-o11y-python # An instrumented microservice in Python - it'll give you some Honeycomb data to play with.
+https://github.com/honeycombio/observability-day-workshop # Example app for the Advanced Instrumentation workshop at Observability Day
+https://github.com/honeycombio/opentelemetry-collector-configs # Honeycomb Metrics-flavored OpenTelemetry Collector configuration
+https://github.com/honeycombio/gha-create-asana-task # Github Action for creating Asana tasks
+https://github.com/honeycombio/urlshaper #
+https://github.com/honeycombio/cloudformation-integrations # CloudFormation templates to integrate Honeycomb and AWS
+https://github.com/honeycombio/opentelemetry-collector-workshop # Workshop for the OpenTelemetry Collector
+https://github.com/honeycombio/intro-to-o11y-java # An instrumented microservice in Java - it'll give you some Honeycomb data to play with.
+https://github.com/honeycombio/terraform-honeycombio-opentelemetry-starter-pack # A terraform starter pack for creating honeycomb nouns for standard opentelemetry data
+https://github.com/honeycombio/next-core-web-vitals-sample # Sample app for tracing CWV data.
+https://github.com/honeycombio/terraform-honeycombio-buildevents-starter-pack # terraform module to setup Honeycomb resources to allow for getting started with exploring Buildevents sent from CI/CD pipelines
+https://github.com/honeycombio/terraform-honeycombio-refinery-starter-pack # A Terraform module that creates Honeycomb resources to help you operate your Refinery cluster
+https://github.com/honeycombio/field-utils # A collection of tools and code made available to Honeycomb's customers by field teams
+https://github.com/honeycombio/honeycomb-resource-samples # A collection of useful resources that can be applied to the Honeycomb platform.
+https://github.com/honeycombio/honeycomb-network-agent #
+https://github.com/honeycombio/terraform-aws-honeycomb-cloudwatch-metric-stream # DEPRECATED - Please use the AWS Integrations CloudWatch Metrics Submodule Instead
+https://github.com/honeycombio/loadgen # A flexible command-line load generator to create traces in OTel or Honeycomb formats
+https://github.com/honeycombio/microservices-testing-examples # Code used in the Buildevents Integration Quick Start Guides
+https://github.com/honeycombio/academy-instrumentation-nodejs #
+https://github.com/honeycombio/academy-instrumentation-python #
+https://github.com/honeycombio/terraform-webinar #
+https://github.com/honeycombio/influx2hny # read influx-formatted metrics on STDIN and send them to Honeycomb
+https://github.com/honeycombio/husky # a library for translating other data types to Honeycomb-format data structures
+https://github.com/honeycombio/otel-collector-workshop # An introductory workshop showing how to set-up an OTel Collector
+https://github.com/honeycombio/.github # Default community health files
+https://github.com/honeycombio/academy-instrumentation-go # Learn how to instrument a Go app with Honeycomb Academy
+https://github.com/honeycombio/classic-migrator # Honeycomb Classic to Environments & Services Migration Tool
+https://github.com/honeycombio/academy-instrumentation-java #
+https://github.com/honeycombio/intro-to-o11y-dotnet # An instrumented microservice in .NET - it'll give you some Honeycomb data to play with.
+https://github.com/honeycombio/otel-o11y-demo # OpenTelemetry Observability Demo Application for learning how OpenTelemetry works
+https://github.com/honeycombio/terraform-honeycombio-kubernetes-starter-pack # A terraform starter pack for working with Kubernetes metrics and logs
+https://github.com/honeycombio/chef-handler-honeycomb # Chef handler to report chef run statistics to Honeycomb
+https://github.com/honeycombio/observaquiz-api # API for the booth-game
+https://github.com/honeycombio/ask-schema # Ask your schema what you can do
+https://github.com/honeycombio/raas-hnytest # This is a repository for doing internal tests of the Refinery as a Service environment.
+https://github.com/honeycombio/academy-instrumentation-ruby #
+https://github.com/honeycombio/kong-api-example #
+https://github.com/honeycombio/home # Honeycomb's home on GitHub! Herein lies cross-cutting, often policy-level concerns. Not an issue tracker.
+https://github.com/honeycombio/sa-tech-challenge #
+https://github.com/honeycombio/honeycomb-opentelemetry-ruby # Honeycomb's OpenTelemetry Ruby extras
+https://github.com/honeycombio/rummycomb-sample-app # Sample application for a video about Your First RUM Board in Honeycomb
+https://github.com/honeycombio/webinar-collector-201 #
+https://github.com/honeycombio/otel-file-importer #
+https://github.com/honeycombio/ca-otel-demo #
+https://github.com/honeycombio/observaquiz-ui # Play this game at an event where Honeycomb has a booth
+https://github.com/honeycombio/oss-management # A set of GitHub Actions to apply a common set of OSS management workflows to Honeycomb projects.

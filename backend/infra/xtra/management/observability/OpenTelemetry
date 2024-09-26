@@ -1,93 +1,92 @@
+https://github.com/chronosphereio/otel-workshop #
+
 https://github.com/open-telemetry/opentelemetry-go # OpenTelemetry Go API and SDK
 https://github.com/open-telemetry/opentelemetry-collector # OpenTelemetry Collector
-https://github.com/open-telemetry/opentelemetry-specification # Specifications for Op
-enTelemetry https://github.com/open-telemetry/opentelemetry-dotnet # The OpenTelemetry .NET Clien
-t https://github.com/open-telemetry/opentelemetry-collector-contrib # Contrib repositor
-y for the OpenTelemetry Collector https://github.com/open-telemetry/opentelemetry-js # OpenTelemetry JavaScript Client
-https://github.com/open-telemetry/opentelemetry-ebpf-profiler # The production-scale
-datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...) https://github.com/open-telemetry/opentelemetry-java # OpenTelemetry Java SDK
-https://github.com/open-telemetry/opentelemetry-java-instrumentation # OpenTelemetry
-auto-instrumentation and instrumentation libraries for Java https://github.com/open-telemetry/opentelemetry-rust # The Rust OpenTelemetry impleme
-ntation https://github.com/open-telemetry/opentelemetry-python # OpenTelemetry Python API and
-SDK https://github.com/open-telemetry/opentelemetry-demo # This repository contains the O
-penTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment. https://github.com/open-telemetry/opentelemetry-operator # Kubernetes Operator for Op
-enTelemetry Collector https://github.com/open-telemetry/opentelemetry-go-contrib # Collection of extensions
-for OpenTelemetry-Go. https://github.com/open-telemetry/opentelemetry-cpp # The OpenTelemetry C++ Client
+https://github.com/open-telemetry/opentelemetry-specification # Specifications for OpenTelemetry
+https://github.com/open-telemetry/opentelemetry-dotnet # The OpenTelemetry .NET Client
+https://github.com/open-telemetry/opentelemetry-collector-contrib # Contrib repository for the OpenTelemetry Collector
+https://github.com/open-telemetry/opentelemetry-js # OpenTelemetry JavaScript Client
+https://github.com/open-telemetry/opentelemetry-ebpf-profiler # The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
+https://github.com/open-telemetry/opentelemetry-java # OpenTelemetry Java SDK
+https://github.com/open-telemetry/opentelemetry-java-instrumentation # OpenTelemetry auto-instrumentation and instrumentation libraries for Java
+https://github.com/open-telemetry/opentelemetry-rust # The Rust OpenTelemetry implementation
+https://github.com/open-telemetry/opentelemetry-python # OpenTelemetry Python API and SDK
+https://github.com/open-telemetry/opentelemetry-demo # OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+https://github.com/open-telemetry/opentelemetry-operator # Kubernetes Operator for OpenTelemetry Collector
+https://github.com/open-telemetry/opentelemetry-go-contrib # Collection of extensions for OpenTelemetry-Go.
+https://github.com/open-telemetry/opentelemetry-cpp # The OpenTelemetry C++ Client
 https://github.com/open-telemetry/community # OpenTelemetry community content
 https://github.com/open-telemetry/opentelemetry-php # The OpenTelemetry PHP Library
-https://github.com/open-telemetry/opentelemetry-python-contrib # OpenTelemetry instru
-mentation for Python modules https://github.com/open-telemetry/opentelemetry-js-contrib # OpenTelemetry instrument
-ation for JavaScript modules https://github.com/open-telemetry/docs-cn # OpenTelemetry 中文文档: 接入使用、技术标
-准、RFC、SDK 等. https://github.com/open-telemetry/opentelemetry-proto # OpenTelemetry protocol (OTLP)
-specification and Protobuf definitions https://github.com/open-telemetry/opentelemetry.io # The OpenTelemetry website and do
-cumentation https://github.com/open-telemetry/opentelemetry-go-instrumentation # OpenTelemetry Au
-to Instrumentation using eBPF https://github.com/open-telemetry/opentelemetry-ruby # OpenTelemetry Ruby API & SDK,
-and related gems https://github.com/open-telemetry/opentelemetry-dotnet-contrib # This repository cont
-ains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here. https://github.com/open-telemetry/opentelemetry-helm-charts # OpenTelemetry Helm Char
-ts https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation # OpenTelemetr
-y .NET Automatic Instrumentation https://github.com/open-telemetry/oteps # OpenTelemetry Enhancement Proposals
+https://github.com/open-telemetry/opentelemetry-python-contrib # OpenTelemetry instrumentation for Python modules
+https://github.com/open-telemetry/opentelemetry-js-contrib # OpenTelemetry instrumentation for JavaScript modules
+https://github.com/open-telemetry/opentelemetry-proto # OpenTelemetry protocol (OTLP) specification and Protobuf definitions
+https://github.com/open-telemetry/opentelemetry-go-instrumentation # OpenTelemetry Auto Instrumentation using eBPF
+https://github.com/open-telemetry/opentelemetry-ruby # OpenTelemetry Ruby API & SDK, and related gems
+https://github.com/open-telemetry/opentelemetry-helm-charts # OpenTelemetry Helm Charts
+https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation # OpenTelemetry .NET Automatic Instrumentation
+https://github.com/open-telemetry/oteps # OpenTelemetry Enhancement Proposals
 https://github.com/open-telemetry/opentelemetry-erlang # OpenTelemetry Erlang SDK
-https://github.com/open-telemetry/opentelemetry-lambda # Create your own Lambda Layer
-in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry. https://github.com/open-telemetry/opentelemetry-network # eBPF Collector
-https://github.com/open-telemetry/semantic-conventions # Defines standards for genera
-ting consistent, accessible telemetry across a variety of domains https://github.com/open-telemetry/opentelemetry-collector-releases # OpenTelemetry Co
-llector Official Releases https://github.com/open-telemetry/opentelemetry-swift # OpenTelemetry API for Swift
+https://github.com/open-telemetry/opentelemetry-lambda # Create your own Lambda Layerin each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
+https://github.com/open-telemetry/opentelemetry-network # eBPF Collector
+https://github.com/open-telemetry/semantic-conventions # Defines standards for generating consistent, accessible telemetry across a variety of domains
+https://github.com/open-telemetry/opentelemetry-collector-releases # OpenTelemetry Collector Official Releases
+https://github.com/open-telemetry/opentelemetry-swift # OpenTelemetry API for Swift
 https://github.com/open-telemetry/opentelemetry-java-examples #
 https://github.com/open-telemetry/opentelemetry-java-contrib #
-https://github.com/open-telemetry/opentelemetry-erlang-contrib # OpenTelemetry instru
-mentation for Erlang & Elixir https://github.com/open-telemetry/opentelemetry-android # OpenTelemetry Tooling for A
-ndroid https://github.com/open-telemetry/opamp-go # OpAMP protocol implementation in Go
+https://github.com/open-telemetry/opentelemetry-erlang-contrib # OpenTelemetry instrumentation for Erlang & Elixir
+https://github.com/open-telemetry/opentelemetry-android # OpenTelemetry Tooling for Android
+https://github.com/open-telemetry/opamp-go # OpAMP protocol implementation in Go
 https://github.com/open-telemetry/opentelemetry-cpp-contrib #
 https://github.com/open-telemetry/opamp-spec # OpAMP Specification
-https://github.com/open-telemetry/opentelemetry-php-instrumentation # OpenTelemetry P
-HP auto-instrumentation extension https://github.com/open-telemetry/opentelemetry-ruby-contrib # Contrib Packages for t
-he OpenTelemetry Ruby API and SDK implementation. https://github.com/open-telemetry/otel-arrow # Protocol and libraries for sending and
-receiving OpenTelemetry data using Apache Arrow https://github.com/open-telemetry/opentelemetry-php-contrib # opentelemetry-php-contr
-ib https://github.com/open-telemetry/weaver # OTel Weaver lets you easily develop, valid
-ate, document, and deploy semantic conventions https://github.com/open-telemetry/wg-prometheus # Workgroup for building Prometheus-O
-TLP interoperability for the OTEL Collector and Prometheus related discussions. https://github.com/open-telemetry/build-tools # Building tools provided by OpenTeleme
-try https://github.com/open-telemetry/opentelemetry-rust-contrib # OpenTelemetry Contrib
-Packages for Rust https://github.com/open-telemetry/opentelemetry-go-build-tools # Build tools for use
-by the Go API/SDK, the collector, and their associated contrib repositories https://github.com/open-telemetry/opentelemetry-configuration # JSON Schema definitio
-ns for OpenTelemetry file configuration https://github.com/open-telemetry/opentelemetry-proto-go # Generated code for OpenTel
-emetry protobuf data model https://github.com/open-telemetry/opentelemetry-sqlcommenter # SQLCommenter component
-s for various languages https://github.com/open-telemetry/opentelemetry-profiling # OpenTelemetry Profiling (
-language independent code, benchmarks, experiments, etc) https://github.com/open-telemetry/docs-ja #
-https://github.com/open-telemetry/opentelemetry-sandbox-web-js # non-production level
-experimental Web JS packages https://github.com/open-telemetry/semantic-conventions-java # Java generated classes
-for semantic conventions https://github.com/open-telemetry/opentelemetry-proto-java # Java Bindings for the Op
-enTelemetry Protocol (OTLP) https://github.com/open-telemetry/assign-reviewers-action # GitHub action to assign r
-eviewers/approvers/etc based on configuration https://github.com/open-telemetry/sig-security #
-https://github.com/open-telemetry/sig-mainframe # Repository of the Mainframe SIG - O
-ur aim is to enable OpenTelemetry for the Mainframe. https://github.com/open-telemetry/opentelemetry-network-build-tools # eBPF Collector
-Build Tools https://github.com/open-telemetry/sig-end-user #
-https://github.com/open-telemetry/opentelemetry-go-vanityurls # Vanityurls config for
-go.opentelemetry.io subdomain https://github.com/open-telemetry/cpp-build-tools # Builds a docker image to make int
-eracting with C++ projects easier. https://github.com/open-telemetry/sig-developer-experience #
+https://github.com/open-telemetry/opentelemetry-php-instrumentation # OpenTelemetry PHP auto-instrumentation extension
+https://github.com/open-telemetry/opentelemetry-ruby-contrib # Contrib Packages for the OpenTelemetry Ruby API and SDK implementation.
+https://github.com/open-telemetry/otel-arrow # Protocol and libraries for sending and receiving OpenTelemetry data using Apache Arrow
+https://github.com/open-telemetry/opentelemetry-php-contrib # opentelemetry-php-contrib
+https://github.com/open-telemetry/weaver # OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions
+https://github.com/open-telemetry/wg-prometheus # Workgroup for building Prometheus-OTLP interoperability for the OTEL Collector and Prometheus related discussions.
+https://github.com/open-telemetry/build-tools # Building tools provided by OpenTelemetry
+https://github.com/open-telemetry/opentelemetry-rust-contrib # OpenTelemetry Contrib Packages for Rust
+https://github.com/open-telemetry/opentelemetry-go-build-tools # Build tools for use by the Go API/SDK, the collector, and their associated contrib repositories
+https://github.com/open-telemetry/opentelemetry-configuration # JSON Schema definitions for OpenTelemetry file configuration
+https://github.com/open-telemetry/opentelemetry-proto-go # Generated code for OpenTelemetry protobuf data model
+https://github.com/open-telemetry/opentelemetry-sqlcommenter # SQLCommenter components for various languages
+https://github.com/open-telemetry/opentelemetry-profiling # OpenTelemetry Profiling (language independent code, benchmarks, experiments, etc)
+https://github.com/open-telemetry/docs-ja #
+https://github.com/open-telemetry/opentelemetry-sandbox-web-js # non-production level experimental Web JS packages
+https://github.com/open-telemetry/semantic-conventions-java # Java generated classes for semantic conventions
+https://github.com/open-telemetry/opentelemetry-proto-java # Java Bindings for the OpenTelemetry Protocol (OTLP)
+https://github.com/open-telemetry/assign-reviewers-action # GitHub action to assign reviewers/approvers/etc based on configuration
+https://github.com/open-telemetry/sig-security #
+https://github.com/open-telemetry/opentelemetry-network-build-tools # eBPF Collector Build Tools
+https://github.com/open-telemetry/sig-end-user #
+https://github.com/open-telemetry/opentelemetry-go-vanityurls # Vanityurls config for go.opentelemetry.io subdomain
+https://github.com/open-telemetry/cpp-build-tools # Builds a docker image to make interacting with C++ projects easier.
+https://github.com/open-telemetry/sig-developer-experience #
 https://github.com/open-telemetry/sig-contributor-experience # TODO
-https://github.com/open-telemetry/stackoverflow2slack # A bot that republishing OTel-
-tagged questions from SO to Slack https://github.com/open-telemetry/gh-manager # This repository is for code to manage
-the OpenTelemetry GitHub Organization https://github.com/open-telemetry/.allstar # Enable and house Allstar policies centra
-lly for the organizatio https://github.com/open-telemetry/.github #
+https://github.com/open-telemetry/stackoverflow2slack # A bot that republishing OTel-tagged questions from SO to Slack
+https://github.com/open-telemetry/gh-manager # This repository is for code to manage the OpenTelemetry GitHub Organization
+https://github.com/open-telemetry/.allstar # Enable and house Allstar policies centrally for the organizatio
+https://github.com/open-telemetry/.github #
 
 https://github.com/aspecto-io/malabi # Tracing Based JavaScript Assertions
-https://github.com/aspecto-io/opentelemetry-ext-js # js extensions for the open-telem
-etry project https://github.com/aspecto-io/genson-js # JSON Schema Generator
+https://github.com/aspecto-io/opentelemetry-ext-js # js extensions for the open-telemetry project
+https://github.com/aspecto-io/genson-js # JSON Schema Generator
 https://github.com/aspecto-io/opentelemetry-bootcamp #
-https://github.com/aspecto-io/sns-sqs-big-payload # Amazon SNS/SQS client library tha
-t enables sending and receiving messages with payload larger than 256KiB via Amazon S3. https://github.com/aspecto-io/opentelemetry-examples #
+https://github.com/aspecto-io/sns-sqs-big-payload # Amazon SNS/SQS client library that enables sending and receiving messages with payload larger than 256KiB via Amazon S3.
+https://github.com/aspecto-io/opentelemetry-examples #
 https://github.com/aspecto-io/helm-charts # aspecto.io public helm charts repository
-https://github.com/aspecto-io/opentelemetry-ext-ruby # ruby extensions for the open-t
-elemetry project https://github.com/aspecto-io/microservices-companies # Curated list of companies usi
-ng microservices https://github.com/aspecto-io/redis-pub-sub-demo #
+https://github.com/aspecto-io/opentelemetry-ext-ruby # ruby extensions for the open-telemetry project
+https://github.com/aspecto-io/microservices-companies # Curated list of companies using microservices
+https://github.com/aspecto-io/redis-pub-sub-demo #
 https://github.com/aspecto-io/aspecto-demo-services #
-https://github.com/aspecto-io/otelij # open telemetry generator (traces, metrics, log
-s) https://github.com/aspecto-io/python-otel-example #
+https://github.com/aspecto-io/otelij # open telemetry generator (traces, metrics, logs)
+https://github.com/aspecto-io/python-otel-example #
 https://github.com/aspecto-io/enable-pr-automerge-action #
-https://github.com/aspecto-io/benchmarks # A repo containing an example project to te
-st Aspecto's benchmarks https://github.com/aspecto-io/otel-cli # cli tools for opentelemetry
+https://github.com/aspecto-io/benchmarks # A repo containing an example project to test Aspecto's benchmarks
+https://github.com/aspecto-io/otel-cli # cli tools for opentelemetry
 https://github.com/aspecto-io/yarn-github-package #
 https://github.com/aspecto-io/airflow-otel-basic-example #
-https://github.com/aspecto-io/malabi-integration-test-example # This project was used
-to record the explanatory video for malabi, feel free to use it. Malabi repository: https://github.com/aspecto-io/malabi https://github.com/aspecto-io/aspecto-celery-sample #
+https://github.com/aspecto-io/malabi-integration-test-example # This project was used to record the explanatory video for malabi, feel free to use it. Malabi repository:
+https://github.com/aspecto-io/malabi
+https://github.com/aspecto-io/aspecto-celery-sample #
 https://github.com/aspecto-io/docs #

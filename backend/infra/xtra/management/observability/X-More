@@ -1,0 +1,541 @@
+Appdynamics
+https://github.com/appdynamics/appdynamics.dexter # Turn your APM data store into a Data Warehouse with advanced reporting, including entities, configuration, metrics, flowmaps, events, snapshots and call graph flame graphs
+https://github.com/appdynamics/api-commandline-tool # AppDynamics Command Line Tool
+https://github.com/appdynamics/demomonkey # Old Repository Of DemoMonkey, follow the link to the new one.
+https://github.com/appdynamics/appdynamics-cookbooks #
+https://github.com/appdynamics/hadoop-monitoring-extension # AppDynamics Apache Hadoop Monitoring Extention
+https://github.com/appdynamics/websphere-mq-monitoring-extension # AppDynamics WebSphere MQ Monitoring Extension
+https://github.com/appdynamics/apm-game # Let the APM games begin! Can your players find your nasty performance issues?
+https://github.com/appdynamics/config-assessment-tool # This project aims to provide a single source of truth for performing AppDynamics Health Checks.
+https://github.com/appdynamics/rabbitmq-monitoring-extension # AppDynamics RabbitMQ Monitoring Extension
+https://github.com/appdynamics/redis-monitoring-extension # Redis Monitoring Extension for AppDynamics
+https://github.com/appdynamics/ha-toolkit # AppDynamics Controller High Availability Toolkit
+https://github.com/appdynamics/python-demo-app # Python Demo App
+https://github.com/appdynamics/cwom-action-integration #
+https://github.com/appdynamics/zookeeper-monitoring-extension # Zookeeper Monitoring Extension for AppDynamics
+https://github.com/appdynamics/devnet-labs # Series of AppDynamics learning labs on DevNet
+https://github.com/appdynamics/nginx-monitoring-extension # AppDynamics Nginx Monitoring Extension
+https://github.com/appdynamics/apache-monitoring-extension # AppDynamics Apache Monitoring Extension
+https://github.com/appdynamics/kafka-monitoring-extension # AppDynamics Monitoring Extension for use with Kafka
+https://github.com/appdynamics/net-se-lab # .NET lab designed for AppDynamics sales engineers to educate themselves how to monitor .NET applications using AppDynamics .NET agent
+https://github.com/appdynamics/kubernetes-events-extension # AppDynamics Kubernetes Events Monitor Extension
+https://github.com/appdynamics/linux-monitoring-extension # Linux System Monitoring Extension
+https://github.com/appdynamics/ad-capital # Demo Application for AppDynamics Transaction Analytics
+https://github.com/appdynamics/node.js-demo-app # Acme Wine Cellar - Node.js Demo
+https://github.com/appdynamics/oracle-monitoring-extension # AppDynamics Oracle Monitoring Extension
+https://github.com/appdynamics/iot-java-sdk # Appdynamics IoT Java SDK to monitor performance of embedded applications on connected devices
+https://github.com/appdynamics/se-lab-sap #
+https://github.com/appdynamics/process-monitoring-extension # AppDynamics Process Monitoring Extension
+https://github.com/appdynamics/docker-machine-agent # Example project to deploy Standalone Machine Agent with Docker Monitoring
+https://github.com/appdynamics/prometheus-extension # AppDynamics integration with Prometheus (including support for Amazon Managed Service for Prometheus (AMP))
+https://github.com/appdynamics/appdgosimpletest # A very simple Go App Demonstrating AppDynamics Go SDK and a Docker container to run it.
+https://github.com/appdynamics/apache-spark-monitoring-extension # AppDynamics Machine Agent Extension for use with Apache Spark
+https://github.com/appdynamics/openshift-agents-daemonset #
+https://github.com/appdynamics/net-enablement-lab #
+https://github.com/appdynamics/nodetime-demo # Nodetime Demo Application
+https://github.com/appdynamics/ansible-php # Helper library for Ansible modules written in PHP
+https://github.com/appdynamics/appdynamics_flutter_agent # Flutter plugin to integrate AppDynamics Mobile Real User Monitoring with your app.
+https://github.com/appdynamics/couchbase-monitoring-extension # CouchBase Monitoring Extension for AppDynamics
+https://github.com/appdynamics/mark-nodes-historical # Mark AppDynamics Nodes Historical - With Kubernetes
+https://github.com/appdynamics/iot-cpp-sdk # Appdynamics IoT C++ SDK to monitor performance of embedded applications on connected devices
+https://github.com/appdynamics/extensions-docker #
+https://github.com/appdynamics/url-monitoring-extension # An AppDynamics extension to monitor site urls
+https://github.com/appdynamics/appd_aws_observability_lab # Artifacts for Advanced Observability with AppDynamics Workshop on awsworkshop.io
+https://github.com/appdynamics/docker-monitoring-extension # Docker Monitoring Extension
+https://github.com/appdynamics/iot-rest-api-sample-apps # Sample Applications using AppDynamics IoT REST API
+https://github.com/appdynamics/f5-monitoring-extension # AppDynamics F5 Monitoring Extension
+https://github.com/appdynamics/log-monitoring-extension #
+https://github.com/appdynamics/controllertools # random tools to diagnose and manipulate appdynamics controllers
+https://github.com/appdynamics/c_sdktest # A simple C Language based test of the AppDynamics C/C++ SDK, to verify that the most basic features of the SDK are in place and functional. It will connect to a Controller, run a fixed number of BTs, then end.
+https://github.com/appdynamics/ssl-certificate-monitoring-extension # This extension monitors the SSL certificates for configurable domains.
+https://github.com/appdynamics/python-webappman # For management of Drupal and WordPress sites with Python.
+https://github.com/appdynamics/network-monitoring-extension # Network Monitoring Extension
+https://github.com/appdynamics/django-base-project # This is a base django project that comes with everything you need to get started on fun, innovative stuff.
+https://github.com/appdynamics/postgresql-monitoring-extension # AppDynamics Postgresql Monitoring Extension
+https://github.com/appdynamics/openshift-appdynamics-jboss-cartridge # Red Hat Openshift cartridge for Java AppServers
+https://github.com/appdynamics/appdynamics-agent-downloader # Programmatically download AppDynamics agent
+https://github.com/appdynamics/nagios-monitoring-extension # AppDynamics Nagios Monitoring Extension
+https://github.com/appdynamics/machine-agent-http-listener # Example using Machine Agent HTTP listener to post custom metrics to a controller using bash and Python scripts.
+https://github.com/appdynamics/haproxy-monitoring-extension # AppDynamics HAProxy Monitoring Extension
+https://github.com/appdynamics/activemq-monitoring-extension # AppDynamics ActiveMQ Monitoring Extension
+https://github.com/appdynamics/ca-siteminder-monitoring-extension # An AppDynamics monitoring extension for CA's SiteMinder product.
+https://github.com/appdynamics/metricmover #
+https://github.com/appdynamics/apigee-monitoring-extension # Apigee Monitoring Extension
+https://github.com/appdynamics/muleesb-monitoring-extension # Mule ESB Monitoring Extension
+https://github.com/appdynamics/appd-aws-appregistry # Sample prototype of AppDynamics integration with AWS AppRegistry
+https://github.com/appdynamics/elasticsearch-monitoring-extension # AppDynamics Monitoring Extension for use with Elasticsearch
+https://github.com/appdynamics/php-demo # Demo application showing AppDynamics Agents for Dynamic Languages
+https://github.com/appdynamics/c_sdk_example # A simple sample C program using the C/C++ SDK
+https://github.com/appdynamics/nodetrace # API-level DTrace provider for Node.js
+https://github.com/appdynamics/mysql-monitoring-extension # AppDynamics MySQL Monitoring Extension
+https://github.com/appdynamics/vmware-vsphere-monitoring-extension # AppDynamics Vmware Vsphere Monitoring Extension
+https://github.com/appdynamics/universalagentguimanager # Managing Platform for the AppDynamics Universal Agent
+https://github.com/appdynamics/lambda-instrumentation-example # Example AWS Lambda instrumentation project
+https://github.com/appdynamics/agent-control-center # The purpose of this utility is a web interface extension of AppDynamics for viewing agents status in Appdynamics, with the ability to check their health history and perform the agent version upgrade.
+https://github.com/appdynamics/xml-normalize # a simple tool to normalize xml files to allow textual comparison
+https://github.com/appdynamics/android-places-maven # Android demo with Google Geocoding, Elevation and Civic Information API (Maven)
+https://github.com/appdynamics/appscore #
+https://github.com/appdynamics/self-installing-script # This is a self installing script to facilitate installation of agents. Just run the script and it will generate the corresponding directories with the right permissions.
+https://github.com/appdynamics/appdynamics-ot-collector # AppDynamics OpenTelemetry Collector
+https://github.com/appdynamics/se-cert-brum-l1-lab1 # Application to support a hands-on lab for Browser RUM. This "app" is 1 very basic, HTML page.
+https://github.com/appdynamics/dotnetagentextensionmanager # AppDynamics .Net Agent Extension Manager works with .NET agent and report custom events or metrics to AppDynamics controller.
+https://github.com/appdynamics/datapower-monitoring-extension #
+https://github.com/appdynamics/appd-azure-workshop #
+https://github.com/appdynamics/events_service_custom_schema # Example Python script running as a Synthetic Job that tests URL endpoints reporting metrics to the Events Store
+https://github.com/appdynamics/vertx-financial-demo # Vert.x-based financial demo app
+https://github.com/appdynamics/se-cert-brum-l1-lab2 # Application to support a hands-on lab for Browser RUM. This Spring Boot app mimics an online banking app and has several pages. Each page has a unique problem and/or special consideration for BRUM.
+https://github.com/appdynamics/ad-capital-openshift # Openshift repo for AD-Capital
+https://github.com/appdynamics/redis-enterprise-monitoring-extension # redis-enterprise-monitoring-extension
+https://github.com/appdynamics/aws-lambda-monitoring-extension # AWS Lambda Monitoring Extension
+https://github.com/appdynamics/command-watcher-extension #
+https://github.com/appdynamics/sqlmonitor # SQL-monitoring-extension is a monitor which puts arbitrary queries against a SQL database as metrics
+https://github.com/appdynamics/jmx-monitoring-extension #
+https://github.com/appdynamics/install_configure # Scripts to install and configure the Enterprise Console, Controller, Events Service
+https://github.com/appdynamics/dropwizard-sample-app # DropWizard Sample App
+https://github.com/appdynamics/appd-integration-examples # Integration examples for AppDynamics and Slack
+https://github.com/appdynamics/statsd-backend # AppDynamics StatsD Backend, enables StatsD metrics to be pushed to a Machine Agent
+https://github.com/appdynamics/arbitrary-sql-monitoring-extension # AppDynamics machine agent extension to run a SQL query and import the results as new custom metrics
+https://github.com/appdynamics/fastapi-example # How to add AppDynamics Instrumentation for FastAPI Python Apps
+https://github.com/appdynamics/azure-servicebus-monitoring-extension # Azure Service Bus Monitoring Extension
+https://github.com/appdynamics/crmonline-demo # Demo app for Business Activity Monitoring use cases with Docker support
+https://github.com/appdynamics/dynatracesyntheticconverter # Automation the creation of AppDynamics synthetic scripts from Dynatrace JSON schema.
+https://github.com/appdynamics/mezzanine-smartling #
+https://github.com/appdynamics/appd-cloud9-lambda-lab # AppDynamics AWS Lambda Mini Lab - Create a Cloud 9 IDE and Deploy A Lambda Function
+https://github.com/appdynamics/autobuilder # Extensions AutoBuilder
+https://github.com/appdynamics/azure-monitoring-extension-archived #
+https://github.com/appdynamics/pyappd # Python API for AppDynamics REST API
+https://github.com/appdynamics/aws-billing-monitoring-extension # AWS Billing Monitoring Extension
+https://github.com/appdynamics/custom_argparse # Python module containing subclass of argparse.ArgumentParser to allow explicit formatting of description and usage output.
+https://github.com/appdynamics/vcloud-director-connector-extension # AppDynamics vCloudDirector Connector Extension
+https://github.com/appdynamics/maven-repo #
+https://github.com/appdynamics/file-monitoring-extension #
+https://github.com/appdynamics/selenium-docker # Repo to house Selenium Code and Docker builds
+https://github.com/appdynamics/python-osext # Extension to os module
+https://github.com/appdynamics/appd-statsd-backend # AppDynamics StatsD Backend, enables StatsD metrics to be pushed to a Machine Agent
+https://github.com/appdynamics/logstash-alert-extension # Logstash Alerting Extension
+https://github.com/appdynamics/iot-cpp-sample-app # Sample Application using the AppDynamics IoT C/C++ SDK
+https://github.com/appdynamics/dexter-ui #
+https://github.com/appdynamics/javaee-api # Java EE API Sources version 7.0
+https://github.com/appdynamics/f5-irule-builder # Automate building of F5 iRule for AppDynamics EUM
+https://github.com/appdynamics/business-monitoring-extension #
+https://github.com/appdynamics/nodejsdemodocker # Repo for NodeJS Demo app using Docker
+https://github.com/appdynamics/appd-extensions-repo # This repo will contain all the extensions that are published on AppSphere.
+https://github.com/appdynamics/se-lab-sim #
+https://github.com/appdynamics/aws_tools # Tools for AppDynamics and AWS deployments
+https://github.com/appdynamics/appd-synthetics-examples # AppDynamics Synthetics Example Scripts - Python, Selenium
+https://github.com/appdynamics/field-lab-correlation # Lab exercise for custom correlation.
+https://github.com/appdynamics/cacti-monitoring-extension # Cacti Monitoring Extension
+https://github.com/appdynamics/aws-api-gateway-monitoring-extension # AWS Gateway API Extension
+https://github.com/appdynamics/dotnet-remote-management-powershell-extension # Appdynamics .Net agent remote management powershell extension
+https://github.com/appdynamics/analyticsevents-csharp-example #
+https://github.com/appdynamics/aws-sqs-monitoring-extension # AWS SQS Monitoring Extension
+https://github.com/appdynamics/cloudfoundry-firehose-monitoring-extension # CloudFoundry Firehose Extension ( Not published )
+https://github.com/appdynamics/appd_aws_lambda_lab # Artifacts for AWS + AppD Lambda Monitoring Lab on awsworkshop.io
+https://github.com/appdynamics/verizon-cloud-connector-extension # Verizon Cloud Connector Extension
+https://github.com/appdynamics/ucs-monitoring-extension-ps1 #
+https://github.com/appdynamics/synthetic-jobs #
+https://github.com/appdynamics/sample-android-application # Sample Android application using Kotlin
+https://github.com/appdynamics/config-exporter-json-test # Config Exporter JSON test payload scripts.
+https://github.com/appdynamics/websphere-message-broker-extension #
+https://github.com/appdynamics/bppm-alerting-extension # AppDynamics BPPM (BMC ProactiveNet Performance Management) Alerting Extension
+https://github.com/appdynamics/cloud-foundry-extension # Cloud Foundry Pivotal Extension
+https://github.com/appdynamics/azure-connector-extension # AppDynamics Windows Azure Connector Extension
+https://github.com/appdynamics/aws-dynamodb-monitoring-extension # AWS DynamoDB Monitoring Extension
+https://github.com/appdynamics/hanadb-monitoring-extension #
+https://github.com/appdynamics/nodesreporting # Saas and On prem Nodes Reporting Tool - Application/Server Level
+https://github.com/appdynamics/aws-connector-extension # AppDynamics Amazon Web Services Elastic Compute Cloud (EC2) Connector Extension
+https://github.com/appdynamics/python-httpext # Small HTTP extension
+https://github.com/appdynamics/offline_nodejs-buildpack #
+https://github.com/appdynamics/healthrules_queries # Fetches, Loads, rewrites AppDynamics Health Rules and Analytics Search Queries from a rules file
+https://github.com/appdynamics/updatepackage # Update controller-info.xml files and analytics-agent.properties files for AppDynamics agents using inputs from UpdatePackage.properties text file.
+https://github.com/appdynamics/static-monitoring-extension # AppDynamics Static Monitoring Extension
+https://github.com/appdynamics/pdns-api-scripts # A collection of shell scripts for manipulating records in PowerDNS via its REST API.
+https://github.com/appdynamics/appdynamics-cf-buildpack # AppDynamics CloudFoundry BuildPack
+https://github.com/appdynamics/dynamic-agent-ma #
+https://github.com/appdynamics/synthetics_events_service # Example Python script running as a Synthetic Job that tests URL endpoints reporting metrics to the Events Store
+https://github.com/appdynamics/appstream-analytics-lambda-functions #
+https://github.com/appdynamics/extensions-resources #
+https://github.com/appdynamics/php-demo-app # Acme Wine Cellar - PHP Demo
+https://github.com/appdynamics/aws-elasticbeanstalk # AppDynamics Agent Deployment on AWS Elastic Beanstalk
+https://github.com/appdynamics/appd-cluster-agent-microk8s # AppDynamics Cluster Agent Lab for MicroK8s Kubernetes
+https://github.com/appdynamics/appd-cloud-platform # DevOps project to help automate the deployment of an HA configuration of the AppDynamics Platform in the cloud.
+https://github.com/appdynamics/tibco-ems-monitoring-extension # Tibco EMS Monitoring Extension
+https://github.com/appdynamics/appd-spreeapp #
+https://github.com/appdynamics/nodetime-openshift-quickstart # Nodetime Quickstart for OpenShift
+https://github.com/appdynamics/ad-capital-load # Load generator for AD-Capital demo application
+https://github.com/appdynamics/appd-nodejs-app1 # Simple containerized nodejs Application to demonstrate instrumentation.
+https://github.com/appdynamics/samplecppechoserver # Sample echo server for instrumentation with C++ SDK
+https://github.com/appdynamics/tibcobwprocessmonitor # Tibco BW Process monitoring extension
+https://github.com/appdynamics/oss # Third Party Open Source Software
+https://github.com/appdynamics/aws-s3-monitoring-extension # AWS S3 Monitoring Extension
+https://github.com/appdynamics/appd-cert-monitor #
+https://github.com/appdynamics/elasticsearch-query-monitoring-extension #
+https://github.com/appdynamics/windowseventmonitorextension # This extension is used for monitoring windows events.
+https://github.com/appdynamics/aws-cloudwatch-exts-commons # Common library used by individual namespace cloudwatch monitoring extension
+https://github.com/appdynamics/scopingapp # POV Scoping App
+https://github.com/appdynamics/metric-loader #
+https://github.com/appdynamics/test-app #
+https://github.com/appdynamics/biq-journeys-slas # Java extension to monitor Business Journeys and SLAs
+https://github.com/appdynamics/useraudit #
+https://github.com/appdynamics/eventsservicestatus # Extension for self monitoring that brings cluster status to the controller
+https://github.com/appdynamics/appd-machine-agent-http-listener # Example using Machine Agent HTTP listener to post custom metrics to a controller using bash and Python scripts.
+https://github.com/appdynamics/findbugs # Google Findbugs
+https://github.com/appdynamics/appd-user-monitor # AppDynamics Extension that can return whether or not a user is logged in to a given machine.
+https://github.com/appdynamics/extension-starter #
+https://github.com/appdynamics/log-monitoring-extension-2 #
+https://github.com/appdynamics/docker-jenkins-cddemo # continuous delivery with jenkins docker and source code on github
+https://github.com/appdynamics/pcf-servicebroker # Service Broker Tile with AppDynamics machine agent for Pivotal Cloud Foundry
+https://github.com/appdynamics/jekyll-rtd-theme # Just another documentation theme compatible with GitHub Pages, based on sphinx_rtd_theme
+https://github.com/appdynamics/ansible-wordpress # Ansible module for managing WordPress sites.
+https://github.com/appdynamics/net-azure-intro-lab #
+https://github.com/appdynamics/netscaler-monitoring-extension # AppDynamics monitoring extension for Citrix Netscaler
+https://github.com/appdynamics/testrepo-for-bb-migration # Test repository for BB migration
+https://github.com/appdynamics/appdextensionschedulemanager #
+https://github.com/appdynamics/c3p0-monitoring-extension #
+https://github.com/appdynamics/docker-rwd-python # Docker container for Python RWD clients
+https://github.com/appdynamics/openstack-connector-extension # AppDynamics OpenStack Connector Extension
+https://github.com/appdynamics/application-importer # Simple Bash script to import an application using a template
+https://github.com/appdynamics/docs-appdynamics # Documentaiton for AppDynamics APM Tile
+https://github.com/appdynamics/windowsprocessmonitorextension #
+https://github.com/appdynamics/ossrh_tool # A tool to publish maven packages to maven central
+https://github.com/appdynamics/extensions-library #
+https://github.com/appdynamics/metric_saturation_test # A test built for Rob Navaro to produce a variable number of custom metrics from within a program via the C/C++ SDK.
+https://github.com/appdynamics/samplecppapp # A sample dockerized C++ application with an upstream and downstream
+https://github.com/appdynamics/aws-ec2-monitoring-extension #
+https://github.com/appdynamics/aws-rds-monitoring-extension # AWS RDS Monitoring Extension
+https://github.com/appdynamics/docker-dbwrapper # Repo for database query wrapper (RESTful APIs)
+https://github.com/appdynamics/rackspace-connector-extension # AppDynamics RackSpace First-Gen Cloud Connector Extension
+https://github.com/appdynamics/pdns-sqlite-helpers # A collection of shell scripts for configuring PowerDNS with an SQLite backend on Mac OS X
+https://github.com/appdynamics/acap-sdk # SDK for Custom App Program Components
+https://github.com/appdynamics/health_rule_generator #
+https://github.com/appdynamics/appd_fso_program_hub #
+https://github.com/appdynamics/windowsevents-monitoring-extension-for-ma # Machine agent extension to monitor and report on Windows Events
+https://github.com/appdynamics/ace_dynamicservicetest #
+https://github.com/appdynamics/aws-customnamespace-monitoring-extension # AWS Custom Namespace Monitoring Extension
+https://github.com/appdynamics/python-langutil # For generation of code in other languages from Python variables
+https://github.com/appdynamics/twitter-alerting-extension # Alerting Extension for Twitter
+https://github.com/appdynamics/analytics-simulator # Analytics Simulator for custom Analytics demos
+https://github.com/appdynamics/custom-action-scripts # Contains the script to parse the custom action arguments.
+https://github.com/appdynamics/qos-ch-logback # The reliable, generic, fast and flexible logging framework for Java.
+https://github.com/appdynamics/eclipse-ee4j-beanvalidation-api # Bean Validation API
+https://github.com/appdynamics/rackspace-monitoring-extension # AppDynamics Rackspace Monitoring Extension
+https://github.com/appdynamics/vsphere-connector-extension # AppDynamics vSphere Connector Extension
+https://github.com/appdynamics/cer-se-iot-lab #
+https://github.com/appdynamics/maextensionframework #
+https://github.com/appdynamics/custom_time_range # Posts a Custom Time Range to the AppDynamics Controller
+https://github.com/appdynamics/pagerduty-saas-alert-extension #
+https://github.com/appdynamics/spring-music # CF sample app for deploying Java Applications on CF
+https://github.com/appdynamics/devnet-minihack # Sample application for DevNet Mini Hack
+https://github.com/appdynamics/informatica-powercenter-monitoring-extension # AppDynamics Extension for use with Informatica Powercenter
+https://github.com/appdynamics/kappdrest # Kotlin Based API Wrapper
+https://github.com/appdynamics/jax-rs-api # Jaxrs
+https://github.com/appdynamics/povplaybook2-chapter1 # POV Playbook 2 - Chapter 1 (Containerized Microservices / Kubernetes)
+https://github.com/appdynamics/c-cpp-sdk #
+https://github.com/appdynamics/pythondemodocker # Repo for Python Demo app using Docker
+https://github.com/appdynamics/splunkbaseapp #
+https://github.com/appdynamics/joyent-monitoring-extension # Joyent Monitoring Extension
+https://github.com/appdynamics/appdynamics-universal-agent-rest-client # The AppDynamics Universal Agent REST Client is an automation tool for executing different workflows
+https://github.com/appdynamics/user-account-manager # Bash script for user account management
+https://github.com/appdynamics/configmyapp-docs # ucs-monitoring-extension-docs
+https://github.com/appdynamics/cloudstack-connector-extension # AppDynamics CloudStack Connector Extension
+https://github.com/appdynamics/kitchensink # Sample App for Openshift v3
+https://github.com/appdynamics/pcf-multitier-php # Sample multitier PHP application used for PCF/PWS platform
+https://github.com/appdynamics/find-agents-dropping-metrics # Shell script that searches currently-open Java agent log files for 'WARN MetricHandler - Metric Reporter Queue full. Dropping metrics' and reports on the offending processes.
+https://github.com/appdynamics/appd-threading # Provides a Tomcat Servlet and a Python load generator to test sessions and threads
+https://github.com/appdynamics/queryexecutorclient # Client to the docker-dbwrapper.
+https://github.com/appdynamics/boundary-monitoring-extension #
+https://github.com/appdynamics/android-places-gradle # Android demo with Google Geocoding, Elevation and Civic Information API (Gradle)
+https://github.com/appdynamics/testprojectravi #
+https://github.com/appdynamics/appdynamics-firehose-nozzle #
+https://github.com/appdynamics/store #
+https://github.com/appdynamics/aws-elasticsearch-monitoring-extension #
+https://github.com/appdynamics/cluster-agent-microk8s # This lab provides the steps and automation to deploy the AppDynamics Cluster Agent into a MicroK8s cluster in minutes
+https://github.com/appdynamics/test-pr-release # testing repo
+https://github.com/appdynamics/boundary-alerting-extension # AppDynamics Boundary Alerting Extension
+https://github.com/appdynamics/self-service-sample-apps # Repository for self-service sample apps.
+https://github.com/appdynamics/openshift-tomcat7 # s2i scripts for creating builder images with tomcat7 and appdynamics
+https://github.com/appdynamics/appdbirtreport # Tools to enable BIRT reporting of AppDynamics data,
+https://github.com/appdynamics/tibcohawk-monitoring-extension # Tibco HAWK monitoring extension
+https://github.com/appdynamics/controller_access # Scripts for updating controller access key and global account name
+https://github.com/appdynamics/iotdesktopmonitor #
+https://github.com/appdynamics/numberguess # Android-based game to guess a number between 1 and 20
+https://github.com/appdynamics/appd-virtual-appliance # AppDynamics Virtual Appliance Deployment Utils
+https://github.com/appdynamics/cloudintegrationsamplemultitierapp # Sample Java RESTful application with PHP client.
+https://github.com/appdynamics/openshift-source2image-scripts #
+https://github.com/appdynamics/uwsgi-stat-server-extension # This AppDynamics extension pulls statistics related to uWSGI processes.
+https://github.com/appdynamics/ces-dynalang-docker # Docker test containers from the dynalang ces team
+https://github.com/appdynamics/dynamic-agent-k8 #
+https://github.com/appdynamics/pcf-broker-upgrade # Tool for Upgrading from 1.x to 4.x AppDynamics Service Broker for PCF
+https://github.com/appdynamics/controller_service # AppDynamics controller start, stop scripts for Controller, Events-Server and E-Console, systemd based
+https://github.com/appdynamics/iot-node-wrapper-for-lambda # A nodejs wrapper of the IOTAgent to get Lambda Timing data.
+https://github.com/appdynamics/list-nodes # List nodes in CSV format, grouped by App, Tier
+https://github.com/appdynamics/c-test-app1 #
+https://github.com/appdynamics/random # Test
+https://github.com/appdynamics/splunk-monitoring-extension #
+https://github.com/appdynamics/wpt-rwd-python # RWD python client for Webpagetest
+https://github.com/appdynamics/gce-connector-extension # AppDynamics Google Compute Engine Connector extension
+https://github.com/appdynamics/pcf-appdynamics-platform-docs # Documentation for Appdynamics PCF Tile for Platform Monitoring
+https://github.com/appdynamics/nginxproxy # Example Nginx Reverse Proxy configuration in a Docker container
+https://github.com/appdynamics/delete_install_configure #
+https://github.com/appdynamics/eumstatus # Simples script to monitor the EUM Endpoints
+https://github.com/appdynamics/pcf-labs #
+https://github.com/appdynamics/cloud-connection-templates # Create AWS resources for cloud connection using CloudFormation from mock UI;
+https://github.com/appdynamics/endeca-mdex-monitoring-extension #
+https://github.com/appdynamics/focus #
+https://github.com/appdynamics/configs # A place to save various configurations, zsh, bash, IDE configs, etc.
+https://github.com/appdynamics/keynote-monitoring-extension #
+https://github.com/appdynamics/openshift-tomcat8 # s2i scripts for creating builder images with tomcat8 and appdynamics
+https://github.com/appdynamics/analytics-data-convertor #
+https://github.com/appdynamics/biziq-chunkedqueries # Script for querying large sets of BizIQ Data
+https://github.com/appdynamics/rss-feed-monitoring-extension # AppDynamics RSS/Atom Feed monitoring extension
+https://github.com/appdynamics/gcp-marketplace #
+https://github.com/appdynamics/appd-cassandra-db # Configure a 2 node Cassandra cluster using Docker
+https://github.com/appdynamics/fmb # Cisco AppDynamics Front-Middle-Back (FMB) Kubernetes (K8S) Lab Suite
+https://github.com/appdynamics/latest-cf-appd-buildpack #
+https://github.com/appdynamics/appd-hub-template-confluence # This repository is meant to give championed customers a confluence template that can be utilized for a landing page for internal user-base. All AppD, All in One Place.
+https://github.com/appdynamics/shld # Shell Script Linking Utility
+https://github.com/appdynamics/opsgenie-alerting-extension #
+https://github.com/appdynamics/docker-services # Repo for Docker Services (Load generator Applications)
+https://github.com/appdynamics/terremark-connector-extension # AppDynamics Terremark Connector Extension
+https://github.com/appdynamics/python-sysext # Extremely preliminary sys extension
+https://github.com/appdynamics/applicationdeleter # Tool that deletes applications as a batch using the REST API
+
+Appsignal
+https://github.com/appsignal/appsignal-elixir # 🟪 AppSignal for Elixir package
+https://github.com/appsignal/appsignal-ruby # 🟥 AppSignal for Ruby gem
+https://github.com/appsignal/mongo-rust-driver # Mongo Rust driver built on top of the Mongo C driver
+https://github.com/appsignal/appsignal-nodejs # 🟩 AppSignal for Node.js
+https://github.com/appsignal/sql_lexer # Rust library to lex and sanitize SQL
+https://github.com/appsignal/appsignal-javascript # 🟨 AppSignal for JavaScript
+https://github.com/appsignal/appsignal-elixir-phoenix #
+https://github.com/appsignal/probes-rs # Rust library to read out system stats from a machine running Unix
+https://github.com/appsignal/mono # Multi language tool for managing single and mono repository packages
+https://github.com/appsignal/actions-runner # Our GitHub Actions runner (Runs our tests in a Firecracker VM)
+https://github.com/appsignal/appsignal-python # 🟦 AppSignal for Python package
+https://github.com/appsignal/processmon # Process monitor that can run trigger scripts and subsequently restarts the process when files on specified paths are modified.
+https://github.com/appsignal/kafka-talk-demo # Demo to go with the talk "Processing streaming data at a large scale with kafka"
+https://github.com/appsignal/c_from_ruby_example # Example to go with the Ruby Magic blog post.
+https://github.com/appsignal/statsd_parser # (Dog)StatsD parser written in Rust
+https://github.com/appsignal/appsignal-elixir-plug #
+https://github.com/appsignal/test-setups # AppSignal test setups
+https://github.com/appsignal/frontend-test-setups # This repository contains a set of frontend apps to test with.
+https://github.com/appsignal/appsignal-station #
+https://github.com/appsignal/appsignal-hiring # A repository containing a Next.JS app with a component skeleton we'd like candiates to complete.
+https://github.com/appsignal/mio-worker # Simple worker running on top of Mio that can handle messages, timeouts and IO.
+https://github.com/appsignal/appsignal-status # Public status page
+https://github.com/appsignal/opentelemetry-instrumentation-bullmq # OTel Auto-instrumentation for BullMQ
+https://github.com/appsignal/appsignal-kafka-statsd-interceptor #
+https://github.com/appsignal/public_config # Configuration for some of AppSignal automagical features. Work In Progress!
+https://github.com/appsignal/diagnose_tests #
+https://github.com/appsignal/design-language # Shared front-end assets between docs, blog and our public website.
+https://github.com/appsignal/metrics_to_csv #
+https://github.com/appsignal/kubetest #
+https://github.com/appsignal/integrations-shared #
+https://github.com/appsignal/logging-test-setups # Test setups for logging
+https://github.com/appsignal/appsignal-logbook-task # Interview task revolving around building a logbook screen
+https://github.com/appsignal/appsignal-rails-example #
+https://github.com/appsignal/appsignal-kubernetes #
+
+Chronosphere
+https://github.com/chronosphereio/calyptia-go-bubble-table # TUI table component for Bubbletea.
+https://github.com/chronosphereio/calyptia-vivo # Calyptia Vivo, live viewer for Fluent Bit data streams
+https://github.com/chronosphereio/calyptia-go-fluentbit-config # golang parser for fluentbit configuration
+https://github.com/chronosphereio/calyptia-cli # Calyptia Cloud CLI
+https://github.com/chronosphereio/calyptia-plugin # A Golang Package to build fluent-bit input plugins
+https://github.com/chronosphereio/calyptia-fluent-bit-devtools # Helper scripts to deploy the various end points we want to develop or debug locally.
+https://github.com/chronosphereio/calyptia-charts # Calyptia Helm Charts
+https://github.com/chronosphereio/calyptia-cmetrics-go # cmetrics bindings for go
+https://github.com/chronosphereio/calyptia-core-product-release # A public repository handling the integrated release of the various components making up a Calyptia Core product version.
+https://github.com/chronosphereio/calyptia-fluent-bit-config-parser # 🐦 ⚙️ 🦫 for JS/TS
+https://github.com/chronosphereio/calyptia-api # OpenAPI spec, types and client for the API to Calyptia Cloud.
+https://github.com/chronosphereio/calyptia-core-index # A public repository to keep the indexes of container and public cloud provider images.
+https://github.com/chronosphereio/chronoctl-core #
+https://github.com/chronosphereio/calyptia-fluent-bit-lua-samples # Calyptia provided examples of using LUA on fluent-bit
+https://github.com/chronosphereio/calyptia-openshift-fluent-bit-examples # Examples for Openshift
+https://github.com/chronosphereio/calyptia-donotshout # Chaotic DNS Server.
+https://github.com/chronosphereio/calyptia-terraform-aws-eks-calyptia-core # Terraform modules for configuring and deploying Calyptia Core and EKS cluster
+https://github.com/chronosphereio/calyptia-lts-notifications # A public repository to watch for release or other notifications of Calyptia Fluent Bit LTS. No binaries provided, just notifications.
+https://github.com/chronosphereio/calyptia-go-s3-client # Golang common library for s3
+https://github.com/chronosphereio/calyptia-https-benchmark-server # Simple HTTPs Server for Benchmarking
+https://github.com/chronosphereio/calyptia-chunk-inspector # This is a basic tool to handle Fluent Bit's flb (chunk) files.
+https://github.com/chronosphereio/terraform-plugin-sdk # Fork of hashicorp/terraform-plugin-sdk with bugfixes
+https://github.com/chronosphereio/calyptia-homebrew-tap # Homebrew Tap formulae for calyptia/cli.
+https://github.com/chronosphereio/otel-workshop #
+https://github.com/chronosphereio/calyptia-go-fluent-bit-metrics # Golang client for Fluent Bit monitoring HTTP API
+https://github.com/chronosphereio/calyptia-bats # All common Calyptia BATS framework and setup tooling. Intended to simplify and enable reuse of testing by handling all the framework set up, tests themselves are in the product repo.
+https://github.com/chronosphereio/calyptia-core-operator-releases # A public repository to release the artefacts generated by the core-operator (manifests, installer, etc).
+https://github.com/chronosphereio/calyptia-fluent-plugin-in-http-splunk-hec # Fluentd input plugin to do mimicking Splunk HTTP HEC endpoint
+https://github.com/chronosphereio/calyptia-cmetrics-ruby # A Ruby Binding for CMetrics https://github.com/calyptia/cmetrics
+https://github.com/chronosphereio/chronosphere-operator #
+https://github.com/chronosphereio/calyptia-fluent-plugin-metrics-cmetrics # CMetrics context using metrics plugin for Fluentd.
+https://github.com/chronosphereio/calyptia-nginx-ingress-logs #
+https://github.com/chronosphereio/calyptia-go-repo-template # Repository template for Golang projects.
+https://github.com/chronosphereio/calyptia-fluent-plugin-cmetrics # Fluentd plugin for cmetrics format handling.
+https://github.com/chronosphereio/calyptia-sandbox # Calyptia LUA sandbox support
+https://github.com/chronosphereio/calyptia-go-lua-sandbox-client # Golang bindings to interact with the lua sandbox.
+https://github.com/chronosphereio/pulumi-chronosphere # Chronosphere Pulumi Provider
+https://github.com/chronosphereio/calyptia-actuated-test # Repo to test out actuated runners.
+https://github.com/chronosphereio/terraform-provider-chronosphere # Chronosphere Terraform provider
+https://github.com/chronosphereio/processing-templates # a library of processing templates for quickly getting started
+
+Logz
+https://github.com/logzio/sawmill # Sawmill is a JSON transformation Java library
+https://github.com/logzio/jmx2graphite # JMX to Graphite every x seconds in one command line (Docker based) (also come in Java Agent flavour)
+https://github.com/logzio/guice-jersey # Guice module for starting Jetty based rest server with Jersey
+https://github.com/logzio/logzio-nodejs # NodeJS logger for LogzIO
+https://github.com/logzio/logzio-python-handler # Python logging handler that sends your logs to Logz.io using the https bulk input
+https://github.com/logzio/logzio_aws_serverless # AWS Lambda function that ships Cloudwatch Logs to logz.io
+https://github.com/logzio/logzio-k8s #
+https://github.com/logzio/logzio-logback-appender # Logback Appender that ships logs using HTTPs bulk
+https://github.com/logzio/logzio-helm # Helm charts for shipping logs, metrics & traces to logz.io.
+https://github.com/logzio/logzio-dotnet # Logz.io shippers for .NET frameworks, currently including log4net and NLog.
+https://github.com/logzio/terraform-provider-logzio # Terraform provider for logz.io alerts, endpoints and users
+https://github.com/logzio/winston-logzio # a winston transport wrapper for logzio
+https://github.com/logzio/logz-docs # Logz.io user documentation
+https://github.com/logzio/docker-collector-logs #
+https://github.com/logzio/logzio-rsyslog # Shipping logs to logz.io
+https://github.com/logzio/use-debounce # A react hook for using a debouncing an input with state variables In react.
+https://github.com/logzio/logzio-java-sender # Java library to send structured logs (JSONs) to Logz.io via HTTPS. This the core component of Logzio Appenders in the different logging frameworks (log4j, log4j2, Logback) which can also be used on its own
+https://github.com/logzio/logzio-azure-serverless # Azure function that ships Logs to logz.io
+https://github.com/logzio/logzio-log4j2-appender # Log4j2 Appender that ships logs using HTTPs bulk
+https://github.com/logzio/aws-cost-and-usage # Auto deployment of Logz.io AWS Cost and Usage (Python 3.8). Ships cost and usage reports to Logz.io via HTTPs.
+https://github.com/logzio/logzio-agent-manifest # Contains all the scripts needed to ship logs, metrics and traces to Logz.io for supported datasources using the Logz.io agent.
+https://github.com/logzio/synthetic-monitoring #
+https://github.com/logzio/docker-logging-plugin # This is a docker logging driver plugin to forward docker logs to Logz.io
+https://github.com/logzio/logzio-bunyan # A Logzio stream for the Bunyan logger
+https://github.com/logzio/microservices-demo #
+https://github.com/logzio/yarn-one-version-rule # Enforce the One Version Rule on yarn workspaces
+https://github.com/logzio/community # List of Logz.io plugins, integrations and logging resources developed by the community.
+https://github.com/logzio/fluent-plugin-logzio #
+https://github.com/logzio/sfcc-webdav-fetcher #
+https://github.com/logzio/fluent-bit-logzio-output #
+https://github.com/logzio/synthetic-scripting #
+https://github.com/logzio/dashboard-metrics-extractor #
+https://github.com/logzio/jaeger-logzio # A storage integration for Jaeger
+https://github.com/logzio/logzio-lambda-extensions # AWS Lambda extensions to send logs directly to Logz.io
+https://github.com/logzio/logzio_terraform_client # logz.io client library for GoLang
+https://github.com/logzio/influxql-to-promql-converter # About Grafana® dashboard converter tool to convert InfluxQL® using dashboards to use M3 (subset of) PromQL™ instead.
+https://github.com/logzio/grafana-dashboard-migration-tool #
+https://github.com/logzio/logzio-aws-ecs # Docker container for shipping Amazon ECS logs to Logz.io
+https://github.com/logzio/documentation #
+https://github.com/logzio/logzio-rsyslogshipper # A lightweight Docker image that runs rsyslog to monitor a running host logs files and ship them over to Logz.io.
+https://github.com/logzio/logzio-app-metrics # Create custom metrics for .NET Core and send them to Logz.io over HTTP.
+https://github.com/logzio/otel-collector-spm # This docker container runs OpenTelemetry collector with the most common receivers (jaeger opencensus otlp zipkin) and exports traces and span metrics to Logz.io for performance monitoring.
+https://github.com/logzio/telegraf-docker-collector-metrics #
+https://github.com/logzio/logzio-api-fetcher # Send Auth/OAuth APIs data to Logz.io.
+https://github.com/logzio/jmx2logzio # JMX to logz.io every x second one liner tool (Agent based)
+https://github.com/logzio/node-toolbox #
+https://github.com/logzio/logzio-cse # Integration Examples
+https://github.com/logzio/metric-stream-lambda # Lambda function that receives OTLP (0.7.0) data from AWS metric stream and exports the data to logz.io using prometheus remote write
+https://github.com/logzio/fluentd-docker-logs #
+https://github.com/logzio/logzio-api-status # Auto deployment of Lambda function for collecting api status metrics and shipping them to Logz.io.
+https://github.com/logzio/file-cacher # File system and mem-cache for files
+https://github.com/logzio/otel-collector-traces # Wrapped open telemetry collector image for traces
+https://github.com/logzio/logz-api #
+https://github.com/logzio/tracing-demo # A demo application, based on Jaeger Hot R.O.D, to submit example traces to Logz.io's distributed tracing product.
+https://github.com/logzio/logzio-siemplify #
+https://github.com/logzio/aws-cross-account # Shipping AWS logs from multiple accounts to Logz.io
+https://github.com/logzio/azure-monitor-metrics-receiver # An SDK wrapper that uses Azure Monitor SDK. Lets you receive metrics of Azure resources using Azure Monitor API.
+https://github.com/logzio/logzio-google-metrics #
+https://github.com/logzio/logzio-mysql-logs # Ships your MYSQL / RDS logs to logz.io
+https://github.com/logzio/code-guardian # Data sensitive detector for pre-commits and docker images building.
+https://github.com/logzio/memory-cacher # store cache
+https://github.com/logzio/integrations_examples #
+https://github.com/logzio/logzio-jumpcloud # Ship Jumpcloud logs to Logz.io
+https://github.com/logzio/azure-serverless #
+https://github.com/logzio/logzio-k8s-events # An intergration that watches for Kubernetes deployment events and sends them to Logz.io
+https://github.com/logzio/windows-msi-installer-telegraf #
+https://github.com/logzio/okta-events-hook # A lambda function that receives events from okta and forward the data as logs to logz.io
+https://github.com/logzio/easy-connect-server #
+https://github.com/logzio/s3-hook # With this integration, you can collect logs from an S3 bucket and forward them to Logz.io.
+https://github.com/logzio/telegraf_demo #
+https://github.com/logzio/opentelemetry-examples #
+https://github.com/logzio/js-metrics # Records custom Prometheus format metrics in your Node js application and exports them to remote write compatible backends
+https://github.com/logzio/kubernetes-monitoring-operator # Kubernetes monitoring operator
+https://github.com/logzio/otel-docker-collector-metrics #
+https://github.com/logzio/postgres-collector # Micro service that collects database metrics, host metrics and query logs from postgres rds and sends it to logz.io
+https://github.com/logzio/cloudwatch-metrics # Collects cloudwatch metrics and forward them to logz.io, based on opentelemetry collector
+https://github.com/logzio/migration-tools # tools for helping us move prospects from our competitors to our platform
+https://github.com/logzio/public-tools # Public repository for external tooling related to interaction with Logz.io accounts
+https://github.com/logzio/salesforce-logs-receiver # A package for collecting Salesforce sObjects data. Includes Docker for collecting Salesforce sObjects data and ship them to Logz.io.
+https://github.com/logzio/logzio-google-pubsub #
+https://github.com/logzio/aws-well-architected #
+https://github.com/logzio/logzio-azure-blob # Logs shipping from Azure Blob Storage to Logz.io
+https://github.com/logzio/customer-engineering # Useful assets created by the Customer Engineering teams at Logz.io
+https://github.com/logzio/heroku-buildpack-otel #
+https://github.com/logzio/usemitreattack #
+https://github.com/logzio/logzio-openshift # Send your Openshift logs to logz.io
+https://github.com/logzio/mdcwrapper # This library helps Java logback and log4j appender to enrich logs.
+https://github.com/logzio/ecs-fluentbit-sidecar # logging sidecar container for ecs, based on fluentbit
+https://github.com/logzio/cloudwatch-metrics-helpers # Ship AWS metrics to Logz.io
+https://github.com/logzio/firehose-logs #
+https://github.com/logzio/azure-auto-logging # Azure function with event grid trigger, thats adding diagnostic settings logging for new resources created on your azure account
+https://github.com/logzio/rough-object-size # return the size of object
+https://github.com/logzio/logzio-orb #
+https://github.com/logzio/logzio-ping-statistics # Auto deployment of Lambda function for collecting ping statistics metrics for addresses and shipping them to Logz.io.
+https://github.com/logzio/synthetic-link-detector # Detect broken links in web pages
+https://github.com/logzio/kubernetes-instrumentor # language detector and auto instrumentation micro service for kubernetes. Inspired by odigos.io
+https://github.com/logzio/public-certificates # Public Certificates For Logz.io Related Shippers
+https://github.com/logzio/deep-compare-any-order # deep compare JS object with out the order of the array
+https://github.com/logzio/cw-logs-metrics #
+https://github.com/logzio/aws-security-hub #
+https://github.com/logzio/kubernetes-app-detector #
+https://github.com/logzio/prometheus-alerts-migrator # This tool serves as a Kubernetes controller that automates the migration of Prometheus alert rules to Logz.io's alert format, facilitating monitoring and alert management in a Logz.io integrated environment.
+https://github.com/logzio/trivy-to-logzio #
+https://github.com/logzio/cloudwatch-fetcher #
+https://github.com/logzio/micrometer-registry-logzio #
+https://github.com/logzio/logzio-metrics-ui #
+https://github.com/logzio/contentfull-scripts #
+https://github.com/logzio/otel-collector-distro # Logz.io distribution of opentelemery collector
+https://github.com/logzio/x509-certificate-metrics-lambda # Collect x509 certificate metrics using lambda function
+https://github.com/logzio/logz-io-observability-workshop-code #
+https://github.com/logzio/logzio-azure-blob-trigger # Auto-deployment of Azure resources for shipping logs from Azure storage (general purpose v2) to Logz.io using blob trigger function.
+https://github.com/logzio/cloudformation-templates #
+https://github.com/logzio/go-metrics-sdk # Create custom metrics in your Go application and ship them to Logz.io, using the exporter that sends cumulative metrics data from the OpenTelemetry Go SDK to Logz.io using the Prometheus Remote Write API.
+https://github.com/logzio/logzio-okta # Shipping Okta logs to Logz.io using Logstash.
+https://github.com/logzio/cloudwatch-shipper-trigger # AWS Lambda function that ships Cloudwatch Logs to logz.io
+
+Mezmo
+https://github.com/logdna/logdna-agent # LogDNA Agent streams from log files to your LogDNA account. Works with Linux, Windows, and macOS Servers
+https://github.com/logdna/logdna-agent-v2 # The blazingly fast, resource efficient log collection client
+https://github.com/logdna/python # A python package for sending logs to LogDNA
+https://github.com/logdna/tail-file-node # A node.js version of unix's "tail -f" command
+https://github.com/logdna/logger-node # A nodejs logger client for LogDNA
+https://github.com/logdna/logdna-cli # The LogDNA CLI allows you to signup for a new account and tail your server logs right from the command line.
+https://github.com/logdna/logdna-browser # A frontend browser logging and exception capturing library for LogDNA
+https://github.com/logdna/ruby # Ruby library for logging to LogDNA
+https://github.com/logdna/logdna-winston # LogDNA's Node.js logging module with support for Winston
+https://github.com/logdna/logspout # LogDNA Docker integration
+https://github.com/logdna/logdna-cloudwatch # AWS Lambda for logging from CloudWatch into LogDNA
+https://github.com/logdna/terraform-provider-logdna # Terraform provider to simplify creation of views, preset alerts and other resources in LogDNA!
+https://github.com/logdna/pino-logdna # Pino transport for sending logs to LogDNA
+https://github.com/logdna/logdna-s3 # AWS Lambda for logging from S3 into LogDNA
+https://github.com/logdna/logdna-bunyan # LogDNA's Node.js logging module with support for Bunyan
+https://github.com/logdna/logdna-go # Go client for logging to LogDNA!
+https://github.com/logdna/setup-chain-node # Base class for implementing seed and resource data for test suites
+https://github.com/logdna/ansible-logdna # Ansible Galaxy Role to install and configure LogDNA Agent
+https://github.com/logdna/stdlib-node # Standardized module functions free of business logic
+https://github.com/logdna/logdna-rust # Send logs to LogDNA from rust applications
+https://github.com/logdna/winevt-tailer # Windows Event Log Tailer - provides live tailing of Windows events to standard output or log file. Can run as console application or Windows service. Distributed as signed standalone executable.
+https://github.com/logdna/logdna_lograge_example # Example architecture using LogDNA, Lograge and Ruby on Rails to build a secret message app.
+https://github.com/logdna/build-images # Dockerfiles for images containing build toolchains for Logdna projects
+https://github.com/logdna/fluent-plugin-logdna #
+https://github.com/logdna/artwork # Artwork for LogDNA projects
+https://github.com/logdna/logdna-nxlog # LogDNA NXLog Configuration
+https://github.com/logdna/exclusive-lock-node # Create atomic locks that can be saved in a cache store and used in a distributed environment
+https://github.com/logdna/logdna-cloudfoundry # Send firehose events from Cloud Foundry to syslog.
+https://github.com/logdna/logstash-output-logdna # POC LogDNA Output Plugin for Logstash
+https://github.com/logdna/mezmo-workshops #
+https://github.com/logdna/env-config-node # Configuration package for reading environment variables
+https://github.com/logdna/semantic-release-config-logdna # Semantic Release shareable configuration for logdna node packages
+https://github.com/logdna/terraform-module-pagerduty # Example Terraform module to control Pagerduty
+https://github.com/logdna/commitlint-config # Commitlint configuration to enforce commit message best practices on public projects
+https://github.com/logdna/eslint-plugin-logdna # ESlint plugin containing a collection of rules for enforcing code style at LogDNA
+https://github.com/logdna/chef-logdna # Chef cookbook to install and configure LogDNA Agent
+https://github.com/logdna/logdna-rsyslog # Kubernetes rsyslog proxy for forwarding logs to LogDNA
+https://github.com/logdna/agent-benchmarks # Support scripts and terraform files to benchmark the LogDNA Agents
+https://github.com/logdna/eslint-config-logdna # Logdna's preferred eslint config to be used across all projects
+https://github.com/logdna/logdna-orb # CircleCI Orb for Reporting Deploys to LogDNA
+https://github.com/logdna/async-buf-pool-rs #
+https://github.com/logdna/financialtransactiondevicesim # Simple docker project to simulate edge financial transactions for Pipeline Workshops.
+https://github.com/logdna/compare-coverage-to-main #

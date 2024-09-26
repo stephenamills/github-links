@@ -1,0 +1,248 @@
+https://github.com/neo4j-product-examples/graphrag-examples # Example GraphRAG patterns
+https://github.com/neo4j-product-examples/genai-workshop # Generative AI Deep Dive Workshops
+https://github.com/neo4j-product-examples/demo-fraud-detection-with-p2p # Exploring Neo4j and Graph Data Science for Fraud Detection
+https://github.com/neo4j-product-examples/graph-machine-learning-examples # Neo4j Graph Data Science with Graph ML & GNNs
+https://github.com/neo4j-product-examples/ds-graphconnect-2022-demo #
+https://github.com/neo4j-product-examples/data-prep-sec-edgar # Prepare SEC EDGAR data for working examples
+https://github.com/neo4j-product-examples/ml-genai # Examples for Using Generative AI with Graph Databases and Graph Machine Learning
+https://github.com/neo4j-product-examples/supply-chain-logistics-demo #
+https://github.com/neo4j-product-examples/ds-supply-chain-use-cases # Neo4j & Graph Data Science for Supply Chain and Logistics
+https://github.com/neo4j-product-examples/ds-recommendation-use-cases # Graph Data Science and Machine Learning for Recommendation Systems
+https://github.com/neo4j-product-examples/graphrag-customer-experience #
+https://github.com/neo4j-product-examples/demo-link-prediction-pipeline # A demo of GDS Link Prediction Pipelines in Python. Applied for Supervised Entity Resolution
+https://github.com/neo4j-product-examples/graphrag-finserv # GraphRAG Examples for Financial Services
+https://github.com/neo4j-product-examples/ai-ml-labs # Labs for Using Neo4j to Power Generative AI and ML Workflows
+https://github.com/neo4j-product-examples/ml-paysim-fraud-detection-demo # Graph Native Machine Learning with Neo4j
+https://github.com/neo4j-product-examples/gds-reference-examples # References to short demos and examples of GDS
+https://github.com/neo4j-product-examples/db-introduction #
+https://github.com/neo4j-product-examples/graph-data-science-training #
+https://github.com/neo4j-product-examples/ds-spark-examples # Encapsulated Demos for Spark and Datawarehouse Connectors
+https://github.com/neo4j-product-examples/neo4j-tools # A package for convenience methods and other tools when working with Neo4j and GDS
+https://github.com/neo4j-product-examples/ds-bite-sized-series #
+https://github.com/neo4j-product-examples/graphrag-movie-search # Example of using GraphRAG for Movie Search & Recommendations
+
+https://github.com/neo4j-partners/neo4j-generative-ai-google-cloud # Demonstration application showing how Neo4j works with Google Vertex AI Generative AI
+https://github.com/neo4j-partners/hands-on-lab-neo4j-and-vertex-ai # Hands on Lab for Neo4j and Vertex AI
+https://github.com/neo4j-partners/neo4j-generative-ai-aws # Demonstration application showing how Neo4j works with Amazon Bedrock
+https://github.com/neo4j-partners/neo4j-generative-ai-azure # Demonstration application showing how Neo4j works with Microsoft Azure OpenAI Service
+https://github.com/neo4j-partners/hands-on-lab-neo4j-and-bedrock # Hands on lab for Neo4j and Amazon Bedrock
+https://github.com/neo4j-partners/hands-on-lab-neo4j-and-azure # Hands on lab for Neo4j and Azure
+https://github.com/neo4j-partners/amazon-cloud-formation-neo4j # Amazon CloudFormation Templates (CFT) for Neo4j
+https://github.com/neo4j-partners/neo4j-aws-terraform #
+https://github.com/neo4j-partners/neo4j-generative-ai-intelligent-app-from-videos-google #
+https://github.com/neo4j-partners/mini-hands-on-lab-neo4j-and-vertex-ai #
+https://github.com/neo4j-partners/google-deployment-manager-neo4j # Google Deployment Manager (DM) templates for Neo4j
+https://github.com/neo4j-partners/neo4j-microsoft-fabric #
+https://github.com/neo4j-partners/neo4j-gcp-terraform # Terraform scripts that deploy Neo4j on GCP
+https://github.com/neo4j-partners/neo4j-sec-edgar # Downloads Form 13 and Form 10-K data from the SEC EDGAR system. Uploads that to cloud buckets for labs.
+https://github.com/neo4j-partners/apevue-knowledge-graph # This repo contains example data and scripts to load ApeVue data into a Neo4j powered Knowledge Graph. We then enrich that graph using Google Enterprise Knowledge Graph.
+https://github.com/neo4j-partners/azure-resource-manager-neo4j # Azure Resource Manager (ARM) Templates for Neo4j
+https://github.com/neo4j-partners/chatbot-offshore-leaks #
+https://github.com/neo4j-partners/neo4j-google-cloud-dataflow # Tutorial and resources for setting up Google Cloud Dataflow with Neo4j and BigQuery
+https://github.com/neo4j-partners/blog-neo4j-azure-ml #
+https://github.com/neo4j-partners/msk-framework-terraform # A terraform module to create an MSK (kafka) test environment.
+https://github.com/neo4j-partners/neo4j-generative-ai-graph-builder # Use Generative AI to Build a Graph in Neo4j
+https://github.com/neo4j-partners/neo4j-transport-for-london #
+https://github.com/neo4j-partners/blog-load-sap-data-cypher-queries # This repository contains Cypher queries, usually used for workshops and blogs
+https://github.com/neo4j-partners/aurads-paysim # Instructions on Loading PaySim data into Neo4j AuraDS
+
+https://github.com/neo4j-graph-examples/recommendations # Neo4j Graph Example Movies Recommendation
+https://github.com/neo4j-graph-examples/movies # Built-in Movie Graph Example
+https://github.com/neo4j-graph-examples/fraud-detection # Fraud detection with the Paysim financial dataset, Neo4j Graph Data Science, and Neo4j Bloom
+https://github.com/neo4j-graph-examples/pole # Crime Investigation - Explore connections in crime data using the POLE - Person, Object, Location, Event - model in a public dataset from Manchester, U.K.
+https://github.com/neo4j-graph-examples/entity-resolution # Entity resolution is the task of finding a data set that refer to the same or similar real entity
+https://github.com/neo4j-graph-examples/network-management # Dependency and root cause analysis and more for network and IT management graph example
+https://github.com/neo4j-graph-examples/twitter-v2 # Explore a social network with Neo4j's Twitter data
+https://github.com/neo4j-graph-examples/northwind # From RDBMS to Graph, using a classic dataset
+https://github.com/neo4j-graph-examples/healthcare-analytics # Load and analyze FDA Adverse Event Reporting System data with Neo4j
+https://github.com/neo4j-graph-examples/stackoverflow # Stack Overflow Questions, Answers, Tags, and Comments
+https://github.com/neo4j-graph-examples/twitch # Twitch Streamer Analysis
+https://github.com/neo4j-graph-examples/airport-routes #
+https://github.com/neo4j-graph-examples/icij-panama-papers # The Panama Papers dataset and guide from the International Consortium of Investigative Journalists (ICIJ)
+https://github.com/neo4j-graph-examples/icij-paradise-papers # The Paradise Papers dataset and guide from the International Consortium of Investigative Journalists (ICIJ)
+https://github.com/neo4j-graph-examples/bloom # Neo4j Bloom is a graph exploration application for visually interacting with graph data
+https://github.com/neo4j-graph-examples/openstreetmap # Use Neo4j with the New York Central Park geo data provided in OpenStreetMap
+https://github.com/neo4j-graph-examples/fincen # Exploring the FinCEN Files Investigation in Neo4j
+https://github.com/neo4j-graph-examples/twitter-trolls # Explore data released by NBC News from their investigation into Russian Twitter Trolls around the 2016 US election
+https://github.com/neo4j-graph-examples/contact-tracing # Contact Tracing graph for pandemic spread e.g. COVID-19 based on http://blog.bruggen.com/search/label/contact%20tracing
+https://github.com/neo4j-graph-examples/get-started # An introduction to graph databases and Neo4j for new users
+https://github.com/neo4j-graph-examples/template # Template repository with code rendering and checks
+https://github.com/neo4j-graph-examples/demo.neo4jlabs.com # Read-only demo server for larger datasets
+https://github.com/neo4j-graph-examples/graph-data-science # Leverage Neo4j Graph Data Science library to explore graph algorithms for analytics and feature engineering
+https://github.com/neo4j-graph-examples/blank-sandbox # Blank Sandbox. Load your own data with LOAD CSV or create data from scratch
+https://github.com/neo4j-graph-examples/legis-graph # US Congress modeled as a Graph - bills, votes, members, and more
+https://github.com/neo4j-graph-examples/citations # Papers, Authors and Citations dataset for graph data science
+https://github.com/neo4j-graph-examples/wwc2019 # Explore the data behind the Women's World Cup with our World Cup Graph.
+https://github.com/neo4j-graph-examples/star-wars # Exploring the Kaggle Star Wars Dataset in Neo4j
+https://github.com/neo4j-graph-examples/neo4j-monitoring-demo #
+
+https://github.com/neo4j-examples/movies-java-spring-data-neo4j # Neo4j Movies Example with Spring Data Neo4j
+https://github.com/neo4j-examples/movies-python-bolt # Neo4j Movies Example application with Flask backend using the neo4j-python-driver
+https://github.com/neo4j-examples/neo4j-movies-template # A Neo4j movies React application with backends in Python/Flask and Node/Express.
+https://github.com/neo4j-examples/movies-javascript-bolt # Neo4j Movies Example with webpack-in-browser app using the neo4j-javascript-driver
+https://github.com/neo4j-examples/movies-java-bolt # Neo4j Movies Example application with SparkJava backend using the neo4j-java-driver
+https://github.com/neo4j-examples/paradise-papers-django # A simple Django web app for searching the Paradise Papers dataset backed by Neo4j
+https://github.com/neo4j-examples/rag-demo #
+https://github.com/neo4j-examples/discoveraurafree # A repo with examples from the Discover Neo4j AuraDB Free Live Stream
+https://github.com/neo4j-examples/sec-edgar-notebooks # Active WIP for experimenting with GraphRAG and Knowledge Graphs
+https://github.com/neo4j-examples/game-of-thrones # Neo4j Database of A Song of Ice and Fire - Game of Thrones
+https://github.com/neo4j-examples/movies-dotnet-neo4jclient # Neo4j Movies Demo App in dotnet with neo4jclient
+https://github.com/neo4j-examples/movies-dotnetcore-bolt #
+https://github.com/neo4j-examples/nestjs-neo4j-realworld-example # A Neo4j, Typescript and Nest.js clone of the Realworld.io App
+https://github.com/neo4j-examples/twitter-graph-viz # OSCON Twitter Graph. Loads tweets from Twitter API mentioning OSCON or Neo4j into a Neo4j Graph Database for analysis.
+https://github.com/neo4j-examples/graphgists # Reference Graph Gists
+https://github.com/neo4j-examples/supply-chain-demo # Neo4j Supply Chain Demo
+https://github.com/neo4j-examples/health-graph # Graph of health and pharm data.
+https://github.com/neo4j-examples/nlp-knowledge-graph # This repository contains queries and data from creating a dev.to/Wikidata Software Knowledge Graph using neosemantics and APOC NLP.
+https://github.com/neo4j-examples/movies-golang-bolt # Neo4j Movies Example application with built-in HTTP server using the neo4j-go-driver
+https://github.com/neo4j-examples/langchain-starter-kit #
+https://github.com/neo4j-examples/nodejs-neo4j-realworld-example # A Neo4j and Node.js clone of the Realworld.io App
+https://github.com/neo4j-examples/neo4j-movies-python-neomodel # Example Movie app for Neo4j and Django
+https://github.com/neo4j-examples/spring-data-neo4j-intro-app #
+https://github.com/neo4j-examples/neo4j-stackoverflow-import # Utilities for Importing Stack-Exchange Dumps into Neo4j
+https://github.com/neo4j-examples/cybersecurity-demo # Neo4j Cybersecurity Demo
+https://github.com/neo4j-examples/link-prediction # This repository contains both Jupyter notebooks for solving a link prediction problem using Neo4j’s Graph Data Science Library and scikit-learn.
+https://github.com/neo4j-examples/neo4j-grouping # Graph Grouping using APOC based on Gradoop Demo
+https://github.com/neo4j-examples/movies-clojure-neocons # Neo4j Movies Demo App in clojure with neocons
+https://github.com/neo4j-examples/kettle-plugin-examples # Simple examples for the Neo4j Kettle (Pentaho Data Integration) steps.
+https://github.com/neo4j-examples/movies-graphql-javascript # Neo4j example movie search application with GraphQL backend
+https://github.com/neo4j-examples/graph-embeddings #
+https://github.com/neo4j-examples/neo4j-twitter-stream # Example Application to consume a twitter stream with Neo4j
+https://github.com/neo4j-examples/neo4j-gcp-vertex-ai-langchain # Neo4j Extensions and Integrations with Vertex AI and LangChain
+https://github.com/neo4j-examples/movies-php-client #
+https://github.com/neo4j-examples/cytoscape-graph-viz-lotr # Cytoscape Graph Visualization Demo Lord of the Rings (LOTR)
+https://github.com/neo4j-examples/llamaindex-starter-kit #
+https://github.com/neo4j-examples/neo4j-fabric-examples # Set of resources for the real time detection of fraud with Neo4j Fabric across shards, use case transaction structuring aka smurfing
+https://github.com/neo4j-examples/ruby_code_analytics # A Rails application for browsing Ruby code's execution, AST, and object space
+https://github.com/neo4j-examples/neo4j-foodmart-dataset # Neo4j Food Mart dataset
+https://github.com/neo4j-examples/neo4j-graph-datasets # Imports and visualizations of different public datasets into Neo4j
+https://github.com/neo4j-examples/graph_starter # Ruby Rails engine gem to provide automatic UI for an asset portal
+https://github.com/neo4j-examples/sdn-migration #
+https://github.com/neo4j-examples/conf-graph # The conference graph!
+https://github.com/neo4j-examples/aws-lambda-java-neo4j # Connect to Neo4j using AWS Lambda with Java
+https://github.com/neo4j-examples/neo4j-example-graph-datasets # Useful Datasets to import/use in Neo4j with Load and Use instructions
+https://github.com/neo4j-examples/movies-rstats-neo4r # Example Project for R using neo4r
+https://github.com/neo4j-examples/friends-php-client #
+https://github.com/neo4j-examples/graphgist_portal # New GraphGist portal written in Rails and using GraphStarter
+https://github.com/neo4j-examples/semantic-kernel-starter-kit #
+https://github.com/neo4j-examples/oscon-graph # DIY Neo4j Graph from the OSCON 2014 event data feed
+https://github.com/neo4j-examples/spring-ai-starter-kit #
+https://github.com/neo4j-examples/elastic-example #
+https://github.com/neo4j-examples/php-laravel-neo4j-realworld-example #
+https://github.com/neo4j-examples/neo4jxtestcontainers # Example repository for the Neo4j X Testcontainers livestream on Thursday, 2023-11-02.
+https://github.com/neo4j-examples/neo4jrb_guide_asset_portal # The result of the instructions provided by the Neo4j.rb asset portal example guide
+https://github.com/neo4j-examples/applied-graph-embeddings # Companion repository to the Applied Graph Embeddings Tutorial
+https://github.com/neo4j-examples/movies-harness #
+https://github.com/neo4j-examples/six_degrees_of_myke #
+https://github.com/neo4j-examples/nhm_asset_portal # Example of using the graph_starter gem to make a Rails asset portal from data from the Natural History Museum
+https://github.com/neo4j-examples/movies-rust-bolt # Neo4j Movies Example application with Axum backend using the neo4rs Rust driver
+https://github.com/neo4j-examples/appsec-asvs-bot #
+https://github.com/neo4j-examples/.github # Readme for organization
+
+https://github.com/neo4j-graphacademy/llm-chatbot-python # https://graphacademy.neo4j.com/courses/llm-chatbot-python/
+https://github.com/neo4j-graphacademy/llm-fundamentals # https://graphacademy.neo4j.com/courses/llm-fundamentals/
+https://github.com/neo4j-graphacademy/app-python # https://graphacademy.neo4j.com/courses/app-python
+https://github.com/neo4j-graphacademy/app-nodejs # https://graphacademy.neo4j.com/courses/app-nodejs
+https://github.com/neo4j-graphacademy/app-java # https://graphacademy.neo4j.com/courses/app-java
+https://github.com/neo4j-graphacademy/app-dotnet # https://graphacademy.neo4j.com/courses/app-dotnet
+https://github.com/neo4j-graphacademy/llm-chatbot-typescript # https://graphacademy.neo4j.com/courses/llm-chatbot-typescript/
+https://github.com/neo4j-graphacademy/llm-vectors-unstructured #
+https://github.com/neo4j-graphacademy/courses #
+https://github.com/neo4j-graphacademy/app-typescript # https://graphacademy.neo4j.com/courses/app-typescript
+https://github.com/neo4j-graphacademy/learning-assistant #
+https://github.com/neo4j-graphacademy/app-go # https://graphacademy.neo4j.com/courses/app-go/
+https://github.com/neo4j-graphacademy/genai-workshop #
+https://github.com/neo4j-graphacademy/importing-data # https://graphacademy.neo4j.com/courses/importing-data/
+https://github.com/neo4j-graphacademy/genai-workshop-typescript #
+https://github.com/neo4j-graphacademy/llm-knowledge-graph #
+https://github.com/neo4j-graphacademy/neoflix-cypher #
+https://github.com/neo4j-graphacademy/neoflix # Neoflix
+
+https://github.com/neo4j/neo4j-documentation #
+https://github.com/neo4j/docs-cypher # Neo4j Cypher Documentation
+https://github.com/neo4j/docs-operations # Neo4j Operations documentation
+https://github.com/neo4j/docs-drivers # Neo4j Drivers Documentation
+https://github.com/neo4j/docs-getting-started #
+https://github.com/neo4j/docs-status-codes # Documentation for Neo4j status codes
+https://github.com/neo4j/docs-aura #
+https://github.com/neo4j/docs-bolt # Neo4j Bolt Protocol Documentation
+https://github.com/neo4j/docs-http-api # Documentation for Neo4j HTTP API
+https://github.com/neo4j/docs-graphql # GraphQL docs
+https://github.com/neo4j/docs-ops-manager #
+https://github.com/neo4j/docs-java-reference # Documentation for Neo4j java reference
+https://github.com/neo4j/docs-spark # Neo4j Spark Connector Documentation
+https://github.com/neo4j/docs-maven-plugin #
+https://github.com/neo4j/docs-kerberos-add-on #
+https://github.com/neo4j/docs-data-importer #
+https://github.com/neo4j/docs-bloom #
+https://github.com/neo4j/docs-cdc # Documentation for Change Data Capture
+https://github.com/neo4j/docs-dataflow-connector # Neo4j Google Dataflow connector documentation
+https://github.com/neo4j/docs-tools #
+https://github.com/neo4j/docs-genai-tutorials #
+https://github.com/neo4j/docs-query-api # Documentation for Neo4j Query API
+
+https://github.com/neo4j-devtools/awesome-graph-apps # Curated list of Graph-Apps that work with Neo4j Desktop.
+https://github.com/neo4j-devtools/neuler # Playground for Neo4j Graph Algorithms
+https://github.com/neo4j-devtools/neo4j-desktop # The Neo4j Graph Platform, on your desktop OS.
+https://github.com/neo4j-devtools/relate #
+https://github.com/neo4j-devtools/graph-app-kit # Reusable components for building Graph Apps
+https://github.com/neo4j-devtools/graphql-voyager-ga # GraphQL Voyager wrapped in a Neo4j Graph App
+https://github.com/neo4j-devtools/jet-key # JSON Enablement Tokens - to grant access to software and features
+
+https://github.com/neo4j-labs/llm-graph-builder # Neo4j graph construction from unstructured data using LLMs
+https://github.com/neo4j-labs/neosemantics # Graph+Semantics: Import/Export RDF from Neo4j.
+https://github.com/neo4j-labs/neodash # NeoDash - a Dashboard Builder for Neo4j
+https://github.com/neo4j-labs/text2cypher # collection of text2cypher datasets, evaluations, and finetuning instructions
+https://github.com/neo4j-labs/arrows.app # A graph drawing application
+https://github.com/neo4j-labs/neo4j-needle-starterkit # Starter Kit for building a Neo4j app using Neo4j Needle
+https://github.com/neo4j-labs/neoconverse # A GenAI Copilot for conversing with Neo4j Graph Databases
+https://github.com/neo4j-labs/graphexpectations # Experiments making SHACL based graph data quality constraints for Neo4j more palatable for non-RDF people
+https://github.com/neo4j-labs/community-graphql-api # GraphQL API for Neo4j Community Graph
+
+https://github.com/neo4j-graph-analytics/networkx-neo4j # NetworkX API for Neo4j Graph Algorithms.
+https://github.com/neo4j-graph-analytics/book #
+https://github.com/neo4j-graph-analytics/ml-models # Machine Learning Procedures and Functions for Neo4j
+https://github.com/neo4j-graph-analytics/graph-algorithms-notebooks # Jupyter notebooks showing how to use Neo4j Graph Algorithms
+https://github.com/neo4j-graph-analytics/ml-link-prediction-notebooks # Notebooks for the ML Link Prediction Course
+https://github.com/neo4j-graph-analytics/sklearn-neo4j #
+https://github.com/neo4j-graph-analytics/data-science-course-react-app # React App for the Neo4j Applied Data Science Course
+
+https://github.com/neo4j-contrib/neo4j-meetups-reporting # This is an end-to-end graph-based reporting sample built on Neo4j for tracking and measuring meetup group membership statistics over time.
+https://github.com/neo4j-contrib/neo4j-ml-procedures # This project provides procedures and functions to support machine learning applications with Neo4j.
+https://github.com/neo4j-contrib/training #
+https://github.com/neo4j-contrib/neo4j-faker # Use faker cypher functions to generate demo and test data with cypher
+https://github.com/neo4j-contrib/neo4j-data-science-yelp # Online Data Science Class with the Yelp Dataset
+https://github.com/neo4j-contrib/design-patterns # Graph gists
+https://github.com/neo4j-contrib/neo4j-movies # Basic Graph Domain Model for Movies and Import/Export/Examples/Integration
+
+https://github.com/neo4j/neo4j # Graphs for Everyone
+
+https://github.com/neo4j/neo4j-python-driver # Neo4j Bolt driver for Python
+https://github.com/neo4j/neo4j-javascript-driver # Neo4j Bolt driver for JavaScript
+https://github.com/neo4j/neo4j-java-driver # Neo4j Bolt driver for Java
+https://github.com/neo4j/neo4j-go-driver # Neo4j Bolt Driver for Go
+https://github.com/neo4j/neo4j-dotnet-driver # Neo4j Bolt driver for .NET
+https://github.com/neo4j/neo4j-python-driver-rust-ext # Optional Rust Extensions to Speed Up the Python Driver
+
+https://github.com/neo4j/nallm # Repository for the NaLLM project
+https://github.com/neo4j/neo4j-browser # Neo4j Browser is the general purpose user interface for working with Neo4j. Query, visualize, administrate and monitor the database.
+https://github.com/neo4j/graph-data-science # Source code for the Neo4j Graph Data Science library of graph algorithms.
+https://github.com/neo4j/graphql # A GraphQL to Cypher query execution layer for Neo4j and JavaScript GraphQL implementations.
+https://github.com/neo4j/neo4j-ogm # Java Object-Graph Mapping Library for Neo4j
+https://github.com/neo4j/neo4j-spark-connector # Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs
+https://github.com/neo4j/cypher-dsl # A Java DSL (Builder) for the Cypher Query Language
+https://github.com/neo4j/graph-data-science-client # A Python client for the Neo4j Graph Data Science (GDS) library
+https://github.com/neo4j/neo4j-graphrag-python # Neo4j GraphRAG for Python
+https://github.com/neo4j/trillion-graph # A scale demo of Neo4j Fabric spanning up to 1129 machines/shards running a 100TB (LDBC) dataset with 1.2tn nodes and relationships.
+https://github.com/neo4j/cypher-language-support # Neo4j's Cypher Language support
+https://github.com/neo4j/neo4j-example-auth-plugins # Example authentication and authorization plugins for Neo4j
+https://github.com/neo4j/neo4j-ogm-quarkus # Quarkus extension to that allows proper usage of Neo4j-OGM inside Quarkus.
+https://github.com/neo4j/graph-schema-introspector # This is a Proof of concept (PoC) for a Neo4j schema introspector that produces output in JSON format validating against graph-schema-json-js-utils.
+https://github.com/neo4j/dappr # Distributed Approximate Personalised PageRank
+https://github.com/neo4j/graph-schema-json-js-utils # Utility library to work with the Graph Schema JSON representation
+https://github.com/neo4j/graphql-toolbox #
+https://github.com/neo4j/neo4j-kafka-connector # Neo4j Kafka Connector
+https://github.com/neo4j/neo4j-cdc-client # CDC Client Library for Neo4j
+https://github.com/neo4j/graphql-examples #
+https://github.com/neo4j/hasura-ndc-neo4j #
+https://github.com/neo4j/.github #

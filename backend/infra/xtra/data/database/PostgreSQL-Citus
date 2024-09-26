@@ -1,3 +1,41 @@
+https://github.com/neondatabase/neon # Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+https://github.com/neondatabase/postgres # PostgreSQL in Neon
+https://github.com/neondatabase/pg_embedding # Hierarchical Navigable Small World (HNSW) algorithm for vector similarity search in PostgreSQL
+https://github.com/neondatabase/serverless # Connect to Neon PostgreSQL from serverless/worker/edge functions
+https://github.com/neondatabase/serverless-cfworker-demo # Demo app for @neondatabase/serverless — details at https://blog.cloudflare.com/neon-postgres-database-from-workers/
+https://github.com/neondatabase/examples # Examples and code snippets demonstrating common ways of integrating Neon with various frameworks and languages.
+https://github.com/neondatabase/ask-neon # Chatbot: Search your own knowledge base by semantic similarity
+https://github.com/neondatabase/postgresql_anonymizer # Neon fork of https://gitlab.com/dalibo/postgresql_anonymizer
+https://github.com/neondatabase/neon-postgresql-expert # Input for an OpenAI GPT that can answer questions about Neon database and Postgres
+https://github.com/neondatabase/postgres-sample-dbs # A collection of sample Postgres databases for learning, testing, and development.
+https://github.com/neondatabase/pg-import # A CLI tool for importing data from one PostgreSQL database to another.
+https://github.com/neondatabase/neon-vector-search-openai-notebooks # Jupyter Notebook for Vector Search with Neon and OpenAI
+https://github.com/neondatabase/pg_session_jwt # Postgres Extension for JWT Sessions
+https://github.com/neondatabase/psql-describe # psql's \d (describe) family of commands ported to JavaScript
+https://github.com/neondatabase/instant-postgres #
+https://github.com/neondatabase/pgvector #
+
+PostgreSQL
+https://github.com/postgres/postgres # Mirror of the official PostgreSQL Git repository.
+https://github.com/postgres/pgweb-static # Fully static components of www.postgresql.org, mainly large files. Kept separately to keep the size of the code repository down.
+
+PGVector
+https://github.com/pgvector/pgvector # Open-source vector similarity search for Postgres
+
+https://github.com/pgvector/pgvector-python # pgvector support for Python
+https://github.com/pgvector/pgvector-node # pgvector support for Node.js, Deno, and Bun (and TypeScript)
+https://github.com/pgvector/pgvector-go # pgvector support for Go
+https://github.com/pgvector/pgvector-elixir # pgvector support for Elixir
+https://github.com/pgvector/pgvector-dotnet # pgvector support for .NET (C#, F#, and Visual Basic)
+https://github.com/pgvector/pgvector-rust # pgvector support for Rust
+https://github.com/pgvector/pgvector-php # pgvector support for PHP
+https://github.com/pgvector/pgvector-ruby # pgvector support for Ruby
+https://github.com/pgvector/pgvector-java # pgvector support for Java, Kotlin, Groovy, and Scala
+https://github.com/pgvector/pgvector-cpp # pgvector support for C++
+https://github.com/pgvector/pgvector-swift # pgvector examples for Swift
+https://github.com/pgvector/pgvector-c # pgvector examples for C
+https://github.com/pgvector/.github #
+
 Citus
 https://github.com/citusdata/citus # Distributed PostgreSQL as an extension
 
@@ -36,22 +74,77 @@ https://github.com/citusdata/nationwide-hands-on-session #
 https://github.com/citusdata/public-schemas # Public schemas that can be load into a citus cluster with citus_load to speed up citus development
 https://github.com/citusdata/.github # Default Community Health/Policy Files for the organization on GitHub
 
-PGVector
-https://github.com/pgvector/pgvector # Open-source vector similarity search for Postgres
+Timescale
+https://github.com/timescale/timescaledb # An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
 
-https://github.com/pgvector/pgvector-python # pgvector support for Python
-https://github.com/pgvector/pgvector-node # pgvector support for Node.js, Deno, and Bun (and TypeScript)
-https://github.com/pgvector/pgvector-go # pgvector support for Go
-https://github.com/pgvector/pgvector-elixir # pgvector support for Elixir
-https://github.com/pgvector/pgvector-dotnet # pgvector support for .NET (C#, F#, and Visual Basic)
-https://github.com/pgvector/pgvector-rust # pgvector support for Rust
-https://github.com/pgvector/pgvector-php # pgvector support for PHP
-https://github.com/pgvector/pgvector-ruby # pgvector support for Ruby
-https://github.com/pgvector/pgvector-java # pgvector support for Java, Kotlin, Groovy, and Scala
-https://github.com/pgvector/pgvector-cpp # pgvector support for C++
-https://github.com/pgvector/pgvector-swift # pgvector examples for Swift
-https://github.com/pgvector/pgvector-c # pgvector examples for C
-https://github.com/pgvector/.github #
+https://github.com/timescale/tsbs # Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data
+https://github.com/timescale/pgvectorscale # A complement to pgvector for high performance, cost efficient vector search on large workloads.
+https://github.com/timescale/pgai # Bring AI models closer to your PostgreSQL data
+https://github.com/timescale/tobs # tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
+https://github.com/timescale/timescaledb-tune # A tool for tuning TimescaleDB for better performance by adjusting settings to match your system's CPU and memory resources.
+https://github.com/timescale/timescaledb-toolkit # Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL 📈
+https://github.com/timescale/timescaledb-parallel-copy # A binary for parallel copying of CSV data into a TimescaleDB hypertable
+https://github.com/timescale/timescaledb-docker # Release Docker builds of TimescaleDB
+https://github.com/timescale/timescaledb-docker-ha # Create Docker images containing TimescaleDB, Patroni to be used by developers and Kubernetes.
+https://github.com/timescale/examples # Collection of example applications and tools to help you get familiar with TimescaleDB
+https://github.com/timescale/nft-starter-kit # Timescale NFT Starter Kit
+https://github.com/timescale/vector-cookbook # Timescale Vector Cookbook. A collection of recipes to build applications with LLMs using PostgreSQL and Timescale Vector.
+https://github.com/timescale/outflux # Export data from InfluxDB to TimescaleDB
+https://github.com/timescale/opentelemetry-demo # A demo system for exploring the tracing features of Promscale
+https://github.com/timescale/pgspot # Spot vulnerabilities in postgres SQL scripts
+https://github.com/timescale/docs # Timescale product documentation 📖
+https://github.com/timescale/timescaledb-extras # Helper functions and procedures for timescale
+https://github.com/timescale/benchmark-postgres # Tools for benchmarking TimescaleDB vs PostgreSQL
+https://github.com/timescale/docs.timescale.com-content # Content pages for TimescaleDB documentation
+https://github.com/timescale/timescaledb-wale # Dockerized WAL-E with an HTTP API
+https://github.com/timescale/python-vector #
+https://github.com/timescale/terraform-provider-timescale # Timescale Cloud Terraform Provider
+https://github.com/timescale/pg_influx # InfluxDB Line Protocol Listener for PostgreSQL
+https://github.com/timescale/homebrew-tap # TimescaleDB Homebrew tap, containing formulas for the database, tools, etc.
+https://github.com/timescale/tsv-timemachine # Sample application for time aware RAG with Streamlit, LlamaIndex and Timescale Vector. Learn more at https://www.timescale.com/ai
+https://github.com/timescale/templates # Templates to get started with Timescale on Finance or Sensors (IoT)
+https://github.com/timescale/rag-is-more-than-vector-search # Companion repo to "RAG is more than vector search" blog post
+https://github.com/timescale/promscale-benchmark #
+https://github.com/timescale/timescale-extension-utils-rs #
+https://github.com/timescale/doctor # Rule-based recommendations about your timeseries database.
+https://github.com/timescale/unstructured-pgai-example # Example showing unstructured.io + timescaledb + PGAI
+https://github.com/timescale/migration-eval # Tools to determine a migration strategy based on your database
+https://github.com/timescale/cloud-actions # Cloud public actions
+https://github.com/timescale/mta-timescale # Demo: Load MTA bus feeds into TimescaleDB
+https://github.com/timescale/wikistream-docker # A Docker environment for https://github.com/timescale/wikistream
+https://github.com/timescale/web-developer-assignment #
+https://github.com/timescale/aws-lambda-example # A sample serverless AWS Lambda time-series application.
+https://github.com/timescale/pg_traceam # Simple table access method that just prints out what functions in the access methods and related functions that are called.
+https://github.com/timescale/docker-dbt # Dockerfiles for dbt
+https://github.com/timescale/frontend-developer-assignment #
+https://github.com/timescale/promscale_specs # Formal specifications for Promscale components
+https://github.com/timescale/docs-htmltojsx # A fork of react-magic html-to-jsx specifically modified to parse timescale docs
+https://github.com/timescale/state_of_postgres # 2019
+https://github.com/timescale/pgschema #
+https://github.com/timescale/integrate-with-timescale-using-python # Best practice for interacting with your Timescale service programatically
+https://github.com/timescale/prestodb-sandbox # Sandbox docker image to test out prestodb
+https://github.com/timescale/calico_upgrade_poc #
+https://github.com/timescale/busy-dev-pgvector-intro # A busy developers guide to building AI applications with PostgreSQL
+https://github.com/timescale/build-actions # GitHub actions for release pipelines (building, publishing, checking, etc.)
+https://github.com/timescale/cloud-docs-programmatic-endpoints #
+https://github.com/timescale/bigquery-go-client # A database/sql driver for BigQuery
+https://github.com/timescale/blog-demo # A public repository with the demos from our blog https://www.timescale.com/blog/
+https://github.com/timescale/promscale-test-data #
+https://github.com/timescale/docker-git-server #
+https://github.com/timescale/integrate-with-timescale-using-sql # Best practice for interacting with your Timescale service using SQL
+https://github.com/timescale/timescaledb-backfill # Backfill hypertable data from one timescale instance to another
+https://github.com/timescale/wikistream # Python package to stream edits from Wikimedia properties around the world: https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams
+https://github.com/timescale/githistoryloader # Load git commit history into a TS embeddings table
+
+https://github.com/postgres-ai/database-lab-engine # DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD.
+https://github.com/postgres-ai/postgres-howtos # Postgres HowTo articles
+https://github.com/postgres-ai/joe # Query optimization assistant
+https://github.com/postgres-ai/dle-github-actions # GitHub action to run DB migrations with DLE
+https://github.com/postgres-ai/green-zone # Demo project to test automated DLE deployment and DB changes management
+https://github.com/postgres-ai/terraform-postgresai-database-lab #
+https://github.com/postgres-ai/education # Notes taken during reading books, watching educational videos and conference talks, etc
+https://github.com/postgres-ai/pgcon2020 # PGCon 2020 tutorial "Seamless SQL Optimization"
+https://github.com/postgres-ai/dle-se-ansible # Ansible playbooks to manage DLE SE and EE installation, configuration, and upgrades
 
 https://dbdb.io/db/postgresql
 https://dbdb.io/db/citus

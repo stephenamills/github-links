@@ -108,12 +108,8 @@ https://github.com/jupyterhub/binder-billing # A repository to explore billing d
 https://github.com/jupyterhub/autodoc-traits # Sphinx extension to autodocument traitlets
 https://github.com/jupyterhub/mybinder-tools # Some tools for munging and utilizing kubectl
 https://github.com/jupyterhub/design # A collection of design material for JupyterHub and related projects
-https://github.com/jupyterhub/katacoda-scenarios # https://katacoda.com/ is a playground for learning, and these are our learning scenarios
 https://github.com/jupyterhub/jupyterhub-python-repo-template # A template for generating Python repositories in the `jupyterhub` organization
 https://github.com/jupyterhub/nbgitpuller-downloader-plugins # jupyterhub/nbgitpuller allows for content provider plugins, this python package provides downloader plugins
 https://github.com/jupyterhub/nbgitpuller-downloader-googledrive #
 https://github.com/jupyterhub/jupyterhub.github.io # A landing page and overview for the JupyterHub project and team
-https://github.com/jupyterhub/nbgitpuller-downloader-dropbox #
-https://github.com/jupyterhub/jupyterhub-sphinx-theme # A lightweight wrapper theme for Sphinx based on the PyData Sphinx Theme
-https://github.com/jupyterhub/nbgitpuller-downloader-generic-web #
 https://github.com/jupyterhub/.github #

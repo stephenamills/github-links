@@ -1,0 +1,4 @@
+https://github.com/apple/coremltools # Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.'
+
+https://github.com/apple/ml-stable-diffusion # Stable Diffusion with Core ML on Apple Silicon
+https://github.com/apple/ml-ane-transformers # Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)

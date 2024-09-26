@@ -1,0 +1,16 @@
+https://github.com/vdaas/vald # Vald. A Highly Scalable Distributed Vector Search Engine
+https://github.com/vdaas/vald-client-python # A Python gRPC client library for Vald
+https://github.com/vdaas/vald-client-clj # A Clojure gRPC client library for Vald / valdcli is a CLI client tool for Vald.
+https://github.com/vdaas/vald-client-go # A Go gRPC client library for Vald
+https://github.com/vdaas/go-handson #
+https://github.com/vdaas/vald-client-node # A Node.js gRPC client library for Vald
+https://github.com/vdaas/vald-client-java # A Java gRPC client library for Vald
+https://github.com/vdaas/vald-demo #
+https://github.com/vdaas/web #
+https://github.com/vdaas/events #
+https://github.com/vdaas/vald-tensorflow-ingress-filter #
+https://github.com/vdaas/vald-client-ci #
+https://github.com/vdaas/ml #
+https://github.com/vdaas/vald-onnx-ingress-filter #
+https://github.com/vdaas/vald-ci-labs #
+https://github.com/vdaas/homebrew-valdcli #

@@ -1,0 +1,26 @@
+https://github.com/quickwit-oss/tantivy # Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+https://github.com/quickwit-oss/quickwit # Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+https://github.com/quickwit-oss/whichlang # A blazingly fast and lightweight language detection library for Rust
+https://github.com/quickwit-oss/tantivy-cli #
+https://github.com/quickwit-oss/tantivy-py # Python bindings for Tantivy
+https://github.com/quickwit-oss/bitpacking # SIMD algorithms for integer compression via bitpacking. This crate is a port of a C library called simdcomp.
+https://github.com/quickwit-oss/chitchat # Cluster membership protocol with failure detection inspired by Cassandra and DynamoDB
+https://github.com/quickwit-oss/levenshtein-automata #
+https://github.com/quickwit-oss/quickwit-datasource # Quickwit data source for Grafana
+https://github.com/quickwit-oss/helm-charts # Helm charts for Quickwit
+https://github.com/quickwit-oss/mrecordlog #
+https://github.com/quickwit-oss/census # Rust crate to keep a list of all of your living objects.
+https://github.com/quickwit-oss/witty-actors #
+https://github.com/quickwit-oss/tutorials #
+https://github.com/quickwit-oss/benchmarks #
+https://github.com/quickwit-oss/promptea # Automatic and reliable user prompts from a schema.
+https://github.com/quickwit-oss/recordlog #
+https://github.com/quickwit-oss/murmurhash32 #
+https://github.com/quickwit-oss/quickwit-go #
+https://github.com/quickwit-oss/filter-vec #
+https://github.com/quickwit-oss/topk-bench #
+https://github.com/quickwit-oss/.github #
+https://github.com/quickwit-oss/streamctl #
+https://github.com/quickwit-oss/ip-repr #
+https://github.com/quickwit-oss/falcosidekick-tests #
+https://github.com/quickwit-oss/odigos-quickwit-demo #

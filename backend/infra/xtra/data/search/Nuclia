@@ -1,0 +1,7 @@
+https://github.com/nuclia/nucliadb # NucliaDB, The AI Search database for RAG
+
+https://github.com/nuclia/frontend # Nuclia RAG-as-a-Service, automatically indexes files and documents, from internal and external sources, to fuel diverse company use cases with LLMs.
+https://github.com/nuclia/nuclia-eval # Library for evaluating RAG using Nuclia's models
+https://github.com/nuclia/demos # Some useful demos and code samples
+https://github.com/nuclia/nuclia.py # Nuclia Python SDK
+https://github.com/nuclia/ui-starter # Start building your own Svelte application using Nuclia's search capabilities and UI tools.

@@ -1,0 +1,22 @@
+https://github.com/onnx/onnx # Open standard for machine learning interoperability
+https://github.com/onnx/models # A collection of pre-trained, state-of-the-art models in the ONNX format
+https://github.com/onnx/tutorials # Tutorials for creating and using ONNX models
+https://github.com/onnx/onnx-tensorrt # ONNX-TensorRT: TensorRT backend for ONNX
+https://github.com/onnx/tensorflow-onnx # Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
+https://github.com/onnx/onnx-tensorflow # Tensorflow Backend for ONNX
+https://github.com/onnx/onnxmltools # ONNXMLTools enables conversion of models to ONNX
+https://github.com/onnx/onnx-mlir # Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure
+https://github.com/onnx/optimizer # Actively maintained ONNX Optimizer
+https://github.com/onnx/sklearn-onnx # Convert scikit-learn models and pipelines to ONNX
+https://github.com/onnx/neural-compressor # Model compression for ONNX
+https://github.com/onnx/turnkeyml # The no-code AI toolchain
+https://github.com/onnx/onnx-r # R Interface to Open Neural Network Exchange (ONNX)
+https://github.com/onnx/onnx.github.io # Code of the official webpage of onnx
+https://github.com/onnx/backend-scoreboard # Scoreboard for ONNX Backend Compatibility
+https://github.com/onnx/steering-committee # Notes and artifacts from the ONNX steering committee
+https://github.com/onnx/working-groups # Repository for ONNX working group artifacts
+https://github.com/onnx/sigs # Repository for ONNX SIG artifacts
+https://github.com/onnx/wheel-builder # Utils for building and publishing ONNX wheels
+
+https://github.com/webonnx/wonnx # A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
+https://github.com/webonnx/wonnx-wasm-example # Example of using WONNX on the web
