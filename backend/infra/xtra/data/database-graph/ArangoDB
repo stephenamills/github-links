@@ -1,0 +1,108 @@
+https://github.com/arangodb/arangodb # 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
+
+https://github.com/arangoml/arangopipe # ArangoML Pipeline is a common and extensible Metadata Layer for Machine Learning Pipelines based on ArangoDB.
+https://github.com/arangoml/fastgraphml # Given an input graph (ArangoDB or PyG) it generates graph embeddings using Low-Code framework built on top of PyG.
+https://github.com/arangoml/networkx-adapter # The NetworkX adapter for ArangoDB
+https://github.com/arangoml/pyg-adapter # The PyTorch Geometric adapter for ArangoDB
+https://github.com/arangoml/dgl-adapter # The Deep Graph Library adapter for ArangoDB
+https://github.com/arangoml/embeddings-compute # Set up Nvidia's Triton Inference server, which simplifies the deployment of AI models at scale in production. It supports multiple framework backends like TensorFlow, PyTorch, ONNX Runtime, Python, and custom backends.
+https://github.com/arangoml/arangodb_datasets #
+https://github.com/arangoml/cugraph-adapter # The RAPIDS cuGraph adapter for ArangoDB
+https://github.com/arangoml/arangoflow #
+https://github.com/arangoml/recommendation-demo #
+https://github.com/arangoml/arangoml-reading-library # Repository for interesting machine learning reading material.
+https://github.com/arangoml/rag_vs_graphrag #
+https://github.com/arangoml/recommendation-ui #
+https://github.com/arangoml/phenolrs #
+https://github.com/arangoml/.github #
+
+https://github.com/arangodb-community/pyarango # Python Driver for ArangoDB with built-in validation
+https://github.com/arangodb-community/arangodb-tinkerpop-provider # An implementation of the Tinkerpop OLTP Provider for ArangoDB
+https://github.com/arangodb-community/arangodb-net-standard # A consistent, comprehensive, minimal interface to enable .NET applications to use the complete range of features exposed by the ArangoDB REST API.
+https://github.com/arangodb-community/arangox # ArangoDB 3.11 driver for Elixir with connection pooling, support for VelocyStream, active failover, transactions and streamed cursors.
+https://github.com/arangodb-community/arangodb_ecto # An Ecto adapter for ArangoDB.
+https://github.com/arangodb-community/aql-intellij-plugin # Intellij plugin for AQL, ArangoDB language support
+https://github.com/arangodb-community/arangobnb #
+https://github.com/arangodb-community/arangodb-graphql-spring-boot-starter #
+https://github.com/arangodb-community/arangordf # The RDF adapter for ArangoDB
+https://github.com/arangodb-community/velocy_pack # An Elixir parser and generator for VelocyPack v1
+https://github.com/arangodb-community/arangodb-graphql-java #
+https://github.com/arangodb-community/arangodb-graphql-spring #
+https://github.com/arangodb-community/community # Discussions over the ArangoDB Community
+https://github.com/arangodb-community/arangodb-java-parquet #
+https://github.com/arangodb-community/arango-spreadsheet-loader #
+https://github.com/arangodb-community/arangodb-bsp #
+https://github.com/arangodb-community/arangodbtemplate # CookieCutter Template for ArangoDB
+
+https://github.com/arangodb-managed/terraform-provider-oasis # Terraform plugin for ArangoGraph Insights Platform (formerly called Oasis)
+https://github.com/arangodb-managed/oasisctl # Command line utility for accessing ArangoGraph Insights Platform. The Managed Cloud for ArangoDB
+https://github.com/arangodb-managed/apis # Public API definitions of ArangoGraph Insights Platform. The Managed Cloud for ArangoDB
+https://github.com/arangodb-managed/homebrew-oasis # Homebrew formulaes for ArangoGraph Insights Platform. The Managed Cloud for ArangoDB
+https://github.com/arangodb-managed/portforward-helper # Port forward Helper for ArangoGraph Insights Platform (used by the migration-agent)
+https://github.com/arangodb-managed/grafana-dashboards # Grafana Dashboards for ArangoGraph Insights Platform
+https://github.com/arangodb-managed/integration-apis # Integration API definitions of ArangoGraph Insights Platform, enabeling external contributors to integrate with platform
+
+https://github.com/arangodb/arangojs # The official ArangoDB JavaScript driver.
+https://github.com/arangodb/python-arango # The official ArangoDB Python driver.
+https://github.com/arangodb/velocypack # A fast and compact format for serialization and storage
+https://github.com/arangodb/go-driver # The official ArangoDB go driver.
+https://github.com/arangodb/kube-arangodb # ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min
+https://github.com/arangodb/arangodb-java-driver # The official ArangoDB Java driver.
+https://github.com/arangodb/arangodb-php # PHP ODM for ArangoDB
+https://github.com/arangodb/spring-data # Spring Data ArangoDB
+https://github.com/arangodb/arangodb-docker # Docker container for ArangoDB
+https://github.com/arangodb/interactive_tutorials # Repository for all ArangoDB interactive tutorial notebooks.
+https://github.com/arangodb/example-datasets # Demo Data for ArangoDB
+https://github.com/arangodb/guesser # Building a self-learning game with ArangoDB, io.js/NodeJS & AngularJS in half a day.
+https://github.com/arangodb/foxx-cli # CLI for managing Foxx services.
+https://github.com/arangodb/arangodb-java-driver-async # ArangoDB Asynchronous Java driver
+https://github.com/arangodb/foxx-apps # List of all public FOXX Applications for ArangoDB
+https://github.com/arangodb/spring-data-demo #
+https://github.com/arangodb/spring-boot-starter #
+https://github.com/arangodb/java-velocypack #
+https://github.com/arangodb/velocystream # Description of the Communication Protocol
+https://github.com/arangodb/cloud # ArangoGraph is the easiest way to run ArangoDB. Available on AWS, Google Cloud & Azure.
+https://github.com/arangodb/arangodb-spark-datasource # ArangoDB Connector for Apache Spark, using the Spark DataSource API
+https://github.com/arangodb/jackson-dataformat-velocypack #
+https://github.com/arangodb/dashboards # Grafana dashboards for monitoring ArangoDB.
+https://github.com/arangodb/go-velocypack #
+https://github.com/arangodb/careers # Welcome to the ArangoDB Careers repository! These are the current open positions at ArangoDB. If you want to join us on this great journey, this is the right place to start.
+https://github.com/arangodb/1mdocspersec # Database latency and throughput tests for ArangoDB
+https://github.com/arangodb/release-test-automation #
+https://github.com/arangodb/oskar #
+https://github.com/arangodb/feed # A tool to feed generated random data of various types into ArangoDB and run other load
+https://github.com/arangodb/python-arango-async #
+https://github.com/arangodb/arangodb-java-reactive-driver # DRAFT VERSION
+https://github.com/arangodb/java-velocypack-module-scala #
+https://github.com/arangodb/docs-hugo # Source code of the ArangoDB online documentation
+https://github.com/arangodb/java-velocypack-module-jdk8 #
+https://github.com/arangodb/kafka-connect-arangodb # Kafka Connect ArangoDB Sink Connector
+https://github.com/arangodb/nx-arangodb # The ArangoDB backend to NetworkX
+https://github.com/arangodb/cluster-maintenance # These scripts are to be used with caution, under the guidance of ArangoDB support.
+https://github.com/arangodb/simple-performance-test # A collection of performance tests that test various aspects of ArangoDB.
+https://github.com/arangodb/gobench # Some parallel benchmarks in Go for ArangoDB
+https://github.com/arangodb/graph-importer # Import graphs
+https://github.com/arangodb/simple-java-performance-test #
+https://github.com/arangodb/neo4j-arango-migration #
+https://github.com/arangodb/arangosync-client # Client Go-Library to communicate with ArangoSync processes.
+https://github.com/arangodb/go-upgrade-rules # Code to describe which ArangoDB upgrades and downgrades are allowed
+https://github.com/arangodb/resilience-tests # ArangoDB resilience tests
+https://github.com/arangodb/java-velocypack-module-joda #
+https://github.com/arangodb/rta-makedata #
+https://github.com/arangodb/demo-aql-g6 # React JS application using AntV G6 library to visualize of AQL query results
+https://github.com/arangodb/upgrade-data-tests # Contains test data for upgrade tests
+https://github.com/arangodb/java-resilience-tests #
+https://github.com/arangodb/clang-format-action # A Github Action to check for clang-format lint errors
+https://github.com/arangodb/justfortesting #
+https://github.com/arangodb/arangorocks #
+https://github.com/arangodb/v8 # ArangoDB fork of the V8 JavaScript engine
+https://github.com/arangodb/arangodb-java-driver-quickstart # ArangoDB Java driver tutorial
+https://github.com/arangodb/cqa # Customer-centric test automation
+https://github.com/arangodb/docs-webhooks #
+https://github.com/arangodb/arangodb-spark-datasource-oasis-examples #
+https://github.com/arangodb/arango-labs # Labs / Tutorials for hands-on education with ArangoDB
+https://github.com/arangodb/go-example1 #
+https://github.com/arangodb/arangors-graph-exporter # Rust implementation to pull data fast and parallel out of ArangoDB
+https://github.com/arangodb/clang-format-docker # An Alpine-based clang-format shell executable
+https://github.com/arangodb/adb-cloud-connector # Access to temporary ArangoDB Cloud instances
+https://github.com/arangodb/smart-converter #

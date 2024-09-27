@@ -1,0 +1,71 @@
+https://github.com/memgraph/memgraph # Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
+
+https://github.com/memgraph/odin #
+https://github.com/memgraph/orb # Graph visualization library
+https://github.com/memgraph/mage # MAGE - Memgraph Advanced Graph Extensions :crystal_ball:
+https://github.com/memgraph/gqlalchemy # GQLAlchemy is a library developed with the purpose of assisting in writing and running queries on Memgraph. GQLAlchemy supports high-level connection to Memgraph as well as modular query builder.
+https://github.com/memgraph/example-streaming-app # An example repository on how to start building graph applications on streaming data. Just clone and start building 💻 💪
+https://github.com/memgraph/reddit-network-explorer # A graph-powered Reddit explorer that can perform real-time graph visualizations and sentiment analysis.
+https://github.com/memgraph/mgconsole # mgconsole is a command-line interface (CLI) used to interact with Memgraph from any terminal or operating system.
+https://github.com/memgraph/pymgclient # Python Memgraph Client
+https://github.com/memgraph/twitter-network-analysis # Analyzing a network of tweets and retweets using graph algorithms
+https://github.com/memgraph/spotify-song-recommender # A Spotify song recommendation engine built with the power of graph analytics.
+https://github.com/memgraph/mgclient # C/C++ Memgraph Client
+https://github.com/memgraph/rsmgclient # Memgraph database adapter for Rust programming language.
+https://github.com/memgraph/networkx-guide # We here are very big fans of NetworkX as a graph library and its comprehensive set of graph algorithms. For many though, working with NetworkX involves a steep learning curve. This guide is designed as an aid for beginners and experienced users to find specific tips and explore the world of complex networks.
+https://github.com/memgraph/bluej #
+https://github.com/memgraph/data-streams # Publicly available real-time data sets on Kafka, Redpanda, RabbitMQ & Apache Pulsar
+https://github.com/memgraph/jupyter-memgraph-tutorials # Learn to use Memgraph and GQLAlchemy quickly with the help of Jupyter Notebooks
+https://github.com/memgraph/memgraph-academy #
+https://github.com/memgraph/twitch-analytics-demo # Visualization of Twitch analytics.
+https://github.com/memgraph/bolt-proxy # Bolt protocol support for a Kubernetes cluster with authentication via Ingress
+https://github.com/memgraph/cypher.vim # Vim syntax for the Cypher query language
+https://github.com/memgraph/slack-influence-bot # A slack bot that helps you understand and influence your slack community
+https://github.com/memgraph/memgraph-platform # Memgraph Platform is a multi-container application containing Memgraph+MAGE and Memgraph Lab.
+https://github.com/memgraph/bitclout-visualizing-hodlers # Visualizing BitClout 🪙☁️ HODLers
+https://github.com/memgraph/nodemgclient # Node.js Memgraph Client
+https://github.com/memgraph/mgmigrate # mgmigrate is a tool for migrating data from MySQL or PostgreSQL to Memgraph and between Memgraph instances.
+https://github.com/memgraph/protein-explorer # Visualizing protein-protein interaction networks
+https://github.com/memgraph/starlink # This project implements dynamic shortest-path routing for Starlink using Memgraph. Starlink satellites are low earth orbit communications satellites currently being launched and operated by SpaceX.
+https://github.com/memgraph/physics-papers-recommender # Recommendation system used for blog post on physics papers recommendation system with node2vec
+https://github.com/memgraph/mgp # Pypi package used for type hinting when creating MAGE modules.
+https://github.com/memgraph/graph-landscape-2022 # A graph visualization of popular graph technologies and companies
+https://github.com/memgraph/helm-charts # Helm charts for deploying Memgraph, an open-source in-memory graph database.
+https://github.com/memgraph/card-fraud # Python app for detecting credit card frauds using a graph database
+https://github.com/memgraph/rune #
+https://github.com/memgraph/sng-demo # A Flask web application that displays a social network graph stored in Memgraph DB.
+https://github.com/memgraph/documentation # The official documentation for Memgraph open-source graph database.
+https://github.com/memgraph/docs-recommendation-system #
+https://github.com/memgraph/orbicon # Explore your userbase and community with the power of graph analytics.
+https://github.com/memgraph/insurance-fraud # Insurance companies lose a lot of money on different kinds of fraud. By using graphs along with machine learning, you can model and detect fraudulent insurance claims.
+https://github.com/memgraph/jsmgclient #
+https://github.com/memgraph/bor #
+https://github.com/memgraph/link-prediction-node-embeddings #
+https://github.com/memgraph/app-challenge-starter-pack # A Python starter pack for building streaming applications with Memgraph.
+https://github.com/memgraph/hacker-news-analyzer #
+https://github.com/memgraph/memflights # Tutorial app using memgraph and C#
+https://github.com/memgraph/design #
+https://github.com/memgraph/mgui # Memgraph user interface library.
+https://github.com/memgraph/kafka-offset-demo # Demo showing how Kafka users can manually set the offset of the next consumed message with a call to the query procedure.
+https://github.com/memgraph/ecommerce-recommender-demo # E-Commerce recommender demo with real-time data and a graph database
+https://github.com/memgraph/genai-stack # A template for building GenAI applications with Memgraph.
+https://github.com/memgraph/benchgraph #
+https://github.com/memgraph/roadmap # Learn more about Memgraph product roadmap!
+https://github.com/memgraph/cugraph-guide #
+https://github.com/memgraph/kubernetes-operator # Memgraph Kubernetes Operator
+https://github.com/memgraph/best-practices # The shortest path to a successful project with Memgraph.
+https://github.com/memgraph/cloud-interview-task #
+https://github.com/memgraph/cmake # This is a collection of CMake modules that are useful for all Memgraph projects.
+https://github.com/memgraph/conference-connector #
+https://github.com/memgraph/prometheus-exporter #
+https://github.com/memgraph/live-stream #
+https://github.com/memgraph/depsy # Code dependencies analyzer
+https://github.com/memgraph/blog #
+https://github.com/memgraph/gasoline # A safe object-graph mapper and query builder for Rust.
+https://github.com/memgraph/mgcxx #
+https://github.com/memgraph/graph-analytics-benchmarks # Code for the blogpost on benchmarking graph analytics libraries.
+https://github.com/memgraph/schema #
+https://github.com/memgraph/jdbc-driver # Memgraph compatible jdbc driver example
+https://github.com/memgraph/github-code-analysis #
+https://github.com/memgraph/gqlfluff #
+https://github.com/memgraph/.github #

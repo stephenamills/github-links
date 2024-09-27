@@ -1,0 +1,13 @@
+https://github.com/antora-for-modular-docs/antora-for-modular-docs # Guidelines and repository template to start an Antora project compatible with the Modular Documentation Initiative Guidelines
+
+https://gitlab.com/antora/demo/docs-site # Example playbook and content repositories.
+https://gitlab.com/antora/demo/demo-component-a # Example of a documentation component.
+https://gitlab.com/antora/demo/demo-component-b # Example of a documentation component.
+
+https://gitlab.com/antora/antora # A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web. Ideally suited for users of Asciidoctor.
+
+https://gitlab.com/antora/antora-ui-default # Produces a UI for documentation sites created using Antora.
+https://gitlab.com/antora/antora-lunr-extension # An Antora extension that adds a self-hosted search powered by Lunr to an Antora site. The extension indexes your content during the build and includes the index in the published site, which is then used to provide an in-browser search.
+https://gitlab.com/antora/antora-assembler # An Antora add-on library and extension that assembles content from multiple pages into aggregate documents, converts them to the specified output format, and publishes them as part of the site.
+https://gitlab.com/antora/docs.antora.org # The playbook project that produces the documentation site for the Antora project.
+

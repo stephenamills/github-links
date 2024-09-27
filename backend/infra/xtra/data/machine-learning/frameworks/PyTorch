@@ -79,3 +79,95 @@ https://github.com/nvidia/clara-train-examples # Example notebooks demonstrating
 https://github.com/nvidia/minkowskiengine # Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 https://github.com/nvidia/framework-reproducibility # Providing reproducibility in deep learning frameworks
 https://github.com/nvidia/nvimagecodec # A nvImageCodec library of GPU- and CPU- accelerated codecs featuring a unified interface
+
+https://github.com/lightning-ai/pytorch-lightning # Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
+https://github.com/lightning-ai/litgpt # 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+https://github.com/lightning-ai/lit-llama # Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training.
+https://github.com/lightning-ai/litserve # Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
+https://github.com/lightning-ai/torchmetrics # Torchmetrics - Machine learning metrics for distributed, scalable PyTorch applications.
+https://github.com/lightning-ai/deep-learning-project-template # Pytorch Lightning code guideline for conferences
+https://github.com/lightning-ai/lightning-thunder # Make PyTorch models up to 40% faster! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once; across one or thousands of GPUs.
+https://github.com/lightning-ai/dl-fundamentals # Deep Learning Fundamentals -- Code material and exercises
+https://github.com/lightning-ai/litdata # Transform datasets at scale. Optimize datasets for fast AI model training.
+https://github.com/lightning-ai/tutorials # Collection of Pytorch lightning tutorial form as rich scripts automatically transformed to ipython notebooks.
+https://github.com/lightning-ai/engineering-class # Lightning Bits: Engineering for Researchers repo
+https://github.com/lightning-ai/utilities # Common Python utilities and GitHub Actions in Lightning Ecosystem
+https://github.com/lightning-ai/ecosystem-ci # Automate issue discovery for your projects against Lightning nightly and releases.
+https://github.com/lightning-ai/lightning-habana # Lightning support for Intel Habana accelerators.
+https://github.com/lightning-ai/lightning-multinode-templates # Multinode templates for Pytorch Lightning
+https://github.com/lightning-ai/cloud-training-workshop #
+https://github.com/lightning-ai/.github #
+
+https://github.com/pytorch-labs/gpt-fast # Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
+https://github.com/pytorch-labs/segment-anything-fast # A batched offline inference oriented version of segment-anything
+https://github.com/pytorch-labs/attention-gym # Helpful tools and examples for working with flex-attention
+https://github.com/pytorch-labs/leanrl # LeanRL is a fork of CleanRL, where selected PyTorch scripts optimized for performance using compile and cudagraphs.
+https://github.com/pytorch-labs/applied-ai # Applied AI experiments and examples for PyTorch
+https://github.com/pytorch-labs/torchfix # TorchFix - a linter for PyTorch-using code with autofix support
+https://github.com/pytorch-labs/triton-cpu # An experimental CPU backend for Triton (https//github.com/openai/triton)
+https://github.com/pytorch-labs/facto # Framework for Algorithmic Correctness Testing of Operators
+
+https://github.com/pytorch-ignite/code-generator # Web Application to generate your training scripts with PyTorch Ignite
+https://github.com/pytorch-ignite/pytorch-ignite.ai # PyTorch-Ignite website
+https://github.com/pytorch-ignite/examples # Examples, tutorials, and how-to guides
+https://github.com/pytorch-ignite/idist-snippets #
+https://github.com/pytorch-ignite/aws-parallel-cluster-slurm # AWS Parallel Cluster (SLURM) configuration and information
+https://github.com/pytorch-ignite/playground # PyTorch-Ignite playground with Binder and Colab
+https://github.com/pytorch-ignite/download-mnist-github-action # Github Action to download MNIST
+https://github.com/pytorch-ignite/pydata-riyadh-2022-slides # PyData Riyadh 2022 mentored sprint slides
+https://github.com/pytorch-ignite/pydata-global2021-slides # Slides for mentored sprint at PyData Global 2021
+https://github.com/pytorch-ignite/nbs #
+
+https://github.com/pytorch/pytorch # Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/examples # A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
+https://github.com/pytorch/vision # Datasets, Transforms and Models specific to Computer Vision
+https://github.com/pytorch/tutorials # PyTorch tutorials.
+https://github.com/pytorch/captum # Model interpretability and understanding for PyTorch
+https://github.com/pytorch/ignite # High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
+https://github.com/pytorch/serve # Serve, optimize and scale PyTorch models in production
+https://github.com/pytorch/torchtune # A Native-PyTorch Library for LLM Fine-tuning
+https://github.com/pytorch/text # Models, data loaders and abstractions for language processing, powered by PyTorch
+https://github.com/pytorch/glow # Compiler for Neural Network hardware accelerators
+https://github.com/pytorch/torchchat # Run PyTorch LLMs locally on servers, desktop and mobile
+https://github.com/pytorch/botorch # Bayesian optimization in PyTorch
+https://github.com/pytorch/tensorrt # PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT
+https://github.com/pytorch/audio # Data manipulation and transformation for audio signal processing, powered by PyTorch
+https://github.com/pytorch/xla # Enabling PyTorch on XLA Devices (e.g. Google TPU)
+https://github.com/pytorch/torchtitan # A native PyTorch Library for large model training
+https://github.com/pytorch/rl # A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
+https://github.com/pytorch/torchrec # Pytorch domain library for recommendation systems
+https://github.com/pytorch/executorch # On-device AI across mobile, embedded and edge for PyTorch
+https://github.com/pytorch/opacus # Training PyTorch models with differential privacy
+https://github.com/pytorch/tnt # A lightweight library for PyTorch training tools and utilities
+https://github.com/pytorch/functorch # functorch is JAX-like composable function transforms for PyTorch.
+https://github.com/pytorch/hub # Submission to https://pytorch.org/hub/
+https://github.com/pytorch/fbgemm # FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
+https://github.com/pytorch/data # A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.
+https://github.com/pytorch/torchdynamo # A Python-level JIT compiler designed to make unmodified PyTorch programs faster.
+https://github.com/pytorch/cpuinfo # CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
+https://github.com/pytorch/extension-cpp # C++ extensions in PyTorch
+https://github.com/pytorch/benchmark # TorchBench is a collection of open source benchmarks used to evaluate PyTorch performance.
+https://github.com/pytorch/ao # PyTorch native quantization and sparsity for training and inference
+https://github.com/pytorch/tensordict # TensorDict is a pytorch dedicated tensor container.
+https://github.com/pytorch/pippy # Pipeline Parallelism for PyTorch
+https://github.com/pytorch/kineto # A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
+https://github.com/pytorch/torcharrow # High performance model preprocessing library on PyTorch
+https://github.com/pytorch/ort # Accelerate PyTorch models with ONNX Runtime
+https://github.com/pytorch/torchx # TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
+https://github.com/pytorch/builder # Continuous builder and binary build scripts for pytorch
+https://github.com/pytorch/pytorch.github.io # The website for PyTorch
+https://github.com/pytorch/torcheval # A library that contains a rich collection of performant PyTorch model metrics
+https://github.com/pytorch/cppdocs # PyTorch C++ API Documentation
+https://github.com/pytorch/workshops # This is a repository for all workshop related materials.
+https://github.com/pytorch/hydra-torch # Configuration classes enabling type-safe PyTorch configuration for Hydra apps
+https://github.com/pytorch/multipy # torch::deploy (multipy for non-torch uses) is a system that lets you get around the GIL problem by running multiple Python interpreters in a single C++ process.
+https://github.com/pytorch/torchsnapshot # A performant, memory-efficient checkpointing library for PyTorch applications, designed with large, complex distributed workloads in mind.
+https://github.com/pytorch/rfcs # PyTorch RFCs (experimental)
+https://github.com/pytorch/torchdistx # Torch Distributed Experimental
+https://github.com/pytorch/csprng # Cryptographically secure pseudorandom number generators for PyTorch
+https://github.com/pytorch/pytorch_sphinx_theme # PyTorch Sphinx Theme
+https://github.com/pytorch/test-infra # The testing infrastructure for the main PyTorch repo. For example, this repo hosts the logic to track disabled tests and slow tests.
+https://github.com/pytorch/expecttest #
+https://github.com/pytorch/torchcodec # PyTorch video decoding
+https://github.com/pytorch/pytorch-integration-testing # Testing downstream libraries using pytorch release candidates
+https://github.com/pytorch/docs # This repository is automatically generated to contain the website source for the PyTorch documentation at https//pytorch.org/docs.

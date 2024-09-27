@@ -17,10 +17,96 @@ https://github.com/hubspot/sample-apps-search-results-iterating # Examples of us
 https://github.com/hubspot/crm-card-weather-app #
 https://github.com/hubspot/memberships-webinar # Example code for Memberships webinar
 
-https://github.com/hubspot/hubspot-api-python # HubSpot API Python Client Libraries for V3 version of the API
-https://github.com/hubspot/hubspot-api-php # HubSpot API PHP Client Libraries for V3 version of the API
-https://github.com/hubspot/hubspot-api-nodejs # HubSpot API NodeJS Client Libraries for V3 version of the API
-https://github.com/hubspot/hubspot-php # HubSpot PHP API Client
-https://github.com/hubspot/hubspot-api-ruby # HubSpot API Ruby Client Libraries for V3 version of the API
-https://github.com/hubspot/calling-extensions-sdk # A JavaScript SDK for integrating calling apps into HubSpot.
+https://github.com/hubspot/sample-workflow-custom-code # Sample code snippets for the custom code workflow action.
+https://github.com/hubspot/sample-apps-oauth # Sample application demonstrating OAuth 2.0 flow with HubSpot API
+https://github.com/hubspot/sample-apps-list # The list of Sample applications using HubSpot Public API
+https://github.com/hubspot/sample-apps-webhooks # Sample code and reference for processing HubSpot webhooks
+https://github.com/hubspot/sample-apps-manage-crm-objects # Sample application in PHP, Python, Ruby and JavaScript demonstrating HubSpot API to manage CRM Objects
+https://github.com/hubspot/sample-apps-custom-object # Sample applications demonstrating HubSpot API for Custom Objects
+https://github.com/hubspot/sample-apps-imports # Sample App demonstrating HubSpot imports API
+https://github.com/hubspot/sample-apps-search-results-iterating # Examples of using HubSpot Search API and iterating through the results
+https://github.com/hubspot/sample-apps-trello-integration # Basic HubSpot integration with Trello . Can be used as a code base for further development
+https://github.com/hubspot/sample-apps-rate-limit # Sample Application demonstrating how to work with HubSpot API rate limits
+https://github.com/hubspot/sample-programmable-email-module-code #
+https://github.com/hubspot/sample-apps-timeline-events # Sample Apps demonstrating the use of Timeline Events HubSpot API
+https://github.com/hubspot/sample-apps-retry-middleware # Retriers for HubSpot API calls
+https://github.com/hubspot/cms-sample-assets #
+https://github.com/hubspot/uie-beta-public-app-samples #
+https://github.com/hubspot/sample-apps-leaky-bucket # Sample App demonstrating the use of leaky bucket rate limiting for HubSpot API
+
+https://github.com/hubspot/integration-examples-nodejs #
+https://github.com/hubspot/integration-examples-php #
+https://github.com/hubspot/cms-custom-objects-example #
+https://github.com/hubspot/serverless-function-examples # A collection of HubSpot related serverless functions examples.
+https://github.com/hubspot/integration-examples-ruby # Sample Ruby Applications using HubSpot Public API
+https://github.com/hubspot/cms-react # CMS react examples, React defaults modules, and more for CMS devs
+https://github.com/hubspot/gifapp # example giphy API app
+https://github.com/hubspot/documentation-example # HubSpot open source project documentation example
+https://github.com/hubspot/developer-code-examples #
+https://github.com/hubspot/ui-extensions-react-examples #
+https://github.com/hubspot/memberships-webinar # Example code for Memberships webinar
+https://github.com/hubspot/marketplace-example-modules # A few example modules provided to demonstrate modules that pass marketplace validation
+https://github.com/hubspot/singularity-test-service # Simple dropwizard service used in singularity examples
+
+https://github.com/hubspot/cms-theme-boilerplate # A straight-forward starting point for building a great website on the HubSpot CMS
+https://github.com/hubspot/cms-react-boilerplate #
+https://github.com/hubspot/hubspot-cms-vscode # A HubL language extension for the Visual Studio Code IDE, allowing for :rocket: fast local HubSpot CMS Platform development.
+https://github.com/hubspot/cms-react # A repo to expose CMS react examples, React defaults modules, and more to CMS devs
+https://github.com/hubspot/hubspot-cms-deploy-action # GitHub Action to deploy HubSpot CMS projects
+https://github.com/hubspot/cms-custom-objects-example #
+https://github.com/hubspot/local-cms-server-cli # Command line tools for local cms development
+https://github.com/hubspot/cms-migrations #
+https://github.com/hubspot/cms-webpack-serverless-boilerplate # Boilerplate for bundling serverless functions with webpack locally, prior to uploading to the CMS.
+https://github.com/hubspot/cms-modules-getting-started #
+https://github.com/hubspot/cms-sample-assets #
 https://github.com/hubspot/cms-media-bridge # Reference for Media Bridge custom modules
+
+https://github.com/hubspot/ui-extensions-examples # This repository contains code examples of UI extensions built with HubSpot CRM development tools beta
+https://github.com/hubspot/sample-apps-manage-crm-objects # Sample application in PHP, Python, Ruby and JavaScript demonstrating HubSpot API to manage CRM Objects
+https://github.com/hubspot/recruiting-agency-graphql-theme # Website with GraphQL and HubSpot CMS and Custom CRM objects.
+https://github.com/hubspot/calling-extensions-sdk # A JavaScript SDK for integrating calling apps into HubSpot CRM.
+https://github.com/hubspot/crm-card-weather-app #
+
+https://github.com/hubspot/hubspot-cli # A CLI for HubSpot
+https://github.com/hubspot/local-cms-server-cli # Command line tools for local cms development
+https://github.com/hubspot/oauth-quickstart-python # Create a simple, OAuth-based command line app for HubSpot
+https://github.com/hubspot/cli-lib #
+https://github.com/hubspot/hubspot-local-dev-lib # Provides library functionality for HubSpot local development tooling, including the HubSpot CLI
+
+https://github.com/hubspot/hubspot-php # HubSpot PHP API Client
+https://github.com/hubspot/hubspot-api-python # HubSpot API Python Client Libraries for V3 version of the API
+https://github.com/hubspot/hubspot-api-nodejs # HubSpot API NodeJS Client Libraries for V3 version of the API
+https://github.com/hubspot/hubspot-api-php # HubSpot API PHP Client Libraries for V3 version of the API
+https://github.com/hubspot/hubspot-api-ruby # HubSpot API Ruby Client Libraries for V3 version of the API
+https://github.com/hubspot/hapihp # An updated PHP client for the HubSpot API
+https://github.com/hubspot/hapipy # A Python wrapper for the HubSpot APIs
+https://github.com/hubspot/rhapi # Ruby wrapper for the HubSpot API (HAPI)
+https://github.com/hubspot/oauth-quickstart-nodejs # A Node JS app to get up and running with the HubSpot API using OAuth 2.0
+https://github.com/hubspot/private-app-starter # Boilerplates apps using HubSpot API
+https://github.com/hubspot/sample-apps-oauth # Sample application demonstrating OAuth 2.0 flow with HubSpot API
+https://github.com/hubspot/sample-apps-list # The list of Sample applications using HubSpot Public API
+https://github.com/hubspot/hubspot-public-api-spec-collection #
+https://github.com/hubspot/gifapp # Example Giphy API app
+https://github.com/hubspot/apiwebapp #
+https://github.com/hubspot/sample-apps-custom-object # Sample applications demonstrating HubSpot API for Custom Objects
+https://github.com/hubspot/integration-examples-ruby # Sample Ruby Applications using HubSpot Public API
+https://github.com/hubspot/sample-apps-imports # Sample App demonstrating HubSpot imports API
+https://github.com/hubspot/sample-apps-manage-crm-objects # Sample application in PHP, Python, Ruby and JavaScript demonstrating HubSpot API to manage CRM Objects
+https://github.com/hubspot/sample-apps-search-results-iterating # Examples of using HubSpot Search API and iterating through the results
+https://github.com/hubspot/sample-apps-rate-limit # Sample Application demonstrating how to work with HubSpot API rate limits
+https://github.com/hubspot/sample-apps-retry-middleware # Retriers for HubSpot API calls
+https://github.com/hubspot/sample-apps-timeline-events # Sample Apps demonstrating the use of Timeline Events HubSpot API
+https://github.com/hubspot/sample-apps-leaky-bucket # Sample App demonstrating the use of leaky bucket rate limiting for HubSpot API
+
+https://github.com/hubspot/prettier-plugin-hubl #
+https://github.com/hubspot/hubspot-academy-tutorials #
+https://github.com/hubspot/chrome_extension_workshop # Chrome extension workshop
+https://github.com/hubspot/hubspot-project-components # Provides sample components for HubSpot projects.
+https://github.com/hubspot/codegallery # Template - Clone this repo for each of your Code Gallery submissions.
+https://github.com/hubspot/seatsolver # #automation
+https://github.com/hubspot/botsworkshop #
+https://github.com/hubspot/getting-started-project-template #
+https://github.com/hubspot/python-app-google-groups # Slack app for self-serve management of Google Groups
+https://github.com/hubspot/developer-inbound2023 #
+https://github.com/hubspot/hubspot-project-upload-action # GitHub Action to deploy HubSpot Projects
+https://github.com/hubspot/bots-workshop # A workshop using HubSpot chatbots and code snippets

@@ -1,0 +1,14 @@
+https://github.com/ml-explore/mlx # MLX: An array framework for Apple silicon
+
+https://github.com/ml-explore/mlx-examples # Examples in the MLX framework
+https://github.com/ml-explore/mlx-swift-examples # Examples using MLX Swift
+https://github.com/ml-explore/mlx-swift # Swift API for MLX
+https://github.com/ml-explore/mlx-data # Efficient framework-agnostic data loading
+https://github.com/ml-explore/mlx-c # C API for MLX
+https://github.com/ml-explore/mlx-onnx # MLX support for the Open Neural Network Exchange (ONNX)
+
+https://github.com/apple/corenet # CoreNet: A library for training deep neural networks
+https://github.com/apple/ml-aim # This repository provides the code and model checkpoints of the research paper: Scalable Pre-training of Large Autoregressive Image Models
+https://github.com/apple/ml-mdm # Train high-quality text-to-image diffusion models in a data & compute efficient manner
+https://github.com/apple/pfl-research # Simulation framework for accelerating research in Private Federated Learning
+https://github.com/apple/tensor-visualizer # A Jupyter widget to visualize tensor data in notebooks.

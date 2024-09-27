@@ -1,3 +1,4 @@
+
 https://github.com/rhpds/openshift-gitea-image # Gitea container for OpenShift
 https://github.com/rhpds/roadshow_ocpvirt_instructions # Lab Instructions for OCP Virtualization Roadshow
 https://github.com/rhpds/gitea-operator # Gitea Operator to deploy to OpenShift 4
@@ -7,32 +8,39 @@ https://github.com/rhpds/bookbag-aro-mobb # Bookbag for the MOBB ARO Workshop
 https://github.com/rhpds/ocp-virt # Ansible Automation for OCP Virt
 https://github.com/rhpds/sandbox # Ephemeral accounts
 https://github.com/rhpds/summit_2024_rhelevant_security_practices_lab_lb1964 #
+
 https://github.com/rhpds/agnosticv-operator # MOVED TO redhat-cop/babylon
 https://github.com/rhpds/babylon_anarchy_governor # Ansible role for governing babylon resources inside of anarchy
-https://github.com/rhpds/postgres-for-aap2 # Simple ansible playbook for installing Postgres intended for back-end to AAP2 lab
-s/workshops https://github.com/rhpds/showroom-rosa-ops-hoe # Showroom Repository for the ROSA Ops Hands-on Experience
+https://github.com/rhpds/postgres-for-aap2 # Simple ansible playbook for installing Postgres intended for back-end to AAP2 lab s/workshops
+https://github.com/rhpds/showroom-rosa-ops-hoe # Showroom Repository for the ROSA Ops Hands-on Experience
 https://github.com/rhpds/aro-ilt-showroom #
+
 https://github.com/rhpds/summit_2024_lb1389_discovering_critical_security_features #
+
 https://github.com/rhpds/openchatbot # Open Source Chatbots
 https://github.com/rhpds/multi-tier-app-deployer # A demo repo for Ansible labs deploying a simple 2 or 3 tier app
 https://github.com/rhpds/showroom_migrating_to_ocpvirt # Showroom instructions for Migrating to OpenShift Virtualization
 https://github.com/rhpds/user-namespace-operator # OpenShift operator for auto-creating namespaces for users
 https://github.com/rhpds/showroom_rh1_aap2_containerized # Red hat 1 Ansible Automation Platform 2 Containerized Lab
 https://github.com/rhpds/ai-chatbots # AI Chatbot demo using by default RAG (Retrieval-Augmented Generation) and a local LLM
-https://github.com/rhpds/showroom_template_default # The default template repo for Red Hat Showroom based lab, workshop and de
-mo content. An Antora based Asciidoc template for creating demos, labs and other interactive browser based UIs https://github.com/rhpds/virt-migration-demo #
+https://github.com/rhpds/showroom_template_default # The default template repo for Red Hat Showroom based lab, workshop and demo content. An Antora based Asciidoc template for creating demos, labs and other interactive browser based UIs
+https://github.com/rhpds/virt-migration-demo #
+
 https://github.com/rhpds/automate_the_ent_bookbag # Bookbag source for Automate the Enterprise
-https://github.com/rhpds/openshift-user-auth-tracker # Simple operator which watches user logins and annotates user objects wi
-th last login https://github.com/rhpds/showroom_rhel_pytorch # A port of RHEL BU Pytorch lab
+https://github.com/rhpds/openshift-user-auth-tracker # Simple operator which watches user logins and annotates user objects wi th last login
+https://github.com/rhpds/showroom_rhel_pytorch # A port of RHEL BU Pytorch lab
 https://github.com/rhpds/showroom-deployer # Deploy Showroom to OpenShift targets
 https://github.com/rhpds/agnosticv-example #
+
 https://github.com/rhpds/aap2_containerized_solution # Solution for AAP2 Containerized Lab from RH1
 https://github.com/rhpds/summit_2024_lb1247_hands-on_automated_rhel_upgrade #
+
 https://github.com/rhpds/rhel_zero_networking_basics # rhel_zero_networking_basics
 https://github.com/rhpds/rhel_zero_container_management # rhel_zero_container_management
 https://github.com/rhpds/user-group-operator # Operator which dynamically syncs user groups to OpenShift
 https://github.com/rhpds/showroom_openchat_bot # Showroom for OpenChatBot
 https://github.com/rhpds/nookbag-bundle #
+
 https://github.com/rhpds/openshift-oauthclient-manager # Operator to make management of OpenShift OAuthClients simpler
 https://github.com/rhpds/rhel_zero_sandbox # rhel_zero_sandbox repo
 https://github.com/rhpds/rhel_zero_session_recording_tlog # rhel_zero_session_recording_tlog
@@ -40,85 +48,105 @@ https://github.com/rhpds/rhel_zero_file_access_policy # rhel_zero_file_access_po
 https://github.com/rhpds/rhel_zero_data_visualization # rhel_zero_data_visualization
 https://github.com/rhpds/rhel_zero_kpatch_apply # rhel_zero_kpatch_apply
 https://github.com/rhpds/load_test_mtv # Load testing tools for Migration Toolkit for Virtualization. Uses Babylon "provision
-\_data" to identify users https://github.com/rhpds/rhel_zero_in_place_upgrades # rhel_zero_in_place_upgrades
+\_data" to identify users
+https://github.com/rhpds/rhel_zero_in_place_upgrades # rhel_zero_in_place_upgrades
 https://github.com/rhpds/rhel_zero_satellite # rhel_zero_satellite
 https://github.com/rhpds/showroom_theme_summit #
-https://github.com/rhpds/rhel_zero_using_tensorflow_with_red_hat_enterprise_linux # rhel_zero_using_tensorflow_with_red_hat_en
-terprise_linux https://github.com/rhpds/rhel_zero_poc_sandbox # A port of the RHEL Sandbox lab
+
+https://github.com/rhpds/rhel_zero_using_tensorflow_with_red_hat_enterprise_linux # rhel_zero_using_tensorflow_with_red_hat_en terprise_linux
+https://github.com/rhpds/rhel_zero_poc_sandbox # A port of the RHEL Sandbox lab
 https://github.com/rhpds/showroom_ocp4_getting_started # OCP4 Getting Started showroom repo
 https://github.com/rhpds/user-group-operator-test-api-server # Test server for use with user-group-operator api configuration.
+
 https://github.com/rhpds/showroom_rh1_mad_dev # Showroom Repo for Red Hat One MAD Development
 https://github.com/rhpds/showroom_theme_rh1 # A theme for Red Hat One 2023 based on redhat-scholars course-ui
 https://github.com/rhpds/rhel_zero_unixisms # rhel_zero_unixisms
 https://github.com/rhpds/rhel_zero_intro_to_databases # rhel_zero_intro_to_databases
 https://github.com/rhpds/babylon-disaster-recovery #
+
 https://github.com/rhpds/nookbag #
+
 https://github.com/rhpds/rhel_zero_eus_intro # rhel_zero_eus_intro
 https://github.com/rhpds/rhel_zero_installing_software_yum # rhel_zero_installing_software_yum
 https://github.com/rhpds/rhel_zero_containerize_app # rhel_zero_containerize_app
 https://github.com/rhpds/rhel_zero_selinux_policy # rhel_zero_selinux_policy
 https://github.com/rhpds/rhel_zero_sql_server_crypto_policy # rhel_zero_sql_server_crypto_policy
-https://github.com/rhpds/showroom_documentation # Documentation for the showroom demo, lab, classroom web based UI and Service
-s https://github.com/rhpds/rhel_zero_podman_deploy # rhel_zero_podman_deploy
+https://github.com/rhpds/showroom_documentation # Documentation for the showroom demo, lab, classroom web based UI and Service s
+https://github.com/rhpds/rhel_zero_podman_deploy # rhel_zero_podman_deploy
 https://github.com/rhpds/rhel_zero_rhel_system_roles_metrics # rhel_zero_rhel_system_roles_metrics
 https://github.com/rhpds/rhel_zero_epel # rhel_zero_epel
 https://github.com/rhpds/service_admin # Service Administration Basics [Admin 101]
+
 https://github.com/rhpds/helpful-commands # helpful-commands
 https://github.com/rhpds/containerize_your_app_showroom #
+
 https://github.com/rhpds/tldw-zero #
+
 https://github.com/rhpds/rhel_zero_webconsole_perf # rhel_zero_webconsole_perf
 https://github.com/rhpds/rhel_zero_performance_copilot # rhel_zero_performance_copilot
 https://github.com/rhpds/virt-migration-day2-demo # Showroom for Virt on ROSA CI
 https://github.com/rhpds/rhel_zero_sql_server_ansible # rhel_zero_sql_server_ansible
 https://github.com/rhpds/showcase # Showcase repo for showing showroom features and tabs etc
 https://github.com/rhpds/showroom_hcp_kubevirt #
+
 https://github.com/rhpds/rhel_zero_convert2rhel # rhel_zero_convert2rhel
 https://github.com/rhpds/rhel_zero_tuned # rhel_zero_tuned
 https://github.com/rhpds/tony_zero_poc # Demo a zero lab creation
 https://github.com/rhpds/rosa-policies # Shell Scripts to apply AWS policies for various ROSA deployments
-https://github.com/rhpds/showroom_template_zero # Base template for developing labs, workshops, demos using RHDP Zero Platform
-, asciidoc, and antora https://github.com/rhpds/hypershift-policies # Policies to be applied to Hypershift Hub cluster
+https://github.com/rhpds/showroom_template_zero # Base template for developing labs, workshops, demos using RHDP Zero Platform, asciidoc, and Antora
+https://github.com/rhpds/hypershift-policies # Policies to be applied to Hypershift Hub cluster
 https://github.com/rhpds/rhel_zero_devel_101 # rhel_zero_devel_101
 https://github.com/rhpds/rhel_zero_intro_to_git # rhel_zero_intro_to_git
 https://github.com/rhpds/mta-workshop # Instructions for the workshop/demo for the Migration Toolkit for Applications
 https://github.com/rhpds/containers # Monorepo for all containerfiles in use by the demo.redhat.com team
-https://github.com/rhpds/babylon_aws_sandbox # Ansible role for interacting with the pool of AWS sandboxes from the anarchy ba
-bylon governor https://github.com/rhpds/rhel_zero_sql_server_session_recording # rhel_zero_sql_server_session_recording
+https://github.com/rhpds/babylon_aws_sandbox # Ansible role for interacting with the pool of AWS sandboxes from the anarchy ba bylon governor
+https://github.com/rhpds/rhel_zero_sql_server_session_recording # rhel_zero_sql_server_session_recording
 https://github.com/rhpds/rhel_zero_poc_managing_user_basics # Port of RHEL BU Lab Managing User Basics
 https://github.com/rhpds/openshift-nginx-redirect # Simple redirect configuration for nginx on OpenShift
 https://github.com/rhpds/rhel_zero_appstream_manage # rhel_zero_appstream_manage
 https://github.com/rhpds/rhel_zero_pytorch # rhel_zero_pytorch
-https://github.com/rhpds/rhel_zero_managing_user_basics # Showroom repository for the Zero Touch RHEL Managing User Basics lab
-. https://github.com/rhpds/using_file_permissions # Use file permissions (Admin 101)
+https://github.com/rhpds/rhel_zero_managing_user_basics # Showroom repository for the Zero Touch RHEL Managing User Basics lab.
+https://github.com/rhpds/using_file_permissions # Use file permissions (Admin 101)
+
 https://github.com/rhpds/rhel_zero_rhel_ts2 # rhel_zero_rhel_ts2
 https://github.com/rhpds/showroom_testcase # The Testcase repo for developing tests etc around showroom role and lab templates
 https://github.com/rhpds/summit_2024_lb1401_deploying_red_hat_identity_management #
+
 https://github.com/rhpds/summit_2024_the_ins_and_outs_of_red_hat_insights_lb1222 #
+
 https://github.com/rhpds/rhel_zero_podman_pods # rhel_zero_podman_pods
 https://github.com/rhpds/replik8s # Replik8s - Kubernetes real-time resource replicator
 https://github.com/rhpds/rhel_zero_openscap # rhel_zero_openscap
 https://github.com/rhpds/rhel_zero_insights_workshop # rhel_zero_insights_workshop
 https://github.com/rhpds/rhel_zero_rhc # rhel_zero_rhc
 https://github.com/rhpds/user-rhat-worker-id-labeler # Operator which labels users with rhatWorkerId label.
-https://github.com/rhpds/community.showroom # Showroom - an Ansible Collection for creating web UI/UX combing html and interac
-tive web services such as ttys, editors, and consoles https://github.com/rhpds/convert_to_rhel_showroom #
+
+https://github.com/rhpds/community.showroom # Showroom - an Ansible Collection for creating web UI/UX combing html and interac tive web services such as ttys, editors, and consoles
+https://github.com/rhpds/convert_to_rhel_showroom #
+
 https://github.com/rhpds/rhel_zero_satellite_basics # rhel_zero_satellite_basics
 https://github.com/rhpds/rhel_zero_customize_crypto_policy # rhel_zero_customize_crypto_policy
 https://github.com/rhpds/rhel_zero_sql_server_cstore # rhel_zero_sql_server_cstore
 https://github.com/rhpds/redhat-rover-group-sync # Tool to sync Red Hat rover groups to GitHub teams
 https://github.com/rhpds/openshift-user-reaper # Operator to delete users based on inactivity
 https://github.com/rhpds/bookbag-aro-summit2023-booth #
+
 https://github.com/rhpds/tony-zero-demo # demo
 https://github.com/rhpds/zerotouch-api #
+
 https://github.com/rhpds/rhdp_showroom_theme # Standard RHDP theme for showroom labs
 https://github.com/rhpds/rhel_zero_service_admin # RHEL Service Administration Basics [Admin 101]
+
 https://github.com/rhpds/rhel_zero_imagebuilder_service # rhel_zero_imagebuilder_service
 https://github.com/rhpds/rhel_zero_imagebuilder_cli # rhel_zero_imagebuilder_cli
 https://github.com/rhpds/showroom_instructlab_summit2024 # The Instructlab from Summit 2024"
+
 https://github.com/rhpds/rhel_zero_lab_example # rhel_zero_lab_example
 https://github.com/rhpds/rhel_zero_poc_epel # A PoC port of the RHEL EPEL lab
 https://github.com/rhpds/practical-intro-to-container-security #
+
 https://github.com/rhpds/summit_2024_lb2570_rhel_compliance_and_patch_management #
+
 https://github.com/rhpds/rhel_zero_rhel_ts1 # rhel_zero_rhel_ts1
 https://github.com/rhpds/rhel_zero_imagebuilder # rhel_zero_imagebuilder
 https://github.com/rhpds/rhel_zero_ebpf_tracing # rhel_zero_ebpf_tracing
@@ -127,9 +155,12 @@ https://github.com/rhpds/rhel_zero_crypto_policy # rhel_zero_crypto_policy
 https://github.com/rhpds/rhel_zero_using_file_permissions # rhel_zero_using_file_permissions
 https://github.com/rhpds/showroom_containers # Containerfile, Dockerfiles and related content for working with showroom
 https://github.com/rhpds/showroom_getting_started #
+
 https://github.com/rhpds/aap-ocp-virt-configs #
+
 https://github.com/rhpds/showroom_theme_rhdp # Default theme for showroom demo UI
 https://github.com/rhpds/rhel_zero_helpful_commands # Helpful Linux Commands [Admin 101]
+
 https://github.com/rhpds/rhel_zero_firewall_system_role # rhel_zero_firewall_system_role
 https://github.com/rhpds/rhel_zero_buildah # rhel_zero_buildah
 https://github.com/rhpds/rhel_zero_python_venv # rhel_zero_python_venv
@@ -139,28 +170,37 @@ https://github.com/rhpds/rhel_zero_sql_server_insights # rhel_zero_sql_server_in
 https://github.com/rhpds/antora-poc-convert-to-rhel # An Antoa PoC port of the Conver to RHEL Bookbag Demo
 https://github.com/rhpds/openshift-showroom-terminal-image # Terminal Image for the OpenShift Showroom Terminal window
 https://github.com/rhpds/validation-scripts #
+
 https://github.com/rhpds/rhel_zero_rhel_services # rhel_zero_rhel_services
 https://github.com/rhpds/rhel_zero_in_place_upgrades_9 # rhel_zero_in_place_upgrades_9
 https://github.com/rhpds/rhel_zero_get_started_with_c # rhel_zero_get_started_with_c
 https://github.com/rhpds/rhel_zero_webconsole_software # rhel_zero_webconsole_software
 https://github.com/rhpds/rhel_zero_selinux_containers # rhel_zero_selinux_containers
 
+
 https://github.com/release-engineering/dist-git # DistGit provides home for linux distribution packages.
-https://github.com/release-engineering/pom-manipulation-ext # A more generic framework-style extension for preprocessing Maven
-pom.xml files before the build runs (from within Maven itself) https://github.com/release-engineering/koji-dojo # Docker images for testing services that need to talk to Koji.
-https://github.com/release-engineering/kobo # A pile of python modules used by Red Hat release engineering to build their tool
-s. https://github.com/release-engineering/iib # A REST API to manage operator index container images (and some bundle images)
+
+https://github.com/release-engineering/pom-manipulation-ext # A more generic framework-style extension for preprocessing Maven pom.xml files before the build runs (from within Maven itself)
+https://github.com/release-engineering/koji-dojo # Docker images for testing services that need to talk to Koji.
+
+https://github.com/release-engineering/kobo # A pile of python modules used by Red Hat release engineering to build their tool s.
+https://github.com/release-engineering/iib # A REST API to manage operator index container images (and some bundle images)
+
 https://github.com/release-engineering/offliner # Offline repository downloader (client)
+
 https://github.com/release-engineering/redhat-repository-validator #
+
 https://github.com/release-engineering/sync2jira # Service to sync upstream Tickets/PR's with downstream JIRA tickets!
-https://github.com/release-engineering/buildmetadata-maven-plugin # The buildmetadata-maven-plugin captures and reports inform
-ation about Maven builds. https://github.com/release-engineering/productmd # Product, compose and installation media metadata library
-https://github.com/release-engineering/product-listings-manager # HTTP interface for finding product listings and interacting
-with data in composedb https://github.com/release-engineering/python-fastpurge # Python client for Akamai Fast Purge API
+
+https://github.com/release-engineering/buildmetadata-maven-plugin # The buildmetadata-maven-plugin captures and reports inform ation about Maven builds.
+https://github.com/release-engineering/productmd # Product, compose and installation media metadata library
+https://github.com/release-engineering/product-listings-manager # HTTP interface for finding product listings and interacting with data in composedb
+https://github.com/release-engineering/python-fastpurge # Python client for Akamai Fast Purge API
 https://github.com/release-engineering/kojiji # Koji Java Interface
 https://github.com/release-engineering/alt-src #
-https://github.com/release-engineering/resultsdb-updater # A microservice that listens for test results on the message bus and
-updates ResultsDB https://github.com/release-engineering/greenwave # Service to evaluate gating policies based on test results
+
+https://github.com/release-engineering/resultsdb-updater # A microservice that listens for test results on the message bus and updates ResultsDB
+https://github.com/release-engineering/greenwave # Service to evaluate gating policies based on test results
 https://github.com/release-engineering/fedmsg_meta_umb # fedmsg metadata providers for the Unified Message Bus
 https://github.com/release-engineering/ubi-config # A Python library for reading UBI configuration
 https://github.com/release-engineering/resultsdb # The test results store engine for (not only) Fedora QA tools
@@ -168,28 +208,35 @@ https://github.com/release-engineering/exodus-gw # Publishing service for Red Ha
 https://github.com/release-engineering/exodus-rsync # exodus-aware drop-in replacement for rsync
 https://github.com/release-engineering/releng-sop # Release Enginering Standard Operating Procedures
 https://github.com/release-engineering/ubi-population-tool # A tool for populating UBI repositories.
-https://github.com/release-engineering/repotracker # A microservice for tracking container repositories, and publishing a mess
-age when they change https://github.com/release-engineering/assayist # Application to determining composition of build outputs and containers in th
-e product pipeline https://github.com/release-engineering/exodus-lambda # AWS Lambda functions for Red Hat's Content Delivery Network
+
+https://github.com/release-engineering/repotracker # A microservice for tracking container repositories, and publishing a mess age when they change
+https://github.com/release-engineering/assayist # Application to determining composition of build outputs and containers in th e product pipeline
+https://github.com/release-engineering/exodus-lambda # AWS Lambda functions for Red Hat's Content Delivery Network
 https://github.com/release-engineering/pubtools-pulp # A command-line interface to Pulp tasks for publishing tools.
+
 https://github.com/release-engineering/mbs-ui # A simple frontend to the Module Build Service
-https://github.com/release-engineering/iiblib # IIB lib is python IIB client library that allows user to operate with IIB serv
-ice https://github.com/release-engineering/repo-autoindex # Generate static HTML indexes of various repository types
+https://github.com/release-engineering/iiblib # IIB lib is python IIB client library that allows user to operate with IIB serv ice
+https://github.com/release-engineering/repo-autoindex # Generate static HTML indexes of various repository types
 https://github.com/release-engineering/pubtools-pulplib # A Pulp library for publishing tools
 https://github.com/release-engineering/koji-prometheus-exporter #
+
 https://github.com/release-engineering/nexus-crawler #
+
 https://github.com/release-engineering/pubtools-marketplacesvm # Publishing tools for various cloud marketplaces
 https://github.com/release-engineering/pushsource # A library to load push items from a variety of sources
 https://github.com/release-engineering/cdn-definitions # Data definitions for Red Hat's content delivery network
-https://github.com/release-engineering/retasc # Release Task Schedule Curator (ReTaSC) - Plans product release work in Jira ba
-sed on schedules in Product Pages https://github.com/release-engineering/asgi-middlewares #
+https://github.com/release-engineering/retasc # Release Task Schedule Curator (ReTaSC) - Plans product release work in Jira ba sed on schedules in Product Pages
+https://github.com/release-engineering/asgi-middlewares #
+
 https://github.com/release-engineering/gitlab-prometheus-exporter #
+
 https://github.com/release-engineering/pubtools # Publishing tools project family
-https://github.com/release-engineering/modulemd-merger # A tiny web application that can merge modulemd documents, and that's
-all https://github.com/release-engineering/pushcollector # A Python library to collect information from push tasks
+https://github.com/release-engineering/modulemd-merger # A tiny web application that can merge modulemd documents, and that's all
+https://github.com/release-engineering/pushcollector # A Python library to collect information from push tasks
 https://github.com/release-engineering/starmap-client # Client library to communicate with the StArMap service
-https://github.com/release-engineering/mbs-messaging-umb # A plugin for the Module Build System to support sending and receivi
-ng messages from the Unified Message Bus https://github.com/release-engineering/ubi-manifest #
+https://github.com/release-engineering/mbs-messaging-umb # A plugin for the Module Build System to support sending and receivi ng messages from the Unified Message Bus
+https://github.com/release-engineering/ubi-manifest #
+
 https://github.com/release-engineering/metadata-extension # Extension to create basic metadata for Maven Builds
 https://github.com/release-engineering/rhtap-ec-policy # Repository to store data related to on premise product releases
 https://github.com/release-engineering/dockpulp-ansible # ansible modules to manage dockpulp
@@ -197,49 +244,67 @@ https://github.com/release-engineering/cloudimg # A library for uploading and pu
 https://github.com/release-engineering/pubtools-iib # set of cli scripts to be used as pub components in IIB related use cases
 https://github.com/release-engineering/pubtools-quay # Set of scripts used for operating with the Quay service
 https://github.com/release-engineering/pubtools-content-gateway #
+
 https://github.com/release-engineering/cloudpub # Services for publishing products in cloud environments
 https://github.com/release-engineering/pubtools-ami # Publishing tools for Amazon Machine Images
-https://github.com/release-engineering/pipeline-run-prometheus-counter # A simple app that allows a pipeline (e.g. Tekton, Jen
-kins) to increment a pipeline run counter for Prometheus https://github.com/release-engineering/resultsdb_frontend # Simple frontend for ResultsDB
+https://github.com/release-engineering/pipeline-run-prometheus-counter # A simple app that allows a pipeline (e.g. Tekton, Jen kins) to increment a pipeline run counter for Prometheus
+https://github.com/release-engineering/resultsdb_frontend # Simple frontend for ResultsDB
 https://github.com/release-engineering/release-engineering.github.io # public documentation root
-https://github.com/release-engineering/tap-fitter # Tooling to format a File-Based Catalog repo so that it can be built with R
-HTAP https://github.com/release-engineering/django-kobo-exporter # prometheus exporter for kobo hub
-https://github.com/release-engineering/pubtools-pyxis # Set of CLI scripts to be used as pub components in Pyxis related use c
-ases https://github.com/release-engineering/konflux-release-data-ci # Config for building CI worker image for konflux-release-data
-repo https://github.com/release-engineering/redhat-releng-tools # Parent POM for Red Hat RCM Tools that build with Maven
+https://github.com/release-engineering/tap-fitter # Tooling to format a File-Based Catalog repo so that it can be built with R HTAP
+https://github.com/release-engineering/django-kobo-exporter # prometheus exporter for kobo hub
+https://github.com/release-engineering/pubtools-pyxis # Set of CLI scripts to be used as pub components in Pyxis related use c ases
+https://github.com/release-engineering/konflux-release-data-ci # Config for building CI worker image for konflux-release-data repo
+https://github.com/release-engineering/redhat-releng-tools # Parent POM for Red Hat RCM Tools that build with Maven
 https://github.com/release-engineering/ansible-role-rabbitmq # An Ansible role to manage RabbitMQ on EL7+
+
 https://github.com/release-engineering/jenkins-prometheus-exporter #
-https://github.com/release-engineering/pubtools-executors # Collection of executors which can run shell commands in various en
-vironments https://github.com/release-engineering/pulp-prometheus-exporter #
+
+https://github.com/release-engineering/pubtools-executors # Collection of executors which can run shell commands in various en vironments
+https://github.com/release-engineering/pulp-prometheus-exporter #
+
 https://github.com/release-engineering/gelatin-shot # Checksum DB service
 https://github.com/release-engineering/pyxis-ansible # ansible modules to manage pyxis
-https://github.com/release-engineering/cd-template-repo # A template repository for new repositories of release-engineering/co
-ntent-delivery https://github.com/release-engineering/pub-prometheus-exporter #
-https://github.com/release-engineering/opentelemetry-ext-cli-java # Opentelemetry context propagation for reading trace contex
-t from system environment variables, for CLI tools https://github.com/release-engineering/rcm-nexus # Sonatype Nexus repository uploader
+https://github.com/release-engineering/cd-template-repo # A template repository for new repositories of release-engineering/co ntent-delivery
+https://github.com/release-engineering/pub-prometheus-exporter #
+
+https://github.com/release-engineering/opentelemetry-ext-cli-java # Opentelemetry context propagation for reading trace contex t from system environment variables, for CLI tools
+https://github.com/release-engineering/rcm-nexus # Sonatype Nexus repository uploader
 https://github.com/release-engineering/review-rot-react-native # A react native implementation of Review Rot
 https://github.com/release-engineering/ansible-pulp2-api # ansible collection for managing pulp2 resources
 https://github.com/release-engineering/pubtools-exodus #
+
 https://github.com/release-engineering/assayist-client # Python client interface for assayist
 https://github.com/release-engineering/waiverdb # Companion service to ResultsDB, for recording waivers against test results
-https://github.com/release-engineering/cts # Mirror of https://pagure.io/cts
+https://github.com/release-engineering/cts # Mirror of
+https://pagure.io/cts
 https://github.com/release-engineering/datagrepper-container # Configuration for building a datagrepper container image
-https://github.com/release-engineering/memcached-container # Files for building a memcached container images, using the curren
-t Fedora base image. https://github.com/release-engineering/pubtools-sign #
+https://github.com/release-engineering/memcached-container # Files for building a memcached container images, using the curren t Fedora base image.
+https://github.com/release-engineering/pubtools-sign #
+
 https://github.com/release-engineering/datanommer-container # A container for running datanommer
 https://github.com/release-engineering/redhat-releng-licenses # Wrapper project to deploy custom license templates for license
--maven-plugin https://github.com/release-engineering/resultsdb-qe # Some JJB configuration used to verify changes to resultsdb.
+-maven-plugin
+https://github.com/release-engineering/resultsdb-qe # Some JJB configuration used to verify changes to resultsdb.
+
 https://github.com/release-engineering/content-delivery-team # Content delivery team info page
 
+
 https://github.com/rh-telescope/documents # "Doc for project/events/etc Not related to Product Deployment"
+
 https://github.com/rh-telescope/backend-service # "Simple REST service to serve up and store data into a Postgres DB"
+
 https://github.com/rh-telescope/contribution # Community contribution guide
 https://github.com/rh-telescope/helm-charts # Helm Charts for Project Telescope
 https://github.com/rh-telescope/business-impact # Business Impact Assessment (to feed into Risk Assessment Tool)
+
 https://github.com/rh-telescope/rh-telescope.github.io #
+
 https://github.com/rh-telescope/developer-sandbox # Developer sandbox to build a VM, CRC, Telescope
 https://github.com/rh-telescope/telescope-backend #
+
 https://github.com/rh-telescope/dashboard-react-app #
+
 https://github.com/rh-telescope/.github #
-https://github.com/rh-telescope/telescope-integration-scripts-ingress-tls # Integration to check if minimal TLS version is > 1
-.1 https://github.com/rh-telescope/dashboard-example # Sample PatternFly static dashboard, not used in product.
+
+https://github.com/rh-telescope/telescope-integration-scripts-ingress-tls # Integration to check if minimal TLS version is > 1.1
+https://github.com/rh-telescope/dashboard-example # Sample PatternFly static dashboard, not used in product.

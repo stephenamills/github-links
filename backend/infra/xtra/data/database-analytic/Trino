@@ -1,0 +1,85 @@
+https://github.com/trinodb/trino # The distributed SQL query engine for big data, formerly known as PrestoSQL
+
+https://github.com/trinodb/trino-the-definitive-guide # Resource for the book Trino: The Definitive Guide
+https://github.com/trinodb/tutorials #
+
+https://github.com/trinodb/trino-python-client # Python client for Trino
+https://github.com/trinodb/trino-gateway #
+https://github.com/trinodb/charts #
+https://github.com/trinodb/trino-go-client # Go client for Trino
+https://github.com/trinodb/docker-images # Docker images for Trino integration testing
+https://github.com/trinodb/trino.io # Trino website
+https://github.com/trinodb/tpch # Port of TPC-H dbgen to Java
+https://github.com/trinodb/grafana-trino # The Trino datasource allows to query and visualize Trino data from within Grafana.
+https://github.com/trinodb/trino-js-client # TypeScript client library for Trino
+https://github.com/trinodb/benchto # Framework for running macro benchmarks in a clustered environment
+https://github.com/trinodb/tempto # A testing framework for Trino
+https://github.com/trinodb/tpcds # Port of TPC-DS dsdgen to Java
+https://github.com/trinodb/reports # Analysis of the CI workflows of the trinodb/trino project
+https://github.com/trinodb/trino-maven-plugin # Maven packaging and lifecycle for Trino plugins
+https://github.com/trinodb/trino-verifier-queries # Handcrafted query suites for Trino verifier
+https://github.com/trinodb/aws-proxy # Proxy for S3
+https://github.com/trinodb/trino-hadoop-apache # Shaded version of Apache Hadoop for Trino
+https://github.com/trinodb/trino-hive-apache # Shaded version of Apache Hive for Trino
+https://github.com/trinodb/cla # Trino Contributor License Agreement
+https://github.com/trinodb/presentations #
+https://github.com/trinodb/trino-hive-jdbc # Shaded version of Apache Hive JDBC driver for Trino
+https://github.com/trinodb/clabot-config # cla-bot configuration
+https://github.com/trinodb/hive-thrift # Compiled Hive Thrift API
+https://github.com/trinodb/trino-coral # Shaded version of Coral for Trino
+https://github.com/trinodb/trino-csharp-client # C# client for Trino
+https://github.com/trinodb/trino-query-ui # Web-based query UI for Trino
+
+https://dbdb.io/db/trino
+https://dbdb.io/db/prestodb
+
+https://github.com/prestodb/presto # The official home of the Presto distributed SQL query engine for big data
+
+https://github.com/prestodb/f8-2019-demo # A tutorial on how to get started with Presto.
+https://github.com/prestodb/prestorials # Tutorials and examples of how to deploy Presto and connect it to different data sources
+
+https://github.com/prestodb/presto-python-client # Python DB-API client for Presto
+https://github.com/prestodb/presto-go-client # A Presto client for the Go programming language.
+https://github.com/prestodb/presto-admin # A tool to install, configure and manage Presto installations
+https://github.com/prestodb/rpresto # DBI-based adapter for Presto for the statistical programming language R.
+https://github.com/prestodb/tempto # A testing framework for Presto
+https://github.com/prestodb/presto-yarn #
+https://github.com/prestodb/ambari-presto-service # Ambari service for Presto
+https://github.com/prestodb/docker-images # Docker images for Presto integration testing
+https://github.com/prestodb/presto-kubernetes-operator #
+https://github.com/prestodb/benchto # Framework for running macro benchmarks in a clustered environment
+https://github.com/prestodb/presto-hive-apache # Shaded version of Apache Hive for Presto
+https://github.com/prestodb/presto-jdbc-java6 # Presto JDBC driver compatible with Java 6
+https://github.com/prestodb/presto-hadoop-apache2 # Shaded version of Apache Hadoop 2.x for Presto
+https://github.com/prestodb/presto-query-predictor # A query predictor pipeline and service to predict resource usages of Presto queries
+https://github.com/prestodb/presto-helm-charts # Presto Helm Charts
+https://github.com/prestodb/sql # A Modern SQL frontend based on SQL16 with extensions for streaming, graph, rich types, etc, including parser, resolver, rewriters, etc.
+https://github.com/prestodb/presto-js-client # Monorepo for Presto JavaScript packages
+https://github.com/prestodb/presto-landscape # Presto Landscape
+https://github.com/prestodb/tsc # Presto Foundation TSC
+https://github.com/prestodb/presto-hadoop-cdh4 # Shaded version of CDH4 Hadoop for Presto
+https://github.com/prestodb/presto-maven-plugin # Maven packaging and lifecycle for Presto plugins
+https://github.com/prestodb/prestodb.github.io # Presto website
+https://github.com/prestodb/pbench # Presto/Prestissimo Benchmark Toolset
+https://github.com/prestodb/orc-protobuf # Compiled ORC protobuf definitions
+https://github.com/prestodb/presto-hive-jdbc # Shaded version of Apache Hive JDBC driver for Presto
+https://github.com/prestodb/presto-hadoop-apache1 # Shaded version of Apache Hadoop 1.x for Presto
+https://github.com/prestodb/presto-cassandra-driver # Shaded version of DataStax Java Driver for Apache Cassandra
+https://github.com/prestodb/testing-mysql-server # Embedded MySQL server for use in tests
+https://github.com/prestodb/presto-hive-dwrf # Presto Hive DWRF
+https://github.com/prestodb/presto-test # Functional tests of prestodb/presto
+https://github.com/prestodb/community-support-wg #
+https://github.com/prestodb/presto-spark-core # Shaded spark-core
+https://github.com/prestodb/presto-devx # presto developer experience: what actually drives productivity
+https://github.com/prestodb/rfcs # Presto RFCs
+https://github.com/prestodb/prestobot #
+https://github.com/prestodb/presto-pinot-driver # Presto Pinot Driver
+https://github.com/prestodb/presto-elasticsearch-6 #
+https://github.com/prestodb/mentoring # Presto mentorship programs
+https://github.com/prestodb/presto-druid # presto druid connector
+https://github.com/prestodb/conformance-wg # Conformance program working group
+https://github.com/prestodb/presto-cassandra-server # Shaded version of Apache Cassandra for Presto
+https://github.com/prestodb/presto-ranger #
+https://github.com/prestodb/.github # Default community health files
+
+https://dbdb.io/db/prestodb

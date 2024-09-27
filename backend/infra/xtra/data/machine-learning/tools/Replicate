@@ -1,0 +1,106 @@
+https://github.com/replicate/cog # Containers for machine learning
+https://github.com/replicate/scribble-diffusion # Turn your rough sketch into a refined image using AI
+https://github.com/replicate/keepsake # Version control for machine learning
+https://github.com/replicate/llama-chat # A boilerplate for creating a Llama 3 chat app
+https://github.com/replicate/replicate-python # Python client for Replicate
+https://github.com/replicate/cog-stable-diffusion # Diffusers Stable Diffusion as a Cog model
+https://github.com/replicate/replicate-javascript # Node.js client for Replicate
+https://github.com/replicate/paint-by-text # A microsite for InstructPix2Pix
+https://github.com/replicate/inpainter # A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
+https://github.com/replicate/zoo # 🦓 Zoo — Image Playground
+https://github.com/replicate/cog-llama-template # LLaMA Cog template
+https://github.com/replicate/quirky # An open-source tool for making really cool QR codes with AI
+https://github.com/replicate/flux-fine-tuner # Cog wrapper for ostris/ai-toolkit + post-finetuning cog inference for flux models
+https://github.com/replicate/getting-started-nextjs # A Next.js starter app using Replicate
+https://github.com/replicate/cog-sdxl # Stable Diffusion XL training and inference as a cog model
+https://github.com/replicate/latent-consistency-model # Run Latent Consistency Models on your Mac
+https://github.com/replicate/replicate-swift # Swift client for Replicate
+https://github.com/replicate/dreambooth # A Cog model that takes training images as input and generates custom Stable Diffusion model weights as output
+https://github.com/replicate/cog-examples # Some models defined with Cog to show you how it works
+https://github.com/replicate/comfyui-replicate # Run Replicate models as nodes in ComfyUI
+https://github.com/replicate/tilemaker #
+https://github.com/replicate/lora-training # LoRA training model packaged with Cog
+https://github.com/replicate/pget # parallel fetch
+https://github.com/replicate/hype # A feed of trending repos/models from GitHub, Replicate, HuggingFace, and Reddit.
+https://github.com/replicate/cog-musicgen # A cog implementation of Meta's MusicGen models
+https://github.com/replicate/cog-svd # Stable video diffusion (img2vid) as a Cog model
+https://github.com/replicate/cog-flux # Cog inference for flux models
+https://github.com/replicate/dreambooth-action # Train your own custom DreamBooth text-to-image model using a GitHub Actions workflow
+https://github.com/replicate/lora-inference # LoRA inference model packaged with Cog
+https://github.com/replicate/cli # CLI for Replicate
+https://github.com/replicate/cog-flux-schnell # Cog wrapper for FLUX.1 [SCHNELL] which is released under the apache-2.0 licence
+https://github.com/replicate/setup-cog # A GitHub Action for installing and using Cog so you can run, test, and push machine learning models
+https://github.com/replicate/replicate-go # Go client for Replicate
+https://github.com/replicate/discord-bot-tutorial-code #
+https://github.com/replicate/cog-llama # A template to run LLaMA in Cog
+https://github.com/replicate/green-screen-creator # Track an object in a video and add a green screen to the background.
+https://github.com/replicate/rtv #
+https://github.com/replicate/cog-whisper # Run OpenAI Whisper as a Cog model
+https://github.com/replicate/cog-mpt-7b-storywriter-65k # A cog implementation of MosaicML's MPT-7B-StoryWriter-65k+ Large Language Model
+https://github.com/replicate/dreambooth-template # A template repo for training and publishing your own custom Stable Diffusion model using https://replicate.com/replicate/dreambooth
+https://github.com/replicate/outpainter # A web GUI built with Nuxt.js for outpainting with Stable Diffusion using the Replicate API.
+https://github.com/replicate/reflux # Replicate Flux LoRA image editor.
+https://github.com/replicate/create-replicate # Generate a simple Node.js project structure for running AI models with Replicate's API
+https://github.com/replicate/getting-started-nextjs-language # A template Next.js app for running language models like FLAN-T5 with Replicate's API
+https://github.com/replicate/cog-stable-diffusion-img2img #
+https://github.com/replicate/clipdraw-interactive # An interactive and API powered CLIPDraw
+https://github.com/replicate/cog-sdxl-lora #
+https://github.com/replicate/endless-zoom #
+https://github.com/replicate/getting-started-swiftui #
+https://github.com/replicate/cog-stable-diffusion-inpainting #
+https://github.com/replicate/cog-stablelm # This is a cog implementation of StableLM
+https://github.com/replicate/cog-flan-models # Code for training & inference with FLAN family of models
+https://github.com/replicate/cog-t2i-adapter-sdxl #
+https://github.com/replicate/replicate-support-bot # A Discord bot that answers questions about Replicate.
+https://github.com/replicate/cog-vllm # Run LLMs on Replicate with vLLM
+https://github.com/replicate/yolo # EXPERIMENT - exploring ideas to improve dx for models
+https://github.com/replicate/replicate-models-chatgpt-plugin # Run Replicate models from within ChatGPT
+https://github.com/replicate/cog-triton # A cog implementation of Nvidia's Triton server
+https://github.com/replicate/cog-stable-diffusion-3 # A template for running Stable Diffusion 3 with Cog
+https://github.com/replicate/go # Repository for go shared libraries (for now).
+https://github.com/replicate/all-mpnet-base-v2 # A cog model for the all-mpnet-base-v2 sentence-transformers embedding model.
+https://github.com/replicate/cog-seamlessexpressive # Cog wrapper for SeamlessExpressive
+https://github.com/replicate/replicate-raycast # Replicate Raycast App
+https://github.com/replicate/cog-flan-t5 #
+https://github.com/replicate/cog-dolly-v2-12b # This is a cog implementation of Dolly 2.0
+https://github.com/replicate/cog-marigold # Cog wrapper for Marigold
+https://github.com/replicate/replicate-sam-2-clicker # SAM-2 image/video segmentation clicker app.
+https://github.com/replicate/cog-safe-push # Safely push a Cog model version by making sure it works and is backwards-compatible with previous versions.
+https://github.com/replicate/zeroscope-compare #
+https://github.com/replicate/cog-grounding-dino # Cog wrapper for Grounding DINO
+https://github.com/replicate/codespaces # Internal scripts and tools to make Codespaces work better
+https://github.com/replicate/cog-replit-code-v1-3b # A Cog implementation of the Replit's code generation language model
+https://github.com/replicate/stable-diffusion-depth2img #
+https://github.com/replicate/cog-redis-example # Docker Compose setup for running a Cog model with the built-in Redis worker
+https://github.com/replicate/blog-example-rag-chromadb-mistral7b #
+https://github.com/replicate/cog-udop # Cog wrapper for UDOP
+https://github.com/replicate/cog-mvdream-multiview # Cog wrapper for Multi-View Image Generation with MVDream
+https://github.com/replicate/cog-fast-dreambooth #
+https://github.com/replicate/cog-lightweight-openpose # Cog wrapper for Lightweight Openpose
+https://github.com/replicate/terraform-provider-replicate # Terraform provider for Replicate
+https://github.com/replicate/python-starter # A python starter project for running machine learning models in the cloud with Replicate
+https://github.com/replicate/cog-dwpose # Cog wrapper for DWPose
+https://github.com/replicate/setup-replicate #
+https://github.com/replicate/cog-imagedream # Cog wrapper for ImageDream
+https://github.com/replicate/homebrew-tap #
+https://github.com/replicate/cog-hierspeechpp # Cog wrapper for HierSpeech++
+https://github.com/replicate/cog-codet # Cog wrapper for CoDet
+https://github.com/replicate/cog-mamba # Cog wrapper for Mamba language models
+https://github.com/replicate/cog-syncdiffusion # Cog wrapper for SyncDiffusion
+https://github.com/replicate/cog-real-esrgan # Cog implementation of Real-ESRGAN
+https://github.com/replicate/cog-codellama-cpp #
+https://github.com/replicate/cog-inst-inpaint # Cog wrapper for Inst-Inpaint
+https://github.com/replicate/star-trek-nextjs # Star Trek choose your own adventure
+https://github.com/replicate/cog-e5-embeddings # Cog wrapper for E5 language embedding models
+https://github.com/replicate/vercel-ai-provider # Reference implementation of the CustomProvider interface
+https://github.com/replicate/dreambooth-batch # batch inference (image generation) from dreambooth trainings
+https://github.com/replicate/andreas-test #
+https://github.com/replicate/kustomize-components #
+https://github.com/replicate/build-cog # An experimental GitHub Actions workflow to build Cog from source
+https://github.com/replicate/cog-musicgen-chord # Chord conditioning implementation model of MusicGen
+https://github.com/replicate/sandboxes # Example Replicate projects for common tasks. Designed to be cloned with CodeSandbox
+https://github.com/replicate/cog-owlvit # Cog wrapper for OWL-ViT
+https://github.com/replicate/node-starter # A starter project for running machine learning models in the cloud with Replicate.
+https://github.com/replicate/timestop-rs #
+https://github.com/replicate/cog-vila # Cog wrapper for VILA
+https://github.com/replicate/cog-proxy # Cog model that proxies to external APIs.

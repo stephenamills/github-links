@@ -1,0 +1,57 @@
+https://github.com/edgedb/edgedb # A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+
+https://github.com/edgedb/edgedb-js # The official TypeScript/JS client library and query builder for EdgeDB
+https://github.com/edgedb/edgedb-python # The official Python client library for EdgeDB
+https://github.com/edgedb/imdbench # IMDBench — Realistic ORM benchmarking
+https://github.com/edgedb/edgedb-rust # The official Rust binding for EdgeDB
+https://github.com/edgedb/edgedb-go # The official Go client library for EdgeDB
+https://github.com/edgedb/edgedb-cli # The EdgeDB CLI
+https://github.com/edgedb/memhive #
+https://github.com/edgedb/edgedb-elixir # Elixir client for EdgeDB
+https://github.com/edgedb/edgedb-docker # Official Docker Image packaging for EdgeDB
+https://github.com/edgedb/edgedb-net # The official .NET client library for EdgeDB
+https://github.com/edgedb/remix # A Remix stack for EdgeDB-backed applications
+https://github.com/edgedb/edgedb-deno # EdgeDB driver for Deno
+https://github.com/edgedb/easy-edgedb # An illustrated textbook designed to be a one-stop shop for learning EdgeDB
+https://github.com/edgedb/edgedb-examples # EdgeDB example projects for different stacks
+https://github.com/edgedb/edgedb-ui # The home of EdgeDB UI and all related shared UI components
+https://github.com/edgedb/awesome-edgedb # A curated list of resources related to EdgeDB.
+https://github.com/edgedb/edgedb-vim # EdgeDB + Vim
+https://github.com/edgedb/rfcs # RFCs for major changes to EdgeDB
+https://github.com/edgedb/edgedb-editor-plugin # EdgeDB plugin for Sublime Text, Atom, and VSCode
+https://github.com/edgedb/nextjs-edgedb-auth-template # A minimal starter designed to help you get up and running with EdgeDB and Next.js quickly. It includes a basic setup for authentication, EdgeDB schema, and a UI to get you started.
+https://github.com/edgedb/edgedb-dart #
+https://github.com/edgedb/edgedb-java # The official Java client library for EdgeDB
+https://github.com/edgedb/setup-edgedb # A GitHub Action to install EdgeDB and its CLI
+https://github.com/edgedb/mcu-sandbox # A movie schema sandbox for playing with EdgeDB and the EdgeQL query builder, pre-loaded with MCU data
+https://github.com/edgedb/metapkg # Multi-platform native package builder toolkit
+https://github.com/edgedb/edgedb-deploy # EdgeDB Deployment Recipes and Scripts
+https://github.com/edgedb/edgedb-grafana-backend # Grafana backend plugin for EdgeDB
+https://github.com/edgedb/edgedb-grafana-frontend # A frontend plugin for Grafana that fetches data from an HTTP endpoint responding to EdgeQL queries
+https://github.com/edgedb/website # A read-only mirror of the edgedb.com repo.
+https://github.com/edgedb/nextjs-replicache-edgedb-template #
+https://github.com/edgedb/simpletodo # A preposterously simple todo app powered by EdgeDB
+https://github.com/edgedb/cla-bot # A GitHub bot and Web UI for managing contributor license agreements
+https://github.com/edgedb/edgedb-wasm #
+https://github.com/edgedb/homebrew-tap # Install nightly EdgeDB packages in Homebrew
+https://github.com/edgedb/action-release # A Github Action to automate package releases.
+https://github.com/edgedb/shared-client-testcases #
+https://github.com/edgedb/create-t3-turbo-edgedb #
+https://github.com/edgedb/libvirt-aws #
+https://github.com/edgedb/packages-nix #
+https://github.com/edgedb/nextjs-edgedb-basic-template # This starter is designed to help you get up and running with EdgeDB and Next.js quickly. It includes a basic EdgeDB schema and a UI to get you started.
+https://github.com/edgedb/heroku-buildpack-edgedb # Run EdgeDB in a dyno along with your application.
+https://github.com/edgedb/edgedb-postgis #
+https://github.com/edgedb/edgedb-js-lexer #
+https://github.com/edgedb/chinook # A sample EdgeDb project seeded with chinook sample database
+https://github.com/edgedb/edgedb-pkg # EdgeDB Release Packaging Toolkit
+https://github.com/edgedb/roadmap #
+https://github.com/edgedb/test-utils # Utilities for running Rust tests
+https://github.com/edgedb/action-validate-release-pr # Github action to validate release PRs
+https://github.com/edgedb/edgedb-pool-simulation #
+https://github.com/edgedb/action-sync-docker-hub-readme # Github Action: Sync README to Docker Hub
+https://github.com/edgedb/hibernate-example # An example of how to migrate a Hibername project from PostgreSQL to EdgeDB
+https://github.com/edgedb/qna-admin #
+https://github.com/edgedb/.github # EdgeDB: The post-SQL database
+https://github.com/edgedb/action-merge-release-pr # Github action to merge and tag release PRs
+https://github.com/edgedb/action-mypy # Github action for mypy

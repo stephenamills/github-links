@@ -1,0 +1,65 @@
+https://github.com/surrealdb/surrealdb # A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+https://github.com/surrealdb/surrealist # Surrealist is the ultimate way to visually manage your SurrealDB database
+https://github.com/surrealdb/awesome-surreal # A curated list of SurrealDB resources, tools, utilities, and applications.
+https://github.com/surrealdb/surrealdb.js # SurrealDB SDK for JavaScript
+https://github.com/surrealdb/surrealkv # A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
+https://github.com/surrealdb/surrealdb.go # SurrealDB SDK for Golang
+https://github.com/surrealdb/surrealdb.py # SurrealDB SDK for Python
+https://github.com/surrealdb/echodb # An embedded, in-memory, immutable, copy-on-write, key-value database engine
+https://github.com/surrealdb/surrealdb.wasm # A WebAssembly engine for the SurrealDB JavaScript SDK
+https://github.com/surrealdb/surrealdb.net # SurrealDB SDK for .NET
+https://github.com/surrealdb/indxdb # A key-value database engine abstraction layer for IndexedDB in WASM
+https://github.com/surrealdb/vart # A timed adaptive radix trie data-structure, used in SurrealKV
+https://github.com/surrealdb/surrealml # A machine learning library for Python and Rust, for PyTorch, Tensorflow and SKLearn models
+https://github.com/surrealdb/docs.surrealdb.com # The documentation for SurrealDB, powered by Astro
+https://github.com/surrealdb/surrealdb.java # SurrealDB SDK for Java
+https://github.com/surrealdb/surrealdb.node # A Node.js engine for the SurrealDB JavaScript SDK
+https://github.com/surrealdb/surrealdb.php # SurrealDB SDK for PHP
+https://github.com/surrealdb/examples # Example applications and scripts which run on SurrealDB
+https://github.com/surrealdb/docker.surrealdb.com # Configuration files for running a multi-node SurrealDB cluster using Docker
+https://github.com/surrealdb/rixxdb # A versioned, embedded, strongly-consistent, key-value database
+https://github.com/surrealdb/revision # A Rust library for revision-tolerant serialisation and deserialisation, with support for schema evolution over time
+https://github.com/surrealdb/ascua # A library for building advanced, optimised Ember.js apps
+https://github.com/surrealdb/surrealql-grammar # SurrealQL grammar definition for TextMate, VSCode, and other IDEs
+https://github.com/surrealdb/storekey # Binary encoding data format which ensures lexicographic sort order
+https://github.com/surrealdb/showcase # A showcase of applications which have been built with, or built upon SurrealDB
+https://github.com/surrealdb/fibre # A simple and fast HTTP and WebSocket framework for Go
+https://github.com/surrealdb/dmp # An efficient plain text comparison and patching library written in Rust
+https://github.com/surrealdb/discord-bot #
+https://github.com/surrealdb/cork # A binary serialisation format for Go
+https://github.com/surrealdb/surrealdb.c # SurrealDB driver for C
+https://github.com/surrealdb/surrealdb.deno # A Deno engine for the SurrealDB JavaScript SDK
+https://github.com/surrealdb/ember-surreal # A realtime SurrealDB data adapter for Ember.js
+https://github.com/surrealdb/web-indexer #
+https://github.com/surrealdb/windows.surrealdb.com # The script for installing SurrealDB on windows operating systems
+https://github.com/surrealdb/install.surrealdb.com # The script for installing SurrealDB on unix operating systems
+https://github.com/surrealdb/rfcs # Proposals and discussions on changes to SurrealDB
+https://github.com/surrealdb/surrealdb.react # SurrealDB driver for React
+https://github.com/surrealdb/setup-surreal # GitHub Action for running SurrealDB in CI environments
+https://github.com/surrealdb/memodb # An embedded, in-memory, immutable, copy-on-write, key-value database engine
+https://github.com/surrealdb/surrealdb-derive # Private implementation of procedural macros for SurrealDB
+https://github.com/surrealdb/license # Licensing information for the SurrealDB database, components, libraries, and SDKs
+https://github.com/surrealdb/bump # An efficient buffering library for Go
+https://github.com/surrealdb/trice # A minimal replacement for std::time::Instant that works in WASM
+https://github.com/surrealdb/surrealql.wasm # WebAssembly utility functions for SurrealQL parsing and validation
+https://github.com/surrealdb/vtree # A versioned radix tree library implementation for Go
+https://github.com/surrealdb/homebrew-tap # Homebrew tap for SurrealDB
+https://github.com/surrealdb/tlist # A linked time series list implementation for Go
+https://github.com/surrealdb/blist # A binary time series list implementation for Go
+https://github.com/surrealdb/surrealdb-macros # Private implementation of function macros for SurrealDB
+https://github.com/surrealdb/deb.surrealdb.com # The script for installing SurrealDB on Debian-based operating systems
+https://github.com/surrealdb/surrealql # SurrealQL data types for use in SurrealDB
+https://github.com/surrealdb/openapi # The OpenAPI specification for the SurrealDB HTTP API
+https://github.com/surrealdb/angular-surreal #
+https://github.com/surrealdb/lexicmp # Library for comparing and sorting strings lexicographically
+https://github.com/surrealdb/ptree # A radix tree library implementation for Go
+https://github.com/surrealdb/.github # This repository houses the SurrealDB Github organisation profile file
+https://github.com/surrealdb/download.surrealdb.com # The global repository for binary release files for macOS, Linux, and Windows
+https://github.com/surrealdb/helm-charts #
+https://github.com/surrealdb/version.surrealdb.com # A domain endpoint for announcing the latest published SurrealDB version
+https://github.com/surrealdb/chocolatey # The script for packaging SurrealDB for the Chocolatey package manager
+https://github.com/surrealdb/icons # Icons for use in other repositories in the SurrealDB organisation
+https://github.com/surrealdb/codemirror # An addon for supporting SurrealQL within your CodeMirror editors
+https://github.com/surrealdb/ember-surrealdb #
+https://github.com/surrealdb/surrealdb-async-graphql-axum #

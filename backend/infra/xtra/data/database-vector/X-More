@@ -2,9 +2,6 @@ https://en.wikipedia.org/wiki/Template:Natural_language_processing # Distributio
 https://en.wikipedia.org/wiki/Template:Differentiable_computing
 https://en.wikipedia.org/wiki/Template:Machine_learning # Mathematical foundations
 
-Chromem
-https://github.com/philippgille/chromem-go # Embeddable vector database for Go
-
 Milvus
 https://github.com/milvus-io/milvus # A cloud-native vector database, storage for next generation AI applications
 https://github.com/milvus-io/bootcamp # Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
