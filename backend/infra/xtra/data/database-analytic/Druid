@@ -1,0 +1,66 @@
+https://github.com/implydata/learn-druid # Learn the basics of Apache Druid® from leaders in the community with these notebooks and useful tools.
+https://github.com/implydata/druid-example-extension # Example extension for https://druid.apache.org/
+https://github.com/implydata/imply-iframe-examples # A set of examples of how to iFrame Pivot into your own app
+https://github.com/implydata/imply-external-auth-examples # Imply External Authentication Examples
+https://github.com/implydata/how-to-analyze-aws-vpc-logs-with-imply # How to analyze AWS VPC logs with Imply (blog post assets)
+https://github.com/implydata/imply-samples # Codes samples from Imply
+https://github.com/implydata/example-cert-checker # Example custom TLS certificate check extension
+https://github.com/implydata/workshop # Decodable + Polaris Workshop Instructions
+https://github.com/implydata/druid-datasets # Sample data and scripts that can be used to play with Apache Druid
+https://github.com/implydata/imply-iot-workshop # IoT Workshop based on Apache Druid with AWS IoT Core and streaming through Kinesis
+https://github.com/implydata/use-case-demos # Demos for observability and game analytics
+
+https://github.com/implydata/plywood # A toolkit for querying and interacting with Big Data
+https://github.com/implydata/distribution-docker # I'm an analytics platform! In a Docker container!
+https://github.com/implydata/druid-client # Java client for http://druid.io/
+https://github.com/implydata/plywood-druid-requester # Druid requester for Plywood (within node)
+https://github.com/implydata/datazoo # A collection of datasets and databases
+https://github.com/implydata/druid-query-toolkit # A collection of utilities for working with Druid queries
+https://github.com/implydata/druid-datagenerator # A data generator for Apache Druid
+https://github.com/implydata/druid-hadoop-inputformat # Hadoop InputFormat for http://druid.io/
+https://github.com/implydata/benchmark-tools #
+https://github.com/implydata/chronoshift # a library to manipulate time with timezones
+https://github.com/implydata/immutable-class # A little library to facilitate creating and testing serializable, immutable classes.
+https://github.com/implydata/getafix #
+https://github.com/implydata/druid.d.ts # TypeScript definitions for the Druid query API
+https://github.com/implydata/wikiticker # Scala wikimedia recent changes stream
+https://github.com/implydata/hostbook # Scala GeoIP lookups
+https://github.com/implydata/awesome-code-style # Style basics for awesome code
+https://github.com/implydata/plywood-postgres-requester # Postgres requester for Plywood (within node)
+https://github.com/implydata/druidcloudpoc # Components for creating a cloud-based POC
+https://github.com/implydata/road-signs #
+https://github.com/implydata/redshift-benchmark #
+https://github.com/implydata/express-serve-static-core # A concrete repo for the express-serve-static-core ghost type
+https://github.com/implydata/candidate-exercises-public #
+https://github.com/implydata/npm-synchronize # A tool to reduce friction when developing dependent projects simultaneously
+https://github.com/implydata/plywood-base-api # A base API for plywood requesters
+https://github.com/implydata/tdi # Typings Direct Injection
+https://github.com/implydata/jsonsmith #
+https://github.com/implydata/plywood-mysql-requester # MySQL requester for Plywood (within node)
+https://github.com/implydata/css-sanity #
+https://github.com/implydata/profiler # This is a repo for utility tools used by Field Engineering to perform performance benchmarking.
+https://github.com/implydata/spawn-server # A server spawner for test
+https://github.com/implydata/handling-null-extension #
+https://github.com/implydata/imply-deployer # The deployment service for Imply control plane and data plane clusters.
+https://github.com/implydata/imply-builddb # The service serves as a metadata repository for all Imply build artifacts.
+https://github.com/implydata/immutable-class-tester # A helper for testing immutable classes
+https://github.com/implydata/polaris-cli # A command line tool to create and manage Imply SaaS resources
+
+https://github.com/apache/druid # Apache Druid: a high performance real-time analytics database.
+
+https://github.com/apache/calcite # Apache Calcite
+https://github.com/apache/datasketches-server # Apache DataSketches simple server
+
+https://github.com/druid-io/tranquility # Tranquility helps you send real-time event streams to Druid and handles partitioning, replication, service discovery, and schema rollover, seamlessly and without downtime.
+https://github.com/druid-io/pydruid # A Python connector for Druid
+https://github.com/druid-io/druid-operator # Druid Kubernetes Operator
+https://github.com/druid-io/docker-druid # Druid Docker
+https://github.com/druid-io/druid-io.github.io # Druid Project Website
+https://github.com/druid-io/rdruid # Druid connector for R
+https://github.com/druid-io/druid-benchmark # Druid Benchmark
+https://github.com/druid-io/druid-console # An updated coordinator console that provides more insight into the status of your Druid cluster. This is not a data visualization console for Druid.
+https://github.com/druid-io/druid-api # A repository for the Druid API. This is a separate library that defines the APIs for Druid extensibility
+https://github.com/druid-io/kubectl-druid-plugin #
+https://github.com/druid-io/oss-parent # Druid Parent POM
+
+https://dbdb.io/db/druid

@@ -1,0 +1,11 @@
+https://github.com/coroot/coroot # Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊 🖥️ 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.
+
+https://github.com/coroot/coroot-node-agent # A Prometheus exporter based on eBPF that gathers comprehensive container metrics
+https://github.com/coroot/coroot-pg-agent # A Prometheus exporter for Postgres focusing on query performance statistics
+https://github.com/coroot/coroot-aws-agent # A prometheus exporter that gathers metrics from AWS services.
+https://github.com/coroot/logparser # A library and a CLI tool for clustering unstructured logs.
+https://github.com/coroot/helm-charts # Coroot Helm charts
+https://github.com/coroot/coroot-connect # Coroot-connect is a tool that establishes secure tunnels between the Coroot cloud and customers' clusters
+https://github.com/coroot/logger #
+https://github.com/coroot/coroot-cluster-agent #
+https://github.com/coroot/cloud-pricing # A compact cloud pricing dump based on infracost/cloud-pricing-api

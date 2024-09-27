@@ -1,0 +1,5 @@
+https://github.com/redhat-chaos/krkn-hub # Containerized wrapper around https://github.com/krkn-chaos/krkn to inject failures into Kubernetes clusters with minimal configuration.
+https://github.com/redhat-chaos/actions # Red Hat Chaos - GitHub Actions
+https://github.com/redhat-chaos/chaos-guide # Guide for chaos testing Kubernetes clusters
+https://github.com/redhat-chaos/cerberus # Guardian of Kubernetes clusters. Tool to monitor clusters health and signal/alert on failures.
+https://github.com/redhat-chaos/prow-scripts #

@@ -1,0 +1,14 @@
+https://github.com/parseablehq/parseable # Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
+
+https://github.com/parseablehq/console # Frontend Client for Parseable. Parseable is a cloud native log storage and management for Kubernetes, containerised workloads
+https://github.com/parseablehq/pb # CLI client for Parseable server. Inspect, query and analyse Parseable log data from your terminal.
+https://github.com/parseablehq/parseable-datasource # Grafana datasource plugin for Parseable
+https://github.com/parseablehq/quest # Containerised testing toolkit for Parseable. Provides API testing, Load testing and data correctness checks.
+https://github.com/parseablehq/parseable-docker-extension # Docker Extension for Parseable
+https://github.com/parseablehq/aws-lambda-extension # Parseable AWS Lambda Extension allows sending lambda function logs to your Parseable instance
+https://github.com/parseablehq/opentelemetry-rust-parseable #
+https://github.com/parseablehq/penguin # Penguin is a fast and simple round robin load balancer for Parseable ingestors
+https://github.com/parseablehq/parseable-sdk-go # Golang SDK for Parseable
+https://github.com/parseablehq/mock-modules #
+https://github.com/parseablehq/.github #
+https://github.com/parseablehq/blog-samples # This repo contains code snippets from Parseable blog posts

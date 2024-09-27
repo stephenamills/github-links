@@ -78,6 +78,75 @@ https://github.com/prometheus/promci # GitHub Actions repository
 https://github.com/prometheus/client_java-benchmarks #
 https://github.com/prometheus/kube-demo-site # Kubernetes Demo Site
 
+https://github.com/thanos-io/thanos # Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+https://github.com/thanos-io/kube-thanos # Kubernetes specific configuration for deploying Thanos.
+https://github.com/thanos-io/promql-engine # Multi-threaded PromQL engine implementation based on the Volcano paper.
+https://github.com/thanos-io/objstore # Go module providing unified interface and efficient clients to work with various object storage providers until like GCS, S3, Azure, SWIFT, COS and more.
+https://github.com/thanos-io/thanosbench # Kubernetes Playground for Thanos testing & benchmarking purposes
+https://github.com/thanos-io/tutorials # Definitions for interactive Thanos tutorials
+https://github.com/thanos-io/thanos-community-website #
+https://github.com/thanos-io/postings-analyzer #
+
+https://github.com/cortexproject/cortex # A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+https://github.com/cortexproject/cortex-helm-chart # Helm chart for Cortex
+https://github.com/cortexproject/promqlsmith # A random PromQL query generator
+https://github.com/cortexproject/cortex-jsonnet # This repo has the jsonnet for deploying and also the mixin for monitoring Cortex
+https://github.com/cortexproject/auth-gateway #
+https://github.com/cortexproject/cortex-tools #
+https://github.com/cortexproject/common # Libraries used by cortex
+
+https://github.com/prometheus-operator/prometheus-operator # Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+https://github.com/prometheus-operator/kube-prometheus # Use Prometheus to monitor Kubernetes and applications running on Kubernetes
+https://github.com/prometheus-operator/runbooks #
+https://github.com/prometheus-operator/poctl # [EXPERIMENTAL] Manage, troubleshoot and validate Prometheus-Operator resources via Command Line Interface!
+https://github.com/prometheus-operator/community # Repository used for managing Prometheus-Operator's community related tasks.
+
+https://github.com/perses/perses # The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
+https://github.com/perses/helm-charts # Perses helm chart
+https://github.com/perses/perses-operator #
+https://github.com/perses/common #
+https://github.com/perses/poc-cuelang # proof of concept to try using cuelang for plugin management
+https://github.com/perses/perses-plugins # Perses Plugins
+https://github.com/perses/poc-cue-modules # trying out https://cuelang.org/docs/tutorial/publishing-modules-to-the-central-registry/ with perses organization
+https://github.com/perses/github-actions # Set of GitHub actions shared by GitHub projects in the Perses Ecosystem.
+https://github.com/perses/poc-plugin-v2 # proof of concept to explore solutions for a revamped plugin architecture
+
+https://github.com/sustainable-computing-io/kepler # Kepler uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
+https://github.com/sustainable-computing-io/peaks # PEAKS: Power Efficiency Aware Kubernetes Scheduler
+https://github.com/sustainable-computing-io/kepler-operator # Kepler Operator
+https://github.com/sustainable-computing-io/clever # Container Level Energy-efficient VPA Recommender
+https://github.com/sustainable-computing-io/kepler-model-server # Model Server for Kepler
+https://github.com/sustainable-computing-io/kepler-doc # Kepler uses eBPF to probe energy related system stats and exports as Prometheus metrics
+https://github.com/sustainable-computing-io/kepler-helm-chart #
+https://github.com/sustainable-computing-io/susql-operator # a Kubernetes operator that aggregates energy and CO2 emission data for tagged resources
+https://github.com/sustainable-computing-io/local-dev-cluster #
+https://github.com/sustainable-computing-io/kepler-dashboard # Kepler Dashboard
+https://github.com/sustainable-computing-io/kepler-model-db # Repository containing up-to-date models to be used by the kepler-model-server
+https://github.com/sustainable-computing-io/community # Community Discussions
+https://github.com/sustainable-computing-io/kepler-action # github action for kepler to set up k8s cluster
+https://github.com/sustainable-computing-io/aws_ec2_self_hosted_runner # GitHub Action to Create an AWS EC2 Self-hosted Runner
+https://github.com/sustainable-computing-io/kepler-demo # Manifests, Documents, Tools used in Kepler Demos
+https://github.com/sustainable-computing-io/energy-measurement-data # Measuring CPU energy on workload using Kepler
+https://github.com/sustainable-computing-io/kepler-metal-ci # Testing different CI and Github Action pipelines and publish test results
+https://github.com/sustainable-computing-io/peaks-estimator # Inference Server for PEAKS
+https://github.com/sustainable-computing-io/kepler-model-training-playbook #
+https://github.com/sustainable-computing-io/label-exporter # Export pod labels as prometheus metrics to facilitate metric aggregation
+https://github.com/sustainable-computing-io/.github #
+https://github.com/sustainable-computing-io/scalability-benchmark-suite # Scalability Benchmark and Analysis Suite
+https://github.com/sustainable-computing-io/kepler-ci-artifacts #
+
+https://github.com/m3db/m3 # M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+
+https://github.com/m3db/m3db-operator # Kubernetes operator for M3DB
+https://github.com/m3db/proposal # M3 Design Documents
+https://github.com/m3db/build-tools # Various build tools
+https://github.com/m3db/ci-scripts # Common scripts used for builds
+https://github.com/m3db/m3storage # Tiered storage manager
+https://github.com/m3db/bench #
+https://github.com/m3db/dtest #
+https://github.com/m3db/pilosa # Temporary fork of pilosa/pilosa until we can merge performance improvements upstream
+https://github.com/m3db/docs-archive # Archive of docs for M3.
+
 https://github.com/prometheus-community/helm-charts # Prometheus community Helm charts
 https://github.com/prometheus-community/windows_exporter # Prometheus exporter for Windows machines
 https://github.com/prometheus-community/postgres_exporter # A PostgreSQL metric exporter for Prometheus
@@ -103,14 +172,3 @@ https://github.com/prometheus-community/vscode-promql # This is supposed to beco
 https://github.com/prometheus-community/community # Prometheus & The Ecosystem Community Meeting Information
 https://github.com/prometheus-community/snmp # Tools and configurations for translating SNMP into Prometheus
 https://github.com/prometheus-community/kitefactory #
-
-https://github.com/prometheus-operator/prometheus-operator # Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-https://github.com/prometheus-operator/kube-prometheus # Use Prometheus to monitor Kubernetes and applications running on Kubernetes
-https://github.com/prometheus-operator/runbooks #
-https://github.com/prometheus-operator/poctl # [EXPERIMENTAL] Manage, troubleshoot and validate Prometheus-Operator resources via Command Line Interface!
-https://github.com/prometheus-operator/community # Repository used for managing Prometheus-Operator's community related tasks.
-
-https://github.com/cortexproject/cortex # A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-https://github.com/cortexproject/cortex-helm-chart # Helm chart for Cortex
-https://github.com/cortexproject/promqlsmith # A random PromQL query generator
-https://github.com/cortexproject/auth-gateway #

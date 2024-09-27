@@ -1,0 +1,39 @@
+https://github.com/elastic/logstash # Logstash - transport and process your logs, events, or other data
+
+https://github.com/elastic/beats # :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
+https://github.com/elastic/logstash-forwarder # An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat
+https://github.com/elastic/beats-dashboards # DEPRECATED. Moved to https://github.com/elastic/beats. Please use the new repository to add new issues.
+https://github.com/elastic/beats-tester # E2E tests for the Beats
+https://github.com/elastic/elastic-agent-libs # Libraries used by Elastic Agent and Beats
+https://github.com/elastic/beats-packer # DEPRECATED: Moved to https://github.com/elastic/beats/tree/master/dev-tools/packer
+https://github.com/elastic/elastic-agent-changelog-tool # Tooling to manage the changelog for beats, Elastic Agent and Fleet Server
+https://github.com/elastic/machinebeat # This is a beat for collecting data of machines, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
+
+https://github.com/elastic/cloud-on-k8s # Elastic Cloud on Kubernetes
+https://github.com/elastic/dockerfiles # Dockerfiles for the official Elastic Stack images
+https://github.com/elastic/logstash-contrib # THIS REPOSITORY IS NO LONGER USED.
+https://github.com/elastic/support-diagnostics # Support diagnostics utility for elasticsearch and logstash
+https://github.com/elastic/logstash-docs # GENERATED REPOSITORY. DO NOT EDIT. - Documentation repository for Logstash static asciidoc and generated plugin asciidoc.
+https://github.com/elastic/puppet-logstashforwarder # Puppet module for Logstash Forwarder
+https://github.com/elastic/elk-index-size-tests # Supporting files for testing index sizes post-ingest
+https://github.com/elastic/makelogs #
+https://github.com/elastic/homebrew-tap # Homebrew tap for the Elastic Stack
+https://github.com/elastic/logstash-performance-testing # Logstash performance testing tool
+https://github.com/elastic/logstash-devutils # An assortment of tooling/libraries to make Logstash core and plugin development and releasing a bit easier.
+https://github.com/elastic/jarvis # Logstash's ChatOps bot, J.A.R.V.I.S.
+https://github.com/elastic/logstash-filter-elastic_integration # The Elastic Integrations filter for Logstash, which enables running Elastic Integrations inside of Logstash pipelines
+https://github.com/elastic/azure-marketplace-examples # Example scripts that demonstrate different usages of the ARM template in azure-marketplace
+https://github.com/elastic/ruby-lumberjack # Ruby lumberjack protocol, contains both client and server
+https://github.com/elastic/elasticsearch-opensearch-benchmark # Benchmarking Elasticsearch vs. Opensearch
+https://github.com/elastic/logstash-external-monitoring-repro # Reproduces a problem with pipelines going missing from the Monitoring view
+https://github.com/elastic/elasticsearch-river-twitter # Twitter River Plugin for elasticsearch (STOPPED)
+https://github.com/elastic/elasticsearch-river-couchdb # CouchDB River Plugin for elasticsearch (STOPPED)
+https://github.com/elastic/eck-diagnostics # Diagnostic tooling for ECK installations
+https://github.com/elastic/lca2016presentation # Presentation for LCA2016
+https://github.com/elastic/elastic-package # elastic-package - Command line tool for developing Elastic Integrations
+https://github.com/elastic/stream # Test utility for streaming data via udp/tcp/tls/webhook/GCP Pub-Sub/Kafka.
+https://github.com/elastic/logstash-ruby-scripts # Collection of ruby scripts for Logstash's Ruby filter plugin
+https://github.com/elastic/simple-data-generator #
+https://github.com/elastic/rspec-sequencing # Define sequenced actions that simulate real-world scenarios, e.g write_file then 2 seconds later rename it
+https://github.com/elastic/elasticsearch-clients-tests # Common tests for Elasticsearch Clients
+https://github.com/elastic/terraform-elastic-esf # Terraform - Elastic Serverless Forwarder

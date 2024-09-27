@@ -90,3 +90,26 @@ https://github.com/aspecto-io/malabi-integration-test-example # This project was
 https://github.com/aspecto-io/malabi
 https://github.com/aspecto-io/aspecto-celery-sample #
 https://github.com/aspecto-io/docs #
+
+https://github.com/traceloop/openllmetry # Open-source observability for your LLM application, based on OpenTelemetry
+https://github.com/traceloop/openllmetry-js # Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry
+https://github.com/traceloop/jest-opentelemetry # Easily run integration tests for your backends
+https://github.com/traceloop/go-openllmetry # Sister project to OpenLLMetry, but in Go. Open-source observability for your LLM application, based on OpenTelemetry
+https://github.com/traceloop/openllmetry-ruby # Sister project to OpenLLMetry, but in Ruby. Open-source observability for your LLM application, based on OpenTelemetry
+https://github.com/traceloop/docs # Documentation for Traceloop & OpenLLMetry
+https://github.com/traceloop/llamaindex-demo # A small demo of LlamaIndex app with OpenLLMetry tracing
+https://github.com/traceloop/openllmetry-nextjs-demo #
+https://github.com/traceloop/demo # A full demo of OpenLLMetry with LlamaIndex on Traceloop docs. See traceloop.com/demo
+https://github.com/traceloop/pinecone-demo # A simple demo of setting up OpenLLMetry to trace a RAG pipeline with Pinecone
+https://github.com/traceloop/langserve-demo # A demo showing how to use OpenLLMetry + LangServe
+https://github.com/traceloop/openllmetry-fastify-demo #
+https://github.com/traceloop/.github #
+
+https://github.com/kubeshop/tracetest # 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
+https://github.com/kubeshop/pokeshop #
+https://github.com/kubeshop/xk6-tracetest #
+https://github.com/kubeshop/testkube-executor-tracetest # TestKube executor for Tracetest
+https://github.com/kubeshop/tracetest-github-action # GitHub Action for running trace-based tests against Tracetest with our CI/CD pipeline
+https://github.com/kubeshop/tracetest-cloud-charts # Helm charts for Tracetest installation on-premises
+https://github.com/kubeshop/homebrew-tracetest #
+https://github.com/kubeshop/artillery-plugin-tracetest #

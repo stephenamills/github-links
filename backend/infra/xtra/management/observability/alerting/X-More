@@ -1,0 +1,2 @@
+Alert Manager
+https://github.com/prometheus/alertmanager # Handle alerts sent by client applications such as the Prometheus server, sending them to email, PagerDuty, OpsGenie, or anywhere else

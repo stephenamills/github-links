@@ -1,5 +1,4 @@
-https://github.com/elastic/apm # Elastic Application Performance Monitoring - resourc
-es and general issue tracking for Elastic APM.
+https://github.com/elastic/apm # Elastic Application Performance Monitoring - resourc es and general issue tracking for Elastic APM.
 https://github.com/elastic/apm-server #
 https://github.com/elastic/apm-agent-java #
 https://github.com/elastic/apm-agent-nodejs #
@@ -9,38 +8,45 @@ https://github.com/elastic/apm-agent-go #
 https://github.com/elastic/apm-agent-ruby #
 https://github.com/elastic/apm-agent-rum-js #
 https://github.com/elastic/apm-agent-php #
-https://github.com/elastic/apm-contrib # Contrib repository for Elastic APM
-https://github.com/elastic/apm-data # apm-data holds definitions and code for manipul
-ating Elastic APM data https://github.com/elastic/apm-aws-lambda # A repository for the AWS Lambda extension
-and other lambda related tools and build scripts. https://github.com/elastic/apm-agent-ios #
-https://github.com/elastic/hey-apm # Basic load generation for apm-server built on he
-y https://github.com/elastic/apm-k8s-attacher # Elastic APM Attacher for Kubernetes
-https://github.com/elastic/apm-agent-android # Elastic APM Android Agent
-https://github.com/elastic/apm-queue # Abstraction layer over Kafka / GCP PubSub Lite
-to produce and consume records https://github.com/elastic/apm-perf #
-https://github.com/elastic/apm-aggregation # APM metrics aggregation library
-https://github.com/elastic/apm-tools # Tools for developing and testing with Elastic
-APM https://github.com/elastic/apm-agent-python-benchmarks # Benchmarks for the Python AP
-M Agent https://github.com/elastic/apm-pipeline-library #
-https://github.com/elastic/opbeans-flask # A flask implementation of the Opbeans test
-app for Elastic APM https://github.com/elastic/opbeans-php # PHP backend implementation for Opbeans, Elas
-tic APM demo app https://github.com/elastic/apm-agent-java-plugin-example #
-https://github.com/elastic/sample-app-android-apm # Sample app to show the Elastic AP
-M implementation on Android apps https://github.com/elastic/apm-parser #
-https://github.com/elastic/scalability-simulation-generator # Generates server benchm
-arking simulations based on APM parser output https://github.com/elastic/aws-lambda-apm-sample-app # Sample Node.js app for AWS Lam
-bda demonstrating the usage of Elastic APM https://github.com/elastic/apm-agent-dotnet-profiler-example # An example of profiler
-auto instrumentation with the APM .NET agent https://github.com/elastic/apm-agent-versions # GCP function to fetch apm agent versi
-ons https://github.com/elastic/synthbeans-python # An application for generating syntheti
-c APM data which confirms to defined parameters.
 
-https://github.com/elastic/beats # :tropical_fish: Beats - Lightweight shippers for E
-lasticsearch & Logstash https://github.com/elastic/logstash-forwarder # An experiment to cut logs in preparat
-ion for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat https://github.com/elastic/beats-dashboards # DEPRECATED. Moved to https://github.com
-/elastic/beats. Please use the new repository to add new issues. https://github.com/elastic/beats-tester # E2E tests for the Beats
-https://github.com/elastic/elastic-agent-libs # Libraries used by Elastic Agent and B
-eats https://github.com/elastic/beats-packer # DEPRECATED: Moved to https://github.com/ela
-stic/beats/tree/master/dev-tools/packer https://github.com/elastic/go-lumber # Go based lumberjack client and server implemen
-tation. https://github.com/elastic/elastic-agent-changelog-tool # Tooling to manage the chang
-elog for beats, Elastic Agent and Fleet Server https://github.com/elastic/machinebeat # This is a beat for collecting data of machin
-es, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
+https://github.com/elastic/apm-contrib # Contrib repository for Elastic APM
+https://github.com/elastic/apm-data # apm-data holds definitions and code for manipul ating Elastic APM data
+https://github.com/elastic/apm-aws-lambda # A repository for the AWS Lambda extension and other lambda related tools and build scripts.
+https://github.com/elastic/apm-agent-ios #
+
+https://github.com/elastic/hey-apm # Basic load generation for apm-server built on he y
+https://github.com/elastic/apm-k8s-attacher # Elastic APM Attacher for Kubernetes
+https://github.com/elastic/apm-agent-android # Elastic APM Android Agent
+https://github.com/elastic/apm-queue # Abstraction layer over Kafka / GCP PubSub Lite to produce and consume records
+https://github.com/elastic/apm-perf #
+
+https://github.com/elastic/apm-aggregation # APM metrics aggregation library
+https://github.com/elastic/apm-tools # Tools for developing and testing with Elastic APM
+https://github.com/elastic/apm-agent-python-benchmarks # Benchmarks for the Python AP M Agent
+https://github.com/elastic/apm-pipeline-library #
+
+https://github.com/elastic/opbeans-flask # A flask implementation of the Opbeans test app for Elastic APM
+https://github.com/elastic/opbeans-php # PHP backend implementation for Opbeans, Elas tic APM demo app
+https://github.com/elastic/apm-agent-java-plugin-example #
+
+https://github.com/elastic/sample-app-android-apm # Sample app to show the Elastic AP M implementation on Android apps
+https://github.com/elastic/apm-parser #
+
+https://github.com/elastic/scalability-simulation-generator # Generates server benchm arking simulations based on APM parser output
+https://github.com/elastic/aws-lambda-apm-sample-app # Sample Node.js app for AWS Lam bda demonstrating the usage of Elastic APM
+https://github.com/elastic/apm-agent-dotnet-profiler-example # An example of profiler auto instrumentation with the APM .NET agent
+https://github.com/elastic/apm-agent-versions # GCP function to fetch apm agent versi ons
+https://github.com/elastic/synthbeans-python # An application for generating syntheti c APM data which confirms to defined parameters.
+
+https://github.com/elastic/beats # :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
+https://github.com/elastic/logstash-forwarder # An experiment to cut logs in preparat ion for processing elsewhere. Replaced by Filebeat:
+https://github.com/elastic/beats/tree/master/filebeat
+https://github.com/elastic/beats-dashboards # DEPRECATED. Moved to
+https://github.com/elastic/beats. Please use the new repository to add new issues.
+https://github.com/elastic/beats-tester # E2E tests for the Beats
+https://github.com/elastic/elastic-agent-libs # Libraries used by Elastic Agent and B eats
+https://github.com/elastic/beats-packer # DEPRECATED: Moved to
+https://github.com/ela stic/beats/tree/master/dev-tools/packer
+https://github.com/elastic/go-lumber # Go based lumberjack client and server implemen tation.
+https://github.com/elastic/elastic-agent-changelog-tool # Tooling to manage the chang elog for beats, Elastic Agent and Fleet Server
+https://github.com/elastic/machinebeat # This is a beat for collecting data of machin es, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.

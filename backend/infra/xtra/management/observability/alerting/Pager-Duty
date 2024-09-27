@@ -1,0 +1,79 @@
+https://github.com/pagerduty-samples/pd-populate-dev-account # This project provides Terraform code that populates a PagerDuty account with resources.
+https://github.com/pagerduty-samples/pagerduty-bulk-user-mgr-sample # Sample application using the PagerDuty API to perform bulk user actions
+https://github.com/pagerduty-samples/summit-2020-api-workshop #
+https://github.com/pagerduty-samples/event-orchestration-with-terraform # Sample code for configuring Event Orchestration with Terraform
+https://github.com/pagerduty-samples/terraform-examples # Example code for configuring PagerDuty with Terraform
+https://github.com/pagerduty-samples/pagerduty-oauth-sample-python # Sample project to illustrate how to build a PagerDuty OAuth flow with Python 3
+https://github.com/pagerduty-samples/pagerduty-app-event-transformer-sample # Sample for creating an App Event Transformer in PagerDuty
+https://github.com/pagerduty-samples/chaos-with-pagerduty-workshop-resources #
+https://github.com/pagerduty-samples/pdu-api-workshop # This is a utility application used during the PDU API Workshop.
+https://github.com/pagerduty-samples/lambda-audit-records-to-sumo-logic # A sample AWS Lambda function which fetches audit records for PagerDuty's REST API and sends them to an HTTP collector in Sumo Logic.
+https://github.com/pagerduty-samples/pagerduty-oauth-sample-node # Sample project to illustrate how to build a PagerDuty OAuth flow with Node.
+https://github.com/pagerduty-samples/aws-control-tower-resources # Repository to store CloudFormation templates and other resources for the AWS Control Tower "quickstart"
+https://github.com/pagerduty-samples/pagerduty-incidents-to-smartsheet # Python script that sends PagerDuty incidents to a sheet in Smartsheet
+https://github.com/pagerduty-samples/pagerduty-service-maintenance-sample # Client-side JavaScript sample that enables and disables PagerDuty Services
+https://github.com/pagerduty-samples/pagerduty-article-artifacts # Artifacts that various articles, and blog posts are referring to.
+
+https://github.com/pagerduty/incident-response-docs # PagerDuty's Incident Response Documentation.
+https://github.com/pagerduty/security-training # Public version of PagerDuty's employee security training courses.
+https://github.com/pagerduty/go-pagerduty # go client library for PagerDuty v2 API
+https://github.com/pagerduty/terraform-provider-pagerduty # Terraform PagerDuty provider
+https://github.com/pagerduty/pdpyras # Low-level PagerDuty REST/Events API client for Python
+https://github.com/pagerduty/pd-oncall-chat-topic # AWS Lambda Function that updates a Chat Room topic (eg, Slack)
+https://github.com/pagerduty/public-support-scripts #
+https://github.com/pagerduty/postmortem-docs # PagerDuty's Public Postmortem Documentation
+https://github.com/pagerduty/chrome-notifier # Google Chrome extension for PagerDuty desktop notifications.
+https://github.com/pagerduty/pdjs # JavaScript wrapper for the PagerDuty API
+https://github.com/pagerduty/api_python_examples # Examples of using the REST API endpoints in Python
+https://github.com/pagerduty/pdagent # The PagerDuty Agent is a program that lets you easily integrate your monitoring system with PagerDuty.
+https://github.com/pagerduty/api-schema # PagerDuty OpenAPI schemas
+https://github.com/pagerduty/lita-pagerduty # A PagerDuty plugin for Lita
+https://github.com/pagerduty/backstage-plugin # PagerDuty plugin for Backstage
+https://github.com/pagerduty/full-service-ownership-docs # PagerDuty's Full Service Ownership Documentation
+https://github.com/pagerduty/operational-review-docs # PagerDuty's public operational review documentation.
+https://github.com/pagerduty/pagerduty-zabbix-py # Zabbix Integration for PagerDuty via Python Wrapper
+https://github.com/pagerduty/devsecops-docs # DevSecOps Guide, located devsecops.pagerduty.com
+https://github.com/pagerduty/pdagent-integrations #
+https://github.com/pagerduty/go-pdagent # A new PagerDuty agent.
+https://github.com/pagerduty/pagerduty-nagios-pl # Nagios Integration for PagerDuty via Perl Wrapper
+https://github.com/pagerduty/developer-docs # PagerDuty's developer documentation
+https://github.com/pagerduty/pd-ip-checker #
+https://github.com/pagerduty/stakeholder-comms-docs # PagerDuty's Stakeholder Communications Documentation.
+https://github.com/pagerduty/retrospectives-docs # PagerDuty's Retrospectives Documentation.
+https://github.com/pagerduty/blender-chef # Chef search based host discovery for blender.
+https://github.com/pagerduty/pagerduty-change-events-action # A GitHub action that creates a PagerDuty change event.
+https://github.com/pagerduty/business-response-docs # PagerDuty's Business Incident Response Documentation -
+https://github.com/pagerduty/automated-remediation-docs # PagerDuty's Automated Remediation Ops Guide Docs
+https://github.com/pagerduty/goingoncall-docs # Repository for the Best Practices for On Call Teams Ops Guide
+https://github.com/pagerduty/swiftcompactcalendar # A compact calendar view for managing dates of a Calendar in Swift.
+https://github.com/pagerduty/api_ruby_examples # Examples of using the REST API endpoints in Ruby
+https://github.com/pagerduty/api_php_examples # Examples of using the PagerDuty API endpoints in PHP
+https://github.com/pagerduty/full-case-ownership-docs # PagerDuty's Ops Guide for Customer Service Operations and Full Case Ownership
+https://github.com/pagerduty/zenpacks.pagerduty.apinotification # PagerDuty's Zenoss Zenpack
+https://github.com/pagerduty/app-documentation-templates # This is a public repository of documentation templates which PagerDuty app and integration builders can use to document what they build.
+https://github.com/pagerduty/backstage-plugin-backend # PagerDuty plugin for Backstage - Backend
+https://github.com/pagerduty/mkdocs-theme-pagerduty # A custom MkDocs theme for all our public Ops Guide websites.
+https://github.com/pagerduty/backstage-plugin-scaffolder-actions # Backstage scaffolder actions for PagerDuty
+https://github.com/pagerduty/backstage-plugin-common # This project exposes common types and objects to PagerDuty's frontend and backend plugins for Backstage
+https://github.com/pagerduty/postincident-howie-docs #
+https://github.com/pagerduty/pagerduty-icinga-pl # Icinga Integration for PagerDuty via Perl Wrapper
+https://github.com/pagerduty/plug_datadog_stats #
+https://github.com/pagerduty/servicenow-updatesets # This repo contains update sets to be used with creating Clone Data Preservers in ServiceNow. These are compatible with versions 5 and 6 of the PagerDuty app.
+https://github.com/pagerduty/scom-powershell-integration #
+https://github.com/pagerduty/security-hub-cloudformation # Contains PagerDuty's CloudFormation Template for Security Hub Integration
+https://github.com/pagerduty/pd-feature-cookbook # This is a library cookbook that adds support for rule-based feature flags to Chef recipes.
+https://github.com/pagerduty/interview-skeleton # Public sample code for a variety of languages for the API interview coding exercise
+https://github.com/pagerduty/interview-java-skeleton #
+https://github.com/pagerduty/backstage-plugin-docs # Documentation for PagerDuty plugin for Backstage
+https://github.com/pagerduty/pagerduty-rabbitmq-plugins #
+https://github.com/pagerduty/backstage-plugin-entity-processor # Backstage entity processor for PagerDuty
+https://github.com/pagerduty/ark #
+https://github.com/pagerduty/cherwell-integration #
+https://github.com/pagerduty/eventbridge-samples # Samples for AWS EventBridge Lambdas with PagerDUty
+https://github.com/pagerduty/bitrise-step-pagerduty # Bitrise CI step to create PagerDuty events
+https://github.com/pagerduty/pd-to-scom-distribution #
+https://github.com/pagerduty/sample-app-workshop #
+https://github.com/pagerduty/whazzup # A health check daemon for datastore services (MySQL, Zookeeper) that exposes health as an HTTP endpoint.
+https://github.com/pagerduty/ca-uim-probe # Download links for the PagerDuty CA UIM Gateway Probe
+https://github.com/pagerduty/cf-pagerduty-service # PagerDuty integration for Cloud Foundry
+https://github.com/pagerduty/pd-remedy-integration # Public repo for the releases of the PagerDuty Remedy Integration

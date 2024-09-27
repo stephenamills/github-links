@@ -1,0 +1,282 @@
+https://github.com/openshift-pipelines/pipelines-as-code # Pipelines-as-Code for Tekton
+https://github.com/openshift-pipelines/pipeline-service # SaaS for Tekton Pipelines
+https://github.com/openshift-pipelines/release-tests # Validation of OpenShift Pipeline releases
+https://github.com/openshift-pipelines/tekton-caches # Tools (and Task/StepAction) to manage cached content within Tekton
+https://github.com/openshift-pipelines/tektoncd-catalog # Catalog of Tekton resources (Tasks, Pipelines, …) by Red Hat
+https://github.com/openshift-pipelines/tekton-task-group # Tekton Custom Task that allows to group Task together as a Task
+https://github.com/openshift-pipelines/opc # A CLI for interacting with OpenShift Pipelines!
+https://github.com/openshift-pipelines/cumin # jira utils
+https://github.com/openshift-pipelines/docs # Unofficial documentation for OpenShift Pipelines maintainer by the engineer
+https://github.com/openshift-pipelines/must-gather # Openshift must-gather image for Pipeline
+https://github.com/openshift-pipelines/manual-approval-gate # OpenShift Pipelines manual approval custom task
+https://github.com/openshift-pipelines/toolbox # Set of "random" tools developed by the openshift-pipelines team
+https://github.com/openshift-pipelines/performance #
+https://github.com/openshift-pipelines/console-plugin # OpenShift Pipelines (and Tekton) OpenShift console dynamic plugin
+https://github.com/openshift-pipelines/pipeline-service-workspace-controller # KCP controller for configuring Pipeline Service in a workspace
+https://github.com/openshift-pipelines/operator # (PoC)
+https://github.com/openshift-pipelines/enhancements # Enhancements Tracking and Backlog
+https://github.com/openshift-pipelines/pipeline-service-exporter # Prometheus exporter for Pipeline Service metrics
+https://github.com/openshift-pipelines/nightly-ci-kicks # Repository to kicks the nightly CI from every night
+https://github.com/openshift-pipelines/homebrew-pipelines-as-code # Homebrew repository for Pipelines as Code
+https://github.com/openshift-pipelines/setup-tektoncd-cli # GitHub Action to install Tekton's CLI (tkn)
+https://github.com/openshift-pipelines/ecosystem-images # All the images required for the ecosystem and built by Konflux.
+https://github.com/openshift-pipelines/pipelines-examples # Pipelines Exampels
+https://github.com/openshift-pipelines/task-git #
+https://github.com/openshift-pipelines/tekton-wrap-pipeline # Wrap a Pipeline to use OCI as workspace
+https://github.com/openshift-pipelines/tkn-autogenerate # Experimental plugin to tkn to automatically generate PipelineRun according to repository patterns and detection
+https://github.com/openshift-pipelines/tektoncd-pruner # TektonCD Pruner project
+https://github.com/openshift-pipelines/task-containers #
+https://github.com/openshift-pipelines/task-openshift #
+https://github.com/openshift-pipelines/hack # Repository to hack things around in the openshift-pipelines organization
+https://github.com/openshift-pipelines/pac-demo #
+https://github.com/openshift-pipelines/task-buildpacks #
+https://github.com/openshift-pipelines/catalog-cd # The catalog-cd is the tool(kit) to manage a catalog repository as well as helping Tekton resources (Task, Pipeline, …) authors management in external repostiories.
+https://github.com/openshift-pipelines/release-tektoncd-task # GitHub Action to manage the release of a Tekton Task repository
+https://github.com/openshift-pipelines/setup-tektoncd # GitHub Action to rollout Tekton Pipeline and auxiliary components
+https://github.com/openshift-pipelines/task-maven #
+
+https://github.com/openshiftdemos/openshift-ops-workshops # Workshop materials for OpenShift admin training, covering Red Hat OpenShift Container Platform 4, Modern App Dev Roadshow's Ops Track, and Summit 2023 Hands-on with OCP Plus.
+https://github.com/openshiftdemos/os-sample-python # Sample Python Flask application for testing OpenShift 3 deployment using OpenShift default Python S2I builder and gunicorn.
+https://github.com/openshiftdemos/gogs-openshift-docker # A Docker setup for gogs.io with OpenShift in mind
+https://github.com/openshiftdemos/openshift-tasks # Sample JBoss EAP (WildFly) App for OpenShift
+https://github.com/openshiftdemos/sonarqube-openshift-docker # An OpenShift-focused Docker build of Sonarqube
+https://github.com/openshiftdemos/nexus #
+https://github.com/openshiftdemos/demo-guide # A guide to all the official OpenShift demos and workshops
+https://github.com/openshiftdemos/os-sample-java-web # Sample Java Web Application for use in OpenShift
+https://github.com/openshiftdemos/openshift-gitops-workshop # An introductory workshop covering OpenShift Gitops (based on ArgoCD)
+https://github.com/openshiftdemos/argo-rollouts-workshop # A workshop for Argo Rollouts on OpenShift
+https://github.com/openshiftdemos/grafana-openshift # A grafana Dockerfile for OpenShift
+https://github.com/openshiftdemos/blender-operator # An operator to handle various headless blender tasks in a Kubernetes cluster
+https://github.com/openshiftdemos/kubeflow-mpi-openfoam #
+https://github.com/openshiftdemos/blender-remote # A quick and dirty attempt at running headless Blender on OpenShift
+https://github.com/openshiftdemos/toucantts-rhods-voice-cloning # A proof-of-concept demonstration of using Red Hat OpenShift Data Science and the ToucanTTS project to clone a voice
+https://github.com/openshiftdemos/gitlab-openshift-docker # An OpenShift-focused Docker build of Gitlab
+https://github.com/openshiftdemos/coolstore-portfolio #
+https://github.com/openshiftdemos/workshop-provisioner # a provisioner pod for openshift workshops
+https://github.com/openshiftdemos/app-platform #
+https://github.com/openshiftdemos/ask-an-openshift-admin # The Ask an OpenShift Admin office hour livestream, https://red.ht/aoa
+https://github.com/openshiftdemos/ansible_gce_deployer # An Ansible-based deployer to provision an OpenShift environment on GCE
+https://github.com/openshiftdemos/openshift_docker_deployer # A docker image that contains Ansible deployment scripts for OpenShift workshops
+https://github.com/openshiftdemos/containerizing-apps-2021 #
+https://github.com/openshiftdemos/cockroachdb-kafka-eda-lab # A bookbag-based lab exploring CockroachDB, Red Hat AMQ, and Event-Driven Architectures
+https://github.com/openshiftdemos/nexus-openshift-docker # Sonatype Nexus Docker Image with JBoss Enterprise repository pre-configured
+https://github.com/openshiftdemos/s2s-bookbag # A repository of workshop instructions for the AI/ML "stats to serverless" workshop
+https://github.com/openshiftdemos/centos-jdk8-maven-docker # Simply adds maven to jboss/base-jdk:8
+https://github.com/openshiftdemos/cakephp-ingress-demo #
+https://github.com/openshiftdemos/continuous-security-demo #
+https://github.com/openshiftdemos/safari-demo # Safari demo: End-to-end Computer vision at the edge series
+https://github.com/openshiftdemos/project-pdf-catalog #
+https://github.com/openshiftdemos/os-sample-ruby # Sample Ruby application for documenting OpenShift v3 features and workflows
+https://github.com/openshiftdemos/rag-demo #
+https://github.com/openshiftdemos/nl-summary-generator #
+https://github.com/openshiftdemos/tinyfilemanager-php-ubi # A PHP/UBI image based off the S2I-PHP RHEL UBI image running tinyfilemanager
+https://github.com/openshiftdemos/os-sample-php # Sample PHP application for documenting OpenShift v3 features and workflows
+https://github.com/openshiftdemos/project-oks #
+https://github.com/openshiftdemos/llamaindex-rag-example #
+https://github.com/openshiftdemos/coolstore-portfolio-deploy # Helm charts and deployment assets/manifests for the coolstore-portfolio application
+https://github.com/openshiftdemos/catalog-spring-boot #
+
+https://github.com/openshift-instruqt/blog-django-py # Sample blog application implemented using Python and Django.
+https://github.com/openshift-instruqt/instruqt # Repository for the Red Hat and OpenShift Developers Learning Portal, powered by Instruqt.
+https://github.com/openshift-instruqt/rhoar-getting-started # This repo contains the source code for the RHOAR getting started demos on Katacoda
+https://github.com/openshift-instruqt/simple-http-server # Sample S2I builder for a simple HTTP server.
+https://github.com/openshift-instruqt/python-wheelhouse # Sample S2I builder for implementing a Python wheelhouse.
+https://github.com/openshift-instruqt/ai-machine-learning-jupyter-notebooks #
+https://github.com/openshift-instruqt/dd-jaxrs # A JAX-RS application that generates random Dungeon & Dragon Characters (doesn't follow real rules)
+https://github.com/openshift-instruqt/rhi-kafka-pathway #
+https://github.com/openshift-instruqt/rhoar-eap-rest # Simple RESTful endpoint for demonstrating JBoss EAP JAX-RS RESTful APIs
+https://github.com/openshift-instruqt/ai-machine-learning-jupyterhub-quickstart #
+
+https://github.com/openshift-psap/llm-load-test #
+https://github.com/openshift-psap/topsail # Test Orchestrator for Performance and Scalability of AI pLatforms
+https://github.com/openshift-psap/special-resource-operator # SRO supports out-of-tree and third-party kernel drivers and the support software for the node OS via containers.
+https://github.com/openshift-psap/wireguard-worker # Ansible playbooks that use WireGuard VPN to scale up OpenShift clusters across labs
+https://github.com/openshift-psap/specfem-client # Specfem Go client for OpenShift (Kubernetes)
+https://github.com/openshift-psap/blog-artifacts #
+https://github.com/openshift-psap/scheduler-plugins # Repository for out-of-tree scheduler plugins based on scheduler framework.
+https://github.com/openshift-psap/deeplearningexamples # Deep Learning Examples
+https://github.com/openshift-psap/inference # Reference implementations of MLPerf™ inference benchmarks
+https://github.com/openshift-psap/ci-dashboard # A dashboard for the test of the CI-Artifacts playbooks running on Prow
+https://github.com/openshift-psap/oci-decorator #
+https://github.com/openshift-psap/blog-microshift-gpus #
+https://github.com/openshift-psap/gpu-burn #
+https://github.com/openshift-psap/matrix-benchmarking-workloads # Workloads for the MatrixBenchmarking project
+https://github.com/openshift-psap/matrix-benchmarking #
+https://github.com/openshift-psap/wdm #
+https://github.com/openshift-psap/openshift-psap.github.io #
+https://github.com/openshift-psap/rhods-jupyter-notebooks # Some Publicly Available Jupyter Notebooks for RHODS testing
+https://github.com/openshift-psap/ghz # Simple gRPC benchmarking and load testing tool
+https://github.com/openshift-psap/community-operators # The canonical source for Kubernetes Operators that appear on OperatorHub.io, OpenShift Container Platform and OKD.
+https://github.com/openshift-psap/gpu-direct-rdma #
+https://github.com/openshift-psap/training_results_v0.7 # MLPerf™ Training v0.7 results
+https://github.com/openshift-psap/ods-ci # odh qe tier tests
+https://github.com/openshift-psap/blog-mlperftraining-v3.1 #
+https://github.com/openshift-psap/mlperf_v0.6_resources # Resources for running the NVIDIA v0.6 implementations of MLPerf Training benchmarks in UBI8 containers
+https://github.com/openshift-psap/openshift-psap-installer # Custom OpenShift PSAP Installer
+https://github.com/openshift-psap/release # Release tooling for OpenShift
+https://github.com/openshift-psap/driver-container-tekton # Scripts and tools to build the driver-container:base image
+https://github.com/openshift-psap/mofed-driver-container #
+https://github.com/openshift-psap/simple-kmod #
+https://github.com/openshift-psap/pts #
+https://github.com/openshift-psap/inference_results_v2.0 # MLCommons MLPerf Inference 2.0
+https://github.com/openshift-psap/redhat_smc_inference_v4.0 # Submission for MLPerf Inference v4.0
+https://github.com/openshift-psap/driver-toolkit-container # Base image for building out-of-tree drivers on OpenShfit
+https://github.com/openshift-psap/dgx-blogpost #
+https://github.com/openshift-psap/kvc-xilinx-xrt #
+https://github.com/openshift-psap/lustre-aws-specialresource # Resources needed to deploy the driver container and CSI driver for the AWS Lustre FSx service using the Special Resource Operator.
+https://github.com/openshift-psap/ci-artifacts-priv # OpenShift PSAP-team CI Artifacts
+https://github.com/openshift-psap/gpudirect-driver-container #
+https://github.com/openshift-psap/kvc-simple-kmod #
+https://github.com/openshift-psap/specfem-client-api # Specfem Go client K8s API
+https://github.com/openshift-psap/aws-fpga # Official repository of the AWS EC2 FPGA Hardware and Software Development Kit
+https://github.com/openshift-psap/openshift-acme # ACME Controller for OpenShift and Kubernetes Cluster. (Supports e.g. Let's Encrypt)
+https://github.com/openshift-psap/kmods-via-containers #
+https://github.com/openshift-psap/ci-artifacts-tooling # Internal tools for running PSAP work
+
+https://github.com/openshift-telco/openshift4x-poc # Instructions and references configurations for OpenShift 4.x POC
+https://github.com/openshift-telco/go-netconf-client # NETCONF client implementation in go.
+https://github.com/openshift-telco/telco-gitops #
+https://github.com/openshift-telco/netconf-operator # Kubernetes Operator supporting NETCONF RPCs and Notifications.
+https://github.com/openshift-telco/ocp4-offline-operator-mirror # Script to create a custom operator catalog for air-gapped (disconnected) environments by mirroring images to a local registry on a bastion system.
+https://github.com/openshift-telco/distributed-open5gs # Distributed 5G Core using Skupper on Red Hat Openshift
+https://github.com/openshift-telco/ocp4x-upi-rt # OpenShift 4.x RHEL-RT worker nodes using UPI mode
+https://github.com/openshift-telco/readme.lab.diktio.net #
+https://github.com/openshift-telco/openshift-telco.github.io #
+https://github.com/openshift-telco/custom-rhcos-live-iso #
+https://github.com/openshift-telco/blueprints-nephio-openshift # Standard Nephio packages for OpenShift-based installations
+https://github.com/openshift-telco/ocp-intel-vcmts # Intel vCMTS on Red Hat OpenShift
+https://github.com/openshift-telco/bp-cluster-compact-acm-core.lab.diktio.net #
+https://github.com/openshift-telco/frr-ubi8-ipv4 # A simple image set-up to run FRR on OpenShift based on the work from the FRRouting Git (https://github.com/FRRouting/frr) with some minor changes documented here.
+https://github.com/openshift-telco/telco-gitops-mgmt # Telco GitOps Management Cluster
+https://github.com/openshift-telco/bp-mgmt-sno.lab.diktio.net #
+https://github.com/openshift-telco/values-global-lab.diktio.net #
+https://github.com/openshift-telco/mgmt-snoacm.lab.ditio.net #
+https://github.com/openshift-telco/acm-ztp-helm-siteconfig # A sample deployment of a 3M+5W ulti-MCP deployment using Helm to generate the SiteCofig Yaml
+https://github.com/openshift-telco/mgmt-manage.lab.diktio.net #
+https://github.com/openshift-telco/cluster-compact.lab.diktio.net #
+https://github.com/openshift-telco/bp-common.lab.diktio.net #
+https://github.com/openshift-telco/mgmt-ocpmgmt.lab.diktio.net #
+https://github.com/openshift-telco/open5gs-helm-chart # Helm Chart for Open5GS core
+https://github.com/openshift-telco/nephio # OpenShift-specific KRM functions for Nephio project
+https://github.com/openshift-telco/bp-cluster-sno-du12.lab.diktio.net #
+https://github.com/openshift-telco/cluster-smcdu2.lab.diktio.net #
+https://github.com/openshift-telco/telco-gitops-clusters #
+https://github.com/openshift-telco/bp-mgmt-sno-acm.lab.diktio.net #
+https://github.com/openshift-telco/bp-mgmt-compact-3.lab.diktio.net #
+
+https://github.com/openshift-knative/serverless-operator # Main source repository for Openshift Serverless
+https://github.com/openshift-knative/docs # Documentation for Knative on Red Hat's OpenShift
+https://github.com/openshift-knative/hack # CI tooling to improve and automate CI and release management
+https://github.com/openshift-knative/cluster-devint #
+https://github.com/openshift-knative/eventing-hyperfoil-benchmark #
+https://github.com/openshift-knative/knative-camel-operator #
+https://github.com/openshift-knative/knative-istio-authz-chart # Helm chart to onboard a set of authorization-based isolated namespaces to Knative when using Istio
+https://github.com/openshift-knative/must-gather # Openshift must-gather image for Serverless
+https://github.com/openshift-knative/serverless-clusterloader # OpenShift Serverless configurations for OpenShift Cluster Loader
+https://github.com/openshift-knative/knative-eventing-backstage-poc # knative-eventing-backstage-poc
+https://github.com/openshift-knative/function-samples # Example functions for OpenShift Serverless on the Dev Console
+https://github.com/openshift-knative/showcase # A showcase for OpenShift Serverless
+
+https://github.com/openshift-integration/kamelet-catalog # Home for Red Hat Integration Kamelets
+https://github.com/openshift-integration/camel-k-example-knative #
+https://github.com/openshift-integration/camel-k-example-event-streaming #
+https://github.com/openshift-integration/camel-k-example-api #
+https://github.com/openshift-integration/camel-k-example-basic #
+https://github.com/openshift-integration/camel-k-example-kafka # Quickstart to show how to connect Kafka from Camel K
+https://github.com/openshift-integration/camel-k-example-saas #
+https://github.com/openshift-integration/camel-k-example-jdbc # Quickstart to show how to connect a SQL Database from Camel K via JDBC
+https://github.com/openshift-integration/camel-k-example-jms # Quick start to show how to consume or produce data to and from a JMS broker
+https://github.com/openshift-integration/camel-k-example-transformations #
+https://github.com/openshift-integration/camel-k-testing-ocp4 # Testing for camel-k on openshift 4
+
+https://github.com/openshift-metal3/dev-scripts # Scripts to automate development/test setup for openshift integration with https://github.com/metal3-io/
+https://github.com/openshift-metal3/terraform-provider-ironic # Terraform provider for Ironic
+https://github.com/openshift-metal3/fakefish # An experimental Redfish proxy that calls shell scripts for executing hardware actions
+https://github.com/openshift-metal3/bmctest # Test BMC compatibility with Ironic
+https://github.com/openshift-metal3/jira-sync # Tool to since from other issue trackers into jira
+https://github.com/openshift-metal3/metal-ci-extractor # Script to extract Metal3 bits from CI results
+https://github.com/openshift-metal3/diagrams #
+
+https://github.com/okd-project/okd # The self-managing, auto-upgrading, Kubernetes distribution for everyone
+https://github.com/okd-project/okd-scos # OKD/SCOS releases
+https://github.com/okd-project/okd-payload-pipeline #
+https://github.com/okd-project/okd-coreos-pipeline # Tekton pipeline for running coreos-assembler builds
+https://github.com/okd-project/okd-operator-pipeline # OKD Tekton Pipeline Definitions
+https://github.com/okd-project/okderators-catalog-index # WIP: Opinionated catalogue of operators designed for OKD
+https://github.com/okd-project/working-group # This repository contains materials for the OKD Working Group
+https://github.com/okd-project/okd-release-pipeline # This enables the release process to be pushed to okd-scos
+https://github.com/okd-project/miniagent #
+https://github.com/okd-project/tekton-catalog # Tekton Task and Pipeline definitions for OKD release engineering
+https://github.com/okd-project/images # OKD Container Base Image Definitions
+https://github.com/okd-project/okd-web # okd.io built with Docusaurus
+https://github.com/okd-project/moc # Tracker for issues regarding running OKD on Mass Open Cloud
+https://github.com/okd-project/okd-sample-operator #
+https://github.com/okd-project/operators #
+https://github.com/okd-project/okd-tekton-trigger-example # A simple example to enable tekton eventlisteners, triggerbindings and triggertemplates
+https://github.com/okd-project/planning # This repository is to hold issues used in the project board
+https://github.com/okd-project/okd-operator-index #
+https://github.com/okd-project/okd-providercert-pipeline # A POC tekton pipeline
+https://github.com/okd-project/.github #
+
+https://github.com/openshift/origin # Conformance test suite for OpenShift
+https://github.com/openshift/pipelines-tutorial # A step-by-step tutorial showing OpenShift Pipelines
+https://github.com/openshift/cluster-monitoring-operator # Manage the OpenShift monitoring stack
+https://github.com/openshift/hive # API driven OpenShift cluster provisioning and management
+https://github.com/openshift/machine-config-operator #
+https://github.com/openshift/ansible-service-broker # Ansible Service Broker
+https://github.com/openshift/oc # The OpenShift Command Line, part of OKD
+https://github.com/openshift/enhancements # Enhancements tracking repository for OKD
+https://github.com/openshift/telemeter # Prometheus push federation
+https://github.com/openshift/api # Canonical location of the OpenShift API definition.
+https://github.com/openshift/cluster-ingress-operator # The Cluster Ingress Operator manages highly available network ingress for OpenShift
+https://github.com/openshift/cluster-kube-apiserver-operator # The kube-apiserver operator installs and maintains the kube-apiserver on a cluster
+https://github.com/openshift/ovn-kubernetes # Kubernetes integration for OVN
+https://github.com/openshift/elasticsearch-operator #
+https://github.com/openshift/router # Ingress controller for OpenShift
+https://github.com/openshift/autoheal # Autoheals based on monitoring alerts
+https://github.com/openshift/runbooks # Runbooks for Alerts on OCP
+https://github.com/openshift/tektoncd-pipeline-operator # tektoncd-pipeline operator for Kubernetes to manage installation, updation and uninstallation of tekton-cd pipelines.
+https://github.com/openshift/ruby-hello-world # Hello world ruby sample for OpenShift v3
+https://github.com/openshift/openshift-velero-plugin # General Velero plugin for backup and restore of openshift workloads.
+https://github.com/openshift/cluster-dns-operator # The Cluster DNS Operator manages cluster DNS services for OpenShift
+https://github.com/openshift/openshift-gitops-examples # OpenShift GitOps Examples
+https://github.com/openshift/certman-operator # Operator to Manage Let's Encrypt certificates for OpenShift Clusters
+https://github.com/openshift/cluster-kube-controller-manager-operator # The kube-controller-manager operator installs and maintains the kube-controller-manager on a cluster
+https://github.com/openshift/ingress-node-firewall # Ingress node firewall implements Kubernetes operator to provision stateless ingress node level firewall rules, using the eBPF XDP kernel plugin
+https://github.com/openshift/service-ca-operator # Controller to mint and manage serving certificates for Kubernetes services
+https://github.com/openshift/console-plugin-template # Minimal template for writing OpenShift console plugins
+https://github.com/openshift/cluster-autoscaler-operator # Manage Kubernetes cluster-autoscaler deployments
+https://github.com/openshift/coredns-mdns # CoreDNS plugin that serves .local mDNS info over normal DNS
+https://github.com/openshift/managed-upgrade-operator # V4 cluster upgrade automation
+https://github.com/openshift/insights-operator #
+https://github.com/openshift/whereabouts-cni # Cluster-wide IPAM CNI plugin
+https://github.com/openshift/sandboxed-containers-operator # An operator to enhance an Openshift/Kubernetes cluster to support running sandboxed containers
+https://github.com/openshift/cluster-kube-scheduler-operator # Installs and maintains the kube-scheduler on a cluster.
+https://github.com/openshift/cluster-nfd-operator # The Cluster Node Feature Discovery operator manages detection of hardware features and configuration in a Openshift cluster.
+https://github.com/openshift/openshift-jee-sample # A sample app to be deployed on openshift environments
+https://github.com/openshift/rbac-permissions-operator # Operator to manage RBAC permissions for groups across subsets of namespaces
+https://github.com/openshift/lightspeed-service # Core repository for an AI-powered OCP assistant service
+https://github.com/openshift/ci-chat-bot #
+https://github.com/openshift/osdctl # CLI for the OSD utilities
+https://github.com/openshift/cluster-openshift-apiserver-operator # The openshift-apiserver operator installs and maintains the openshift-apiserver on a cluster
+https://github.com/openshift/kubernetes-namespace-reservation # An admission webhook that prevents the creation of specified namespaces
+https://github.com/openshift/csi-driver-shared-resource # CSI driver for sharing Secrets and ConfigMaps across namespaces.
+https://github.com/openshift/gcp-project-operator # Operator responsible for managing GCP projects and credentials.
+https://github.com/openshift/cluster-machine-approver # The cluster-machine-approver validates and approves CSRs for nodes attempting to join the cluster.
+https://github.com/openshift/vertical-pod-autoscaler-operator # An Operator for running the Vertical Pod Autoscaler on OpenShift
+https://github.com/openshift/cert-manager-operator # OpenShift Cert-Manager Operator
+https://github.com/openshift/pagerduty-operator # A PagerDuty Operator that lives on Hive
+https://github.com/openshift/configure-alertmanager-operator # Operator to configure Alertmanager with PagerDuty and DMS.
+https://github.com/openshift/cloud-ingress-operator # Operator to manage cloud Ingress/Load balancer scheme, switching between public/private modes
+https://github.com/openshift/baremetal-runtimecfg # Runtime configuration renderer for OpenShift in platforms without Cloud DNSaaS
+https://github.com/openshift/crd-schema-checker # Tools to check CRD schemas for compatibility and best practices
+https://github.com/openshift/splunk-forwarder-operator #
+https://github.com/openshift/cluster-openshift-controller-manager-operator # The openshift-controller-manager operator installs and maintains the openshift-controller-manager on a cluster
+https://github.com/openshift/custom-domains-operator # Operator to manage custom domains on OpenShift
+https://github.com/openshift/predictive-vpa-recommenders # The repo includes a set of Vertical Pod Autoscaler (VPA) recommenders pluggable with the default VPA on OpenShift.
+https://github.com/openshift/mdns-publisher # Configurable mDNS publishing aplication
+https://github.com/openshift/etcd-quorum-guard # Ensure that a quorum for etcd is maintained at all times by not allowing a master to leave if it would result in quorum being lost.
+https://github.com/openshift/ib-sriov-cni # InfiniBand SR-IOV CNI
+https://github.com/openshift/managed-prometheus-exporter-ebs-iops-reporter # Prometheus exporter to report EBS volume IOPS balance
+https://github.com/openshift/test-maven-app # "Hello World" on Java
+https://github.com/openshift/basic-authentication-provider-example #

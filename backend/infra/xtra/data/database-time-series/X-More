@@ -1,0 +1,253 @@
+ArcticDB
+https://github.com/man-group/dtale # Visualizer for pandas data structures
+https://github.com/man-group/arctic # High performance datastore for time series and tick data
+https://github.com/man-group/arcticdb # ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.
+https://github.com/man-group/notebooker # Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
+https://github.com/man-group/pytest-plugins # A grab-bag of nifty pytest plugins
+https://github.com/man-group/pythontrainingexercises # Code to exercise your Python knowledge.
+https://github.com/man-group/dapr-sidekick-dotnet # Dapr Sidekick for .NET - a lightweight lifetime management component for Dapr
+https://github.com/man-group/mdf # Data-flow programming toolkit for Python
+https://github.com/man-group/pybloqs #
+https://github.com/man-group/page-objects # Page Objects web testing pattern for Python
+https://github.com/man-group/pynorama # Natural Language Processing Visualization in Python
+https://github.com/man-group/partialtesting # Run only the tests that are relevant for your changes
+https://github.com/man-group/jupyterlab-autoplot # Magical Plotting in JupyterLab
+https://github.com/man-group/okcli # An Oracle-DB command line client
+https://github.com/man-group/adaero # A platform for managing peer-to-peer feedback
+https://github.com/man-group/pkglib # Company-centric Python packaging and testing library
+https://github.com/man-group/prometheus-flashblade-exporter # Export metrics from Pure Storage FlashBlade to Prometheus
+https://github.com/man-group/openstack_load_leveller # Openstack Load Leveller / Load Balancer
+https://github.com/man-group/mockextras # Addon library for the python Mock library
+https://github.com/man-group/hubot-servicenow-tickets # a servicenow plugin for hubot
+https://github.com/man-group/sparrow # C++20 idiomatic APIs for the Apache Arrow Columnar Format
+https://github.com/man-group/jenkins-blueprint-plugin # Build Jenkins projects according to a .jenkins.yml file in the repository.
+https://github.com/man-group/ftp-coredump # FTP core dump script and related Ansible roles
+https://github.com/man-group/servicenow-lite # utility library for interacting with servicenow
+https://github.com/man-group/hexplode #
+https://github.com/man-group/hiveminder #
+https://github.com/man-group/microbit # Information and examples about the BBC micro:bit
+https://github.com/man-group/pydata2022 #
+
+https://dbdb.io/db/arcticdb
+
+Berengei
+https://dbdb.io/db/beringei
+
+FrostDB
+https://github.com/polarsignals/frostdb # ❄️ Coolest database around 🧊 Embeddable column database written in Go.
+
+https://github.com/polarsignals/epimetheus # FrostDB backed Prometheus fork
+https://github.com/polarsignals/profile-exporter # Create metrics from Parca-compatible APIs and send them to a Prometheus remote-write endpoint.
+https://github.com/polarsignals/otel-profiling-go # Easily connect distributed tracing with profiling data.
+https://github.com/polarsignals/gh-actions-ps-profiling # GitHub Action for Continuous Profiling which you can run to profile your CI/CD. It uses parca and Polar Signals cloud.
+https://github.com/polarsignals/issues #
+https://github.com/polarsignals/connect-go-prometheus # Prometheus interceptor for connect-go
+https://github.com/polarsignals/rprof # Profile any Go io.Reader, io.ReadCloser, or io.ReaderAt!
+https://github.com/polarsignals/otelfuncmeta # Automatically attach function name, filename and line number information to OpenTelemetry spans.
+https://github.com/polarsignals/kubectl-container # Multi-arch kubectl in a container
+https://github.com/polarsignals/bpftool-container # Fedora based container with bpftool installed for troubleshooting.
+https://github.com/polarsignals/split-debug # [Incomplete] A native Golang tool to extract DWARF and Symbol information for ELF Object files
+https://github.com/polarsignals/workshops # Examples in different languages for workshops
+https://github.com/polarsignals/apis # Protobuf definitions for the Polarsignals APIs
+https://github.com/polarsignals/custom-labels # Experimental C/Rust support for custom profiling labels
+https://github.com/polarsignals/pprof-example-app-node # Node app that exposes pprof profiling endpoints via HTTP.
+https://github.com/polarsignals/sources-demo #
+https://github.com/polarsignals/buf_tour #
+https://github.com/polarsignals/docs # Polar Signals Cloud Documentation
+
+Gnocci
+https://github.com/gnocchixyz/gnocchi # Timeseries database
+
+https://github.com/gnocchixyz/grafana-gnocchi-datasource # Gnocchi datasource for Grafana 3 and 4
+https://github.com/gnocchixyz/python-gnocchiclient # Python client from Gnocchi
+https://github.com/gnocchixyz/collectd-gnocchi # Gnocchi storage plugin for collectd
+https://github.com/gnocchixyz/gnocchi-docker # Docker files for running Gnocchi
+https://github.com/gnocchixyz/gnocchi-openshift # Gnocchi Docker image for OpenShift
+https://github.com/gnocchixyz/ci-tools #
+
+https://dbdb.io/db/gnocchi
+
+Greptime
+https://github.com/greptimeteam/greptimedb # An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.
+
+https://github.com/greptimeteam/dashboard # The dashboard UI for GreptimeDB
+https://github.com/greptimeteam/promql-parser # PromQL Rust parser
+https://github.com/greptimeteam/docs # Document for GreptimeDB
+https://github.com/greptimeteam/gtctl # gtctl is a command-line tool for managing GreptimeDB cluster.
+https://github.com/greptimeteam/greptimedb-operator # Run GreptimeDB on Kubernetes.
+https://github.com/greptimeteam/demo-scene # 👾Scripts and samples to support Greptime Demos and Talks.
+https://github.com/greptimeteam/helm-charts # Helm charts for GreptimeDB.
+https://github.com/greptimeteam/greptimedb-ingester-cpp # A C++ ingester for GreptimeDB, which is compatible with GreptimeDB protocol and lightweight.
+https://github.com/greptimeteam/greptimedb-ingester-erl # An Erlang ingester for GreptimeDB, which is compatible with GreptimeDB protocol and lightweight.
+https://github.com/greptimeteam/greptimedb-client-go # GreptimeDB Go Client
+https://github.com/greptimeteam/greptime-proto # GreptimeDB protobuf files.
+https://github.com/greptimeteam/greptimedb-ingester-rust # A Rust ingester for GreptimeDB, which is compatible with GreptimeDB protocol and lightweight.
+https://github.com/greptimeteam/greptimeai # greptime instrument sdk for popular LLM (LangChain, OpenAI, etc.)
+https://github.com/greptimeteam/greptimedb-ingester-go # A Go ingester for GreptimeDB, which is compatible with GreptimeDB protocol and lightweight.
+https://github.com/greptimeteam/greptime-meter #
+https://github.com/greptimeteam/bunshin # A distributed Write-Ahead log implementation for cloud
+https://github.com/greptimeteam/greptimedb-ingester-js # A Javascript ingester for GreptimeDB, which is compatible with GreptimeDB protocol and lightweight.
+https://github.com/greptimeteam/community #
+https://github.com/greptimeteam/greptimedb-grafana-datasource # Grafana DataSource of GreptimeDB
+https://github.com/greptimeteam/greptimedb-ingester-java # A Java ingester for GreptimeDB, which is compatible with GreptimeDB protocol and lightweight.
+https://github.com/greptimeteam/greptimedb-metabase-driver # A metabase driver plugin for GreptimeDB
+https://github.com/greptimeteam/greptimedb-ingester-c # A C ingester for GreptimeDB, which is compatible with GreptimeDB protocol and lightweight.
+https://github.com/greptimeteam/gshark # Observability tool based on eBPF
+https://github.com/greptimeteam/python-coprocessor-examples # The python coprocessor examples in GreptimeDB
+https://github.com/greptimeteam/greptime-bench # Time series workload benchmark suite
+https://github.com/greptimeteam/homebrew-greptime # The Greptime homebrew tap.
+https://github.com/greptimeteam/greptimedb-ingester-py # A Python ingester for GreptimeDB, which is compatible with GreptimeDB protocol and lightweight.
+https://github.com/greptimeteam/greptimeai-cookbook # Examples and guides for using the GreptimeAI to instrument LLM Applications
+https://github.com/greptimeteam/greptime_py_mock # A Python Library providing Same API in greptimedb's script feature
+https://github.com/greptimeteam/greptime-cloud-quick-start-demos #
+https://github.com/greptimeteam/.github #
+https://github.com/greptimeteam/metabase-greptimedb-driver #
+
+https://dbdb.io/db/greptimedb
+
+Husky
+https://dbdb.io/db/husky
+
+Kairos
+https://github.com/kairosdb/kairosdb # Fast scalable time series database
+
+https://github.com/kairosdb/kairosdb-client # Java Client for KairosDB
+https://github.com/kairosdb/kairos-kafka # Kafka plugin for KairosDB
+https://github.com/kairosdb/kairos-carbon # KairosDB plugin for the carbon protocol
+https://github.com/kairosdb/kairosdb-examples-python # Code examples on how to use KairosDB REST API through Python and requests module.
+https://github.com/kairosdb/kafka-monitor # Service that reads and reports Kafka topic lag
+https://github.com/kairosdb/metrics4j # Library for abstracting the reporting of metrics in your code from sending them to a time series service.
+https://github.com/kairosdb/kairosdb-examples-r # Code examples on how to use KairosDB REST API through R programming language.
+https://github.com/kairosdb/kairosdb-prometheus-adapter #
+https://github.com/kairosdb/kairos-solr # Solr search plugin for KairosDB
+https://github.com/kairosdb/kairosdb-prometheus-scraper # A KairosDB plugin that acts as a Prometheus server to scrape metrics from Prometheus clients
+https://github.com/kairosdb/csv-converter-plugin #
+https://github.com/kairosdb/kairos-influx #
+https://github.com/kairosdb/kairos-remote # Remote datastore that forwards data on to another Kairos instance
+https://github.com/kairosdb/kairos-redirector # A project that allows local processes to easily send metrics to Karios
+https://github.com/kairosdb/kairos-script # Plugin to provide post query processing with javascript
+https://github.com/kairosdb/tools # Collection of scripts that do useful things with KairosDB
+https://github.com/kairosdb/kairos-healthcheck # Health check plugin to fix querying getMetricNames in kairosdb 1.1.3
+https://github.com/kairosdb/kairos-config # Sample configuration files for different Kairosdb setups
+https://github.com/kairosdb/jmxreporter # Universal tool to report JMX metrics to any backend supported by Metrics4j
+https://github.com/kairosdb/metrics4j_testapp # Simple application for testing metrics4j
+https://github.com/kairosdb/kairos_loadtest # A bunch of code that does performance tests on KairosDB
+https://github.com/kairosdb/kairos-es # Elastic search plugin for KairosDB
+https://github.com/kairosdb/kairosdb.github.io #
+
+Kdb
+https://github.com/kxsystems/kdb # Companion files to kdb+ and q
+
+https://github.com/kxsystems/pyq # PyQ — Python for kdb+
+https://github.com/kxsystems/jupyterq # Jupyter kernel for kdb+
+https://github.com/kxsystems/kdbai-samples # Developer samples for the KDB.AI vector database
+https://github.com/kxsystems/kdb-tick # Latest source files for kdb+tick
+https://github.com/kxsystems/embedpy # Allows the kdb+ interpreter to call Python functions
+https://github.com/kxsystems/cookbook # Companion files to the kdb+ Knowledge Base
+https://github.com/kxsystems/docs # Source for documentation site
+https://github.com/kxsystems/ml # Machine-learning toolkit
+https://github.com/kxsystems/mlnotebooks # Demonstration notebooks for machine learning
+https://github.com/kxsystems/javakdb # Using Java with kdb+
+https://github.com/kxsystems/kafka # kdb+ to Apache Kafka adapter, for pub/sub
+https://github.com/kxsystems/pykx # PyKX is a Python first interface to the worlds fastest time-series database kdb+ and it's underlying vector programming language q.
+https://github.com/kxsystems/rkdb # R client for kdb+
+https://github.com/kxsystems/ffi # FFI for kdb+
+https://github.com/kxsystems/arrowkdb # kdb+ integration with Apache Arrow and Parquet
+https://github.com/kxsystems/automl # Automated Machine Learning Framework for kdb+
+https://github.com/kxsystems/analyst-training # Training for Kx Analyst
+https://github.com/kxsystems/nlp # Natural-language processing library
+https://github.com/kxsystems/prometheus-kdb-exporter # Kdb+ exporter for Prometheus
+https://github.com/kxsystems/nano # Calculates basic raw I/O capability of non-volatile storage, as measured from the perspective of kdb+
+https://github.com/kxsystems/hdf5 # A library for converting between kdb+ and HDF5 data
+https://github.com/kxsystems/kdb-taq # Latest source files for the kdb+taq package
+https://github.com/kxsystems/protobufkdb # Kdb+ integration with Google Protocol Buffers
+https://github.com/kxsystems/csharpkdb # Using C# with KDB+
+https://github.com/kxsystems/solace # Solace middleware client for kdb+. Allows pub/sub from kdb+.
+https://github.com/kxsystems/kx-vscode # Kx Visual Code Extension Repository
+https://github.com/kxsystems/embedr # Embedding R inside q
+https://github.com/kxsystems/mqtt # MQTT messaging protocol interface
+https://github.com/kxsystems/kxsystems.github.io # Index of kdb+ and q repositories on GitHub
+https://github.com/kxsystems/man # Unix-like man function for the q programming language
+https://github.com/kxsystems/ldap # Kdb+ integration with LDAP
+https://github.com/kxsystems/kdb-architecture-course #
+https://github.com/kxsystems/kxkdb # Kdb+ interface for the Rust programming language
+https://github.com/kxsystems/jdbc # JDBC client for kdb+
+https://github.com/kxsystems/avrokdb # kdb+ integration with Apache Avro
+https://github.com/kxsystems/kxblog.contributions # Code shared on the kx.com blog
+https://github.com/kxsystems/insights-assemblies # Predefined deployment assemblies for KX Insights
+https://github.com/kxsystems/databricks-samples #
+https://github.com/kxsystems/kx-databricks # Sample KX for Databricks notebooks.
+https://github.com/kxsystems/accelerators-samples #
+
+M3
+https://github.com/m3db/m3 # M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+
+https://github.com/m3db/m3db-operator # Kubernetes operator for M3DB
+https://github.com/m3db/proposal # M3 Design Documents
+https://github.com/m3db/build-tools # Various build tools
+https://github.com/m3db/ci-scripts # Common scripts used for builds
+https://github.com/m3db/m3storage # Tiered storage manager
+https://github.com/m3db/bench #
+https://github.com/m3db/dtest #
+https://github.com/m3db/pilosa # Temporary fork of pilosa/pilosa until we can merge performance improvements upstream
+https://github.com/m3db/docs-archive # Archive of docs for M3.
+
+https://dbdb.io/db/m3db
+
+OpenTSDB
+https://github.com/opentsdb/opentsdb # A scalable, distributed Time Series Database.
+
+https://github.com/opentsdb/asynchbase # A fully asynchronous, non-blocking, thread-safe, high-performance HBase client.
+https://github.com/opentsdb/tcollector # Data collection framework for OpenTSDB
+https://github.com/opentsdb/async # Building blocks for asynchronous Java processing inspired by Twisted's API.
+https://github.com/opentsdb/opentsdb-rpc-kafka # A set of OpenTSDB plugins for consuming from Apache Kafka
+https://github.com/opentsdb/opentsdbr # Pull data from OpenTSDB into R
+https://github.com/opentsdb/opentsdb-elasticsearch # Search plugin for OpenTSDB
+https://github.com/opentsdb/opentsdb.net # GitHub Pages backed hosting of opentsdb.net
+https://github.com/opentsdb/asyncbigtable # An implementation of AsyncHBase but on top of Google's Cloud Bigtable service
+https://github.com/opentsdb/opentsdb-aura # In-memory Time-series database for OpenTSDB
+https://github.com/opentsdb/asynccassandra # A shim for using Cassandra as a backend for OpenTSDB. Not to be used as a general Cassandra client.
+https://github.com/opentsdb/opentsdb-horizon # A UI for time series data.
+https://github.com/opentsdb/opentsdb-tdigests # A quantiles plugin for OpenTSDB using Ted Dunning's T-Digest
+https://github.com/opentsdb/opentsdb-meta # A meta data store for OpenTSDB components.
+https://github.com/opentsdb/opentsdb-horizon-config # Modules for handling configurations for OpenTSDB/Horizon based alerting, dashboarding, etc.
+https://github.com/opentsdb/opentsdb-datasketches # A plugin for storing and querying Yahoo Data Sketches with OpenTSDB
+https://github.com/opentsdb/opentsdb-alerting # Alerting components for OpenTSDB Horizon
+https://github.com/opentsdb/opentsdb-gwt-theme # A GWT Theme for OpenTSDB's built in UI generated from http://works.sen-sei.in/gtg/
+
+https://dbdb.io/db/opentsdb
+
+Reduct Store
+https://github.com/reductstore/reductstore # The fastest time series object store for Edge AI
+
+https://github.com/reductstore/reduct-cpp # ReductStore Client SDK for C++
+https://github.com/reductstore/reduct-js # ReductStore Client SDK for Javascript
+https://github.com/reductstore/web-console # Web console for ReductStore
+https://github.com/reductstore/reduct-py # ReductStore Client SDK for Python
+https://github.com/reductstore/reduct-rs # ReductStore Client SDK for Rust
+https://github.com/reductstore/reduct-java # Reduct Storage Client SDK for Java
+https://github.com/reductstore/reduct-cli # CLI client for ReductStore
+https://github.com/reductstore/datasets # A collection of free datasets hosted with ReductStore
+https://github.com/reductstore/reduct-mqtt-example-rs # An example to store data from MQTT to ReductStore with Rust
+https://github.com/reductstore/reduct-kafka-example # This application demonstrates a simple setup for using Apache Kafka with ReductStore.
+https://github.com/reductstore/sdk-benchmarks # Benchmarks for ReductStore SDKs
+https://github.com/reductstore/build-image # Build images based to speed up CI
+https://github.com/reductstore/data-checker # A simple writer/reader to validate data in ReductStore
+https://github.com/reductstore/reduct-vs-timescaledb # Benchmarks for TimescaleDB and ReductStore
+https://github.com/reductstore/nginx-example # A usage example with NGINX
+https://github.com/reductstore/file-watcher-example # A usage example to watch files and store them in ReductStorge in C++
+https://github.com/reductstore/website # Official ReductStore WebSite with blog and documentation
+https://github.com/reductstore/benchmark # This repository contains modules for benchmarking the performance of ReductStore against other solutions.
+https://github.com/reductstore/reduct-mqtt-example # Keeping MQTT Data History with Node.js and ReductStore
+https://github.com/reductstore/oldsite-redirect # Redirect from rdocs.reduct.store to reduct.store/store
+https://github.com/reductstore/reduct-vs-mongodb # Benchmarks for MongoDB and ReductStore in Python
+https://github.com/reductstore/reduct-vs-minio # Benchmarks for write/read blob int minio and reduct-storage
+https://github.com/reductstore/reduct-roboflow-example # Minimal example to demonstrate how to use Roboflow with ReductStore
+https://github.com/reductstore/reduct-vibration-example # This repo demonstrates a simple setup for using vibration sensors with ReductStore.
+https://github.com/reductstore/reduct-go # ReductStore Client SDK for Golang
+https://github.com/reductstore/reduct-mqtt-example-py # An example to store data from MQTT to ReductStore
+https://github.com/reductstore/reduct-ros-example # This application demonstrates a simple setup for using ROS with ReductStore.
+https://github.com/reductstore/quick-start-with-ts # How to use Reduct Storage with TypeScript
+https://github.com/reductstore/.github #
+
+https://dbdb.io/db/reductstore

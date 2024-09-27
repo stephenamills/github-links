@@ -13,8 +13,6 @@ https://github.com/mysql/mysql-ndb-operator # Kubernetes Operator for MySQL NDB 
 
 https://github.com/percona/percona-toolkit # Percona Toolkit: a collection of advanced open source command-line tools.
 
-https://dbdb.io/db/mysql
-
 Vitess
 https://github.com/vitessio/vitess # Vitess is a database clustering system for horizontal scaling of MySQL.
 

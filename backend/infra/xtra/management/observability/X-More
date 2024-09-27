@@ -378,6 +378,108 @@ https://github.com/chronosphereio/calyptia-actuated-test # Repo to test out actu
 https://github.com/chronosphereio/terraform-provider-chronosphere # Chronosphere Terraform provider
 https://github.com/chronosphereio/processing-templates # a library of processing templates for quickly getting started
 
+Incinga
+https://github.com/icinga/icinga2 # The core of our monitoring platform with a powerful configuration language and REST API.
+https://github.com/icinga/icingaweb2 # A lightweight and extensible web interface to keep an eye on your environment. Analyse problems and act on them.
+https://github.com/icinga/icingaweb2-module-director # The Director aims to be your new favourite Icinga config deployment tool. Director is designed for those who want to automate their configuration deployment and those who want to grant their “point & click” users
+easy access to the configuration. https://github.com/icinga/icinga-vagrant # Vagrant boxes for Icinga 2, Icinga Web 2, modules, themes and integrations (Graphite, InfluxDB, Elastic, Graylog, etc.)
+https://github.com/icinga/ansible-playbooks # Ansible Playbook for Icinga 2
+https://github.com/icinga/icingaweb2-module-businessprocess # Create top-level views of your applications in a graphical editor. Rules express dependencies between existing hosts and services and let you alert on application level. Business processes are displayed in
+a tree or list overview. https://github.com/icinga/icingaweb2-module-x509 # Keeps track of certificates as they are deployed in a network environment.
+https://github.com/icinga/icingaweb2-module-vspheredb # The easiest way to monitor a VMware vSphere environment.
+https://github.com/icinga/icinga-powershell-framework # This PowerShell module will allow to fetch data from Windows hosts and use them for inventory and monitoring solutions. Together with the Icinga Web 2 module, a detailed overview of your Windows infrastructure wi
+ll be drawn. https://github.com/icinga/icingaweb2-module-graphite # The Graphite module for displays data stored in Graphite directly in the Icinga Web 2 interface.
+https://github.com/icinga/docker-icinga2 # Official Icinga 2 Docker images
+https://github.com/icinga/icingadb-web # Icinga DB Web – UI for Icinga DB – Provides a graphical interface to your Icinga monitoring
+https://github.com/icinga/icingaweb2-module-reporting # Icinga Reporting is the central component for reporting related functionality in the monitoring web frontend and framework Icinga Web 2.
+https://github.com/icinga/icingadb # Icinga configuration and state database supporting multiple environments
+https://github.com/icinga/icinga2-powershell-module # PowerShell helper for Icinga 2 on Windows
+https://github.com/icinga/icinga-powershell-plugins # A collection of Windows check plugins for the Icinga PowerShell Framework
+https://github.com/icinga/icingaweb2-module-cube # Drill-down view for Icinga web 2 based on custom variables
+https://github.com/icinga/icinga2-api-examples # Examples for the Icinga 2 API
+https://github.com/icinga/icinga-packaging # Packaging documentation and issues for the official Icinga repository
+https://github.com/icinga/ansible-collection-icinga # Collection to setup and manage components of the Icinga software stack
+https://github.com/icinga/icingaweb2-module-jira #
+https://github.com/icinga/chef-icinga2 # Icinga 2 Chef Cookbook
+https://github.com/icinga/icingaweb2-module-nagvis # NagVis integration into Icinga web 2
+https://github.com/icinga/icingaweb2-theme-company # Example theme for Icinga Web 2
+https://github.com/icinga/icingaweb2-module-pnp # Integrate PNP graphs into Icinga Web 2
+https://github.com/icinga/icingaweb2-module-idoreports # Icinga IDO Reports provides host and service availability reports for Icinga based on the monitoring database (IDO).
+https://github.com/icinga/icingabeat # Elastic Beat fetching events & status from Icinga 2
+https://github.com/icinga/icingaweb2-module-vsphere # VMware vSphere import source for the Icinga Director
+https://github.com/icinga/icingaweb2-module-pdfexport # PDF export functionality for Icinga Web 2
+https://github.com/icinga/icingaweb2-module-fileshipper # Provide CSV, JSON, XML and YAML files as an Import Source for the Icinga Director and optionally ship hand-crafted additional Icinga2 config files
+https://github.com/icinga/icinga2-diagnostics # Shell script for analyzing Icinga 2 installations.
+https://github.com/icinga/icingaweb2-module-generictts # Generic ticket system integration into Icinga web 2
+https://github.com/icinga/icingaweb2-module-incubator # Bleeding edge Icinga Web 2 libraries
+https://github.com/icinga/terraform-provider-icinga2 # Terraform Icinga2 provider
+https://github.com/icinga/icingaweb2-module-aws # Import AWS hosts into Icinga Director
+https://github.com/icinga/icingaweb2-module-training # Training class for Icinga Web 2 module developement
+https://github.com/icinga/check_by_powershell # Icinga check plugin to run checks and other commands directly on any Windows system using WinRM (Windows Remote Management). Main use case would be to call one of the plugins from the Icinga Powershell Framework. This wi
+ll avoid the requirement of installing an Icinga 2 agent on every Windows system. https://github.com/icinga/icingaweb2-module-toplevelview # TopLevelView is a drill down view into your Icinga environment
+https://github.com/icinga/docker-icingaweb2 #
+https://github.com/icinga/icinga-powershell-mssql #
+https://github.com/icinga/icingaweb2-module-puppetdb # PuppetDB module for Icinga Web 2 (ImportSource for Icinga Director)
+https://github.com/icinga/icingaweb2-module-audit #
+https://github.com/icinga/icinga-notifications-web # Icinga Notifications Web — Manage incidents and who gets notified about them how and when
+https://github.com/icinga/icinga-powershell-service # This repository provides a Service Binary, allowing to run the Icinga Windows PowerShell module as native Windows service in the background
+https://github.com/icinga/icinga-notifications # Icinga Notifications: new and improved notifications and incident management for Icinga (work in progress, not ready for production yet)
+https://github.com/icinga/wiki-archive # Articles saved from former wiki.icinga.com website
+https://github.com/icinga/icinga-kubernetes #
+https://github.com/icinga/helm-charts # Kubernetes Helm charts to deploy a ready-to-use Icinga monitoring stack.
+https://github.com/icinga/icinga-powershell-kickstart # A kickstart installation script for the Icinga PowerShell Framework
+https://github.com/icinga/icinga-php-library # Bundle for all Icinga PHP libraries
+https://github.com/icinga/icingaweb2-module-eventdb # EventDB integration in Icinga web 2
+https://github.com/icinga/logstash-grok-pattern # Pattern for the Logstash filter Grok
+https://github.com/icinga/icinga-powershell-hyperv # A collection of Hyper-V plugins for the Icinga Powershell Framework
+https://github.com/icinga/icinga-logstash-pipeline # Logstash rules for Icinga logs
+https://github.com/icinga/grafana-dashboards # Dashboards to be imported in Grafana
+https://github.com/icinga/icinga-powershell-cluster # A collection of Cluster plugins for the Icinga Powershell Framework
+https://github.com/icinga/icinga-php-thirdparty # Bundle for all 3rd party PHP libraries used by Icinga Web products
+https://github.com/icinga/ipl-sql #
+https://github.com/icinga/docker-icingadb #
+https://github.com/icinga/chef-icingaweb2 # Chef cookbook for Icinga Web 2
+https://github.com/icinga/developer-guidelines #
+https://github.com/icinga/graylog-plugin-icinga # An output plugin for integrating Icinga with Graylog.
+https://github.com/icinga/icinga2-notification-alertops # Send notifications to AlertOps
+https://github.com/icinga/icingaweb2-module-lynxtechnik # Icinga Web 2 module for LYNX Technik Series 5000 device monitoring
+https://github.com/icinga/chef-icinga2client # Chef cookbook for the Icinga 2 client
+https://github.com/icinga/icinga-powershell-inventory #
+https://github.com/icinga/chef-icinga2repo # Repository management for Icinga with Chef
+https://github.com/icinga/icinga-powershell-apichecks #
+https://github.com/icinga/l10n # The central location of all translations available for Icinga.
+https://github.com/icinga/ipl-web #
+https://github.com/icinga/icinga-build-vagrant # Vagrant test environment for the Icinga build system
+https://github.com/icinga/icinga-kubernetes-web #
+https://github.com/icinga/ipl-scheduler #
+https://github.com/icinga/icingaweb2-module-doc # Future place for the Icinga Web 2 documentation module.
+https://github.com/icinga/ipl-orm #
+https://github.com/icinga/icinga-docs-tools # Build environment for docs.icinga.com
+https://github.com/icinga/ipl-html # HTML abstraction layer for the Icinga PHP Library
+https://github.com/icinga/icinga-testing # Tooling for awesome cross-repository testing for Icinga
+https://github.com/icinga/icinga-powershell-restapi #
+https://github.com/icinga/icinga-go-library #
+https://github.com/icinga/go-libs #
+https://github.com/icinga/ipl-stdlib #
+https://github.com/icinga/ipl-i18n #
+https://github.com/icinga/package-installation-docs #
+https://github.com/icinga/vola #
+https://github.com/icinga/icingadb-docker-mysql #
+https://github.com/icinga/icinga-kubernetes-testing-web #
+https://github.com/icinga/docker-chown #
+https://github.com/icinga/ruby-github-mirror # Mirroring tool for GitHub -> GitLab
+https://github.com/icinga/.github #
+https://github.com/icinga/icingabuildtest # Helper repository for package build testing
+https://github.com/icinga/icinga-kubernetes-testing #
+https://github.com/icinga/get-started-docs #
+https://github.com/icinga/icingaweb2-module-test # Future place for the Icinga Web 2 test module.
+https://github.com/icinga/docker-image-build # Docker image build environment
+https://github.com/icinga/ipl-validator #
+https://github.com/icinga/gha-icingaweb-module-tests #
+https://github.com/icinga/ipl-incubator #
+https://github.com/icinga/vagrant-director-demo # Demo Vagrant environment for Icinga Director
+https://github.com/icinga/github-actions # Just a bunch of reusable workflows
+
 Logz
 https://github.com/logzio/sawmill # Sawmill is a JSON transformation Java library
 https://github.com/logzio/jmx2graphite # JMX to Graphite every x seconds in one command line (Docker based) (also come in Java Agent flavour)
@@ -539,3 +641,52 @@ https://github.com/logdna/logdna-orb # CircleCI Orb for Reporting Deploys to Log
 https://github.com/logdna/async-buf-pool-rs #
 https://github.com/logdna/financialtransactiondevicesim # Simple docker project to simulate edge financial transactions for Pipeline Workshops.
 https://github.com/logdna/compare-coverage-to-main #
+
+OpenLit
+https://github.com/openlit/openlit # OpenLIT: Complete Observability and Evals for the Entire GenAI Stack, from LLMs to GPUs. Improve your LLM apps from playground to production 📈.
+https://github.com/openlit/helm # Helm Charts to deploy and manage OpenLIT in Kubernetes
+https://github.com/openlit/website # Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capabilities for monitoring, analysing, and optimising LLM applications.
+https://github.com/openlit/.github #
+
+Parseable
+https://github.com/parseablehq/parseable # Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
+https://github.com/parseablehq/console # Frontend Client for Parseable. Parseable is a cloud native log storage and management for Kubernetes, containerised workloads
+https://github.com/parseablehq/pb # CLI client for Parseable server. Inspect, query and analyse Parseable log data from your terminal.
+https://github.com/parseablehq/parseable-datasource # Grafana datasource plugin for Parseable
+https://github.com/parseablehq/quest # Containerised testing toolkit for Parseable. Provides API testing, Load testing and data correctness checks.
+https://github.com/parseablehq/parseable-docker-extension # Docker Extension for Parseable
+https://github.com/parseablehq/aws-lambda-extension # Parseable AWS Lambda Extension allows sending lambda function logs to your Parseable instance
+https://github.com/parseablehq/opentelemetry-rust-parseable #
+https://github.com/parseablehq/penguin # Penguin is a fast and simple round robin load balancer for Parseable ingestors
+https://github.com/parseablehq/parseable-sdk-go # Golang SDK for Parseable
+https://github.com/parseablehq/mock-modules #
+https://github.com/parseablehq/.github #
+https://github.com/parseablehq/blog-samples # This repo contains code snippets from Parseable blog posts
+
+Persus
+https://github.com/perses/perses # The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
+https://github.com/perses/helm-charts # Perses helm chart
+https://github.com/perses/perses-operator #
+https://github.com/perses/common #
+https://github.com/perses/poc-cuelang # proof of concept to try using cuelang for plugin management
+https://github.com/perses/website # Perses website for documentation and demo
+https://github.com/perses/perses-plugins # Perses Plugins
+https://github.com/perses/poc-cue-modules # trying out https://cuelang.org/docs/tutorial/publishing-modules-to-the-central-registry/ with perses organization
+https://github.com/perses/github-actions # Set of GitHub actions shared by GitHub projects in the Perses Ecosystem.
+https://github.com/perses/poc-plugin-v2 # proof of concept to explore solutions for a revamped plugin architecture
+
+Pixie
+https://github.com/pixie-io/pixie # Instant Kubernetes-Native Application Observability
+https://github.com/pixie-io/pixie-demos # Demos for Pixie: github.com/pixie-io/pixie
+https://github.com/pixie-io/grafana-plugin # Pixie's datasource plugin for Grafana.
+https://github.com/pixie-io/docs.px.dev # Pixie Documentation
+https://github.com/pixie-io/px.dev #
+https://github.com/pixie-io/pxapi.go #
+https://github.com/pixie-io/pixie-plugin # The plugin repository for plugins in Pixie (px.dev).
+https://github.com/pixie-io/blog.px.dev # Pixie Blog's by community, guest and pixie-team contributors
+https://github.com/pixie-io/slackin #
+https://github.com/pixie-io/dev-artifacts # Storage for our development artifacts
+
+Skooner
+https://github.com/skooner-k8s/skooner # Simple Kubernetes real-time dashboard and management.
+https://github.com/skooner-k8s/skooner-website # VuePress website for Skooner, originally k8dash.

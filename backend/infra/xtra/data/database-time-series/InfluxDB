@@ -1,0 +1,246 @@
+https://github.com/influxdata/influxdb # Scalable datastore for metrics, events, and real-time analytics
+https://github.com/influxdata/telegraf # Agent for collecting, processing, aggregatin g, and writing metrics, logs, and other arbitrary data.
+https://github.com/influxdata/kapacitor # Open source framework for processing, monit oring, and alerting on time series data
+https://github.com/influxdata/chronograf # Open source monitoring and visualization U I for the TICK stack
+https://github.com/influxdata/influxdb-java # Java client for InfluxDB
+https://github.com/influxdata/influxdb-relay # Service to replicate InfluxDB data for high availability
+https://github.com/influxdata/flux # Flux is a lightweight scripting language for que rying databases (like InfluxDB) and working with data. It's part of InfluxDB 1.7 and 2.0, but can be run independently of those.
+https://github.com/influxdata/influxdb-client-python # InfluxDB 2.0 python client
+https://github.com/influxdata/influxdb-client-go # InfluxDB 2 Go Client
+https://github.com/influxdata/sandbox # A sandbox for the full TICK stack
+https://github.com/influxdata/influxdb-client-java # InfluxDB 2 JVM Based Clients
+https://github.com/influxdata/influxdb-client-csharp # InfluxDB 2.x C# Client
+https://github.com/influxdata/community-templates # InfluxDB Community Templates: Qui ckly collect & analyze time series data from a range of sources: Kubernetes, MySQL, Postgres, AWS, Nginx, Jenkins, and more.
+https://github.com/influxdata/influxdb-client-js # InfluxDB 2.0 JavaScript client
+https://github.com/influxdata/influxdata-docker # Official docker images for the infl uxdata stack
+https://github.com/influxdata/influxdb-comparisons # Code for comparison write ups of InfluxDB and other solutions
+https://github.com/influxdata/rskafka # A minimal Rust client for Apache Kafka
+https://github.com/influxdata/docs.influxdata.com-archive # ARCHIVE - 1.x docs for In fluxData
+https://github.com/influxdata/helm-charts # Official Helm Chart Repository for Influx Data Applications
+https://github.com/influxdata/influxdb-rails # Ruby on Rails bindings to automaticall y write metrics into InfluxDB
+https://github.com/influxdata/influxdb1-client # The old clientv2 for InfluxDB 1.x
+https://github.com/influxdata/giraffe # A foundation for visualizations in the Influx DB UI
+https://github.com/influxdata/influxql # Package influxql implements a parser for the InfluxDB query language.
+https://github.com/influxdata/influxdb-client-php # InfluxDB (v2+) Client Library for PHP
+https://github.com/influxdata/tdigest # An implementation of Ted Dunning's t-digest i n Go.
+https://github.com/influxdata/ui # UI for InfluxDB
+https://github.com/influxdata/pbjson # Auto-generate serde implementations for prost types
+https://github.com/influxdata/inch # An InfluxDB benchmarking tool.
+
+https://github.com/influxdata/telegraf-operator # telegraf-operator helps monitor app lication on Kubernetes with Telegraf
+https://github.com/influxdata/docs-v2 # InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
+https://github.com/influxdata/wirey # Manage local wireguard interfaces in a distribu ted system
+https://github.com/influxdata/influx-cli # CLI for managing resources in InfluxDB v2
+https://github.com/influxdata/terraform-aws-influx # Reusable infrastructure modules for running TICK stack on AWS
+https://github.com/influxdata/influxdb-observability #
+
+https://github.com/influxdata/influxdb2-sample-data # Sample data for InfluxDB 2.0
+https://github.com/influxdata/influxdb-client-ruby # InfluxDB 2.0 Ruby Client
+https://github.com/influxdata/grade # Track Go benchmark performance over time by sto ring results in InfluxDB
+https://github.com/influxdata/clockface # UI Kit for building Chronograf
+https://github.com/influxdata/influxdb-r # R library for InfluxDB
+https://github.com/influxdata/nginx-influxdb-module #
+
+https://github.com/influxdata/line-protocol #
+
+https://github.com/influxdata/iot-center-flutter # InlfuxDB 2.0 dart client flutter d emo
+https://github.com/influxdata/tensorflow-influxdb #
+
+https://github.com/influxdata/whisper-migrator # A tool for migrating data from Graph ite Whisper files to InfluxDB TSM files (version 0.10.0).
+https://github.com/influxdata/flightsql-dbapi # DB API 2 interface for Flight SQL wit h SQLAlchemy extras.
+https://github.com/influxdata/kube-influxdb # Configuration to monitor Kubernetes wit h the TICK stack
+https://github.com/influxdata/k8s-kapacitor-autoscale # Demonstration of using Kapaci tor to autoscale a k8s deployment
+https://github.com/influxdata/terraform-aws-influxdb # Deploys InfluxDB Enterprise to AWS
+https://github.com/influxdata/catslack # Shell -> Slack the easy way
+https://github.com/influxdata/flux-lsp # Implementation of Language Server Protocol f or the flux language
+https://github.com/influxdata/influxdb-client-swift # InfluxDB (v2+) Client Library f or Swift
+https://github.com/influxdata/influxdb3_core # InfluxData's core functionality for In fluxDB Edge and IOx
+https://github.com/influxdata/influxdb-client-dart # InfluxDB (v2+) Client Library fo r Dart and Flutter
+https://github.com/influxdata/kapacitor-course #
+
+https://github.com/influxdata/vsflux # Flux language extension for VSCode
+https://github.com/influxdata/ansible-chrony # A role to manage chrony on Linux syste ms
+https://github.com/influxdata/influxdb-plugin-fluent # A buffered output plugin for F luentd and InfluxDB 2
+https://github.com/influxdata/cron # A fast, zero-allocation cron parser in ragel and golang
+https://github.com/influxdata/terraform-google-influx # Reusable infrastructure modul es for running TICK stack on GCP
+https://github.com/influxdata/openapi # An OpenAPI specification for influx (cloud/os s) apis.
+https://github.com/influxdata/iot-api-python #
+
+https://github.com/influxdata/influxdb-university # InfluxDB University
+https://github.com/influxdata/influxdb-client-r # InfluxDB (v2+) Client R Package
+https://github.com/influxdata/kafka-connect-influxdb # InfluxDB 2 Connector for Kafka
+https://github.com/influxdata/iot-api-ui # Common React UI for iot-api-<js, python, e tc.> example apps designed for InfluxDB client library tutorials.
+https://github.com/influxdata/cd-gitops-reference-architecture # Details of the CD/Gi tOps architecture in use at InfluxData
+https://github.com/influxdata/awesome #
+
+https://github.com/influxdata/oats # An OpenAPI to TypeScript generator.
+
+https://github.com/influxdata/windows-packager # Create a windows installer
+https://github.com/influxdata/promql #
+
+https://github.com/influxdata/influxdb-gds-connector # Google Data Studio Connector f or InfluxDB.
+https://github.com/influxdata/influxdb-sample-data # Sample time series data used to test InfluxDB
+https://github.com/influxdata/wlog # Simple log level based Go logger.
+
+https://github.com/influxdata/parquet-bloom-filter-analysis # Generate Parquet Files
+https://github.com/influxdata/influxdb-templates # This repo is a collection of dashb oard templates used in the InfluxDB UI.
+https://github.com/influxdata/k8s-jsonnet-libs # Jsonnet Libs repo - mostly generated with jsonnet-libs/k8s project
+https://github.com/influxdata/ansible-kapacitor # Official Kapacitor Ansible Role for Linux
+https://github.com/influxdata/iot-api-js # An example IoT app built with NextJS (Node JS + React) and the InfluxDB API client library for Javascript.
+https://github.com/influxdata/influxdb-action # A GitHub action for setting up and co nfiguring InfluxDB and the InfluxDB Cloud CLI
+https://github.com/influxdata/google-deployment-manager-influxdb-enterprise # GCP Dep loyment Manager templates for InfluxDB Enterprise.
+https://github.com/influxdata/qprof # A tool for profiling the performance of InfluxQ L queries
+https://github.com/influxdata/inch-java # Java-based implementation of an InfluxDB be nchmarking tool.
+https://github.com/influxdata/line-protocol-corpus # A repository that stores a corpu s of expected line-protocol codec results
+https://github.com/influxdata/sinker # Utility to synchronize resources across dispar ate kubernetes clusters.
+https://github.com/influxdata/ansible-chronograf # Ansible role for deployment, confi guration and management of Chronograf by InfluxData
+https://github.com/influxdata/pidfile #
+
+https://github.com/influxdata/go-samples # InfluxDB Go Samples
+https://github.com/influxdata/community # This is a repo for all of the awesomeness h appening within the InfluxDB Community
+https://github.com/influxdata/sedg # Tools for tracking security issues flexibly in v ersion control
+https://github.com/influxdata/influxdb-stack-manager # CLI tool to make managing stac ks easier
+https://github.com/influxdata/intellij-flux #
+
+https://github.com/influxdata/pkg-config # PROTOTYPE: A pkg-config drop-in for compil ing C libraries for InfluxData
+https://github.com/influxdata/build-scripts # Scripts and configurations files for bu ilding influx, influxd, and their distribution packages
+https://github.com/influxdata/communitysearch #
+
+https://github.com/influxdata/changelog # Manage a changelog using git/github metadat a
+https://github.com/influxdata/prometheus_metric_normalizer # A metric normalizer for kapacitor prometheus metrics
+https://github.com/influxdata/digitalocean-marketplace # This repo contains the sourc e code for InfluxData's listings on the Digital Ocean Marketplace.
+https://github.com/influxdata/nodejs-samples # InfluxDB Nodejs samples
+https://github.com/influxdata/circleci-insight-influx # Utility to import CircleCI in sights into influxdb
+https://github.com/influxdata/katacoda-scenarios # Katacoda Scenarios
+https://www.kat acoda.com/influxdata
+https://github.com/influxdata/schema-shape #
+
+https://github.com/influxdata/reverb # Fork of removed-from-github github.com/markbat es/reverb
+https://github.com/influxdata/la-meetup #
+
+https://github.com/influxdata/branding # Branding Documentation for InfluxData, Inc.
+
+https://github.com/influxdata/influxdb-v1-to-v2 # Migrates database metadata from Inf luxDB v1 to InfluxDB v2
+https://github.com/influxdata/validate-semantic-github-messages # Bash and yml based validator for github commits, for use in GH Actions. Validation is per conventional commits (www.conventionalcommits.org).
+https://github.com/influxdata/hackathon-2017-sf # Projects and documents from our fir st ever InfluxData Hackathon
+https://github.com/influxdata/influxdb-clients-apigen # Swagger generator for client libraries InfluxDB 2.0
+https://github.com/influxdata/influx_tsm # Convert old b1 and bz1 time series data to TSM
+https://github.com/influxdata/homebrew-tap # Homebrew formulae that allows installati on of InfluxData tools through the Homebrew package manager.
+https://github.com/influxdata/config # A unified configuration management package
+https://github.com/influxdata/log #
+
+https://github.com/influxdata/intel-influxdata #
+
+https://github.com/influxdata/influx-spec #
+
+https://github.com/influxdata/iothub_influx_demo # Azure IoT Hub Demo with Telegraf r unning OPC UA and Azure IoT plugins
+https://github.com/influxdata/azure-resource-manager-influxdb-enterprise # ARM templa tes and assets for InfluxDB Enterprise.
+https://github.com/influxdata/speaking-templates #
+
+https://github.com/influxdata/tomldoc #
+
+https://github.com/influxdata/influx-vis #
+
+https://github.com/influxdata/gotestskip # skip a list of Go tests
+https://github.com/influxdata/benchy #
+
+https://github.com/influxdata/hll-check # A small tool for comparing HLL/HLL++ implem entations
+https://github.com/influxdata/docker-client # Fork of the official docker client
+https://github.com/influxdata/pubnub # Pubnub block and examples
+https://github.com/influxdata/testdata #
+
+https://github.com/influxdata/chronograf-style-guide #
+
+https://github.com/influxdata/oss-ui-metrics-proxy # A simple proxy server to allow w riting UI metrics to an OSS InfluxDB install
+https://github.com/influxdata/changelog-test #
+
+https://github.com/influxdata/circleci-helper # Helper tool for interacting with Circ leCI APIs
+https://github.com/influxdata/litmus # testing framework
+https://github.com/influxdata/flux-fuzz # wip: fuzz the flux parser
+
+https://github.com/influxcommunity/influxdb-ruby # Ruby client for InfluxDB
+https://github.com/influxcommunity/influxdb3-python # Python module that provides a s imple and convenient way to interact with InfluxDB 3.0.
+https://github.com/influxcommunity/notebooks # A collection of Jupyter Notebook tutor ials on anomaly detection, forecasting, and InfluxDB.
+https://github.com/influxcommunity/influxdbv2_telegraf_docker # Run InfluxDB 2.0 and Telegraf in containers
+https://github.com/influxcommunity/plant_buddy # Demonstration project using the Infl uxDB platform as the backend for a Flask web service.
+https://github.com/influxcommunity/tiguitto # Telegraf + InfluxDB + Grafana + Mosquit to MQTT Broker stack behind a Traefik Reverse-Proxy with varying levels of security and more ease of deployment.
+https://github.com/influxcommunity/influxdb3-csharp # The C# .NET Client that provide s a simple and convenient way to interact with InfluxDB 3.
+https://github.com/influxcommunity/telegraf-community-configs # The purpose of this repository is to promote the creation, sharing, and reuse of configs among the Telegraf community. Anybody can submit new configs or improvements upon existing configs and use these configs in their own architectures.
+https://github.com/influxcommunity/influxdb3-go # The go package that provides a simp le and convenient way to interact with InfluxDB 3.
+https://github.com/influxcommunity/quix-anomaly-detection-example #
+
+https://github.com/influxcommunity/influxdb-3-quick-starts # Welcome to the "InfluxDB IOx Quick Starts" repository! This repository is dedicated to providing easy to follow tutorials on how to integrate InfluxDB IOx with Grafana and Superset.
+https://github.com/influxcommunity/postman_influx_v2_api # This repository provides a n export of the InfluxDB API postman project. This gives you a sandbox interface to learn the API.
+https://github.com/influxcommunity/influxdb3-js # The JavaScript Client that provides a simple and convenient way to interact with InfluxDB 3.
+https://github.com/influxcommunity/influxdb3-java # The Java Client that provides a s imple and convenient way to interact with InfluxDB 3.
+https://github.com/influxcommunity/influxdb-roadshow-training # InfluxDB Roadshow Tra ining repository. Used to spin up Emergency Generator scenario.
+https://github.com/influxcommunity/kafka_mqtt_tutorial # This repository contains a t hree part exploration to working with MQTT and Kafka.
+https://github.com/influxcommunity/tg-brew-anomaly #
+
+https://github.com/influxcommunity/apache-arrow-tutorial # A series of Apache Arrow e xamples taken from various locations. Will help to improve understanding of what Apache Arrow is and how InfluxDB will leverage this technology.
+https://github.com/influxcommunity/exambledb # An very primitive example of how to us e Python and Apache Arrow to create your own database
+https://github.com/influxcommunity/kepware_template #
+
+https://github.com/influxcommunity/jetson_series_vision_pipeline # Part 2 of the Jets on and InfluxDB series. Core DeepStream vision pipeline and Integration with Telegraf.
+https://github.com/influxcommunity/arrowflightclient_query_examples # Example of how to query InfluxDB IOx with the Java FlightSqlClient
+https://github.com/influxcommunity/autocorrelation # A tutorial on autocorrelation
+https://github.com/influxcommunity/sample-flask # a one page sample app in flux. it l acks important things like auth and secrets storage, but shows how to use influxdb
+https://github.com/influxcommunity/quix-saving-holidays # Saving the holidays demo
+https://github.com/influxcommunity/ricks-downsampler # A project to make it easy to d ownsample with InfluxDB 3.0.
+https://github.com/influxcommunity/cstr_influxdb #
+
+https://github.com/influxcommunity/ricks-explorer # side/skundworks project focused o n data exploration for 3.0/IOx-based InfluxDB products
+https://github.com/influxcommunity/flowforge # A collection of FlowForge / NodeRed Ex amples using InfluxDB 3.0
+https://github.com/influxcommunity/coffee-machine-monitor # Demo for booth at AWS Rei nvent
+https://github.com/influxcommunity/influx_pandas # A getting started guide for queryi ng Influx 2.0, returning a DataFrame, and converting it back into line protocol
+https://github.com/influxcommunity/influx_prophet # A FB Prophet quick start example paired with Influx 2.0
+https://github.com/influxcommunity/mqtt_simulators #
+
+https://github.com/influxcommunity/plotlyjavascript # An example of using influxdb's javascript client to graph in Plotly
+https://github.com/influxcommunity/influxdb_minikube_tutorial # Demo showing how to d eploy and monitor K8's cluster
+https://github.com/influxcommunity/json_flux # Working with, parsing, and mapping acr oss JSON with Flux
+https://github.com/influxcommunity/late_data # A simple framework for working with la te arriving data using Flux
+https://github.com/influxcommunity/plant_buddy_js #
+
+https://github.com/influxcommunity/to_line_protocol # Query, convert to line protocol
+, and write data to InfluxCloud 3.0 with 3.0 client libraries.
+https://github.com/influxcommunity/mage_influxdbv3 # A project example of downsamplin g with Mage.ai and InfluxDBv3
+https://github.com/influxcommunity/iot_app #
+
+https://github.com/influxcommunity/influxdb2-traefik # Simple Configuration for how t o render InfluxDB v2 behind Traefik Proxy using docker-compose
+https://github.com/influxcommunity/flight-demo # A demo using the flightaware API
+https://github.com/influxcommunity/py2fluxcsv #
+
+https://github.com/influxcommunity/sensorlogger # Android (Java) sample application t hat shows how to store device sensor information to InfluxDB Cloud and query it.
+https://github.com/influxcommunity/custom_flux_functions # A collection of common cus tom flux functions
+https://github.com/influxcommunity/py_windowing # A python module for calculating win dows to use in queries
+https://github.com/influxcommunity/flux-plot #
+
+https://github.com/influxcommunity/fluxmobile #
+
+https://github.com/influxcommunity/influxdb-prefect # A repo showing how to utilise P refect as a task engine.
+https://github.com/influxcommunity/superset_quickstart # Quickly connect InfluxDB Clo ud 3.0 to Superset
+https://github.com/influxcommunity/tableau_influxdbcloud_iox # Parquet files, parquet to hyper file conversion script, hyper file for data ingest into Tableau
+https://github.com/influxcommunity/influxdb-with-zillis # A demo on how to use Influx DB with Zilliz, a vector DB, to identify anomalies in traffic data.
+https://github.com/influxcommunity/influxdays-challange-template # InfluxDB Template for InfluxDB University Challenge
+https://github.com/influxcommunity/influxdb3-python-cli # This repository extends the python client library with an interactive command line interface
+https://github.com/influxcommunity/tickscript_to_flux # TICKscript to Flux conversion s
+https://github.com/influxcommunity/tsml_notebooks # A collection of jupyter notebooks highlighting how to use a variety of forecasting and anomaly detection libraries with InfluxDB
+https://github.com/influxcommunity/rabbitmq # RabbitMQ + InfluxDB v2 + Telegraf Stack for AMQP / MQTT PubSub
+https://github.com/influxcommunity/pyspark_influxdb3.0 # An example of how to use PyS park with InfluxDB Cloud 3.0
+https://github.com/influxcommunity/flutteraccountboilerplate # A few files to make it getting started with Flutter a little faster
+https://github.com/influxcommunity/influxdays-2022-api-demo # Python code from influx days 2022 api demo
+https://github.com/influxcommunity/iot-sensor-demo # Demo app using Arduino & Raspber ry Pi connected to InfluxDB
+https://github.com/influxcommunity/jigowatt #
+
+https://github.com/influxcommunity/iox_task_docker # Create a downsampling task for I nfluxDB Cloud IOx with Docker and pyinflux3
+https://github.com/influxcommunity/getting_started_bytewax_influxdb # An example of h ow to perform downsampling with Bytewax and InfluxDB
+https://github.com/influxcommunity/springboot-influxdb-demo # A SpringBoot Java appli cation showing use of actuator, micrometer with InfluxDB for logging and monitoring purpose.
+https://github.com/influxcommunity/influxdb_with_milvus # A tutorial on how to vector ize your time series data from InfluxDB to use in a similarity search with Milvus.
+https://github.com/influxcommunity/jeston_series_telegraf_jetson_stats #
+
+https://github.com/influxcommunity/java_flightsql_example # The Java example is a sta ndalone Java application for querying Apache Arrow Flight database servers like InfluxDB Cloud Dedicated using RPC and Flight SQL and writing the results back into InfluxDB Cloud Dedicated.
+https://github.com/influxcommunity/donut_influxdb # An example of how to use the Donu t anomaly detection algorithm with InfluxDB v3
+https://github.com/influxcommunity/fakefactory # Private for now
+
+https://dbdb.io/db/influxdb

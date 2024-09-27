@@ -1,0 +1,28 @@
+https://github.com/opsgenie/terraform-provider-opsgenie # Terraform OpsGenie provider
+https://github.com/opsgenie/opsgenie-python-sdk #
+https://github.com/opsgenie/opsgenie-go-sdk-v2 # Opsgenie GO SDK v2
+https://github.com/opsgenie/opsgenie-lamp # OpsGenie Lamp with Go SDK
+https://github.com/opsgenie/opsgenie-configuration-backup # Backup your OpsGenie account's configuration and restore it later
+https://github.com/opsgenie/opsgenie-integration #
+https://github.com/opsgenie/slack-to-opsgenie-alert-creator # Create alerts from messages sent to a Slack channel
+https://github.com/opsgenie/opsgenie-nodejs-sdk # OpsGenie Node.js SDK
+https://github.com/opsgenie/opsgenie-go-sdk # OpsGenie Go SDK
+https://github.com/opsgenie/oec-scripts # Opsgenie Edge Connector Custom Scripts
+https://github.com/opsgenie/oec #
+https://github.com/opsgenie/opsgenieclient #
+https://github.com/opsgenie/opsgenie-heartbeat # OpsGenie Heartbeat Monitoring clients, and other related utilities
+https://github.com/opsgenie/opsgenie-graylog-plugin # OpsGenie Graylog Alarm Callback Plugin
+https://github.com/opsgenie/opsgenie-oas #
+https://github.com/opsgenie/opsgenie-real-time-alert-view # Demo of a Real Time Alert Dashboard by tracking OpsGenie alert api & webhook
+https://github.com/opsgenie/opsgenie-statuspage-demo #
+https://github.com/opsgenie/opsgenie-cloudformation-resources # Opsgenie Cloudformation Registry Resources
+https://github.com/opsgenie/opsgenie-custom-solutions # Here you can find the custom solutions we developed at OpsGenie.
+https://github.com/opsgenie/playground-scenario-generator # Playground scenario generator allows you to activate problematic scenarios through a simple web interface.
+https://github.com/opsgenie/logstash-output-opsgenie #
+https://github.com/opsgenie/serverless-plugin-thundra-monitor-cw #
+https://github.com/opsgenie/opsgenie-connectwise-integration # OpsGenie & ConnectWise Integration via AWS Lambda
+https://github.com/opsgenie/nagios-heartbeat-plugin #
+https://github.com/opsgenie/opsgenie-ruby-sdk # Opsgenie Ruby SDK
+https://github.com/opsgenie/opsgenie-orb # https://circleci.com/orbs/registry/orb/opsgenie/opsgenie
+https://github.com/opsgenie/opsgenie-logstash # OpsGenie LogStash Integration
+https://github.com/opsgenie/opsgenie-python-openapi-generator #

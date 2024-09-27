@@ -1,0 +1,34 @@
+https://github.com/appsignal/appsignal-elixir # 🟪 AppSignal for Elixir package
+https://github.com/appsignal/appsignal-ruby # 🟥 AppSignal for Ruby gem
+https://github.com/appsignal/mongo-rust-driver # Mongo Rust driver built on top of the Mongo C driver
+https://github.com/appsignal/appsignal-nodejs # 🟩 AppSignal for Node.js
+https://github.com/appsignal/sql_lexer # Rust library to lex and sanitize SQL
+https://github.com/appsignal/appsignal-javascript # 🟨 AppSignal for JavaScript
+https://github.com/appsignal/appsignal-elixir-phoenix #
+https://github.com/appsignal/probes-rs # Rust library to read out system stats from a machine running Unix
+https://github.com/appsignal/mono # Multi language tool for managing single and mono repository packages
+https://github.com/appsignal/actions-runner # Our GitHub Actions runner (Runs our tests in a Firecracker VM)
+https://github.com/appsignal/appsignal-python # 🟦 AppSignal for Python package
+https://github.com/appsignal/processmon # Process monitor that can run trigger scripts and subsequently restarts the process when files on specified paths are modified.
+https://github.com/appsignal/kafka-talk-demo # Demo to go with the talk "Processing streaming data at a large scale with kafka"
+https://github.com/appsignal/c_from_ruby_example # Example to go with the Ruby Magic blog post.
+https://github.com/appsignal/statsd_parser # (Dog)StatsD parser written in Rust
+https://github.com/appsignal/appsignal-elixir-plug #
+https://github.com/appsignal/test-setups # AppSignal test setups
+https://github.com/appsignal/frontend-test-setups # This repository contains a set of frontend apps to test with.
+https://github.com/appsignal/appsignal-station #
+https://github.com/appsignal/appsignal-hiring # A repository containing a Next.JS app with a component skeleton we'd like candiates to complete.
+https://github.com/appsignal/mio-worker # Simple worker running on top of Mio that can handle messages, timeouts and IO.
+https://github.com/appsignal/appsignal-status # Public status page
+https://github.com/appsignal/opentelemetry-instrumentation-bullmq # OTel Auto-instrumentation for BullMQ
+https://github.com/appsignal/appsignal-kafka-statsd-interceptor #
+https://github.com/appsignal/public_config # Configuration for some of AppSignal automagical features. Work In Progress!
+https://github.com/appsignal/diagnose_tests #
+https://github.com/appsignal/design-language # Shared front-end assets between docs, blog and our public website.
+https://github.com/appsignal/metrics_to_csv #
+https://github.com/appsignal/kubetest #
+https://github.com/appsignal/integrations-shared #
+https://github.com/appsignal/logging-test-setups # Test setups for logging
+https://github.com/appsignal/appsignal-logbook-task # Interview task revolving around building a logbook screen
+https://github.com/appsignal/appsignal-rails-example #
+https://github.com/appsignal/appsignal-kubernetes #

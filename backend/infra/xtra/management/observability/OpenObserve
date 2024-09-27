@@ -1,49 +1,59 @@
-https://github.com/openobserve/openobserve # 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+https://github.com/openobserve/openobserve # Elasticsearch/Splunk/Datadog alternative for 🚀 logs, metrics, traces, RUM, Error tracking, Session replay.
 
-https://github.com/openobserve/debug-container # A container with common utilities fo
-r debugging your cluster https://github.com/openobserve/openobserve-helm-chart # Helm charts for OpenObserve
+https://github.com/openobserve/debug-container # A container with common utilities fo r debugging your cluster
+https://github.com/openobserve/openobserve-helm-chart # Helm charts for OpenObserve
 https://github.com/openobserve/dashboards # Community dashboards for OpenObserve
-https://github.com/openobserve/dotenv-config # use dotenv as config, parse env to a s
-truct for Rust https://github.com/openobserve/openobserve-grafana-plugin # OpenObserve grafana plugi
-n https://github.com/openobserve/sample-tracing-python #
-https://github.com/openobserve/dashboard_converter # Dashboards Conversion from other
-systems (ES, Splunk, ...) to OpenObserve https://github.com/openobserve/sample-tracing-golang #
-https://github.com/openobserve/syslog_log_generator # A synthetic syslog log generato
-r https://github.com/openobserve/agents #
-https://github.com/openobserve/hotcommerce # HOT commerce sample microservices for de
-monstrating auto-instrumentation of microservices. https://github.com/openobserve/benchmarker # OpenObserve benchmarking using locust
-https://github.com/openobserve/openobserve-otel-collector # OpenObserve OpenTelemetry
-Collector distro https://github.com/openobserve/zctl # ZincObserve CLI tool for easy setup and install
-ation of ZincObserve https://github.com/openobserve/sample-tracing-nodejs-typescript # NodeJS sample appli
-cation for tracing using typescript https://github.com/openobserve/pino-openobserve # Load pino logs into Openobserve
+https://github.com/openobserve/dotenv-config # use dotenv as config, parse env to a s truct for Rust
+https://github.com/openobserve/openobserve-grafana-plugin # OpenObserve grafana plugi n
+https://github.com/openobserve/sample-tracing-python #
+
+https://github.com/openobserve/dashboard_converter # Dashboards Conversion from other systems (ES, Splunk, ...) to OpenObserve
+https://github.com/openobserve/sample-tracing-golang #
+
+https://github.com/openobserve/syslog_log_generator # A synthetic syslog log generato r
+https://github.com/openobserve/agents #
+
+https://github.com/openobserve/hotcommerce # HOT commerce sample microservices for de monstrating auto-instrumentation of microservices.
+https://github.com/openobserve/benchmarker # OpenObserve benchmarking using locust
+https://github.com/openobserve/openobserve-otel-collector # OpenObserve OpenTelemetry Collector distro
+https://github.com/openobserve/zctl # ZincObserve CLI tool for easy setup and install ation of ZincObserve
+https://github.com/openobserve/sample-tracing-nodejs-typescript # NodeJS sample appli cation for tracing using typescript
+https://github.com/openobserve/pino-openobserve # Load pino logs into Openobserve
 https://github.com/openobserve/o2_report_server # OpenObserve Report Server
 https://github.com/openobserve/enron-email-dataset # Index enron email dataset
 https://github.com/openobserve/openobserve-go-client # Go client SDK for ZincObserve
 https://github.com/openobserve/homebrew-tap #
+
 https://github.com/openobserve/website4 # Next gen website for zinc.dev
 https://github.com/openobserve/websitev3 #
+
 https://github.com/openobserve/websitev2 # v2 website
 https://github.com/openobserve/example-deployments # Example deployment scripts
 https://github.com/openobserve/log-vector # Vector search experiment on logs
 https://github.com/openobserve/sample-tracing-java # Java tracing example
-https://github.com/openobserve/azure-function-openobserve # Azure function to send lo
-g data from event hub to OpenObserve https://github.com/openobserve/sample-tracing-nodejs-javascript #
+https://github.com/openobserve/azure-function-openobserve # Azure function to send lo g data from event hub to OpenObserve
+https://github.com/openobserve/sample-tracing-nodejs-javascript #
+
 https://github.com/openobserve/openfga-sdk # OpenFGA Rust SDK
-https://github.com/openobserve/eks-openobserve # Guide on installing OpenObserve on A
-mazon EKS https://github.com/openobserve/sample-tracing-rust #
+https://github.com/openobserve/eks-openobserve # Guide on installing OpenObserve on A mazon EKS
+https://github.com/openobserve/sample-tracing-rust #
+
 https://github.com/openobserve/actix-web-test # test
 https://github.com/openobserve/misc-scripts #
-https://github.com/openobserve/logs-traces-correlation-js-sample # This is sample rep
-ository to generate logs-traces correlation data https://github.com/openobserve/kube-prometheus-stack-openobserve # Kube prometheus st
-ack guide for OpenObserve https://github.com/openobserve/homebrew-tap-nightly # Nightly taps
-https://github.com/openobserve/nfdumper # Send netflow data from nfdump files to Open
-Observe https://github.com/openobserve/api_fuzz # Fuzz testing for ZincObserve ingestion API
+
+https://github.com/openobserve/logs-traces-correlation-js-sample # This is sample rep ository to generate logs-traces correlation data
+https://github.com/openobserve/kube-prometheus-stack-openobserve # Kube prometheus st ack guide for OpenObserve
+https://github.com/openobserve/homebrew-tap-nightly # Nightly taps
+https://github.com/openobserve/nfdumper # Send netflow data from nfdump files to Open Observe
+https://github.com/openobserve/api_fuzz # Fuzz testing for ZincObserve ingestion API
 https://github.com/openobserve/otlp-go-sample-all-in-one # otlp-go-sample-all-in-one
-https://github.com/openobserve/locale_generator # Generate locale files for various l
-anguages https://github.com/openobserve/geoip-scripts # Sample GeoIP data and scripts
+https://github.com/openobserve/locale_generator # Generate locale files for various l anguages
+https://github.com/openobserve/geoip-scripts # Sample GeoIP data and scripts
 https://github.com/openobserve/android-logger #
+
 https://github.com/openobserve/container_limits # Test container limits
 https://github.com/openobserve/test1 #
+
 https://github.com/openobserve/openobserve-docs # OpenObserve documentation
 https://github.com/openobserve/zincsearch-website # ZincSearch Website
 https://github.com/openobserve/cross-rs-image-builder #

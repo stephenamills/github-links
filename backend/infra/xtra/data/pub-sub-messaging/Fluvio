@@ -1,0 +1,59 @@
+https://github.com/infinyon/fluvio # Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
+
+https://github.com/infinyon/node-bindgen # Easy way to write Node.js module using Rust
+https://github.com/infinyon/fluvio-jolt # Rust implementation of Java Jolt JSON to JSON transformation library
+https://github.com/infinyon/k8-api # Native Rust implementation of Kubernetes api
+https://github.com/infinyon/fluvio-duck # Fluvio DuckDB Integration
+https://github.com/infinyon/future-aio # Advanced futures library
+https://github.com/infinyon/fluvio-demo-apps-rust # Mysql Change Data Capture Demo App for Fluvio Streaming Platform
+https://github.com/infinyon/flv-tls-proxy # Simple TLS Proxy
+https://github.com/infinyon/fluvio-client-python # The Fluvio Python Client!
+https://github.com/infinyon/stateful-dataflows-examples # Stateful Dataflows tutorials and examples.
+https://github.com/infinyon/fluvio-client-wasm #
+https://github.com/infinyon/labs-projects # InfinyOn Labs projects
+https://github.com/infinyon/fluvio-helm # Helm Library
+https://github.com/infinyon/fluvio-client-node # Node.js client for Fluvio
+https://github.com/infinyon/fluvio-website # Website for Fluvio Project
+https://github.com/infinyon/fluvio-demo-apps-node # Node Demo Apps for Fluvio Data Streaming Platform
+https://github.com/infinyon/http-sink-connector # Official Infinyon HTTP Sink Connector
+https://github.com/infinyon/cargo-cvm # Rust Crate Version Manager (CVM) Cargo CLI Extended Utility
+https://github.com/infinyon/fluvio-client-java # A Java Client for Fluvio!
+https://github.com/infinyon/fluvio-smartmodule-examples # Example SmartModules
+https://github.com/infinyon/http-source-connector # Official Infinyon HTTP Source Connector
+https://github.com/infinyon/sql-connector # Official Infinyon SQL connector
+https://github.com/infinyon/kafka_webinar_16_august_2022 # Code for Fluvio to Kafka webinar
+https://github.com/infinyon/fluvio-client-capacitor # Capacitor wrapper that enables mobile devices to produce real-time events to a Fluvio Cluster.
+https://github.com/infinyon/mqtt-connector # Official Infinyon MQTT connector
+https://github.com/infinyon/connector-hello-source # Simple Fluvio connector reference repository
+https://github.com/infinyon/kafka-connector # Official Infinyon Kafka connector
+https://github.com/infinyon/streaming-hacker-news # Streaming hacker news rss feed using InfinyOn Cloud and Fluvio
+https://github.com/infinyon/labs-redis-sink-connector # Redis Sink connector
+https://github.com/infinyon/fluvio-demo-04-12-2022-finance-demo # Fluvio Webinar Finance Demo Code
+https://github.com/infinyon/fluvio-smartmodule-template # A cargo-generate template for creating Fluvio SmartModule projects
+https://github.com/infinyon/fluvio-docs # 📚 Documentation for Fluvio & InfinyOn Cloud
+https://github.com/infinyon/sendgrid-async # An async-std based client for sending emails with SendGrid
+https://github.com/infinyon/labs-regex-map-json-sm # Regex transformations on JSON values
+https://github.com/infinyon/labs-stars-forks-changes-sm # Experimental SmartModule to count stars
+https://github.com/infinyon/labs-regex-map-sm # Regex transformations on arbitrary data.
+https://github.com/infinyon/graphite-sink-connector # Official InfinyOn Graphite Sink Connector
+https://github.com/infinyon/industrial_iot_webinar #
+https://github.com/infinyon/sdf-http-guest # Http Guest library for SDF
+https://github.com/infinyon/infinyon-support #
+https://github.com/infinyon/duckdb-connector # Official InfinyOn connector to Duckdb
+https://github.com/infinyon/fluvio-client-swift #
+https://github.com/infinyon/infinyon-sigma # InfinyOn Sigma Evaluator
+https://github.com/infinyon/cocoapodspecs #
+https://github.com/infinyon/fluvio-mini-http # Fluvio's mini HTTP client
+https://github.com/infinyon/kubernetes-ops # Host selected kubernetes project workflows
+https://github.com/infinyon/labs-rss-json-sm # Smartmodule that transforms XML to JSON.
+https://github.com/infinyon/flv-util # common utility for fluvio related projects
+https://github.com/infinyon/labs-key-gen-json-sm # Generate a JSON digest from JSON values
+https://github.com/infinyon/labs-csv-json-sm # Smartmodule to convert csv files to json format.
+https://github.com/infinyon/infinyon.github.io # Fluvio Page
+https://github.com/infinyon/opentelemetry-types #
+https://github.com/infinyon/labs-json-formatter-sm # A SmartModule that reads fields in a JSON record and generates a formatted string.
+https://github.com/infinyon/labs-array-map-json-sm # Converts an array type JSON object, into individual records
+https://github.com/infinyon/demo-coord # temporary coordination repo
+https://github.com/infinyon/fluvio-community # Shared community projects
+https://github.com/infinyon/fluvio-command # Command Execution Helpers
+https://github.com/infinyon/data-engineering-workshop #

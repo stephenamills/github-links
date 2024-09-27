@@ -19,10 +19,6 @@ https://github.com/redhat-helloworld-msa/jenkins-library # Jenkins Pipeline libr
 https://github.com/redhat-helloworld-msa/jenkins # (Deprecated) Custom Jenkins - Used for CI/CD
 https://github.com/redhat-helloworld-msa/namaste # Microservice using Dropwizard
 
-https://github.com/redhat-chaos/actions # Red Hat Chaos - GitHub Actions
-https://github.com/redhat-chaos/chaos-guide # Guide for chaos testing Kubernetes clusters
-https://github.com/redhat-chaos/prow-scripts #
-
 https://github.com/redhat-best-practices-for-k8s/certsuite #
 https://github.com/redhat-best-practices-for-k8s/certsuite-qe # QE integration for TNF
 https://github.com/redhat-best-practices-for-k8s/certsuite-sample-workload # This repository provides the infastructure to create a CN

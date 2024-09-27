@@ -1,0 +1,22 @@
+https://github.com/grafana/tempo # Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+https://github.com/grafana/intro-to-mltp # Introduction to Metrics, Logs, Traces and Profiles session companion code.
+https://github.com/grafana/tempo-operator # Grafana Tempo Kubernetes operator
+https://github.com/grafana/dskit # Distributed systems kit
+https://github.com/grafana/docker-otel-lgtm #
+https://github.com/grafana/agent # Vendor-neutral programmable observability pipelines.
+https://github.com/grafana/tns # Observability Demo App
+https://github.com/grafana/faro-web-sdk # The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability.
+https://github.com/grafana/agent-modules # A repository of public agent modules
+https://github.com/grafana/meta-monitoring-chart # A meta-monitoring chart for GEL and Loki.
+https://github.com/grafana/ckit # Lightweight library for clustering and workload distribution
+https://github.com/grafana/beyla # eBPF-based autoinstrumentation of web applications and network metrics
+https://github.com/grafana/grafana-ci-otel-collector # Grafana's OTel Collector distribution for CI/CD observability
+https://github.com/grafana/quickpizza # Pizza, pizza, pizza!
+https://github.com/grafana/otel-profiling-go # Open Telemetry integration for Grafana Pyroscope and tracing solutions such as Grafana Tempo, Honeycomb, or Jaeger
+https://github.com/grafana/opentelemetry-trace-sampling-blogpost # Repository to go with the OpenTelemetry trace blogpost
+https://github.com/grafana/oats #
+https://github.com/grafana/explore-traces # Opinionated traces app
+https://github.com/grafana/lezer-traceql # Tempo TraceQL lezer grammar
+https://github.com/grafana/xk6-client-tracing # A k6 extension for testing distributed tracing backends
+https://github.com/grafana/bugbounty # Grafana Labs bug bounty
+https://github.com/grafana/hackathon-2024-08-pyrobench-dskit # A temporary fork of dskit

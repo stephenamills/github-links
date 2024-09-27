@@ -1,0 +1,33 @@
+https://github.com/scoutapp/ruby_server_timing # Bring Rails server-side performance metrics 📈 to Chrome's Developer Tools via the Server Timing API. Production Safe™.
+https://github.com/scoutapp/scout_apm_ruby # ScoutAPM Ruby Agent. Supports Rails, Sinatra, Grape, Rack, and many other frameworks
+https://github.com/scoutapp/scout_apm_python # ScoutAPM Python Agent. Supports Django, Flask, and many other frameworks.
+https://github.com/scoutapp/elixir_plug_server_timing # Bring Elixir/Phoenix server-side performance metrics 📈 to Chrome's Developer Tools via the Server Timing API. Production Safe™.
+https://github.com/scoutapp/scout_apm_elixir # ScoutAPM Elixir Agent. Supports Phoenix and other frameworks.
+https://github.com/scoutapp/scout-apm-laravel # ScoutAPM PHP Agent for the Laravel Framework
+https://github.com/scoutapp/roadmap # The public roadmap for Scout application monitoring.
+https://github.com/scoutapp/scout-apm-php # ScoutAPM's Base PHP Agent - See README for Laravel, Symfony, and other framework support.
+https://github.com/scoutapp/scout-apm-php-ext # Native Extension Component for ScoutAPM's PHP Agent
+https://github.com/scoutapp/scout_statsd_rack # Rack application monitoring with StatsD
+https://github.com/scoutapp/scout_apm_node # ScoutAPM Agent for NodeJS. Supports Express and other frameworks
+https://github.com/scoutapp/profile_it_agent # A Ruby gem for detailed in-browser Rails profiling analysis. Metrics are reported to profileit.io.
+https://github.com/scoutapp/core-agent-api # Instrument apps written in languages Scout doesn't officially support with the Core Agent API
+https://github.com/scoutapp/load_test_rails_4 # Rails application to benchmark APM Agents.
+https://github.com/scoutapp/mtls_example # A quick launch mTLS repository.
+https://github.com/scoutapp/scout_apm_go # Early experiment in Golang instrumentation
+https://github.com/scoutapp/scout-apm-symfony-bundle # ScoutAPM Support for Symfony Applications
+https://github.com/scoutapp/fieldbook # The Rails Performance Field Guide
+https://github.com/scoutapp/scout-apm-lumen #
+https://github.com/scoutapp/rails_demo # Rails app for demo contains some common performance issues
+https://github.com/scoutapp/scout_help_sphinx # Scout Help Docs powered by Sphinx
+https://github.com/scoutapp/front_plugin_elm # A plugin for frontapp.com's tool to get support info out of APM
+https://github.com/scoutapp/pyobjtrace # Python Object Allocation Tracer
+https://github.com/scoutapp/zed # Realtime POC
+https://github.com/scoutapp/scout_apm_ruby_logging # Detailed managed log monitoring for Ruby on Rails
+https://github.com/scoutapp/.github # Our magical public README
+https://github.com/scoutapp/scout_honeycomb_ruby # Bring wonderfully query-able events representing your Ruby on Rails web requests into Honeycomb.io.
+https://github.com/scoutapp/scout_apm_python_logging # Detailed managed log monitoring for Django and Flask Applications
+https://github.com/scoutapp/load_test_rails_2 # Rails 2 Compatibility testing app for Scout APM
+https://github.com/scoutapp/load_test_rails_5_0 # Testing app for ScoutAPM w/Rails 5.0.X
+https://github.com/scoutapp/elixir_phoenix_demo # A sample Elixir Phoenix app instrumented with Scout
+https://github.com/scoutapp/statsd_examples # Examples of application instrumentation via StatsD
+https://github.com/scoutapp/ollama-django #

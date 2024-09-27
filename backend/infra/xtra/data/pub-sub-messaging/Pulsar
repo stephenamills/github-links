@@ -1,0 +1,27 @@
+https://github.com/apache/pulsar # Apache Pulsar - distributed pub-sub messaging system
+
+https://github.com/apache/pulsar-client-go # Apache Pulsar Go Client Library
+https://github.com/apache/pulsar-manager # Apache Pulsar Manager
+https://github.com/apache/pulsar-helm-chart # Official Apache Pulsar Helm Chart
+https://github.com/apache/bookkeeper # Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads
+https://github.com/apache/pulsar-client-node # Apache Pulsar NodeJS Client
+https://github.com/apache/pulsar-site # Apache Pulsar Site
+https://github.com/apache/pulsar-dotpulsar # The official .NET client library for Apache Pulsar
+https://github.com/apache/pulsar-client-cpp # Apache Pulsar C++ client library
+https://github.com/apache/pulsar-client-python # Apache Pulsar Python client library
+
+https://github.com/apache/flink # Apache Flink
+https://github.com/apache/flink-connector-pulsar # Apache flink
+https://github.com/apache/pulsar-adapters # Apache Pulsar Adapters
+https://github.com/apache/pulsar-client-reactive # Reactive client for Apache Pulsar
+https://github.com/apache/camel-examples # Apache Camel Examples
+https://github.com/apache/pulsar-test-infra # Testing infrastructure for Apache Pulsar
+https://github.com/apache/pulsar-connectors # Apache Pulsar Connectors
+https://github.com/apache/eventmesh # EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
+https://github.com/apache/pulsar-client-ruby # Apache Pulsar Ruby client
+https://github.com/apache/inlong # Apache InLong - a one-stop, full-scenario integration framework for massive data
+https://github.com/apache/streampipes # Apache StreamPipes - A self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
+https://github.com/apache/pulsar-presto # Apache Pulsar Presto Connector
+https://github.com/apache/amoro # Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
+https://github.com/apache/pulsar-release # Apache Pulsar Release
+https://github.com/apache/pulsar-java-contrib # Contributor repository for code samples, plugins and libraries in Java for Apache Pulsar

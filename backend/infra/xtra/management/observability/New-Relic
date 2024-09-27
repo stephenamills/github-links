@@ -1,0 +1,601 @@
+https://github.com/newrelic/centurion # A mass deployment tool for Docker fleets
+https://github.com/newrelic/newrelic-ruby-agent # New Relic RPM Ruby Agent
+https://github.com/newrelic/node-newrelic # New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support, please go to http://support.newrelic.com.
+https://github.com/newrelic/go-agent # New Relic Go Agent
+https://github.com/newrelic/rusty-hog # A suite of secret scanners built in Rust for performance. Based on TruffleHog (https://github.com/dxa4481/truffleHog) which is written in Python.
+https://github.com/newrelic/elixir_agent # New Relic's Open Source Elixir Agent
+https://github.com/newrelic/terraform-provider-newrelic # Terraform provider for New Relic
+https://github.com/newrelic/newrelic-java-agent # The New Relic Java agent
+https://github.com/newrelic/newrelic-python-agent # New Relic Python Agent
+https://github.com/newrelic/docs-website # Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+https://github.com/newrelic/opensource-website # Source code for New Relic's Opensource site.
+https://github.com/newrelic/infrastructure-agent # New Relic Infrastructure Agent
+https://github.com/newrelic/newrelic-cli # The New Relic Command Line Interface
+https://github.com/newrelic/newrelic-php-agent # The New Relic PHP Agent
+https://github.com/newrelic/newrelic-quickstarts # New Relic One quickstarts help accelerate your New Relic journey by providing immediate value for your specific use cases.
+https://github.com/newrelic/nri-flex # An application-agnostic, all-in-one New Relic integration integration
+https://github.com/newrelic/newrelic-opentelemetry-examples # Examples for sending OpenTelemetry sourced data to New Relic.
+https://github.com/newrelic/helm-charts # Helm charts for New Relic applications
+https://github.com/newrelic/newrelic-dotnet-agent # The New Relic .NET language agent.
+https://github.com/newrelic/infrastructure-agent-ansible # Ansible role for installing New Relic Infrastructure agent
+https://github.com/newrelic/nr1-workshop # Self-paced training workshop for the NR1 CLI/SDK
+https://github.com/newrelic/newrelic-browser-agent # New Relic Browser Agent
+https://github.com/newrelic/newrelic-lambda-extension # An AWS Lambda Extension to collect, enhance and transport telemetry to New Relic for AWS Lambda functions without requiring an external transport such as CloudWatch Logs or Kinesis.
+https://github.com/newrelic/newrelic-client-go # New Relic Client for the Go programming language
+https://github.com/newrelic/entity-definitions # The definition files contained in this repository are mappings between the telemetry attributes NewRelic ingests, and the entities users can interact with. If you have telemetry from any source that is not supported out
+of the box, you can propose a mapping for it by opening a PR. https://github.com/newrelic/node-native-metrics # Optional native module for collecting low-level Node & V8 metrics
+https://github.com/newrelic/newrelic-node-apollo-server-plugin #
+https://github.com/newrelic/deployment-marker-action # Github Action for recording a Deployment Marker in New Relic
+https://github.com/newrelic/serverless-newrelic-lambda-layers # A Serverless plugin to install New Relic's AWS Lambda layers without requiring a code change.
+https://github.com/newrelic/aws-log-ingestion # AWS Serverless Application that sends log data from CloudWatch Logs to New Relic Infrastructure - Cloud Integrations.
+https://github.com/newrelic/nr1-cloud-optimize # NR1 Cloud Optimize allows you to Identify right-sizing opportunities and potential savings of your AWS, GCP, and Azure instances across your cloud environment.
+https://github.com/newrelic/absinthe-schema-stitching-example # Absinthe Schema Stitching Example
+https://github.com/newrelic/newrelic-lambda-cli # A CLI to install the New Relic AWS Lambda integration and layers.
+https://github.com/newrelic/infra-integrations-sdk # New Relic Infrastructure Integrations SDK
+https://github.com/newrelic/nri-kubernetes # New Relic integration for Kubernetes
+https://github.com/newrelic/newrelic-kubernetes-operator # Operator to create New Relic configuration in Kubernetes
+https://github.com/newrelic/newrelic-telemetry-sdk-java # Java library for sending telemetry data to New Relic
+https://github.com/newrelic/developer-website # Source code for the New Relic Developer Site.
+https://github.com/newrelic/nri-prometheus # Fetch metrics in the Prometheus metrics inside or outside Kubernetes and send them to the New Relic Metrics platform.
+https://github.com/newrelic/newrelic-diagnostics-cli # NrDiag is a command line diagnostics tool for New Relic Products that was created by and is maintained by New Relic Global Technical Support
+https://github.com/newrelic/nrjmx # Command line tool to connect to a JMX server and retrieve the MBeans it exposes.
+https://github.com/newrelic/nr1-status-pages # NR1 Status Pages allows you to collect and display the statuses of key dependencies in one place.
+https://github.com/newrelic/newrelic-lambda-layers # Source code and utilities to build and publish New Relic's public AWS Lambda layers.
+https://github.com/newrelic/newrelic-telemetry-sdk-python # A python library to send data to New Relic!
+https://github.com/newrelic/nr-openai-observability # Easy to install OpenAI GPT monitoring tool.
+https://github.com/newrelic/tutone # Generate Golang code from GraphQL schema introspection
+https://github.com/newrelic/newrelic-jfr-core # JFR library that adapts JFR events to the New Relic Telemetry SDK
+https://github.com/newrelic/papers # Validates licenses of your Rails dependencies against a whitelist
+https://github.com/newrelic/newrelic-unix-monitor # Monitoring service for Unix (AIX, Linux, HP-UX, MacOS, Solaris) systems
+https://github.com/newrelic/quickstarts-synthetics-library # Repositories containing example/templated synthetic scripts for use in New Relic.
+https://github.com/newrelic/infrastructure-agent-chef # Chef cookbook for installing New Relic Infrastructure agent
+https://github.com/newrelic/fluentd-examples # Sample FluentD configs
+https://github.com/newrelic/wiki-sync-action # A GitHub Action that synchronizes the contents of a directory to the repository's Wiki.
+https://github.com/newrelic/k8s-metadata-injection # Kubernetes metadata injection for New Relic APM to make a linkage between APM and Infrastructure data.
+https://github.com/newrelic/newrelic-fluent-bit-output # A Fluent Bit output plugin that sends logs to New Relic
+https://github.com/newrelic/newrelic-airflow-plugin # Send airflow metrics to New Relic!
+https://github.com/newrelic/newrelic-monolog-logenricher-php # Monolog components to enable New Relic Logs
+https://github.com/newrelic/nri-postgresql # New Relic Infrastructure Postgresql Integration
+https://github.com/newrelic/newrelic-logenricher-dotnet # Extensions supporting New Relic Logging (Logs In Context)
+https://github.com/newrelic/nri-nginx # New Relic Infrastructure Nginx Integration
+https://github.com/newrelic/infrastructure-bundle # New Relic Infrastructure containerised agent bundle
+https://github.com/newrelic/nr1-learn-nrql # NR1 learn NRQL helps New Relic Customers quickly learn our custom query language - NRQL
+https://github.com/newrelic/nr1-github # NR1 Github allows you to create more context to your entities by having access to the GitHub repository, contributors and README.
+https://github.com/newrelic/nr1-browser-analyzer # NR1 Browser Analyzer allows you to understand the impact and performance of your website.
+https://github.com/newrelic/open-install-library # New Relic's open instrumentation installation recipe database and service
+https://github.com/newrelic/newrelic-cordova-plugin # A Cordova plugin for the New Relic Mobile SDKs
+https://github.com/newrelic/video-agent-roku # New Relic Agent for Roku
+https://github.com/newrelic/gatsby-theme-newrelic # Source code for New Relic's Gatsby site theme.
+https://github.com/newrelic/fluentbit-examples # Example Configurations for Fluent Bit
+https://github.com/newrelic/infrastructure-agent-puppet # Puppet module for installing New Relic Infrastructure agent
+https://github.com/newrelic/newrelic-node-examples # Working examples of New Relic Node.js agent features
+https://github.com/newrelic/nr1-customer-journey # Align multiple cohorts of data and metrics to build an interactive funnel depicting your customers’ journey.
+https://github.com/newrelic/newrelic-react-native-agent # New Relic Mobile Agent SDK for React-Native Applications
+https://github.com/newrelic/logstash-examples # Example Configurations for Logstash
+https://github.com/newrelic/java-log-extensions # Source for the New Relic Java log framework extensions.
+https://github.com/newrelic/nri-kafka # New Relic Infrastructure Kafka Integration
+https://github.com/newrelic/newrelic-ios-agent-spm # This repository hosts the Swift Package Manager deployment of the iOS agent
+https://github.com/newrelic/nr-reports # New Relic Reports is an engine for automating the generation of custom reports built using telemetry in the New Relic Telemetry Data Platform and the delivery of those reports via a variety of channels.
+https://github.com/newrelic/nri-mysql # New Relic Infrastructure MySQL Integration
+https://github.com/newrelic/nri-kube-events # New Relic integration that forwards Kubernetes events to New Relic
+https://github.com/newrelic/newrelic-android-agent # SDK to enable instrumentation of Android mobile apps in New Relic
+https://github.com/newrelic/nri-redis # New Relic Infrastructure Redis Integration
+https://github.com/newrelic/nri-perfmon # Windows Perfmon / WMI On-Host Integration for New Relic Infrastructure
+https://github.com/newrelic/newrelic-prometheus-configurator # New Relic Prometheus Configurator
+https://github.com/newrelic/aws_s3_log_ingestion_lambda # AWS Lambda that sends log data from S3 to New Relic Logging
+https://github.com/newrelic/nri-ecs # New Relic Infrastructure AWS ECS Integration
+https://github.com/newrelic/nr1-observability-maps # NR1 Observability Maps allows you to create an observability map based on any of the data available in New Relic.
+https://github.com/newrelic/nr1-network-telemetry # NR1 Network Telemetry gives you real time IPfix and Sflow visualization of network data passing through your system.
+https://github.com/newrelic/nr-handbook # Welcome to the New Relic Handbook. This handbook is designed for you, as a New Relic Expert, to help your colleagues in onboarding with New Relic. The Handbook goes through account set-up, recommended alerts, Insights dashboar
+ds, etc... See more below, or in the Explorers Hub https://github.com/newrelic/newrelic-fluentd-output # A Fluentd output plugin that sends logs to New Relic
+https://github.com/newrelic/newrelic-ocoe-launch-pad # Observability Centre of Excellence Launch Pad: A quick start template for building an OCoE knowledge base.
+https://github.com/newrelic/nr1-community # An open-source library of useful components for building on New Relic One's programmability platform.
+https://github.com/newrelic/one-core-toolbox # A Figma plugin that simplifies the use of the One Core design system for New Relic designers (internal only).
+https://github.com/newrelic/java-aws-lambda # AWS Lambda OpenTracing Java SDK
+https://github.com/newrelic/terraform-newrelic-apm # Terraform module for New Relic application monitoring
+https://github.com/newrelic/nr1-nerdlet-zero-to-hero # A self-paced introduction to custom application (nerdlet) development for New Relic One
+https://github.com/newrelic/newrelic-salesforce-exporter # New Relic integration for Salesforce logs.
+https://github.com/newrelic/nri-port-monitor # New Relic On Host Integration for Monitoring TCP/UDP ports
+https://github.com/newrelic/newrelic-pcf-nozzle-tile # New Relic Firehose Nozzle for Pivotal Cloud Foundry
+https://github.com/newrelic/newrelic-php-daemon-docker # A docker image for the New Relic PHP Daemon
+https://github.com/newrelic/newrelic-exporter-specs # A repository of design guidelines and implementation details for implementing exporters for open instrumentation systems
+https://github.com/newrelic/newrelic-ios-agent # New Relic agent SDK for iOS apps
+https://github.com/newrelic/newrelic-java-examples # Examples illustrating usage of various New Relic Java APIs, SDKs, and libraries.
+https://github.com/newrelic/nri-mssql # New Relic Infrastructure Mssql Integration
+https://github.com/newrelic/nri-rabbitmq # New Relic Infrastructure RabbitMQ Integration
+https://github.com/newrelic/nri-vsphere # New Relic Infrastructure VMware vSphere integration
+https://github.com/newrelic/nri-elasticsearch # New Relic Infrastructure Elasticsearch Integration
+https://github.com/newrelic/newrelic-opencensus-exporter-go # New Relic OpenCensus Exporter
+https://github.com/newrelic/nr1-datalyzer # NR1 Datalyzer allows you to explore event and metric data related in a simple, fast, intuitive way.
+https://github.com/newrelic/demo-catalog # Repository that will host all demotron v3 scenarios
+https://github.com/newrelic/newrelic-graphql-java-core # Helpers for integrating the graphql-java library with your JVM application
+https://github.com/newrelic/junit-reporter-action # Github Action for reporting JUnit results to New Relic
+https://github.com/newrelic/newrelic-maui-plugin # New Relic Mobile instrumentation for MAUI
+https://github.com/newrelic/nr1-pathpoint # Pathpoint is an enterprise platform tracker that models system health in relation to actual user-impacting business stages.
+https://github.com/newrelic/nri-oracledb # New Relic Infrastructure OracleDB Integration
+https://github.com/newrelic/repolinter-action # ✅Run Repolinter in your CI pipeline
+https://github.com/newrelic/gatsby-plugin-newrelic # A Gatsby plugin for instrumenting your site with New Relic's Browser Agent
+https://github.com/newrelic/nri-winservices # Windows services Integration for New Relic Infrastructure
+https://github.com/newrelic/nr1-groundskeeper # NR1 Groundkeeper allows you to generate a live view of all the APM agents across your Services.
+https://github.com/newrelic/nr1-status-widgets # NR1 Status Widgets provides you with custom Visualizations for Dashboards
+https://github.com/newrelic/newrelic-azure-functions # Functions to collect and forward logs from Microsoft Azure to New Relic Logs
+https://github.com/newrelic/newrelic-fluentd-docker # A custom Fluentd Docker image for forwarding log events to New Relic.
+https://github.com/newrelic/newrelic-k8s-metrics-adapter # This repository hosts the NewRelic Kubernetes metrics adapter
+https://github.com/newrelic/ansible-install # Building installation support for our customers are using ansible to manage their infrastructure and services at scale
+https://github.com/newrelic/newrelic-capacitor-plugin # Mobile instrumentation plugin for the Capacitor hybrid mobile platform by Ionic
+https://github.com/newrelic/nr-entity-tag-sync # The New Relic Entity Tag Sync application is a tool used to map entity metadata from entities in an external system of record to tags on New Relic entities and to keep such tag values synchronized with the external enti
+ty metadata values across time. https://github.com/newrelic/nri-discovery-kubernetes # New Relic Kubernetes Auto-Discovery
+https://github.com/newrelic/nri-cassandra # New Relic Infrastructure Cassandra Integration
+https://github.com/newrelic/newrelic-gradle-verify-instrumentation # Gradle 5.6+ plugin for verifying instrumentation modules for the New Relic Java agent.
+https://github.com/newrelic/nr1-container-explorer # NR1 Container Explorer gives you global visibility of the containers across your infrastructure, easily segmented by tags.
+https://github.com/newrelic/newrelic-prometheus-exporters-packages # Repository for packaging Prometheus exporters made by the community.
+https://github.com/newrelic/newrelic-flutter-agent # New Relic agent SDK for Flutter hybrid mobile apps
+https://github.com/newrelic/nri-statsd #
+https://github.com/newrelic/nr1-catalog # New Relic One Catalog repo of repos
+https://github.com/newrelic/nr1-deployment-analyzer # NR1 Deployment Analyzer allows you to view application deployments across your environments from your APM deployment markers.
+https://github.com/newrelic/nri-jmx # New Relic Infrastructure JMX Integration
+https://github.com/newrelic/nr1-top # NR1 Top allows you to display and inspect the top processes of your hosts, including CPU, I/O and memory.
+https://github.com/newrelic/java-agent-api # Java Agent API Javadocs
+https://github.com/newrelic/kafka-connect-newrelic #
+https://github.com/newrelic/nri-mongodb # New Relic Infrastructure MongoDB Integration
+https://github.com/newrelic/video-agent-android # New Relic Video Agent for Android
+https://github.com/newrelic/nr1-how-to # Starter applications for programmability how to examples
+https://github.com/newrelic/dropwizard-metrics-newrelic # Implementation of a DropWizard metrics Reporter that sends data as dimensional metrics to New Relic
+https://github.com/newrelic/nr1-integrations-manager # NR1 Integrations Manager allows you to reduce the effort to create, manage and deploy new integrations.
+https://github.com/newrelic/fastly-to-insights # Docker image of Fastly to Insights service
+https://github.com/newrelic/nr1-metrics-aggregator # NR1 Metrics Aggregator is a GUI for the metrics to events features of the New Relic data platform
+https://github.com/newrelic/node-test-utilities # Test helpers for Node.js instrumentation modules
+https://github.com/newrelic/newrelic-agents-ansible-collection # An Ansible collection for installing New Relic agents
+https://github.com/newrelic/k8s-agents-operator # This project auto-instruments containerized workloads in Kubernetes with New Relic agents.
+https://github.com/newrelic/nr1-apdex-optimizer # New Relic One Apdex Optimizer
+https://github.com/newrelic/csec-java-agent # Open source repo for the new relic Java security agent
+https://github.com/newrelic/c-dt-example # C Distributed Tracing Example
+https://github.com/newrelic/newrelic-unity-agent # New Relic Agent plugin for Unity mobile games and applications
+https://github.com/newrelic/opentelemetry-collector-components # This repository will be used to store the Otel components that contain changes not pushed to upstream yet or whole components that weren’t accepted by the community. Mainly, Go code.
+https://github.com/newrelic/newrelic-azure-devops-statistics # Serverless function to process Azure Devops build, release and ticket information and forward it to New Relic.
+https://github.com/newrelic/video-core-js # Core library for all browser video trackers
+https://github.com/newrelic/newrelic-service-broker-tile # New Relic PCF Agent Tile
+https://github.com/newrelic/newrelic-pixie-integration # The Pixie integration collects metrics and traces from Pixie and sends them to New Relic using the OpenTelemetry line protocol.
+https://github.com/newrelic/validate-nerdpack-action # GitHub Action to check for the presence of our standard open source files, catalog files (if applicable), and package script commands
+https://github.com/newrelic/nr1-workload-geoops # NR1 Workload Geo Ops aligns Workload data (or other Entities) in a Geographic management console.
+https://github.com/newrelic/newrelic-active-directory-integration #
+https://github.com/newrelic/nr-salesforce-event-streaming #
+https://github.com/newrelic/newrelic-k8s-operator # This repo contains code for New Relic’s K8s operator.
+https://github.com/newrelic/.github # Standard policy and procedure across the New Relic GitHub organization
+https://github.com/newrelic/observability-as-code # New Relic Observability as Code
+https://github.com/newrelic/demo-simulator # A NodeJS server allowing users to run scenarios. Each scenario executes a list of steps at a specific frequency. Actions can be a GET, POST on specific URL, or more complex browser activities (using selenium/chrome). This r
+epository can be deployed with the demo-deployer, and simulation can be loaded upon deployment. https://github.com/newrelic/nr1-account-maturity # NR1 Account Maturity is a quick view to understand if you're using key features of your New Relic account across multiple accounts and multiple applications.
+https://github.com/newrelic/nri-docker # Docker Integration for New Relic Infrastructure
+https://github.com/newrelic/newrelic-infra-operator # This repository hosts the newrelic kubernetes operator of infrastructure
+https://github.com/newrelic/logstash-output-plugin # New Relic Logstash Output Plugin
+https://github.com/newrelic/nr1-event-stream # NR1 Event Stream allows you to view the latest live data stream for APM data based on Transaction and TransactionError events.
+https://github.com/newrelic/puppet-install # New Relic installation module for customers who are using Puppet to configure their infrastructure at scale
+https://github.com/newrelic/newrelic-introspector-node #
+https://github.com/newrelic/nr1-pageview-map # NR1 Pageview Map allows you to explore Browser data geographically.
+https://github.com/newrelic/new-relic-language-linter # Like Grammarly for people who write New Relic UI copy, but focused on writing-style more than grammar
+https://github.com/newrelic/newrelic-labs-sdk #
+https://github.com/newrelic/csec-go-agent # Repository for new relic Go security agent
+https://github.com/newrelic/nri-nagios # New Relic Infrastructure Nagios Integration
+https://github.com/newrelic/nri-varnish # New Relic Varnish Integration
+https://github.com/newrelic/nr1-neon # NR1 Neon allows you to create a status board based on New Relic alert statuses or event values.
+https://github.com/newrelic/nr1-kentik-network-monitoring # NR1 Kentik Network Monitoring contains custom visualizations to visualize data from Kentik’s network agent.
+https://github.com/newrelic/fluent-bit-package # A public repo that takes care of downloading the FluentBit source, compiling it and uploading the resulting artifact to be used by the NewRelic infra-agent
+https://github.com/newrelic/newrelic-bitmovin-analytics #
+https://github.com/newrelic/release-toolkit #
+https://github.com/newrelic/newrelic-telemetry-sdk-specs # Specs for the New Relic Telemetry SDKs
+https://github.com/newrelic/nr1-nerdpack-layout-standard # A boilerplate for the standard nerdpack design layout
+https://github.com/newrelic/new-relic-extension-pack # New Relic VS Code Extension Pack
+https://github.com/newrelic/demo-newrelic-instrumentation #
+https://github.com/newrelic/chef-install # Building installation support for our customers are using chef to manage their infrastructure and services at scale.
+https://github.com/newrelic/python-agent-extension # This repository provides a basic skeleton for creating instrumentation packages that plug into the New Relic Python Agent.
+https://github.com/newrelic/nr1-tag-improver # NR1 Tag Improver helps you set tagging policy for all entities across your New Relic One accounts, audit where you are and aren’t meeting that policy, and bulk-edit custom tags - all in one UI.
+https://github.com/newrelic/video-videojs-js # New relic tracker for VideoJS player
+https://github.com/newrelic/best-practices-for-measuring-your-code-pipeline # Code Pipeline Webinar Demo App
+https://github.com/newrelic/nr1-bootstrap-theme # Apply New Relic styling to bootstrap for use in libraries like reactstrap
+https://github.com/newrelic/nr-labs-widget-pack # Custom widgets to enhance your New Relic dashboards. Includes: Map, Multiline Compare, Line/Bar, Event Overlays, Radar, List, Granular Timeseries Widgets
+https://github.com/newrelic/demo-fluentd # This repository is intended to be used with the demo-deployer. This will install Fluentd as a service on a given host for the purpose of shipping log data to a specifically configured endpoint.
+https://github.com/newrelic/demo-nodetron #
+https://github.com/newrelic/newrelic-cloudformation-resource-providers-workloads #
+https://github.com/newrelic/integrations-pkg-test-action #
+https://github.com/newrelic/nr1-mande # Add-on New Relic app to visualize the health of your end-to-end Video Streaming workflow, and troubleshoot issues in specific user video sessions.
+https://github.com/newrelic/nr-ngo-validation-serverless # Encapsulate the TechSoup validation API calls into a single request
+https://github.com/newrelic/nri-f5 # New Relic Infrastructure F5 Integration
+https://github.com/newrelic/demo-javatron # demo-javatron is a REST application to be used with the demo-deployer. It's a java application, using JDK 14, hosted on a Tomcat server, and built with maven. Only 1 instance of Javatron can be deployed on a single host.
+https://github.com/newrelic/video-shaka-js # New relic tracker for Shaka Player
+https://github.com/newrelic/nr1-nimbus # NR1 Nimbus allows you to migrate workloads to the cloud, or across different cloud environments
+https://github.com/newrelic/opentelemetry-collector-releases # Handle the configuration files for the OpenTelemetry New Relic distributions.
+https://github.com/newrelic/nri-couchbase # New Relic Infrastructure Couchbase Integration
+https://github.com/newrelic/fy23sko-oac #
+https://github.com/newrelic/nr-openai-observability-node # New Relic OpenAI observability tool
+https://github.com/newrelic/nr1-roku # HTTP Analytics for Roku Applications
+https://github.com/newrelic/newrelic-dotnet-examples # Code samples for the New Relic .NET Agent
+https://github.com/newrelic/nri-apache # New Relic Infrastructure Apache Integration
+https://github.com/newrelic/nr1-catalog-manager # This project is used by New Relic to manage the collection of open source Nerdpacks that make up the New Relic One Catalog
+https://github.com/newrelic/newrelic-unreal-plugin # Plugin for Unreal to provide Android and iOS Mobile telemetry
+https://github.com/newrelic/csec-node-agent # Repository for new relic node security agent
+https://github.com/newrelic/fargate-runner-action # New Relic GitHub Action for running in private AWS fargate
+https://github.com/newrelic/nri-network-telemetry # Network Telemetry Integration for New Relic
+https://github.com/newrelic/k8s-agents-automation # This repo will holds automation used our integrations like reusable workflows and the automations that are already in this repo.
+https://github.com/newrelic/tracker-prebid-js # New Relic tracker for Prebid
+https://github.com/newrelic/csec-ruby-agent # Public repo for new relic ruby security agent
+https://github.com/newrelic/demo-pythontron # demo-pythontron is a REST application written in Python using the Flask framework. It can be installed on a host or an AWS lambda function, and deployed with the demo-deployer.
+https://github.com/newrelic/nri-zookeeper # New Relic On Host Integration for Apache Zookeeper
+https://github.com/newrelic/nr-labs-components # Useful components to develop 3rd party nerdpacks
+https://github.com/newrelic/developer-toolkit-template-go # Golang repo template
+https://github.com/newrelic/video-html5-js # New relic tracker for HTML5 player
+https://github.com/newrelic/nri-process-discovery #
+https://github.com/newrelic/k8s-agents-release-toolkit #
+https://github.com/newrelic/nri-haproxy # New Relic Infrastructure HAproxy Integration
+https://github.com/newrelic/nr1-ospo # 📥Keep track of community contributions on GitHub with New Relic One
+https://github.com/newrelic/newrelic-agent-init-container #
+https://github.com/newrelic/newrelic-dotnet-buildpack-tile # This is New Relic Dotnet Extension Buildpack repository for Cloud Foundry.
+https://github.com/newrelic/openshift-newrelic-operator # repo to publish a certified openshift operator
+https://github.com/newrelic/newrelic-java-micronaut-http # New Relic Java Agent instrumentation for HTTP components of Micronaut
+https://github.com/newrelic/newrelic-java-kotlin-coroutines # Provides instrumentation for Kotlin Coroutines
+https://github.com/newrelic/nri-collectd # New Relic On Host Integration for collectd
+https://github.com/newrelic/newrelic-lambda-tracer-java # New Relic OpenTracing AWS Lambda Tracer for Java
+https://github.com/newrelic/nr-querypack # This repository holds the definition (schema and documentation) for encoding of messages sent by the Browser Agent to our Browser EventLog Consumer.
+https://github.com/newrelic/tracker-google-publisher-tags-js # New relic tracker for GPT
+https://github.com/newrelic/video-agent-ios # Video Agent for iOS and tvOS
+https://github.com/newrelic/video-jwplayer-js # New relic tracker for JWPlayer
+https://github.com/newrelic/nr1-sap-idocs # New Relic nerdpack to track SAP IDocs flow
+https://github.com/newrelic/newrelic-xamarin-plugin # Xamarin plugin to implement New Relic Mobile agents for Android and iOS
+https://github.com/newrelic/newrelic-java-vertx # Provides instrumentation for Vertx EventBus and Verticles
+https://github.com/newrelic/homebrew-tap #
+https://github.com/newrelic/infrastructure-publish-action # GitHub Action to publish artifacts from GH release assets into S3 bucket
+https://github.com/newrelic/cdk-tagging #
+https://github.com/newrelic/video-anvato-js # Tracker for Anvato player
+https://github.com/newrelic/eslint-plugin-newrelic # @newrelic's opinionated set of ESLint and Prettier rules for writing Javascript
+https://github.com/newrelic/nr1-nerdpack-layout-3-column # A boilerplate for the 3 column nerdpack design layout
+https://github.com/newrelic/docs-website-i18n-experiment #
+https://github.com/newrelic/docs-website-i18n-phrase # Docs website repo clone to experiment with Phrase GitHub Connector
+https://github.com/newrelic/video-akamai-js # New relic tracker for Akamai Media Player
+https://github.com/newrelic/newrelic-java-rmi # Provides instrumentation for the Java RMI on both the server and client side.
+https://github.com/newrelic/c-sdk-container-example # simple application that demonstrates the new container friendly world of the C-SDK
+https://github.com/newrelic/nri-memcached # New Relic Infrastructure memcached Integration
+https://github.com/newrelic/video-reactplayer-js # New relic tracker for React Player
+https://github.com/newrelic/newrelic-oss-cli #
+https://github.com/newrelic/open-source-tools # Open source templates and tools for New Relic projects.
+https://github.com/newrelic/infra-identity-client-go # Go auto-generated client for the OpenAPI Infrastructure Identity Client Category: Community Project
+https://github.com/newrelic/newrelic-ndk-agent # New Relic Android NDK agent
+https://github.com/newrelic/cdk-dashboards #
+https://github.com/newrelic/newrelic-k8s-operator-v2 # K8s Operator to manage New Relic Resources
+https://github.com/newrelic/nr1-nerdpack-layout-4-column # A boilerplate for the 4 column nerdpack design layout
+https://github.com/newrelic/cla-test-repo # Test repository for CLA assistant configuration
+https://github.com/newrelic/hackathon #
+https://github.com/newrelic/nr-user-flows # Understand the common paths followed by users as they navigate through a website, consisting of the actual web pages and routes traversed.
+https://github.com/newrelic/openshift-python-with-newrelic # OpenShift image with Newrelic's Python agent
+https://github.com/newrelic/video-theplatform-js # New relic tracker for Theplatform player
+https://github.com/newrelic/new-relic-support-examples # This repo will contain working examples of code for scripts that customers can use as a spring board for thier own use-cases. This repo will not be officially supported or maintained, and all outcomes will be th
+e sole responsibility of those running it. https://github.com/newrelic/newrelic-cloudformation-resource-providers-ainotificationsdestination # CloudFormation custom resource provider for AI Notifications Destination
+https://github.com/newrelic/traces-backend-newrelic # A New Relic backend implementation for https://github.com/socketry/traces
+https://github.com/newrelic/newrelic-node-versions #
+https://github.com/newrelic/go-easy-instrumentation #
+https://github.com/newrelic/new-relic-github-sponsors-governance #
+https://github.com/newrelic/nr1-funnel-component # Wrapper for funnel-graph-js that incorporates basic logic for interacting with nr1 libs.
+https://github.com/newrelic/video-caf-js # New Relic tracker for CAF Receivers
+https://github.com/newrelic/newrelic-module-util-java # Multi-release jar for bootstrapping the Java agent.
+https://github.com/newrelic/pkg-installation-testing-action # GH Action that tests deb, rpm packages installation
+https://github.com/newrelic/coreint-automation # This repo will holds automation used our integrations like reusable workflows and the automations that are already in this repo.
+https://github.com/newrelic/nri-sync # Infrastructure integration that allows syncing between a host/container and a nerdpacks nerdstorage. Used in conjunction with nr1-integrations-manager nerdpack.
+https://github.com/newrelic/newrelic-java-vertx-extensions # Provides instrumentation for the customization of various products for use within Vertx
+https://github.com/newrelic/nri-consul # New Relic Infrastructure Consul Integration
+https://github.com/newrelic/demo-services # A collection of services for use with the demo-deployer
+https://github.com/newrelic/newrelic-cloudformation-resource-providers-aiworkflows # CloudFormation custom resource provider for AI Notifications Workflows
+https://github.com/newrelic/newrelic-cloudformation-resource-providers-common #
+https://github.com/newrelic/nr1-nerdpack-layout-t-bone # A boilerplate for the "t-bone" nerdpack design layout
+https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid # A boilerplate for the 3x2 grid nerdpack design layout
+https://github.com/newrelic/video-ooyala-js # New relic tracker for Ooyala player
+https://github.com/newrelic/github_jira_sandbox # Test sandbox for Github to JIRA integration using Workato
+https://github.com/newrelic/newrelic-dashboard-copy-tool #
+https://github.com/newrelic/newrelic-cloudformation-resource-providers-ainotificationschannel # CloudFormation custom resource provider for AI Notifications Channel
+https://github.com/newrelic/infrastructure-public-keys # DEB package for seamless public key rotation.
+https://github.com/newrelic/nr1-sap-webservices # New Relic SAP ABAP Web Services Explorer tracks the SAP Web Services throughout the SAP system.
+https://github.com/newrelic/newrelic-infra-checkers # Github Action used to apply common configurations for CI tools
+https://github.com/newrelic/openshift-java-with-newrelic # OpenShift image with Newrelic's Java agent
+https://github.com/newrelic/nr1-nerdpack-layout-4x2-grid # A boilerplate for the 4x2 grid nerdpack design layout
+https://github.com/newrelic/newrelic-oss-docs-theme # Gatsby theme for OSS documentation sites (GH Pages) in the New Relic GitHub org(s)
+https://github.com/newrelic/newrelic-integration-e2e-action # Repository containing a Github action for running the e2e tests for the New Relic integrations
+https://github.com/newrelic/security_tooling # The New Relic Security Tooling repository provides code which the security team at New Relic uses to monitor and detect potential threats. Currently, scripts are included to pull logs from Okta and Duo, send to New Relic
+and set up accompanying Dashboard code to view relevant events. https://github.com/newrelic/cdk-alerts #
+
+https://github.com/newrelic-experimental/ml-performance-monitoring # A Python package for sending model inference data, data metrics, and model metrics
+https://github.com/newrelic-experimental/newrelic-nextjs-integration # NewRelic Browser and APM agent NextJs integration (front and back-end respectively)
+https://github.com/newrelic-experimental/newrelic-nestjs-integration # Sample dockerized NestJs framework service integration with New Relic Node.js Agent showing how to instrument the app in order to use all the Agent’s features (like Service Maps or Distributed Trac
+ing) https://github.com/newrelic-experimental/nr-find-log4j #
+https://github.com/newrelic-experimental/nr-account-migration # Python scripts for bulk migration of New Relic configurations like monitors, alert policies, channels, alert conditions , APM configurations.
+https://github.com/newrelic-experimental/gha-new-relic-exporter #
+https://github.com/newrelic-experimental/newrelic-snowflake-integration # New Relic integration with Snowflake to monitor query performance, logins, potential security incidents, optimise warehouse and cloud credit costs, capture any data stored in Snowflake for real-
+time alerting and reporting https://github.com/newrelic-experimental/newrelic-logs-for-salesforce-commerce-cloud # A Docker image purpose-built to monitor Salesforce Commerce Cloud (fka Demandware) logs using New Relic Logs.
+https://github.com/newrelic-experimental/newrelic-serverless-github-webhook # Function to move GitHub webhook events to NRDB using the Insights Collector endpoint.
+https://github.com/newrelic-experimental/gitlab # Gitlab exporters to send metrics,logs,traces to New Relic
+https://github.com/newrelic-experimental/futurehack # Getting started guide for FutureHack
+https://github.com/newrelic-experimental/gatsby-build-newrelic # Get Telemetry Data from your Gatsby build process
+https://github.com/newrelic-experimental/monitoring-kubernetes-with-opentelemetry #
+https://github.com/newrelic-experimental/innovate-atl # Building solutions for Atlanta's public sector challenges
+https://github.com/newrelic-experimental/newrelic-sketch-java #
+https://github.com/newrelic-experimental/newrelic-social-listening-service-nodejs # nodejs app listening to social media APIs (currently Twitter supported) analysing sentiment using natural language algorithms and sending sentiment data to New Relic Platform
+https://github.com/newrelic-experimental/nri-spark # This New Relic standalone integration polls the Apache Spark REST API for metrics and pushes them into New Relic using Metrics API It uses the New Relic Telemetry sdk for go
+https://github.com/newrelic-experimental/nr-bulk-ssl-checker # A tool for checking SSL certs in bulk utilising New Relic synthetic minions
+https://github.com/newrelic-experimental/relicstaurants # Sample food ordering application
+https://github.com/newrelic-experimental/nr1-drop-rule-explorer # Allows you to view, edit and delete the NRQL drop rules in your account. Includes GraphQL and terraform configuration hints.
+https://github.com/newrelic-experimental/powerrelic # PowerShell module for interaction with various New Relic APIs.
+https://github.com/newrelic-experimental/nru-programmability-course #
+https://github.com/newrelic-experimental/talisker # A New Relic Synthetic based solution that allows you to alert on NRQL queries longer than the 24 hour streaming alerts limit and also alert on derived values from multiple queries and queries that span different time
+windows https://github.com/newrelic-experimental/kubernetes-demo-apps # The repo contains a set of applications for Kubernetes that simulate a working production environment. They applications include: our APM agents + distributed tracing set-up, kubernetes health checks, res
+ource limits, and much more. This set of applications can be used in the K8S NRU Instruqt tracks and for lightning talks and demo’s. https://github.com/newrelic-experimental/newrelic-sidekick # New Relic SideKick - selenium-ide .side files to New Relic Scripted Browser scripts converter
+https://github.com/newrelic-experimental/terraform-cloudwatch-metric-streams # A Terraform module for using CloudWatch Metric Streams integration with New Relic
+https://github.com/newrelic-experimental/nerd-days-terraform # Nerd Days: Reducing toil with Terraform
+https://github.com/newrelic-experimental/newrelic-javascript-fastify #
+https://github.com/newrelic-experimental/newrelic-tsak # "Telemetry Swiss Army Knife" - is a programmable instrument, for processing, converting, analyzing, generating a telemetry data.
+https://github.com/newrelic-experimental/newrelic-microservices-sandbox # A set of microservices and accompanying Terraform modules that will deploy them on a fully instrumented Kubernetes cluster.
+https://github.com/newrelic-experimental/nr-terraform-json-dashboard-examples # Examples of JSON powered New Relic dashboards with the Terraform JSON dashboard resource
+https://github.com/newrelic-experimental/newrelic-agent-operator #
+https://github.com/newrelic-experimental/nr1-lighthouse-scores #
+https://github.com/newrelic-experimental/newrelic-java-guidewire # Provides Java instrumentation for Guidewire PolicyCenter and ClaimCenter
+https://github.com/newrelic-experimental/newrelic-java-quarkus # newrelic-java-quarkus
+https://github.com/newrelic-experimental/newrelic-java-camel # Instrumentation of the New Relic Java Agent for the Camel framework
+https://github.com/newrelic-experimental/java-instrumentation-template # A template for experimental repos specifically containing instrumentation of the Java Agent
+https://github.com/newrelic-experimental/nri-bosh-release-xenial # A BOSH release for New Relic Infrastructure agent for ubuntu cells in Cloud Foundry
+https://github.com/newrelic-experimental/newrelic-webpack-plugin # An npm distributed webpack plugin for using NodeJS, New Relic for NodeJS, and webpack together.
+https://github.com/newrelic-experimental/newrelic-java-boomi # Provides visibility into the Boomi Application
+https://github.com/newrelic-experimental/nerd-days-v1 #
+https://github.com/newrelic-experimental/nerd-days-cli-wizardry #
+https://github.com/newrelic-experimental/video-documentation #
+https://github.com/newrelic-experimental/nr1-viz-geo-location # Custom visualising business andd perfroamnce data across geo locations using New Relic's custom visualization platform
+https://github.com/newrelic-experimental/nr-postman-examples # Postman collections to demonstrate the NewRelic api
+https://github.com/newrelic-experimental/nri-db # Database On-Host Integration for New Relic Infrastructure (formerly 'InfraDBPlugin')
+https://github.com/newrelic-experimental/otel-workshop #
+https://github.com/newrelic-experimental/nr-showback # An automated way to report New Relic ingest consumption and user costs, by business department, using aggregated account-based cost allocation
+https://github.com/newrelic-experimental/netlify-plugin # New Relic plugin for Netlify
+https://github.com/newrelic-experimental/newrelic-eks-blueprints-addon # This repository contains the source code for the New Relic AddOn for AWS EKS Blueprints. EKS Blueprints is a CDK construct that makes it easy for customers to configure and deploy New Relic's Kub
+ernetes integration as part of an EKS Blueprint cluster on Amazon EKS https://github.com/newrelic-experimental/nri-as400 # iSeries / AS400 monitoring solution for New Relic Infrastructure.
+https://github.com/newrelic-experimental/newrelic-browser-for-salesforce-commerce-cloud # Cartridge to simplify adding New Relic Browser Javascript to your SalesForce Commerce Cloud site
+https://github.com/newrelic-experimental/pythonfordevops-nerdgraph #
+https://github.com/newrelic-experimental/newrelic-argocd-notification-webhook # This repo contains example configurations for sending ArgoCD Notification webhooks as New Relic Change Tracking events.
+https://github.com/newrelic-experimental/newrelic-java-spring-cloud # Instrumentation of Spring Cloud Gateway for use with the New Relic Java Agent
+https://github.com/newrelic-experimental/newrelic-java-jmx-harvester # A New Relic Java Agent plugin to collect MBean attributes and the results of operations.
+https://github.com/newrelic-experimental/newrelic-node-nuxt # Instrumentation for node Nuxt module
+https://github.com/newrelic-experimental/nr1-viz-historical-compare #
+https://github.com/newrelic-experimental/nr-ba-injector-extension # This repo will allow users to inject the NR Browser Agent into tabs in Chrome and Firefox using a browser extension for testing, debugging, and demos. Different versions of the agent will be accessib
+le and configurations will be able to be made on the fly. https://github.com/newrelic-experimental/tls-proxy # Proxy for bumping tls to 1.2 and forwarding traffic to New Relic
+https://github.com/newrelic-experimental/learn-labs-advance-your-nrql # Learn Labs - A collection of of tutorials and challenges to help understand some NRQL features
+https://github.com/newrelic-experimental/node-newrelic-nextjs # Instrumentation for next.js framework
+https://github.com/newrelic-experimental/nr-synthetics-config-drift-detector # Detect New Relic resource configuration changes automatically
+https://github.com/newrelic-experimental/nr1-command-center-v2 # Consolidated view of incidents, anomalies, and issues across all accessible accounts
+https://github.com/newrelic-experimental/terraform-alert-examples # This package contains Terraform resource declarations for a set of alert conditions, to be deployed in alert policies specified by you. You can also override any alert attributes, e.g. critical thresh
+olds, warning thresholds, filters, etc. https://github.com/newrelic-experimental/nr-salesforce-browser #
+https://github.com/newrelic-experimental/newrelic-databricks-integration # This integration collects telemetry from Databricks (including Spark on Databricks) and/or Spark telemetry from any Spark deployment. See the Features section for supported telemetry types.
+https://github.com/newrelic-experimental/nr1-attribute-explorer #
+https://github.com/newrelic-experimental/k8s-diag-utilities # A collection of diagnostic utilities for troubleshooting and cleaning up New Relic Kubernetes and Pixie installations.
+https://github.com/newrelic-experimental/newrelic-npm-diagnostics # npmDiag gathers logs and configuration files from the customer’s Network Performance Monitoring environment, and creats a ZIP file output that can be provided to New Relic for support.
+https://github.com/newrelic-experimental/newrelic-continuous-automated-testing-action #
+https://github.com/newrelic-experimental/newrelic-control-tower-customization #
+https://github.com/newrelic-experimental/nri-bosh-release-jammy #
+https://github.com/newrelic-experimental/oma-nr-terraform-workflows # Reference examples for New Relic Terraform automated workflows
+https://github.com/newrelic-experimental/nri-universal-discovery # New Relic Universal Discovery Integration
+https://github.com/newrelic-experimental/kubernetes-alert-policy-terraform # This Terraform module deploys a set of Kubernetes alert conditions to a single New Relic alert policy. These NRQL alert conditions are based on metrics collecting using the nri-kubernetes in
+tegration and power various UI experiences based on New Relic's Entity Platform. https://github.com/newrelic-experimental/deployer # This is a continuation of demo-deployer project that aims to turn it into a component for a testing platform for New Relic. A container image of the deployer application is available here: https://hub.docker.com/repo
+sitory/docker/newrelic/deployer https://github.com/newrelic-experimental/nerd-days-apac-v1 #
+https://github.com/newrelic-experimental/nr1-openstack #
+https://github.com/newrelic-experimental/nr1-programmability-201-workshop # 90-minute workshop for building New Relic One applications. The material assumes some exposure to New Relic One programmability. Ex: NRU's Programmability 101 course.
+https://github.com/newrelic-experimental/fy24sko-change-tracking #
+https://github.com/newrelic-experimental/newrelic-javascript-apollo-server-express #
+https://github.com/newrelic-experimental/node-newrelic-oracledb #
+https://github.com/newrelic-experimental/nr-cron-synth # Cron-like jobs in New Relic synthetics
+https://github.com/newrelic-experimental/newrelic-aws-servicecatalog-appregistry #
+https://github.com/newrelic-experimental/fibonacci-java-app # A guide to getting started with OpenTelemetry using a simple Java app.
+https://github.com/newrelic-experimental/simple-dnsmon # DNS Lookup Monitor
+https://github.com/newrelic-experimental/nr1-viz-nrql-by-monthorweek # NRQL to pull data over last n complete months or weeks
+https://github.com/newrelic-experimental/graphql-schema-to-jsii # Generate JSII compliant TypeScript types and documents from a GraphQL Schema
+https://github.com/newrelic-experimental/newrelic-java-reactor # Instrumentation of the New Relic Java Agent for the Reactor framework
+https://github.com/newrelic-experimental/labs-utilities # Repos for miscellaneous scripts/ assets used by labs team
+https://github.com/newrelic-experimental/nr-automatic-grants-for-aum # Automatically create account/role grants to groups synchronised with AUM
+https://github.com/newrelic-experimental/node-newrelic-couchbase # Instrumentation package for New Relic Node.JS agent to monitor backend calls to Couchbase.
+https://github.com/newrelic-experimental/newrelic-java-http4s # Instrumentation of the New Relic Java Agent for the HTTP4S Scala framework
+https://github.com/newrelic-experimental/instrumenting-battlesnake-nodejs # Example of how to instrument your BattleSnake with New Relic, using NodeJS
+https://github.com/newrelic-experimental/newrelic-continuous-automated-testing #
+https://github.com/newrelic-experimental/nr1-account-maturity-products # Common code between versions of the NR1 Maturity nerdlets
+https://github.com/newrelic-experimental/newrelic-google-analytics-realtime-to-insights # Lambda function that queries the google analytics realtime api for defined metrics and dimensions and sends the data to Insights.
+https://github.com/newrelic-experimental/newrelic-connector-trendmicro-cloud-one-conformity # Ingest Trend Micro Cloud One Conformity Alerts into New Relic
+https://github.com/newrelic-experimental/newrelic-kafka-playground # a repository of Terraform configurations, Ansible playbooks, and sample source code, with which a Relic or prospective customer can have a fully-functional and instrumented Kafka cluster deployed to
+their own AWS environment within minutes, requiring only AWS credentials and a New Relic license key as supplied configuration. https://github.com/newrelic-experimental/slm-lab-materials # Materials for SLM lab
+https://github.com/newrelic-experimental/newrelic-java-smallrye # newrelic-java-smallrye
+https://github.com/newrelic-experimental/nri-bosh-release-windows # A BOSH release for New Relic Infrastructure agent for MS Windows cells in Cloud Foundry
+https://github.com/newrelic-experimental/nr1-viz-boilerplate #
+https://github.com/newrelic-experimental/nr-scripted-browser-framework # A scripted browser framework that allows you to author and maintain multiple steps of a journey.
+https://github.com/newrelic-experimental/vz-newrelic-5g-edge # A Terraform configuration for deploying a multi-AZ EKS cluster leveraging Verizon’s 5G zones in AWS Wavelength. We are also experimenting with deploying both New Relic and Pixie using Terraform as part of
+this module. https://github.com/newrelic-experimental/nr1-multi-account-query #
+https://github.com/newrelic-experimental/newrelic-webhook-to-snmp-trap-java # A Webhook listener that will accept a standard New Relic WebHook Alert and convert to an SNMP Trap
+https://github.com/newrelic-experimental/deploy-repolinter-action # code for deploying a repolinter github action
+https://github.com/newrelic-experimental/newrelic-aws-cicd-integration # Monitor CI/CD pipelines in AWS with New Relic
+https://github.com/newrelic-experimental/newrelic-dotnet-grpc # This New Relic .Net agent instrumentation for Grpc.Core module provides distributed tracing support for Grpc.Core rpc calls.
+https://github.com/newrelic-experimental/nr1-gaps #
+https://github.com/newrelic-experimental/nr1-igor #
+https://github.com/newrelic-experimental/nr1-session-timeline # Analyze the performance outcomes and event stream for individual browser or mobile sessions
+https://github.com/newrelic-experimental/aws-quickstart-newrelic-infra-ec2 #
+https://github.com/newrelic-experimental/nr-phoenix-demo-app # A demo Phoenix web app instrumented with the New Relic Elixir Agent
+https://github.com/newrelic-experimental/nr1-deployatron #
+https://github.com/newrelic-experimental/nr-oci-integration #
+https://github.com/newrelic-experimental/newrelic-infra-k8s-singleton # A repo containing instructions for installing the New Relic Infrastructure agent as a Kubernetes singleton deployment
+https://github.com/newrelic-experimental/nri-datapower # Datapower integration for NewRelic
+https://github.com/newrelic-experimental/newrelic-java-sap-bi # Instrumentation for SAP PI/PO Server
+https://github.com/newrelic-experimental/nr-log-transaction-vector # Example of extracting transactional data from logs
+https://github.com/newrelic-experimental/slacklogsintegration #
+https://github.com/newrelic-experimental/caos-ansible-roles # Ansible roles to be used in internal projects for automated tests, OpenTelemetry environments provisioner
+https://github.com/newrelic-experimental/aqm-automater # nodejs script that performs the aqm steps for a given account create webhook, db, associate with policies In account
+https://github.com/newrelic-experimental/launchies # A New Relic tech podcast hosted by Danny Ramos & Lauren Lee for devs, or soon-to-be devs, offering advice on the tech interview and career progression.
+https://github.com/newrelic-experimental/nr1-wall-status-board #
+https://github.com/newrelic-experimental/newrelic-cloud-journey #
+https://github.com/newrelic-experimental/nerd-days-emea-v1 #
+https://github.com/newrelic-experimental/nri-thousandeyes # New Relic Infrastructure Integration to acquire metrics from ThousandEyes (network monitoring)
+https://github.com/newrelic-experimental/nr1-orgstatus # Nerdpack to visualize Status for Hierarchy of Workloads that reflect your Organization Structure. They would like the code to be available publicly in case they decide to further adopt and enhance this Nerdpack
+. https://github.com/newrelic-experimental/newrelic-dotnet-customparams # Instrumentation of http parameters for .NET
+https://github.com/newrelic-experimental/newrelic-continuous-automated-testing-examples # This repo will house examples for the newrelic-continuous-automated-testing github workflow and jenkins integration. This will allow users to have an example to draw from when us
+ing our continuous automated testing solution. https://github.com/newrelic-experimental/go-team-tools # dev tools and scripts for the go agent team
+https://github.com/newrelic-experimental/aws-securityhub-s3-processor #
+https://github.com/newrelic-experimental/nrpy # Python utilities and scripts wrapping New Relic API
+https://github.com/newrelic-experimental/newrelic-java-ws-rs-errors # Provides instrumentation to capture errors thrown in the WS-RS framework
+https://github.com/newrelic-experimental/newrelic-java-couchbase #
+https://github.com/newrelic-experimental/newrelic-java-tibco-businessevents #
+https://github.com/newrelic-experimental/newrelic-java-osb-11g # Provides instrumentation for Oracle Service Bus v11g
+https://github.com/newrelic-experimental/nri-md5check # Validates file change via MD5sum utility
+https://github.com/newrelic-experimental/nr1-rssreader # An NR1 application for reading rss streams and displaying them on individual tiles.
+https://github.com/newrelic-experimental/nr1-multi-status # nr1 simple multi -status visualization
+https://github.com/newrelic-experimental/newrelic-gcp-log-forwarder #
+https://github.com/newrelic-experimental/nr1-sql-plans #
+https://github.com/newrelic-experimental/graphqlschema-to-cloudformationschema # Translate GraphQL Schema to JSON Schema
+https://github.com/newrelic-experimental/automated-apdex-thresholds #
+https://github.com/newrelic-experimental/infra-lab-instruqt-track #
+https://github.com/newrelic-experimental/newrelic-java-kotlin-coroutines #
+https://github.com/newrelic-experimental/newrelic-java-aws-kms # Provides instrumentation for the AWS KMS .
+https://github.com/newrelic-experimental/newrelic-commercetools-integration-php # New Relic CommerceTools Integration PHP. Uses CommerceTools PHP SDK and New Relic PHP Agent
+https://github.com/newrelic-experimental/newrelic-java-rxjava # Instrumentation of the New Relic Java Agent for the RxJava framework
+https://github.com/newrelic-experimental/newrelic-java-undertow # Instrumentation of the New Relic Java Agent for the Undertow framework
+https://github.com/newrelic-experimental/opentelemetry-examples #
+https://github.com/newrelic-experimental/newrelic-instruqt # This repository houses the resources used for New Relic’s official Instruqt tracks.
+https://github.com/newrelic-experimental/nri-dirwatcher #
+https://github.com/newrelic-experimental/newrelic-java-tibco-core #
+https://github.com/newrelic-experimental/programmability-in-a-box # New Relic One Programmability in a box
+https://github.com/newrelic-experimental/nr1-programmability-zero-to-hero #
+https://github.com/newrelic-experimental/newrelic-java-osb-12 # Provides instrumentation for Oracle Service Bus v12
+https://github.com/newrelic-experimental/nri-cisco-rtmt #
+https://github.com/newrelic-experimental/newrelic-java-r2dbc-proxy #
+https://github.com/newrelic-experimental/service-levels-terraform #
+https://github.com/newrelic-experimental/zoomwebhooktolog #
+https://github.com/newrelic-experimental/nr1-cards-for-observability #
+https://github.com/newrelic-experimental/newrelic-java-atomikos # Gives status of Atomikos Data Sources since this information is unavailable via JMX
+https://github.com/newrelic-experimental/newrelic-java-transaction-listener-service # This lightweight Java Agent extension listens for Java Agent configChanged and transactionFinished events. It adds the labels from the Agent's configuration yml file to each complete
+d Agent transaction subject to the Rules below. The labels are read on startup and on configChanged events.The added labels appear in every Transaction Trace as user attributes. https://github.com/newrelic-experimental/nr1-geoops-mapbox # GeoOps application and dashboard custom visualization powered by Mapbox
+https://github.com/newrelic-experimental/nri-databricks #
+https://github.com/newrelic-experimental/nr-nr1viz-aligned-timeseries # Display multiple timeseries from different time periods aligned on a single line chart
+https://github.com/newrelic-experimental/newrelic-training-apps #
+https://github.com/newrelic-experimental/newrelic-apollo-server-integration # Apollo Server New Relic Open Telemetry Integration
+https://github.com/newrelic-experimental/cdk-l2-dashboards #
+https://github.com/newrelic-experimental/newrelic-java-log-forwarder # Java based Log forwarder for Unix (AIX, Linux, HP-UX, MacOS, Solaris) systems
+https://github.com/newrelic-experimental/newrelic-java-voltdb #
+https://github.com/newrelic-experimental/newrelic-java-mqtt-hivemq # Java Instrumentation for HiveMQ client library (MQTT client)
+https://github.com/newrelic-experimental/newrelic-java-cxf-client #
+https://github.com/newrelic-experimental/newrelic-java-apache-jackrabbit #
+https://github.com/newrelic-experimental/newrelic-java-mqtt-eclipse-paho # Java Instrumentation for Eclipse Paho (MQTT client library)
+https://github.com/newrelic-experimental/newrelic-java-aem-api # Provides instrumentation for the Adobe AEM product API
+https://github.com/newrelic-experimental/newrelic-dbt-cloud-integration #
+https://github.com/newrelic-experimental/reli-birds-config # Reli Birds Config eg. events
+https://github.com/newrelic-experimental/nr1-anomaly-optimization # View current Alert condition anomaly model behavior and tune alert thresholds for better accuracy.
+https://github.com/newrelic-experimental/newrelic-java-resilience4j # Provides instrumentation for the Resilence4j framework in the New Relic Java Agent
+https://github.com/newrelic-experimental/nri-apigee # Polls metrics via Apigee management API
+https://github.com/newrelic-experimental/pyenv-devcontainer # A devcontainer for VS Code using multiple versions of python for use with the python agent. Used for development purposes but developed publicly to let users work on the agent without difficulty in setting
+up. Container images are published to GitHub Container Registry. https://github.com/newrelic-experimental/nr-statuspage-notifier # Get notified in Slack when the New Relic status page changes
+https://github.com/newrelic-experimental/nr-custom-attr-data-aggregator # Queries New Relic data for delimited fields, gathers unique values and reingests for use in dashboard filters.
+https://github.com/newrelic-experimental/build-a-quickstart-lab #
+https://github.com/newrelic-experimental/nri-cassandra-status-plugin # New Relic Infrastructure Integration for cassandra-status
+https://github.com/newrelic-experimental/dotnet-cosmos-documentdb # dotnet-cosmos-documentdb
+https://github.com/newrelic-experimental/newrelic-mparticle-integration # Integration from mParticle to New Relic via an AWS Lambda function
+https://github.com/newrelic-experimental/test-agent #
+https://github.com/newrelic-experimental/nerd-vlog-demo-visualization # The final code for an example Nerdpack with a visualization from the Nerd-Vlog demo on Thursday, February 25th, 2021.
+https://github.com/newrelic-experimental/alert-automation-examples # Example code for automating alert related tasks
+https://github.com/newrelic-experimental/new-relic-rails-7-demo # New Relic on a Rails 7 App
+https://github.com/newrelic-experimental/newrelic-java-tibco-bpm #
+https://github.com/newrelic-experimental/aws-cdk-ainotificationschannel # AWS CDK L2 Construct for AI Notifications Channel
+https://github.com/newrelic-experimental/newrelic-agent-reporting # PowerShell scripts to compile a list of agents active in New Relic accounts, covering APM, Mobile, and Synthetics (Private Minions) agents
+https://github.com/newrelic-experimental/nr1-time-based-availability # New Relic Time Based Availability Visualiser
+https://github.com/newrelic-experimental/newrelic-java-apache-sling # Provides Java instrumentation for Apache Sling framework
+https://github.com/newrelic-experimental/newrelic-java-spring-async # Provides instrumentation for the New Relic Java Agent for handling asynchronous tasks in Spring
+https://github.com/newrelic-experimental/developer-toolkit-how-to #
+https://github.com/newrelic-experimental/newrelic-java-tibco-servicegrid #
+https://github.com/newrelic-experimental/nri-snmpdb # Database and query interface, which will allow developers to query and resolve SNMP OIDs to Symbol information. Intended audience for this library - developers who need to translate SNMP OIDs to something more usef
+ul in respective applications. https://github.com/newrelic-experimental/nr1-dashboard-history # An app to facilitate dashboard restoration and audit dashboard change events.
+https://github.com/newrelic-experimental/network-performance-monitoring-lab #
+https://github.com/newrelic-experimental/newrelic-basics-lab-material #
+https://github.com/newrelic-experimental/newrelic-java-spring-annotations #
+https://github.com/newrelic-experimental/terraform-newrelic-apm-servicelevels-w-tags #
+https://github.com/newrelic-experimental/newrelic-java-mule-4 # Instrumentation of the New Relic Java Agent for the Mule framework v4.x
+https://github.com/newrelic-experimental/nr1-leadership-view # New Relic leadership view, based on workloads
+https://github.com/newrelic-experimental/tsm-enablement-workshops #
+https://github.com/newrelic-experimental/nri-snmp-trapd # SNMP trapd on-host integration for New Relic Infrastructure
+https://github.com/newrelic-experimental/nr1-facinator #
+https://github.com/newrelic-experimental/newrelic-java-spring-r2dbc #
+https://github.com/newrelic-experimental/newrelic-java-finagle #
+https://github.com/newrelic-experimental/newrelic-java-aws-kinesis # Provides instrumenation of the Amazon Kinesis Client and Producer
+https://github.com/newrelic-experimental/nr-visually-complete #
+https://github.com/newrelic-experimental/synthetics-sync # Github action to sync scripts checked into repos with monitors in New Relic
+https://github.com/newrelic-experimental/nri-hyperv-report # On-Host Integration for New Relic Infrastructure to collect inventory and health data about Hyper-V Clusters, Hosts, VMs, and their constituents.
+https://github.com/newrelic-experimental/infra-v2-instruqt-packer #
+https://github.com/newrelic-experimental/infra-lab-material #
+https://github.com/newrelic-experimental/go-agent-gorm-demo #
+https://github.com/newrelic-experimental/relicstaurants-platzi #
+https://github.com/newrelic-experimental/newrelic-java-corba #
+https://github.com/newrelic-experimental/newrelic-java-feign # Instrumentation for the Feign Framework
+https://github.com/newrelic-experimental/nr1-aqm # Alert Quality Management view aimed to improve overall alert hygiene
+https://github.com/newrelic-experimental/.github #
+https://github.com/newrelic-experimental/newrelic-java-httpservlet-transaction-namer # A New Relic Java Agent extension to facilitate custom instrumentation to javax.servlet.http.HttpServlet, primarily to rename transactions.
+https://github.com/newrelic-experimental/nr-ansible-modules #
+https://github.com/newrelic-experimental/nri-mta # Infra integration to monitor email servers
+https://github.com/newrelic-experimental/newrelic-java-webmethods # Instrumentation for WebMethods 9.x and 10.x
+https://github.com/newrelic-experimental/newrelic-java-gcp-pubsub # Java Instrumentation for Google Cloud Platform (GCP) Pub/Sub Java client
+https://github.com/newrelic-experimental/newrelic-java-cosmosdb #
+https://github.com/newrelic-experimental/newrelic-java-redisson # Instrumentation for redisson
+https://github.com/newrelic-experimental/newrelic-java-elasticsearch # Instrumentation of the New Relic Java Agent for the ElasticSearch Java client
+https://github.com/newrelic-experimental/dead_code_deleter # Tagging and systematically deleting dead code in Ruby / Ruby on Rails applications.
+https://github.com/newrelic-experimental/error-inbox-lab-material #
+https://github.com/newrelic-experimental/relicstaurantreact #
+https://github.com/newrelic-experimental/nr-apigee-integration # Reusable configuration to provide observability of Apigee proxies through New Relic, using W3C Trace Context distributed tracing, metrics, and logs in context.
+https://github.com/newrelic-experimental/newrelic-java-apache-felix # Provides instrumentation for the Apache Felix framework
+https://github.com/newrelic-experimental/newrelic-java-cxf-server #
+https://github.com/newrelic-experimental/newrelic-java-jboss-executors #
+https://github.com/newrelic-experimental/newrelic-java-apache-axis2 #
+https://github.com/newrelic-experimental/newrelic-java-downstream-disable #
+https://github.com/newrelic-experimental/newrelic-java-adobe-granite # Provides instrumentation for the Adobe Granite framework
+https://github.com/newrelic-experimental/nri-ss #
+https://github.com/newrelic-experimental/newrelic-java-executors # Instrumentation of the New Relic Java Agent for Java Executors
+https://github.com/newrelic-experimental/newrelic-java-pega # Pega
+https://github.com/newrelic-experimental/synthetic-based-outlier-detection #
+https://github.com/newrelic-experimental/nr1-synthetics-alerts #
+https://github.com/newrelic-experimental/newrelic-java-apache-jackrabbit-oak # Provides instrumentation for the Apache Jackrabbit Oak framework
+https://github.com/newrelic-experimental/newrelic-java-netflix-zuul # Provide New Relic Java Agent instrumentation for the Netflix Zuul framework
+https://github.com/newrelic-experimental/synthetics-auditor #
+https://github.com/newrelic-experimental/newrelic-entity-utilization # Cron-centric process for evaluating metadata grouped entities utilization
+https://github.com/newrelic-experimental/newrelic-java-tibco-bw5 # Provides instrumentation for Tibco BusinessWorks v5
+https://github.com/newrelic-experimental/newrelic-java-tibco-bw6 # Provides instrumentation for Tibco BusinessWorks v6
+https://github.com/newrelic-experimental/nr1-aws-tags-syncer # New Relic One Application to import automatically AWS tags to New Relic APM Services.
+https://github.com/newrelic-experimental/nr1-funnelz #
+https://github.com/newrelic-experimental/kubernetes-observability-with-pixie #
+https://github.com/newrelic-experimental/k8s-workshop #
+https://github.com/newrelic-experimental/newrelic-azure-export # Azure Function to pull data from NRDB and store in Azure Log Analytics
+https://github.com/newrelic-experimental/otel-collector-logs # How to enrich logs using opentelemetry collector
+https://github.com/newrelic-experimental/newrelic-java-spring-rest #
+https://github.com/newrelic-experimental/nri-tibco-ems #
+https://github.com/newrelic-experimental/newrelic-java-tibco-businessconnect #
+https://github.com/newrelic-experimental/newrelic-autoscaling-and-elasticity # Nerdpack providing high level metrics and health checks for AWS Auto Scaling groups
+https://github.com/newrelic-experimental/nr1-app-builder # Use YAML, HTML, and CSS to create no-code NR1 applications
+https://github.com/newrelic-experimental/network-performance-monitoring-instruqt-packer #
+https://github.com/newrelic-experimental/nr1-unique-count-viz #
+https://github.com/newrelic-experimental/nr1-ghost #
+https://github.com/newrelic-experimental/nri-docker #
+https://github.com/newrelic-experimental/newrelic-java-jgroups #
+https://github.com/newrelic-experimental/newrelic-java-hystrix # Instrumentation of the New Relic Java Agent for the Hystrix framework
+https://github.com/newrelic-experimental/data-driven-dave #
+https://github.com/newrelic-experimental/newrelic-java-reactivemongo #
+https://github.com/newrelic-experimental/newrelic-java-play-1 #
+https://github.com/newrelic-experimental/newrelic-java-clojure # Provides instrumentation for Jetty-Clojure and Ring
+https://github.com/newrelic-experimental/opentelemetry-dotnet-lab-materials #
+https://github.com/newrelic-experimental/newrelic-collector-receiver # Prototype demonstrating an OpenTelemetry receiver accepting and forwarding NR agent telemetry
+https://github.com/newrelic-experimental/upgrading-apm-agents-lab # Source code for the Upgrading New Relic Agents lab
+https://github.com/newrelic-experimental/newrelic-service-broker-tile-generator #
+https://github.com/newrelic-experimental/nr-em2m # Events and Metrics to Metrics tool
+https://github.com/newrelic-experimental/newrelic-java-adobe-aem # Provides instrumentation for Adobe AEM along with its underlying frameworks
+https://github.com/newrelic-experimental/tech-partner-opentelemetry-integrations # OTeL examples for tech partner integrations
+https://github.com/newrelic-experimental/java-verification-process #
+https://github.com/newrelic-experimental/newrelic-java-aerospike #
+https://github.com/newrelic-experimental/newrelic-java-mule-gateway #
+https://github.com/newrelic-experimental/newrelic-java-ktor # New Relic Java Instrumentation for the Ktor server and client frameworks
+https://github.com/newrelic-experimental/env-provisioner # Tool to deploy hosts/k8s clusters and monitor them with OpenTelemetry to quickly work on OpenTelemetry related tasks (troubleshooting, demos, roadmap initiatives).
+https://github.com/newrelic-experimental/newrelic-java-jetty-client # New Relic Java Agent instrumentation for Jetty Client
+https://github.com/newrelic-experimental/nr1-social-listening # Nerdpack which will display sentiment of users from social media posts. This is an NR1 app for https://github.com/newrelic-experimental/newrelic-social-listening-service-nodejs
+https://github.com/newrelic-experimental/configurator # NR1 demo code of a configuration tool.
+https://github.com/newrelic-experimental/mod-newrelic-telemetry # Apache HTTP Server module to collect and send telemetry to New Relic
+https://github.com/newrelic-experimental/newrelic-java-policycenter #
+https://github.com/newrelic-experimental/newrelic-java-jdbc-executebatch # Provides instrumentation for tracking the executeBatch method of the Statement, PreparedStatement and CallableStatement interfaces as a database call.
+https://github.com/newrelic-experimental/pixie-lab-materials #
+https://github.com/newrelic-experimental/hashicorp-quickstart-annex #
+https://github.com/newrelic-experimental/nr1-synthetic-configurator #

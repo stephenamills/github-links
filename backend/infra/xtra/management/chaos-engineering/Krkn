@@ -1,0 +1,20 @@
+https://github.com/redhat-chaos/krkn-hub # Containerized wrapper around krkn to inject failures into Kubernetes clusters with minimal configuration.
+https://github.com/redhat-chaos/chaos-guide # Guide for chaos testing Kubernetes clusters
+https://github.com/redhat-chaos/prow-scripts # Several krkn examples
+
+https://github.com/krkn-chaos/krkn # Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project.
+
+https://github.com/krkn-chaos/cerberus # Guardian of Kubernetes clusters. Tool to monitor clusters health and signal/alert on failures.
+https://github.com/krkn-chaos/krkn-hub # Containerized wrapper around https://github.com/krkn-chaos/krkn to inject failures into Kubernetes clusters with minimal configuration.
+https://github.com/krkn-chaos/krkn-demos # Collection of scripts to run Krkn demos
+https://github.com/krkn-chaos/krkn-lib # Krkn Foundation Library
+https://github.com/krkn-chaos/arcaflow-plugin-kill-pod # Chaos Engineering - Kill Pod scenario plugin for Arcaflow
+https://github.com/krkn-chaos/krkn-dashboard # Dashboard for Krkn to trigger and monitor chaos test runs
+https://github.com/krkn-chaos/arcaflow-plugin-network-chaos #
+https://github.com/krkn-chaos/krkn-syn-flood #
+https://github.com/krkn-chaos/krkn-telemetry #
+https://github.com/krkn-chaos/krkn-service-hijacking #
+https://github.com/krkn-chaos/website # Placeholder for code related to krkn-chaos.dev
+https://github.com/krkn-chaos/scenarios-hub # Example scenario files for krkn
+https://github.com/krkn-chaos/krkn-ai #
+https://github.com/krkn-chaos/krkn-lib-docs #

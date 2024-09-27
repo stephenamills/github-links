@@ -1,0 +1,32 @@
+Loggie
+https://github.com/loggie-io/loggie # A lightweight, cloud-native data transfer agent and aggregator
+
+https://github.com/loggie-io/installation # Installation for Loggie
+https://github.com/loggie-io/loggie-test # test loggie
+https://github.com/loggie-io/loggie-operator # Loggie Operator
+https://github.com/loggie-io/cert-setup # Generate a CA certificate for the webhook server of the loggie operator.
+https://github.com/loggie-io/asserts #
+https://github.com/loggie-io/catalog # Catalog of shared LogConfigs.
+
+Kube Logging
+https://github.com/kube-logging/logging-operator # Logging operator for Kubernetes
+https://github.com/kube-logging/telemetry-controller # A multi-tenancy focused solution, that facilitates collection of telemetry data from Kubernetes workloads transparently.
+https://github.com/kube-logging/fluent-plugin-label-router # Fluentd plugin to route records based on Kubernetes labels and namespace
+https://github.com/kube-logging/helm-charts # Kube logging Helm chart repository
+https://github.com/kube-logging/kube-logging.github.io # Logging operator documentation
+https://github.com/kube-logging/log-generator # Log generator
+https://github.com/kube-logging/fluent-plugin-tag-normaliser # Fluent output plugin to transform tags based on record content
+https://github.com/kube-logging/fluentd-images # Custom-built Fluentd images for the Logging operator
+https://github.com/kube-logging/custom-runner # go custom runner
+https://github.com/kube-logging/log-socket # Service and CLI tool for forwarding logs through a WebSocket connection
+https://github.com/kube-logging/syslogng-reload-image # SyslogNG reload image
+https://github.com/kube-logging/node-exporter-image # Node exporter image
+https://github.com/kube-logging/.github # Org-wide GitHub configurations
+https://github.com/kube-logging/fluentd-drain-watch #
+https://github.com/kube-logging/fluentd-filter-kube-events-timestamp # custom fluentd filter to map kubernetes events timestamps
+https://github.com/kube-logging/roadmap #
+
+Syslog
+https://github.com/syslog-ng/syslog-ng # syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+https://github.com/syslog-ng/syslog-ng-cfg-diff-pr # Checks if a syslog-ng PR introduces config grammar changes.
+https://github.com/syslog-ng/syslog-ng.github.io # Here you can browse, search and contribute to most of the syslog-ng documentation.

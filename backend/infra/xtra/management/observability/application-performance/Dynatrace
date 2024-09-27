@@ -1,0 +1,132 @@
+https://github.com/dt-demos/pipeline-common-scripts # This repo contains reference scripts for use integrating Dynatrace into software delivery pipelines using the Dynatrace Events API
+https://github.com/dt-demos/dql-examples #
+https://github.com/dt-demos/simple-web-app # Simple multi-service app for demos
+https://github.com/dt-demos/github-actions #
+https://github.com/dt-demos/k8-demos #
+https://github.com/dt-demos/azure-devops-ubp # Node.js Demo Application for use in Azure Demos
+https://github.com/dt-demos/modernize-workshop-setup #
+https://github.com/dt-demos/keptn-k3s-demo #
+https://github.com/dt-demos/xmatters-demo #
+https://github.com/dt-demos/dt-metric-and-log-ingest #
+https://github.com/dt-demos/azure-monitoring # A set of examples for how to setup Dynatrace monitoring on Azure
+https://github.com/dt-demos/feature-flag-demoapp #
+https://github.com/dt-demos/monaco-demo #
+https://github.com/dt-demos/pd-webhooks #
+https://github.com/dt-demos/pagerduty-demo #
+https://github.com/dt-demos/getting-started-dashboard #
+https://github.com/dt-demos/config-automation # These are scripts to demo how to use the Dynatrace APIs for configuration.
+https://github.com/dt-demos/problem-report #
+https://github.com/dt-demos/keptn-prepare-project-bash #
+https://github.com/dt-demos/simple-monitoring-tool # Simple monitoring script this can be used for demoing alerts storms.
+https://github.com/dt-demos/keptn-docker-tasks #
+https://github.com/dt-demos/task-poller #
+https://github.com/dt-demos/dt-api-reporting # This repo shows examples for how to use the Dynatrace API and Dynatrace custom devices for reporting.
+https://github.com/dt-demos/azure-devops-extension-dt-push-event #
+
+https://github.com/dynatrace-perfclinics/dynatrace-getting-started # This repository contains supporting material for the clinic What is Dynatrace and How to get started!
+https://github.com/dynatrace-perfclinics/platform-engineering-demo # Platform Engineering Demo with a reference IDP including ArgoCD, Backstage, OpenTelemetry, Keptn and Dynatrace
+https://github.com/dynatrace-perfclinics/cloud-automation # Content for Dynatrace Cloud Automation related Observability Clinics
+https://github.com/dynatrace-perfclinics/platform-engineering-tutorial # Observability Guide to Platform Engineering Tutorial
+https://github.com/dynatrace-perfclinics/dynatrace-perfclinics.github.io # CodeLabs for Dynatrace Performance Clinics
+https://github.com/dynatrace-perfclinics/community-tips-tricks # The Dynatrace Community has a lot of Tips & Tricks on how to more efficiently use the Dynatrace Observability Platform.
+https://github.com/dynatrace-perfclinics/observability-clinic--unified-analysis # Observability Clinic episode on Unified Analysis, including convenience scripts, the EasyTaxis demo application, and WMI Extensions Tutorial
+https://github.com/dynatrace-perfclinics/obslab-llm-observability # Search for a holiday and get destination advice from an LLM. Observability by Dynatrace.
+https://github.com/dynatrace-perfclinics/prometheus-k8s-pipeline # Repository containing the files for the Performance Clinic related to Prometheus on K8s
+https://github.com/dynatrace-perfclinics/terraform-dynatrace-demo # Demo repository for Dynatrace Observability Clinic, recording: https://youtu.be/uAudyJNpda0
+https://github.com/dynatrace-perfclinics/why-devs-love-dynatrace # Repository containing the files for the Performance Clinic Series Why Devs love Dynatrace
+https://github.com/dynatrace-perfclinics/k8s_observability_4_sre # Github repository with to integrate Opentelemetry metrics and traces in Dynatrace
+https://github.com/dynatrace-perfclinics/codelabs #
+https://github.com/dynatrace-perfclinics/openobservability-clinic #
+https://github.com/dynatrace-perfclinics/devlove-easytravel-pipelines # Easytravel example pipelines (Jenkins, AZDO) with Intelligent QualityGates
+https://github.com/dynatrace-perfclinics/observabilitclinic-masteringk8s #
+https://github.com/dynatrace-perfclinics/obslab-otel-collector-data-ingest # Hands on demo. Ingest logs, metrics and traces using the Dynatrace OpenTelemetry Collector.
+https://github.com/dynatrace-perfclinics/observability-clinic---opentelemetry-without-oneagent #
+https://github.com/dynatrace-perfclinics/leverage_davis_ai2analyze #
+https://github.com/dynatrace-perfclinics/dql-by-usecase # Learning DQL (Dynatrace Query Language) by Use Case
+https://github.com/dynatrace-perfclinics/dt-save-my-life-from-broken-cluster #
+https://github.com/dynatrace-perfclinics/data-driven-devops-tutorial # This is a tutorial for the Data Driven DevOps & Platform Engineering Workshop
+https://github.com/dynatrace-perfclinics/hotday-perform-2024-test # Test Repo for our Perform HOTDAY 2024
+https://github.com/dynatrace-perfclinics/k8s_insights #
+https://github.com/dynatrace-perfclinics/openfeature-with-dynatrace #
+https://github.com/dynatrace-perfclinics/observabilitclinic-unlockk8spower #
+
+https://github.com/dynatrace-partners/techlab-managed-cluster-automation # Partner Program Tech Lab - Automate tenant, usergroup and user creation and auto deploy OneAgent to new tenant.
+https://github.com/dynatrace-partners/launch-ec2-easytravel-instance # launch latest easyTravel version on Ubuntu on ec2
+https://github.com/dynatrace-partners/techlab-bizops #
+https://github.com/dynatrace-partners/techlab-kubernetes #
+https://github.com/dynatrace-partners/techlab-dem #
+https://github.com/dynatrace-partners/techlab-environment-automation # Learn how to automate the configuration of a Dynatrace environment using API calls.
+https://github.com/dynatrace-partners/ilt # instructor led training materials
+
+https://github.com/dynatrace/superdump # A service for automated crash-dump analysis
+https://github.com/dynatrace/dynatrace-operator # Automate Kubernetes observability with Dynatrace
+https://github.com/dynatrace/dynatrace-configuration-as-code # This tool automates deployment of Dynatrace Configuration to one or multiple Dynatrace environments.
+https://github.com/dynatrace/dynatrace-appmon-docker # The home of Dockerized components of the Dynatrace Application Monitoring enterprise solution.
+https://github.com/dynatrace/easytravel-docker # The Dynatrace easyTravel Demo Application in Docker.
+https://github.com/dynatrace/dynatrace-oneagent-ansible # This Ansible role installs Dynatrace OneAgent.
+https://github.com/dynatrace/openkit-java # OpenKit Java Reference Implementation
+https://github.com/dynatrace/oneagent-sdk-for-java # Enables custom tracing of Java applications in Dynatrace
+https://github.com/dynatrace/oneagent-sdk-for-python # Enables custom tracing of Python applications in Dynatrace
+https://github.com/dynatrace/easytrade # EasyTrade - new demo microservices based application that allows its users to buy and sell stocks, developed by Demoability Team
+https://github.com/dynatrace/helm-charts # Help Charts provided by Dynatrace
+https://github.com/dynatrace/dynatrace-otel-collector # Dynatrace distribution of the OpenTelemetry Collector
+https://github.com/dynatrace/bizopsconfigurator # SPA to get inputs from the user and from the Dynatrace API, to transform a stock collection of currated dashboards, and to upload via the Dynatrace API
+https://github.com/dynatrace/oneagent-sdk-for-c # Enables custom tracing of native applications in Dynatrace
+https://github.com/dynatrace/oneagent-sdk # Describes technical concepts of Dynatrace OneAgent SDK
+https://github.com/dynatrace/backstage-plugin # Dynatrace Backstage Plugin
+https://github.com/dynatrace/oneagent-sdk-for-dotnet # Enables custom tracing of .NET applications in Dynatrace
+https://github.com/dynatrace/oneagent-sdk-for-nodejs # Enables custom tracing of Node.js applications in Dynatrace
+https://github.com/dynatrace/ufo-esp32 # 2nd generation of Dynatrace UFO with ESP32 microcontroller
+https://github.com/dynatrace/dynatrace-configuration-as-code-samples #
+https://github.com/dynatrace/openkit-dotnet # OpenKit .NET Reference Implementation
+https://github.com/dynatrace/openkit-js # OpenKit JavaScript Reference Implementation
+https://github.com/dynatrace/openkit-native #
+https://github.com/dynatrace/agent-nodejs # Dynatrace agent for PaaS environments
+https://github.com/dynatrace/dynatrace-config-manager #
+https://github.com/dynatrace/jmx-extensions # Dynatrace Platform JMX plugins
+https://github.com/dynatrace/custom-webhook-python #
+https://github.com/dynatrace/fastlane-plugin-dynatrace # This plugin allows you to decode and upload symbolication files to Dynatrace. You can also use it to first download your latest dSYM files from AppStore Connect if you use Bitcode.
+https://github.com/dynatrace/dynatrace-automation-tools #
+https://github.com/dynatrace/extension-automated-config # Dynatrace ActiveGate extension for posting Dynatrace Audit Log information into Event Feeds
+https://github.com/dynatrace/dynatrace-appmon-test-automation-samples # Collector of Samples showcasing Metrics-Driven Continuous Delivery with Dynatrace Test Automation
+https://github.com/dynatrace/snippets # This repository contains useful samples and snippets
+https://github.com/dynatrace/dynatrace-workflow-samples # Samples and templates for Dynatrace workflows
+https://github.com/dynatrace/swift-mobile-sdk # Swift Package Manger repository of the Dynatrace OneAgent for mobile (iOS, tvOS)
+https://github.com/dynatrace/heroku-buildpack-dynatrace # Heroku buildpack to enable application monitoring for Heroku apps
+https://github.com/dynatrace/dynatrace-appmon-tfs-integration-plugin # Integrates Dynatrace AppMon with Team Foundation Server.
+https://github.com/dynatrace/bosh-oneagent-release # BOSH release for Dynatrace OneAgent
+https://github.com/dynatrace/dt-app-templates # Dynatrace App Bundle Templates
+https://github.com/dynatrace/dynatrace-oneagent-chef # This chef recipe downloads and installs the Dynatrace OneAgent on Linux or Windows systems.
+https://github.com/dynatrace/dynatrace-eventdrivenansible #
+https://github.com/dynatrace/native-android-sample-application # Sample Mobile Application with Guide to Instrument with Dynatrace
+https://github.com/dynatrace/k8s-problem-patterns #
+https://github.com/dynatrace/db-connection-check # Quick & dirty tool to verify database connectivity
+https://github.com/dynatrace/xk6-output-dynatrace # repo for the k6 extension
+https://github.com/dynatrace/oneagent-sdk-ruby-sample-binding # This repository provides a partial Ruby binding for the Dynatrace OneAgent SDK for C using FFI.
+https://github.com/dynatrace/dynatrace-configuration-as-code-core #
+https://github.com/dynatrace/dtpockettopology # Demo iOS app, consumes Dynatrace REST API topology endpoint
+https://github.com/dynatrace/oneagent-sdk-for-go #
+https://github.com/dynatrace/dynatrace-loadrunner-request-tagging # Command line tool which tags HTTP requests with relevant HTTP headers for Dynatrace
+https://github.com/dynatrace/native-swift-ios-sample-application #
+https://github.com/dynatrace/homebrew-tools #
+https://github.com/dynatrace/dynatrace-service-broker # The Dynatrace SaaS/Managed service broker for the Cloud Foundry platform
+https://github.com/dynatrace/serverless-hotday-2019 # This repository contains labs for the Serverless Hands-On Training at Perform 2019
+https://github.com/dynatrace/perform-2022-hotday #
+https://github.com/dynatrace/insightify #
+https://github.com/dynatrace/obslab-release-validation # Use Grafana k6, Dynatrace business events, workflows and site reliability guardian to validate software releases
+https://github.com/dynatrace/libbuildpack-dynatrace # Common resources used for Dynatrace integration in Cloudfoundry Buildpacks.
+https://github.com/dynatrace/oneagent-sdk-aspectj # AspectJ SDK based on OneAgent SDK for Java
+https://github.com/dynatrace/oneagent-sdk-for-php #
+https://github.com/dynatrace/dem-license #
+https://github.com/dynatrace/nodejs-agent-api # Node.js bindings for Dynatrace OneAgent
+https://github.com/dynatrace/deployment-api-mock #
+https://github.com/dynatrace/obslab-log-problem-detection # Detect Problems in Logs with Dynatrace
+https://github.com/dynatrace/anomaly-simulation-service # Simulates various application anomalies like slowdowns, failures, increased resource consumption or crashes
+https://github.com/dynatrace/dynatrace-tutorial #
+https://github.com/dynatrace/obslab-jmeter # Integration Apache JMeter and Dynatrace
+https://github.com/dynatrace/obslab-predictive-kubernetes-scaling # Observability Lab: Predictive Auto-Scaling for Kubernetes Workloads
+https://github.com/dynatrace/obslab-k6 # Stream Grafana metrics into Dynatrace from k6. Hands on demo.
+https://github.com/dynatrace/obslab-syslog # Ingest syslog data into Dynatrace using the OpenTelemetry collector
+https://github.com/dynatrace/dynatrace-log-enrichment #
+https://github.com/dynatrace/jfrog-pipelines-demo #
+https://github.com/dynatrace/mesos-plugin # Mesos Plugin for Dynatrace

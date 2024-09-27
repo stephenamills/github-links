@@ -1,0 +1,70 @@
+https://github.com/elastic/apm # Elastic Application Performance Monitoring - resources and general issue tracking for Elastic APM.
+https://github.com/elastic/apm-server #
+https://github.com/elastic/apm-agent-java #
+https://github.com/elastic/apm-agent-nodejs #
+https://github.com/elastic/apm-agent-dotnet #
+https://github.com/elastic/apm-agent-python #
+https://github.com/elastic/apm-agent-go #
+https://github.com/elastic/apm-agent-ruby #
+https://github.com/elastic/apm-agent-rum-js #
+https://github.com/elastic/apm-agent-php #
+
+https://github.com/elastic/apm-contrib # Contrib repository for Elastic APM
+https://github.com/elastic/apm-data # apm-data holds definitions and code for manipul ating Elastic APM data
+https://github.com/elastic/apm-aws-lambda # A repository for the AWS Lambda extension and other lambda related tools and build scripts.
+https://github.com/elastic/apm-agent-ios #
+https://github.com/elastic/hey-apm # Basic load generation for apm-server built on he y
+https://github.com/elastic/apm-k8s-attacher # Elastic APM Attacher for Kubernetes
+https://github.com/elastic/apm-agent-android # Elastic APM Android Agent
+https://github.com/elastic/apm-queue # Abstraction layer over Kafka / GCP PubSub Lite to produce and consume records
+https://github.com/elastic/apm-perf #
+https://github.com/elastic/apm-aggregation # APM metrics aggregation library
+https://github.com/elastic/apm-tools # Tools for developing and testing with Elastic APM
+https://github.com/elastic/apm-agent-python-benchmarks # Benchmarks for the Python AP M Agent
+
+https://github.com/elastic/apm-pipeline-library #
+https://github.com/elastic/cloud-on-k8s # Elastic Cloud on Kubernetes
+https://github.com/elastic/opbeans-node #
+https://github.com/elastic/ecs-dotnet #
+https://github.com/elastic/ecs-logging-python #
+https://github.com/elastic/observability-docs # Elastic Observability Documentation
+https://github.com/elastic/homebrew-tap # Homebrew tap for the Elastic Stack
+https://github.com/elastic/package-registry # Elastic Package Registry (EPR)
+https://github.com/elastic/apm-data # apm-data holds definitions and code for manipulating Elastic APM data
+https://github.com/elastic/hey-apm # Basic load generation for apm-server built on hey
+https://github.com/elastic/opbeans-java #
+https://github.com/elastic/elasticsearch # Free and Open Source, Distributed, RESTful Search Engine
+https://github.com/elastic/opbeans-frontend #
+https://github.com/elastic/ecs-logging # ECS Logging - Common resources and issues for the language specific ECS loggers
+https://github.com/elastic/ecs-logging-php #
+https://github.com/elastic/go-docappender # go-docappender provides a Go API for append-only Elasticsearch document indexing
+https://github.com/elastic/observability-examples # This repository contains examples for Elastic Observability
+https://github.com/elastic/beats-tester # E2E tests for the Beats
+https://github.com/elastic/kibana-load-testing # Http load testing project for Kibana
+https://github.com/elastic/opbeans-loadgen # Load generator for Opbeans demo apps
+https://github.com/elastic/apm-agent-java-plugin-example #
+https://github.com/elastic/opbeans-dotnet #
+https://github.com/elastic/elastic-ingest-dotnet # Data Ingestion Libraries for the Elastic Stack & Products
+https://github.com/elastic/opbeans-php # PHP backend implementation for Opbeans, Elastic APM demo app
+https://github.com/elastic/apm-agent-python-benchmarks # Benchmarks for the Python APM Agent
+https://github.com/elastic/elastic-otel-java #
+https://github.com/elastic/sample-app-android-apm # Sample app to show the Elastic APM implementation on Android apps
+https://github.com/elastic/opbeans-flask # A flask implementation of the Opbeans test app for Elastic APM
+https://github.com/elastic/aws-lambda-apm-sample-app # Sample Node.js app for AWS Lambda demonstrating the usage of Elastic APM
+https://github.com/elastic/elastic-package # elastic-package - Command line tool for developing Elastic Integrations
+https://github.com/elastic/node-traceparent # Context management helper for the w3c traceparent header format
+https://github.com/elastic/apm-parser #
+https://github.com/elastic/terraform-provider-ec #
+https://github.com/elastic/eck-diagnostics # Diagnostic tooling for ECK installations
+https://github.com/elastic/apm-agent-dotnet-profiler-example # An example of profiler auto instrumentation with the APM .NET agent
+https://github.com/elastic/opbeans-swift # Opbeans customer & admin demo application
+https://github.com/elastic/scalability-simulation-generator # Generates server benchmarking simulations based on APM parser output
+https://github.com/elastic/simple-data-generator #
+https://github.com/elastic/docs #
+https://github.com/elastic/oblt-playwright #
+https://github.com/elastic/elastic-otel-node-example #
+https://github.com/elastic/securitylabs-thrunting-tools # A collection of  utilities to help with analysis on the command line.
+https://github.com/elastic/synthbeans-python # An application for generating synthetic APM data which confirms to defined parameters.
+https://github.com/elastic/opbeans-android-loadgen #
+https://github.com/elastic/apm-agent-versions # GCP function to fetch apm agent versions
+https://github.com/elastic/opbeans-android #
