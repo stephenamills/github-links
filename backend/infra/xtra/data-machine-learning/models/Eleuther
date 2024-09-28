@@ -1,0 +1,102 @@
+https://github.com/eleutherai/gpt-neox # An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
+https://github.com/eleutherai/lm-evaluation-harness # A framework for few-shot evaluation of language models.
+https://github.com/eleutherai/pythia # The hub for EleutherAI's work on interpretability and learning dynamics
+https://github.com/eleutherai/the-pile #
+https://github.com/eleutherai/math-lm #
+https://github.com/eleutherai/cookbook # Deep learning for dummies. All the practical details and useful utilities that go into working with real models.
+https://github.com/eleutherai/polyglot # Polyglot: Large Language Models of Well-balanced Competence in Multi-languages
+https://github.com/eleutherai/dalle-mtf # Open-AI's DALL-E for large scale training in mesh-tensorflow.
+https://github.com/eleutherai/vqgan-clip #
+https://github.com/eleutherai/sae # Sparse autoencoders
+https://github.com/eleutherai/concept-erasure # Erasing concepts from neural representations with provable guarantees
+https://github.com/eleutherai/elk # Keeping language models honest by directly eliciting knowledge encoded in their activations.
+https://github.com/eleutherai/oslo # OSLO: Open Source for Large-scale Optimization
+https://github.com/eleutherai/lm_perplexity #
+https://github.com/eleutherai/knowledge-neurons # A library for finding knowledge neurons in pretrained transformer models.
+https://github.com/eleutherai/pyfra # Python Research Framework
+https://github.com/eleutherai/dps # Data processing system for polyglot
+https://github.com/eleutherai/openwebtext2 #
+https://github.com/eleutherai/improved-t5 # Experiments for efforts to train a new and improved t5
+https://github.com/eleutherai/stackexchange-dataset # Python tools for processing the stackexchange data dumps into a text dataset for Language Models
+https://github.com/eleutherai/project-menu # See the issue board for the current status of active and prospective projects!
+https://github.com/eleutherai/sae-auto-interp #
+https://github.com/eleutherai/magicarp # One stop shop for all things carp
+https://github.com/eleutherai/semantic-memorization #
+https://github.com/eleutherai/tqdm-multiprocess # Using queues, tqdm-multiprocess supports multiple worker processes, each with multiple tqdm progress bars, displaying them cleanly through the main process.
+https://github.com/eleutherai/aria #
+https://github.com/eleutherai/hae-rae #
+https://github.com/eleutherai/rnngineering # Engineering the state of RNN language models (Mamba, RWKV, etc.)
+https://github.com/eleutherai/features-across-time # Understanding how features learned by neural networks evolve throughout training
+https://github.com/eleutherai/mp_nerf # Massively-Parallel Natural Extension of Reference Frame
+https://github.com/eleutherai/elk-generalization # Investigating the generalization behavior of LM probes trained to predict truth labels: (1) from one annotator to another, and (2) from easy questions to hard
+https://github.com/eleutherai/pile-pubmedcentral # A script for collecting the PubMed Central dataset in a language modelling friendly format.
+https://github.com/eleutherai/aria-amt # Efficient and robust implementation of seq-to-seq automatic piano transcription.
+https://github.com/eleutherai/polyglot-data # data related codebase for polyglot project
+https://github.com/eleutherai/best-download # URL downloader supporting checkpointing and continuous checksumming.
+https://github.com/eleutherai/text-generation-testing-ui # Web app for demoing the EAI models
+https://github.com/eleutherai/exploring-contrastive-topology #
+https://github.com/eleutherai/mdl # Minimum Description Length probing for neural network representations
+https://github.com/eleutherai/w2s #
+https://github.com/eleutherai/tokengrams # Efficiently computing & storing token n-grams from large corpora
+https://github.com/eleutherai/pile_dedupe # Pile Deduplication Code
+https://github.com/eleutherai/pilev2 #
+https://github.com/eleutherai/equivariance # A framework for implementing equivariant DL
+https://github.com/eleutherai/radioactive-lab # Adapting the "Radioactive Data" paper to work for text models
+https://github.com/eleutherai/tagged-pile # Part-of-Speech Tagging for the Pile and RedPajama
+https://github.com/eleutherai/pile-literotica # Download, parse, and filter data from Literotica. Data-ready for The-Pile.
+https://github.com/eleutherai/hn-scraper #
+https://github.com/eleutherai/multimodal-fid #
+https://github.com/eleutherai/pile-uspto # A script for collecting the USPTO Backgrounds dataset in a language modelling friendly format.
+https://github.com/eleutherai/pile-cc-filtering # The code used to filter CC data for The Pile
+https://github.com/eleutherai/codecarp # Data collection pipeline for CodeCARP. Includes PyCharm plugins.
+https://github.com/eleutherai/minetest-baselines # Baseline agents for Minetest tasks.
+https://github.com/eleutherai/pile-enron-emails # A script for collecting the Enron Emails dataset in a language modelling friendly format.
+https://github.com/eleutherai/llemma-sample-explorer # Sample explorer tool for the Llemma models.
+https://github.com/eleutherai/eleutherai.github.io # This is the Hugo generated website for eleuther.ai. The source of this build is new-website repo.
+https://github.com/eleutherai/minetest-interpretabilty-notebook # Jupyter notebook for the interpretablity section of the minetester blog post
+https://github.com/eleutherai/llm-markov-chains # Project github for LLM Markov Chains Project
+https://github.com/eleutherai/visual-grounding # Visually ground GPT-Neo 1.3b and 2.7b
+https://github.com/eleutherai/thonkenizers # yes
+https://github.com/eleutherai/architecture-experiments # Repository to host architecture experiments and development using Paxml and Praxis
+https://github.com/eleutherai/pile-explorer # For exploring the data and documenting its limitations
+https://github.com/eleutherai/ccs #
+https://github.com/eleutherai/unpaired-image-generation # Project Repo for Unpaired Image Generation project
+https://github.com/eleutherai/lm-scope #
+https://github.com/eleutherai/website # New website for EleutherAI based on Hugo static site generator
+https://github.com/eleutherai/latent-video-diffusion # Latent video diffusion
+https://github.com/eleutherai/equinox-llama # Equinox implementation of llama3 and llama3.1
+https://github.com/eleutherai/pile-allpoetry # Scraper to gather poems from allpoetry.com
+https://github.com/eleutherai/pile-ubuntu-irc # A script for collecting the Ubuntu IRC dataset in a language modelling friendly format.
+https://github.com/eleutherai/evilmodel # A replication of "EvilModel 2.0: Bringing Neural Network Models into Malware Attacks"
+https://github.com/eleutherai/isaac-mchorse # EleutherAI's discord bot
+https://github.com/eleutherai/optax-galore # Adds GaLore style projection wrappers to optax optimizers
+https://github.com/eleutherai/variance-across-time # Studying the variance in neural net predictions across training time
+https://github.com/eleutherai/eai-prompt-gallery # Library of interesting prompt generations
+https://github.com/eleutherai/eleutherai-instruct-dataset # A large instruct dataset for open-source models (WIP).
+https://github.com/eleutherai/bucket-cleaner # A small utility to clear out old model checkpoints in Google Cloud Buckets whilst keeping tensorboard event files
+https://github.com/eleutherai/reddit-comment-processing #
+https://github.com/eleutherai/steering-llama3 #
+https://github.com/eleutherai/groupoid-rl #
+https://github.com/eleutherai/lang-filter # Filter text files or archives by language
+https://github.com/eleutherai/eleuther-blog # here is the generated content for the EleutherAI blog. Source is from new-website repo
+https://github.com/eleutherai/conceptual-constraints # Applying LEACE to models during training
+https://github.com/eleutherai/bayesian-adam # Exactly what it says on the tin
+https://github.com/eleutherai/common-llm-settings # Common LLM Settings App
+https://github.com/eleutherai/prefix-free-tokenizer # A prefix free tokenizer
+https://github.com/eleutherai/pd-books #
+https://github.com/eleutherai/pile-cord19 # A script for collecting the CORD-19 dataset in a language modelling friendly format.
+https://github.com/eleutherai/grouch #
+https://github.com/eleutherai/alignment-reader # Search and filter through alignment literature
+https://github.com/eleutherai/ngrams-across-time #
+https://github.com/eleutherai/language-adaptation #
+https://github.com/eleutherai/visual-grounding-jax # Experiments pertaining to visually grounding Neo, built off of mesh-transformer-jax
+https://github.com/eleutherai/openinstructdata #
+https://github.com/eleutherai/aria.cpp # GGML implementation of https://github.com/EleutherAI/aria
+https://github.com/eleutherai/omnitrack # Unified Experiment Tracking.
+https://github.com/eleutherai/depoison # Fixes poisoned directories in google cloud buckets
+https://github.com/eleutherai/llm-score-behavior #
+https://github.com/eleutherai/pile-arxiv #
+https://github.com/eleutherai/lm-evaulation-ui # App for generating html table from LM evaluation JSONs
+https://github.com/eleutherai/sgdensity # Computing the implicit probability densities that SGD assigns to networks
+https://github.com/eleutherai/classifier-latent-diffusion #
+https://github.com/eleutherai/poll_website_demo # Flask Based Polling Website Demo

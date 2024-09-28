@@ -1,0 +1,61 @@
+https://github.com/google-deepmind/sonnet # TensorFlow-based neural network library
+https://github.com/google-deepmind/graph_nets # Build Graph Nets in Tensorflow
+https://github.com/google-deepmind/trfl # TensorFlow Reinforcement Learning
+https://github.com/google-deepmind/learning-to-learn # Learning to Learn in TensorFlow
+https://github.com/google-deepmind/dnc # A TensorFlow implementation of the Differentiable Neural Computer.
+https://github.com/google-deepmind/reverb # Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research
+https://github.com/google-deepmind/neural-processes # Notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
+https://github.com/google-deepmind/launchpad #
+https://github.com/google-deepmind/grid-cells # Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents
+https://github.com/google-deepmind/multidim-image-augmentation # This package provides TensorFlow Ops for multidimensional volumetric image augmentation.
+https://github.com/google-deepmind/open_x_embodiment #
+https://github.com/google-deepmind/tensor_annotations # Annotating tensor shapes using Python types
+https://github.com/google-deepmind/leo # Implementation of Meta-Learning with Latent Embedding Optimization
+https://github.com/google-deepmind/scalable_agent # A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
+https://github.com/google-deepmind/interval-bound-propagation # This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
+https://github.com/google-deepmind/kinetics-i3d # Convolutional neural network model for video classification trained on the Kinetics dataset.
+https://github.com/google-deepmind/tf2jax #
+https://github.com/google-deepmind/spiral # We provide a pre-trained model for unconditional 19-step generation of CelebA-HQ images
+https://github.com/google-deepmind/acme # A library of reinforcement learning components and agents
+https://github.com/google-deepmind/xmanager # A platform for managing machine learning experiments
+https://github.com/google-deepmind/jaxline #
+https://github.com/google-deepmind/dm-haiku # JAX-based neural network library
+https://github.com/google-deepmind/functa #
+https://github.com/google-deepmind/einshape #
+https://github.com/google-deepmind/distrax #
+https://github.com/google-deepmind/deep-verify #
+https://github.com/google-deepmind/uncertain_ground_truth # Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation.
+https://github.com/google-deepmind/clrs #
+https://github.com/google-deepmind/multi_object_datasets # Multi-object image datasets with ground-truth segmentation masks and generative factors.
+https://github.com/google-deepmind/gqn-datasets # Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
+https://github.com/google-deepmind/detcon #
+https://github.com/google-deepmind/jax_privacy # Algorithms for Privacy-Preserving Machine Learning in JAX
+https://github.com/google-deepmind/lamb # LAnguage Modelling Benchmarks
+https://github.com/google-deepmind/temporal-3d-pose-kinetics # Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
+https://github.com/google-deepmind/jraph # A Graph Neural Network Library in Jax
+https://github.com/google-deepmind/xtr # XTR: Rethinking the Role of Token Retrieval in Multi-Vector Retrieval
+https://github.com/google-deepmind/multimodal_transformers #
+https://github.com/google-deepmind/streetlearn # A C++/Python implementation of the StreetLearn environment based on images from Street View
+https://github.com/google-deepmind/dks # Multi-framework implementation of Deep Kernel Shaping and Tailored Activation Transformations, which are methods that modify neural network models (and their initializations) to make them easier to train.
+https://github.com/google-deepmind/dm_nevis # NEVIS'22: Benchmarking the next generation of never-ending learners
+https://github.com/google-deepmind/ferminet # An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+https://github.com/google-deepmind/alphageometry #
+https://github.com/google-deepmind/local_linearity_regularizer #
+https://github.com/google-deepmind/image_obfuscation_benchmark #
+https://github.com/google-deepmind/pix2act #
+https://github.com/google-deepmind/alphafold # Open source code for AlphaFold.
+https://github.com/google-deepmind/exedec #
+https://github.com/google-deepmind/relicv2 #
+https://github.com/google-deepmind/discretisation_drift #
+
+https://github.com/nvidia/tensorflow # An Open Source Machine Learning Framework for Everyone
+https://github.com/nvidia/atex # A TensorFlow Extension: GPU performance tools for TensorFlow.
+https://github.com/nvidia/deeplearningexamples # State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy
+https://github.com/nvidia/tao_tensorflow1_backend # TAO Toolkit deep learning networks with TensorFlow 1.x backend
+https://github.com/nvidia/tao_tensorflow2_backend # TAO Toolkit deep learning networks with TensorFlow 2.x backend
+https://github.com/nvidia/framework-reproducibility # Providing reproducibility in deep learning frameworks
+https://github.com/nvidia/go-tfdata # Go library for training existing TensorFlow models on .tar and .tgz datasets
+https://github.com/nvidia/transformerengine # A library for accelerating training and inference using 8-bit floating point (FP8) precision on Hopper and Ada GPUs
+https://github.com/nvidia/jax-toolbox # JAX-Toolbox
+https://github.com/nvidia/dali # A GPU-accelerated library for deep learning training and inference applications.
+https://github.com/nvidia/warp # A Python framework for high performance GPU simulation and graphics

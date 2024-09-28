@@ -1,0 +1,25 @@
+https://github.com/microsoft/phi-3cookbook # This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft.
+
+https://github.com/microsoft/onnxruntime-genai # Generative AI extensions for onnxruntime
+https://github.com/microsoft/vscode-ai-toolkit #
+https://github.com/microsoft/transformercompression # For releasing code related to compression methods for transformers, accompanying our publications
+https://github.com/microsoft/protein-sequence-models #
+https://github.com/microsoft/rag-pdf-analyzer-wpf-sample #
+https://github.com/microsoft/promptbench # A unified evaluation framework for large language models
+https://github.com/microsoft/deepspeed-mii # MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+https://github.com/microsoft/longrope # LongRoPE is a novel method that can extends the context window of pre-trained LLMs to an impressive 2048k tokens.
+https://github.com/microsoft/phi3-chat-winui3-sample #
+https://github.com/microsoft/ai-powered-notes-winui3-sample #
+https://github.com/microsoft/genaiscript # Automatable GenAI Scripting
+https://github.com/microsoft/grin-moe # GRadient-INformed MoE
+https://github.com/microsoft/aitour-exploring-cutting-edge-models #
+https://github.com/microsoft/mttl # Building modular LMs with parameter-efficient fine-tuning.
+https://github.com/microsoft/rag_hack # Hack Together: RAG Hack | Register, Learn, Hack
+https://github.com/microsoft/dstoolkit-phi2-finetune # Step by step instructions on how to finetune Microsoft's Phi-2 model with your own data.
+https://github.com/microsoft/naturallanguagetosql # Natural Language (NL) to SQL Query Generation using Phi-3 (Serverless & Local setup) and Azure OpenAI (GPT-4 model)
+https://github.com/microsoft/winwithappplatpoc # Repo of the Win with App Platform technical skilling workshop
+https://github.com/microsoft/aadb2c-starter-kit #
+https://github.com/microsoft/supersolver #
+https://github.com/microsoft/nnscaler #
+https://github.com/microsoft/tasktracker # Detect task drift in large language models (LLMs) by analysing their internal activations.
+https://github.com/microsoft/fast-pass #

@@ -33,8 +33,6 @@ https://github.com/pipedreamhq/component-dev-env # A Gitpod environment for buil
 https://github.com/pipedreamhq/file-stores-email-templates # An example of leveraging HTML email templates with Pipedream workflows
 
 --
-Sharepoint
-
 Kubernetes
 https://github.com/cncf/llm-starter-pack # Run a language model in Kubernetes (in Docker)
 https://github.com/cncf/llm-in-action # Run a language model in Kubernetes (Ollama service)

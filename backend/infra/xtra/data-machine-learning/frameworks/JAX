@@ -1,0 +1,103 @@
+https://github.com/googlecloudplatform/ai-on-gke # AI on GKE is a collection of examples, best-practices, and prebuilt solutions to help build, deploy, and scale AI Platforms on Google Kubernetes Engine
+https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstrating how to operationalize Google Research T5X framework on Google Cloud Vertex AI.
+
+https://github.com/google/jax # Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+https://github.com/google/flax # Flax is a neural network library for JAX that is designed for flexibility.
+https://github.com/google/jax-cfd # Computational Fluid Dynamics in JAX
+https://github.com/google/jaxopt # Hardware accelerated, batchable and differentiable optimizers in JAX.
+https://github.com/google/maxtext # A simple, performant and scalable Jax LLM!
+https://github.com/google/brax # Massively parallel rigidbody physics simulation on accelerator hardware.
+https://github.com/google/fedjax # FedJAX is a JAX-based open source library for Federated Learning simulations that emphasizes ease-of-use in research.
+https://github.com/google/trax # Trax — Deep Learning with Clear Code and Speed
+https://github.com/google/jaxonnxruntime # A user-friendly tool chain that enables the seamless execution of ONNX models using JAX as the backend.
+https://github.com/google/commonlooputils # CLU lets you write beautiful training loops in JAX.
+https://github.com/google/orbax # Orbax provides common checkpointing and persistence utilities for JAX users
+https://github.com/google/autobound # AutoBound automatically computes upper and lower bounds on functions.
+https://github.com/google/tree-math # Mathematical operations for JAX pytrees
+https://github.com/google/rax # Rax is a Learning-to-Rank library written in JAX.
+https://github.com/google/codex # Data compression in JAX
+https://github.com/google/jaxite #
+https://github.com/google/paxml # Jax-based machine learning framework for training large scale models. Pax allows for fully configurable parallelization, and has demonstrated industry leading model flop utilization rates.
+https://github.com/google/etils # Collection of eclectic utils for python.
+https://github.com/google/neural-tangents # Fast and Easy Infinite Neural Networks in Python
+https://github.com/google/jaxcam #
+https://github.com/google/jetstream # JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
+
+https://github.com/google-deepmind/dm-haiku # JAX-based neural network library
+https://github.com/google-deepmind/optax # Optax is a gradient processing and optimization library for JAX.
+https://github.com/google-deepmind/graphcast #
+https://github.com/google-deepmind/mctx # Monte Carlo tree search in JAX
+https://github.com/google-deepmind/acme # A library of reinforcement learning components and agents
+https://github.com/google-deepmind/gemma # Open weights LLM from Google DeepMind.
+https://github.com/google-deepmind/jraph # A Graph Neural Network Library in Jax
+https://github.com/google-deepmind/penzai # A JAX research toolkit for building, editing, and visualizing neural networks.
+https://github.com/google-deepmind/chex #
+https://github.com/google-deepmind/rlax #
+https://github.com/google-deepmind/dm_pix # PIX is an image processing library in JAX, for JAX.
+https://github.com/google-deepmind/tapnet # Tracking Any Point (TAP)
+https://github.com/google-deepmind/ferminet # An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+https://github.com/google-deepmind/recurrentgemma # Open weights language model from Google DeepMind, based on Griffin.
+https://github.com/google-deepmind/kfac-jax # Second Order Optimization and Curvature Estimation with K-FAC in JAX.
+https://github.com/google-deepmind/distrax #
+https://github.com/google-deepmind/jax_verify # Neural network verification in JAX
+https://github.com/google-deepmind/torax # TORAX: Tokamak transport simulation in JAX
+https://github.com/google-deepmind/synjax #
+https://github.com/google-deepmind/jaxline #
+https://github.com/google-deepmind/open_x_embodiment #
+https://github.com/google-deepmind/alphamissense #
+https://github.com/google-deepmind/educational #
+https://github.com/google-deepmind/jax_privacy # Algorithms for Privacy-Preserving Machine Learning in JAX
+https://github.com/google-deepmind/tf2jax #
+https://github.com/google-deepmind/tensor_annotations # Annotating tensor shapes using Python types
+https://github.com/google-deepmind/jmp # JMP is a Mixed Precision library for JAX.
+https://github.com/google-deepmind/neural_networks_chomsky_hierarchy # Neural Networks and the Chomsky Hierarchy
+https://github.com/google-deepmind/pgmax # Loopy belief propagation for factor graphs on discrete variables in JAX
+https://github.com/google-deepmind/magiclens # "MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions"
+https://github.com/google-deepmind/dm_aux #
+https://github.com/google-deepmind/dqn_zoo # DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent.
+https://github.com/google-deepmind/language_modeling_is_compression #
+https://github.com/google-deepmind/nanodo #
+https://github.com/google-deepmind/einshape #
+https://github.com/google-deepmind/mujoco # Multi-Joint dynamics with Contact. A general purpose physics simulator.
+https://github.com/google-deepmind/graph_nets # Build Graph Nets in Tensorflow
+https://github.com/google-deepmind/clrs #
+https://github.com/google-deepmind/neural_networks_solomonoff_induction # Learning Universal Predictors
+https://github.com/google-deepmind/dm_nevis # NEVIS'22: Benchmarking the next generation of never-ending learners
+https://github.com/google-deepmind/searchless_chess # Grandmaster-Level Chess Without Search
+https://github.com/google-deepmind/materials_discovery #
+https://github.com/google-deepmind/alphageometry #
+https://github.com/google-deepmind/dks # Modify neural network models (and their initializations) to make them easier to train.
+https://github.com/google-deepmind/enn #
+https://github.com/google-deepmind/treescope # An interactive HTML pretty-printer for machine learning research in IPython notebooks.
+https://github.com/google-deepmind/mishax #
+https://github.com/google-deepmind/uncertain_ground_truth # Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation.
+https://github.com/google-deepmind/randomized_positional_encodings # Randomized Positional Encodings Boost Length Generalization of Transformers
+https://github.com/google-deepmind/functa #
+https://github.com/google-deepmind/distribution_shift_framework # This repository contains the code of the distribution shift framework presented in A Fine-Grained Analysis on Distribution Shift (Wiles et al., 2022).
+https://github.com/google-deepmind/conformal_training # This repository contains a Jax implementation of conformal training corresponding to the ICLR'22 paper "learning optimal conformal classifiers".
+https://github.com/google-deepmind/tracr #
+https://github.com/google-deepmind/max_product_noisy_or #
+https://github.com/google-deepmind/emergent_communication_at_scale #
+https://github.com/google-deepmind/nonstationary_mbml # Memory-Based Meta-Learning on Non-Stationary Distributions
+https://github.com/google-deepmind/threednel #
+https://github.com/google-deepmind/discretisation_drift #
+https://github.com/google-deepmind/csil # Coherent Soft Imitation Learning
+https://github.com/google-deepmind/brave # A JAX implementation of Broaden Your Views for Self-Supervised Video Learning, or BraVe for short.
+https://github.com/google-deepmind/dm_c19_modelling #
+https://github.com/google-deepmind/alphafold # Open source code for AlphaFold.
+https://github.com/google-deepmind/inverse_design #
+https://github.com/google-deepmind/exedec #
+https://github.com/google-deepmind/eddict #
+https://github.com/google-deepmind/transformer_grammars # Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scale, TACL (2022)
+https://github.com/google-deepmind/dm_hamiltonian_dynamics_suite #
+https://github.com/google-deepmind/hierarchical_perceiver #
+https://github.com/google-deepmind/pix2act #
+https://github.com/google-deepmind/visual-memory # Code & data for "Towards flexible perception with visual memory"
+https://github.com/google-deepmind/gnn_single_rigids #
+https://github.com/google-deepmind/linac #
+https://github.com/google-deepmind/mammut #
+
+https://github.com/nvidia/transformerengine # A library for accelerating training and inference using 8-bit floating point (FP8) precision on Hopper and Ada GPUs
+https://github.com/nvidia/jax-toolbox # JAX-Toolbox
+https://github.com/nvidia/dali # A GPU-accelerated library for deep learning training and inference applications.
+https://github.com/nvidia/warp # A Python framework for high performance GPU simulation and graphics

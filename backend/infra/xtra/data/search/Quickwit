@@ -1,5 +1,6 @@
-https://github.com/quickwit-oss/tantivy # Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 https://github.com/quickwit-oss/quickwit # Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+
+https://github.com/quickwit-oss/tantivy # Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 https://github.com/quickwit-oss/whichlang # A blazingly fast and lightweight language detection library for Rust
 https://github.com/quickwit-oss/tantivy-cli #
 https://github.com/quickwit-oss/tantivy-py # Python bindings for Tantivy
@@ -19,8 +20,8 @@ https://github.com/quickwit-oss/murmurhash32 #
 https://github.com/quickwit-oss/quickwit-go #
 https://github.com/quickwit-oss/filter-vec #
 https://github.com/quickwit-oss/topk-bench #
-https://github.com/quickwit-oss/.github #
 https://github.com/quickwit-oss/streamctl #
 https://github.com/quickwit-oss/ip-repr #
 https://github.com/quickwit-oss/falcosidekick-tests #
 https://github.com/quickwit-oss/odigos-quickwit-demo #
+https://github.com/quickwit-oss/.github #

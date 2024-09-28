@@ -1,16 +1,28 @@
-https://github.com/googlecloudplatform/dataflux-pytorch # The Dataflux Accelerated Dataloader for PyTorch with GCS is an effort to improve ML-training efficiency when using data stored in GCS for training datasets. using the dataflux accelerated dataloader for training is up to 3x faster when the dataset consists of many small files (e.g., 100 - 500 kb).
+https://github.com/googlecloudplatform/dataflux-pytorch # Increase ML-training speed by up to 3x when using data stored in GCS for training datasets by using the dataflux accelerated dataloader
 https://github.com/googlecloudplatform/ml-testing-accelerators # Testing framework for Deep Learning models (Tensorflow and PyTorch) on Google Cloud hardware accelerators (TPU and GPU)
 https://github.com/googlecloudplatform/dataflux-client-python # This is the git repository for the Dataflux Python client library, providing fast listing and download of small files from GCS in Python.
 https://github.com/google/gemma_pytorch # The official PyTorch implementation of Google's Gemma models
 https://github.com/google/jetstream-pytorch # PyTorch/XLA integration with JetStream for LLM inference
 https://github.com/google/jetstream # JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
 
+https://github.com/google-deepmind/tapnet # Tracking Any Point (TAP)
+https://github.com/google-deepmind/recurrentgemma # Open weights language model from Google DeepMind, based on Griffin.
+https://github.com/google-deepmind/graph_nets # Build Graph Nets in Tensorflow
+https://github.com/google-deepmind/dks # Modify neural network models (and their initializations) to make them easier to train.
+https://github.com/google-deepmind/treescope # An interactive HTML pretty-printer for machine learning research in IPython notebooks.
+https://github.com/google-deepmind/dm_nevis # NEVIS'22: Benchmarking the next generation of never-ending learners
+https://github.com/google-deepmind/jraph # A Graph Neural Network Library in Jax
+https://github.com/google-deepmind/geomatch #
+https://github.com/google-deepmind/asyncdiloco #
+https://github.com/google-deepmind/threednel #
+https://github.com/google-deepmind/c3_neural_compression #
+
 https://github.com/azure-samples/functions-python-pytorch-tutorial # Use Python, PyTorch, and Azure Functions to classify an image
-https://github.com/azure-samples/azure-functions-pytorch-image-identify # Repo containing an end to end example of an image identification app running on Azure Functions and showing capabilities like Remote Build and Azure Files support
+https://github.com/azure-samples/azure-functions-pytorch-image-identify # End to end example of an image identification app running on Azure Functions and showing capabilities like Remote Build and Azure Files support
 https://github.com/azure-samples/functions-deploy-pytorch-onnx # Sample demonstrating deployment of Pytorch models through ONNX within Azure Functions
 
 https://github.com/azure/ms-amp # Microsoft Automatic Mixed Precision Library
-https://github.com/azure/optimized-pytorch-on-databricks-and-fabric # Sample code for running optimized training of Hugging Face models with PyTorch FSDP on Azure Databricks and optimized inference with BetterTransformer on MIcrosoft Fabric
+https://github.com/azure/optimized-pytorch-on-databricks-and-fabric # Train Hugging Face models with PyTorch FSDP on Azure Databricks and optimized inference with BetterTransformer on Microsoft Fabric
 https://github.com/azure/nlp-samples # Japanese NLP sample codes
 https://github.com/azure/machine-learning-at-scale # machine learning at scale on Azure Machine Learning
 https://github.com/azure/azure-storage-for-pytorch # Azure Storage integrations for PyTorch. This project is a work-in-progress.
@@ -18,7 +30,7 @@ https://github.com/azure/azure-storage-for-pytorch # Azure Storage integrations 
 https://github.com/microsoft/bringing-old-photos-back-to-life # Bringing Old Photo Back to Life (CVPR 2020 oral)
 https://github.com/microsoft/lora # Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 
-https://github.com/aws-solutions-library-samples/guidance-for-machine-learning-inference-on-aws # This Guidance demonstrates how to deploy a machine learning inference architecture on Amazon Elastic Kubernetes Service (Amazon EKS). It addresses the basic implementation requirements as well as ways you can pack thousands of unique PyTorch deep learning (DL) models into a scalable architecture and evaluate performance at scale
+https://github.com/aws-solutions-library-samples/guidance-for-machine-learning-inference-on-aws # Deploy a machine learning inference architecture on Amazon Elastic Kubernetes Service (Amazon EKS).
 
 https://github.com/aws-samples/amazon-sagemaker-bert-pytorch #
 https://github.com/aws-samples/amazon-sagemaker-pytorch-detectron2 # This repository shows how to train an object detection algorithm with Detectron2 on Amazon SageMaker
@@ -35,12 +47,12 @@ https://github.com/aws-samples/aws-lambda-container-inference-pytorch #
 https://github.com/aws-samples/amazon-sagemaker-endpoint-deployment-of-siamese-network-with-torchserve # Twin Neural Network Training with PyTorch and fast.ai and its Deployment with TorchServe on Amazon SageMaker
 https://github.com/aws-samples/amazon-sagemaker-tsp-deep-rl # train, deploy, and make inferences using deep reinforcement learning to solve the Travelling Salesperson Problem
 https://github.com/aws-samples/deploy-stable-diffusion-model-on-amazon-sagemaker-endpoint # Deploy Stable Diffusion Model on Amazon SageMaker Endpont
-https://github.com/aws-samples/amazon-sagemaker-visual-transformer # Implementation of Image Classification using Visual Transformers in Amazon SageMaker based on the ideas from research paper - Visual Transformers: Token-based Image Representation and Processing for Computer Vision.
+https://github.com/aws-samples/amazon-sagemaker-visual-transformer # Image Classification using Visual Transformers in Amazon SageMaker based on the ideas from a research paper
 https://github.com/aws-samples/amazon-sagemaker-local-mode # Amazon SageMaker Local Mode Examples
-https://github.com/aws-samples/amazon-sagemaker-pipelines-serial-batch-inference-sklearn-pytorch # We provide end to end bring-your-own-feature and bring your-own-model serial inferencing examples for batch inference MLOps with SageMaker Pipelines.
+https://github.com/aws-samples/amazon-sagemaker-pipelines-serial-batch-inference-sklearn-pytorch # Bring-your-own-feature and bring your-own-model serial inferencing examples for batch inference MLOps with SageMaker Pipelines.
 https://github.com/aws-samples/aws-do-kubeflow # A do-framework project to simplify deployment of Kubeflow on AWS
 https://github.com/aws-samples/amazon-sagemaker-managed-spot-training # Amazon SageMaker Managed Spot Training Examples
-https://github.com/aws-samples/sagemaker-cv-preprocessing-training-performance # SageMaker training implementation for computer vision to offload JPEG decoding and augmentations on GPUs using Nvidia Dali — allowing you to compare and reduce training time by addressing CPU bottlenecks caused by increasing data pre-processing load. Performance bottlenecks identified with SageMaker Debugger.
+https://github.com/aws-samples/sagemaker-cv-preprocessing-training-performance # SageMaker training implementation for computer vision to offload JPEG decoding and augmentations on GPUs using Nvidia Dali
 https://github.com/aws-samples/aws-do-pm # A framework for building predictive modeling applications
 https://github.com/aws-samples/awsome-fmops # Collection of best practices, reference architectures, examples, and utilities for foundation model development and deployment on AWS.
 

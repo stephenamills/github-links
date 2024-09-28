@@ -221,6 +221,17 @@ https://github.com/elastic/elevancehealth_examples # vector search and llm integ
 https://github.com/elastic/personalization-clicks # This is a sample repository to show how we can use Enterprise Search out of the box supports for clicks analytics to add personalization on a search exprerience.
 https://github.com/elastic/cluster-migration # Tools and scripts for migrating large clusters using searchable snapshots as the primary data movement mechanism.
 
+https://github.com/searchkit/searchkit # Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
+https://github.com/searchkit/searchkit-demo # React Elasticsearch example using Searchkit
+https://github.com/searchkit/searchkit-starter-app # Searchkit starter app. Based off create-react-app
+https://github.com/searchkit/searchkit-express # Elasticsearch express middleware
+https://github.com/searchkit/searchkit-autocomplete #
+https://github.com/searchkit/searchkit-universal #
+
+https://github.com/appbaseio/dejavu # The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+https://github.com/appbaseio/reactivesearch # Search UI components for React and Vue
+https://github.com/appbaseio/mirage # GUI for simplifying Elasticsearch Query DSL
+
 Everything else
 https://github.com/elastic/eui # Elastic UI Framework 🙌
 https://github.com/elastic/go-elasticsearch # The official Go client for Elasticsearch

@@ -1,8 +1,0 @@
-https://github.com/meta-llama/llama # Inference code for Llama models
-https://github.com/meta-llama/llama3 # The official Meta Llama 3 GitHub site
-https://github.com/meta-llama/codellama # Inference code for CodeLlama models
-https://github.com/meta-llama/llama-recipes # Scripts for fine-tuning Meta Llama3 wit
-h composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger. https://github.com/meta-llama/llama-models # Utilities intended for use with Llama mo
-dels. https://github.com/meta-llama/llama-stack-apps # Agentic components of the Llama Stac
-k APIs https://github.com/meta-llama/purplellama # Set of tools to assess and improve LLM se
-curity. https://github.com/meta-llama/llama-stack # Model components of the Llama Stack APIs

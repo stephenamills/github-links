@@ -65,145 +65,53 @@ https://github.com/zilliztech/jenkins-shared-library # Jenkins shared library fo
 https://github.com/zilliztech/insight-plugin-template #
 https://github.com/zilliztech/homebrew-tap #
 
+Nuclia
+https://github.com/nuclia/nucliadb # NucliaDB, The AI Search database for RAG
+
+https://github.com/nuclia/frontend # Nuclia RAG-as-a-Service, automatically indexes files and documents, from internal and external sources, to fuel diverse company use cases with LLMs.
+https://github.com/nuclia/nuclia-eval # Library for evaluating RAG using Nuclia's models
+https://github.com/nuclia/demos # Some useful demos and code samples
+https://github.com/nuclia/nuclia.py # Nuclia Python SDK
+https://github.com/nuclia/ui-starter # Start building your own Svelte application using Nuclia's search capabilities and UI tools.
+
+Txtai
+https://github.com/neuml/txtai # 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+https://github.com/neuml/paperai # 📄 🤖 Semantic search and workflows for medical/scientific papers
+https://github.com/neuml/codequestion # 🔎 Semantic search for developers
+https://github.com/neuml/tldrstory # 📊 Semantic search for headlines and story text
+https://github.com/neuml/paperetl # 📄 ⚙️ ETL processes for medical and scientific papers
+https://github.com/neuml/txtchat # 💭 Retrieval augmented generation (RAG) and language model powered search applications
+https://github.com/neuml/rag # 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
+https://github.com/neuml/txtinstruct # 📚 Datasets and models for instruction-tuning
+https://github.com/neuml/txtai.js # JavaScript client for txtai
+https://github.com/neuml/txtai.rs # Rust client for txtai
+https://github.com/neuml/txtmarker # Highlight text in documents
+https://github.com/neuml/txtai.go # Go client for txtai
+https://github.com/neuml/txtai.java # Java client for txtai
+https://github.com/neuml/webelapse # Generate time-lapse video for a website
+https://github.com/neuml/py27hash # Python 2.7 hashing and iteration in Python 3+
+https://github.com/neuml/neuspo # 🏈 Fact-driven, real-time sports event and news site
+https://github.com/neuml/txtai.py # Python client for txtai
+https://github.com/neuml/kernelpipes # Run Kaggle kernel pipeline jobs
+https://github.com/neuml/.github # Default community files for all NeuML projects
+
 VectorDB
-https://github.com/jina-ai/jina # ☁️ Build multimodal AI applications with cloud-nativ
-e stack https://github.com/jina-ai/clip-as-service # 🏄 Scalable embedding, reasoning, rankin
-g for images and sentences with CLIP https://github.com/jina-ai/reader # Convert any URL to an LLM-friendly input with a s
-imple prefix https://r.jina.ai/ https://github.com/jina-ai/discoart # 🪩 Create Disco Diffusion artworks in one line
-https://github.com/jina-ai/dalle-flow # 🌊 A Human-in-the-Loop workflow for creating
-HD images from text https://github.com/jina-ai/dev-gpt # Your Virtual Development Team
-https://github.com/jina-ai/thinkgpt # Agent techniques to augment your LLM and push i
-t beyong its limits https://github.com/jina-ai/auto-gpt-web # Set Your Goals, AI Achieves Them.
-https://github.com/jina-ai/agentchain # Chain together LLMs for reasoning & orchestra
-te multiple large models for accomplishing complex tasks https://github.com/jina-ai/vectordb # A Python vector database you just need - no mor
-e, no less. https://github.com/jina-ai/jcloud # Simplify deploying and managing Jina projects on
-Jina Cloud https://github.com/jina-ai/jina-video-chat #
-https://github.com/jina-ai/annlite # ⚡ A fast embedded library for approximate neare
-st neighbor search https://github.com/jina-ai/rungpt # An open-source cloud-native of large multi-modal
-models (LMMs) serving framework. https://github.com/jina-ai/fastapi-serve # FastAPI to the Cloud, Batteries Included!
-☁️🔋🚀 https://github.com/jina-ai/late-chunking # Code for explaining and evaluating late ch
-unking (chunked pooling) https://github.com/jina-ai/gsoc # Google Summer of Code
-https://github.com/jina-ai/goldretriever # Create and host retrieval plugins for Chat
-GPT in one click https://github.com/jina-ai/jinaai-py #
-https://github.com/jina-ai/jerboa # LLM finetuning
-https://github.com/jina-ai/executors # internal-only
-https://github.com/jina-ai/jinaai-js #
-https://github.com/jina-ai/jina-ai.github.io # Homepage of Jina AI Limited
-https://github.com/jina-ai/big_creative_ai # BIG: Back In the Game of Creative AI
-https://github.com/jina-ai/textbook # distill chatGPT coding ability into small model
-(1b) https://github.com/jina-ai/product-recommendation-redis-docarray #
-https://github.com/jina-ai/example-video-search # This is an example of search videos
-using jina https://github.com/jina-ai/example-speech-to-image # An example of building a speech
-to image generation pipeline with Jina, Whisper and StableDiffusion https://github.com/jina-ai/docsqa-ui # Web UI for docsQA. Main branch: https://jina-
-docqa-ui.netlify.app/ https://github.com/jina-ai/workshops #
-https://github.com/jina-ai/jina-hubble-sdk # Python API for authentication, resource
-management with Hubble https://github.com/jina-ai/executor-3d-encoder # An executor that wraps 3D mesh model
-s and encodes 3D content documents to d-dimension vector. https://github.com/jina-ai/client-go # Golang Client for Jina (https://github.com/jin
-a-ai/jina) https://github.com/jina-ai/executor-pdfsegmenter # Jina Executor used for extracting
-images and text as chunks from PDF data https://github.com/jina-ai/benchmark # Benchmark environment and results of different
-versions of Jina. https://github.com/jina-ai/executor-simpleindexer # Simple Indexer
-https://github.com/jina-ai/inference-client #
-https://github.com/jina-ai/terminal-news # Access Jina AI news via ssh guest@news.jin
-a.ai https://github.com/jina-ai/example-odqa #
-https://github.com/jina-ai/example-wikipedia-recommendation # An example of graph emb
-eddings for wikipedia page recommendations https://github.com/jina-ai/api # API schema of Jina command line interface exposed as
-JSON and YAML files. https://github.com/jina-ai/example-video-qa # This is an example of building a video
-QA with jina https://github.com/jina-ai/executor-text-transformers-torch-encoder # **TransformerTo
-rchEncoder** wraps the torch-version of transformers from huggingface. It encodes text data into dense vectors. https://github.com/jina-ai/.github # This repository stores github actions templates
-as described https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization https://github.com/jina-ai/executor-clip-encoder # Encoder that embeds documents usin
-g either the CLIP vision encoder or the CLIP text encoder, depending on the content type of the document. https://github.com/jina-ai/good-first-issues # Issues that don't fit under Jina's oth
-er repos! https://github.com/jina-ai/cloud-ops #
-https://github.com/jina-ai/inference-client-js #
+https://github.com/jina-ai/vectordb # A Python vector database you just need - no more, no less.
+
+https://github.com/jina-ai/product-recommendation-redis-docarray #
+https://github.com/jina-ai/example-video-search # This is an example of search videos using jina
+https://github.com/jina-ai/example-speech-to-image # An example of building a speech to image generation pipeline with Jina, Whisper and StableDiffusion
+https://github.com/jina-ai/workshops #
+https://github.com/jina-ai/example-odqa #
+https://github.com/jina-ai/example-wikipedia-recommendation # An example of graph embeddings for wikipedia page recommendations
+https://github.com/jina-ai/example-video-qa # This is an example of building a video QA with jina
 https://github.com/jina-ai/tutorial-notebooks #
-https://github.com/jina-ai/executor-text-transformers-dprreader-ranker # DPRReaderRan
-ker https://github.com/jina-ai/jina-ui # Monorepo for JinaJS and frontend projects
-https://github.com/jina-ai/executor-cases # Summarize all Executor patterns for Hubbl
-e https://github.com/jina-ai/executor-image-preprocessor # An executor that performs st
-andard pre-processing and normalization on images. https://github.com/jina-ai/executor-video-loader #
-https://github.com/jina-ai/executor-u100kindexer # An Indexer that works out-of-the-b
-ox when you have less than 100K stored Documents https://github.com/jina-ai/devrel-heartmaker # Heart mosaics of your GitHub contribut
-ors https://github.com/jina-ai/executor-normalizer # Jina executor package normalizer
-https://github.com/jina-ai/executor-text-clip-encoder # Encode text into embeddings u
-sing the CLIP model. https://github.com/jina-ai/executor-featurehasher # FeatureHasher
-https://github.com/jina-ai/jina-commons # A collection of shared function for Jina Ex
-ecutor https://github.com/jina-ai/executor-image-torch-encoder # The ImageTorchEncoder encod
-es Document content from a ndarray to an d-dimensional vector. https://github.com/jina-ai/executor-image-paddlepaddle-ocr #
-https://github.com/jina-ai/jina-paddle-hackathon # 极纳 x 百度飞桨 黑客马拉松
-https://github.com/jina-ai/executor-text-transformerqa # **TransformerQAExecutor\* wra
-ps a question-answering model from huggingface and return relevant answers given questions and contexts/paragraphs. https://github.com/jina-ai/executor-image-clothing-segmenter # An executor that perfo
-rms image segmentation on fashion items https://github.com/jina-ai/hub-integration # Integration test for hub
-https://github.com/jina-ai/executor-spellchecker # A Jina Executor for spelling corre
-ction, based on BKTree https://github.com/jina-ai/stress-test # A collection of stress tests of Jina infrast
-ructure https://github.com/jina-ai/press-kit # Visual branding, identity, color palette of Ji
-na AI Limited https://github.com/jina-ai/executor-faissindexer # A similarity search indexer based
-on Faiss. https://hub.jina.ai/executor/8gsd0tts https://github.com/jina-ai/jina-sagemaker # Jina Embedding Models on AWS SageMaker
-https://github.com/jina-ai/executor-pptxloader # A Jina Executor for loading Powerpoi
-nt files https://github.com/jina-ai/terraform-jina-jinad-aws # Module for deploying JinaD on A
-WS https://github.com/jina-ai/executor-matchmerger # **MatchMerger** Merges the results
-of shards by appending all matches. https://github.com/jina-ai/executor-u1mindexer # An indexer leverages hnswlib for vec
-tor search and DocumentArrayMemmap for storing full Documents https://github.com/jina-ai/legacy-examples # Unmaintained examples for Jina
-https://github.com/jina-ai/executor-evaluator-ranking #
-https://github.com/jina-ai/executor-lightgbm-ranker #
-https://github.com/jina-ai/workflows-executors # Storing CI/CD yaml files for Executo
-rs https://github.com/jina-ai/executor-weaviate-indexer #
-https://github.com/jina-ai/executor-text-dpr-encoder # Encode text into embeddings u
-sing the DPR model. https://github.com/jina-ai/executor-simpleranker # **SimpleRanker\*\* is a class aggreg
-ates the score of the matched doc from the matched chunks. https://github.com/jina-ai/docs2 # Jina v2.x Official Documentation. For the latest o
-ne, please check out https://docs.jina.ai https://github.com/jina-ai/docarray_quiz # some quiz for docarray
-https://github.com/jina-ai/jupyter-notebooks #
-https://github.com/jina-ai/executor-dallemini # Generating image from text prompt usi
-ng DALLE-mini model. https://github.com/jina-ai/executor-sentence-transformer # Executor wraps the sentenc
-e_encoder library and computes sentence embeddings. https://github.com/jina-ai/executor-image-niireader #
-https://github.com/jina-ai/executor-faiss-postgres # A production-ready, scalable Ind
-exer for the Jina neural search framework, based on FAISS and PSQL https://github.com/jina-ai/executor-vgg-audio-encoder #
-https://github.com/jina-ai/executor-text-audioclip-text-encoder # AudioCLIPTextEncode
-r - Encodes text using the AudioCLIP model https://github.com/jina-ai/kubernetes_deployment #
-https://github.com/jina-ai/action-hubble-test-docker # Find all the examples with cha
-nged code and run the docker test in that directory https://github.com/jina-ai/executor-onnx-encoder # An executor that loads ONNX models
-and embeds documents using the ONNX runtime. https://github.com/jina-ai/latency-tracking # Containerized benchmark environment for
-Jina https://github.com/jina-ai/faq #
-https://github.com/jina-ai/executor-video-frameextractor # An executor that extract t
-he frames from videos with `ffmpeg` https://github.com/jina-ai/example-molecule-search # Example showcasing the `GraphDo
-cument` type for molecule retrieval https://github.com/jina-ai/executor-qdrant-indexer #
-https://github.com/jina-ai/executor-trimesh-loader # An executor that wraps trimesh f
-or loading and using triangular meshes https://github.com/jina-ai/executor-coquitts # Executor that leverages CoquiTTS engin
-e for text2speech https://github.com/jina-ai/docsqa-status # History of DocsQA service availability
-https://github.com/jina-ai/executor-image-hasher # An executor to encode images using
-comparable hashing techniques. Useful for duplicate detection https://github.com/jina-ai/events # public presentations and infographics in the Jina
-community. https://github.com/jina-ai/cookiecutter_test # Test Repo for the cookie-cuter impleme
-ntation https://github.com/jina-ai/action-hubble-push # Push the executor to hubble
-https://github.com/jina-ai/executor-riisearcher #
-https://github.com/jina-ai/terraform-jcloud-aws-infra # JCloud terraform modules for
-AWS https://github.com/jina-ai/integration-streamlit-pokemon # Pokemon search in Streamli
-t https://github.com/jina-ai/action-hub-updater # GH Action for automatically testing/b
-uilding the modules in your own Hub repo https://github.com/jina-ai/legal # Legal statements apply to services and products th
-at Jina AI Limited offers. https://github.com/jina-ai/example-grafana-prometheus # Docker compose file to use pr
-ometheus and grafana with Jina https://github.com/jina-ai/executor-kakfa2kafka-processor # Enrich documents from Kaf
-ka using Docarray and Executor and publish the enrichment document back to Kafka. https://github.com/jina-ai/executor-text-transformers-sentence-encoder #
-https://github.com/jina-ai/helm-charts # Jina Helm Chart Repository
-https://github.com/jina-ai/hub-status # The build history of Jina Hub, updated on eve
-ry new master of jina-ai/jina-hub https://github.com/jina-ai/cloud-helper # Library of helper tools to interact with cl
-oud resources. https://github.com/jina-ai/executor-elasticsearch-indexer #
-https://github.com/jina-ai/executor-annlite-indexer #
-https://github.com/jina-ai/executor-codegen-paddlenlp-generator #
-https://github.com/jina-ai/executor-tagshasher # TagsHasher
-https://github.com/jina-ai/chunking #
-https://github.com/jina-ai/executor-redis-indexer #
-https://github.com/jina-ai/executor-push-test #
-https://github.com/jina-ai/executor-milvus-indexer #
-https://github.com/jina-ai/executor-subtitle-extractor #
-https://github.com/jina-ai/integration-streamlit-simple # Simple integration of Jina
-and Streamlit https://github.com/jina-ai/imgda-uploader #
-https://github.com/jina-ai/executor-glb-crafter #
-https://github.com/jina-ai/executor-openl3-music-text # Executor that works on bi-mod
-al data. It embeds musical audio and text data. https://github.com/jina-ai/staging-docs # Jina Official Documentation (staging, until
-it becomes prod) https://github.com/jina-ai/paper-sag #
+https://github.com/jina-ai/example-molecule-search # Example showcasing the `GraphDocument` type for molecule retrieval
+https://github.com/jina-ai/integration-streamlit-pokemon # Pokemon search in Streamlit
+https://github.com/jina-ai/example-grafana-prometheus # Docker compose file to use prometheus and grafana with Jina
+https://github.com/jina-ai/integration-streamlit-simple # Simple integration of Jina and Streamlit
 https://github.com/jina-ai/csp-examples #
-https://github.com/jina-ai/executor-text-rocketqa-cross-reranker #
-https://github.com/jina-ai/readme.com-testing # This repo is to test the sync functio
-nality of readme.com https://github.com/jina-ai/executor-text-rocketqa-dual-encoder #
-https://github.com/jina-ai/aws-dev-day-2022 # Repository for creating the demo for AW
-S China Dev Day 2022 https://github.com/jina-ai/jina-cli # WIP cli for the Jina ecosystem
-https://github.com/jina-ai/gsod # Google Season of Docs 2022
-https://github.com/jina-ai/scenex-alt-texter # Automatically generate alt tags for Gh
-ost blog using SceneXplain https://github.com/jina-ai/docarray-docs #
+
+https://github.com/jina-ai/jina # ☁️ Build multimodal AI applications with cloud-native stack
+https://github.com/jina-ai/clip-as-service # 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
+https://github.com/jina-ai/reader # Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
