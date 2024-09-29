@@ -9,6 +9,10 @@ https://github.com/progit/progit2 # Pro Git 2nd Edition (by Scott Chacon)
 https://github.com/pluralsight/git-internals-pdf # PDF on Git Internals (by Scott Chacon)
 https://github.com/marklodato/visual-git-guide # A visual guide to git (by Mark Lodato)
 
+https://www.atlassian.com/git/tutorials/dotfiles # Dotfiles: Best way to store in a bare git repository
+https://github.com/marklodato/dotfiles # Example of the approach mentioned by Atlassian
+https://github.com/fastai/dotfiles # An additional example
+
 https://github.com/agis/git-style-guide # A Git Style Guide
 
 https://github.com/tiimgreen/github-cheat-sheet # A list of cool features of Git and GitHub.

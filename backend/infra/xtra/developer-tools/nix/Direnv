@@ -1,0 +1,5 @@
+https://github.com/direnv/direnv/wiki/nix # direnv - directory-specific environment variables
+https://github.com/jetify-com/devbox # folder-specific developer environment (by Jetify)
+https://github.com/flox/flox # folder-specific developer environment (by Flox)
+https://github.com/cachix/devenv # folder-specific developer environment
+https://github.com/numtide/devshell # folder-specific developer environment

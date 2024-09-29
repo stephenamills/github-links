@@ -1,5 +1,8 @@
 https://github.com/chronosphereio/otel-workshop #
 
+https://github.com/aspecto-io/opentelemetry-bootcamp #
+https://github.com/aspecto-io/opentelemetry-examples #
+
 https://github.com/open-telemetry/opentelemetry-go # OpenTelemetry Go API and SDK
 https://github.com/open-telemetry/opentelemetry-collector # OpenTelemetry Collector
 https://github.com/open-telemetry/opentelemetry-specification # Specifications for OpenTelemetry
@@ -67,6 +70,11 @@ https://github.com/open-telemetry/stackoverflow2slack # A bot that republishing 
 https://github.com/open-telemetry/gh-manager # This repository is for code to manage the OpenTelemetry GitHub Organization
 https://github.com/open-telemetry/.allstar # Enable and house Allstar policies centrally for the organizatio
 https://github.com/open-telemetry/.github #
+
+https://github.com/openlit/openlit # OpenLIT: Complete Observability and Evals for the Entire GenAI Stack, from LLMs to GPUs. Improve your LLM apps from playground to production 📈. Supports 20+ monitoring integrations like OpenAI & LangChain. Collect and Send GPU performance, costs, tokens, user activity, LLM traces and metrics to any OpenTelemetry endpoint in just one line of code.
+https://github.com/openlit/helm # Helm Charts to deploy and manage OpenLIT in Kubernetes
+https://github.com/openlit/website # Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capabilities for monitoring, analysing, and optimising LLM applications.
+https://github.com/openlit/.github #
 
 https://github.com/aspecto-io/malabi # Tracing Based JavaScript Assertions
 https://github.com/aspecto-io/opentelemetry-ext-js # js extensions for the open-telemetry project

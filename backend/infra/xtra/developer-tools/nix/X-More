@@ -1,0 +1,187 @@
+Cachix
+https://github.com/cachix/devenv # Fast, Declarative, Reproducible, and Composable Developer Environments
+https://github.com/cachix/cachix # Command line client for Nix binary cache hosting:
+https://github.com/cachix/install-nix-action # Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
+https://github.com/cachix/git-hooks.nix # Seamless integration of https://pre-commit.com git hooks with Nix.
+https://github.com/cachix/cachix-action # Build software only once and put it in a global cache
+https://github.com/cachix/nixpkgs-python # All Python versions, kept up-to-date on hourly basis using Nix.
+https://github.com/cachix/docs.cachix.org # Documentation for Cachix service.
+https://github.com/cachix/cachix-deploy-hetzner-dedicated # Bootstrap Hetzner Dedicated machines with a single command and deploy using GitHub Actions
+https://github.com/cachix/gptcomment #
+https://github.com/cachix/cachix-ci-agents # self-hosted github runners
+https://github.com/cachix/cachix-deploy-flake # Functions to help manage Cachix Deploy when using flakes.
+https://github.com/cachix/devenv-nixpkgs # Tested nixpkgs pins that work with devenv
+https://github.com/cachix/hs-opentelemetry-instrumentation-http-client # Plug&play OpenTelemetry tracing for http-client Manager
+https://github.com/cachix/nixpkgs-unfree-redistributable #
+https://github.com/cachix/katip-raven # Katip scribe for raven client (https://sentry.io)
+https://github.com/cachix/arewetvixyet.com # Tracking tvix (Rust) implementation of Nix.
+https://github.com/cachix/cachix-deploy-terraform #
+https://github.com/cachix/cachix-deploy-amis # AMIs for using Cachix Deploy
+https://github.com/cachix/circleci-example #
+https://github.com/cachix/cachix-deploy-aws #
+https://github.com/cachix/buildkite-example #
+https://github.com/cachix/travis-ci-example #
+
+Determinate Systems
+https://github.com/determinatesystems/nix-installer # Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+https://github.com/determinatesystems/zero-to-nix # Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
+https://github.com/determinatesystems/magic-nix-cache-action # Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
+https://github.com/determinatesystems/magic-nix-cache # Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
+https://github.com/determinatesystems/update-flake-lock # Automatically refresh your Nix Flakes.
+https://github.com/determinatesystems/nix-netboot-serve # Make any NixOS system netbootable with 10s cycle times.
+https://github.com/determinatesystems/flake-checker # Health checks for your Nix flakes
+https://github.com/determinatesystems/nix-installer-action # The Github Action for the Determinate Nix Installer
+https://github.com/determinatesystems/fh # The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
+https://github.com/determinatesystems/nix-to-kubernetes # An example of deploying Nix-built Docker images to Kubernetes.
+https://github.com/determinatesystems/flake-schemas # Schemas for common flake output types
+https://github.com/determinatesystems/macos-ephemeral # Scripts and instructions for making ephemeral macOS machines with Mosyle MDM support.
+https://github.com/determinatesystems/flake-checker-action # A GitHub Action that performs health checks for your Nix flake.lock files
+https://github.com/determinatesystems/nixos-vault-service #
+https://github.com/determinatesystems/terraform-provider-hydra # Declaratively configure your Hydra server with Terraform.
+https://github.com/determinatesystems/nix-policy # Experiments with Nix and Open Policy Agent
+https://github.com/determinatesystems/flakehub-push # Release your Nix flake to FlakeHub.com.
+https://github.com/determinatesystems/bootspec # Implementation of RFC-0125's datatype and synthesis tooling.
+https://github.com/determinatesystems/nix-wasm-example #
+https://github.com/determinatesystems/apple-sdks.nix # Experimental extraction of Apple SDKs.
+https://github.com/determinatesystems/zpool-auto-expand-partitions #
+https://github.com/determinatesystems/hydra-github-jobsets-generator # Generate declarative jobsets for a project's GitHub repository.
+https://github.com/determinatesystems/dhcpv6macd # A DHCPv6 service which assigns IPv6 addresses strictly on MAC address only. Potentially violates RFCs and specs.
+https://github.com/determinatesystems/nix-cpio-generator #
+https://github.com/determinatesystems/cpiotools # Tools for examining CPIOs.
+https://github.com/determinatesystems/nix-config-parser #
+https://github.com/determinatesystems/nix # Tracks the fallback paths for Nix, to allow upgrades on our schedule.
+https://github.com/determinatesystems/hydra-nixos-org-configuration # A mirror of the project and jobset configurations on hydra.nixos.org.
+https://github.com/determinatesystems/inspect # Inspect a flake's outputs with flake schemas.
+https://github.com/determinatesystems/ci # Determinate CI is the one-stop shop for effortless Nix CI in GitHub Actions.
+https://github.com/determinatesystems/flakehub-mirror #
+https://github.com/determinatesystems/export # Export arbitrary bytes from Rust to various shells and interpreters.
+https://github.com/determinatesystems/flakehub-docs # FlakeHub documentation
+https://github.com/determinatesystems/detsys-ts #
+https://github.com/determinatesystems/hydra-scale-equinix-metal # Scale Equinix Metal builders based on Hydra usage.
+https://github.com/determinatesystems/update-flake-lock-test-template # A template repository for testing changes to flake lock
+https://github.com/determinatesystems/fh-init-example-project #
+https://github.com/determinatesystems/store-paths #
+https://github.com/determinatesystems/ipxe-boot-lab # Local lab for testing iPXE boot in user network namespaces.
+https://github.com/determinatesystems/push-artifact-ids # Push artifacts to install.determinate.systems
+https://github.com/determinatesystems/nix-installer-example #
+https://github.com/determinatesystems/github-actions-oidc-claims #
+https://github.com/determinatesystems/hydra-test-migrate-to-s3 # Test migrating a Hydra instance from a local cache to an S3-backed cache.
+https://github.com/determinatesystems/nixlib #
+https://github.com/determinatesystems/.github # Determinate Systems
+
+Hercules CI
+https://github.com/hercules-ci/flake-parts # ❄️ Simplify Nix Flakes with the module system
+https://github.com/hercules-ci/arion # Run docker-compose with help from Nix/NixOS
+https://github.com/hercules-ci/gitignore.nix # Nix functions for filtering local git sources
+https://github.com/hercules-ci/legacy-old-hercules # Abandoned
+https://github.com/hercules-ci/hercules-ci-agent # https://hercules-ci.com build and deployment agent
+https://github.com/hercules-ci/canonix # Experiment in Nix formatting
+https://github.com/hercules-ci/warp-systemd # Socket activation and other systemd integration for the Warp web server (WAI)
+https://github.com/hercules-ci/hercules-ci-effects # Expressions to change the world (just a tiny bit)
+https://github.com/hercules-ci/flake.parts-website # Deployment of the https://flake.parts website
+https://github.com/hercules-ci/hage # A simple, modern and secure file encryption tool, format, and library, based on https://github.com/FiloSottile/age
+https://github.com/hercules-ci/support # User feedback, questions and our public roadmap. help@hercules-ci.com
+https://github.com/hercules-ci/gh-pages-example # An example of deploying to GitHub pages with hercules-ci-effects
+https://github.com/hercules-ci/nixops-example #
+https://github.com/hercules-ci/nixops2-flake # Example continuous deployment with NixOps 2 and a Nix Flake
+https://github.com/hercules-ci/haskell-releaser # Automation of Haskell package release process.
+https://github.com/hercules-ci/docs.hercules-ci.com # https://docs.hercules-ci.com
+https://github.com/hercules-ci/nixops-hercules-ci # Use Hercules CI as a NixOps backend
+https://github.com/hercules-ci/miniherc # A GitHub Action that runs Hercules CI jobs. Good enough for some use cases.
+https://github.com/hercules-ci/elm-hercules-extras # Convenience functions not found in core elm packages
+https://github.com/hercules-ci/agent-in-arion # Experimental module to run hercules-ci-agent in podman via arion
+https://github.com/hercules-ci/example-deploy-agent-terraform-aws # Example deployment of the Hercules CI Agent with Terraform to Amazon Web Services
+https://github.com/hercules-ci/terraform-hercules-ci # Terraform modules for Hercules CI
+https://github.com/hercules-ci/hercules-ci-enterprise # Binaries for Hercules CI Enterprise
+https://github.com/hercules-ci/nix-ci-minimal-repo #
+https://github.com/hercules-ci/devshell-example #
+https://github.com/hercules-ci/nix-networked-test # Test software (not services) in a networked Nix sandbox
+https://github.com/hercules-ci/blog.hercules-ci.com # https://blog.hercules-ci.com
+https://github.com/hercules-ci/playground # A playground for testing on a public repository
+
+Nix Build
+https://github.com/nixbuild/nix-quick-install-action #
+https://github.com/nixbuild/nixbuild-action # GitHub Action for using the nixbuild.net service
+https://github.com/nixbuild/ci-demo # Demo Nix CI with GitHub Actions
+
+Nixie
+https://github.com/nixie-dev/nixie # Put Nix in everything!
+https://github.com/nixie-dev/fakedir # Substitutes a directory elsewhere on macOS by replacing system calls
+https://github.com/nixie-dev/templates # Default project templates for Nixie
+
+Nix Way
+https://github.com/the-nix-way/dev-templates # Dev environments for numerous languages based on Nix flakes
+https://github.com/the-nix-way/nome # My Nix home
+https://github.com/the-nix-way/nix-flake-dev-environments # Nix flake examples for real-world development environments
+https://github.com/the-nix-way/real-world-devops-with-nix # An example project for building containers with Nix and deploying them to Kubernetes
+https://github.com/the-nix-way/nix-docker-examples #
+https://github.com/the-nix-way/nix-flakes-gitpod # A GitPod environment with Nix included and flakes enabled
+https://github.com/the-nix-way/nix-flake-examples #
+https://github.com/the-nix-way/flake-registry # A CLI tool for listing all the entries in the most recent Nix flake registry
+
+X-More
+https://github.com/xtruder/nix-devcontainer # Docker development container environment (Dev Container) for VS Code
+https://github.com/zimbatm/vscode-devcontainer-nix # has useful note on how the Dev Containers extension works
+https://github.com/lucernae/devcontainer-nix # Codespace template
+https://github.com/pshirshov/haskell-vscode-hie-stack-debugger-devcontainer # blog post
+https://github.com/jmgilman/dev-container # Flake
+https://github.com/suin/devcontainer-starter # Flake and devcontainer command (great writing in Japanese)
+https://github.com/cameronraysmith/nixpod # Flake
+https://github.com/devtemplates/niximages # Flake
+https://github.com/jbott/devcontainer-nix-direnv/ # Flake
+https://github.com/snyssen/nix-devcontainers-template/ # Flake
+https://github.com/zombiezen/codespaces-nix # Codespace template
+https://github.com/zerodeth/devcontainer-nix # Codespace template
+https://github.com/xtruder/nix-devcontainer-python-jupyter # Python Jupyter
+https://github.com/a-h/devcontainer # devcontainer command
+https://github.com/xtruder/nix-devcontainer-golang # Go
+https://github.com/crazy4pi314/nixos-devcontainer
+https://github.com/xtruder-archive/nix-devcontainer
+
+https://github.com/cachix/install-nix-action # installs Nix on GitHub Action
+https://github.com/determinatesystems/nix-installer # GitHub Action for package manager
+https://github.com/determinatesystems/flake-checker # GitHub Action to keep a Flake updated
+https://github.com/xtruder/nix-devcontainer # Nix devcontainer for VS Code
+https://github.com/tweag/jupyenv # Jupyter
+https://github.com/jmgilman/lima-nix # Ubuntu and Lima
+https://github.com/gitpod-samples/template-nix # Gitpod
+https://github.com/hercules-ci/arion # Docker Compose (?)
+https://github.com/hall/kubenix # Kubernetes management
+https://github.com/tweag/rules_nixpkgs # Bazel rules
+https://github.com/nixos/hydra # continuous build system
+
+https://github.com/nix-community/comma # run a package without installing it
+https://github.com/viperml/nh # basic commands
+https://github.com/tazjin/nix-diff # compares two derivations
+https://github.com/symphorien/nix-du # shows gc-roots (?)
+https://github.com/nix-community/nix-index # locates the package that owns a file
+https://github.com/nix-community/nix-init # converts a URL to a package
+https://github.com/maralorn/nix-output-monitor # shows details during package building
+https://github.com/msteen/nix-prefetch # updates checksum (?)
+https://github.com/utdemir/nix-tree # shows dependencies of a derivation
+https://github.com/mic92/nix-update # updates a package
+https://github.com/nix-community/nurl # converts a GitHub link to a Nix fetch expression
+https://github.com/nixos/patchelf # changes the dynamic linker and RPATH of a Linux ELF executable
+
+https://github.com/nixos/nix # Nix package manager
+https://github.com/nixos/nixpkgs # Nix packages (main)
+https://github.com/nix-community/nur # Nix packages (user-contributed)
+https://github.com/mozilla/nixpkgs-mozilla # Firefox package
+https://github.com/the-nix-way/dev-templates # templates
+https://github.com/nix-community/templates # templates
+https://github.com/replit/overlang/ # templates (by Replit)
+https://github.com/replit/nixmodules # modules (by Replit)
+https://github.com/mikeroyal/nixos-guide#programming-languages-with-nixos-support # C++, Python, Dotnet, Java, Scala, Perl, Rust, Go, etc.
+https://github.com/nix-community/awesome-nix#programming-languages # Rust, Scala, Python, JavaScript, Ruby, PHP
+https://github.com/nix-community/dream2nix # converts a Python, JavaScript, PHP, or Rust project to a Nix Flake package
+https://github.com/nix-community/poetry2nix # converts a Python Poetry project to a Nix package
+https://github.com/cargo2nix/cargo2nix # converts a Rust project to a Nix package
+https://github.com/hercules-ci/flake-parts # modules (?)
+https://github.com/numtide/flake-utils # functions
+https://github.com/gytis-ivaskevicius/flake-utils-plus # functions
+https://github.com/determinatesystems/fh # Flake Hub
+https://github.com/nixos/flake-registry # Flake registry
+https://github.com/flakestry/flakestry.dev # Flake registry
+https://github.com/nmattia/niv # alternative to Flakes
+https://github.com/nix-rust/nix # use modules from Rust (?)
+https://github.com/nixos/nixpkgs-channels # old channels approach

@@ -1,9 +1,10 @@
-https://github.com/googlecloudplatform/dataflux-pytorch # Increase ML-training speed by up to 3x when using data stored in GCS for training datasets by using the dataflux accelerated dataloader
-https://github.com/googlecloudplatform/ml-testing-accelerators # Testing framework for Deep Learning models (Tensorflow and PyTorch) on Google Cloud hardware accelerators (TPU and GPU)
+https://github.com/googlecloudplatform/asl-ml-immersion # This repos contains notebooks for the Advanced Solutions Lab: ML Immersion
+https://github.com/googlecloudplatform/ai-on-gke # AI on GKE is a collection of examples, best-practices, and prebuilt solutions to help build, deploy, and scale AI Platforms on Google Kubernetes Engine
+https://github.com/googlecloudplatform/dataflux-pytorch # Improve ML-training speed by up to 3x when using data stored in GCS and when that training data consists of many small files (e.g., 100 - 500 KB).
+https://github.com/googlecloudplatform/ml-testing-accelerators # Testing framework for deep learning models (Tensorflow and PyTorch) on Google Cloud hardware accelerators (TPU and GPU)
+https://github.com/googlecloudplatform/gcs-fuse-csi-driver # The Google Cloud Storage FUSE Container Storage Interface (CSI) Plugin.
 https://github.com/googlecloudplatform/dataflux-client-python # This is the git repository for the Dataflux Python client library, providing fast listing and download of small files from GCS in Python.
-https://github.com/google/gemma_pytorch # The official PyTorch implementation of Google's Gemma models
-https://github.com/google/jetstream-pytorch # PyTorch/XLA integration with JetStream for LLM inference
-https://github.com/google/jetstream # JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
+https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo Megatron Large Language Model (LLM) using NeMo Framework on Google Kubernetes Engine
 
 https://github.com/google-deepmind/tapnet # Tracking Any Point (TAP)
 https://github.com/google-deepmind/recurrentgemma # Open weights language model from Google DeepMind, based on Griffin.
@@ -16,6 +17,10 @@ https://github.com/google-deepmind/geomatch #
 https://github.com/google-deepmind/asyncdiloco #
 https://github.com/google-deepmind/threednel #
 https://github.com/google-deepmind/c3_neural_compression #
+
+https://github.com/google/gemma_pytorch # The official PyTorch implementation of Google's Gemma models
+https://github.com/google/jetstream-pytorch # PyTorch/XLA integration with JetStream for LLM inference
+https://github.com/google/jetstream # JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
 
 https://github.com/azure-samples/functions-python-pytorch-tutorial # Use Python, PyTorch, and Azure Functions to classify an image
 https://github.com/azure-samples/azure-functions-pytorch-image-identify # End to end example of an image identification app running on Azure Functions and showing capabilities like Remote Build and Azure Files support

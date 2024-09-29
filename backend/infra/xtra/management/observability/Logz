@@ -1,0 +1,114 @@
+https://github.com/logzio/jmx2graphite # JMX to Graphite every x seconds in one command line (Docker based) (also come in Java Agent flavour)
+https://github.com/logzio/guice-jersey # Guice module for starting Jetty based rest server with Jersey
+https://github.com/logzio/logzio-nodejs # NodeJS logger for LogzIO
+https://github.com/logzio/logzio-python-handler # Python logging handler that sends your logs to Logz.io using the https bulk input
+https://github.com/logzio/logzio_aws_serverless # AWS Lambda function that ships Cloudwatch Logs to logz.io
+https://github.com/logzio/logzio-k8s #
+https://github.com/logzio/logzio-logback-appender # Logback Appender that ships logs using HTTPs bulk
+https://github.com/logzio/logzio-helm # Helm charts for shipping logs, metrics & traces to logz.io.
+https://github.com/logzio/logzio-dotnet # Logz.io shippers for .NET frameworks, currently including log4net and NLog.
+https://github.com/logzio/terraform-provider-logzio # Terraform provider for logz.io alerts, endpoints and users
+https://github.com/logzio/winston-logzio # a winston transport wrapper for logzio
+https://github.com/logzio/logz-docs # Logz.io user documentation
+https://github.com/logzio/docker-collector-logs #
+https://github.com/logzio/logzio-rsyslog # Shipping logs to logz.io
+https://github.com/logzio/use-debounce # A react hook for using a debouncing an input with state variables In react.
+https://github.com/logzio/logzio-java-sender # Java library to send structured logs (JSONs) to Logz.io via HTTPS. This the core component of Logzio Appenders in the different logging frameworks (log4j, log4j2, Logback) which can also be used on its own
+https://github.com/logzio/logzio-azure-serverless # Azure function that ships Logs to logz.io
+https://github.com/logzio/logzio-log4j2-appender # Log4j2 Appender that ships logs using HTTPs bulk
+https://github.com/logzio/aws-cost-and-usage # Auto deployment of Logz.io AWS Cost and Usage (Python 3.8). Ships cost and usage reports to Logz.io via HTTPs.
+https://github.com/logzio/logzio-agent-manifest # Contains all the scripts needed to ship logs, metrics and traces to Logz.io for supported datasources using the Logz.io agent.
+https://github.com/logzio/synthetic-monitoring #
+https://github.com/logzio/docker-logging-plugin # This is a docker logging driver plugin to forward docker logs to Logz.io
+https://github.com/logzio/logzio-bunyan # A Logzio stream for the Bunyan logger
+https://github.com/logzio/microservices-demo #
+https://github.com/logzio/yarn-one-version-rule # Enforce the One Version Rule on yarn workspaces
+https://github.com/logzio/community # List of Logz.io plugins, integrations and logging resources developed by the community.
+https://github.com/logzio/fluent-plugin-logzio #
+https://github.com/logzio/sfcc-webdav-fetcher #
+https://github.com/logzio/fluent-bit-logzio-output #
+https://github.com/logzio/synthetic-scripting #
+https://github.com/logzio/dashboard-metrics-extractor #
+https://github.com/logzio/jaeger-logzio # A storage integration for Jaeger
+https://github.com/logzio/logzio-lambda-extensions # AWS Lambda extensions to send logs directly to Logz.io
+https://github.com/logzio/logzio_terraform_client # logz.io client library for GoLang
+https://github.com/logzio/influxql-to-promql-converter # About Grafana® dashboard converter tool to convert InfluxQL® using dashboards to use M3 (subset of) PromQL™ instead.
+https://github.com/logzio/grafana-dashboard-migration-tool #
+https://github.com/logzio/logzio-aws-ecs # Docker container for shipping Amazon ECS logs to Logz.io
+https://github.com/logzio/documentation #
+https://github.com/logzio/logzio-rsyslogshipper # A lightweight Docker image that runs rsyslog to monitor a running host logs files and ship them over to Logz.io.
+https://github.com/logzio/logzio-app-metrics # Create custom metrics for .NET Core and send them to Logz.io over HTTP.
+https://github.com/logzio/otel-collector-spm # This docker container runs OpenTelemetry collector with the most common receivers (jaeger opencensus otlp zipkin) and exports traces and span metrics to Logz.io for performance monitoring.
+https://github.com/logzio/telegraf-docker-collector-metrics #
+https://github.com/logzio/logzio-api-fetcher # Send Auth/OAuth APIs data to Logz.io.
+https://github.com/logzio/jmx2logzio # JMX to logz.io every x second one liner tool (Agent based)
+https://github.com/logzio/node-toolbox #
+https://github.com/logzio/logzio-cse # Integration Examples
+https://github.com/logzio/metric-stream-lambda # Lambda function that receives OTLP (0.7.0) data from AWS metric stream and exports the data to logz.io using prometheus remote write
+https://github.com/logzio/fluentd-docker-logs #
+https://github.com/logzio/logzio-api-status # Auto deployment of Lambda function for collecting api status metrics and shipping them to Logz.io.
+https://github.com/logzio/file-cacher # File system and mem-cache for files
+https://github.com/logzio/otel-collector-traces # Wrapped open telemetry collector image for traces
+https://github.com/logzio/logz-api #
+https://github.com/logzio/tracing-demo # A demo application, based on Jaeger Hot R.O.D, to submit example traces to Logz.io's distributed tracing product.
+https://github.com/logzio/logzio-siemplify #
+https://github.com/logzio/aws-cross-account # Shipping AWS logs from multiple accounts to Logz.io
+https://github.com/logzio/azure-monitor-metrics-receiver # An SDK wrapper that uses Azure Monitor SDK. Lets you receive metrics of Azure resources using Azure Monitor API.
+https://github.com/logzio/logzio-google-metrics #
+https://github.com/logzio/logzio-mysql-logs # Ships your MYSQL / RDS logs to logz.io
+https://github.com/logzio/code-guardian # Data sensitive detector for pre-commits and docker images building.
+https://github.com/logzio/memory-cacher # store cache
+https://github.com/logzio/integrations_examples #
+https://github.com/logzio/logzio-jumpcloud # Ship Jumpcloud logs to Logz.io
+https://github.com/logzio/azure-serverless #
+https://github.com/logzio/logzio-k8s-events # An intergration that watches for Kubernetes deployment events and sends them to Logz.io
+https://github.com/logzio/windows-msi-installer-telegraf #
+https://github.com/logzio/okta-events-hook # A lambda function that receives events from okta and forward the data as logs to logz.io
+https://github.com/logzio/easy-connect-server #
+https://github.com/logzio/s3-hook # With this integration, you can collect logs from an S3 bucket and forward them to Logz.io.
+https://github.com/logzio/telegraf_demo #
+https://github.com/logzio/opentelemetry-examples #
+https://github.com/logzio/js-metrics # Records custom Prometheus format metrics in your Node js application and exports them to remote write compatible backends
+https://github.com/logzio/kubernetes-monitoring-operator # Kubernetes monitoring operator
+https://github.com/logzio/otel-docker-collector-metrics #
+https://github.com/logzio/postgres-collector # Micro service that collects database metrics, host metrics and query logs from postgres rds and sends it to logz.io
+https://github.com/logzio/cloudwatch-metrics # Collects cloudwatch metrics and forward them to logz.io, based on opentelemetry collector
+https://github.com/logzio/migration-tools # tools for helping us move prospects from our competitors to our platform
+https://github.com/logzio/public-tools # Public repository for external tooling related to interaction with Logz.io accounts
+https://github.com/logzio/salesforce-logs-receiver # A package for collecting Salesforce sObjects data. Includes Docker for collecting Salesforce sObjects data and ship them to Logz.io.
+https://github.com/logzio/logzio-google-pubsub #
+https://github.com/logzio/aws-well-architected #
+https://github.com/logzio/logzio-azure-blob # Logs shipping from Azure Blob Storage to Logz.io
+https://github.com/logzio/customer-engineering # Useful assets created by the Customer Engineering teams at Logz.io
+https://github.com/logzio/heroku-buildpack-otel #
+https://github.com/logzio/usemitreattack #
+https://github.com/logzio/logzio-openshift # Send your Openshift logs to logz.io
+https://github.com/logzio/mdcwrapper # This library helps Java logback and log4j appender to enrich logs.
+https://github.com/logzio/ecs-fluentbit-sidecar # logging sidecar container for ecs, based on fluentbit
+https://github.com/logzio/cloudwatch-metrics-helpers # Ship AWS metrics to Logz.io
+https://github.com/logzio/firehose-logs #
+https://github.com/logzio/azure-auto-logging # Azure function with event grid trigger, thats adding diagnostic settings logging for new resources created on your azure account
+https://github.com/logzio/rough-object-size # return the size of object
+https://github.com/logzio/logzio-orb #
+https://github.com/logzio/logzio-ping-statistics # Auto deployment of Lambda function for collecting ping statistics metrics for addresses and shipping them to Logz.io.
+https://github.com/logzio/synthetic-link-detector # Detect broken links in web pages
+https://github.com/logzio/kubernetes-instrumentor # language detector and auto instrumentation micro service for kubernetes. Inspired by odigos.io
+https://github.com/logzio/public-certificates # Public Certificates For Logz.io Related Shippers
+https://github.com/logzio/deep-compare-any-order # deep compare JS object with out the order of the array
+https://github.com/logzio/cw-logs-metrics #
+https://github.com/logzio/aws-security-hub #
+https://github.com/logzio/kubernetes-app-detector #
+https://github.com/logzio/prometheus-alerts-migrator # This tool serves as a Kubernetes controller that automates the migration of Prometheus alert rules to Logz.io's alert format, facilitating monitoring and alert management in a Logz.io integrated environment.
+https://github.com/logzio/trivy-to-logzio #
+https://github.com/logzio/cloudwatch-fetcher #
+https://github.com/logzio/micrometer-registry-logzio #
+https://github.com/logzio/logzio-metrics-ui #
+https://github.com/logzio/contentfull-scripts #
+https://github.com/logzio/otel-collector-distro # Logz.io distribution of opentelemery collector
+https://github.com/logzio/x509-certificate-metrics-lambda # Collect x509 certificate metrics using lambda function
+https://github.com/logzio/logz-io-observability-workshop-code #
+https://github.com/logzio/logzio-azure-blob-trigger # Auto-deployment of Azure resources for shipping logs from Azure storage (general purpose v2) to Logz.io using blob trigger function.
+https://github.com/logzio/cloudformation-templates #
+https://github.com/logzio/go-metrics-sdk # Create custom metrics in your Go application and ship them to Logz.io, using the exporter that sends cumulative metrics data from the OpenTelemetry Go SDK to Logz.io using the Prometheus Remote Write API.
+https://github.com/logzio/logzio-okta # Shipping Okta logs to Logz.io using Logstash.
+https://github.com/logzio/cloudwatch-shipper-trigger # AWS Lambda function that ships Cloudwatch Logs to logz.io

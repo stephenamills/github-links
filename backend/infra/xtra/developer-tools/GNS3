@@ -1,0 +1,9 @@
+https://github.com/gns3/gns3-web-ui # WebUI implementation for GNS3
+https://github.com/gns3/gns3-server # GNS3 server
+
+https://github.com/gns3/gns3-gui # GNS3 Graphical Network Simulator
+https://github.com/gns3/gns3-registry # GNS3 devices registry
+https://github.com/gns3/ubridge # Bridge for UDP tunnels, Ethernet, TAP and VMnet interfaces.
+https://github.com/gns3/vpcs # Simple Virtual PC Simulator
+https://github.com/gns3/gns3-vm # FOR DEVELOPMENT ONLY GO TO GNS3.COM FOR THE VM WITH GNS3 INCLUDED
+https://github.com/gns3/gns3-webclient-pack # Client pack to use with the web Ui via protocol handlers

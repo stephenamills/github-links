@@ -1,0 +1,21 @@
+https://github.com/nixos/nix.dev # documentation
+https://ryantm.github.io/nixpkgs/ # packaging documentation - Docker, C++, CUDA, Dotnet, Java, Swift, Rust, Go, Python, JavaScript, PHP, Ruby
+https://wiki.nixos.org/wiki/category:languages # packaging wiki
+
+https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/ # guide with mostly good writing
+https://github.com/mhwombat/nix-for-numbskulls # book and tutorials
+https://github.com/alper/nix-shorts # short guide with pretty good writing
+https://determinate.systems/posts/nix-direnv/ # direnv blog post
+https://github.com/determinatesystems/zero-to-nix # guide
+https://github.com/nix-tutorials/nix-tutorials # like three paragraphs but clear
+https://tweag.io/blog/2020-05-25-flakes/ # blog series (by Eelco Dolstra)
+https://infoq.com/articles/configuration-management-with-nix/ # InfoQ article (by Eelco Dolstra)
+
+https://github.com/nixos/nixos-weekly # newsletter (discontinued)
+https://github.com/divnix/nix-book # book
+https://github.com/ryan4yin/nixos-and-flakes-book # book
+https://github.com/evertras/simple-homemanager/ # guide
+https://github.com/jorelali/nixos4noobs # guide but about ancillary topics (abandoned)
+https://github.com/moretea/nix-guides # hello world (abandoned)
+https://github.com/tazjin/nix-1p # Nix programming language introduction
+https://github.com/nixos/rfcs # proposals

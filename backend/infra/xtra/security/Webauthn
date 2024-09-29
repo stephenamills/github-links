@@ -1,3 +1,138 @@
 https://github.com/aws-samples/webauthn-with-amazon-cognito # Demo application for FIDO-based authentication and WebAuthn with Amazon Cognito
 https://github.com/aws-samples/amazon-cognito-passwordless-auth # Passwordless authentication with Amazon Cognito: FIDO2 (WebAuthn, support for Passkeys), Magic Link, SMS OTP Step Up
 
+https://github.com/google/webauthndemo # An example Node.js Relying Party implementation of the WebAuthn specification
+
+https://github.com/gobeyondidentity/passkey-developer-workshop # Walk through getting-started
+https://github.com/gobeyondidentity/bi-goog-fb-js-example # Example web app using Firebase SDK for Beyond Identity SSO via Google Identity Platform
+https://github.com/gobeyondidentity/getting-started-angular # Accompanying example for Developer's Docs Getting Started section.
+https://github.com/gobeyondidentity/getting-started # Accompanying example for Developer's Docs Getting Started section.
+https://github.com/gobeyondidentity/bi-sdk-react-native # React Native SDK for Beyond Identity Passkeys
+https://github.com/gobeyondidentity/bi-sdk-js # JavaScript SDK for Beyond Identity Passkeys
+https://github.com/gobeyondidentity/bi-sdk-android # Android SDK for Beyond Identity Passkeys
+https://github.com/gobeyondidentity/developer-docs # Source code for Beyond Identity's Developer Docs
+https://github.com/gobeyondidentity/bi-sdk-flutter # Flutter SDK for Beyond Identity Passkeys
+https://github.com/gobeyondidentity/bi-sdk-swift # Swift SDK for Beyond Identity Passkeys
+https://github.com/gobeyondidentity/secure-access-cli # A CLI used to automate certain actions in our Secure Access Platform.
+https://github.com/gobeyondidentity/customer-docs #
+
+https://github.com/teamhanko/hanko # Passwordless-First Authentication APIs & Embeddable UI Components. Convert Your Visitors into Users.
+https://github.com/teamhanko/passkeys-example-next-auth # Next.js and Auth.js example using the Hanko passkey provider
+https://github.com/teamhanko/hanko-nuxt-starter # Nuxt example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/hanko-nextjs-starter # Next.js App Router example showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/hanko-android-example # An Android app demo for passkey authentication using Hanko backend.
+https://github.com/teamhanko/passkeys-python # A Python Flask example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/nextjs-example #
+https://github.com/teamhanko/hanko-hono-react-starter # React-Hono example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/passkeys-react-express # A React + Express example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/hanko-sveltekit-starter # SvelteKit example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/passkeys-solid-hono # A Solid + Hono example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/passkeys-example-node # Minimal Node.js server showcasing the Hanko Passkey API
+https://github.com/teamhanko/passkeys-t3-stack # A T3 example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/passkeys-next-auth-starter # Next.js starter using NextAuth and Hanko Passkey API
+https://github.com/teamhanko/symfony-example # A PHP example app using Symfony and Hanko for authentication
+https://github.com/teamhanko/hanko-react-express-starter # React-Express example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/hanko-svelte-express-starter # Svelte-Express example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/hanko-vue-express-starter # Vue-Express example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/hanko-solid-express-starter # Solid-Express example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/passkeys-nextjs # A Next.js example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/passkeys-remix # A Remix example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/hanko-nextjs-starter-pages-router # Next.js Pages Router example showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/passkeys-rust # A Rust + React example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/passkeys-svelte-express # A Svelte + Express example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/passkeys-vue-express # A Vue + Express example app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/passkeys-webapp # An example web app with passkey authentication, using Hanko Passkey API
+https://github.com/teamhanko/hanko-remix-starter # Remix example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/hanko-elysia-react-starter # React-Elysia example app showcasing Hanko integration for authentication and user management.
+https://github.com/teamhanko/passkeys # FIDO2-certified passkey server and SDKs for adding passkey support to any auth system
+https://github.com/teamhanko/docs # The Hanko documentation
+
+https://github.com/authsignal/authsignal-browser # Passwordless step up authentication
+https://github.com/authsignal/supabase-example #
+https://github.com/authsignal/authsignal-ruby # The Authsignal Ruby Client
+https://github.com/authsignal/react-native-authsignal # Authsignal React Native SDK for Passkeys and Push Auth
+https://github.com/authsignal/authsignal-node #
+https://github.com/authsignal/react-native-passkey-example # Example React Native App using passkeys
+https://github.com/authsignal/terraform-provider-authsignal #
+https://github.com/authsignal/authsignalgo # Authsignal Go SDK
+https://github.com/authsignal/authsignal-java # Authsignal Java SDK
+https://github.com/authsignal/identity-server-example # Example integrating Authsignal with Duende Identity Server
+https://github.com/authsignal/authsignal-dotnet # Authsignal .NET SDK
+https://github.com/authsignal/authsignal-python # The Authsignal Python SDK for Server APIs
+https://github.com/authsignal/next-auth-passkeys-example # Example integrating Authsignal with NextAuth.js
+https://github.com/authsignal/authsignal-kiosk-demo #
+https://github.com/authsignal/aws-cognito-client-sdk-example # An example app showing how to integrate the Authsignal pre-built UI with AWS Cognito when using the AWS SDK client-side
+https://github.com/authsignal/aws-cognito-server-sdk-example # An example app showing how to integrate the Authsignal pre-built UI with AWS Cognito when using the AWS SDK server-side
+https://github.com/authsignal/aws-cognito-amplify-example # An example app showing how to integrate the Authsignal pre-built UI with AWS Cognito when using Amplify
+https://github.com/authsignal/amazon-ecs-run-task #
+https://github.com/authsignal/authsignal-android # Authsignal Android SDK for Passkeys and Push Auth
+https://github.com/authsignal/aws-cognito-react-native-example # An example app showing how to implement passkeys using the Authsignal React Native SDK with AWS Cognito
+https://github.com/authsignal/authsignal-nextjs-helpers #
+https://github.com/authsignal/nextjs-example #
+https://github.com/authsignal/azure-ad-b2c-example #
+https://github.com/authsignal/authsignal-ios # Authsignal iOS SDK for Passkeys and Push Auth
+https://github.com/authsignal/authsignal-flutter # Authsignal Flutter SDK for Passkeys and Push Auth
+https://github.com/authsignal/authsignal-management-go #
+https://github.com/authsignal/auth0-example #
+https://github.com/authsignal/authsignal-php #
+
+https://github.com/justpass-me/passkeys-for-react-native-sdk # Passkeys for React native SDK with Justpass
+https://github.com/justpass-me/passkeys-firebase-ext # Passkeys for Firebase extension with justpass.me
+https://github.com/justpass-me/passkeys-for-flutter-with-justpass # Flutter SDK for Passkeys with Juspass
+https://github.com/justpass-me/passkeys-native-ios-justpass # Justpass.me iOS SDK
+https://github.com/justpass-me/oidc-php #
+https://github.com/justpass-me/justpass-me-frontend-javascript-example #
+https://github.com/justpass-me/passkeys-for-django-with-justpass # Passkeys integration for Django with JustPass.me
+https://github.com/justpass-me/.github #
+
+https://github.com/snapauthapp/sdk-typescript # TypeScript/JavaScript SDK for SnapAuth
+https://github.com/snapauthapp/sdk-swift # Swift SDK for SnapAuth (all Apple platforms)
+https://github.com/snapauthapp/sdk-node # NodeJS SDK for SnapAuth
+https://github.com/snapauthapp/sdk-php # PHP SDK for SnapAuth
+https://github.com/snapauthapp/demo-web #
+https://github.com/snapauthapp/.github #
+https://github.com/snapauthapp/roadmap # The home for SnapAuth product feedback and discussions
+https://github.com/snapauthapp/aaguids # FIDO2 AAGUIDs
+
+https://github.com/auth0/webauthn.me # webauthn.me, learn more about the Web Authentication API or try the debugger.
+
+https://github.com/duo-labs/py_webauthn # Pythonic WebAuthn 🐍
+https://github.com/duo-labs/webauthn.io # The source code for webauthn.io, a demonstration of WebAuthn.
+https://github.com/duo-labs/duo-blog-going-passwordless-with-py-webauthn #
+
+https://github.com/yubicolabs/webauthnkit # Yubico WebAuthn Starter Kit Project Code
+
+https://github.com/passlock-dev/passlock # Passkey library also featuring Social Sign In (Apple & Google), user management, auditing and more.
+
+https://github.com/webauthnworks/passkeyssamples #
+https://github.com/webauthnworks/webauthn-snippets # A random code snippets for FIDO2/Webauthn servers and authenticators
+https://github.com/webauthnworks/vanillacbor #
+https://github.com/webauthnworks/webauthn-cose #
+https://github.com/webauthnworks/nistkdf-800-108-nodejs # NIST SP800-108 KDFs implementations. Really useful for FIDO Device Onboarding
+https://github.com/webauthnworks/ctap2.1-migration-guide #
+
+https://github.com/stupidwebauthn/example #
+https://github.com/stupidwebauthn/client #
+https://github.com/stupidwebauthn/website #
+https://github.com/stupidwebauthn/server #
+
+https://github.com/masterkale/simplewebauthn # typescript-first libraries for simpler WebAuthn integration.
+
+https://github.com/ruby-passkeys/devise-passkeys # Devise extension to use passkeys instead of passwords
+https://github.com/ruby-passkeys/warden-webauthn # A Warden Strategy for WebAuthn
+https://github.com/ruby-passkeys/devise-passkeys-template # A template repo that showcases using Devise Passkeys
+https://github.com/ruby-passkeys/.github #
+
+https://github.com/fido-alliance/webauthn-demo # WebAuthn Workshop Demo [Completed DEMO is at completed demo-branch]
+https://github.com/fido-alliance/how-to-fido # How To FIDO
+https://github.com/fido-alliance/conformance-test-tools-resources # Certification Test Tools Resources. For security and privacy related issues email tools@certification.fidoalliance.org
+https://github.com/fido-alliance/fido2-interop-webapp # As simple interoperability app for FIDO2 servers [Please install me for interop]
+https://github.com/fido-alliance/credential-exchange-feedback # This repo is a place where non-FIDO members can post comments and issues about the Credential Exchange specification.
+https://github.com/fido-alliance/iot-fdo-conformance-tools # FIDO Alliances Reference FDO Implementation and Conformance Testing
+https://github.com/fido-alliance/fdo-sim # Registry and repository for FDO ServiceInfo Modules
+https://github.com/fido-alliance/discussions #
+
+https://www.iana.org/assignments/webauthn
+https://www.iana.org/assignments/cose
+https://www.iana.org/assignments/cbor-tags
+https://www.iana.org/assignments/cbor-simple-values

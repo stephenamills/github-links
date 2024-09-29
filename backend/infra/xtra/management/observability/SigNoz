@@ -1,64 +1,97 @@
 https://github.com/signoz/signoz # SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool
 
-https://github.com/signoz/logs-benchmark # Logs performance benchmark repo: Comparing
-Elastic, Loki and SigNoz https://github.com/signoz/charts # Helm Charts for SigNoz
-https://github.com/signoz/signoz-otel-collector # SigNoz distro for OpenTelemetry Col
-lector https://github.com/signoz/sample-golang-app # Sample Golang app to demonstrace OpenTe
-lemetry instrumentation https://github.com/signoz/awesome-opentelemetry # Repository of open source content o
-n opentelemetry https://github.com/signoz/dashboards # A collection of SigNoz dashboard templates in
-JSON format for monitoring popular services such as MySQL, MongoDB, APM, JVM, and more. Easily import and customize these dashboards to visualize your application’s performance and metrics with SigNoz. https://github.com/signoz/zap_otlp # Zap Logger with OpenTelemetry support
-https://github.com/signoz/sample-fastapi-app # Sample fastAPI Application to demonstr
-ate OpenTelemetry instrumentation https://github.com/signoz/sample-nestjs-app #
-https://github.com/signoz/sample-flask-app # Sample Flask Application to demonstrate
-OpenTelemetry instrumentation https://github.com/signoz/sample-aspnetcore-app # Sample ASPNetCore app with opentele
-metry instrumentation https://github.com/signoz/sample-php-app # Sample PHP app instrumented using OpenTele
-metry https://github.com/signoz/alertmanager #
-https://github.com/signoz/sample-nodejs-app # This sample app demonstrate use of Open
-Telemetry Library with SigNoz https://github.com/signoz/signoz-k8s-helm-operator # SigNoz Operator for Kubernetes
+https://github.com/signoz/logs-benchmark # Logs performance benchmark repo: Comparing Elastic, Loki and SigNoz
+https://github.com/signoz/charts # Helm Charts for SigNoz
+https://github.com/signoz/signoz-otel-collector # SigNoz distro for OpenTelemetry Col lector
+https://github.com/signoz/sample-golang-app # Sample Golang app to demonstrace OpenTe lemetry instrumentation
+https://github.com/signoz/awesome-opentelemetry # Repository of open source content o n opentelemetry
+https://github.com/signoz/dashboards # A collection of SigNoz dashboard templates in JSON format for monitoring popular services such as MySQL, MongoDB, APM, JVM, and more.
+https://github.com/signoz/zap_otlp # Zap Logger with OpenTelemetry support
+https://github.com/signoz/sample-fastapi-app # Sample fastAPI Application to demonstr ate OpenTelemetry instrumentation
+https://github.com/signoz/sample-nestjs-app #
+
+https://github.com/signoz/sample-flask-app # Sample Flask Application to demonstrate OpenTelemetry instrumentation
+https://github.com/signoz/sample-aspnetcore-app # Sample ASPNetCore app with opentele metry instrumentation
+https://github.com/signoz/sample-php-app # Sample PHP app instrumented using OpenTele metry
+https://github.com/signoz/alertmanager #
+
+https://github.com/signoz/sample-nodejs-app # This sample app demonstrate use of Open Telemetry Library with SigNoz
+https://github.com/signoz/signoz-k8s-helm-operator # SigNoz Operator for Kubernetes
 https://github.com/signoz/signoz-web # SigNoz Website
-https://github.com/signoz/sample-reactjs-app # Sample ReactJS app with SigNoz monitor
-ing https://github.com/signoz/troubleshoot #
+https://github.com/signoz/sample-reactjs-app # Sample ReactJS app with SigNoz monitor ing
+https://github.com/signoz/troubleshoot #
+
 https://github.com/signoz/terraform-provider-signoz # Terraform Provider of SigNoz
 https://github.com/signoz/sample-golang-kafka-app #
+
 https://github.com/signoz/sample-rails-app #
+
 https://github.com/signoz/sample-rust-app #
-https://github.com/signoz/otel-collector-k8s # deploy opentelemetry collector in kube
-rnetes to get infrastructure metrics https://github.com/signoz/sample-golang-pgx-app # Sample golang app using golang and
-pgx instrumented with otelgin and otelpgx https://github.com/signoz/signoz-db-migrations #
+
+https://github.com/signoz/otel-collector-k8s # deploy opentelemetry collector in kube rnetes to get infrastructure metrics
+https://github.com/signoz/sample-golang-pgx-app # Sample golang app using golang and pgx instrumented with otelgin and otelpgx
+https://github.com/signoz/signoz-db-migrations #
+
 https://github.com/signoz/sample-nextjs-app #
+
 https://github.com/signoz/docker-container-logs #
+
 https://github.com/signoz/signoz-core-ui #
-https://github.com/signoz/custom-metrics-examples # Examples in different languages a
-nd frameworks on how to send custom metrics to SigNoz https://github.com/signoz/govaluate #
-https://github.com/signoz/sample-angular-app # Shows opentelemetry instrumentation an
-d trace ingestion to SigNoz https://github.com/signoz/sample-fastapi-with-dbs #
-https://github.com/signoz/opentelemetry-nodejs-example # Check out the entire hands-o
-n OpenTelemetry NodeJS article series below 👇 https://github.com/signoz/migration-0.9 #
+
+https://github.com/signoz/custom-metrics-examples # Examples in different languages a nd frameworks on how to send custom metrics to SigNoz
+https://github.com/signoz/govaluate #
+
+https://github.com/signoz/sample-angular-app # Shows opentelemetry instrumentation an d trace ingestion to SigNoz
+https://github.com/signoz/sample-fastapi-with-dbs #
+
+https://github.com/signoz/opentelemetry-nodejs-example # Check out the entire hands-o n OpenTelemetry NodeJS article series below 👇
+https://github.com/signoz/migration-0.9 #
+
 https://github.com/signoz/nginx-logs-parsing #
+
 https://github.com/signoz/icons #
-https://github.com/signoz/opentelemetry-elixir-example-1 # A sample app explaining ho
-w to send data directly to SigNoz Cloud https://github.com/signoz/opentelemetry-examples-charts #
+
+https://github.com/signoz/opentelemetry-elixir-example-1 # A sample app explaining ho w to send data directly to SigNoz Cloud
+https://github.com/signoz/opentelemetry-examples-charts #
+
 https://github.com/signoz/.github #
+
 https://github.com/signoz/opentelemetry-python-example #
+
 https://github.com/signoz/mobile-monitoring-sample-apps #
+
 https://github.com/signoz/opentelemetry-go-extra #
+
 https://github.com/signoz/electronjs-otel-sample-app #
+
 https://github.com/signoz/sample-nodejs-grpc-app #
+
 https://github.com/signoz/signoz-k8s-helm-chart # Helm Chart installation for SigNoz
-https://github.com/signoz/opentelemetry-swift-example # Sample Swift app instrumented
-with OTel https://github.com/signoz/opentelemetry-php-example # Sample PHP app
+https://github.com/signoz/opentelemetry-swift-example # Sample Swift app instrumented with OTel
+https://github.com/signoz/opentelemetry-php-example # Sample PHP app
 https://github.com/signoz/internal-docs-hub #
+
 https://github.com/signoz/design-tokens #
+
 https://github.com/signoz/signoz-deployment #
+
 https://github.com/signoz/migrate-dashboard #
+
 https://github.com/signoz/gh-bot #
+
 https://github.com/signoz/sample-react-todo-app #
+
 https://github.com/signoz/components #
-https://github.com/signoz/otlp-python # This project generates traces and logs for RE
-ST API in Python. The generated traces and logs have correlation. https://github.com/signoz/distributedtracing.io # Resources on Distributed Tracing
+
+https://github.com/signoz/otlp-python # This project generates traces and logs for RE ST API in Python. The generated traces and logs have correlation.
+https://github.com/signoz/distributedtracing.io # Resources on Distributed Tracing
 https://github.com/signoz/benchmark #
+
 https://github.com/signoz/opentelemetry-examples #
+
 https://github.com/signoz/angular-otel-native #
+
 https://github.com/signoz/eslint-config #
+
 https://github.com/signoz/primus.workflows # SigNoz Github Pipelines
 https://github.com/signoz/sample-mongodb-nodejs-app #

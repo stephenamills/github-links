@@ -1,0 +1,57 @@
+https://github.com/hypertrace/hypertrace # An open source distributed tracing & observability platform
+
+https://github.com/hypertrace/hypertrace-samples # Sample applications to try with Hypertrace.
+
+https://github.com/hypertrace/javaagent # Hypertrace OpenTelemetry Java agent with payload/body and headers data capture.
+https://github.com/hypertrace/hypertrace-ui # UI for Hypertrace
+https://github.com/hypertrace/hypertrace-ingester # Streaming jobs for Hypertrace
+https://github.com/hypertrace/goagent # Hypertrace Go Agent
+https://github.com/hypertrace/hyperdash-angular # An angular wrapper for the hyperdash dashboarding framework
+https://github.com/hypertrace/hyperdash # A dashboarding framework
+https://github.com/hypertrace/pinot # Apache Pinot docker image and helm chart
+https://github.com/hypertrace/mongodb # MongoDB helm chart
+https://github.com/hypertrace/hypertrace-collector # OpenTelemetry collector distribution for Hypertrace platform
+https://github.com/hypertrace/entity-service # Service will interface with the entities document store, currently MongoDB
+https://github.com/hypertrace/hypertrace-graphql # The public graphql API of the Hypertrace platform
+https://github.com/hypertrace/hypertrace-alert-engine #
+https://github.com/hypertrace/hypertrace-service # Multiple hypertrace services combined together to form a single service.
+https://github.com/hypertrace/query-service # Query service which exposes APIs to query data from the underlying stores.
+https://github.com/hypertrace/document-store # Document store abstraction that we use across Hypertrace
+https://github.com/hypertrace/kafka-topic-creator # Helm chart to create a Kafka topic via helm hook
+https://github.com/hypertrace/zookeeper # Apache Zookeeper docker image and helm chart
+https://github.com/hypertrace/pythonagent # Hypertrace Python agent
+https://github.com/hypertrace/schema-registry # Confluent Schema Registry helm chart
+https://github.com/hypertrace/service-framework # Contains code to create a service
+https://github.com/hypertrace/hypertrace-core-graphql # The public graphql API of the Hypertrace core platform
+https://github.com/hypertrace/attribute-service # Service which does the CRUD for attributes in Hypertrace.
+https://github.com/hypertrace/kafka-streams-framework # Framework to create kafka streams applications
+https://github.com/hypertrace/config-service # Service for storing and serving configurations across multiple services and contexts.
+https://github.com/hypertrace/kafka # Apache Kafka docker image and helm chart
+https://github.com/hypertrace/java-grpc-utils # Java GRPC utils to setup a grpc server or client and use a grpc context
+https://github.com/hypertrace/hypertrace-gradle-jacoco-report-plugin # A gradle plugin for easier generation of jacoco reports
+https://github.com/hypertrace/hypertrace-docs-website # Hypertrace website and documentation
+https://github.com/hypertrace/hypertrace-core-view-generator # Generates Pinot Views from traces
+https://github.com/hypertrace/hypertrace-gradle-version-settings-plugin # A gradle plugin implementing the Hypertrace semantic versioning scheme
+https://github.com/hypertrace/hypertrace-gradle-avro-plugin # A Gradle plugin for working with and testing avro compatibility
+https://github.com/hypertrace/agent-config # Config for hypertrace agents
+https://github.com/hypertrace/data-model # Contains the open source data model for Hypertrace.
+https://github.com/hypertrace/opencensus-service #
+https://github.com/hypertrace/hypertrace-gradle-repository-plugin # A gradle plugin to configure the hypertrace maven repository
+https://github.com/hypertrace/db-schema-manager # Helm chart for managing database schema
+https://github.com/hypertrace/hypertrace-gradle-integration-test-plugin # A gradle plugin for writing integration tests
+https://github.com/hypertrace/nodejsagent # Hypertrace Node.js Agent
+https://github.com/hypertrace/hypertrace-gradle-code-style-plugin #
+https://github.com/hypertrace/prometheus-jmx-exporter #
+https://github.com/hypertrace/hypertrace-gradle-dependency-settings-plugin #
+https://github.com/hypertrace/view-generator-framework # Code that is used to create and generate Pinot views.
+https://github.com/hypertrace/config-bootstrapper # Bootstrapping Hypertrace attributes and entities configuration
+https://github.com/hypertrace/hypertrace-gradle-ci-utils-plugin # A gradle plugin providing utility tasks for CI environments
+https://github.com/hypertrace/event-store # Event store abstraction for Kafka. Contains logic to create producers and consumers.
+https://github.com/hypertrace/specification # Specifications for Hypertrace project
+https://github.com/hypertrace/docker-java-base # Base docker image for JRE-based containers
+https://github.com/hypertrace/github-actions # custom github actions for CI workflows
+https://github.com/hypertrace/hypertrace-gradle-java-convention-plugin #
+https://github.com/hypertrace/hypertrace-gradle-publish-plugin # A gradle plugin for publishing artifacts to the Hypertrace maven repository
+https://github.com/hypertrace/hypertrace-gradle-docker-plugins # A collection of gradle plugins for working with and publishing Hypertrace docker images
+https://github.com/hypertrace/hypertrace-bom #
+https://github.com/hypertrace/.github #

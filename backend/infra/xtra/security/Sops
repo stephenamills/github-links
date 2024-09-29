@@ -1,0 +1,5 @@
+https://github.com/getsops/sops # Simple and flexible tool for managing secrets
+
+https://github.com/getsops/sotp # Get TOTP from the command line using TOTP secrets in Sops encrypted files.
+https://github.com/getsops/community # SOPS community content
+https://github.com/getsops/docs #

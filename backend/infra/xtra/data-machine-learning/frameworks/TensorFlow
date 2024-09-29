@@ -1,3 +1,36 @@
+https://github.com/googlecloudplatform/tensorflow-without-a-phd # A crash course in six episodes for software developers who want to become machine learning practitioners.
+https://github.com/googlecloudplatform/asl-ml-immersion # This repos contains notebooks for the Advanced Solutions Lab: ML Immersion
+https://github.com/googlecloudplatform/ml-on-gcp # Machine Learning on Google Cloud Platform
+https://github.com/googlecloudplatform/tensorflow-object-detection-example #
+https://github.com/googlecloudplatform/data-science-on-gcp # Source code accompanying book: Data Science on the Google Cloud Platform, Valliappa Lakshmanan, O'Reilly 2017
+https://github.com/googlecloudplatform/tensorflow-lifetime-value # Predict customer lifetime value using AutoML Tables, or ML Engine with a TensorFlow neural network and the Lifetimes Python library.
+https://github.com/googlecloudplatform/tf-estimator-tutorials # This repository includes tutorials on how to use the TensorFlow estimator APIs to perform various ML tasks, in a systematic and standardised way
+https://github.com/googlecloudplatform/practical-ml-vision-book #
+https://github.com/googlecloudplatform/vertex-pipelines-end-to-end-samples #
+https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/bigquery-oreilly-book # Source code accompanying: BigQuery: The Definitive Guide by Lakshmanan & Tigani to be published by O'Reilly Media
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+https://github.com/googlecloudplatform/mlops-with-vertex-ai # An end-to-end example of MLOps on Google Cloud using TensorFlow, TFX, and Vertex AI
+https://github.com/googlecloudplatform/tensorflow-sketch-rnn-example #
+https://github.com/googlecloudplatform/bigquery-ml-utils #
+https://github.com/googlecloudplatform/tensorflow-gcp-tools # Tools that make it easier to run TensorFlow on Google Cloud Platform.
+https://github.com/googlecloudplatform/ml-testing-accelerators # Testing framework for Deep Learning models (Tensorflow and PyTorch) on Google Cloud hardware accelerators (TPU and GPU)
+https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
+https://github.com/googlecloudplatform/next18-ai-in-motion # Sample code for the AI in Motion demo
+https://github.com/googlecloudplatform/edu-resources # Curated List of GCP educational resources
+https://github.com/googlecloudplatform/gke-tensorflow-inference-system-tutorial #
+https://github.com/googlecloudplatform/earth-ml # Use a TensorFlow model to do land cover classification using Earth Engine datasets.
+https://github.com/googlecloudplatform/gcs-fuse-csi-driver # The Google Cloud Storage FUSE Container Storage Interface (CSI) Plugin.
+https://github.com/googlecloudplatform/dfcx-scrapi # A high level scripting API for bot builders, developers, and maintainers.
+https://github.com/googlecloudplatform/df-ml-anomaly-detection # Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP
+https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
+https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see.
+https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstrating how to operationalize Google Research T5X framework on Google Cloud Vertex AI.
+https://github.com/googlecloudplatform/dataflow-opinion-analysis # Opinion Analysis of News, Threaded Conversations, and User Generated Content
+https://github.com/googlecloudplatform/vertex-parameter-server-training-demo #
+https://github.com/googlecloudplatform/federated-learning # Federated Learning on Google Cloud
+
 https://github.com/google-deepmind/sonnet # TensorFlow-based neural network library
 https://github.com/google-deepmind/graph_nets # Build Graph Nets in Tensorflow
 https://github.com/google-deepmind/trfl # TensorFlow Reinforcement Learning
@@ -12,7 +45,7 @@ https://github.com/google-deepmind/open_x_embodiment #
 https://github.com/google-deepmind/tensor_annotations # Annotating tensor shapes using Python types
 https://github.com/google-deepmind/leo # Implementation of Meta-Learning with Latent Embedding Optimization
 https://github.com/google-deepmind/scalable_agent # A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
-https://github.com/google-deepmind/interval-bound-propagation # This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
+https://github.com/google-deepmind/interval-bound-propagation # Implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
 https://github.com/google-deepmind/kinetics-i3d # Convolutional neural network model for video classification trained on the Kinetics dataset.
 https://github.com/google-deepmind/tf2jax #
 https://github.com/google-deepmind/spiral # We provide a pre-trained model for unconditional 19-step generation of CelebA-HQ images
@@ -36,7 +69,7 @@ https://github.com/google-deepmind/jraph # A Graph Neural Network Library in Jax
 https://github.com/google-deepmind/xtr # XTR: Rethinking the Role of Token Retrieval in Multi-Vector Retrieval
 https://github.com/google-deepmind/multimodal_transformers #
 https://github.com/google-deepmind/streetlearn # A C++/Python implementation of the StreetLearn environment based on images from Street View
-https://github.com/google-deepmind/dks # Multi-framework implementation of Deep Kernel Shaping and Tailored Activation Transformations, which are methods that modify neural network models (and their initializations) to make them easier to train.
+https://github.com/google-deepmind/dks # Modify neural network models (and their initializations) to make them easier to train.
 https://github.com/google-deepmind/dm_nevis # NEVIS'22: Benchmarking the next generation of never-ending learners
 https://github.com/google-deepmind/ferminet # An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 https://github.com/google-deepmind/alphageometry #
@@ -47,6 +80,71 @@ https://github.com/google-deepmind/alphafold # Open source code for AlphaFold.
 https://github.com/google-deepmind/exedec #
 https://github.com/google-deepmind/relicv2 #
 https://github.com/google-deepmind/discretisation_drift #
+
+https://github.com/google/tf-quant-finance # High-performance TensorFlow library for quantitative finance.
+https://github.com/google/dopamine # Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+https://github.com/google/youtube-8m # Starter code for working with the YouTube-8M dataset.
+https://github.com/google/tensornetwork # A library for easy and efficient manipulation of tensor networks.
+https://github.com/google/xnnpack # High-efficiency floating-point neural network inference operators for mobile, server, and Web
+https://github.com/google/uncertainty-baselines # High-quality implementations of standard and SOTA methods on a variety of tasks.
+https://github.com/google/swift-jupyter #
+https://github.com/google/ruy #
+https://github.com/google/emoji-scavenger-hunt # Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
+https://github.com/google/making_with_ml #
+https://github.com/google/edward2 # A simple probabilistic programming language.
+https://github.com/google/ml-metadata # For recording and retrieving metadata associated with ML developer and data scientist workflows.
+https://github.com/google/tsl #
+https://github.com/google/deepvariant # DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
+https://github.com/google/vizier # Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.
+https://github.com/google/orbax # Orbax provides common checkpointing and persistence utilities for JAX users
+https://github.com/google/qkeras # QKeras: a quantization deep learning library for Tensorflow Keras
+https://github.com/google/microscopeimagequality #
+https://github.com/google/trax # Trax — Deep Learning with Clear Code and Speed
+https://github.com/google/struct2tensor # struct2tensor is a library for parsing and manipulating structured data inside of tensorflow.
+https://github.com/google/ml-compiler-opt # Infrastructure for Machine Learning Guided Optimization (MLGO) in LLVM.
+https://github.com/google/yggdrasil-decision-forests # A library to train, evaluate, interpret, and productionize decision forest models such as Random Forest and Gradient Boosted Decision Trees.
+https://github.com/google/active-learning #
+https://github.com/google/gin-config # Gin provides a lightweight configuration framework for Python
+https://github.com/google/scaaml #
+https://github.com/google/caliban # Research workflows made easy, locally and in the Cloud.
+https://github.com/google/dynamicworld #
+https://github.com/google/deepconsensus # DeepConsensus uses gap-aware sequence transformers to correct errors in Pacific Biosciences (PacBio) Circular Consensus Sequencing (CCS) data.
+https://github.com/google/e3d_lstm # e3d-lstm; Eidetic 3D LSTM A Model for Video Prediction and Beyond
+https://github.com/google/gematria # Machine learning for machine code.
+https://github.com/google/modem #
+https://github.com/google/diffseg # DiffSeg is an unsupervised zero-shot segmentation method using attention information from a stable-diffusion model. This repo implements the main DiffSeg algorithm and additionally includes an experimental feature to add semantic la
+bels to the masks based on a generated caption. https://github.com/google/explaining-in-style #
+https://github.com/google/jax-cfd # Computational Fluid Dynamics in JAX
+https://github.com/google/meta_tagger #
+https://github.com/google/jaxonnxruntime # A user-friendly tool chain that enables the seamless execution of ONNX models using JAX as the backend.
+https://github.com/google/temporian # Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖
+https://github.com/google/sandwiched_compression # Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers
+https://github.com/google/ldif # 3D Shape Representation with Local Deep Implicit Functions.
+https://github.com/google/attention-center #
+https://github.com/google/bi-tempered-loss # Robust Bi-Tempered Logistic Loss Based on Bregman Divergences. https://arxiv.org/pdf/1906.03361.pdf
+https://github.com/google/net_http #
+https://github.com/google/differential-privacy # Google's differential privacy libraries.
+https://github.com/google/flaxformer #
+https://github.com/google/sbsim #
+https://github.com/google/ffn # Flood-Filling Networks for instance segmentation in 3d volumes.
+https://github.com/google/mangle #
+https://github.com/google/tfp-causalimpact #
+https://github.com/google/poseshield-tfjs #
+https://github.com/google/dataflow-ml-starter #
+https://github.com/google/seqio # Task-based datasets, preprocessing, and evaluation for sequence models.
+https://github.com/google/highway # Performance-portable, length-agnostic SIMD with runtime dispatch
+https://github.com/google/neural-tangents # Fast and Easy Infinite Neural Networks in Python
+https://github.com/google/tf-shell #
+https://github.com/google/sedpack #
+https://github.com/google/forest-data-partnership #
+https://github.com/google/space # Unified storage framework for the entire machine learning lifecycle
+https://github.com/google/prediction_framework #
+https://github.com/google/example_extrapolation #
+https://github.com/google/aqt #
+https://github.com/google/kepler #
+https://github.com/google/memutil #
+https://github.com/google/sequence-layers #
+https://github.com/google/skyline_rl_lab #
 
 https://github.com/nvidia/tensorflow # An Open Source Machine Learning Framework for Everyone
 https://github.com/nvidia/atex # A TensorFlow Extension: GPU performance tools for TensorFlow.
@@ -59,3 +157,62 @@ https://github.com/nvidia/transformerengine # A library for accelerating trainin
 https://github.com/nvidia/jax-toolbox # JAX-Toolbox
 https://github.com/nvidia/dali # A GPU-accelerated library for deep learning training and inference applications.
 https://github.com/nvidia/warp # A Python framework for high performance GPU simulation and graphics
+
+https://github.com/keras-team/keras # Deep Learning for humans
+https://github.com/keras-team/autokeras # AutoML library for deep learning
+https://github.com/keras-team/keras-tuner # A Hyperparameter Tuning Library for Keras
+https://github.com/keras-team/keras-io # Keras documentation, hosted live at keras.io
+https://github.com/keras-team/keras-core # A multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch.
+https://github.com/keras-team/keras-cv # Industry-strength Computer Vision workflows with Keras
+https://github.com/keras-team/keras-hub # Pretrained model hub for Keras 3
+https://github.com/keras-team/keras-docs-ko # Korean translation of the Keras documentation.
+https://github.com/keras-team/keras-docs-ja # Japanese translation of the Keras documentation.
+https://github.com/keras-team/tf-keras # The TensorFlow-specific implementation of the Keras API, which was the default Keras from 2019 to 2023.
+
+https://github.com/tensorflow/tensorflow # An Open Source Machine Learning Framework for Everyone
+
+https://github.com/tensorflow/models # Models and examples built with TensorFlow
+https://github.com/tensorflow/examples # TensorFlow examples
+https://github.com/tensorflow/codelabs #
+https://github.com/tensorflow/dtensor-gcp-examples # Using DTensor on Google Cloud
+
+https://github.com/tensorflow/tfjs # A WebGL accelerated JavaScript library for training and deploying ML models.
+https://github.com/tensorflow/tfjs-models # Pretrained models for TensorFlow.js
+https://github.com/tensorflow/playground # Play with neural networks!
+https://github.com/tensorflow/tensorboard # TensorFlow's Visualization Toolkit
+https://github.com/tensorflow/tfjs-examples # Examples built with TensorFlow.js
+https://github.com/tensorflow/serving # A flexible, high-performance serving system for machine learning models
+https://github.com/tensorflow/docs # TensorFlow documentation
+https://github.com/tensorflow/tpu # Reference models and tools for Cloud TPUs.
+https://github.com/tensorflow/datasets # TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
+https://github.com/tensorflow/probability # Probabilistic reasoning and statistical analysis in TensorFlow
+https://github.com/tensorflow/ranking # Learning to Rank in TensorFlow
+https://github.com/tensorflow/tfx # TFX is an end-to-end platform for deploying production ML pipelines
+https://github.com/tensorflow/tflite-micro # Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets.
+https://github.com/tensorflow/recommenders # TensorFlow Recommenders is a library for building recommender system models using TensorFlow.
+https://github.com/tensorflow/addons # Useful extra functionality for TensorFlow 2.x maintained by SIG-addons
+https://github.com/tensorflow/model-optimization # A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.
+https://github.com/tensorflow/ecosystem # Integration of TensorFlow with other open-source frameworks
+https://github.com/tensorflow/community # Stores documents used by the TensorFlow developer community
+https://github.com/tensorflow/model-analysis # Model analysis tools for TensorFlow
+https://github.com/tensorflow/text # Making text a first-class citizen in TensorFlow.
+https://github.com/tensorflow/benchmarks # A benchmark framework for Tensorflow
+https://github.com/tensorflow/similarity # TensorFlow Similarity is a python package focused on making similarity learning quick and easy.
+https://github.com/tensorflow/transform # Input pipeline framework
+https://github.com/tensorflow/neural-structured-learning # Training neural models with structured signals.
+https://github.com/tensorflow/gan # Tooling for GANs in TensorFlow
+https://github.com/tensorflow/data-validation # Library for exploring and validating machine learning data
+https://github.com/tensorflow/tensorrt # TensorFlow/TensorRT integration
+https://github.com/tensorflow/io # Dataset, streaming, and file system extensions maintained by TensorFlow SIG-IO
+https://github.com/tensorflow/decision-forests # A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
+https://github.com/tensorflow/swift-models # Models and examples built with Swift for TensorFlow
+https://github.com/tensorflow/flutter-tflite #
+https://github.com/tensorflow/cloud # TensorFlow Cloud provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.
+https://github.com/tensorflow/tflite-support # TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
+https://github.com/tensorflow/profiler # A profiling and performance analysis tool for TensorFlow
+https://github.com/tensorflow/tflite-micro-arduino-examples #
+https://github.com/tensorflow/tfx-addons # TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.
+https://github.com/tensorflow/networking # Enhanced networking support for TensorFlow. Maintained by SIG-networking.
+https://github.com/tensorflow/tfjs-website # WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
+https://github.com/tensorflow/swift-bindings #
+https://github.com/tensorflow/sig-tfjs #

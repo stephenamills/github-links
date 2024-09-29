@@ -1,1 +1,1 @@
-This repository is for links that I collect across GitHub.
+This repository is for links I collect across GitHub.

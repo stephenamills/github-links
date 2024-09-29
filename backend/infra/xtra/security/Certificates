@@ -7,5 +7,11 @@ https://github.com/cloudflare/privacy-gateway-server-go
 
 https://github.com/michaelpporter/ansible-role-certbot-cloudflare # Ansible Role for setting up Wildcard certs with certbot and Cloudflare dns plugin
 
-More
+OpenSSL
+https://github.com/openssl/openssl # TLS/SSL and crypto library
+https://github.com/openssl/openssl-book #
+
+X-More
+https://github.com/defo-project/ech-dev-utils # Scripts, configurations and HOWTOs for playing with Encrypted ClientHello (ECH)
+
 https://www.iana.org/assignments/pkix-parameters

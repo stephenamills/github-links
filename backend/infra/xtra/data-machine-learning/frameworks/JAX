@@ -1,28 +1,6 @@
 https://github.com/googlecloudplatform/ai-on-gke # AI on GKE is a collection of examples, best-practices, and prebuilt solutions to help build, deploy, and scale AI Platforms on Google Kubernetes Engine
 https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstrating how to operationalize Google Research T5X framework on Google Cloud Vertex AI.
 
-https://github.com/google/jax # Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-https://github.com/google/flax # Flax is a neural network library for JAX that is designed for flexibility.
-https://github.com/google/jax-cfd # Computational Fluid Dynamics in JAX
-https://github.com/google/jaxopt # Hardware accelerated, batchable and differentiable optimizers in JAX.
-https://github.com/google/maxtext # A simple, performant and scalable Jax LLM!
-https://github.com/google/brax # Massively parallel rigidbody physics simulation on accelerator hardware.
-https://github.com/google/fedjax # FedJAX is a JAX-based open source library for Federated Learning simulations that emphasizes ease-of-use in research.
-https://github.com/google/trax # Trax — Deep Learning with Clear Code and Speed
-https://github.com/google/jaxonnxruntime # A user-friendly tool chain that enables the seamless execution of ONNX models using JAX as the backend.
-https://github.com/google/commonlooputils # CLU lets you write beautiful training loops in JAX.
-https://github.com/google/orbax # Orbax provides common checkpointing and persistence utilities for JAX users
-https://github.com/google/autobound # AutoBound automatically computes upper and lower bounds on functions.
-https://github.com/google/tree-math # Mathematical operations for JAX pytrees
-https://github.com/google/rax # Rax is a Learning-to-Rank library written in JAX.
-https://github.com/google/codex # Data compression in JAX
-https://github.com/google/jaxite #
-https://github.com/google/paxml # Jax-based machine learning framework for training large scale models. Pax allows for fully configurable parallelization, and has demonstrated industry leading model flop utilization rates.
-https://github.com/google/etils # Collection of eclectic utils for python.
-https://github.com/google/neural-tangents # Fast and Easy Infinite Neural Networks in Python
-https://github.com/google/jaxcam #
-https://github.com/google/jetstream # JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
-
 https://github.com/google-deepmind/dm-haiku # JAX-based neural network library
 https://github.com/google-deepmind/optax # Optax is a gradient processing and optimization library for JAX.
 https://github.com/google-deepmind/graphcast #
@@ -96,6 +74,55 @@ https://github.com/google-deepmind/visual-memory # Code & data for "Towards flex
 https://github.com/google-deepmind/gnn_single_rigids #
 https://github.com/google-deepmind/linac #
 https://github.com/google-deepmind/mammut #
+
+https://github.com/ai-hypercomputer/maxtext # A simple, performant and scalable Jax LLM
+https://github.com/ai-hypercomputer/maxdiffusion #
+https://github.com/ai-hypercomputer/xpk # xpk (Accelerated Processing Kit, pronounced x-p-k,) is a software tool to help Cloud developers to orchestrate training jobs on accelerators such as TPUs and GPUs on GKE.
+
+https://github.com/google/learn-oss-with-google # In this repo, we share code samples from "Learn Kubernetes with Google" video series. This repo may expand with series on other projects in the future!
+
+https://github.com/google/flax # Flax is a neural network library for JAX that is designed for flexibility.
+https://github.com/google/dopamine # Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+https://github.com/google/objax #
+https://github.com/google/paxml # Pax is a Jax-based machine learning framework for training large scale models.
+https://github.com/google/orbax # Orbax provides common checkpointing and persistence utilities for JAX users
+https://github.com/google/grain #
+https://github.com/google/aqt #
+https://github.com/google/autobound # AutoBound automatically computes upper and lower bounds on functions.
+https://github.com/google/rax # Rax is a Learning-to-Rank library written in JAX.
+https://github.com/google/etils # Collection of eclectic utils for python.
+https://github.com/google/jaxonnxruntime # A user-friendly tool chain that enables the seamless execution of ONNX models using JAX as the backend.
+https://github.com/google/bi-tempered-loss # Robust Bi-Tempered Logistic Loss Based on Bregman Divergences. https://arxiv.org/pdf/1906.03361.pdf
+https://github.com/google/tree-math # Mathematical operations for JAX pytrees
+https://github.com/google/jetstream # JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
+https://github.com/google/praxis #
+https://github.com/google/init2winit #
+https://github.com/google/edward2 # A simple probabilistic programming language.
+https://github.com/google/trax # Trax — Deep Learning with Clear Code and Speed
+https://github.com/google/commonlooputils # CLU lets you write beautiful training loops in JAX.
+https://github.com/google/codex # Data compression in JAX
+https://github.com/google/learned_optimization #
+https://github.com/google/jaxite #
+https://github.com/google/saxml #
+https://github.com/google/temporian # Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖
+https://github.com/google/uncertainty-baselines # High-quality implementations of standard and SOTA methods on a variety of tasks.
+https://github.com/google/flaxformer #
+https://github.com/google/cloud-accelerator-diagnostics #
+https://github.com/google/balloon-learning-environment # The Balloon Learning Environment - flying stratospheric balloons with deep reinforcement learning.
+https://github.com/google/airio #
+https://github.com/google/bayesnf # Bayesian Neural Field models for prediction in large-scale spatiotemporal datasets
+https://github.com/google/gemma.cpp # lightweight, standalone C++ inference engine for Google's Gemma models.
+https://github.com/google/omnimatte-sp #
+https://github.com/google/jaxcam #
+https://github.com/google/jetstream-pytorch # PyTorch/XLA integration with JetStream for LLM inference
+https://github.com/google/lightweight_mmm # LightweightMMM 🦇 is a lightweight Bayesian Marketing Mix Modeling (MMM) library that allows users to easily train MMMs and obtain channel attribution information.
+https://github.com/google/wide_bnn_sampling #
+https://github.com/google/cloud_tpu_goodput #
+https://github.com/google/seqio # Task-based datasets, preprocessing, and evaluation for sequence models.
+
+https://github.com/tensorflow/datasets # TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
+https://github.com/tensorflow/probability # Probabilistic reasoning and statistical analysis in TensorFlow
+https://github.com/tensorflow/mlir-hlo #
 
 https://github.com/nvidia/transformerengine # A library for accelerating training and inference using 8-bit floating point (FP8) precision on Hopper and Ada GPUs
 https://github.com/nvidia/jax-toolbox # JAX-Toolbox

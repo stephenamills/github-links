@@ -1,0 +1,24 @@
+https://github.com/uptrace/uptrace # Open source APM: OpenTelemetry traces, metrics, and logs
+
+https://github.com/uptrace/go-treemux-realworld-example-app #
+https://github.com/uptrace/go-realworld-example-app # Exemplary real world application built with Go, Gin, and go-pg
+
+https://github.com/uptrace/bun # SQL-first Golang ORM
+https://github.com/uptrace/bunrouter # Golang HTTP router
+https://github.com/uptrace/opentelemetry-go-extra # OpenTelemetry instrumentations for Go
+https://github.com/uptrace/go-clickhouse # Golang ClickHouse client
+https://github.com/uptrace/uptrace-go # OpenTelemetry Go distribution for Uptrace
+https://github.com/uptrace/uptrace-python # OpenTelemetry Python distribution for Uptrace
+https://github.com/uptrace/helm-charts # Uptrace Helm Chart for Kubernetes
+https://github.com/uptrace/uptrace-js # OpenTelemetry JavaScript distribution for Uptrace
+https://github.com/uptrace/uptrace-rust # OpenTelemetry Rust distribution for Uptrace
+https://github.com/uptrace/uptrace-php # OpenTelemetry PHP distribution for Uptrace
+https://github.com/uptrace/cloud-changelog # Uptrace Cloud Changelog
+https://github.com/uptrace/terraform-aws-integrations # Terraform AWS CloudWatch integration for Uptrace
+https://github.com/uptrace/uptrace-ruby # OpenTelemetry Ruby distribution for Uptrace
+https://github.com/uptrace/uptrace-dotnet # OpenTelemetry .NET distribution for Uptrace
+https://github.com/uptrace/hyperloglog #
+https://github.com/uptrace/roadmap # Public roadmap for Uptrace.dev
+https://github.com/uptrace/uptrace-java #
+https://github.com/uptrace/cstate #
+https://github.com/uptrace/helm-charts-repository #

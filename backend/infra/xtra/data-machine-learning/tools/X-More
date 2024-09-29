@@ -21,6 +21,126 @@ https://github.com/dair-ai/datasets # AI Datasets
 https://github.com/dair-ai/deep_affective_layer # :smile: Building a deep learning based affective computing platform
 https://github.com/dair-ai/.github #
 
+Fast.ai
+https://github.com/fastai/fastai # The fastai deep learning library
+
+https://github.com/fastai/fastbook # The fastai book, published as Jupyter Notebooks
+https://github.com/fastai/numerical-linear-algebra # Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
+https://github.com/fastai/courses # fast.ai Courses
+https://github.com/fastai/course-v3 # The 3rd edition of course.fast.ai
+https://github.com/fastai/nbdev # Create delightful software with Jupyter Notebooks
+https://github.com/fastai/course-nlp # A Code-First Introduction to NLP course
+https://github.com/fastai/course22 # The fast.ai course notebooks
+https://github.com/fastai/lm-hackers # Hackers' Guide to Language Models
+https://github.com/fastai/fastprogress # Simple and flexible progress bar for Jupyter Notebook and console
+https://github.com/fastai/fastcore # Python supercharged for the fastai library
+https://github.com/fastai/imagenette # A smaller subset of 10 easily classified classes from Imagenet, and a little more French
+https://github.com/fastai/course20 # Deep Learning for Coders, 2020, the website
+https://github.com/fastai/fastai_dev # fast.ai early development experiments
+https://github.com/fastai/diffusion-nbs # Getting started with diffusion
+https://github.com/fastai/ghapi # A delightful and complete interface to GitHub's amazing API
+https://github.com/fastai/course22p2 # course.fast.ai 2022 part 2
+https://github.com/fastai/swiftai # Swift for TensorFlow's high-level API, modeled after fastai
+https://github.com/fastai/course-v4 # Please use fastbook's /clean folder instead of this
+https://github.com/fastai/imagenet-fast #
+https://github.com/fastai/nbdev_template # Template for nbdev projects
+https://github.com/fastai/timmdocs # Documentation for Ross Wightman's timm image model library
+https://github.com/fastai/numerical-linear-algebra-v2 # Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
+https://github.com/fastai/fast_template # A template for really easy blogging with GitHub Pages
+https://github.com/fastai/fastdoc # Create publication-quality books from Jupyter notebooks
+https://github.com/fastai/fastsetup # Setup all the things
+https://github.com/fastai/fastdiffusion # Notes and plans for fastdiffusion course
+https://github.com/fastai/fastai_old # OLD REPO - PLEASE USE fastai/fastai
+https://github.com/fastai/docker-containers # Docker images for fastai
+https://github.com/fastai/book_nbs # Notebooks for upcoming fastai book (draft / incomplete)
+https://github.com/fastai/word-embeddings-workshop # This contains materials for the word embeddings workshop
+https://github.com/fastai/fastec2 # AWS EC2 computer management for regular folks
+https://github.com/fastai/execnb # Execute a jupyter notebook, fast, without needing jupyter
+https://github.com/fastai/fastai1 # v1 of the fastai library. v2 is the current version. v1 is still supported for bug fixes, but will not receive new features.
+https://github.com/fastai/tf-fit # Fit your tensorflow model using fastai and PyTorch
+https://github.com/fastai/fastgpu # A queue service for quickly developing scripts that use all your GPUs efficiently
+https://github.com/fastai/fastsql1 # A bit of extra usability for sqlalchemy v2.
+https://github.com/fastai/nbdev-template #
+https://github.com/fastai/book.fast.ai # Information for readers of the fastai book
+https://github.com/fastai/fastdot # A simple wrapper over `pydot` and `graphviz` which fixes some sharp edges
+https://github.com/fastai/fastkaggle # Kaggling for fast kagglers!
+https://github.com/fastai/nbprocess-old # Process and export Jupyter Notebooks fast (Jupyter not required)
+https://github.com/fastai/randomized-svd # demos for PyBay talk: Using Randomness to make code faster
+https://github.com/fastai/fastai3 # Research repo for code that may or may not end up in fastai3
+https://github.com/fastai/pypi_template # A minimal template for creating a pypi package
+https://github.com/fastai/fastbook2e # The fastai book, 2nd edition (in progress)
+https://github.com/fastai/fastdownload # Easily download, verify, and extract archives
+https://github.com/fastai/course22-web # Website for Practical Deep Learning for Coders 2022
+https://github.com/fastai/dotfiles #
+https://github.com/fastai/nbdev-vscode #
+https://github.com/fastai/fastforest # A forest that is fast
+https://github.com/fastai/bear_voila # Demo bear classifier with fastai and Voila
+https://github.com/fastai/tinykernel # A minimal Python kernel so you can run Python in your Python
+https://github.com/fastai/workflows # Composite Actions workflows for use in fastai projects
+https://github.com/fastai/tinypets # Minimal JS interface to an image classifer
+https://github.com/fastai/wireguard-fast # Simplified installation of WireGuard server for Ubuntu
+https://github.com/fastai/minai # A miniture AI training framework for PyTorch
+https://github.com/fastai/fastai-nbstripout # much faster nbstripout and autotrust notebooks local git configuration
+https://github.com/fastai/fastai-docs # Documentation for fastai
+https://github.com/fastai/pagegraph # Draw, modify, and execute graphs using a simple python dict interface
+https://github.com/fastai/apl-study # fast.ai APL study group notes
+https://github.com/fastai/masks4all # Make your own mask. My mask protects you. Your mask protects me.
+https://github.com/fastai/fastconda # Get packages onto your conda channel faster
+https://github.com/fastai/git-tools # Tools to make git easier to use and to avoid the learning curve
+https://github.com/fastai/fastcgi # A fastcgi handler for Python's `socketserver` classes
+https://github.com/fastai/tweetrel # Use GitHub Actions to send a tweet when you make a new release
+https://github.com/fastai/fastpy # An easy way to start a python programming environment using GitHub Codespaces.
+https://github.com/fastai/fastrelease # DEPRECATED--all functionality moved to nbdev
+https://github.com/fastai/paperspace-setup # Setup a paperspace instance for fastai
+https://github.com/fastai/ethics.fast.ai # The fast.ai data ethics course
+https://github.com/fastai/fastcups #
+https://github.com/fastai/jupytercon-2023 # Materials for "Write, Document, Test and Distribute Python Packages With Jupyter & Quarto", JupyterCon 2023.
+https://github.com/fastai/nbdev-index # nbdev docs lookup for a few libraries and python itself
+https://github.com/fastai/fastlinkcheck # Check local static links and online links fast and in parallel
+https://github.com/fastai/dlcert2 # Web site source for Practical Deep Learning for Coders (2018)
+https://github.com/fastai/str8pix # find the optimal rotation to correct skewed photos
+https://github.com/fastai/cards_deck # A minimal example of nbdev based on Allen Downey's Think Python 2nd Ed
+https://github.com/fastai/docments # Document parameters using comments
+https://github.com/fastai/dlcert1 # Deep learning certificate part 1
+https://github.com/fastai/spacy_conda # conda packages for spacy and deps
+https://github.com/fastai/fastwebhook # A simple GitHub webhook server
+https://github.com/fastai/hugo-mathjax # Hugo with goldmark-mathjax
+https://github.com/fastai/wandbfastai #
+https://github.com/fastai/nbeverything #
+https://github.com/fastai/nbdev_cards # A sample of how to create a deck of cards lib using nbdev
+https://github.com/fastai/nbdev-spaces-demo # A demo of how to create a Hugging Face Space with gradio within a nbdev project.
+https://github.com/fastai/nbdev-jekyll-theme #
+https://github.com/fastai/nbdev-demo #
+https://github.com/fastai/getcaddy # Simple approach to getting the Caddy web server
+https://github.com/fastai/tanishq_blog #
+https://github.com/fastai/docs #
+https://github.com/fastai/ghtop-demo # A CLI tool for showing GitHub events, written with Rich
+https://github.com/fastai/fastdispatch # Wrapper for plum dispatch to make it more compatible with fastcore's typedispatch
+https://github.com/fastai/nbdev-hello-world # Hello world from nbdev
+https://github.com/fastai/getapt # Get tweets for a single user
+https://github.com/fastai/nbdev2-docusaurus # Docusaurus site generation for nbdev
+https://github.com/fastai/logos # Logos for fastai for use in websites, icons, etc.
+https://github.com/fastai/conda-recipes # Recipes for non-fastai projects that fastai provides packages for.
+https://github.com/fastai/nbdev_export_demo # How to export to multiple modules with nbdev
+https://github.com/fastai/jb-nbdev # Exploring how nbdev may integrate with JupyterBook
+https://github.com/fastai/wandb-nbdev # Demo of Weights & Biases documentation using nbdev
+https://github.com/fastai/showdoc # Documentation lookup from nbdev index
+https://github.com/fastai/nbpages #
+https://github.com/fastai/latest # latest.fast.ai server
+https://github.com/fastai/fastsql # Please see answerdotai/fastsql
+https://github.com/fastai/.github # Org level Actions workflows to greet new contributors who open an issue or PR for the first time automatically
+https://github.com/fastai/nbdev1 # nbdev v1 (old version)
+https://github.com/fastai/tk-debug #
+https://github.com/fastai/nb2req #
+https://github.com/fastai/fastai-quarto-debug #
+https://github.com/fastai/doesitwork #
+https://github.com/fastai/nb-thumb # Extract thumbnails from Jupyter notebooks
+https://github.com/fastai/ghapi-test # Testing repo for ghapi
+https://github.com/fastai/quarto-debug #
+https://github.com/fastai/quarto-blog #
+https://github.com/fastai/quarto-nb #
+https://github.com/fastai/docusaurus-html #
+
 Hugging Face
 https://github.com/huggingface/transformers # 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 https://github.com/huggingface/pytorch-image-models # The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more

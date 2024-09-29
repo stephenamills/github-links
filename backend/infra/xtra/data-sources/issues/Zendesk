@@ -1,0 +1,260 @@
+https://github.com/zendesksc/custom-resources-admin # ☮️ An app to display the functionality of Custom Resources in Zendesk.
+https://github.com/zendesksc/custom-resources-viewer # 🎫An app to view Custom Resources in the Zendesk ticket sidebar.
+https://github.com/zendesksc/sales-dashboards # 📊 Display for sales data, shows special screen when a win comes through.
+https://github.com/zendesksc/society-demo # 🏢 An app for the pre-sales/sales society page.
+https://github.com/zendesksc/madison-island # 🏝 A mocked customer 360 app for Madison Island.
+
+https://github.com/zendesk/zcli # A command-line tool for Zendesk
+
+https://github.com/zendesk/zendesk_api_client_rb # Official Ruby Zendesk API Client
+https://github.com/zendesk/zendesk_api_client_php # Official Zendesk API v2 client library for PHP
+https://github.com/zendesk/demo_apps #
+https://github.com/zendesk/zendesk_jwt_sso_examples # Examples using JWT for Zendesk SSO
+https://github.com/zendesk/zopim-chat-web-sdk-sample-app # Zendesk Chat Web SDK sample app developed using React
+https://github.com/zendesk/app_scaffold # A scaffold for developers to build ZAF v2 apps
+https://github.com/zendesk/zendesk_apps_tools #
+https://github.com/zendesk/zendesk_app_framework_sdk # The Zendesk App Framework (ZAF) SDK is a JavaScript library that simplifies cross-frame communication between iframed apps and the Zendesk App Framework
+https://github.com/zendesk/ios_sdk_demo_apps # This repository contains sample iOS code and applications which use our SDKs
+https://github.com/zendesk/zendesk_sdk_chat_ios # Mobile Chat SDK for iOS
+https://github.com/zendesk/statsd-logger # StatsD + Datadog APM logging server for development - standalone or embedded
+https://github.com/zendesk/support_sdk_ios # Zendesk Support SDK for iOS
+https://github.com/zendesk/sunshine-conversations-android # Smooch Android SDK
+https://github.com/zendesk/sunshine-conversations-javascript # Javascript API for Sunshine Conversations
+https://github.com/zendesk/basecrm-ruby # Base CRM API Client
+https://github.com/zendesk/basecrm-php # Base CRM API client, PHP edition
+https://github.com/zendesk/sunshine-conversations-python # Smooch API Library for Python
+https://github.com/zendesk/basecrm-python # BaseCRM API Client for Python
+https://github.com/zendesk/sdk_unity_plugin # This repository contains a unity plugin which wraps the Zendesk support SDKs
+https://github.com/zendesk/chat_sdk_ios # Zendesk Chat SDK
+https://github.com/zendesk/sunshine-conversations-api-quickstart-example # Sample code to get started with the Smooch REST APIs
+https://github.com/zendesk/iron_bank # An opinionated Ruby interface to the Zuora REST API
+https://github.com/zendesk/double_doc # Write documentation with your code, to keep them in sync, ideal for public API docs.
+https://github.com/zendesk/sunshine-conversations-conversation-extension-examples # A series of examples using Smooch conversation extensions
+https://github.com/zendesk/zendesk_apps_support #
+https://github.com/zendesk/api_client # HTTP API Client Builder
+https://github.com/zendesk/private_gem # Keeps your private gems private
+https://github.com/zendesk/sdk_messaging_ios # The Zendesk Messaging SDK
+https://github.com/zendesk/active_record_host_pool # Connect to multiple databases using one ActiveRecord connection
+https://github.com/zendesk/sunshine-conversations-ruby # Smooch API Library for Ruby
+https://github.com/zendesk/rate_my_app_ios # An open source version of the Rate My App feature from 1.x versions of the Support SDK.
+https://github.com/zendesk/scala-flow # A lightweight library intended to make developing Google DataFlow jobs in Scala easier.
+https://github.com/zendesk/punchabunch # Punchabunch: A highly concurrent, easily configurable SSH local-forwarding proxy
+https://github.com/zendesk/input_sanitizer # A gem to sanitize hash of incoming data
+https://github.com/zendesk/sunshine-conversations-wordpress #
+https://github.com/zendesk/sqlitemaster # Android library for getting existing db schema information from sqlite_master table.
+https://github.com/zendesk/samson_secret_puller # kubernetes sidecar and app to publish secrets to a containerized app.
+https://github.com/zendesk/sunshine-conversations-api-spec # Sunshine Conversations OpenAPI Specification for v2+
+https://github.com/zendesk/ticket_sharing # Ticket Sharing
+https://github.com/zendesk/android-lint-rules # Custom Android Lint rules
+https://github.com/zendesk/jekyll-theme-zendesk-garden # Jekyll theme based on Zendesk Garden
+https://github.com/zendesk/action-create-release # Github action to create releases
+https://github.com/zendesk/basecrm-java # BaseCRM API Client for Java
+https://github.com/zendesk/active_record_inherit_assoc # Attribute inheritance for AR associations
+https://github.com/zendesk/zombie_record # A soft-delete library
+https://github.com/zendesk/predictive_load #
+https://github.com/zendesk/sunshine-conversations-cordova # Cordova (PhoneGap) bindings for Smooch
+https://github.com/zendesk/memflash # Transparent Rails.cache backend for FlashHash when the values are too big to fit in a cookie.
+https://github.com/zendesk/sunshine-conversations-shoplifter # Sample partner for testing OAuth flows
+https://github.com/zendesk/messaging_sdk_ios # Zendesk Messaging SDK
+https://github.com/zendesk/sell-zaf-app-scaffold # A React scaffold for developers to build Zendesk App Framework (ZAF) apps for the Zendesk Sell
+https://github.com/zendesk/zendesk_sdk_demo_apps_android # Android demo applications for the Zendesk SDK
+https://github.com/zendesk/charcoal # JSONP and CORS support for Rails >= 2.3
+https://github.com/zendesk/rate_my_app_android # An open source version of the Rate My App feature from 1.x versions of the Support SDK.
+https://github.com/zendesk/raingutter # High frequency polling of Unicorn utilization stats
+https://github.com/zendesk/copenhelp # A mobile website to connect those in need in to services that can help them
+https://github.com/zendesk/snoopercomputer # CI-friendly automated security testing
+https://github.com/zendesk/remoteauthentication # Implementation examples for using Zendesk remote authentication
+https://github.com/zendesk/phenix # Spawn ActiveRecord databases at the beginning of tests and destroying them when done
+https://github.com/zendesk/delta_changes # Additional real/virtual attribute change tracking independent of ActiveRecords
+https://github.com/zendesk/react-vscroll # Virtual Scrolling component for React that handles dynamic rows with unknown heights. eg. dynamic subtrees, Images, Iframes, etc.
+https://github.com/zendesk/intelligent-machines # An educational repo filled with background on machine learning.
+https://github.com/zendesk/app_scaffolds # Scaffold templates for developers to build ZAF v2 apps using ZCLI
+https://github.com/zendesk/passport-zendesk #
+https://github.com/zendesk/sdk_zendesk_ios # About A swift module for enabling customer support in a project.
+https://github.com/zendesk/v2_repl_app # An interactive programming environment for ZAF SDK developers
+https://github.com/zendesk/abbreviato # A tool for truncating HTML strings efficiently
+https://github.com/zendesk/sunshine-conversations-bot-to-agent-handoff #
+https://github.com/zendesk/core_sdk_ios # Zendesk Core SDK for iOS
+https://github.com/zendesk/events-search # Events Search
+https://github.com/zendesk/support_providers_sdk_ios # Zendesk Support Providers SDK
+https://github.com/zendesk/google_r # Ruby GoogleAPI client
+https://github.com/zendesk/bulk-update-articles # Ruby script to bulk update your articles in your Zendesk Guide help center
+https://github.com/zendesk/sunshine-conversations-helpkit-ios # Help Kit extension to Smooch iOS
+https://github.com/zendesk/sunshine-conversations-ios-rich-notifications #
+https://github.com/zendesk/connect_node_sdk #
+https://github.com/zendesk/sell-zaf-app-toolbox # A package for developers that streamlines the building of Zendesk App Framework (ZAF) apps for the Zendesk Sell
+https://github.com/zendesk/zendeskes-training-tickets-creator-app # Zendesk App that creates test tickets for training
+https://github.com/zendesk/persistence # An abstraction library for redis and sentinel connection management
+https://github.com/zendesk/answer_bot_sdk_ios # Answer Bot SDK for iOS
+https://github.com/zendesk/pa_apps # Repo for all SC PA apps
+https://github.com/zendesk/logcast # Rails >= 3.2 Log Broadcaster
+https://github.com/zendesk/custom-sunshine-conversations-ios-ui #
+https://github.com/zendesk/bizhours_js # Business Hours Javascript Support
+https://github.com/zendesk/setup-jsonnet #
+https://github.com/zendesk/babel-plugin-react-displayname # Babel plugin to generate React components' displayName
+https://github.com/zendesk/preload # A better API for ActiveRecord eager loading
+https://github.com/zendesk/chat_providers_sdk_ios # Zendesk Chat Providers SDK
+https://github.com/zendesk/sdk_conversation_kit_ios # The ZendeskSDKConversationKit library for communicating with the Zendesk Sunshine Conversations backend.
+https://github.com/zendesk/docker-amazon-kinesis-agent # Amazon Kinesis Agent Docker image
+https://github.com/zendesk/zendesk_sdk_demo_apps_ios # iOS demo applications for the Zendesk SDK
+https://github.com/zendesk/messagingapi_sdk_ios # Zendesk MessagingAPI SDK
+https://github.com/zendesk/zopim-js_env_report # Simple tool to let people quickly see if their JavaScript environment (including all the libraries they may be using) is safe and standard compliant.
+https://github.com/zendesk/redux-api-status #
+https://github.com/zendesk/arsi # ActiveRecord SQL Inspector
+https://github.com/zendesk/connect_python_sdk #
+https://github.com/zendesk/connect_php_sdk #
+https://github.com/zendesk/commonui_sdk_ios # Zendesk CommonUI SDK
+https://github.com/zendesk/sdkconfigurations_sdk_ios # Zendesk SDKConfigurations SDK
+https://github.com/zendesk/post_message_filter # Utility to sanitise Javascript objects before passing them to postMessage
+https://github.com/zendesk/youtube_integration #
+https://github.com/zendesk/connect-android-sdk #
+https://github.com/zendesk/zendesk_observability_playground # Playground for application observability. Give it a go!
+https://github.com/zendesk/notely_app # App to record notes of various types against a user
+https://github.com/zendesk/sunshine-conversations-postman-collection-public # A public repository for the Smooch Postman Collection
+https://github.com/zendesk/build_a_zendesk_app_workshop # Workshop learning material for "How to build a Zendesk Support App"
+https://github.com/zendesk/cloudflare_client # ruby api client for cloudflare
+https://github.com/zendesk/zendesk_api_cookbooks #
+https://github.com/zendesk/tnef # a ruby wrapper around the tnef library
+https://github.com/zendesk/connect-ios-sdk #
+https://github.com/zendesk/react-measure-timing-hooks # A set of hooks designed to help you measure TTI and arbitrary timing of your components
+https://github.com/zendesk/sunshine-conversations-java # Smooch API Library for Java
+https://github.com/zendesk/zendesk-sell-for-zapier # Zendesk Sell Application written for Zapier Platform
+https://github.com/zendesk/rollbar-log4j # A Rollbar log4j and log4j2 appender
+https://github.com/zendesk/any_channel_json_schemas # JSON Schema files and supporting libraries for the AnyChannel Framework
+https://github.com/zendesk/grunt-digest # grunt plugin. create digested copies of assets and add mapping to a manifest
+https://github.com/zendesk/sunshine-conversations-pipeline_triage_intercom-demo # Demo project to dispatch user messages between Zendesk and Intercom
+https://github.com/zendesk/activation_events_demo_zaf_app #
+https://github.com/zendesk/custom-pages-react-boilerplate # A react boilerplate based off of Create React App to build single page applications for Zendesk Guide's new custom page's feature
+https://github.com/zendesk/zopim-ipcluster-example # A WebSockets application to demonstrate IPCluster usage
+https://github.com/zendesk/zopim-bandit # bandit wrapper scripts
+https://github.com/zendesk/sample_wordpress_anychannel_integration # Example AnyChannel integration using Node Express
+https://github.com/zendesk/scalastyle_config # The Scalastyle configuration we use for our in-house Scala projects
+https://github.com/zendesk/sunco-pipeline-bot-poc #
+https://github.com/zendesk/resque-durable # Audited Resque jobs with automatic failure recovery.
+https://github.com/zendesk/sdk_ui_components_ios # UI Components
+https://github.com/zendesk/sunshine_plays_tetris # Hackathon project for playing Tetris via Sunshine Conversations inspired by Twitch Plays
+https://github.com/zendesk/resque-disable-job # Resque Disable Job Plugin
+https://github.com/zendesk/action-vendir # A GitHub action to execute vendir
+https://github.com/zendesk/multiproc_log_device # Safely log from multiple Ruby processes to a shared output stream
+https://github.com/zendesk/radar_message # build and validate radar message objects
+https://github.com/zendesk/custom-pages-example # An example project showcasing the capabilities of the new custom pages feature in Zendesk Guide
+https://github.com/zendesk/sunshine-conversations-alexa #
+https://github.com/zendesk/node-http-attach # npm module - write services that attach to existing httpServer instances
+https://github.com/zendesk/proto-field-extractors-go #
+https://github.com/zendesk/radar-docker-example # Example of how to run radar as a docker container.
+https://github.com/zendesk/redux-entities #
+https://github.com/zendesk/custom-sunshine-conversations-android-ui #
+https://github.com/zendesk/salesforce-soap-api-poc #
+https://github.com/zendesk/sunshine-conversations-business-initiated-conversations-for-web # Business Initiated Conversations on Web
+https://github.com/zendesk/turtle # Headless browser testing client code against node.js applications
+https://github.com/zendesk/sunshine-conversations-channel-transfer-examples #
+https://github.com/zendesk/zopim-datanode-tools # Tools to help with DataNode administration
+https://github.com/zendesk/facebook-auth-for-sunshine-conversations-poc # Example of using Facebook SDKs to get page access tokens for smooch integration
+https://github.com/zendesk/zd-cbc-mm # Zendesk CloudBeesCore Managed Masters
+https://github.com/zendesk/zendeskes-suspendedusers # This fetches and builds a list of the ID, Name, & Email for all suspended users in a Zendesk account that can be downloaded as a CSV - currently it doesn't scale to tens of thousands of users in an account.
+https://github.com/zendesk/platform # A Zendesk repo to share apps built by the platform SC team
+https://github.com/zendesk/mobile_sdk_images # Repository for hosting images
+https://github.com/zendesk/api_live_tests #
+https://github.com/zendesk/sdk_core_utilities_ios # Core Utilities module for the Messaging iOS SDK
+https://github.com/zendesk/sunshine-conversations-docker-node # Alpine based Docker image running NodeJS
+https://github.com/zendesk/specs # Podspecs for all Zendesk artefacts
+https://github.com/zendesk/sunshine-conversations-webview-date-picker # A simple date picker example of a client/server implementation of Smooch webviews
+https://github.com/zendesk/multibrand-profiles # Multibrand Profiles
+https://github.com/zendesk/talk_partner_sample_app # A reference implementation to help app developers to use Talk Partner Edition APIs
+https://github.com/zendesk/10m-docker-images # A tree of docker images focusing on solving issues for big scale startup and enterprise deployments.
+https://github.com/zendesk/scalacodingexercise # An empty Scala project for quick-start coding experiments
+https://github.com/zendesk/sunshine-conversations-zat-proactive-wa-poc # Zendesk Support App for proactive messaging on WhatsApp
+https://github.com/zendesk/zendeskes-heyapp # Uses notifications endpoint to send messages to Zendesk agents that an urgent ticket was made.
+https://github.com/zendesk/sunshine-okta #
+https://github.com/zendesk/radar_client_rb # ruby client for radar
+https://github.com/zendesk/csv_scrubber # Csv scrubber
+https://github.com/zendesk/zendeskes-zandex # An attempt to easily show functionality demonstration as well as aid during troubleshooting.
+https://github.com/zendesk/sunshine-conversations-websdk-auth-demo # User authentication on Web Messenger
+https://github.com/zendesk/link-dane # A mobile website to connect those in need in to services that can help them
+https://github.com/zendesk/okta-identity-governance-demo # Demo for automating access via Okta
+https://github.com/zendesk/connect_ruby_sdk #
+https://github.com/zendesk/volunteer_browser_tests #
+https://github.com/zendesk/mobile_sdk_chat_images # Mobile Chat SDK documentation images
+https://github.com/zendesk/sunshine-conversations-google-actions #
+https://github.com/zendesk/sunshine-conversations-proactive-code-sample # A sample project to show the implementation of the proactive messaging using the Smooch platform
+https://github.com/zendesk/zendeskes-zen-node # Useful scripts and utilities for Zendesk built on top of node.js
+https://github.com/zendesk/jdd-base #
+https://github.com/zendesk/sunshine-conversations-byoc # Sample repo of how many more channels can be integrated with Smooch
+https://github.com/zendesk/visual_regression_client # Front-end client for visual regression testing service
+https://github.com/zendesk/zendeskes-zendesk-app-handbook #
+https://github.com/zendesk/zopim-datanode-cli # CLI tools for DataNode.
+https://github.com/zendesk/sunshine-conversations-zat-proactive-sms-poc # Zendesk Support App for proactive messaging by SMS
+https://github.com/zendesk/zendeskes-whm_integration # Integration with WHM to allow control of cPanel accounts and check Server Status
+https://github.com/zendesk/rosetta_webhook_test #
+https://github.com/zendesk/linksf_migration_tool # A small migration tool for linksf administrators to migrate off of Parse
+https://github.com/zendesk/elasticsearch-prefixtermsuggester-plugin #
+https://github.com/zendesk/check-risk-label # A custom Github Action for use on pull requests, checking that they are labelled with a risk label
+https://github.com/zendesk/answer_bot_providers_sdk_ios # Zendesk Answer Bot Providers SDK
+https://github.com/zendesk/gcm-client # Fork from https://bitbucket.org/sardarnl/gcm-client
+https://github.com/zendesk/graphite_localized_install # Deploying Graphite into its own localized directory with Capistrano.
+https://github.com/zendesk/zat-deploy # ZAT Deploy - Github Action
+https://github.com/zendesk/sunshine-conversations-core-js-bower #
+https://github.com/zendesk/voice_tester_app #
+https://github.com/zendesk/sunshine-conversations-pipeline-analyzer-processor-demo #
+https://github.com/zendesk/zendeskes-chats-app #
+https://github.com/zendesk/zendesk_app_scaffold_tools # ZAST
+https://github.com/zendesk/zendeskes-legacy-archive # A place to put some archived scripts.
+https://github.com/zendesk/sunshine-conversations-bot-redis # Redis state lock for smooch/smooch-bot
+https://github.com/zendesk/zendeskes-dawanda_app # Zendesk integration with Dawanda store. Loads order info.
+https://github.com/zendesk/zendeskes-quick-lang-change-app # App that allows you to easily switch languages of your account without having to visit your profile.
+https://github.com/zendesk/zendesk_api_playground # Zendesk API Web Playground -- DEPRECATED
+https://github.com/zendesk/jenkins-action #
+https://github.com/zendesk/client_request_cors_demo_zaf_app #
+https://github.com/zendesk/link-changed-markdown # A github action to provide links to rendered copies, when markdown changes
+https://github.com/zendesk/zendesk_api_client_rb_repl # A REPL to play around with the gem zendesk_api
+https://github.com/zendesk/sdk_logger_ios # A swift module for handling logging in a project.
+https://github.com/zendesk/zendeskes-sample-customizations # Samples of various customization scripts to be used throughout Zendesk (UNSUPPORTED)
+https://github.com/zendesk/zendeskes-facebook-identifier # Facebook Script that helps identify which page does the ticket come from.
+https://github.com/zendesk/volunteer-portal-elm #
+https://github.com/zendesk/zendesk-scala-template.g8 # Experiment / WIP
+https://github.com/zendesk/sunshine-conversations-login-to-web-via-chat-example #
+https://github.com/zendesk/apps_scaffold_basic # A basic and bare minimum scaffold for developers to build ZAF v2 apps
+https://github.com/zendesk/zendesk_developer_platform_samples # Welcome to the official Zendesk Developer Platform sample app repository! Here, you'll find a collection of sample applications and examples developed on our platform, showcasing the incredible potential
+and versatility of Zendesk. https://github.com/zendesk/sunshine-conversations-zendesk-connect # Proof of Concept to translate Connect webhooks into Notify API messages
+https://github.com/zendesk/async-profiler #
+https://github.com/zendesk/jenkins-jobs-sauce-ondemand # Modern SauceLabs plugin for Jenkins Job builder
+https://github.com/zendesk/zopim-babel-localization # A fork of the Babel i18n library for Python, customized to support Zopim's requirements. Licensed under the BSD.
+https://github.com/zendesk/zendeskcustomapptest #
+https://github.com/zendesk/demo_app_modal_instances_locations_pagination #
+https://github.com/zendesk/setup-check-codeowners # A script to check .github/CODEOWNERS, and a GitHub Action to install it
+https://github.com/zendesk/app-notification-send-receive #
+https://github.com/zendesk/zat-docker # ZAT - Docker
+https://github.com/zendesk/test-me-secret # A test repo for secret scanning
+https://github.com/zendesk/sdk_http_client_ios # HTTP Client
+https://github.com/zendesk/sdk_guide_kit_ios # The ZendeskSDKGuideKit is an SDK that provides a native experience for viewing Guide articles without leaving the customer’s app.
+https://github.com/zendesk/sell-android-viewpagerindicator # Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.
+https://github.com/zendesk/sdk_storage_ios # Storage Client
+https://github.com/zendesk/setup-cue #
+https://github.com/zendesk/notifying-an-agent-demo-zaf-app #
+https://github.com/zendesk/dhall-spinnaker # Dhall bindings to the Spinnaker Pipeline API
+https://github.com/zendesk/hide_ticket_field_demo_zaf_app #
+https://github.com/zendesk/demo_ticket_submission_and_save_events #
+https://github.com/zendesk/demo_app_send_jwttoken_in_client_request #
+https://github.com/zendesk/rules_github #
+https://github.com/zendesk/gw # Self-hosted Github Workflows
+https://github.com/zendesk/sell-custom-objects-invoices-app #
+https://github.com/zendesk/metadata_call_demo_zaf_app #
+https://github.com/zendesk/demo-snippets # Sample snippets for Zendesk Guide and other Zendesk products.
+https://github.com/zendesk/zendeskes-handle-time-redux #
+https://github.com/zendesk/react-tutorial-oct-2022 #
+https://github.com/zendesk/talk_sdk_ios #
+https://github.com/zendesk/sdk_socket_client_ios # A module for handling socket communication in an iOS project.
+https://github.com/zendesk/sdk_faye_client_ios # Zendesk Faye Client
+https://github.com/zendesk/help-center-wysiwyg # Wysiwyg editor used in Zendesk Help Center
+https://github.com/zendesk/kube_pid_scaler # Scale Kubernetes deployments using a PID Controller
+https://github.com/zendesk/transfer-demo #
+https://github.com/zendesk/demo_secure_settings #
+https://github.com/zendesk/change_requester_demo_zaf_app #
+https://github.com/zendesk/machine-diagnostic-tool # Repository for diagnostic tools.
+https://github.com/zendesk/marcie-tickets-assignment # Marcie Ticketing system. List all tickets, Get ticket details, Add comment to the ticket
+https://github.com/zendesk/k8s-role-change-guidance # A github action to provide guidance on how safely to handle k8s role additions / removals
+https://github.com/zendesk/zopim-flare # Zopim App for the CloudFlare Network
+https://github.com/zendesk/clamp-completer # Automatically generate shell autocompletion scripts for clamp based ruby CLI tools
+https://github.com/zendesk/btimm-go-test #
+https://github.com/zendesk/test-page-features # Test-Page-Features
+https://github.com/zendesk/index-content-in-guide-action # Indexes local HTML files in Zendesk Guide's search index.

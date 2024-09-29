@@ -1,0 +1,31 @@
+Command
+https://github.com/cohere-ai/cohere-toolkit # Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
+https://github.com/cohere-ai/sandbox-conversant-lib # Conversational AI tooling & personas built on Cohere's LLMs
+https://github.com/cohere-ai/cohere-python # Python Library for Accessing the Cohere API
+https://github.com/cohere-ai/notebooks # Code examples and jupyter notebooks for the Cohere Platform
+https://github.com/cohere-ai/cohere-typescript # The Cohere TypeScript SDK
+https://github.com/cohere-ai/quick-start-connectors # This open-source repository offers reference code for integrating workplace datastores with Cohere's LLMs, enabling developers and businesses to perform seamless retrieval-augmented generation (RAG) on their own data.
+https://github.com/cohere-ai/diskvectorindex #
+https://github.com/cohere-ai/sandbox-toy-semantic-search # A demonstration of how a toy (but usable!) semantic search engine can be quickly built using Cohere's platform.
+https://github.com/cohere-ai/sandbox-multilingual # A demonstration of a multilingual semantic search engine you can be quickly built using Cohere's platform.
+https://github.com/cohere-ai/cohere-aws #
+https://github.com/cohere-ai/co # Cohere command line tool
+https://github.com/cohere-ai/magikarp #
+https://github.com/cohere-ai/sandbox-grounded-qa # A sandbox repo for grounded question answering with Cohere and Google Search
+https://github.com/cohere-ai/cohere-go # Go Library for Accessing the Cohere API
+https://github.com/cohere-ai/sandbox-condense # Webpage Summarizer
+https://github.com/cohere-ai/human-feedback-paper # Code and data from the paper 'Human Feedback is not Gold Standard'
+https://github.com/cohere-ai/meeting-notes-summaries #
+https://github.com/cohere-ai/cohere-compass-sdk # Provides an SDK for interacting with Compass, and Compass Parsing
+
+Embed
+https://github.com/cohere-ai/notebooks # Code examples and jupyter notebooks for the Cohere Platform
+https://github.com/cohere-ai/binaryvectordb # Efficient vector database for hundred millions of embeddings.
+https://github.com/cohere-ai/diskvectorindex #
+https://github.com/cohere-ai/sandbox-toy-semantic-search # A demonstration of how a toy (but usable!) semantic search engine can be quickly built using Cohere's platform.
+https://github.com/cohere-ai/magikarp #
+https://github.com/cohere-ai/sandbox-multilingual # A demonstration of a multilingual semantic search engine you can be quickly built using Cohere's platform.
+https://github.com/cohere-ai/sandbox-topically # Topic modeling helpers using managed language models from Cohere. Name text clusters using large GPT models.
+
+Rerank
+https://github.com/cohere-ai/notebooks # Code examples and jupyter notebooks for the Cohere Platform

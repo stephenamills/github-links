@@ -1,0 +1,26 @@
+https://github.com/autometrics-dev/gettingstarted-am-go #
+https://github.com/autometrics-dev/gettingstarted-am-rs # Getting started with Autometrics and the Rust Axum web framework
+https://github.com/autometrics-dev/gettingstarted-am-py # Getting started with Autometrics and the Python FastAPI web framework
+https://github.com/autometrics-dev/gettingstarted-am-ts # Sample app to get started with Autometrics in a backend TypeScript project
+https://github.com/autometrics-dev/autometrics-demo-python-fastapi-animals # Example of a fastapi project that uses autometrics
+https://github.com/autometrics-dev/autometrics-demo-embeddings # Demo service with autometrics-py and autometrics-ts that generates embeddings from some input text
+
+https://github.com/autometrics-dev/autometrics-rs # Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
+https://github.com/autometrics-dev/autometrics-py # Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
+https://github.com/autometrics-dev/autometrics-ts # Easily add metrics to your system – and actually understand them using automatically customized Prometheus queries
+https://github.com/autometrics-dev/autometrics-go # Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
+https://github.com/autometrics-dev/autometrics-cs # A C# Implementation of Autometrics
+https://github.com/autometrics-dev/am # Autometrics Companion CLI app
+https://github.com/autometrics-dev/diff-metrics # A github action that comments on PR to describe impact on metrics
+https://github.com/autometrics-dev/vscode-autometrics # A vscode extension to extract information from your autometrics enabled code.
+https://github.com/autometrics-dev/autometrics-shared # Resources used by all of the autometrics implementations
+https://github.com/autometrics-dev/autometrics-rb #
+https://github.com/autometrics-dev/instrument-pipeline # Export job execution metrics to a Prometheus aggregation gateway
+https://github.com/autometrics-dev/quickmetrics # a docker compose setup with prometheus, alertmanager, grafana, an aggregation gateway
+https://github.com/autometrics-dev/docs # Documentation site for autometrics
+https://github.com/autometrics-dev/animalbuttons.biz # Example of adding Objectives and Alerts to Supabase Edge Functions with Autometrics
+https://github.com/autometrics-dev/render-prometheus # Cooking ground for Prometheus render blueprint
+https://github.com/autometrics-dev/homebrew-tap # Homebrew formula for installing am
+https://github.com/autometrics-dev/slack-app # A slack-app to translate SLO alerts into graphs in a slack channel
+https://github.com/autometrics-dev/render-otelcol # A Render blueprint to setup OTel Collector and a Prometheus instance to visualize collected data
+https://github.com/autometrics-dev/.github #
