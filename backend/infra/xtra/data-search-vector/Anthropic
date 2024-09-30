@@ -1,0 +1,4 @@
+Embedding
+https://github.com/anthropics/anthropic-cookbook # A collection of notebooks/recipes
+showcasing some fun and effective ways of using Claude.
+https://github.com/anthropics/anthropic-retrieval-demo # Lightweight demo using the Anthropic Python SDK to experiment with Claude's Search and Retrieval capabilities over a variety of knowledge bases (Elasticsearch, vector databases, web search, and Wikipedia).

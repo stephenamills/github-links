@@ -1,0 +1,43 @@
+https://gitlab.com/antora/antora # A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web. Ideally suited for users of Asciidoctor.
+
+https://gitlab.com/antora/demo/docs-site # Example playbook and content repositories.
+https://gitlab.com/antora/demo/demo-component-a # Example of a documentation component.
+https://gitlab.com/antora/demo/demo-component-b # Example of a documentation component.
+
+https://gitlab.com/antora/antora-ui-default # Produces a UI for documentation sites created using Antora.
+https://gitlab.com/antora/antora-lunr-extension # Add an in-browser search powered by Lunr to an Antora site.
+https://gitlab.com/antora/antora-assembler # An Antora add-on library and extension that assembles content from multiple pages into aggregate documents, converts them to the specified output format, and publishes them
+https://gitlab.com/antora/docs.antora.org # The playbook project that produces the documentation site for the Antora project.
+
+https://github.com/antora-for-modular-docs/antora-for-modular-docs # Guidelines and repository template to start an Antora project compatible with the Modular Documentation Initiative Guidelines
+
+https://github.com/asciidoctor/asciidoctor # :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
+
+https://github.com/asciidoctor/asciidoctor-pdf # :page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
+https://github.com/asciidoctor/asciidoctor-diagram # Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom.
+https://github.com/asciidoctor/asciidoctor-intellij-plugin # AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
+https://github.com/asciidoctor/asciidoctor-vscode # AsciiDoc support for Visual Studio Code using Asciidoctor
+https://github.com/asciidoctor/docker-asciidoctor # A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
+https://github.com/asciidoctor/asciidoctor-reveal.js # A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
+https://github.com/asciidoctor/asciidoctor-browser-extension # :white_circle: An extension for web browsers that converts AsciiDoc files to HTML using Asciidoctor.js.
+https://github.com/asciidoctor/asciidoctor-epub3 # :blue_book: Asciidoctor EPUB3 is a set of Asciidoctor extensions for converting AsciiDoc to EPUB3
+https://github.com/asciidoctor/kramdown-asciidoc # A kramdown extension for converting Markdown documents to AsciiDoc.
+https://github.com/asciidoctor/asciidoctor-kroki # Asciidoctor.js extension to convert diagrams to images using Kroki!
+https://github.com/asciidoctor/asciidoctor-extensions-lab # A lab for testing and demonstrating Asciidoctor extensions.
+https://github.com/asciidoctor/asciidoctor-confluence # Push Asciidoctor file to Confluence
+https://github.com/asciidoctor/asciidoctor-backends # Backends (i.e., templates) for Asciidoctor, a Ruby port of AsciiDoc.
+https://github.com/asciidoctor/docgist # Render AsciiDoc documents from Gists, GitHub, DropBox and other remote sources in the browser.
+https://github.com/asciidoctor/asciidoctor-bespoke # :b: An Asciidoctor converter that generates the HTML component of a Bespoke.js presentation from AsciiDoc.
+https://github.com/asciidoctor/asciidoctorj-screenshot # A set of AsciidoctorJ extensions for adding automated screenshots to an AsciiDoc document.
+https://github.com/asciidoctor/asciidoctor-reducer # :alembic: A tool to generate a single AsciiDoc document by expanding all the include directives reachable from the parent document.
+https://github.com/asciidoctor/asciidoctor-chart # A set of Asciidoctor extensions that add a chart block and block macro to AsciiDoc for including charts in your AsciiDoc document.
+https://github.com/asciidoctor/docbookrx # (An early version of) a DocBook to AsciiDoc converter written in Ruby.
+https://github.com/asciidoctor/gitbucket-asciidoctor-plugin # A GitBucket plug-in that provided AsciiDoc rendering capabilities
+https://github.com/asciidoctor/asciidoctor-leanpub-converter # A backend for AsciidoctorJ to generate Leanpub-flavoured Markdown
+https://github.com/asciidoctor/asciidoctor-cli.js # The Command Line Interface (CLI) for Asciidoctor.js
+https://github.com/asciidoctor/docs.asciidoctor.org # The Antora playbook project (i.e., site manifest) for the Asciidoctor documentation site.
+https://github.com/asciidoctor/asciidoctor-docs-ui # The project that produces the UI (theme & user interactions) for docs.asciidoctor.org.
+https://github.com/asciidoctor/guard-asciidoc # Guard::AsciiDoc monitors and automatically renders your AsciiDoc documents using Asciidoctor
+https://github.com/asciidoctor/asciidoctor-mallard # A Mallard 1.0 converter for Asciidoctor
+https://github.com/asciidoctor/brand # Brand assets and visual identity for the Asciidoctor project
+https://github.com/asciidoctor/.github # Default files for all repositories in the Asciidoctor organization on GitHub

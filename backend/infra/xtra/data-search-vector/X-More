@@ -136,6 +136,29 @@ https://github.com/devflowinc/trieve-ts-fetch-client # Typescript-fetch client f
 https://github.com/devflowinc/podfoods-discovery # An exploratory demo showcasing the Trieve search APIs on the Pod Foods catalog.
 https://github.com/devflowinc/install-embeddings #
 
+UnstructuredIO
+https://github.com/unstructured-io/unstructured # Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+
+https://github.com/unstructured-io/unstructured-api #
+https://github.com/unstructured-io/unstructured-inference #
+https://github.com/unstructured-io/unstructured-python-client # A Python client for the Unstructured hosted API
+https://github.com/unstructured-io/unstructured-js-client # A Typescript client for the Unstructured hosted API
+https://github.com/unstructured-io/pipeline-paddleocr # Pipeline for converting PDFs to raw text with PaddleOCR
+https://github.com/unstructured-io/irs-manual-demo #
+https://github.com/unstructured-io/pipeline-template #
+https://github.com/unstructured-io/pipeline-oer # Pipeline for extraction information from Army OERs
+https://github.com/unstructured-io/unstructured-ingest #
+https://github.com/unstructured-io/pipeline-invoices #
+https://github.com/unstructured-io/unstructured-platform-plugins #
+https://github.com/unstructured-io/docs # Documentation for all Unstructured products and libraries
+https://github.com/unstructured-io/base-images # Store Dockerfiles and Packer configs for images to use as a base to build upon
+https://github.com/unstructured-io/pipeline-receipts # Preprocessing pipeline notebooks and API supporting text extraction from receipts images
+https://github.com/unstructured-io/pipeline-document-layout # Pipeline for layout extraction
+https://github.com/unstructured-io/model-cards # FedRAMP formatted model cards
+https://github.com/unstructured-io/js-client-batch # JS Client Batch Processing
+https://github.com/unstructured-io/pairing-technical-challenge # Pairing Technical Challenge
+https://github.com/unstructured-io/.github #
+
 Vectara
 https://github.com/vectara/hallucination-leaderboard # Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
 https://github.com/vectara/vectara-answer # LLM-powered Conversational AI experience using Vectara
@@ -165,3 +188,6 @@ https://github.com/vectara/hotel-reviews-demo # Example code to search hotel rev
 https://github.com/vectara/vectara-index-git-docs # Index contents from a GitHub repository to Vectara
 https://github.com/vectara/vanilla-js-search #
 https://github.com/vectara/test-app #
+
+Voyage
+https://github.com/voyage-ai/embedding_bench #

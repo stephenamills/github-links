@@ -1,0 +1,132 @@
+https://github.com/azure-samples/azure-search-dotnet-samples # Azure Search .NET sample code
+https://github.com/azure-samples/azure-search-knowledge-mining # Azure Search Knowledge Mining Accelerator
+https://github.com/azure-samples/azure-search-openai-demo # A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experie
+nces. https://github.com/azure-samples/azure-search-python-samples # Azure Search Python sample code
+https://github.com/azure-samples/chat-with-your-data-solution-accelerator # A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
+es. This includes most common requirements and best practices. https://github.com/azure-samples/azure-search-javascript-samples # Azure Search Javascript sample code
+https://github.com/azure-samples/azure-search-openai-demo-csharp # A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style an
+d Q&A experiences. https://github.com/azure-samples/search-dotnet-getting-started # Getting Started with Azure Search using .NET
+https://github.com/azure-samples/contoso-chat # This sample has the full End2End process of creating RAG application with Prompty and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub act
+ions for evaluation and deployment and intent mapping for multiple LLM task mapping. https://github.com/azure-samples/azure-search-openai-demo-java # This repo is the Java version of Microsoft's sample app for ChatGPT + Enterprise data.
+https://github.com/azure-samples/azure-search-power-skills # A collection of useful functions to be deployed as custom skills for Azure Cognitive Search
+https://github.com/azure-samples/azure-openai-rag-workshop # Create your own ChatGPT with Retrieval-Augmented-Generation workshop
+https://github.com/azure-samples/azure-search-comparison-tool # A demo app showcasing Vector Search using Azure AI Search, Azure OpenAI for text embeddings, and Azure AI Vision for image embeddings.
+https://github.com/azure-samples/azure-search-rest-samples #
+https://github.com/azure-samples/contoso-creative-writer # A creative writing multi-agent solution to help users write articles.
+https://github.com/azure-samples/azure-search-openai-javascript # A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) t
+o power ChatGPT-style and Q&A experiences. https://github.com/azure-samples/azure-search-sample-data # Sample data shared across several Azure Search sample code projects.
+https://github.com/azure-samples/miyagi # Sample to envision intelligent apps with Microsoft's Copilot stack for AI-infused product experiences.
+https://github.com/azure-samples/azure-search-dotnet-utilities # C# code samples that help with admin or development tasks in Azure Cognitive Search.
+https://github.com/azure-samples/azure-search-dotnet-scale # To gain access, please finish setting up this repository now at: https://repos.opensource.microsoft.com/Azure-Samples/wizard?existingreponame=azure-search-dotnet-scale&existingrepoid=6716864
+16 https://github.com/azure-samples/azureai-samples # Official community-driven Azure AI Examples
+https://github.com/azure-samples/aistudio-python-langchain-sample # Quickstart sample for using the Azure AI Studio with the SDK or CLI options - and the LangChain framework.
+https://github.com/azure-samples/azure-search-java-samples # Azure Search Java sample code
+https://github.com/azure-samples/serverless-chat-langchainjs # Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure
+https://github.com/azure-samples/azure-search-powershell-samples # Azure Search Powershell sample code
+https://github.com/azure-samples/openai-chat-app-quickstart # A simple chat application that uses managed identity for Azure OpenAI access. Designed for deployment on Azure Container Apps with the Azure Developer CLI.
+https://github.com/azure-samples/azure-search-static-web-app # Code sample demonstrates how to create an Azure Static Web app for searching on Azure AI Search.
+https://github.com/azure-samples/langchainjs-quickstart-demo # Build a generative AI application using LangChain.js, from local to Azure
+https://github.com/azure-samples/azure-functions-openai-demo # An end to end demo that demonstrates how to use the Azure Functions OpenAI triggers and bindings
+https://github.com/azure-samples/azd-aistudio-starter # Creates an Azure AI Studio hub, project and required dependent resources including Azure Open AI Service, Cognitive Search and more.
+https://github.com/azure-samples/azure-vector-database-samples # A collection of samples to demonstrate vector search capabilities using different Azure tools like Azure AI Search, PostgreSQL, Redis etc.
+https://github.com/azure-samples/contoso-chat-csharp-prompty #
+https://github.com/azure-samples/azure-openai-chat-frontend # The Chat App Protocol compliant user-interface building block, for your chat-gpt like RAG pattern applications built with Azure OpenAI and Azure AI Search.
+https://github.com/azure-samples/rag-with-azure-ai-search-notebooks # Jupyter notebooks that demonstrate vector search, hybrid search, image search, RAG, and evaluation, all with Azure AI Search.
+https://github.com/azure-samples/aistudio-python-promptflow-sample # Quickstart sample for using the Azure AI Studio with the SDK or CLI options - and the PromptFlow framework.
+https://github.com/azure-samples/azure-openai-rag-workshop-java # Create your own ChatGPT with Retrieval-Augmented-Generation workshop
+https://github.com/azure-samples/rag-data-openai-python-promptflow # A copilot sample that uses python to ground the copilot responses in company data.
+https://github.com/azure-samples/rag-postgres-openai-python # A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server.
+https://github.com/azure-samples/ai-app-templates-workshop # Instructions for the AI App Templates workshop, to deploy AI app templates with the Azure OpenAI proxy
+https://github.com/azure-samples/azure-search-multiple-regions # Azure Cognitive Search code sample that demonstrates a pattern for multi-regional deployment for BCDR scenarios.
+https://github.com/azure-samples/openai-chat-app-entra-auth-local # A simple chat application that integrates Microsoft Entra ID for user authentication. Designed for deployment on Azure Container Apps with the Azure Developer CLI.
+https://github.com/azure-samples/recipeguide_cosmosdbnosqlopenaicognitivesearch_java # This repository provides a demo showcasing the usage of the RAG pattern for integrating Azure Open AI services with custom data in Azure Cosmos DB. The goal is to li
+mit the responses from Open AI services based on recipes stored in Cosmos DB. https://github.com/azure-samples/ai-rag-chat-evaluator # Tools for evaluation of RAG Chat Apps using Azure AI Evaluate SDK and OpenAI
+https://github.com/azure-samples/openai-chat-app-entra-auth-builtin # A simple chat application that integrates Microsoft Entra ID for user authentication. Designed for deployment on Azure Container Apps with the Azure Developer CLI.
+https://github.com/azure-samples/openai-chat-vision-quickstart # A demonstration of chatting with uploaded images using OpenAI vision models like gpt-4o.
+https://github.com/azure-samples/ai-gateway # APIM ❤️ OpenAI - this repo contains a set of experiments on using GenAI capabilities of Azure API Management with Azure OpenAI and other services
+https://github.com/azure-samples/rag-as-a-service-with-vision # This repository offers a Python framework for a retrieval-augmented generation (RAG) pipeline using text and images from MHTML documents, leveraging Azure AI and OpenAI services. It includ
+es ingestion and enrichment flows, a RAG with Vision pipeline, and evaluation tools. https://github.com/azure-samples/assistant-data-openai-python-promptflow # Assistant API to chat with tabular data and perform analytics in natural language.
+https://github.com/azure-samples/ai_toolkit_rag_samples # Implementing RAG using local models and AI toolkit
+https://github.com/azure-samples/ai-studio-in-a-box # Simple Azure AI Studio setup following Microsoft's best practices for security and access management
+https://github.com/azure-samples/document-intelligence-code-samples # Sample site for Document Intelligence code samples and associated media.
+https://github.com/azure-samples/ai-hub-gateway-solution-accelerator # Reference architecture that provides a set of guidelines and best practices for implementing a central AI API gateway to empower various line-of-business units in an organization to
+leverage Azure AI services https://github.com/azure-samples/azure-search-sample-archive #
+https://github.com/azure-samples/image-search-aisearch # An image search application using multimodal embeddings and Azure AI search vector search.
+https://github.com/azure-samples/ai-landing-zone-in-a-box #
+https://github.com/azure-samples/aistudio-end-to-end-baseline-architecture #
+https://github.com/azure-samples/llama-index-javascript # This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀
+https://github.com/azure-samples/ai-gbb-curated-ip # List of Recommended IPs and Accelerators by the AI GBBs
+https://github.com/azure-samples/azure-openai-assistant-javascript # Serverless Azure OpenAI Assistant Quick Start Function Calling
+https://github.com/azure-samples/spring-petclinic-langchain4j #
+https://github.com/azure-samples/llama-index-python # This sample shows how to quickly get started with LlamaIndex.ai on Azure🚀
+https://github.com/azure-samples/openai-chat-your-own-data # An infrastructure template that provisions the required Azure resources for a simple RAG AI solution.
+https://github.com/azure-samples/llm-evaluation #
+https://github.com/azure-samples/openai-end-to-end-baseline #
+https://github.com/azure-samples/multimodal_rag_python # Python notebook for solving overlapping tables problem with Azure document intelligence , semantic chunking, RAG , Azure AI Search
+https://github.com/azure-samples/openai-langchainjs # Demonstrates how to use Azure OpenAI with LangChain.js
+https://github.com/azure-samples/azure-search-typescript-samples # TypeScript code samples for Azure AI Search.
+https://github.com/azure-samples/azure-openai-chat-baseline-landing-zone # A variation of the Azure OpenAI chat baseline, altered to be deployed specifically into an application landing zone.
+https://github.com/azure-samples/multimodal-rag-code-execution # A multimodal Retrieval Augmented Generation with code execution capabilities. Process multiple complex documents with images, table, charts to distill insights or generate new documents.
+https://github.com/azure-samples/aoai-net-onedayworkshop # Azure OpenAI - One Day Workshop for .NET Devs
+https://github.com/azure-samples/agent-openai-java-banking-assistant # multi-agents banking assistant with Java and Semantic Kernel
+https://github.com/azure-samples/azure-openai-keyless-js # Example Azure OpenAI deployment and RBAC role for your user account for keyless access
+https://github.com/azure-samples/llama-index-azure-code-interpreter # Serverless RAG application with LlamaIndex and code interperter on Azure Container Apps
+https://github.com/azure-samples/ai-chat-quickstart-csharp # A simple C#/.NET chat application that uses managed identity for Azure OpenAI access. Designed for deployment on Azure Container Apps with the Azure Developer CLI.
+https://github.com/azure-samples/openai-secure-ui-js # Reusable OpenAI secure UI and infrastructure for AI Chat with Azure
+https://github.com/azure/azure-search-vector-samples # A repository of code samples for Vector search capabilities in Azure AI Search.
+https://github.com/azure/aistudio-copilot-sample # Sample quickstart repo for getting started building an enterprise chat copilot in Azure AI Studio
+https://github.com/azure/intro-to-intelligent-apps # This repository introduces and helps organizations get started with building Intelligent Apps and incorporating Large Language Models (LLMs) via AI Orchestration into them.
+https://github.com/azure/intelligent-app-workshop # Immersive workshop showcasing the remarkable potential of integrating SoTA foundation models to enhance product experiences and streamline backend workflows. Leverages Microsoft's Copilot stack, Seman
+tic Kernel and Azure primitives to offer an engaging and comprehensive introduction to AI-infused app development and deployment https://github.com/azure/azure-ai-cli # This repository is for active development of the Azure AI CLI. For consumers of the CLI, we suggest you check out The Book of AI at https://thebookof.ai
+https://github.com/azure/gpt-rag-ingestion #
+https://github.com/azure/azure-functions-openai-extension # An extension that adds support for Azure OpenAI/ OpenAI bindings in Azure Functions for LLM (GPT-3.5-Turbo, GPT-4, etc)
+https://github.com/azure/azure-ai-at-build #
+https://github.com/azure/retail-ai-enhanced-search #
+https://github.com/azure/genaiops-project-template # Generative AI Ops RAG project template
+https://github.com/azure/ai-hub # Enterprise Azure OpenAI Hub provides prescriptive architecture and guidance to accelerate Generative AI on Azure for all organisations, in a secure, compliant, scalable, and resillient way, and to democratize proven us
+e-cases to quickly realise business value https://github.com/azure/the-llm-latency-guidebook-optimizing-response-times-for-genai-applications # There are many articles that cover the principles of reducing latency optimization for LLMs, however it is often unclear how to actually implement the
+se principles. This repository provides practical techniques for reducing the latency of GenAI applications. https://github.com/azure/appinno-gbb-glam-experiments # Home for experimentation and samples from work focused on image-based AI scenarios
+https://github.com/azure/sample-chat-completion-openai-infra #
+https://github.com/azure/terraform-azurerm-avm-res-machinelearningservices-workspace # AVM Module for Azure Machine learning workspaces.
+https://github.com/azure/terraform-azurerm-avm-res-search-searchservice #
+https://github.com/microsoft/rag_hack # Hack Together: RAG Hack | Register, Learn, Hack
+https://github.com/microsoft/pubsec-info-assistant # Information Assistant, built with Azure OpenAI Service, Industry Accelerator
+https://github.com/microsoft/sample-app-aoai-chatgpt # Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
+https://github.com/microsoft/kernel-memory # RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.
+https://github.com/microsoft/call-center-ai # Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+https://github.com/microsoft/app-templates # Packaged app samples to accelerate devs journey to cloud
+https://github.com/microsoft/phi-3cookbook # This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, out
+performing models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. https://github.com/microsoft/contoso-support-pf-demo # Code for MS Ignite 2023 | Live Breakout Session | BRK203
+https://github.com/microsoft/ai-chat-protocol # A library + API spec for easily streaming generative AI output to your chat applications.
+https://github.com/microsoft/rag-experiment-accelerator # The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern.
+https://github.com/microsoft/doodle-to-code # From Doodle to Code: Understand the concepts of Generative AI principles through doodles and apply the knowledge by coding!
+https://github.com/microsoft/teams-copilot-starter # Teams Copilot Starter has been developed as a starter template for solutions targeting generative AI chatbots in Microsoft Teams. It can assist companies jumpstart their AI and Copilot efforts.
+https://github.com/microsoft/dsl-copilot #
+https://github.com/microsoft/synthetic-rag-index # Service to import data from various sources and index it in AI Search. Increases data relevance and reduces final size by 90%+. Useful for RAG scenarios with LLM. Hosted in Azure with serverless archit
+ecture. https://github.com/microsoft/promptflow-rag-project-template # An end-to-end sample of RAG showcasing development, evaluation, experimentation, and deployment using Promptflow, search products like CosmosDB, PostgresSQL, and Azure AI Search
+https://github.com/microsoft/build-your-own-copilot-solution-accelerator # Solution Accelerator to show how to build your own copilot
+https://github.com/microsoft/thoth # The Egyptians credited him as the author of all works of science, religion, philosophy, and magic. The Greeks further declared him the inventor of astronomy , astrology , the science of numbers, mathematics, geometr
+y, surveying, medicine, botany, theology, civilized government, the alphabet, reading, writing, and oratory. https://github.com/microsoft/damu # Named after a Mesopotamian reputed to know the cures to many incurable diseases. This is an accelerator for combining natural language queries and FHIR queries to assist medical research.
+https://github.com/microsoft/aitour-concept-to-creation-ai-studio #
+https://github.com/microsoft/aitour-repo-principal-list #
+https://github.com/microsoft/hygeia # Chat with documentation endpoint, with session context, in Azure
+https://github.com/microsoft/aitour-rag-with-ai-search #
+https://github.com/microsoft/aicentral # An AI Control Centre for monitoring, authenticating, and providing resilient access to multiple Open AI services.
+https://github.com/microsoft/protean # meaning "versatile", "mutable", or "capable of assuming many forms"... a generative AI application template with dynamically selectable agents of dedicated sources and actions
+https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai #
+https://github.com/microsoft/phideidportal # Sample PHI DeID Portal for uploading, indexing and identifying PHI within documents.
+https://github.com/microsoft/rag-knowledge #
+https://github.com/microsoft/aitour-llmops-with-gen-ai-tools # AI Tour 2025 BRK451 Code-First LLMOps from Prototype to Production with GenAI Tools
+https://github.com/microsoft/aitour-writing-assistant-with-azure-openai #
+https://github.com/microsoft/generic-build-your-own-copilot-solution-accelerator # Generic accelerator for Build your own copilot
+https://github.com/microsoft/dstoolkit-text2sql-and-imageprocessing # This repo provides sample code for improving RAG applications with rich data sources including SQL Warehouses and documents analysed with Azure Document Intelligence
+https://github.com/microsoft/aitour-ai-apps-with-scalable-database #
+https://github.com/microsoft/mlops-aisearch-pull # A template that shows how to setup MLOps in Azure AI Search using pull approach
+https://github.com/microsoft/aitour-ecommerce-app-with-ai #
+https://github.com/microsoft/direct-preference-optimization #
+https://github.com/microsoft/federal-ai-services # Secure AI Solutions
+https://github.com/microsoft/pycon #
+https://github.com/microsoft/eleos # Accelerator for using python and langchain to query APIM openapi documents
+https://github.com/microsoft/data-and-ai-strategy-platform # Open Source Public Repo of Microsoft Data & AI Strategy Platform
+https://github.com/microsoft/azure-ai-contents-generation # Sample code for Contents generation by using Azure AI Services
+https://github.com/microsoft/aitour-securing-ai-apps-on-azure #
