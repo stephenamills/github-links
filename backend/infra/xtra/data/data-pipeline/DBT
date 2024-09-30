@@ -11,19 +11,19 @@ https://github.com/dbt-labs/dbt-audit-helper # Useful macros when performing dat
 https://github.com/dbt-labs/dbt-external-tables # dbt macros to stage external sources
 https://github.com/dbt-labs/dbt-snowflake # dbt-snowflake contains all of the code enabling dbt to work with Snowflake
 https://github.com/dbt-labs/dbt-athena # The athena adapter plugin for dbt (https://getdbt.com)
-https://github.com/dbt-labs/dbt-bigquery # dbt-bigquery contains all of the code required to make dbt operate on a BigQuery databas
-e. https://github.com/dbt-labs/dbt_metrics # Macros for calculating metrics
-https://github.com/dbt-labs/dbt-labs-experimental-features # dbt support for database features which are not yet supported natively
-in dbt-core https://github.com/dbt-labs/dbt-docs # Auto-generated data documentation site for dbt projects
+https://github.com/dbt-labs/dbt-bigquery # dbt-bigquery contains all of the code required to make dbt operate on a BigQuery database.
+https://github.com/dbt-labs/dbt_metrics # Macros for calculating metrics
+https://github.com/dbt-labs/dbt-labs-experimental-features # dbt support for database features which are not yet supported natively in dbt-core
+https://github.com/dbt-labs/dbt-docs # Auto-generated data documentation site for dbt projects
 https://github.com/dbt-labs/dbt-project-maturity #
-https://github.com/dbt-labs/jaffle_shop_duckdb # Get started with dbt in less than 1 minute from `git clone` to `dbt docs serve` fo
-r free! https://github.com/dbt-labs/snowplow # Data models for snowplow analytics.
+https://github.com/dbt-labs/jaffle_shop_duckdb # Get started with dbt in less than 1 minute from `git clone` to `dbt docs serve` for free!
+https://github.com/dbt-labs/snowplow # Data models for snowplow analytics.
 https://github.com/dbt-labs/docs.getdbt.com # The code behind docs.getdbt.com
 https://github.com/dbt-labs/dbt-jsonschema #
 https://github.com/dbt-labs/dbt-completion.bash # Adds autocompletion to the dbt CLI
 https://github.com/dbt-labs/dbt-server # A web API for dbt.
-https://github.com/dbt-labs/dbt-meshify # A dbt-core python package that automates the management and creation of dbt groups, contr
-acts, access, and versions. https://github.com/dbt-labs/redshift # Redshift package for dbt (getdbt.com)
+https://github.com/dbt-labs/dbt-meshify # A dbt-core python package that automates the management and creation of dbt groups, contracts, access, and versions.
+https://github.com/dbt-labs/redshift # Redshift package for dbt (getdbt.com)
 https://github.com/dbt-labs/dbt-event-logging # a dbt package to make auditing dbt runs easy.
 https://github.com/dbt-labs/dbt-redshift # dbt-redshift contains all of the code enabling dbt to work with Amazon Redshift
 https://github.com/dbt-labs/jaffle-shop # 🥪🦘 An open source sandbox project exploring dbt workflows via a fictional sandwich shop's data.

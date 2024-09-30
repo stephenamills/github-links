@@ -1,0 +1,18 @@
+https://github.com/design-tokens/community-group # This is the official DTCG repository for the design tokens specification.
+https://github.com/design-tokens/designtokens.org # Source code for designtokens.org
+
+https://github.com/universal-design-tokens/udt # Utilities for working with DTCG design tokens files.
+https://github.com/universal-design-tokens/udt-website # The UDT website
+
+https://github.com/specifyapp/parsers # Specify helps you unify your brand identity by collecting and distributing design tokens and assets.
+
+https://github.com/specifyapp/cli-example-styles-and-variables # CLI example of how to pull Design Tokens from Figma Variables and Figma Styles.
+https://github.com/specifyapp/specify-material-ui-example # Example project on how to pull design tokens from Specifuy and use theme in a Material UI React project
+
+https://github.com/specifyapp/github-action-specify-style-dictionary # Generate and transform design tokens using GitHub Actions
+https://github.com/specifyapp/config-templates # Templates for config files when using Specify
+https://github.com/specifyapp/repository-v2 #
+https://github.com/specifyapp/github-action-sdtf #
+https://github.com/specifyapp/seeds # Specify example datasets
+
+https://github.com/awesome-design-tokens # Design tokens integration examples in various UI frameworks

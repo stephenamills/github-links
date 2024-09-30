@@ -1,0 +1,22 @@
+Embeddings
+https://github.com/azure-samples/azure-search-comparison-tool # A demo app showcasing Vector Search using Azure AI Search, Azure OpenAI for text embeddings, and Azure AI Vision for image embeddings.
+https://github.com/azure-samples/azure-sql-db-session-recommender # Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings
+https://github.com/azure-samples/azure-sql-db-session-recommender-v2 # Build a retrieval augmented generation solution using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings
+https://github.com/azure-samples/azure-sql-db-vectorizer # Quickly generate embeddings from data in Azure SQL
+https://github.com/azure-samples/image-search-aisearch # An image search application using multimodal embeddings and Azure AI search vector search.
+https://github.com/azure-samples/openai-fileqna-python # Upload files and ask questions related to their content, and this web app will use embeddings and GPT to generate answers from the most relevant files.
+https://github.com/azure/azure-kusto-webexplorer-embedding # This project is an example of how to embed Azure Data Explorer and Azure Data Explorer dashboards in an iframe.
+
+https://github.com/microsoft/ance # A novel embedding training algorithm leveraging ANN search and achieved SOTA retrieval on Trec DL 2019 and OpenQA benchmarks
+https://github.com/microsoft/hitter # Hierarchical Transformers for Knowledge Graph Embeddings (EMNLP 2021)
+https://github.com/microsoft/msmarco-conversational-search # Truly conversational search
+
+Reranking
+https://github.com/azure-samples/search-ranking-tutorial # Python learning to rank tutorial using Azure Cognitive Search
+https://github.com/microsoft/ance # A novel embedding training algorithm leveraging ANN search and achieved SOTA retrieval on Trec DL 2019 and OpenQA benchmarks
+https://github.com/microsoft/lmchallenge # A library & tools to evaluate predictive language models.
+https://github.com/microsoft/msmarco-passage-ranking # Large scale dataset focused on machine reading comprehension, question answering, and passage ranking.
+https://github.com/microsoft/rag-experiment-accelerator # The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search.
+https://github.com/microsoft/msmarco-document-ranking-submissions # Submission archive for the MS MARCO document ranking leaderboard
+https://github.com/microsoft/msmarco-passage-ranking-submissions # Submission archive for the MS MARCO passage ranking leaderboard
+https://github.com/microsoft/dialogpt # Large-scale pretraining for dialogue

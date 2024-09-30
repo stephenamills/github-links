@@ -1,4 +1,5 @@
 https://github.com/saltstack/salt # Software to automate the management and configuration of any infrastructure or application at scale.
+
 https://github.com/saltstack/salt-bootstrap # Generic Salt Bootstrap Script
 https://github.com/saltstack/pepper # A library and stand-alone CLI tools to access a salt-api instance
 https://github.com/saltstack/kitchen-salt # SaltStack provisioner for test-kitchen
@@ -147,7 +148,7 @@ https://github.com/saltstack-formulas/dovecot-formula #
 https://github.com/saltstack-formulas/pip-formula #
 https://github.com/saltstack-formulas/crontab-formula # saltstack formula to manage crontab
 https://github.com/saltstack-formulas/eramba-formula #
-https://github.com/saltstack-formulas/bareos-formula # A Saltstack formula to install and configure Bareos  
+https://github.com/saltstack-formulas/bareos-formula # A Saltstack formula to install and configure Bareos
 https://github.com/saltstack-formulas/reverse-grains-formula #
 https://github.com/saltstack-formulas/ad-formula # Join computer to an Active Directory
 https://github.com/saltstack-formulas/sysstat-formula #

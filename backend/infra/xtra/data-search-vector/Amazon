@@ -1,0 +1,31 @@
+Embeddings
+https://github.com/aws-solutions-library-samples/guidance-for-text-generation-using-embeddings-from-enterprise-data-on-aws # Question answering using SageMaker JumpStart
+https://github.com/aws-solutions-library-samples/guidance-for-building-a-sap-cloud-data-warehouse-on-aws # Extract data and business logic from SAP systems.
+https://github.com/build-on-aws/langchain-embeddings # State-of-the-art multimodal search engine, using Amazon Titan Embeddings, Amazon Bedrock, and LangChain.
+https://github.com/aws-samples/aws-cdk-deep-learning-image-vector-embeddings-at-scale-using-aws-batch # AWS Blog post code for running feature-extraction on images using AWS Batch and Cloud Development Kit (CDK).
+https://github.com/aws-samples/serverless-semantic-video-search-vector-database-and-a-multi-modal-generative-al-embeddings-model # Semantic search of image and live video with OpenSearch and Bedrock
+https://github.com/aws-samples/text-embeddings-pipeline-for-rag # A pipeline to convert contextual knowledge stored in documents and databases into text embeddings, and store them in a vector store
+https://github.com/aws-samples/amazon-quicksight-embedding-code-sample #
+https://github.com/aws-samples/fine-tune-embedding-models-on-sagemaker # Samples for fine-tuning embedding models using Amazon SageMaker. Embedding models are useful for tasks such as semantic similarity, text clustering, and information retrieval. Fine-tuning these models on your specific domain data can greatly improve their performance.
+https://github.com/aws-samples/finetuning-passage-embeddings-with-genq #
+https://github.com/aws-samples/reinvent2023-aim-329 # How to build a chat assistant with Amazon Bedrock using LLMs, Embeddings model, and Knowledge Bases for Amazon Bedrock.
+https://github.com/aws-samples/titan-multimodal-embeddings-workshop #
+https://github.com/aws-samples/amazon-sagemaker-product-classification # An example notebook on product category classification using a word embedder and xgboost to help you categorise your products to your own taxonomy
+https://github.com/aws-samples/simplified-corrective-rag # How to build a simplified Corrective RAG assistant with Amazon Bedrock using LLMs, Embeddings model, Knowledge Bases for Amazon Bedrock, and Agents for Amazon Bedrock.
+https://github.com/aws-samples/real-time-genai-embeddings-for-rag-with-apache-flink #
+https://github.com/aws-samples/amazon-bedrock-titan-multimodal-search # Multimodal saree search app built using Amazon Titan Multimodal Embeddings model
+https://github.com/aws-samples/serverless-word-embedding #
+https://github.com/aws-samples/multimodal-chest-x-ray-embeddings #
+https://github.com/aws-samples/advanced-rag-router-with-amazon-bedrock # Advanced RAG router based assistant with Amazon Bedrock using LLMs, Embeddings model, and Knowledge Bases for Amazon Bedrock.
+https://github.com/aws-samples/amazon-location-detected-addresses-to-map # AWS CloudFormation template deploying a Step Functions that leverages Amazon Comprehend and Amazon Location Service.
+https://github.com/awslabs/amazon-quicksight-embedding-sdk # A SDK to help users embed QuickSight dashboards on other pages.
+https://github.com/awslabs/dgl-ke # High performance, easy-to-use, and scalable package for learning large-scale knowledge graph embeddings.
+https://github.com/awslabs/joint_biased_embeddings # joint_based_embeddings is code for training Knowledge Graphs embeddings.
+https://github.com/awslabs/deploying-embedding-model-on-sagemaker-endpoint #
+
+Reranking
+https://github.com/aws-samples/cohere-on-aws #
+https://github.com/aws-samples/intelligent-product-search-with-llm #
+https://github.com/aws-samples/personalize-pet-recommendations #
+https://github.com/aws-samples/intelli-agent # Chatbot Portal with Agent: Streamlined Workflow for Building Agent-Based Applications
+https://github.com/aws-samples/genai-system-evaluation # A set of examples demonstrating how to evaluate Generative AI augmented systems using traditional information retrieval and LLM-As-A-Judge validation techniques

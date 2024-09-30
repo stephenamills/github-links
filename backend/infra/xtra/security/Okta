@@ -1,3 +1,11 @@
+https://github.com/googlecloudplatform/jit-groups # JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups.
+https://github.com/googlecloudplatform/esp-v2 # A service proxy that provides API management capabilities using Google Service Infrastructure.
+https://github.com/googlecloudplatform/terraformer # CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+https://github.com/googlecloudplatform/identity-labs-google-cloud #
+
+https://github.com/googleapis/google-auth-library-java # Open source Auth client library for Java
+https://github.com/googleapis/google-auth-library-nodejs # 🔑 Google Auth Library for Node.js
+
 https://github.com/aws-ia/cloudformation-okta-resource-providers # Okta CFN Registry resource
 https://github.com/aws-ia/terraform-aws-iam-identity-center #
 https://github.com/aws-ia/cfn-ps-okta-asa #

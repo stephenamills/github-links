@@ -34,5 +34,239 @@ https://www.iana.org/assignments/ssh-parameters/ssh-parameters.xhtml
 Email Authentication
 https://www.iana.org/assignments/email-auth
 
+ForgeRock
+https://github.com/forgerock/forgeops # ForgeRock platform assets for Kubernetes deployment. Contains the files you need to build your own Docker images and to deploy the ForgeRock Identity Platform on Kubernetes clusters.
+https://github.com/forgerock/openam-community-edition # Access Management - AuthN, AuthZ, SSO, Fedaration
+https://github.com/forgerock/appauthhelper # Wrapper for AppAuthJS to assist with silent token acquisition and renewal
+https://github.com/forgerock/opendj-community-edition # OpenDJ is a directory server which implements the Lightweight Directory Access Protocol
+https://github.com/forgerock/openidm-community-edition # OpenIDM Community Edition 2.1.2
+https://github.com/forgerock/forgerock-javascript-sdk # ForgeRock JavaScript SDK
+https://github.com/forgerock/exampleoauth2clients # Example OAuth2 clients for standards-based profile management
+https://github.com/forgerock/forgerock-android-sdk # ForgeRock Mobile Android SDK
+https://github.com/forgerock/forgerock-ios-sdk # ForgeRock Mobile iOS SDK
+https://github.com/forgerock/openig-community-edition # The Open Identity Gateway is a high-performance reverse proxy server with specialized session management and credential replay functionality.
+https://github.com/forgerock/forgerock-openbanking-sample # ForgeRock Open Banking Sample code. Examples to help you discovering the Open Banking standard
+https://github.com/forgerock/openid # Trying OpenAM's OpenID Connect 1.0 features
+https://github.com/forgerock/end-user-ui # Identity Management (End User) - UI
+https://github.com/forgerock/openam-auth-sample # OpenAM Sample Custom Auth Module
+https://github.com/forgerock/secret-agent # Generate random Kubernetes secrets and optionally store them in a Cloud Secret Manager
+https://github.com/forgerock/openam-authentication # Wordpress plugin to authenticate using OpenAM
+https://github.com/forgerock/node-openam-agent # OpenAM Policy Agent for Node.js / Express
+https://github.com/forgerock/frdp-uma-resource-server # A deployable web service that provides REST / JSON operations for the User Managed Access (UMA) 2.0 Resource Server (RS) functionality.
+https://github.com/forgerock/am-external # This repository contains OpenAM and AM source code that you can use to modify and extend AM functionality
+https://github.com/forgerock/iot-edge # ForgeRock IoT edge components
+https://github.com/forgerock/oidcsessioncheck # JavaScript library to assist with binding sessions between an OIDC OP and RP
+https://github.com/forgerock/openid-client-helper #
+https://github.com/forgerock/behaviosec #
+https://github.com/forgerock/ds-operator # ForgeRock Directory Service Operator
+https://github.com/forgerock/fr-config-manager # ForgeRock config manager
+https://github.com/forgerock/platform-ui #
+https://github.com/forgerock/jwt-bearer-client # Sample JWT Bearer Client
+https://github.com/forgerock/forgerock-react-native-sample # ForgeRock protected native/hybrid application using React Native and the ForgeRock SDKs
+https://github.com/forgerock/openamjs # A small JavaScript wrapper to do basic REST API calls to OpenAM
+https://github.com/forgerock/forgerock-flutter-plugins # Flutter Plugins developed based on the existing native ForgeRock SDKs for iOS and Android
+https://github.com/forgerock/node-openam-agent-demo # Demo app for node-openam-agent
+https://github.com/forgerock/onespan-auth-tree-nodes #
+https://github.com/forgerock/forgerock-web-login-framework # ForgeRock Login Widget
+https://github.com/forgerock/biocatch-authorization-condition # BioCatch protects digital identity while providing online and mobile users with a frictionless experience. The BioCatch platform analyzes more than 2,000 behavioral parameters of user-device interactions to generate real-time risk scores based on a wide range of human and non-human cybersecurity threats.
+https://github.com/forgerock/openidm-workflow-editor #
+https://github.com/forgerock/vault-secret-store #
+https://github.com/forgerock/json-fluent-community-edition # The community edition of the json-fluent repository with groupId set to org.forgerock.ce
+https://github.com/forgerock/opendj-sdk-community-edition # Community Edition of the OpenDJ SDK
+https://github.com/forgerock/secret-double-octopus-auth-tree-node #
+https://github.com/forgerock/forgeops-extras # Terraform and other artifacts that can be used with the forgeops project
+https://github.com/forgerock/openidm-cidemo # Demo of OpenIDM deployment to Kubernetes using Jenkins
+https://github.com/forgerock/am421-select-role-node #
+https://github.com/forgerock/oath-hotp-authentication-node # An authentication node which validates OATH HOTP codes.
+https://github.com/forgerock/am421-scripted-client-auth-node #
+https://github.com/forgerock/forgerock-tile # Provides configuration and integration tests for the Pivotal tile for the ForgeRock Cloud Foundry broker.
+https://github.com/forgerock/am421-utility-scripts #
+https://github.com/forgerock/commons-forgerock-launcher-community-edition # Community Edition of the commons forgerock-launcher repository
+https://github.com/forgerock/biometric-signature-id-auth-module # BioSig-ID blends amazing biometric technology with the password format users have always known. The simple change from typing to drawing your passwords eliminates imposter login and prevents theft. Accuracy that exceeds NIST biometric standards by 300%. Multi-factor strength. Finally you can authenticate the person, not the device.
+https://github.com/forgerock/openam-post-auth-sample # An OpenAM Sample Post Authentication Plugin
+https://github.com/forgerock/forgerock-journeys-library #
+https://github.com/forgerock/operating-system-checker-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/sign-in-with-apple #
+https://github.com/forgerock/am421-tomcats #
+https://github.com/forgerock/timer-auth-tree-nodes # A simple pair of authentication nodes for ForgeRock's Identity Platform 5.5 and above. These nodes can be configured to update a DropWizard Metrics Timer within AM which can then be read using JMX or pushed to a Graphite server.
+https://github.com/forgerock/client-script-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/profile-attribute-decision-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/autonomous-identity # Autonomous Identity Kubernetes manifests
+https://github.com/forgerock/forgerock-flutter-sample # ForgeRock protected native/hybrid application using Flutter and the ForgeRock SDKs
+https://github.com/forgerock/am421-am-extensions #
+https://github.com/forgerock/open-threat-intel-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/forgeops-init # A starter configuration repository for deploying the ForgeRock Identity Platform in a Kubernetes cluster. Fork this repository and tailor it as you build up your own configuration.
+https://github.com/forgerock/node-openam-agent-cache-mongodb # Cache using MongoDB for the OpenAM Policy Agent for NodeJS
+https://github.com/forgerock/tntp-pingone-verify #
+https://github.com/forgerock/node-openam-agent-cache # Abstract cache for the OpenAM Policy Agent for NodeJS
+https://github.com/forgerock/meter-auth-tree-node # A simple authentication node for ForgeRock's Identity Platform 5.5 and above. This node can be configured to update a DropWizard Metrics Meter within AM which can then be read using JMX or pushed to a Graphite server.
+https://github.com/forgerock/securedtouch-authorization-condition # SecuredTouch is a pioneer in behavioral biometrics for cross-channel transactions, solving digital-world authentication problems to strengthen security and reduce fraud while improving customers’ digital experience.
+https://github.com/forgerock/am421-contactlist #
+https://github.com/forgerock/idx-auth-tree-node # Custom authentication node for ForgeRock Access Management - generates IdentityX authentication requests
+https://github.com/forgerock/autoid-playbook # Automated deployment of autoid 2022.11.x. This is an example provided by the community of ForgeRock users. This is in no way supported or tested by ForgeRock.
+https://github.com/forgerock/tntp-protect #
+https://github.com/forgerock/input-collector-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/pwnedpassword # An authentication node which validates the supplied password against the Have I Been Pwned database of compromised passwords.
+https://github.com/forgerock/am421-scripts #
+https://github.com/forgerock/modernize-accelerators #
+https://github.com/forgerock/yoti-auth-tree-node #
+https://github.com/forgerock/secret-double-passwordless-desktop-mfa #
+https://github.com/forgerock/browser-checker-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/haveibeenpwned-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/promote-to-session-node # A test repository created using the GitHub API.
+https://github.com/forgerock/axiad-scim #
+https://github.com/forgerock/tntp-jsonpath #
+https://github.com/forgerock/onfido-auth-tree-node #
+https://github.com/forgerock/salesforce-social-idp # A test repository created using the GitHub API.
+https://github.com/forgerock/openicf-solaris-connector-community-edition # Community edition of OpenICF's solaris-connector repo
+https://github.com/forgerock/state-value-equality-node # A test repository created using the GitHub API.
+https://github.com/forgerock/capture-parameters-node # A simple authentication node, that captures any presented URL parameters into configurable shared state attributes. Eg goto=
+https://github.com/forgerock/trace-header-context-session-node # This utility node prints context, header, session, cookies, callbacks, locales, and client IP information. The node may be placed in-line between any other nodes in a tree.
+https://github.com/forgerock/id.me-auth-tree-node # id.me-auth-tree-node
+https://github.com/forgerock/itsme-auth-tree-node #
+https://github.com/forgerock/tntp-threatmetrix-iidqa #
+https://github.com/forgerock/tntp-clear # Tree Node CLEAR for PingAM 7.1.3
+https://github.com/forgerock/forgerock-util-community-edition #
+https://github.com/forgerock/openicf-databasetable-connector-community-edition # Community Edition of OpenICF databasetableset-connector repository
+https://github.com/forgerock/legacy-json-crypto-community-edition # Community Edition of the commons legacy-json-crypto repository
+https://github.com/forgerock/forgerock-ui-community-edition # Community Edition of the commons forgerock-ui-public repo
+https://github.com/forgerock/polling-wait-node # A test repository created using the GitHub API.
+https://github.com/forgerock/recaptch-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/profile-attribute-to-state-node # A test repository created using the GitHub API.
+https://github.com/forgerock/twilio-sms-sender-node # This node uses Twilio services to send the OTP password via SMS to a user. Requires a Programmable SMS Account from Twilio at https://www.twilio.com
+https://github.com/forgerock/biid-auth-tree-node # A test repository created using the GitHub API.
+https://github.com/forgerock/aculab-auth-tree-nodes #
+https://github.com/forgerock/yahoo-social-idp # Configuration bundle for AM5 to integrate Yahoo as an OAuth2 social IDP
+https://github.com/forgerock/openicf-license-community-edition #
+https://github.com/forgerock/maven-surefire-execs-plugin-community-edition # The community edition of the maven-surefire-execs-plugin
+https://github.com/forgerock/forgeops-cli # CLI for the forgeops project
+https://github.com/forgerock/gateway-communication-node #
+https://github.com/forgerock/tntp-restnode #
+https://github.com/forgerock/debug-node # An authentication node which dumps various properties to debug. Useful for viewing shared state, transient shared state (configurable), request parameters, client details, cookies, etc.
+https://github.com/forgerock/email-notify-authentication-node # This node can be used to send an email message to a user, for example, when used in conjunction with Account Lockout node, to inform the user by email in the change to their account status. If sharedState
+value of "email" exists then this is used as the recipient email address, otherwise the authenticating user's profile email address is used. Both the email subject and message body can be configured to include sharedState variables. https://github.com/forgerock/set-state-node # A test repository created using the GitHub API.
+https://github.com/forgerock/openicf-solaris-connector # A test repository created using the GitHub API.
+https://github.com/forgerock/openicf-webtimesheet-connector # A test repository created using the GitHub API.
+https://github.com/forgerock/openicf-oracleerp-connector # An OpenICF framework connector for Oracle ERP
+https://github.com/forgerock/openicf-maven-plugin-community-edition # Community Edition of the OpenICF openicf-maven-plugin repository
+https://github.com/forgerock/octopus-lite #
+https://github.com/forgerock/sdk-sample-apps # Repo containing all the SDK sample apps
+https://github.com/forgerock/forgerock-auth-filters-community-edition # Community Edition of the commons forgerock-auth-filters repository
+https://github.com/forgerock/json-patch-community-edition # Community Edition of the json-patch commons repo
+https://github.com/forgerock/account-lockout-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/openicf-oracle-connector # A test repository created using the GitHub API.
+https://github.com/forgerock/shared-state-choice-collector-auth-node # A simple authentication node for ForgeRock's Identity Platform 5.5 and above. This node presents a prompt to the user containing (optional) information from shared state, asking for their choice of
+a configured list of options. https://github.com/forgerock/frdp-content-server # A deployable web service that provides REST / JSON operations (CRUD) to manage JSON documents. The service is implemented using the JAX-RS/Jersey REST API and MongoDB for document persistance.
+https://github.com/forgerock/iboss-single-sign-on #
+https://github.com/forgerock/example-read-from-profile-script # A simple script to show how to read from an existing idRepo profile using a scripted node.
+https://github.com/forgerock/forgerock-device-match-script # Sample Script and Development Toolkit for the Device Match Feature
+https://github.com/forgerock/ic-500 # IC-500 Student Exercise Files
+https://github.com/forgerock/iddw-identity-proofing # PingOne AIC - ID Dataweb Journey
+https://github.com/forgerock/openam-connector-for-siteminder # A test repository created using the GitHub API.
+https://github.com/forgerock/search-for-user-node # A test repository created using the GitHub API.
+https://github.com/forgerock/yubico-otp-plugin # A test repository created using the GitHub API.
+https://github.com/forgerock/s2s-analysis-assistant #
+https://github.com/forgerock/lexisnexisrs-identity-proofing-docs #
+https://github.com/forgerock/intune-node #
+https://github.com/forgerock/tntp-pingone-credentials # Journey node for PingOne Credentials
+https://github.com/forgerock/p1p-400 # PIP-400
+https://github.com/forgerock/zero-page-username-secret-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/cookie-presence-decision-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/legacy-json-resource-community-edition # Community Edition of the legacy-json-resource repository
+https://github.com/forgerock/ldap-connector-community-edition # Community Edition of the openicf ldap-connector repository
+https://github.com/forgerock/openicf-dbcommon-community-edition # Community Edition of the OpenICF dbcommon code
+https://github.com/forgerock/nok-nok-labs-fido-auth-tree-node # Nok Nok is the market leader in next generation authentication for cloud, mobile and IoT applications. The company’s carrier-grade, web-scale authentication platform has been deployed to hundreds of milli
+ons of users through leading Mobile Network Operators, Fintech, Banking, Healthcare and IoT customers. https://github.com/forgerock/am-seraph-authenticator # A ForgeRock Access Management Authenticator for Jira and Confluence
+https://github.com/forgerock/jumio-auth-tree-node #
+https://github.com/forgerock/fr541-labs-js #
+https://github.com/forgerock/tntp-transunion #
+https://github.com/forgerock/node-openam-agent-cache-simple #
+https://github.com/forgerock/deduce-auth-tree-nodes #
+https://github.com/forgerock/socure-auth-nodes #
+https://github.com/forgerock/sdk-standards-of-practice # This Standards of Practice document establishes our expectations for behavior for working with each other.
+https://github.com/forgerock/tntp-spycloud #
+https://github.com/forgerock/node-openam-agent-cache-memcached # Cache using Memcached for the OpenAM Policy Agent for NodeJS
+https://github.com/forgerock/amazon-social-idp # Configuration bundle for AM5 to integrate Amazon as an OAuth2 social IDP
+https://github.com/forgerock/get-profile-property-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/openicf-mysqluser-connector # A test repository created using the GitHub API.
+https://github.com/forgerock/random-choice-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/openicf-xml-connector-community-edition # Community Edition of the OpenICF xml-connector repository
+https://github.com/forgerock/legacy-json-schema-validator-community-edition # Community Edition of the legacy-json-schema-validator repo
+https://github.com/forgerock/save-last-login-node # An authentication node for ForgeRock's Identity Platform 6.0 and above. This node stores successful and failed login attempts in a specified user profile attribute. In "simple" mode this node stores the time and date
+and SUCCESS/FAILURE of a user login attempt. In "non-simple" mode this node stores the 'n' most recent login attempts ('n' is configurable), and for each attempt it stores the time/date, SUCCESS/FAILURE, and a set of configurable shared state values (for example, authLevel). https://github.com/forgerock/parameterized-scope-validator # Allow scope-tokens defined by regular expressions. This can be used in PSD2 payment scenarios where user should consent to payment transaction that contains a variable part like "PAY:Guitar-900EUR".
+https://github.com/forgerock/aware-auth-node #
+https://github.com/forgerock/recaptcha-enterprise-auth-tree-nodes # An Authentication Tree Node for integration into Recaptcha Enterprise
+https://github.com/forgerock/twilio-verify-auth-tree-nodes # An authentication node for ForgeRock's Identity Platform 6.0.0 and above which integrates the Twilio Verify service with AM
+https://github.com/forgerock/frdp-containers-uma # Container environment for testing the User-Managed Access (UMA)
+https://github.com/forgerock/thales-auth-tree-node #
+https://github.com/forgerock/id.me-auth-tree-nodes #
+https://github.com/forgerock/sample-scripts # A place to store and share sample scripts for the ForgeRock Community. DISCLAIMER: The scripts in this repository are not supported by ForgeRock.
+https://github.com/forgerock/tntp-enzoic #
+https://github.com/forgerock/tntp-fingerprint #
+https://github.com/forgerock/ip-address-decision-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/knowledge-based-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/i18n-framework-community-edition # A community version of ForgeRock's Commons/i18n-framework project.
+https://github.com/forgerock/openicf-db2-connector # A test repository created using the GitHub API.
+https://github.com/forgerock/http-request-node # A test repository created using the GitHub API.
+https://github.com/forgerock/frdp-dao-mongo # An implementation of the DAO interface using the MongoDB Java API
+https://github.com/forgerock/threatmetrix-auth-nodes #
+https://github.com/forgerock/tntp-iproov-docs #
+https://github.com/forgerock/display-debug #
+https://github.com/forgerock/axiad #
+https://github.com/forgerock/fr541-labs-android #
+https://github.com/forgerock/chrome-integration #
+https://github.com/forgerock/retry-limit-decision-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/am-auth-module-for-rsa-access-mgr # A test repository created using the GitHub API.
+https://github.com/forgerock/code-generator-node # A test repository created using the GitHub API.
+https://github.com/forgerock/vouch-auth-module #
+https://github.com/forgerock/frdp-framework # ForgeRock Demonstration Platform Java framework. Contains Java packages that are used by other projects.
+https://github.com/forgerock/audit-eventarc #
+https://github.com/forgerock/signicat-auth-tree-nodes #
+https://github.com/forgerock/fr541-labs-ios #
+https://github.com/forgerock/tntp-pingone-davinci #
+https://github.com/forgerock/save-ua-to-profile-node # A test repository created using the GitHub API.
+https://github.com/forgerock/openicf-scriptedsql-connector-community-edition # Community Edition of the OpenICF scriptedsql-connector
+https://github.com/forgerock/duo-auth-node # A ForgeRock Authentication Node for Duo Two Factor Authentication
+https://github.com/forgerock/example-write-to-profile-script # Example scripted node, that writes to a profile attribute, within the idRepo
+https://github.com/forgerock/partner-knowledge-exchange #
+https://github.com/forgerock/tntp-web3auth #
+https://github.com/forgerock/openicf-csv-connector-community-edition # Community Edition of the openicf csv-connector repository
+https://github.com/forgerock/set-profile-property-auth-tree-node # An Authentication Tree Node for ForgeRock's Identity Platform
+https://github.com/forgerock/openicf-dummy-connector # A test repository created using the GitHub API.
+https://github.com/forgerock/openicf-vms-connector # A test repository created using the GitHub API.
+https://github.com/forgerock/save-ip-to-profile # A test repository created using the GitHub API.
+https://github.com/forgerock/forgerock-restlet-community-edition # Community Edition of the commons forgerock-restlet repository
+https://github.com/forgerock/forgerock-parent-community-edition # Community Edition of the commons/forgerock-parent project.
+https://github.com/forgerock/frdp-uma-client-proxy #
+https://github.com/forgerock/hashicorp-vault-sso #
+https://github.com/forgerock/openicf-spml-connector # A test repository created using the GitHub API.
+https://github.com/forgerock/forgerock-build-tools-community-edition # Community Edition of the forgerock-build-tools edition with groupId org.forgerock.ce
+https://github.com/forgerock/mfa-saml-selector-auth-tree-node # A simple authentication node for ForgeRock's Identity Platform 5.5 and above.
+https://github.com/forgerock/geolocation-node # This node uses 3rd party services (IP-API or IPStack) to obtain longitude, latitude, and country information. During authentication, geolocation information is compared to last login. Absolute distances, physical speed
+required to login from both locations, and country white/black lists are used to evaluate risk. https://github.com/forgerock/query-string-to-failureurl # This node transfers query string parameters from the original referer header to the FailureURL. It is used to transfer from authentication trees to authentication chains during user authentication. This transfe
+r will be required for a resource-first authentication where the goto and forward parameters must be retained. https://github.com/forgerock/id-dataweb-auth-tree-node #
+https://github.com/forgerock/f5-auth-node #
+https://github.com/forgerock/tntp-ping-service #
+https://github.com/forgerock/node-openam-agent-cache-redis # Cache using Redis for the OpenAM Policy Agent for NodeJS
+https://github.com/forgerock/node-openam-agent-cache-couchdb # Cache using CouchDB for the OpenAM Policy Agent for NodeJS
+https://github.com/forgerock/forgerock-rest-community-edition # Community Editions of the Legacy Commons forgerock-rests repository
+https://github.com/forgerock/openicf-java-framework-community-edition # Community Edition of the OpenICF java-framework repository
+https://github.com/forgerock/frdp-dao-rest #
+https://github.com/forgerock/yubico-auth-tree-node #
+https://github.com/forgerock/mparticle-connector #
+https://github.com/forgerock/fileflex-single-sign-on #
+https://github.com/forgerock/sample-journeys #
+https://github.com/forgerock/rsa-securid-auth-tree-nodes #
+https://github.com/forgerock/tntp-kerberos-cloud #
+
+https://github.com/rockcarver/frodo # ForgeROckDO - the one cli to rule them all
+https://github.com/rockcarver/frodo-cli # A CLI to manage ForgeRock platform deployments supporting Identity Cloud tenants, ForgeOps deployments, and classic deployments.
+https://github.com/rockcarver/frodo-lib # A library to manage ForgeRock Identity Cloud tenants, ForgeOps deployments, and classic deployments.
+https://github.com/rockcarver/frodo-proxy-test-gh-action # Test frodo using a network proxy
+https://github.com/rockcarver/homebrew-frodo-cli # Homebrew tap for frodo-cli
+https://github.com/rockcarver/frodo-pipeline-testing # Frodo pipeline testing
+https://github.com/rockcarver/frodocat # FRODOCAT is a CLI version for hands-free migrations
+https://github.com/rockcarver/copycat # CopyCat is a wrapper for Frodo.
+
 X-More
 https://www.iana.org/assignments/authentication-method-reference-values

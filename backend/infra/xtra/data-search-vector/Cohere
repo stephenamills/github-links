@@ -50,20 +50,30 @@ https://github.com/oracle-devrel/oci-ai-industry-dbsolutions # oci-ai-industry-d
 https://github.com/oracle-devrel/select-ai-autonomous-db-query-oci # select-ai-autonomous-db-query-oci
 https://github.com/oracle-devrel/oci-ai-cook # oci-ai-cook
 
-https://github.com/cohere-ai/examples # sample apps using the API
-https://github.com/cohere-ai/notebooks # API cookbook in Python notebooks
-https://github.com/cohere-ai/cohere-toolkit # Docker container with Toolkit
-https://github.com/cohere-ai/cohere-aws # AWS Sagemaker & Bedrock
-
-https://github.com/cohere-ai/cohere-python
-https://github.com/cohere-ai/cohere-typescript
-https://github.com/cohere-ai/sandbox-conversant-lib
-https://github.com/cohere-ai/binaryvectordb
-https://github.com/cohere-ai/cohere-terrarium # unsure why this exists
-
 https://github.com/menloparklab/cohere-weaviate-wikipedia-retrieval # Wikipedia (LangChain, Weaviate)
 https://github.com/menloparklab/langchain-cohere-qdrant-retrieval
 https://github.com/menloparklab/langchain-cohere-qdrant-doc-retrieval
 
 https://github.com/berriai/litellm
 https://github.com/sangwan70/cohere-chatbot-pdf-langchain # PDF documents (Pinecone)
+
+https://github.com/cohere-ai/examples # sample apps using the API
+https://github.com/cohere-ai/cohere-toolkit # Docker container with Toolkit
+https://github.com/cohere-ai/cohere-aws # AWS Sagemaker & Bedrock
+
+https://github.com/cohere-ai/cohere-python
+https://github.com/cohere-ai/cohere-typescript
+https://github.com/cohere-ai/sandbox-conversant-lib
+https://github.com/cohere-ai/cohere-terrarium # unsure why this exists
+
+Embed
+https://github.com/cohere-ai/notebooks # Code examples and jupyter notebooks for the Cohere Platform
+https://github.com/cohere-ai/binaryvectordb # Efficient vector database for hundred millions of embeddings.
+https://github.com/cohere-ai/diskvectorindex #
+https://github.com/cohere-ai/sandbox-toy-semantic-search # A demonstration of how a toy (but usable!) semantic search engine can be quickly built using Cohere's platform.
+https://github.com/cohere-ai/magikarp #
+https://github.com/cohere-ai/sandbox-multilingual # A demonstration of a multilingual semantic search engine you can be quickly built using Cohere's platform.
+https://github.com/cohere-ai/sandbox-topically # Topic modeling helpers using managed language models from Cohere. Name text clusters using large GPT models.
+
+Rerank
+https://github.com/cohere-ai/notebooks # Code examples and jupyter notebooks for the Cohere Platform

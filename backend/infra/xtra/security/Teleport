@@ -1,0 +1,36 @@
+https://github.com/gravitational/teleport # The easiest, and most secure way to access and protect all of your infrastructure.
+https://github.com/gravitational/careers # Apply at https://jobs.lever.co/teleport
+https://github.com/gravitational/trace # Package for error handling and error reporting
+https://github.com/gravitational/configure # Configure is a golang library that populates a struct from environment variables, command line arugments and YAML files
+https://github.com/gravitational/rbac-linter #
+https://github.com/gravitational/protoc-gen-terraform # Generates Terraform provider schemas and unmarshallers from protobuf definitions
+https://github.com/gravitational/roundtrip # Library for HTTP request/response workflow
+https://github.com/gravitational/sync-controller # Controller that synchronizes Kubernetes custom resources between clusters
+https://github.com/gravitational/docs # Source code backing goteleport.com/docs
+https://github.com/gravitational/license # CA and licensing tools
+https://github.com/gravitational/slackbot # Gravitational support bot
+https://github.com/gravitational/gha-exporter # GitHub Actions metrics exporter for Prometheus
+https://github.com/gravitational/protobuf-as # Protobuf AssemblyScript compiler
+https://github.com/gravitational/gamma # An open source tool to compile a monorepo of GitHub actions into individual repos
+https://github.com/gravitational/predicate-lang # Predicate - Access Control System
+https://github.com/gravitational/shared-workflows # GitHub Actions shared within the organization
+https://github.com/gravitational/form # Package for handling HTTP web forms input
+https://github.com/gravitational/log # backport of logging facility we are using for compatibility purposes
+https://github.com/gravitational/httplib # HTTP Library utils
+https://github.com/gravitational/reporting # gRPC based client/server usage reporting module
+https://github.com/gravitational/test-it-public-repo # Testing repo
+https://github.com/gravitational/teleport-actions # Mono-repository of GitHub Actions for Teleport
+https://github.com/gravitational/it-onboarding # IT Onboarding
+https://github.com/gravitational/aws-teleport-workshop # Teleport AWS Workshop
+https://github.com/gravitational/.github # Teleport GitHub Organization Repository
+https://github.com/gravitational/teleport-plugin-framework #
+https://github.com/gravitational/devrel # YAML and code snippets supporting video content
+https://github.com/gravitational/pcsc # Fork of https://salsa.debian.org/rousseau/PCSC
+https://github.com/gravitational/setup-gamma # Setup your GitHub actions workflow with a specific version of Gamma
+
+https://github.com/teleport-actions/auth-k8s # GitHub action for Kubernetes authentication with Teleport
+https://github.com/teleport-actions/auth # GitHub Action for authenticating with Teleport
+https://github.com/teleport-actions/setup # GitHub action for setting up Teleport
+https://github.com/teleport-actions/root #
+https://github.com/teleport-actions/auth-application # GitHub Action for Teleport Application Access
+https://github.com/teleport-actions/auth-database # GitHub Action for Teleport Database Access

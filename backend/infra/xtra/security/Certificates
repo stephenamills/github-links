@@ -15,3 +15,4 @@ X-More
 https://github.com/defo-project/ech-dev-utils # Scripts, configurations and HOWTOs for playing with Encrypted ClientHello (ECH)
 
 https://www.iana.org/assignments/pkix-parameters
+https://www.iana.org/assignments/smi-numbers # SMI Security for PKIX
