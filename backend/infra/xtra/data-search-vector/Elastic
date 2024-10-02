@@ -20,11 +20,4 @@ https://github.com/elastic/dbt_duckdb # Boiler Plate dbt Project using Sqlite fo
 Rank
 https://github.com/elastic/elasticsearch-labs # Notebooks & Example Apps for Search & AI Applications with Elasticsearch
 https://github.com/elastic/genai-workshops #
-
-X-More
-
-https://github.com/elastic/elasticsearch # Free and Open Source, Distributed, RESTful Search Engine
-
-https://github.com/elastic/pytest-rally #
-https://github.com/elastic/start-local # Try Elasticsearch and Kibana locally
-https://github.com/elastic/app-search-nlp-insurance #
+https://github.com/elastic/relevance-workbench #

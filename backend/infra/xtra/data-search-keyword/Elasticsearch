@@ -1,122 +1,76 @@
-https://github.com/elastic/examples # Home for Elasticsearch examples available to everyone. It's a great way to get started.
-https://github.com/elastic/elasticsearch-net-example # A tutorial repository for Elasticsearch and NEST
-https://github.com/elastic/elasticsearch-labs # Notebooks & Example Apps for Search & AI Applications with Elasticsearch
-https://github.com/elastic/shield-custom-realm-example #
-https://github.com/elastic/found-shield-example # Elastic Cloud Shield Transport Example
-https://github.com/elastic/observability-examples # This repository contains examples for Elastic Observability
-https://github.com/elastic/azure-marketplace-examples # Example scripts that demonstrate different usages of the ARM template in azure-marketplace
-https://github.com/elastic/security-action-examples # This repository contains a few examples of actions that can be added to rules within Elastic Security.
-https://github.com/elastic/ansible-elasticsearch-example #
-https://github.com/elastic/tutorials # Tutorials for building various example demos
-https://github.com/elastic/blog-langchain-elasticsearch # Code examples accompanying blog "Privacy-first AI search using LangChain and Elasticsearch"
-https://github.com/elastic/elasticsearch-php-examples # Examples for using Elasticsearch in PHP
-https://github.com/elastic/rails-app-music # Example rails app demonstrating migration from ActiveRecord to Repository persistence patterns
-https://github.com/elastic/ent-search-examples # Enterprise Search Datasets
-https://github.com/elastic/example-watches #
-https://github.com/elastic/apm-agent-java-plugin-example #
-https://github.com/elastic/workplace-search-example-connector # Example connector for Elastic Workplace Search
-https://github.com/elastic/code-examples_single-line #
-https://github.com/elastic/painless-data-science-examples #
-https://github.com/elastic/apm-agent-dotnet-profiler-example # An example of profiler auto instrumentation with the APM .NET agent
-https://github.com/elastic/elevancehealth_examples # vector search and llm integrations with colab
-https://github.com/elastic/elastic-otel-node-example #
-https://github.com/elastic/store-locator # Example of a store locator using Enterprise Search and Search UI.
+https://github.com/searchkit/searchkit # Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
+https://github.com/searchkit/searchkit-demo # React Elasticsearch example using Searchkit
+https://github.com/searchkit/searchkit-starter-app # Searchkit starter app. Based off create-react-app
+https://github.com/searchkit/searchkit-express # Elasticsearch express middleware
+https://github.com/searchkit/searchkit-autocomplete #
+https://github.com/searchkit/searchkit-universal #
 
-https://github.com/elastic/elasticsearch-net-example # A tutorial repository for Elasticsearch and NEST
-https://github.com/elastic/tutorials # Tutorials for building various example demos
+https://github.com/appbaseio/dejavu # The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+https://github.com/appbaseio/reactivesearch # Search UI components for React and Vue
+https://github.com/appbaseio/mirage # GUI for simplifying Elasticsearch Query DSL
 
-https://github.com/elastic/genai-workshop-codespaces # Elastic GenAI Workshop (Codespaces)
-https://github.com/elastic/genai-workshop-colab # Elastic GenAI Workshop (Colab)
-https://github.com/elastic/pycon-2021-workshop-app-search # Searchable Django Applications with Elastic App Search
-https://github.com/elastic/aws-workshop #
-https://github.com/elastic/genai-workshops #
-https://github.com/elastic/hybrid-search-instruqt-workshop # hybrid-search-instruqt-workshop
-https://github.com/elastic/notebook-workshop-loader #
+https://github.com/zentity-io/zentity # Entity resolution for Elasticsearch.
+https://github.com/zentity-io/zentity-ui # The official user interface for zentity
+https://github.com/zentity-io/zentity-sandbox # An Elasticsearch development environment preloaded with zentity, analysis plugins, real data, and sample entity models.
+https://github.com/zentity-io/zentity-io.github.io # The website for zentity.io
+
+https://github.com/elasticsearch-dump/elasticsearch-dump # import and export tools for elasticsearch & opensearch
+
+https://github.com/elastic/elasticsearch # Free and Open Source, Distributed, RESTful Search Engine
 
 https://github.com/elastic/vue-search-ui-demo # A demo of implementing Elastic's Search UI and App Search using Vue.js
-https://github.com/elastic/tutorials # Tutorials for building various example demos
+https://github.com/elastic/app-search-reference-ui-react # A generic UI for use with any App Search Engine
 https://github.com/elastic/app-search-kb-demo # A beautiful, modern customer support/knowledge base search experience for App Search using Search UI.
-https://github.com/elastic/opbeans-loadgen # Load generator for Opbeans demo apps
-https://github.com/elastic/synthetics-demo # Demo app for elastic/synthetics
 https://github.com/elastic/seattle-indies-expo-search # An experimental demo in implementing Swiftype's Search UI and App Search for an indie video game festival.
-https://github.com/elastic/opbeans-php # PHP backend implementation for Opbeans, Elastic APM demo app
-https://github.com/elastic/opbeans-swift # Opbeans customer & admin demo application
-https://github.com/elastic/kibana-demo-data # A shell script to install all known demo data to in Kibana
-https://github.com/elastic/docker-attestation-demo # Test GitHub attestations for docker
-https://github.com/elastic/tines-demo-story-screenshots # Used to host screenshots as seen in our demo Tines story annotations
-https://github.com/elastic/elastic-charts-playground # Elastic Charts Playground to demo features and issues
-
-https://github.com/elastic/sample-app-android-apm # Sample app to show the Elastic APM implementation on Android apps
-https://github.com/elastic/aws-lambda-apm-sample-app # Sample Node.js app for AWS Lambda demonstrating the usage of Elastic APM
-https://github.com/elastic/chatgpt-error-analysis # This repository provides a sample watcher script that can be used to send log messages to chatgpt (openai) for analysis.
+https://github.com/elastic/blog-langchain-elasticsearch # Code examples accompanying blog "Privacy-first AI search using LangChain and Elasticsearch"
+https://github.com/elastic/pycon-2021-workshop-app-search # Searchable Django Applications with Elastic App Search
+https://github.com/elastic/elastiflix # Ingest data into Elastic Enterprise Search using the Enterprise Search Python Libraries, and to create a modern UI in React
+https://github.com/elastic/search-next # A nextjs prototype of the Search solution for testing out new UX flows and end-to-end experiences.
+https://github.com/elastic/store-locator # Example of a store locator using Enterprise Search and Search UI.
+https://github.com/elastic/hybrid-search-instruqt-workshop # hybrid-search-instruqt-workshop
+https://github.com/elastic/app-search-nlp-insurance #
+https://github.com/elastic/hotclub # Hot Club of Search living prototype
 https://github.com/elastic/personalization-clicks # This is a sample repository to show how we can use Enterprise Search out of the box supports for clicks analytics to add personalization on a search exprerience.
 
-https://github.com/elastic/docs #
-https://github.com/elastic/built-docs # Generated docs
-https://github.com/elastic/stack-docs # Elastic Stack Documentation
-https://github.com/elastic/security-docs # Elastic Security Documentation
-https://github.com/elastic/observability-docs # Elastic Observability Documentation
-https://github.com/elastic/logstash-docs # GENERATED REPOSITORY. DO NOT EDIT. - Documentation repository for Logstash static asciidoc and generated plugin asciidoc.
-https://github.com/elastic/crd-ref-docs # Generates Kubernetes CRD API reference documentation
-https://github.com/elastic/ingest-docs # Elastic Ingest Documentation
-https://github.com/elastic/docs-tools # A place to put documentation tooling
-https://github.com/elastic/docs-content # Elastic Documentation Content
-https://github.com/elastic/docs-kr # Elasticsearch and Kibana docs in Korea. Listed at info-kr.elastic.co
-https://github.com/elastic/cti-docs # CTI Onboarding / Developer Documentation
-https://github.com/elastic/cluster-permissions-docs #
-https://github.com/elastic/elasticdocs_customgpt #
-
-https://github.com/elastic/examples # Home for Elasticsearch examples available to everyone. It's a great way to get started.
+https://github.com/elastic/elasticsearch-dsl-py # High level Python client for Elasticsearch
+https://github.com/elastic/search-ui # Search UI. Libraries for the fast development of modern, engaging search experiences.
+https://github.com/elastic/elasticsearch-py # Official Python client for Elasticsearch
+https://github.com/elastic/elasticsearch-hadoop # Elasticsearch real-time search and analytics natively integrated with Hadoop
+https://github.com/elastic/elasticsearch-ruby # Ruby integrations for Elasticsearch
+https://github.com/elastic/elasticsearch-java # Official Elasticsearch Java Client
 https://github.com/elastic/elasticsearch-labs # Notebooks & Example Apps for Search & AI Applications with Elasticsearch
-
-https://github.com/elastic/relevance-workbench #
-https://github.com/elastic/elastiflix # Elastic Netflix application with React
-
-Application Performance Monitoring
-https://github.com/elastic/apm # Elastic Application Performance Monitoring - resources and general issue tracking.
-
-https://github.com/elastic/apm-server #
-https://github.com/elastic/apm-agent-java #
-https://github.com/elastic/apm-agent-nodejs #
-https://github.com/elastic/apm-agent-dotnet #
-https://github.com/elastic/apm-agent-python #
-https://github.com/elastic/apm-agent-go #
-https://github.com/elastic/apm-agent-ruby #
-https://github.com/elastic/apm-agent-rum-js #
-https://github.com/elastic/apm-agent-php #
-https://github.com/elastic/apm-contrib # Contrib repository for Elastic APM
-https://github.com/elastic/apm-data # apm-data holds definitions and code for manipulating Elastic APM data
-https://github.com/elastic/apm-aws-lambda # A repository for the AWS Lambda extension and other lambda related tools and build scripts.
-https://github.com/elastic/apm-agent-ios #
-https://github.com/elastic/hey-apm # Basic load generation for apm-server built on hey
-https://github.com/elastic/apm-k8s-attacher # Elastic APM Attacher for Kubernetes
-https://github.com/elastic/apm-agent-android # Elastic APM Android Agent
-https://github.com/elastic/apm-queue # Abstraction layer over Kafka / GCP PubSub Lite to produce and consume records
-https://github.com/elastic/apm-perf #
-https://github.com/elastic/apm-aggregation # APM metrics aggregation library
-https://github.com/elastic/apm-tools # Tools for developing and testing with Elastic APM
-https://github.com/elastic/apm-agent-python-benchmarks # Benchmarks for the Python APM Agent
-https://github.com/elastic/apm-pipeline-library #
-https://github.com/elastic/opbeans-flask # A flask implementation of the Opbeans test app for Elastic APM
-https://github.com/elastic/opbeans-php # PHP backend implementation for Opbeans, Elastic APM demo app
-https://github.com/elastic/apm-agent-java-plugin-example #
-https://github.com/elastic/sample-app-android-apm # Sample app to show the Elastic APM implementation on Android apps
-https://github.com/elastic/apm-parser #
-https://github.com/elastic/scalability-simulation-generator # Generates server benchmarking simulations based on APM parser output
-https://github.com/elastic/aws-lambda-apm-sample-app # Sample Node.js app for AWS Lambda demonstrating the usage of Elastic APM
-https://github.com/elastic/apm-agent-dotnet-profiler-example # An example of profiler auto instrumentation with the APM .NET agent
-https://github.com/elastic/apm-agent-versions # GCP function to fetch apm agent versions
-https://github.com/elastic/synthbeans-python # An application for generating synthetic APM data which confirms to defined parameters.
-
-Beats
-https://github.com/elastic/beats # :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
-https://github.com/elastic/logstash-forwarder # An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat
-https://github.com/elastic/beats-dashboards # DEPRECATED. Moved to https://github.com/elastic/beats. Please use the new repository to add new issues.
-https://github.com/elastic/beats-tester # E2E tests for the Beats
-https://github.com/elastic/elastic-agent-libs # Libraries used by Elastic Agent and Beats
-https://github.com/elastic/beats-packer # DEPRECATED: Moved to https://github.com/elastic/beats/tree/master/dev-tools/packer
-https://github.com/elastic/elastic-agent-changelog-tool # Tooling to manage the changelog for beats, Elastic Agent and Fleet Server
-https://github.com/elastic/machinebeat # This is a beat for collecting data of machines, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
+https://github.com/elastic/enterprise-search-python # Official Python client for Elastic Enterprise Search, App Search, and Workplace Search
+https://github.com/elastic/app-search-javascript # Elastic App Search Official JavaScript Client
+https://github.com/elastic/app-search-node # Elastic App Search Official Node.js Client
+https://github.com/elastic/app-search-php # Elastic App Search Official PHP Client
+https://github.com/elastic/openapi-codegen-php # Components shared across different PHP clients (Site Search, App Search, ...).
+https://github.com/elastic/enterprise-search-js # Official Node.js client for Elastic Enterprise Search, App Search, and Workplace Search.
+https://github.com/elastic/enterprise-search-php # Elastic Enterprise Search Official PHP Client
+https://github.com/elastic/app-search-magento # A first party module to integrate Elastic App Search in Magento 2.
+https://github.com/elastic/app-search-firestore-extension # An extension that syncs data from Google's [Cloud Firestore](https://firebase.google.com/products/firestore) to [Elastic App Search](https://www.elastic.co/app-search/).
+https://github.com/elastic/enterprise-search-ruby # Official Ruby client for Elastic Enterprise Search, App Search, and Workplace Search
+https://github.com/elastic/site-search-python # Elastic Site Search Official Python Client
+https://github.com/elastic/site-search-php # Elastic Site Search Official PHP Client
+https://github.com/elastic/site-search-node # Elastic Site Search Official Node.js Client
+https://github.com/elastic/connectors # Source code for all Elastic connectors, developed by the Search team at Elastic, and home of our Python connector development framework
+https://github.com/elastic/workplace-search-node # Elastic Workplace Search Official Node.js Client
+https://github.com/elastic/elasticsearch-chatgpt-php # Use ChatGPT to search in Elasticsearch using natural language
+https://github.com/elastic/enterprise-search-sharepoint-server-connector # Official SharePoint Server Connector Package for Elastic Enterprise Search - Workplace Search
+https://github.com/elastic/enterprise-search-network-drive-connector # Official Enterprise Search | Workplace Search - Network Drives Connector
+https://github.com/elastic/workplace-search-python # Elastic Workplace Search Official Python Client
+https://github.com/elastic/search-application-client #
+https://github.com/elastic/site-search-ruby # Elastic Site Search Official Ruby Client
+https://github.com/elastic/ent-search-monitoring # Elastic Enterprise Search Monitoring Dashboard
+https://github.com/elastic/powershell # PowerShell modules for the Elastic Stack
+https://github.com/elastic/ent-search-examples # Enterprise Search Datasets
+https://github.com/elastic/enterprise-search-zoom-connector # Official Zoom Connector Package for Elastic Enterprise Search, App Search and Workplace Search
+https://github.com/elastic/quick-deploy # Provides a very easy and simple way to deploy Elastic Search and Kibana.
+https://github.com/elastic/workplace-search-example-connector # Example connector for Elastic Workplace Search
+https://github.com/elastic/enterprise-search-microsoft-outlook-connector # Official Microsoft Outlook Connector Package for Elastic Enterprise Search, App Search and Workplace Search
+https://github.com/elastic/elasticsearch-opensearch-vector-performance # Terraform, Kubernetes and Rally tracks reproducing the Vector Search performance comparison tests for Elasticsearch and OpenSearch
+https://github.com/elastic/nbtest # Notebook testing tool from Elastic's Search Labs
+https://github.com/elastic/enterprise-search-microsoft-teams-connector # Enterprise Search | Workplace Search - Microsoft Teams Connector
+https://github.com/elastic/cluster-migration # Tools and scripts for migrating large clusters using searchable snapshots as the primary data movement mechanism.
 
 Kibana
 https://github.com/elastic/kibana # Your window into the Elastic Stack
@@ -146,255 +100,3 @@ https://github.com/elastic/ent-search-monitoring # Elastic Enterprise Search Mon
 https://github.com/elastic/llm-detection-proxy # A proxy tool for detecting and logging LLM queries to Elasticsearch.
 https://github.com/elastic/kbncontent # A Go module containing logic for analyzing Kibana content.
 https://github.com/elastic/custom-epr-builder # Generates resources to create an EPR docker image with Kibana version specific integrations
-
-Logstash
-https://github.com/elastic/logstash # Logstash - transport and process your logs, events, or other data
-https://github.com/elastic/beats # :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
-
-https://github.com/elastic/logstash-forwarder # An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat
-https://github.com/elastic/logstash-contrib # THIS REPOSITORY IS NO LONGER USED.
-https://github.com/elastic/support-diagnostics # Support diagnostics utility for elasticsearch and logstash
-https://github.com/elastic/puppet-logstashforwarder # Puppet module for Logstash Forwarder
-https://github.com/elastic/logstash-docs # GENERATED REPOSITORY. DO NOT EDIT. - Documentation repository for Logstash static asciidoc and generated plugin asciidoc.
-https://github.com/elastic/logstash-performance-testing # Logstash performance testing tool
-https://github.com/elastic/logstash-devutils # An assortment of tooling/libraries to make Logstash core and plugin development and releasing a bit easier.
-https://github.com/elastic/jarvis # Logstash's ChatOps bot, J.A.R.V.I.S.
-https://github.com/elastic/go-lumber # Go based lumberjack client and server implementation.
-https://github.com/elastic/logstash-filter-elastic_integration # The Elastic Integrations filter for Logstash, which enables running Elastic Integrations inside of Logstash pipelines
-https://github.com/elastic/logstash-external-monitoring-repro # Reproduces a problem with pipelines going missing from the Monitoring view
-https://github.com/elastic/logstash-ruby-scripts # Collection of ruby scripts for Logstash's Ruby filter plugin
-
-Search
-https://github.com/elastic/elasticsearch # Free and Open Source, Distributed, RESTful Search Engine
-
-https://github.com/elastic/elasticsearch-dsl-py # High level Python client for Elasticsearch
-https://github.com/elastic/search-ui # Search UI. Libraries for the fast development of modern, engaging search experiences.
-https://github.com/elastic/elasticsearch-py # Official Python client for Elasticsearch
-https://github.com/elastic/elasticsearch-hadoop # :elephant: Elasticsearch real-time search and analytics natively integrated with Hadoop
-https://github.com/elastic/elasticsearch-ruby # Ruby integrations for Elasticsearch
-https://github.com/elastic/elasticsearch-java # Official Elasticsearch Java Client
-https://github.com/elastic/elasticsearch-labs # Notebooks & Example Apps for Search & AI Applications with Elasticsearch
-https://github.com/elastic/enterprise-search-python # Official Python client for Elastic Enterprise Search, App Search, and Workplace Search
-https://github.com/elastic/app-search-javascript # Elastic App Search Official JavaScript Client
-https://github.com/elastic/app-search-node # Elastic App Search Official Node.js Client
-https://github.com/elastic/app-search-php # Elastic App Search Official PHP Client
-https://github.com/elastic/vue-search-ui-demo # A demo of implementing Elastic's Search UI and App Search using Vue.js
-https://github.com/elastic/app-search-reference-ui-react # A generic UI for use with any App Search Engine
-https://github.com/elastic/openapi-codegen-php # Components shared across different PHP clients (Site Search, App Search, ...).
-https://github.com/elastic/enterprise-search-js # Official Node.js client for Elastic Enterprise Search, App Search, and Workplace Search.
-https://github.com/elastic/enterprise-search-php # Elastic Enterprise Search Official PHP Client
-https://github.com/elastic/app-search-magento # A first party module to integrate Elastic App Search in Magento 2.
-https://github.com/elastic/app-search-firestore-extension # An extension that syncs data from Google's [Cloud Firestore](https://firebase.google.com/products/firestore) to [Elastic App Search](https://www.elastic.co/app-search/).
-https://github.com/elastic/enterprise-search-ruby # Official Ruby client for Elastic Enterprise Search, App Search, and Workplace Search
-https://github.com/elastic/app-search-kb-demo # A beautiful, modern customer support/knowledge base search experience for App Search using Search UI.
-https://github.com/elastic/site-search-python # Elastic Site Search Official Python Client
-https://github.com/elastic/site-search-php # Elastic Site Search Official PHP Client
-https://github.com/elastic/site-search-node # Elastic Site Search Official Node.js Client
-https://github.com/elastic/connectors # Source code for all Elastic connectors, developed by the Search team at Elastic, and home of our Python connector development framework
-https://github.com/elastic/workplace-search-node # Elastic Workplace Search Official Node.js Client
-https://github.com/elastic/seattle-indies-expo-search # An experimental demo in implementing Swiftype's Search UI and App Search for an indie video game festival.
-https://github.com/elastic/elasticsearch-chatgpt-php # Use ChatGPT to search in Elasticsearch using natural language
-https://github.com/elastic/blog-langchain-elasticsearch # Code examples accompanying blog "Privacy-first AI search using LangChain and Elasticsearch"
-https://github.com/elastic/enterprise-search-sharepoint-server-connector # Official SharePoint Server Connector Package for Elastic Enterprise Search - Workplace Search
-https://github.com/elastic/pycon-2021-workshop-app-search # Searchable Django Applications with Elastic App Search
-https://github.com/elastic/enterprise-search-network-drive-connector # Official Enterprise Search | Workplace Search - Network Drives Connector
-https://github.com/elastic/workplace-search-python # Elastic Workplace Search Official Python Client
-https://github.com/elastic/search-application-client #
-https://github.com/elastic/site-search-ruby # Elastic Site Search Official Ruby Client
-https://github.com/elastic/elastiflix # Ingest data into Elastic Enterprise Search using the Enterprise Search Python Libraries, and to create a modern UI in React
-https://github.com/elastic/ent-search-monitoring # Elastic Enterprise Search Monitoring Dashboard
-https://github.com/elastic/powershell # PowerShell modules for the Elastic Stack
-https://github.com/elastic/ent-search-examples # Enterprise Search Datasets
-https://github.com/elastic/enterprise-search-zoom-connector # Official Zoom Connector Package for Elastic Enterprise Search, App Search and Workplace Search
-https://github.com/elastic/quick-deploy # Provides a very easy and simple way to deploy Elastic Search and Kibana.
-https://github.com/elastic/workplace-search-example-connector # Example connector for Elastic Workplace Search
-https://github.com/elastic/enterprise-search-microsoft-outlook-connector # Official Microsoft Outlook Connector Package for Elastic Enterprise Search, App Search and Workplace Search
-https://github.com/elastic/search-next # A nextjs prototype of the Search solution for testing out new UX flows and end-to-end experiences.
-https://github.com/elastic/elasticsearch-opensearch-vector-performance # Terraform, Kubernetes and Rally tracks reproducing the Vector Search performance comparison tests for Elasticsearch and OpenSearch
-https://github.com/elastic/nbtest # Notebook testing tool from Elastic's Search Labs
-https://github.com/elastic/enterprise-search-microsoft-teams-connector # Enterprise Search | Workplace Search - Microsoft Teams Connector
-https://github.com/elastic/store-locator # Example of a store locator using Enterprise Search and Search UI.
-https://github.com/elastic/hybrid-search-instruqt-workshop # hybrid-search-instruqt-workshop
-https://github.com/elastic/app-search-nlp-insurance #
-https://github.com/elastic/hotclub # Hot Club of Search living prototype
-https://github.com/elastic/elevancehealth_examples # vector search and llm integrations with colab
-https://github.com/elastic/personalization-clicks # This is a sample repository to show how we can use Enterprise Search out of the box supports for clicks analytics to add personalization on a search exprerience.
-https://github.com/elastic/cluster-migration # Tools and scripts for migrating large clusters using searchable snapshots as the primary data movement mechanism.
-
-https://github.com/searchkit/searchkit # Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
-https://github.com/searchkit/searchkit-demo # React Elasticsearch example using Searchkit
-https://github.com/searchkit/searchkit-starter-app # Searchkit starter app. Based off create-react-app
-https://github.com/searchkit/searchkit-express # Elasticsearch express middleware
-https://github.com/searchkit/searchkit-autocomplete #
-https://github.com/searchkit/searchkit-universal #
-
-https://github.com/appbaseio/dejavu # The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-https://github.com/appbaseio/reactivesearch # Search UI components for React and Vue
-https://github.com/appbaseio/mirage # GUI for simplifying Elasticsearch Query DSL
-
-Everything else
-https://github.com/elastic/eui # Elastic UI Framework 🙌
-https://github.com/elastic/go-elasticsearch # The official Go client for Elasticsearch
-https://github.com/elastic/elasticsearch-php # Official PHP client for Elasticsearch.
-https://github.com/elastic/elasticsearch-js # Official Elasticsearch client library for Node.js
-https://github.com/elastic/elasticsearch-py # Official Python client for Elasticsearch
-https://github.com/elastic/elasticsearch-dsl-py # High level Python client for Elasticsearch
-https://github.com/elastic/elasticsearch-net # This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
-https://github.com/elastic/elasticsearch-rails # Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-
-https://github.com/elastic/curator # Curator: Tending your Elasticsearch indices
-https://github.com/elastic/rally # Macrobenchmarking framework for Elasticsearch
-https://github.com/elastic/rally-tracks # Track specifications for the Elasticsearch benchmarking tool Rally
-https://github.com/elastic/rally-teams # Default Elasticsearch configurations for the Elasticsearch benchmarking tool Rally
-https://github.com/elastic/elasticsearch-opensearch-benchmark # Benchmarking Elasticsearch vs. Opensearch
-https://github.com/elastic/apm-agent-python-benchmarks # Benchmarks for the Python APM Agent
-https://github.com/elastic/scalability-simulation-generator # Generates server benchmarking simulations based on APM parser output
-https://github.com/elastic/detection-rules #
-https://github.com/elastic/search-ui # Search UI. Libraries for the fast development of modern, engaging search experiences.
-https://github.com/elastic/logstash-forwarder # An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/filebeat
-https://github.com/elastic/protections-artifacts # Elastic Security detection content for Endpoint
-https://github.com/elastic/ecs # Elastic Common Schema
-https://github.com/elastic/sense # A JSON aware developer's interface to Elasticsearch. Comes with handy machinery such as syntax highlighting, autocomplete, formatting and code folding.
-https://github.com/elastic/elastic-charts #
-https://github.com/elastic/dockerfiles # Dockerfiles for the official Elastic Stack images
-https://github.com/elastic/elasticsearch-migration # This plugin will help you to check whether you can upgrade directly to the next major version of Elasticsearch, or whether you need to make changes to your data and cluster before doing so.
-https://github.com/elastic/support-diagnostics # Support diagnostics utility for elasticsearch and logstash
-https://github.com/elastic/elasticsearch-formal-models # Formal models of core Elasticsearch algorithms
-https://github.com/elastic/beats-dashboards # DEPRECATED. Moved to https://github.com/elastic/beats. Please use the new repository to add new issues.
-https://github.com/elastic/integrations # Elastic Integrations
-https://github.com/elastic/terraform-provider-ec #
-https://github.com/elastic/dorothy # Dorothy is a tool to test security monitoring and detection for Okta environments
-https://github.com/elastic/terraform-provider-elasticstack # Terraform provider for Elastic Stack
-https://github.com/elastic/swat # Simple Workspace Attack Tool (SWAT) is a tool for simulating malicious behavior against Google Workspace in reference to the MITRE ATT&CK framework.
-https://github.com/elastic/elasticsearch-analysis-phonetic # Phonetic Analysis Plugin for Elasticsearch
-https://github.com/elastic/elastic-agent # Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.
-https://github.com/elastic/anonymize-it # a general utility for anonymizing data
-https://github.com/elastic/elasticsearch-specification # Elasticsearch full specification
-https://github.com/elastic/elastic-serverless-forwarder # Elastic Serverless Forwarder
-https://github.com/elastic/app-search-firestore-extension # An extension that syncs data from Google's [Cloud Firestore](https://firebase.google.com/products/firestore) to [Elastic App Search](https://www.elastic.co/app-search/).
-https://github.com/elastic/leakchecker # Agent that detects certain memory leaks
-https://github.com/elastic/package-spec # EPR package specifications
-https://github.com/elastic/tealess # WORK IN PROGRESS - An SSL/TLS troubleshooting tool aimed at providing actionable diagnostics for SSL/TLS configuration problems.
-https://github.com/elastic/detection-rules-explorer # UI to explore and learn about Elastic Security Detection Rules
-https://github.com/elastic/trigger-eui # Build fantastic UX for Trigger and MBT with EUI
-https://github.com/elastic/llm-detection-proxy # A proxy tool for detecting and logging LLM queries to Elasticsearch.
-https://github.com/elastic/logstash-filter-elastic_integration # The Elastic Integrations filter for Logstash, which enables running Elastic Integrations inside of Logstash pipelines
-https://github.com/elastic/sql-summary # Summarize any SQL query
-https://github.com/elastic/gen-ai-meetup-to-2023 #
-https://github.com/elastic/osm-bright-desaturated-gl-style # OpenMapTiles OSM Bright GL Style with muted colors to replicate CSS transforms in Kibana
-
-OpenSearch
-https://github.com/opensearch-project/opensearch # 🔎 Open source distributed and RESTful search engine.
-https://github.com/opensearch-project/opensearch-dashboards # 📊 Open source visualization dashboards for OpenSearch.
-https://github.com/opensearch-project/opensearch-k8s-operator # OpenSearch Kubernetes Operator
-https://github.com/opensearch-project/opensearch-py # Python Client for OpenSearch
-https://github.com/opensearch-project/data-prepper # Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.
-https://github.com/opensearch-project/opensearch-go # Go Client for OpenSearch
-https://github.com/opensearch-project/security # 🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields https://github.com/opensearch-project/opensearch-js # Node.js Client for OpenSearch
-https://github.com/opensearch-project/helm-charts # :wheel_of_dharma: A community repository for Helm Charts of OpenSearch Project.
-https://github.com/opensearch-project/k-nn # 🆕 Find the k-nearest neighbors (k-NN) for your vector data
-https://github.com/opensearch-project/opensearch-build # 🧰 OpenSearch / OpenSearch-Dashboards Build Systems
-https://github.com/opensearch-project/opensearch-java # Java Client for OpenSearch
-https://github.com/opensearch-project/spring-data-opensearch #
-https://github.com/opensearch-project/sql # Query your data using familiar SQL or intuitive Piped Processing Language (PPL)
-https://github.com/opensearch-project/opensearch-benchmark # OpenSearch Benchmark - a community driven, open source project to run performance tests for OpenSearch
-https://github.com/opensearch-project/logstash-output-opensearch # A Logstash plugin that sends event data to a OpenSearch clusters and stores as an index.
-https://github.com/opensearch-project/opensearch-net # OpenSearch .NET Client
-https://github.com/opensearch-project/opensearch-php # Official PHP Client for OpenSearch
-https://github.com/opensearch-project/opensearch-ruby # Ruby Client for OpenSearch
-https://github.com/opensearch-project/ml-commons # ml-commons provides a set of common machine learning algorithms, e.g. k-means, or linear regression, to help developers build ML related features within OpenSearch. https://github.com/opensearch-project/ansible-playbook # 🤖 A community repository for Ansible Playbook of OpenSearch Project.
-https://github.com/opensearch-project/terraform-provider-opensearch #
-https://github.com/opensearch-project/security-dashboards-plugin # 🔐 Manage your internal users, roles, access control, and audit
-logs from OpenSearch Dashboards https://github.com/opensearch-project/security-analytics # Security Analytics enables users for detecting security threats on their
-security event log data. It will also allow them to modify/tailor the pre-packaged solution. https://github.com/opensearch-project/documentation-website # The documentation for OpenSearch, OpenSearch Dashboards, and their as
-sociated plugins. https://github.com/opensearch-project/anomaly-detection # Identify atypical data and receive automatic notifications
-https://github.com/opensearch-project/neural-search # Plugin that adds dense neural retrieval into the OpenSearch ecosytem
-https://github.com/opensearch-project/opensearch-rs # OpenSearch Rust Client
-https://github.com/opensearch-project/alerting # 📟 Get notified when your data meets certain conditions by setting up monitors, alerts, and notifications
-https://github.com/opensearch-project/index-management # 🗃 Automate periodic data operations, such as deleting indices at a certain age or performing a rollover at a certain size
-https://github.com/opensearch-project/observability # Visualize and explore your logs, traces and metrics data in OpenSearch Dashboards
-https://github.com/opensearch-project/opensearch-plugins # For all things OpenSearch plugins. You want to install, or develop a plugin? You've come to the right place.
-https://github.com/opensearch-project/cross-cluster-replication # Synchronize your data across multiple clusters for lower latencies and higher availability
-https://github.com/opensearch-project/opensearch-devops # :smile: We welcome all the community members to help develop third party tools/automations/workflows for OpenSearch/OpenSearch-Dashboards.
-https://github.com/opensearch-project/opensearch-cli # A full-featured command line interface (CLI) for OpenSearch.
-https://github.com/opensearch-project/project-website # The source to opensearch.org
-https://github.com/opensearch-project/performance-analyzer # 📈 Get detailed performance metrics from your cluster independently of the Java Virtual Machine (JVM)
-https://github.com/opensearch-project/oui # OpenSearch UI Framework
-https://github.com/opensearch-project/geospatial # Future home of Geospatial features for OpenSearch
-https://github.com/opensearch-project/flow-framework # OpenSearch plugin that enables builders to innovate AI apps on OpenSearch
-https://github.com/opensearch-project/opensearch-migrations # All things migrations and upgrades for OpenSearch
-https://github.com/opensearch-project/opensearch-api-specification # API specification for OpenSearch
-https://github.com/opensearch-project/opensearch-py-ml #
-https://github.com/opensearch-project/performance-analyzer-rca # The Performance Analyzer RCA is a framework that builds on the Performance Analyzer engine to support root cause analysis (RCA) of performance and reliability problems for OpenSearch instances.
-https://github.com/opensearch-project/anomaly-detection-dashboards-plugin # Manage your detectors and identify atypical data in OpenSearch Dashboards
-https://github.com/opensearch-project/opensearch-hadoop #
-https://github.com/opensearch-project/opensearch-sdk-java # OpenSearch SDK to build and run extensions
-https://github.com/opensearch-project/.github # Provides templates and resources for other OpenSearch project repositories.
-https://github.com/opensearch-project/reporting # Export and automate PNG, PDF, and CSV reports in OpenSearch Dashboards
-https://github.com/opensearch-project/asynchronous-search # :arrow_forward: Run queries in the background and retrieve partial results along the way
-https://github.com/opensearch-project/alerting-dashboards-plugin # 📟 Manage your monitors, alerts and notifications in OpenSearch Dashboards
-https://github.com/opensearch-project/notifications # Notifications plugin for OpenSearch enables other plugins to send notifications via Email, Slack, Amazon Chime, Custom web-hook etc channels
-https://github.com/opensearch-project/opensearch-plugin-template-java # Template repo for creating OpenSearch plugins
-https://github.com/opensearch-project/search-processor # Search Request Processor: pipeline for transformation of queries and results inline with a search request.
-https://github.com/opensearch-project/job-scheduler # Run periodic jobs on the cluster from your plugin
-https://github.com/opensearch-project/common-utils # Offers a library of utilities for building Java-based OpenSearch plugins
-https://github.com/opensearch-project/opensearch-catalog # The OpenSearch Catalog is designed to make it easier for developers and community to contribute, search and install artifacts like plugins, visualization dashboards, ingestion to visualization content packs (data pipeline configurations, normalization, ingestion, dashboards). https://github.com/opensearch-project/opensearch-testcontainers #
-https://github.com/opensearch-project/opensearch-benchmark-workloads # Official workloads used by OpenSearch Benchmark (OSB)
-https://github.com/opensearch-project/dashboards-search-relevance # Tools to help search relevance engineers and business users tune search results for their OpenSearch applications.
-https://github.com/opensearch-project/piped-processing-language # Query your data using an intuitive Piped Processing Language (PPL)
-https://github.com/opensearch-project/dashboards-assistant # Dashboard assistant is a way for users on OpenSearch Dashboards to interact with an assistant through chat or the different OSD pages
-https://github.com/opensearch-project/dashboards-maps # :globe_with_meridians: User interface for the backend geospatial plugin which can be integrated with OpenSearch Dashboards and a home for all other map related features.
-https://github.com/opensearch-project/user-behavior-insights # User Behavior Insights plugin for OpenSearch
-https://github.com/opensearch-project/index-management-dashboards-plugin # 🗃 Manage policies and jobs and automate periodic data operations in OpenSearch Dashboards
-https://github.com/opensearch-project/perftop # 📈 PerfTop: A client for the OpenSearch Performance Analyzer
-https://github.com/opensearch-project/opensearch-ci # Enables continuous integration across OpenSearch, OpenSearch Dashboards, and plugins.
-https://github.com/opensearch-project/dashboards-observability # Visualize and explore your logs, traces and metrics data in OpenSearch Dashboards
-https://github.com/opensearch-project/sql-jdbc # This is the driver for JDBC connectivity to a cluster running with OpenSearch SQL support.
-https://github.com/opensearch-project/opensearch-cluster-cdk #
-https://github.com/opensearch-project/opensearch-spark # Spark Accelerator framework ; It enables secondary indices to remote data stores.
-https://github.com/opensearch-project/dashboards-anywhere # Cloud native infrastructure for the OpenSearch Dashboards service.
-https://github.com/opensearch-project/dashboards-visualizations # Visualize the start, end, and duration of unique events in a sequence in OpenSearch Dashboards
-https://github.com/opensearch-project/opensearch-dashboards-functional-test # Maintains functional tests for OpenSearch Dashboards and Dashboards plugins
-https://github.com/opensearch-project/security-analytics-dashboards-plugin # Front end (UI) plugin to support security-analytics
-https://github.com/opensearch-project/opensearch-sdk-py # OpenSearch Extensions SDK for Python.
-https://github.com/opensearch-project/opensearch-clients # For all things about OpenSearch clients.
-https://github.com/opensearch-project/logstash-input-opensearch #
-https://github.com/opensearch-project/dashboards-flow-framework # A UI designer for constructing AI applications with OpenSearch
-https://github.com/opensearch-project/dashboards-notifications # The Notifications plugin provides a central location for all of your notifications from OpenSearch plugins. You can use either OpenSearch Dashboards or the REST API to configure notifications. Dashboards offers a more organized way of selecting a channel type and selecting which OpenSearch plugin sources you want to use.
-https://github.com/opensearch-project/dashboards-reporting #
-https://github.com/opensearch-project/custom-codecs # OpenSearch custom lucene codecs for providing different on-disk index encoding (e.g., compression).
-https://github.com/opensearch-project/sql-odbc # OpenSearchODBC is a read-only ODBC driver for Windows and Mac for connecting to OpenSearch SQL support.
-https://github.com/opensearch-project/query-insights # Query Insights plugin offers frameworks and APIs for analyzing and optimizing query performance in OpenSearch.
-https://github.com/opensearch-project/maps # Maps resources for OpenSearch
-https://github.com/opensearch-project/opensearch-oci-object-storage # OpenSearch Repository Plugin For Oci Object Storage
-https://github.com/opensearch-project/dashboards-query-workbench # The OpenSearch Dashboards Query Workbench enables you to query your OpenSearch data using either SQL or PPL
-https://github.com/opensearch-project/ml-commons-dashboards # User interface for the ml-commons plugin which can be integrated with OpenSearch Dashboards and a health dashboard for machine learning models.
-https://github.com/opensearch-project/simple-schema # The purpose of this Plugin is to enhance open-search engine with user-domain schema by using GraphQL.
-https://github.com/opensearch-project/skills #
-https://github.com/opensearch-project/opensearch-build-libraries #
-https://github.com/opensearch-project/dashboards-desktop #
-https://github.com/opensearch-project/ux # Public repository for OpenSearch UX. Tracks issues, epics and workstreams related to improving the user experience, usability and accessibility of OpenSearch core, dashboards and related plugins.
-https://github.com/opensearch-project/dashboards-i18n #
-https://github.com/opensearch-project/project-tools # OpenSearch project/org tools.
-https://github.com/opensearch-project/sql-cli # The SQL CLI component in OpenSearch is a stand-alone Python application for query
-https://github.com/opensearch-project/performance-analyzer-commons #
-https://github.com/opensearch-project/project-meta # Tools to make it easy to manage processes across the opensearch-project org.
-https://github.com/opensearch-project/reporting-cli #
-https://github.com/opensearch-project/community # OpenSearch Project community standards, practice, process, and governance
-https://github.com/opensearch-project/opensearch-ruby-aws-sigv4 # Sigv4 Wrapper for Ruby OpenSearch Client
-https://github.com/opensearch-project/project-website-search # Provides the search experience for the OpenSearch documentation website
-https://github.com/opensearch-project/opensearch-dashboards-sdk-js #
-https://github.com/opensearch-project/opensearch-dashboards-test-library # Provides utility functions, page object models, test fixture handling for developers to write functional tests for OpenSearch Dashboards and plugins
-https://github.com/opensearch-project/opensearch-metrics # OpenSearch Metrics
-https://github.com/opensearch-project/demos #
-https://github.com/opensearch-project/opensearch-research #
-https://github.com/opensearch-project/query-insights-dashboards #
-https://github.com/opensearch-project/oui-docs-cdk # This is the automation code for creating the infrastructure required for CI/CD of OUI documentations website
-https://github.com/opensearch-project/skills-eval # Eval framework for evaluating quality and performance of skills for ml-common's agent framework
-https://github.com/opensearch-project/data-prepper-documentation-website #
-https://github.com/opensearch-project/opensearch-system-templates # The repository is a plugin which acts as a repository for system templates which should be loaded as part of the cluster setup. These contain application based configuration templates which are used to provide sensible defaults for various use-cases for which users may be using OpenSearch.
-https://github.com/opensearch-project/foundation-website # The OpenSearch Software Foundation website.
-https://github.com/opensearch-project/traffic-replayer #
-https://github.com/opensearch-project/traffic-comparator #
-
-https://dbdb.io/db/elasticsearch

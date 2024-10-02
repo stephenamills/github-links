@@ -1,0 +1,7 @@
+https://github.com/zincsearch/zincsearch # ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+
+https://github.com/zincsearch/sdk-go-zincsearch # Go SDK Client for ZincSearch
+https://github.com/zincsearch/sdk-python-zincsearch # Python SDK Client for ZincSearch
+https://github.com/zincsearch/sdk-nodejs-zincsearch # NodeJS SDK Client for ZincSearch
+https://github.com/zincsearch/zincsearch-docs # ZincSearch Documentation
+https://github.com/zincsearch/go-gin-prometheus # Gin Web Framework Prometheus metrics exporter

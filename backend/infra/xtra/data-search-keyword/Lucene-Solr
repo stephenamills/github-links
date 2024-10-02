@@ -1,0 +1,75 @@
+Lucene
+https://github.com/apache/lucene # Apache Lucene open-source search software
+https://github.com/apache/lucene-solr # Apache Lucene and Solr open-source search software
+
+https://github.com/lucene4ir/lucene4ir # Lucene for Information Retrieval Research and Evaluation
+https://github.com/castorini/anserini # Anserini is a Lucene toolkit for reproducible information retrieval research
+
+https://dbdb.io/db/lucene
+
+Solr
+https://github.com/apache/solr # Apache Solr open-source search software
+
+https://github.com/apache/solr-operator # Official Kubernetes operator for Apache Solr
+https://github.com/apache/solr-docker # Official Dockerfile for Apache Solr
+https://github.com/apache/solr-sandbox # Apache Solr open-source search software plugin modules sandbox
+
+https://github.com/o19s/hello-ltr # Set of Jupyter notebooks demonstrating Learning to Rank integrated with Solr and Elasticsearch
+https://github.com/o19s/elasticsearch-learning-to-rank # Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch
+https://github.com/o19s/solr-to-es # Migrate a Solr node to an Elasticsearch index.
+https://github.com/o19s/splainer # Elasticsearch/Solr Sandbox for exploring explain information and tweaking
+https://github.com/o19s/semanticsearchinnumpy #
+https://github.com/o19s/hello-nlp # A natural language search microservice
+https://github.com/o19s/trireme # Migration tool providing support for Apache Cassandra, DataStax Enterprise Cassandra, & DataStax Enterprise Solr.
+https://github.com/o19s/splainer-search # Angular JS Solr and Elasticsearch and OpenSearch Diagnostic Search Services
+https://github.com/o19s/quepid # Improve your Elasticsearch, OpenSearch, Solr, Vectara, Algolia and Custom Search search quality.
+https://github.com/o19s/stackexchangesolrindexing # AutoTaxonomyExtractionAndTagging
+https://github.com/o19s/solr_nginx # Starter Reverse Proxy Configuration for Solr
+https://github.com/o19s/pdf-discovery-demo # Demonstration of searching PDF document with Solr, Tika, and Tesseract
+https://github.com/o19s/spyglass # Simple search results with Solr and EmberJS
+https://github.com/o19s/puppet-solr # Puppet module for installing solr with a stand alone jetty server
+https://github.com/o19s/solr-tmdb # TheMovieDB in Solr
+https://github.com/o19s/solr_angular_demo # A little search widget for instant Solr search with angular
+https://github.com/o19s/lucene-query-example # Educational Examle of a custom Lucene Query & Scorer
+https://github.com/o19s/relevant-search-book # Code and Examples for Relevant Search
+https://github.com/o19s/cfn-solr # Cloud formation script for solr servers
+https://github.com/o19s/awesome-search-relevance # Tools and other things for people who work on search relevance & information retrieval
+https://github.com/o19s/solrswan # SolrSwan is a query parser and highlighter for Solr that accepts proximity and Boolean queries.
+https://github.com/o19s/hangry # Vector search in Lucene based search attempting to use just the existing Lucene data structures (experimental)
+https://github.com/o19s/skipchunk # Extracts a latent knowledge graph from text and index/query it in elasticsearch or solr
+https://github.com/o19s/tlre-nlp # Materials for "Think Like A Relevance Engineer - NLP" Training
+https://github.com/o19s/solr-docker # Sample Dockerfiles for running Solr in a container
+https://github.com/o19s/solr-movielens-recommender # Movielens collaborative filtering with Solr streaming expression
+https://github.com/o19s/payload-component # Solr component that surfaces payloads for matching terms
+https://github.com/o19s/bearded-wookie # An experiment in visualizing your Solr index via term counts, document counts, and memory usage per field and data type.
+https://github.com/o19s/highlighting-pdf-viewer # A component (written in Vue) that supports highlighting of words in the PDF document.
+https://github.com/o19s/solr_dump # Dump Solr docs to file; Write dumped docs to a Solr
+https://github.com/o19s/ubi # User Behavior Insights standard schema
+https://github.com/o19s/jackhanna # Simple CLI for Zookeeper
+https://github.com/o19s/agent_q # Headless agent for test driven relevancy with Quepid.com
+https://github.com/o19s/lucene_codec_hello_world # Starting point and instructions on developing a Lucene Codec
+https://github.com/o19s/solr-monitor #
+https://github.com/o19s/ispy_component # Relevance debugging component for Solr
+https://github.com/o19s/clustering-lowes-grouts # Code to support a blog post about extracting tags from Lowes.com for clustering unsanded grout search results
+https://github.com/o19s/solr-query-parser-template # A Solr Query Parser Maven template project
+https://github.com/o19s/solr-query-parser-demo # A "surround"-like and capitalization custom query parsers demo
+https://github.com/o19s/elasticsearch-query-builder-example # Basic Elasticsearch Query Builder Plugin
+https://github.com/o19s/solr-grid-tuning #
+https://github.com/o19s/shoveler # for shoveling data into solr
+https://github.com/o19s/lukedive # D3 visualizations of LukeRequestHandler data in Angular
+
+https://github.com/solr-cool/solr-cool.github.io # The Solr Package Directory and Sanctuary
+https://github.com/solr-cool/solr-forward-authentication-plugin # A simple forward authentication plugin for Solr
+https://github.com/solr-cool/solr7-gc-tuning #
+https://github.com/solr-cool/solr-classic-querqy-integration # leader/follower (master/slave) Solr ensemble with the Querqy 5 query parser and rewriting engine enabled
+https://github.com/solr-cool/solr-10550-external-file-field #
+https://github.com/solr-cool/solr-util # Utility classes for working with Apache Solr.
+https://github.com/solr-cool/solr-analyzers # A repository for all open source tokenizers and filters
+
+https://github.com/tellusr/tellusr-solr-template #
+
+https://en.wikipedia.org/wiki/Category:Ranking_functions
+
+https://github.com/instacart/wilson_score # sort
+
+https://dbdb.io/db/solr
