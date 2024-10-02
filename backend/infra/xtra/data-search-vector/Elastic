@@ -1,0 +1,30 @@
+Embedding
+https://github.com/elastic/elasticsearch-hdfs # Hadoop Plugin for ElasticSearch
+https://github.com/elastic/crd-ref-docs # Generates Kubernetes CRD API reference documentation
+https://github.com/elastic/elasticsearch-labs # Notebooks & Example Apps for Search & AI Applications with Elasticsearch
+https://github.com/elastic/app-search-reference-ui-react # A generic UI for use with any App Search Engine
+https://github.com/elastic/go-licence-detector # Detect licences in Go projects and generate documentation
+https://github.com/elastic/blog-langchain-elasticsearch # Code examples accompanying blog "Privacy-first AI search using LangChain and Elasticsearch"
+https://github.com/elastic/genai-workshop-colab # Elastic GenAI Workshop (Colab)
+https://github.com/elastic/genai-workshop-codespaces # Elastic GenAI Workshop (Codespaces)
+https://github.com/elastic/elastic-package # elastic-package - Command line tool for developing Elastic Integrations
+https://github.com/elastic/siglearn # Code for BH21 talk: "Generating YARA Rules by Classifying Malicious Byte Sequences"
+https://github.com/elastic/go-resource #
+https://github.com/elastic/gen-ai-meetup-to-2023 #
+https://github.com/elastic/app-search-nlp-insurance #
+https://github.com/elastic/llm-detection-proxy # A proxy tool for detecting and logging LLM queries to Elasticsearch.
+https://github.com/elastic/behavioral-analytics-tracker #
+https://github.com/elastic/visualizations_integrations_tools # A set of code analysis and transform scripts to further the goals of integrations and Kibana visualizations teams
+https://github.com/elastic/dbt_duckdb # Boiler Plate dbt Project using Sqlite for Interview Test
+
+Rank
+https://github.com/elastic/elasticsearch-labs # Notebooks & Example Apps for Search & AI Applications with Elasticsearch
+https://github.com/elastic/genai-workshops #
+
+X-More
+
+https://github.com/elastic/elasticsearch # Free and Open Source, Distributed, RESTful Search Engine
+
+https://github.com/elastic/pytest-rally #
+https://github.com/elastic/start-local # Try Elasticsearch and Kibana locally
+https://github.com/elastic/app-search-nlp-insurance #

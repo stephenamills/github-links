@@ -1,0 +1,204 @@
+https://github.com/salesforce-marketingcloud/marketingcloudsdk-ios # The official Marketing Cloud MobilePush SDK Framework & LearningApp Example Application
+https://github.com/salesforce-marketingcloud/react-native-marketingcloudsdk # The Official ReactNative Plugin for the Marketing Cloud MobilePush SDK.
+https://github.com/salesforce-marketingcloud/marketingcloudsdk-android # The official Marketing Cloud MobilePush SDK LearningApp Example Application
+https://github.com/salesforce-marketingcloud/mc-cordova-plugin # The Official Cordova Plugin for the Marketing Cloud MobilePush SDK.
+https://github.com/salesforce-marketingcloud/sfmc-sdk-ios #
+https://github.com/salesforce-marketingcloud/sdk-flutter-plugin # The Official Flutter Plugin for the Marketing Cloud MobilePush SDK.
+https://github.com/salesforce-marketingcloud/mobile-sdk-cdp-ios #
+https://github.com/salesforce-marketingcloud/mobile-sdk-cdp-android #
+
+https://github.com/salesforcecommercecloud/pwa-kit # React-based JavaScript frontend framework to create a progressive web app (PWA) storefront for Salesforce B2C Commerce.
+https://github.com/salesforcecommercecloud/sfcc-ci # Salesforce Commerce Cloud CLI
+https://github.com/salesforcecommercecloud/commerce-sdk #
+https://github.com/salesforcecommercecloud/b2c-crm-sync # ... a contemporary perspective on how to integrate B2C Commerce and the Salesforce Customer 360 Platform to power frictionless customer experiences in the B2C domain.
+https://github.com/salesforcecommercecloud/commerce-sdk-isomorphic # Browser & Node.js JavaScript client for B2C Commerce API
+https://github.com/salesforcecommercecloud/raml-toolkit #
+https://github.com/salesforcecommercecloud/dw-api-mock # Mock version of DW API
+https://github.com/salesforcecommercecloud/commerce-sdk-core #
+https://github.com/salesforcecommercecloud/plugin_reorder_demo #
+
+https://github.com/salesforce-experiencecloud/personalizeanything # Personalize an entire region of components in your Experience Cloud LWR site with Personalize Anything!
+https://github.com/salesforce-experiencecloud/multilevelnavigationmenu # The Multi-Level Navigation Menu for Experience Cloud app offers components to manage multi-level navigation menus.
+https://github.com/salesforce-experiencecloud/notificationbell # Drag and drop Notification component that displays a user's notifications.
+https://github.com/salesforce-experiencecloud/launchflowinmodal # Launch Flow in Modal lightning component, to render a button and launch your flow from a button click
+https://github.com/salesforce-experiencecloud/socialsharing # Social Sharing for your community pages! Circle/Square social icons, various layout options, and works in any region in your community!
+https://github.com/salesforce-experiencecloud/headless-forgot-password #
+https://github.com/salesforce-experiencecloud/custom-property-editor-code-samples # Experience Cloud Custom Property Editor code samples
+https://github.com/salesforce-experiencecloud/lwrfileupload # File Upload for Experience Cloud LWR
+https://github.com/salesforce-experiencecloud/mobile-publisher-biometric-login-button #
+https://github.com/salesforce-experiencecloud/ecicon # An Icon component for Experience Cloud, featuring over 13,000 icons that can be easily configured from Experience Builder!
+https://github.com/salesforce-experiencecloud/linkifyanything #
+
+https://github.com/forcedotcom/postman-salesforce-apis # Salesforce API Postman Collection
+https://github.com/forcedotcom/salesforcedx-vscode # Salesforce Extensions for VS Code
+https://github.com/forcedotcom/salesforcemobilesdk-ios # iOS SDK for Salesforce
+https://github.com/forcedotcom/cli # Salesforce CLI
+https://github.com/forcedotcom/dataloader # Salesforce Data Loader
+https://github.com/forcedotcom/sfdx-data-move-utility # Data migration tool for seamless org population from other orgs or CSV files. It handles all CRUD operations on multiple related objects in one go.
+https://github.com/forcedotcom/salesforcemobilesdk-android # Android SDK for Salesforce
+https://github.com/forcedotcom/wsc #
+https://github.com/forcedotcom/sfdx-scanner #
+https://github.com/forcedotcom/emp-connector # A simplified cometd connector for Enterprise Messaging Platform
+https://github.com/forcedotcom/b2b-commerce-on-lightning-quickstart #
+https://github.com/forcedotcom/custommetadataloader # Tool to help users bulk create and update custom metadata records in salesforce.com from a CSV file.
+https://github.com/forcedotcom/sfdx-core #
+https://github.com/forcedotcom/pub-sub-api # Sample project to get started with the Pub/Sub API
+https://github.com/forcedotcom/salesforcecanvasframeworksdk #
+https://github.com/forcedotcom/force-dot-com-esapi # Enterprise Security API for the Apex language on the Force.com platform.
+https://github.com/forcedotcom/analytics-cloud-dataset-utils # Load your on-prem data, whether large or small, to Einstein Analytics Datasets, with useful features such as autoloading, dataflow control and dataset inspection.
+https://github.com/forcedotcom/quiz-host-app # Multiplayer quiz app built on Salesforce technology (host app)
+https://github.com/forcedotcom/dependencies-cli # SFDX plugin for metadata dependencies tooling API
+https://github.com/forcedotcom/data-migration-tool #
+https://github.com/forcedotcom/salesforcepy # An absurdly simple package for making Salesforce Rest API calls.
+https://github.com/forcedotcom/sfdx-travisci #
+https://github.com/forcedotcom/sfdx-data-move-utility-desktop-app # Tool for Salesforce data migration between SF environments or importing/exporting CSV data into SF environments.
+https://github.com/forcedotcom/salesforcedx-templates # Salesforce Templates Node Library
+https://github.com/forcedotcom/salesforcemobilesdk-shared #
+https://github.com/forcedotcom/commerce-on-lightning # An SFDX Plugin to setup a B2C or B2B Store
+https://github.com/forcedotcom/source-deploy-retrieve # JavaScript toolkit for working with Salesforce metadata.
+https://github.com/forcedotcom/commerce-on-lightning-components # Commerce on Lightning out-of-the-box component source code for reference and educational purposes
+https://github.com/forcedotcom/devops-center-feedback #
+https://github.com/forcedotcom/lightningflowcomponents # :zap: A collection of sample Lightning Components that can be used to enhance Salesforce Lightning Flow.
+https://github.com/forcedotcom/sfdx-jenkins-org # Jenkins example with org development
+https://github.com/forcedotcom/salesforcemobilesdk-templates #
+https://github.com/forcedotcom/go-soql # Golang tag library to generate SOQL queries
+https://github.com/forcedotcom/salesforcemobilesdk-reactnative #
+https://github.com/forcedotcom/salesforcemobilesdk-cordovaplugin # Cordova plugin for the Salesforce Mobile SDK
+https://github.com/forcedotcom/lwc-mobile-samples # Mobile sample applications and code for LWC development
+https://github.com/forcedotcom/auraenabledscanner #
+https://github.com/forcedotcom/dx-empty # Template repository representing the empty file system structure for a new Salesforce DX project.
+https://github.com/forcedotcom/sfdx-analytics # Einstein Analytics sample application templates
+https://github.com/forcedotcom/salesforcecanvasjavascriptsdk # A JavaScript SDK used to integrate applications with the Force.com Canvas framework
+https://github.com/forcedotcom/sfdx-bitbucket-package # Bitbucket Pipelines examples with Package development
+https://github.com/forcedotcom/run-code-analyzer # GitHub Action to run Salesforce Code Analyzer
+https://github.com/forcedotcom/salesforcedx-actions # (Unofficial) GitHub Actions for SalesforceDX using the Salesforce CLI
+https://github.com/forcedotcom/schemas # Salesforce DX Schemas
+https://github.com/forcedotcom/project-force # Reference implementation app for Feature Management.
+https://github.com/forcedotcom/sfdx-gitlab-org # GitLab Pipelines example with org development
+https://github.com/forcedotcom/lightning-language-server # LWC and Aura Language Servers - shipped as part of the Salesforce VSCode Extensions
+https://github.com/forcedotcom/einstein-gpt-for-developers # Einstein GPT For Developers
+https://github.com/forcedotcom/salesforce-cdp-jdbc # JDBC driver to connect to Salesforce CDP.
+https://github.com/forcedotcom/sfdx-bitbucket-org # Bitbucket Pipelines examples with org development
+https://github.com/forcedotcom/code-builder-feedback # This repository is used to collect feedback for the Code Builder beta.
+https://github.com/forcedotcom/git2gus # A Github application to keep issues in sync with Agile Accelerator
+https://github.com/forcedotcom/eslint-plugin-aura # Salesforce Lightning (Aura) specific linting rules for ESLint
+https://github.com/forcedotcom/salesforcedx-vscode-slds #
+https://github.com/forcedotcom/source-tracking # JavaScript library for tracking local and remote Salesforce metadata changes.
+https://github.com/forcedotcom/lwc-dev-mobile #
+https://github.com/forcedotcom/lwc-builder # VSCode Extension to kickstart Lightning Web Component development.
+https://github.com/forcedotcom/servicesdk-ios # Salesforce Embedded Service SDK for iOS
+https://github.com/forcedotcom/sfdx-gitlab-package #
+https://github.com/forcedotcom/soql-tooling # SOQL Language Tooling features including the Language Server and Query Builder UI.
+https://github.com/forcedotcom/sitecrawler # Java library used to crawl the content of some of web properties
+https://github.com/forcedotcom/sfdx-jenkins-package #
+https://github.com/forcedotcom/salesforcemobilesdk-package #
+https://github.com/forcedotcom/codey-midnight # Dark theme for VS Code configured for accessibility and Salesforce development
+https://github.com/forcedotcom/lwc-builder-ui #
+https://github.com/forcedotcom/devops-center-roadmap #
+https://github.com/forcedotcom/salesforcedx-apex # Salesforce Apex Node Library
+https://github.com/forcedotcom/servicesdk-android # Salesforce Embedded Service SDK for Android
+https://github.com/forcedotcom/service-cloud-doc # Code samples for Service Cloud documentation
+https://github.com/forcedotcom/sfdx-circleci-package # Circle CI examples with package development
+https://github.com/forcedotcom/commerce-extensibility #
+https://github.com/forcedotcom/nlp-gauntlet # NLU / NLP integration library for Salesforce Apex
+https://github.com/forcedotcom/einstein-bot-sdk-java #
+https://github.com/forcedotcom/sfdx-plugin-prettier # A sample Salesforce CLI Plugin that adds a hook that uses prettier to format code pulled or retrieved from an org.
+https://github.com/forcedotcom/einstein-bot-channel-connector #
+https://github.com/forcedotcom/soql-language-server #
+https://github.com/forcedotcom/sfdx-circleci-org # Circle CI examples with org development
+https://github.com/forcedotcom/core-payments-reference-gateway-integration-adapters #
+https://github.com/forcedotcom/postman-commerce-cloud-apis # Salesforce Commerce Cloud API Collection for Postman
+https://github.com/forcedotcom/b2b-commerce-for-visualforce #
+https://github.com/forcedotcom/quiz-player-app # Multiplayer quiz app built on Salesforce technology (player app)
+https://github.com/forcedotcom/packaging #
+https://github.com/forcedotcom/analyticsdx-vscode # Salesforce Analytics Extensions for Visual Studio Code
+https://github.com/forcedotcom/experience-cloud-microsite-samples #
+https://github.com/forcedotcom/sfdx-bamboo-org # Bamboo examples with org development
+https://github.com/forcedotcom/canvas-quickstart-java #
+https://github.com/forcedotcom/IoraLite # Operational business intelligence for Salesforce Reports and Dashboards
+https://github.com/forcedotcom/einstein-bot-openapi-codegen-maven-plugin #
+https://github.com/forcedotcom/workdotcom-partners #
+https://github.com/forcedotcom/package-manager #
+https://github.com/forcedotcom/crma-dataset-creator # Client implementation of the Salesforce CRM Analytics External Data API.
+https://github.com/forcedotcom/sf-fx-runtime-nodejs # Salesforce Function Runtime for Node.js
+https://github.com/forcedotcom/sfdx-travisci-org # Travis CI example with org development
+https://github.com/forcedotcom/sfdx-travisci-package # Travis CI examples with package development
+https://github.com/forcedotcom/ts-types #
+https://github.com/forcedotcom/salesforcedx-vscode-automation-tests # Automation Tests for the Salesforce Extensions for VSCode
+https://github.com/forcedotcom/salesforcemobilesdk-ios-hybrid #
+https://github.com/forcedotcom/salesforce-cdp-connector #
+https://github.com/forcedotcom/hover-assistant #
+https://github.com/forcedotcom/sfdx-code-analyzer-vscode # Tool for source code analysis.
+https://github.com/forcedotcom/comdagen # COMmerce DAta GENerator will build a Commerce Cloud site import file tailored to your specification
+https://github.com/forcedotcom/dialog-samples # Sample dialogs that can be used in Visualforce pages to replace native alert and confirm
+https://github.com/forcedotcom/sf-fx-runtime-java # Salesforce Function Runtime for Java
+https://github.com/forcedotcom/eslint-plugin-visualforce # An ESLint plugin to lint inline Javascript containing fields and VisualForce tags inside of VisualForce pages
+https://github.com/forcedotcom/Codeys-in-bed-by-10 # A delightful, beautiful and accessible theme for VS Code with special emphasis on Apex, JS, CSS and HTML
+https://github.com/forcedotcom/bear-watch # Heroku Node demo app for the 'Build an Instant Notification App' Trailhead project (an introduction to platform events).
+https://github.com/forcedotcom/assessment-bot # Deliver conversational assessments through Salesforce Einstein Bots
+https://github.com/forcedotcom/dev-scripts #
+https://github.com/forcedotcom/acu-pack #
+https://github.com/forcedotcom/sfdocs-vscode # VS Code extension for Salesforce Docs
+https://github.com/forcedotcom/vscode-remote-try-sfdx # SalesforceDX sample project for trying out the VS Code Remote - Containers extension
+https://github.com/forcedotcom/stargate # Play Scala Module for Integrating with Salesforce Marketing Cloud Single Sign On
+https://github.com/forcedotcom/lwc-dev-mobile-core # Core Node-based functionality to be shared by Mobile Extensions tooling (SFDX plug-ins, Salesforce Extensions for VSCode, etc.).
+https://github.com/forcedotcom/scmt-app # Service Cloud Migration Tool
+https://github.com/forcedotcom/sfdx-bamboo-package #
+https://github.com/forcedotcom/sfdx-appveyor-org # Appveyor examples with org development
+https://github.com/forcedotcom/lwc-playground-export #
+https://github.com/forcedotcom/sfdx-appveyor-package # Appveyor examples with Package development
+https://github.com/forcedotcom/salesforcebillingpaymentgatewaymockadapterreference #
+https://github.com/forcedotcom/telemetry # Library for application insights
+https://github.com/forcedotcom/sf-fx-sdk-java # Salesforce Function SDK for Java
+https://github.com/forcedotcom/salesforcedx-slds-lsp #
+https://github.com/forcedotcom/SalesforceMobileSDK-iOS-Specs #
+https://github.com/forcedotcom/lwc-playground-redirects # URL redirects for LWC Playground
+https://github.com/forcedotcom/try-acb-feedback #
+https://github.com/forcedotcom/kit #
+https://github.com/forcedotcom/wsdl #
+https://github.com/forcedotcom/wavekit # A toolkit to create Salesforce Analytics dashboards
+https://github.com/forcedotcom/eslint-config-salesforce-typescript # Salesforce eslint configuration for all typescript projects.
+https://github.com/forcedotcom/dev-config #
+https://github.com/forcedotcom/sf-fx-schema #
+https://github.com/forcedotcom/eslint-config-salesforce # Salesforce eslint configuration for all projects.
+https://github.com/forcedotcom/prettier-config # Salesforce prettier configuration for all projects.
+https://github.com/forcedotcom/sfdx-env #
+https://github.com/forcedotcom/salesforcemobilesdk-benchmarks # A collection of sample apps for benchmarking different features in the Mobile SDK.
+https://github.com/forcedotcom/injectable-swift #
+https://github.com/forcedotcom/file-notifier-for-blob-store #
+https://github.com/forcedotcom/smtorlmassetconversiontool #
+https://github.com/forcedotcom/circleci-billing-open-source # Experiments to understand our CircleCI billing
+https://github.com/forcedotcom/codey-high-noon # Light theme for VS Code configured for accessibility and Salesforce development
+https://github.com/forcedotcom/einstein-for-devs-roadmap # This is used for the public-facing Einstein for Developers roadmap
+https://github.com/forcedotcom/sf-package-buildpack-rs # Sandbox for Rust-based sf package buildpack
+https://github.com/forcedotcom/commerce-sdo-assets #
+https://github.com/forcedotcom/code-builder-roadmap # This is used for the public-facing Code Builder roadmap
+https://github.com/forcedotcom/salesforcemobilesdk-ios-spm # Swift Packages for Salesforce Mobile SDK libraries
+https://github.com/forcedotcom/ts-sinon #
+https://github.com/forcedotcom/salesforcedx-vscode-service-provider #
+https://github.com/forcedotcom/salesforcedx-vscode-capture-startup-performance # An extension that contains a command to capture startup performance data and send it to Azure AppInsights.
+https://github.com/forcedotcom/managedassetvalidationreferencetool #
+https://github.com/forcedotcom/oss-template #
+https://github.com/forcedotcom/library-template # Template npm library for Salesforce CLI and VSCode Extensions
+https://github.com/forcedotcom/tdx23-sfca-demo # Demo for #TDX23 to show how Salesforce Code Analyzer can be used in a CI/CD setup.
+https://github.com/forcedotcom/commerce-heroku-sample-response # Sample Heroku app with mock responses
+https://github.com/forcedotcom/bundle-publish-scripts # store the scripts to do modifications before publishing the bundled module
+https://github.com/forcedotcom/salesforcedx-vscode-experiments #
+https://github.com/forcedotcom/eslint-config-salesforce-license # Salesforce eslint configuration for adding license headers to all source files.
+https://github.com/forcedotcom/salesforcemobilesdk-uitests # UI tests for the Mobile SDK
+https://github.com/forcedotcom/code-analyzer-core # Currently an internal use only repository to be used by the Code Analyzer Team
+https://github.com/forcedotcom/.github #
+
+https://github.com/salesforce/lwc # ⚡️ LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
+https://github.com/salesforce/design-system-react # Salesforce Lightning Design System for React
+https://github.com/salesforce/sfdx-lwc-jest # Run Jest against LWC components in SFDX workspace environment
+https://github.com/salesforce/apex-mockery # Lightweight mocking library in Apex
+https://github.com/salesforce/eslint-config-lwc # Opinionated ESLint configurations for LWC projects
+https://github.com/salesforce/eslint-plugin-lwc # Official ESLint rules for LWC
+https://github.com/salesforce/lwc-rfcs # LWC - Request for comment proposals
+https://github.com/salesforce/utam-js-recipes # Examples of testing with UTAM JavaScript
+https://github.com/salesforce/codeceptjs-bdd # Javascript BDD UI Automation Framework. Exclusive LWC Shadow DOM Support. Playwright, Webdriver.io, Appium, Saucelabs.
+https://github.com/salesforce/lwc-test # LWC plugins and utilities for testing
+https://github.com/salesforce/offline-app-developer-starter-kit #
+https://github.com/salesforce/wire-service-jest-util # Utility library for @-wire Lightning Web Component tests
+https://github.com/salesforce/eslint-plugin-lightning # Collection of ESLint rules for Salesforce Lightning platform.

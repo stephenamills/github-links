@@ -7,5 +7,8 @@ https://github.com/apache/solr-sandbox # Apache Solr open-source search software
 https://github.com/apache/lucene # Apache Lucene open-source search software
 https://github.com/apache/lucene-solr # Apache Lucene and Solr open-source search software
 
-https://dbdb.io/db/solr
+https://github.com/lucene4ir/lucene4ir # Lucene for Information Retrieval Research and Evaluation
+https://github.com/castorini/anserini # Anserini is a Lucene toolkit for reproducible information retrieval research
+
 https://dbdb.io/db/lucene
+https://dbdb.io/db/solr

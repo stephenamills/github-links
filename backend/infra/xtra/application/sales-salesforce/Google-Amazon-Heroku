@@ -1,0 +1,43 @@
+https://github.com/googlecloudplatform/cortex-data-foundation # Data Foundation - Google Cloud Cortex Framework
+https://github.com/googlecloudplatform/cortex-salesforce #
+https://github.com/googlecloudplatform/salesforce-cloud-functions-crm-tutorial #
+https://github.com/googlecloudplatform/cortex-marketing #
+https://github.com/googlecloudplatform/application-integration-management-toolkit # Interact with Application Integration, Integration Connectors or Apigee Integration/Connector APIs.
+https://github.com/googlecloudplatform/salesforce-serverless-cicd-cloudbuild #
+https://github.com/googlecloudplatform/customer-experience-modernization # Best practices and code samples for using Google Cloud Vertex AI APIs
+
+https://github.com/google/sf-evolve-forms # A forms engine for Salesforce which allows record pages to be much more dynamic than is possible with out of the box features
+https://github.com/google/ditto-mocks #
+
+https://github.com/aws-ia/cfn-ps-salesforce-health-cloud-virtual-care #
+https://github.com/aws-ia/cfn-ps-salesforce-connect-appsync-rds-postgresql #
+
+https://github.com/aws-samples/eventbridge-salesforce-integration #
+https://github.com/aws-samples/salesforce-apig-integration #
+https://github.com/aws-samples/amazon-eventbridge-salesforce-sms #
+https://github.com/aws-samples/customer-profiles-export-demo # Export Amazon Connect Customer Profiles events to S3 and Salesforce
+https://github.com/aws-samples/amazon-appflow # Sample codes, blogs, and demos on how to use Amazon AppFlow.
+https://github.com/aws-samples/partner-crm-integration-samples # Build integrations between CRM and AWS Partner Central.
+https://github.com/aws-samples/customer-profiles-export-demo # Export Amazon Connect Customer Profiles events to S3 and Salesforce
+https://github.com/aws-samples/amazon-translate-service-cloud-chat #
+https://github.com/aws-samples/queuetransfer_contacttracerecordsupport-for-service-cloud-voice # Code changes to default SCV CTI Adapter function to add support for QUEUE_TRANSFER call initiation method.
+https://github.com/aws-samples/iot-connect-drug-reminder-blog # Blog post "Build a drug reminder service with AWS IoT, Amazon Lex, and Amazon Connect"
+https://github.com/aws-samples/data-for-saas-patterns # A collection of samples, best practices and reference architectures for implementing SaaS applications on AWS for databases and data services.
+https://github.com/aws-samples/aws-partner-custom-crm-connector # Share opportunities from your CRM with AWS to automate to speed up operations.
+https://github.com/aws-samples/appfabric-sample-log-generator #
+
+https://github.com/heroku-examples/salesforce-streams-nodejs # Reference implementation of a Salesforce Streaming API consumer in Node.js
+https://github.com/heroku-examples/tdx-advanced-functions # TDX 22: Advanced Salesforce Functions
+https://github.com/heroku-examples/routeplanner-sfx # Traveling Salesperson Problem with Salesforce Functions
+https://github.com/heroku-examples/youtubestats-function # A Salesforce Functions example project using the YouTube Data API v3
+https://github.com/heroku-examples/evergreen-function-circleci # Example repo using CircleCI to test Salesforce Functions
+https://github.com/heroku-examples/friends-from-the-trail-sfdx # Part of Heroku + Salesforce demo app
+
+https://github.com/heroku/salesforce-bulk # Python interface to the Salesforce.com Bulk API
+https://github.com/heroku/salesforce-cli-buildpack # A buildpack that installs the Salesforce DX CLI in Heroku
+https://github.com/heroku/salesforce-oauth-request # Util package to drive Salesforce Oauth Web flow for scripting and testing.
+https://github.com/heroku/roadmap # This is the public roadmap for Salesforce Heroku services.
+https://github.com/heroku/salesforce_id_formatter # Convert 18-char Salesforce IDs to 15-char ones, and vice versa
+https://github.com/heroku/salesforce-utils # Utilities for using the Salesforce.com SOAP API and loading test data.
+https://github.com/heroku/salesforce_model # Abstract ActiveRecord subclass for accessing Heroku Connect sync tables
+https://github.com/heroku/function-migration # This guide and repo is an example of how Salesforce Functions may be ported to Heroku Apps.

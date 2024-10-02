@@ -1,0 +1,349 @@
+https://github.com/salesforcecli/cli # The `sf` cli.
+https://github.com/salesforcecli/status # A read-only repo to monitor the status of the Salesforce CLI and its plugins.
+https://github.com/salesforcecli/plugin-source # A core Salesforce CLI plugin containing source commands for converting, deploying, and retrieving metadata to/from Salesforce orgs.
+https://github.com/salesforcecli/plugin-org # Commands to interact with Salesforce orgs
+https://github.com/salesforcecli/sf-plugins-core #
+https://github.com/salesforcecli/plugin-data #
+https://github.com/salesforcecli/plugin-lwc-test # Tools for unit testing Lightning web components in a Salesforce DX workspace
+https://github.com/salesforcecli/plugin-packaging #
+https://github.com/salesforcecli/github-workflows # reusable shared CI scripts
+https://github.com/salesforcecli/plugin-auth #
+https://github.com/salesforcecli/cli-plugins-testkit # Test utilities to assist plugin authors with writing integration, smoke, e2e style testing
+https://github.com/salesforcecli/plugin-deploy-retrieve #
+https://github.com/salesforcecli/plugin-devops-center # The DevOps Center CLI plugin provides a command-line alternative to performing equivalent actions in the DevOps Center graphical UI
+https://github.com/salesforcecli/plugin-dev #
+https://github.com/salesforcecli/plugin-functions #
+https://github.com/salesforcecli/plugin-schema #
+https://github.com/salesforcecli/plugin-telemetry #
+https://github.com/salesforcecli/plugin-release-management #
+https://github.com/salesforcecli/plugin-limits #
+https://github.com/salesforcecli/plugin-user #
+https://github.com/salesforcecli/eslint-plugin-sf-plugin # eslint rules for sf plugins
+https://github.com/salesforcecli/plugin-lightning-dev # Local development tools for LEX, Mobile, and Experience Sites
+https://github.com/salesforcecli/plugin-templates # Generators for various metadata types
+https://github.com/salesforcecli/plugin-marketplace #
+https://github.com/salesforcecli/plugin-apex # Salesforce CLI Plugin that hosts the Apex commands
+https://github.com/salesforcecli/plugin-template-sf #
+https://github.com/salesforcecli/plugin-custom-metadata # SFDX plugin for working with Custom Metadata Types and their records.
+https://github.com/salesforcecli/training-lab-plugin # "Training Lab" repository for the Salesforce CLI Plugin Workshop.
+https://github.com/salesforcecli/plugin-trust #
+https://github.com/salesforcecli/plugin-community #
+https://github.com/salesforcecli/plugin-analytics # A Salesforce CLI plugin for working with CRM analytics applications, assets, and services.
+https://github.com/salesforcecli/plugin-omnistudio-migration-tool #
+https://github.com/salesforcecli/plugin-api # Interact with the API directly via CLI commands
+https://github.com/salesforcecli/plugin-command-reference # Generate the Salesforce CLI command reference guide.
+https://github.com/salesforcecli/plugin-signups #
+https://github.com/salesforcecli/plugin-sobject # create objects, fields, tabs, permsets
+https://github.com/salesforcecli/test-library-release # Testing releasing of a library that was generated with 'dev generate library'
+https://github.com/salesforcecli/plugin-info # CLI plugin for displaying information to users on the command line
+https://github.com/salesforcecli/source-testkit #
+https://github.com/salesforcecli/plugin-env #
+https://github.com/salesforcecli/plugin-template-sf-external #
+https://github.com/salesforcecli/plugin-settings # Repo containing the 'config' and 'alias' commands for 'sf'
+https://github.com/salesforcecli/testpackagerelease #
+
+https://github.com/sfdo-tooling/cumulusci # Python framework for building portable automation for Salesforce projects
+https://github.com/sfdo-tooling/snowfakery # A tool for generating fake data that has relations between tables.
+https://github.com/sfdo-tooling/metaci # Lightweight, Salesforce specific CI app run on Heroku to build Github repositories configured for CumulusCI
+https://github.com/sfdo-tooling/metadeploy # Salesforce.org's managed package installer
+https://github.com/sfdo-tooling/metecho # Web-based tool for collaborating on Salesforce projects
+https://github.com/sfdo-tooling/cumulusci-test # Dummy project used to test CumulusCI - CumulusCI will run this project through the whole CI flow to verify everything works
+https://github.com/sfdo-tooling/cumulusci-ci-demo #
+https://github.com/sfdo-tooling/cci-food-bank # A sample project for CumulusCI
+https://github.com/sfdo-tooling/cci-vscode # VSCode Extension Pack
+https://github.com/sfdo-tooling/sfdo-template # Project template for SFDO Django/React/SLDS projects
+https://github.com/sfdo-tooling/sfdo-template-helpers # a set of django helpers and utils used by sfdo-template-X projects
+https://github.com/sfdo-tooling/homebrew-sfdo # Homebrew formulae for SFDO Developer Tools
+https://github.com/sfdo-tooling/cci-demo-animations # Scripts to build demo animations for CumulusCI
+https://github.com/sfdo-tooling/django-slds # Django integration of the Salesforce Lightning Design System
+https://github.com/sfdo-tooling/django-slds-crispyforms # Implement of Salesforce Lightning Design System forms for Django Crispy Forms
+https://github.com/sfdo-tooling/core-sfdo-performance-tests # Core tests for performance of basic Salesforce Operations
+https://github.com/sfdo-tooling/metapush-old #
+https://github.com/sfdo-tooling/compa-food-security-network # Example implementation of CCI-Food-Bank
+https://github.com/sfdo-tooling/tester-finally # Tester-Falcon using flask app
+
+https://github.com/sfdx-isv/sfdx-falcon-template # Extended Salesforce DX project directory template, designed to support complex projects and managed packages.
+https://github.com/sfdx-isv/sfdx-falcon # A Salesforce CLI Plugin that enables and enhances implementation of the SFDX-Falcon family of projects, including the AppExchange Demo Kit (ADK) and AppExchange Package Kit (APK)
+https://github.com/sfdx-isv/sfdx-falcon-demo # Demonstration app that highlights the SFDX-Falcon Playbook for organizing Salesforce DX projects that deliver AppExchange apps.
+https://github.com/sfdx-isv/fsc-demo-pack # Helps jump-start development against Salesforce Financial Services Cloud by providing an ADK Build Pack capable of creating a basic FSC demo org.
+https://github.com/sfdx-isv/territory-management-toolkit # Salesforce CLI Plugin that provides tools for simplifying the migration of a Salesforce org from Territory Management (TM1) to Enterprise Territory Management (TM2).
+https://github.com/sfdx-isv/sfdx-permission-sets # A collection of SFDX-related permission sets and the package manifest required to deploy them to a Developer Hub org.
+https://github.com/sfdx-isv/sfdx-workshop # Salesforce DX technical workshop for ISV and OEM partners
+https://github.com/sfdx-isv/sfdx-falcon-appx-demo-kit # Specialized project scaffolding for creating an AppExchange Demo Kit (ADK) Project using Salesforce DX and the SFDX-Falcon CLI Plugin
+https://github.com/sfdx-isv/plp-demo-app # Sample code and instructions for test driving the Partner Licensing Platform (PLP).
+https://github.com/sfdx-isv/github-pages-workbook # Template repository for creating workbooks powered by GitHub Pages.
+https://github.com/sfdx-isv/travel-expenses # A sample AppExchange project used to demonstrate team development using Salesforce DX.
+https://github.com/sfdx-isv/commerce-workshop # A walkthrough of how to build a Salesforce AppExchange app that extends multiple Commerce products
+https://github.com/sfdx-isv/hc-starter-pack # Helps jump-start development against Salesforce Health Cloud by providing an APK (Managed 1GP) project that can be the baseline for creating extensions to Health Cloud
+https://github.com/sfdx-isv/sfdx-plugin-baseline # Example of the auto-generated output of the sfdx plugins:generate command. Allows tracking to changes of the baseline plugin scaffolding over time.
+https://github.com/sfdx-isv/sfdx-isv.github.io # Salesforce DX related projects built by ISV Technical Evangelists for AppExchange Partners
+https://github.com/sfdx-isv/app-analytics-workshop # App Analytics Workshop - First given at Dreamforce '19
+https://github.com/sfdx-isv/sfdx-falcon-appx-package-kit # Tools for developing Managed Packages using Salesforce DX
+https://github.com/sfdx-isv/sfdx-falcon-library # Lerna-based monorepo containing the SFDX-Falcon Library, a framework for building beautiful, engaging plugins for the Salesforce CLI
+https://github.com/sfdx-isv/circleci-orbs # CircleCI "orbs" that are related to Salesforce DX
+https://github.com/sfdx-isv/2gp-starter-package # Starter package code for the 2GP Handbook from ISV Bedrock.
+https://github.com/sfdx-isv/partner-toolkit # A set of resources that make the Partner Business Org easier to use
+https://github.com/sfdx-isv/tm-tools-test-drive # Enables invited users to test-drive the Territory Management Tools (TM-Tools) CLI plugin.
+https://github.com/sfdx-isv/testbed-falcon-apk # Specialized APK project for running automated tests of the SFDX-Falcon CLI plugin.
+https://github.com/sfdx-isv/testbed-falcon-adk # Specialized ADK project for running automated tests of the SFDX-Falcon CLI plugin.
+https://github.com/sfdx-isv/testbed-empty-repo # Purposely EMPTY repository. Do not add files or push commits to this repository.
+
+https://github.com/simple-salesforce/simple-salesforce # A very simple Salesforce.com REST API client for Python
+
+https://github.com/sfdc-assets/dynamicflowprogress # An LWC component that displays 6 different kinds of progress indicators to provide your users with easy-to-understand, guided screen flows.
+https://github.com/sfdc-assets/einsteinplayground #
+https://github.com/sfdc-assets/demo-cleanup # Salesforce Lightning web component that allows users to clean up their demo orgs between tests, dry runs, and demo presentations.
+https://github.com/sfdc-assets/platform-encryption-demo #
+https://github.com/sfdc-assets/incident-orchestrator-demo # This demo shows how to use Flow Orchestrator to create an Incident Response Plan.
+https://github.com/sfdc-assets/lightning-enhanced-calendar # Lightning components and other support to display, created, update, and delete Salesforce records of arbitrary objects in a calendar.
+https://github.com/sfdc-assets/sfdc-security-demo #
+https://github.com/sfdc-assets/data-mask #
+https://github.com/sfdc-assets/gen-ai-demo #
+https://github.com/sfdc-assets/event-monitoring-demo #
+https://github.com/sfdc-assets/omnistudio-demo #
+https://github.com/sfdc-assets/app-builder #
+https://github.com/sfdc-assets/psa-coe-intake-review #
+https://github.com/sfdc-assets/deploy-to-sfdx #
+https://github.com/sfdc-assets/cvs-data-cloud-hackathon # The repository is primarily for CVS data cloud hackathon event.
+https://github.com/sfdc-assets/salesforce-datacloud-utils # Utility functions for using the Salesforce Data Cloud API
+https://github.com/sfdc-assets/data-cloud-workshop #
+https://github.com/sfdc-assets/psa-grantmaking-fibf-data-model # Ready-made grants data model that aligns with the Federal Integrated Business Framework's (FIBF).
+https://github.com/sfdc-assets/psa-grantsgov-integration # Interact with Grants.gov Applicant APIs using this System API built for MuleSoft.
+https://github.com/sfdc-assets/platformtrial #
+https://github.com/sfdc-assets/sfdo-cf-nonprofitcloudfundraising # Campfire base org for Nonprofit Cloud for Fundraising
+https://github.com/sfdc-assets/transaction-security #
+https://github.com/sfdc-assets/sfdo-cf-nonprofitcloudprograms # Campfire base org for Nonprofit Cloud for Program Management
+https://github.com/sfdc-assets/psa-grantmaking-sf-424-forms # Use these OmniScripts to capture all the data for the SF-424 when an applicant applies for your grant.
+https://github.com/sfdc-assets/einstein-data-detect-demo #
+https://github.com/sfdc-assets/access-control-demo #
+
+https://github.com/salesforcefoundation/npsp # The current version of the Salesforce.org Nonprofit Success Pack
+https://github.com/salesforcefoundation/eda # Education Data Architecture
+https://github.com/salesforcefoundation/bootstrap-sf1 # Bootstrap theme for Salesforce1
+https://github.com/salesforcefoundation/volunteers-for-Salesforce # Volunteers for Salesforce managed package
+https://github.com/salesforcefoundation/visualforce-typeahead # A flexible typeahead component for use on Visualforce pages. Uses the typeahead.js library from Twitter.
+https://github.com/salesforcefoundation/salesforce-streaming-client # A Salesforce streaming API client for python, built on salesforce-requests-oauthlib and python-bayeux.
+https://github.com/salesforcefoundation/households # The Households package of the Nonprofit Success Pack
+https://github.com/salesforcefoundation/outboundFundsModule # App for managing funds awarded by your organization, like grants, scholarships or internal funding.
+https://github.com/salesforcefoundation/contacts_and_Organizations # Contacts and Organizations Package of the Nonprofit Success Pack
+https://github.com/salesforcefoundation/pmm # Program Management Module (PMM)
+https://github.com/salesforcefoundation/relationships # Nonprofit Success Pack Relationships Package
+https://github.com/salesforcefoundation/gem # Gift Entry Manager
+https://github.com/salesforcefoundation/recurring_Donations # Recurring Donations Package of the Nonprofit Success Pack
+https://github.com/salesforcefoundation/python-bayeux # A bayeux client for python. Built on gevent and requests.
+https://github.com/salesforcefoundation/affiliations # Nonprofit Success Pack Affiliations Package
+https://github.com/salesforcefoundation/salesforce-sonar-plugin # Incorporates the results of PMD's Apex scans into SonarQube
+https://github.com/salesforcefoundation/apex-guidestar # Salesforce.com Apex integration with the Guidestar API - supports search, detail, and charity check for Guidestar's extensive database of nonprofit organizations
+https://github.com/salesforcefoundation/k12-architecture-kit # K12 Data Architecture
+https://github.com/salesforcefoundation/kanban-board-rpt # Salesforce Development Remote Programming Test (RPT) focused on LWC
+https://github.com/salesforcefoundation/salesforce-requests-oauthlib # An extension to requests-oauthlib to specifically support calls to Salesforce APIs.
+https://github.com/salesforcefoundation/simple-salesforce-dx-buildpack # A more stripped down buildpack for Salesforce DX intended for apps that need the CLI only
+https://github.com/salesforcefoundation/sal-cumulusCI # A repository containing the CumulusCI configuration of SAL for use by implementers or ISVs
+https://github.com/salesforcefoundation/outboundFundsModuleNPSP #
+https://github.com/salesforcefoundation/sfdo-doc-styles # This will likely eventually be rolled into another repo. For now, used to proto the doc styles for external users.
+https://github.com/salesforcefoundation/npsp-signupOrg # Contains all non-packaged, non-default metadata that is provided in the NPSP Trial signup via http://www.salesforcefoundation.org/tryitnow
+https://github.com/salesforcefoundation/grants-Management-Installers # Install Grants Management
+https://github.com/salesforcefoundation/sal-implementation-Template #
+https://github.com/salesforcefoundation/productLicenses # Product Licenses for Products without a Public Github Repository
+https://github.com/salesforcefoundation/apex-volunteermatch # Volunteermatch API Integration - supports searching the extensive Volunteermatch database for organizations and volunteer opportunities
+https://github.com/salesforcefoundation/c64-salesforce-demo # For the Dreamforce 2017 session titled "New Life for a Commodore 64: An Old-Is-New-Again Salesforce Client"
+https://github.com/salesforcefoundation/donorreport #
+https://github.com/salesforcefoundation/lurch #
+https://github.com/salesforcefoundation/common-app-talend #
+https://github.com/salesforcefoundation/lrb #
+https://github.com/salesforcefoundation/edu-ra-Chatbot # Admissions Connect chatbot
+https://github.com/salesforcefoundation/.github # Shared workflows and templates used across SalesforceFoundation repositories.
+
+https://github.com/salesforce-org-impact-labs/01housingandhomelessness # Impact Lab - Housing & Homelessness
+https://github.com/salesforce-org-impact-labs/finaidbot #
+https://github.com/salesforce-org-impact-labs/onedegree # OneDegree
+
+https://github.com/salesforce-misc/violet-conversations # Sophisticated Conversational Applications/Bots
+https://github.com/salesforce-misc/violet-samples # Sample for Voice Apps/Bots using Voilet
+https://github.com/salesforce-misc/data-lake-for-nonprofits #
+https://github.com/salesforce-misc/byoc-ott-demo-app #
+https://github.com/salesforce-misc/interaction-service-apis #
+https://github.com/salesforce-misc/byo-demo-connector #
+https://github.com/salesforce-misc/heroku-configurator #
+
+https://github.com/salesforce-ux/design-system # Salesforce Lightning Design System
+https://github.com/salesforce-ux/theo # Theo is a an abstraction for transforming and formatting Design Tokens
+https://github.com/salesforce-ux/design-system-starter-kit # Rapid prototyping environment using the Salesforce Lightning Design System
+https://github.com/salesforce-ux/sass-deprecate # Let Sass warn you about the pieces of your UI that are deprecated, providing a clear upgrade path for developers
+https://github.com/salesforce-ux/scss-parser # A library to parse/stringify SCSS
+https://github.com/salesforce-ux/design-system-ios # Salesforce Lightning Design Tokens for iOS
+https://github.com/salesforce-ux/query-ast # A library to traverse/modify an AST
+https://github.com/salesforce-ux/dnd-a11y-patterns # Examples of accessible drag-and-drop patterns
+https://github.com/salesforce-ux/design-system-ui-kit-data # A collection of fictitious Salesforce data for use as Sketch custom data. Use this info to populate designs created from the Lightning Design System UI Kit.
+https://github.com/salesforce-ux/design-system-android #
+https://github.com/salesforce-ux/gulp-theo # Gulp-theo is a plugin that transforms and formats Design Tokens
+https://github.com/salesforce-ux/instant-vrt # Module for running vrt
+https://github.com/salesforce-ux/design-system-ui-kit-framerx # Public code. Not supported by Salesforce
+https://github.com/salesforce-ux/gdm # Git Dependency Manager
+https://github.com/salesforce-ux/design-system-markup #
+https://github.com/salesforce-ux/design-system-parser #
+https://github.com/salesforce-ux/lightning-design-system-linter # Lightning Design System design validation directly in Sketch
+https://github.com/salesforce-ux/stylelint-config-slds # Lightning Design System shareable config for stylelint
+https://github.com/salesforce-ux/design-system-windows #
+https://github.com/salesforce-ux/heroku-buildpack-nginx #
+https://github.com/salesforce-ux/scss-inline-imports # A library to inline SCSS @import statements
+https://github.com/salesforce-ux/design-system-compiler # Sass Compiler for the design system
+https://github.com/salesforce-ux/df19-talk-design-data-science # Dreamforce 19 talk: Improving Design with Data Science files
+https://github.com/salesforce-ux/tool-versions # A repo housing Sketch plugin version information
+https://github.com/salesforce-ux/licenses # Open source licenses agreements for Salesforce UX projects
+https://github.com/salesforce-ux/demuxe-plugin # Sketch plugin for demuxe
+
+https://github.com/salesforce-async-messaging/messaging-web-api-sample-app # A sample app created using React JS library to demonstrate Messaging for Web using SCRT2 Public (aka v2.0) REST APIs
+https://github.com/salesforce-async-messaging/messaging-in-app-ios # Messaging for In-App iOS docs and examples
+https://github.com/salesforce-async-messaging/key-command-line-utility # key-command-line-utility
+https://github.com/salesforce-async-messaging/messaging-in-app-android # Messaging for In-App Android docs and examples
+https://github.com/salesforce-async-messaging/swift-package-inappmessaging # Swift packages for Messaging for In-App for iOS
+https://github.com/salesforce-async-messaging/swift-package-servicechat # Swift packages for the Embedded Services Chat SDK.
+
+https://github.com/salesforcesfdc/apex # Apex triggers, classes, web services,...
+https://github.com/salesforcesfdc/apex-integration-services # Apex REST Callouts, Apex SOAP Callouts, Apex Web Services
+https://github.com/salesforcesfdc/advanced-apex-programming #
+https://github.com/salesforcesfdc/visualforce # Visualforce examples and snippets
+https://github.com/salesforcesfdc/apex-patterns #
+https://github.com/salesforcesfdc/salesforce-documentation # Useful resources and libraries for Salesforce.
+https://github.com/salesforcesfdc/einstein # Machine learning, deep learning, predictive analytics, natural language processing and smart data discovery.
+https://github.com/salesforcesfdc/apex-classes #
+https://github.com/salesforcesfdc/lightning-components #
+https://github.com/salesforcesfdc/salesforce-streaming-api #
+https://github.com/salesforcesfdc/dx #
+https://github.com/salesforcesfdc/sfdx #
+https://github.com/salesforcesfdc/apex-triggers #
+https://github.com/salesforcesfdc/rest #
+https://github.com/salesforcesfdc/salesforce-apex-time-library # This is an attempt to create reusable time intervals for use in picklists
+https://github.com/salesforcesfdc/salesforce-mass-update # Mass update utility that works with field sets
+https://github.com/salesforcesfdc/lightning-data-service #
+https://github.com/salesforcesfdc/soql #
+https://github.com/salesforcesfdc/process-builder #
+https://github.com/salesforcesfdc/apex-enterprise-patterns #
+https://github.com/salesforcesfdc/formulas #
+https://github.com/salesforcesfdc/accenture # ABC Software Company integration implementation
+https://github.com/salesforcesfdc/picklistvalues #
+https://github.com/salesforcesfdc/apex-web-services #
+https://github.com/salesforcesfdc/zlatnicovjek #
+https://github.com/salesforcesfdc/apex-sharing-class #
+https://github.com/salesforcesfdc/yelp-to-salesforce-integration #
+https://github.com/salesforcesfdc/optimizely #
+https://github.com/salesforcesfdc/leadconversions #
+https://github.com/salesforcesfdc/salesforce-cpq #
+https://github.com/salesforcesfdc/entitlement_management #
+https://github.com/salesforcesfdc/bulk-api #
+https://github.com/salesforcesfdc/soap #
+https://github.com/salesforcesfdc/fuzzy-matching-for-duplicate-address-checks #
+https://github.com/salesforcesfdc/docusign #
+https://github.com/salesforcesfdc/mavensmate-templates-master #
+https://github.com/salesforcesfdc/trailhead-lightning #
+https://github.com/salesforcesfdc/osalesforce #
+https://github.com/salesforcesfdc/fiddler #
+https://github.com/salesforcesfdc/controllers #
+https://github.com/salesforcesfdc/opencti-api #
+https://github.com/salesforcesfdc/salesforce-apis #
+https://github.com/salesforcesfdc/salesforce #
+https://github.com/salesforcesfdc/heroku #
+https://github.com/salesforcesfdc/tickets-o- #
+https://github.com/salesforcesfdc/slack_integration #
+https://github.com/salesforcesfdc/angularjs #
+https://github.com/salesforcesfdc/github #
+https://github.com/salesforcesfdc/development-th-module #
+https://github.com/salesforcesfdc/thesis #
+https://github.com/salesforcesfdc/chartio #
+https://github.com/salesforcesfdc/soql-queries #
+https://github.com/salesforcesfdc/email-services #
+https://github.com/salesforcesfdc/components #
+https://github.com/salesforcesfdc/mailchimp #
+https://github.com/salesforcesfdc/ibm-watson #
+https://github.com/salesforcesfdc/partner-community #
+https://github.com/salesforcesfdc/fastcall2 #
+https://github.com/salesforcesfdc/sosl-queries #
+https://github.com/salesforcesfdc/clara-formulas #
+https://github.com/salesforcesfdc/sga #
+https://github.com/salesforcesfdc/exam-prep #
+https://github.com/salesforcesfdc/crm-content #
+https://github.com/salesforcesfdc/trailhybridapps #
+https://github.com/salesforcesfdc/search-proto # Lightning App
+https://github.com/salesforcesfdc/velocifyintegration #
+https://github.com/salesforcesfdc/redirecting-login-url #
+https://github.com/salesforcesfdc/talkdesk #
+https://github.com/salesforcesfdc/webmarketingandanalytics #
+https://github.com/salesforcesfdc/zuora #
+https://github.com/salesforcesfdc/cisco #
+https://github.com/salesforcesfdc/healthcloud #
+https://github.com/salesforcesfdc/duplicate-management #
+https://github.com/salesforcesfdc/automated_metadata_updates-for-multi-org-deployment #
+https://github.com/salesforcesfdc/salesforce-open-cti #
+https://github.com/salesforcesfdc/dev450 #
+https://github.com/salesforcesfdc/stories #
+https://github.com/salesforcesfdc/fastcall # Autodialer for Salesforce.
+https://github.com/salesforcesfdc/sfdx_geolocation-project #
+https://github.com/salesforcesfdc/salesforce-connect-custom-adapter #
+https://github.com/salesforcesfdc/wsc_soap #
+https://github.com/salesforcesfdc/communityselfregistrationpage #
+https://github.com/salesforcesfdc/outbound-messaging #
+https://github.com/salesforcesfdc/mavensmate-sublime #
+https://github.com/salesforcesfdc/sso #
+https://github.com/salesforcesfdc/salesforce-partner #
+https://github.com/salesforcesfdc/chat #
+https://github.com/salesforcesfdc/validation-rules #
+https://github.com/salesforcesfdc/beatbox #
+https://github.com/salesforcesfdc/chatterblacklist #
+https://github.com/salesforcesfdc/quip #
+https://github.com/salesforcesfdc/wavefront #
+https://github.com/salesforcesfdc/org-migration # Salesforce to Salesforce metadata migration.
+https://github.com/salesforcesfdc/javascript-in-visualforce-pages #
+https://github.com/salesforcesfdc/signature-demo- #
+https://github.com/salesforcesfdc/webcache #
+https://github.com/salesforcesfdc/lightningoptimizely #
+https://github.com/salesforcesfdc/trello-and-salesforce-integration #
+https://github.com/salesforcesfdc/skuid #
+https://github.com/salesforcesfdc/new-voice-media #
+https://github.com/salesforcesfdc/visualforce-for-salesforce1 #
+https://github.com/salesforcesfdc/velocify # A library to communicate with Velocify's API
+https://github.com/salesforcesfdc/einstein-bots #
+https://github.com/salesforcesfdc/forcereact #
+https://github.com/salesforcesfdc/search #
+https://github.com/salesforcesfdc/salesforceperformance #
+https://github.com/salesforcesfdc/einstein-vision-api #
+https://github.com/salesforcesfdc/lightningcomponents #
+https://github.com/salesforcesfdc/registrationpage #
+https://github.com/salesforcesfdc/checkpoints #
+https://github.com/salesforcesfdc/duncan-project #
+https://github.com/salesforcesfdc/mobile-sdk #
+https://github.com/salesforcesfdc/liveagent #
+https://github.com/salesforcesfdc/eventfilelog #
+https://github.com/salesforcesfdc/commerce-cloud #
+https://github.com/salesforcesfdc/stripeapi #
+https://github.com/salesforcesfdc/powerdialers #
+https://github.com/salesforcesfdc/monitoringasynchronousjobs #
+https://github.com/salesforcesfdc/consulting #
+https://github.com/salesforcesfdc/salesforce-knowledge #
+https://github.com/salesforcesfdc/interview-questions #
+
+https://github.com/salesforceidentity/identitytrail-module3 # Materials to help you complete the Salesforce Identity Trail Module 3 on External Identity
+https://github.com/salesforceidentity/social-signon-reghandler # A sample registration handler for use with Auth. Providers for Social Sign-On
+https://github.com/salesforceidentity/embedded-login-example # An example of how to use Salesforce Identity's Embedded Login
+https://github.com/salesforceidentity/mydomain-sample # A simple example of to brand your My Domain
+https://github.com/salesforceidentity/heroku-identity-java # A sample java app that integrates with Salesforce Identity
+https://github.com/salesforceidentity/basic-custom-login #
+https://github.com/salesforceidentity/password-less-login # Password-less Login using SMS and Email authentication
+https://github.com/salesforceidentity/mobile-first # Identity for mobile-first users
+https://github.com/salesforceidentity/apex-saml-bearer-flow # Apex implementation of the SAML Bearer Flow
+https://github.com/salesforceidentity/jwtauthprovider # Sample JWT AuthProvider
+https://github.com/salesforceidentity/sms-forgot-password # Forgot Password via SMS Verification
+https://github.com/salesforceidentity/heroku-embedded-login-serverside-example #
+https://github.com/salesforceidentity/server-to-server-authproviders #
+https://github.com/salesforceidentity/simple-login-widget #
+https://github.com/salesforceidentity/scip # Salesforce Customer Identity Plus
+
+https://github.com/apex-enterprise-patterns/fflib-apex-common # Common Apex Library supporting Apex Enterprise Patterns and much more!
+https://github.com/apex-enterprise-patterns/fflib-apex-mocks # An Apex mocking framework for true unit testing in Salesforce, with Stub API support
+https://github.com/apex-enterprise-patterns/force-di # Generic DI library with support for Apex, Triggers, Visualforce and Lightning
+https://github.com/apex-enterprise-patterns/fflib-apex-common-samplecode # Samples application illustrating the Apex Enterprise Patterns library
+https://github.com/apex-enterprise-patterns/at4dx # Advanced Techniques for Salesforce DX Adoption Framework
+https://github.com/apex-enterprise-patterns/fflib-apex-common-builder # Builder Extension library to fflib_apex-common
+https://github.com/apex-enterprise-patterns/at4dx-samplecode # Sample code demonstrating the usage of the AT4DX Framework
+https://github.com/apex-enterprise-patterns/force-di-samples # Sample code for force-di
+https://github.com/apex-enterprise-patterns/apex-enterprise-patterns.github.io #

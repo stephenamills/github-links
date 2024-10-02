@@ -17,8 +17,8 @@ https://github.com/serpapi/serapis-ai-image-classifier # Automatic Image Classif
 https://github.com/serpapi/wander # Replicate Wanderlust demo that shown in OpenAI Dev Day
 https://github.com/serpapi/code-challenge # SerpApi code challenge
 https://github.com/serpapi/google-local-results-ai-parser # A ruby gem to extract structured data from Google Local Search Results using the serpapi/bert-base-local-results model, enabling parsing, classification, and information extraction from English HTML content.
-https://github.com/serpapi/google-local-results-ai-server # A server code for serving BERT-based models for text classification. It is designed by SerpApi for heavy-load prototyping and production tasks, specifically for the implementation of the google-local-results-
-ai-parser gem. https://github.com/serpapi/automatic-images-classifier-generator # Generate machine learning models fully automatically to clasiffiy any images using SERP data
+https://github.com/serpapi/google-local-results-ai-server # A server code for serving BERT-based models for text classification. It is designed by SerpApi for heavy-load prototyping and production tasks, specifically for the implementation of the google-local-results-ai-parser gem.
+https://github.com/serpapi/automatic-images-classifier-generator # Generate machine learning models fully automatically to clasiffiy any images using SERP data
 https://github.com/serpapi/uule_converter # A Ruby library for encoding and decoding UULE parameters in Google search URLs using coordinates
 https://github.com/serpapi/google-maps-pb-decoder # Google Maps pb (i.e., protobuf) parameter decoder.
 https://github.com/serpapi/auto-gpt-serpapi-plugin # An Auto-GPT Plugin that connects SerpApi to Auto-GPT

@@ -7,11 +7,124 @@ https://github.com/cloudflare/privacy-gateway-server-go
 
 https://github.com/michaelpporter/ansible-role-certbot-cloudflare # Ansible Role for setting up Wildcard certs with certbot and Cloudflare dns plugin
 
+Crt.sh
+https://github.com/crtsh/ct_monitor # Certificate Transparency log monitor
+https://github.com/crtsh/certwatch_db # Database schema
+https://github.com/crtsh/libx509pq # X.509 certificate parsing library for PostgreSQL
+https://github.com/crtsh/crl_monitor # Certificate Revocation List monitor
+https://github.com/crtsh/ocsp_monitor # OCSP Responder monitor
+https://github.com/crtsh/go-certlint # Go wrapper for awslabs/certlint
+https://github.com/crtsh/root_programs # Root Program parsers and SQL import script generators
+https://github.com/crtsh/mod_certwatch # PL/pgSQL gateway for certwatch_db and httpd
+https://github.com/crtsh/go-x509lint # Go wrapper for kroeckx/x509lint
+https://github.com/crtsh/caissuer_monitor # CA Issuers Monitor (Authority Info Access)
+https://github.com/crtsh/test_websites_monitor # Test websites monitor (see Baseline Requirements section 2.2)
+https://github.com/crtsh/libx509lintpq # Run x509lint from a PostgreSQL function
+https://github.com/crtsh/mod_pgconn # PostgreSQL connection pooling for httpd
+https://github.com/crtsh/libcablintpq # Embed Ruby and run cablint from a PostgreSQL function
+https://github.com/crtsh/cert_validation_success_monitor # Mozilla CERT_VALIDATION_SUCCESS_BY_CA telemetry processor
+https://github.com/crtsh/libocsppq # Perform OCSP checks from a PostgreSQL function
+https://github.com/crtsh/libzlintpq # Run zlint from a PostgreSQL function
+https://github.com/crtsh/cert_processor # Certificate record processor
+https://github.com/crtsh/ctlint # CT compliance linter
+
+Let's Encrypt
+https://github.com/letsencrypt/boulder # An ACME-based certificate authority, written in Go.
+https://github.com/letsencrypt/acme-spec # ACME Specification
+https://github.com/letsencrypt/website # Let's Encrypt Website and Documentation
+https://github.com/letsencrypt/pebble # A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
+https://github.com/letsencrypt/openzfs-nvme-databases #
+https://github.com/letsencrypt/ct-woodpecker # A tool to monitor a certificate transparency log for operational problems
+https://github.com/letsencrypt/unbound_exporter # A Prometheus exporter for Unbound.
+https://github.com/letsencrypt/pkcs11key # An interface to PKCS#11 devices that satisfies the crypto.Signer interface
+https://github.com/letsencrypt/dns-lots-of-lookups # dnslol is a command line tool for performing lots of DNS lookups.
+https://github.com/letsencrypt/helloworld # Saying an encrypted hello to the entire world with our very first certificate we signed.
+https://github.com/letsencrypt/cp-cps # ISRG / Let's Encrypt CP and CPS Documents
+https://github.com/letsencrypt/goose # Copy of https://bitbucket.org/liamstask/goose/
+https://github.com/letsencrypt/hashicorp-lessons #
+https://github.com/letsencrypt/ceremony-demos # Demo files demonstrating what the new hierarchy we generate in 2024 will look like.
+https://github.com/letsencrypt/challtestsrv # Small TEST-ONLY server for mock DNS & responding to HTTP-01, DNS-01, and TLS-ALPN-01 ACME challenges.
+https://github.com/letsencrypt/gorepotemplate # A template for starting a new Go project with CI and other standard configuration used at Let's Encrypt/ISRG.
+https://github.com/letsencrypt/www_valid_revoked_expired # Website endpoints for valid,revoked and expired certificates chaining to ISRG Root
+https://github.com/letsencrypt/ct-log-metadata # Metadata regarding Let's Encrypt's Certificate Transparency Logs
+https://github.com/letsencrypt/mariadb-sequential-partition-manager-py # Manage MariaDB Partitions based on Autoincrement IDs
+https://github.com/letsencrypt/ctile #
+https://github.com/letsencrypt/boulder-release-process # A repo for documenting and demonstrating the Boulder release process.
+https://github.com/letsencrypt/ctlp-diff # Track and diff Certificate Transparency Log Policies
+https://github.com/letsencrypt/spf-flattener #
+https://github.com/letsencrypt/crl-monitor # CRL Monitor
+
 OpenSSL
 https://github.com/openssl/openssl # TLS/SSL and crypto library
 https://github.com/openssl/openssl-book #
 
 X-More
+https://github.com/pkic/remote-key-attestation # Remote Key Attestation
+https://github.com/pkic/pqccm # PQC Capabilities Matrix (PQCCM)
+https://github.com/pkic/ltl # List of Trust Lists
+https://github.com/pkic/community # PKI Consortium Community Discussions
+https://github.com/pkic/pkimm # PKI Maturity Model
+https://github.com/pkic/crt-lint # A command line utility for running a specific ZLint linter against the crt.sh database of certificates logged to certificate transparency
+https://github.com/pkic/self-assessment # PKI Maturity Model Self-Assessment Web Component
+
+https://github.com/openca/openca-ocspd # The OpenCA's Online Certificate Status Protocol Daemon
+https://github.com/openca/libpki # Easy-to-use high-level library for PKI-enabled applications
+https://github.com/openca/openca-base # OpenCA PKI Project
+https://github.com/openca/openca-tools # OpenCA's PKI Tools for managing Crypto Objects
+https://github.com/openca/openca-ng # Next Generation Open Certification Authority Management
+https://github.com/openca/openca-easypki # Easy Generation and Management of Simple PKIs
+https://github.com/openca/ocsp-over-dns # Standardization for enabling DNS as a transport protocol for OCSP responses
+https://github.com/openca/docker-dev # Development Environments for OpenCA Software
+https://github.com/openca/draft-pala-ocsp-range-extension # Internet Draft to implement range queries for OCSP
+https://github.com/openca/draft-pala-enhanced-revocation # Enahnced Revocation for the Internet PKI
+https://github.com/openca/testpki-generator # PQ/T/H Crypto-Agility tools to generate three-tiers PKIs, Certificates, and Revocation Data.
+
+https://github.com/pkimetal/pkimetal # PKI Meta-Linter
+
+https://github.com/dogtagpki/pki # The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle mana
+gement, including key archival, OCSP and smartcard management. https://github.com/dogtagpki/coolkey #
+https://github.com/dogtagpki/jss # Network Security Services for Java is a Java interface to NSS
+https://github.com/dogtagpki/tomcatjss # JSS Connector for Apache Tomcat
+https://github.com/dogtagpki/pki-wiki # Dogtag PKI Wiki
+https://github.com/dogtagpki/ldap-sdk # LDAP SDK
+https://github.com/dogtagpki/esc #
+https://github.com/dogtagpki/pki-verification-ci # Repo for pki-jenkins-bot to check individual patches
+https://github.com/dogtagpki/pki-nightly-test #
+https://github.com/dogtagpki/idm-console-framework #
+https://github.com/dogtagpki/www.dogtagpki.org #
+https://github.com/dogtagpki/pki-docs #
+https://github.com/dogtagpki/nuxwdog # nuxwdog issues should be reported to the nuxwdog Pagure Issues site
+https://github.com/dogtagpki/init-ci #
+https://github.com/dogtagpki/repo #
+https://github.com/dogtagpki/pki-ci # Repository that contains Dogtag PKI's CI related Docker images and Jenkins configuration
+
+https://github.com/go-acme/lego # Let's Encrypt/ACME client and library written in Go
+
+https://github.com/serverless-ca/terraform-aws-ca # Terraform module for serverless certificate authority on AWS
+https://github.com/serverless-ca/cloud-ca # Cloud CA built using AWS CA Terraform Module
+https://github.com/serverless-ca/alb # AWS Application Load Balancer for testing mTLS with open-source cloud Certificate Authority
+https://github.com/serverless-ca/api-gateway # Amazon API Gateway for mTLS testing with open-source cloud certificate authority
+
+https://github.com/athenz/athenz # Platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures.
+https://github.com/athenz/k8s-athenz-webhook # K8s authn/ authz webhook that integrates with Athenz
+https://github.com/athenz/k8s-athenz-istio-auth # A controller that polls Athenz to update the ServiceRole and ServiceRoleBinding Istio custom resources.
+https://github.com/athenz/k8s-athenz-identity # Athenz Identity provider for kubernetes services
+https://github.com/athenz/athenz-authorizer # Athenz policy management library for golang
+https://github.com/athenz/athenz-client-sidecar # Client sidecar for fetching Athenz credentials
+https://github.com/athenz/k8s-athenz-syncer #
+https://github.com/athenz/authorization-proxy # Reverse proxy to control HTTP/gPRC access with Athenz policy
+https://github.com/athenz/terraform-provider-athenz # Athenz Terraform Provider
+https://github.com/athenz/garm # Garm is kubernetes authorization webhook (SubjectAccessReview API) server for Athenz
+https://github.com/athenz/athenz-authz-examples #
+https://github.com/athenz/athenz-issuer # Athenz issuer for cert-manager
+https://github.com/athenz/k8s-athenz-sia #
+https://github.com/athenz/website #
+https://github.com/athenz/athenz-metric-prometheus #
+https://github.com/athenz/athenz-aws-cf-setup #
+https://github.com/athenz/athenz-provider-examples #
+https://github.com/athenz/csi-driver-athenz # csi-driver-athenz is a Container Storage Interface (CSI) driver plugin for Kubernetes, intended to work alongside cert-manager.
+https://github.com/athenz/athenz-authority-auth0 #
+
 https://github.com/defo-project/ech-dev-utils # Scripts, configurations and HOWTOs for playing with Encrypted ClientHello (ECH)
 
 https://www.iana.org/assignments/pkix-parameters

@@ -1,0 +1,126 @@
+https://github.com/salesforcelabs/milestones-pm # Lightweight Project and Task Management for Force.com #forcedotcom
+https://github.com/salesforcelabs/lightningwebchartjs # Simple yet flexible charting Lightning Web Component using Chart.js for admins & developers
+https://github.com/salesforcelabs/enhancedlightninggrid # Component that allows you to sort and filter data within the Lightning Experience. Use as a replacement for a Related List, or create a new grid that shows results from a custom query.
+https://github.com/salesforcelabs/orgcheck # Org Check is an easy-to-install and easy-to-use Salesforce application in order to quickly analyze your org and its technical debt.
+https://github.com/salesforcelabs/survey-force #
+https://github.com/salesforcelabs/ganttchart # Gantt-Chart is a sample component that demonstrates what can be built with Lightning Web Components (LWC)
+https://github.com/salesforcelabs/schedul-o-matic-9000 # Not your mother's Salesforce scheduler
+https://github.com/salesforcelabs/excelupload # Excel Upload Lightning Web Component
+https://github.com/salesforcelabs/fileexplorer # With the Lightning File Explorer, yo u can create and then view a hierarchy of your files associated with a record. The files are nested within a familiar tree structure which we are all used to.
+https://github.com/salesforcelabs/projectmanagementtool # Project Management Tool (PM T) is an application built on Salesforce platform that helps teams: manage projects, track progress and project resources and report on the project status.
+https://github.com/salesforcelabs/activitytimelinelwc # A LWC implementation of the A ctivity Timeline
+https://lightningdesignsystem.com/components/activity-timeline/#site-main-content
+https://github.com/salesforcelabs/videoviewer # This lightning web component allows u sers to play video files natively in Salesforce. No need to download a video file to view it. There is also no need to transfer the video file to a third party service.
+https://github.com/salesforcelabs/multiorgsecuritysummary # Multi-Org Security Summar y gives you the ability to bring all of the Security Health Check data from all of your Salesforce environments(production & sandbox) into a single org! This allows you to get a clear picture of the security health of your entire Salesforce program and manage your team of Admins more efficiently.
+https://github.com/salesforcelabs/multilevelnavigationmenus # The Multi-Level Navigat ion Menu for Experience Cloud app offers components to manage multi-level navigation menus, and render them in your Experience Cloud site. You can configure up to 6 levels of depth in your menus, control the look and feel with styling configuration, horizontal vs vertical presentation, language filtering support, and much more!
+https://github.com/salesforcelabs/ampscript-core # AMPscript Core is an open source i mplementation of the Marketing Cloud AMPscript language.
+https://github.com/salesforcelabs/actionplansv4 # Action Plans encapsulates best prac tices into reusable task templates.
+https://github.com/salesforcelabs/salesforcecmscomponentlibrary # Experience Cloud pr ovides several standard CMS-related components focused on collections and other manually-curated pieces of content. These custom components complement those standard components and allow you to place relevant and dynamically-selected CMS content on topic detail and record detail pages. This can be used to inform customers and partners, drive context-specific calls to action,and to make your users much happier with the digital experience you create.
+https://github.com/salesforcelabs/approvalhistorylwc # Allows adding an approval hist ory related list to any Lightning Page.
+https://github.com/salesforcelabs/communitycookieconsent # Community Cookie Consent a llows you to display a cookie notice to your customers and gain their consent when they use your community. You can configure the cookies and categories directly in Salesforce and use those to drive the user interface.
+https://github.com/salesforcelabs/mysalesforcetrustmonitor #
+https://github.com/salesforcelabs/animalshelterstarter # Animal Shelter Starter provi des the foundation to use Salesforce for managing animals, treatments, conditions, housing and related activities.
+https://github.com/salesforcelabs/myv2mom # The myV2MOM app enables leaders to drive alignment within their organization. Using this app employees can view their leadership's vision and goals, and set their own personal professional goals to be aligned with that of their leaders.
+https://github.com/salesforcelabs/allonboard # With All Onboard Starter Pack, you can seamlessly onboard anyone, in one consolidated place and in no time at all.
+https://github.com/salesforcelabs/inventorymanagernp # Inventory Manager for Nonprofi ts
+https://github.com/salesforcelabs/casetimer #
+https://github.com/salesforcelabs/issuebox #
+https://github.com/salesforcelabs/salesforcejourneys # This Lightning Component allow s you to view which Marketing Cloud journeys a Contact, Lead, Case or Account is on, directly within Salesforce. You can also choose to eject them from any of those journeys if appropriate.
+https://github.com/salesforcelabs/govuk-gds-components #
+https://github.com/salesforcelabs/revenuecloudcodesamples # Code Samples to implement revenue cloud features
+https://github.com/salesforcelabs/data-fetcher #
+https://github.com/salesforcelabs/listeditor #
+https://github.com/salesforcelabs/mass-delete #
+https://github.com/salesforcelabs/chatter-game #
+https://github.com/salesforcelabs/configurable-self-registration-for-experience-cloud
+https://github.com/salesforcelabs/emailvalidator
+https://github.com/salesforcelabs/flow-datagrid-pack #
+https://github.com/salesforcelabs/imageuploader #
+https://github.com/salesforcelabs/whos-viewing-my-record # This component will notify you when another user is also viewing the same record as you, to help reduce conflict when saving records.
+https://github.com/salesforcelabs/lightningknowledgefeedback #
+https://github.com/salesforcelabs/enhancedfileslist # Ever wanted to customize the Fi les related list? Now you can! Use the Enhanced Files List component on record, app, or home pages. Select up to 10 fields to display, including custom Content Version fields. Control list behavior without writing any code.
+https://github.com/salesforcelabs/partner-locator-search # Partner Locator Search all ows Salesforce Partners (PRM) customers to expose their partner directory on the public internet, the partner portal, or the customer portal. The Partner Finder can be used by customers to locate a qualified reseller, VAR, distributor, or consulting firm within a particular geographic area. Likewise, it can be used to facilitate partner to partner collaboration by allowing partners to search for other partners with specific skill sets. The Partner Locator Search allows for searching by name, attribute, or location (geo-proximity).
+https://github.com/salesforcelabs/salesforceordermanager #
+https://github.com/salesforcelabs/orglimits #
+https://github.com/salesforcelabs/gps-design-systems-lwc # Salesforce LWCs for Austra lian, French and UK Governments' Design Systems
+https://github.com/salesforcelabs/ifttt_salesforce # If This Then That Channel for Sa lesforce
+https://github.com/salesforcelabs/dynamicworldclock # This clock component can be sho wn on any record or app page, or even place it in the utility bar. It can detect location from standard and custom fields or use the system time along with a list of additional locations if desired.
+https://github.com/salesforcelabs/apexpulse #
+https://github.com/salesforcelabs/imhotep-app-builder # Use Imhotep App Builder to or ganize and execute on the great ideas you have for your Salesforce org. Build It. Release It. Do It Again!
+https://github.com/salesforcelabs/magic-mover #
+https://github.com/salesforcelabs/intelligentsalesflows #
+https://github.com/salesforcelabs/esri-maps #
+https://github.com/salesforcelabs/fuel-gas-eater # Fuel Gas Eater is a powerful tool for reducing CO2 emissions caused by transportation, such as commuting and business trips. It runs with Net Zero Cloud.
+https://github.com/salesforcelabs/salesforce-adoption-dashboards #
+https://github.com/salesforcelabs/email-to-case-attachment-reassign #
+https://github.com/salesforcelabs/mockup-components #
+https://github.com/salesforcelabs/sdgstarterpack # Provides integration to UN Statist ics Sustainable Development Goals to allow tracking against activity in salesforce
+https://github.com/salesforcelabs/contentstandardchecklist #
+https://github.com/salesforcelabs/chronos-bot # Chronos Bot: Lightning Scheduler Appo intment Management
+https://github.com/salesforcelabs/fsc-transition-assistant #
+https://github.com/salesforcelabs/ideasanywhere # 社内外のアイディア収集、管理、実現
+で強い組織を実現！
+https://github.com/salesforcelabs/automatically-add-or-remove-permission-sets #
+https://github.com/salesforcelabs/record-hunter #
+https://github.com/salesforcelabs/pardotformseverywhere # Pardot Forms Everywhere tak es your Pardot Forms and gives you the ability to sync them to your Salesforce org on demand or on a schedule. This will take the form and send the details over to Salesforce for you to use in the Experience Builder or on Lightning Pages. Even better, you can now drag a custom component into the new Lightning Email Builder that will let you select a Pardot form and send it right to your Customers!
+https://github.com/salesforcelabs/change-management-at-login #
+https://github.com/salesforcelabs/external-actions-previewer #
+https://github.com/salesforcelabs/valueanalytics # A Tableau CRM templated app that l everages Event Monitoring data to highlight adoption, technical debt, and ultimately business value in your core Salesforce implementation.
+https://github.com/salesforcelabs/nzc-data-load #
+https://github.com/salesforcelabs/lightning-flow-inputs #
+https://github.com/salesforcelabs/technology-transfer-starter # A foundation for Tech nology Transfer and IP Management on Salesforce
+https://github.com/salesforcelabs/extremedynamicforms #
+https://github.com/salesforcelabs/quip-live-deal-feed #
+https://github.com/salesforcelabs/featured-content #
+https://github.com/salesforcelabs/lightning-flow-sample-pack #
+https://github.com/salesforcelabs/automated-case-workflows #
+https://github.com/salesforcelabs/newsfeed #
+https://github.com/salesforcelabs/salesforce-paypal-transaction-connector #
+https://github.com/salesforcelabs/jobquestmanager #
+https://github.com/salesforcelabs/service-agent-script-for-salesforce-flow #
+https://github.com/salesforcelabs/v2mom #
+https://github.com/salesforcelabs/net-zero-cloud-audit-helper # Streamline Net Zero Cloud carbon footprint audits with the Audit Helper
+https://github.com/salesforcelabs/it-manager #
+https://github.com/salesforcelabs/home360 #
+https://github.com/salesforcelabs/dashboard-pal #
+https://github.com/salesforcelabs/inappguidancewalkthroughs # AppX Listing:
+https://appexchange.salesforce.com/listingDetail?listingId=a0N3u00000OMqLU
+https://github.com/salesforcelabs/einstein-reply-recommendations-value #
+https://github.com/salesforcelabs/themembrane #
+https://github.com/salesforcelabs/swipey #
+https://github.com/salesforcelabs/quicker-quotes #
+https://github.com/salesforcelabs/clone-related-lists #
+https://github.com/salesforcelabs/class-enrollment #
+https://github.com/salesforcelabs/product-data-management #
+https://github.com/salesforcelabs/inappguidanceprompts # AppX Listing:
+https://appexc hange.salesforce.com/listingDetail?listingId=a0N3u00000OMqL1
+https://github.com/salesforcelabs/revenuecloudsubscriptionmanagement-credits # This repository is meant to contain simple examples of how the Subscription Management - Credit and Invoice Connect APIs can be consumed. There are readily usable templates ranging from scripts that will actively listen for platform events from the Salesforce org and publish them on Slack, to Writing a UI action button and Invocable Actions for these APIs.
+https://github.com/salesforcelabs/eadatacatalog #
+https://github.com/salesforcelabs/einsteincaseclassification #
+https://github.com/salesforcelabs/case-age-and-status #
+https://github.com/salesforcelabs/adding-multiple-related-records-flow-template #
+https://github.com/salesforcelabs/b2b-le-featured-products #
+https://github.com/salesforcelabs/lwc-ui-orchestrator #
+https://github.com/salesforcelabs/sentimeter #
+https://github.com/salesforcelabs/data-access-request-orchestration #
+https://github.com/salesforcelabs/intelligenttaskmaster #
+https://github.com/salesforcelabs/employee-manager #
+https://github.com/salesforcelabs/mail2x # EmailService Solution for Salesforce
+https://github.com/salesforcelabs/benefits-administrator-app #
+https://github.com/salesforcelabs/revcloudjavasdk # The RevCloudJavaSDK helps simplify invocation of Salesforce Revenue Cloud APIs. It wraps authentication, async event handling, error normalization into a few simple lines of Java method calls, and provides the option to invoke async APIs synchronously.
+https://github.com/salesforcelabs/mass-transfer-and-reassign-opportunities #
+https://github.com/salesforcelabs/jabberjaw #
+https://github.com/salesforcelabs/riskprofilingtool # A lightning component that enables a Financial Planner to quickly gauge a client's 'Attitude to Risk' and helps guide a Financial Planner when they are recommending an investment.
+https://github.com/salesforcelabs/developer-carbon-dashboard #
+https://github.com/salesforcelabs/household-activities-timeline #
+https://github.com/salesforcelabs/work-order-utility-flow #
+https://github.com/salesforcelabs/cloudcarbonemissionstracker #
+https://github.com/salesforcelabs/einstein-bot-metrics #
+https://github.com/salesforcelabs/aigovapprepo #
+https://github.com/salesforcelabs/quip-setup-starter #
+https://github.com/salesforcelabs/recruiting-manager #
+https://github.com/salesforcelabs/deadline-manager-for-orchestrator #
+https://github.com/salesforcelabs/greenbusinesstravelersbot #
+https://github.com/salesforcelabs/lightning-clock #
+https://github.com/salesforcelabs/hierarchy-aid # OSS for the Salesforce Labs App, "Hierarchy Aid."
+https://github.com/salesforcelabs/flow-document-scanner #

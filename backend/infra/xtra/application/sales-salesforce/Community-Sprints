@@ -1,0 +1,94 @@
+https://github.com/sfdo-community-sprints/interactions-for-student-recruitment # Open Source Community Sprint project focused on providing higher education institutions th e tools they need to manage student recruitment in Salesforce.
+https://github.com/sfdo-community-sprints/datagenerationtoolkit # Open Source Community Sprint project focused on building a tool to generate test data.
+https://github.com/sfdo-community-sprints/snowfakery-recipe-templates # Repo for all contributed Snowfakery recipes, maintained by Data Gen Toolkit team.
+https://github.com/sfdo-community-sprints/membership-essentials-app # Open Source Community Sprint project focused on building a schema for memberships, renewals, payments
+, multiple members, families, benefits, etc, that actually works. Eventually automation.
+https://github.com/sfdo-community-sprints/nonprofit-salesforce-how-to-series # Formerly known as NPSP Videography, this SFDO Commons Project meets at every Sprint and mont hly to create short helpful Salesforce for Nonprofit product How-To videos to help Nonprofit users and admins.
+https://github.com/sfdo-community-sprints/admin-skills-and-nonprofit-salesforce-teams # Open Source Community Sprint project focused on standardizing Salesforce System Adm inistrator and Business Analyst job descriptions
+https://github.com/sfdo-community-sprints/dei-framework # Open Source Community Sprint project focused on increasing the diversity, equality and inclusion at the Sprints a nd creating a framework for the nonprofit Salesforce ecosystem.
+https://github.com/sfdo-community-sprints/welcome # If you're a Project Leader, or if you've been identified as a Github Scribe, please start here!
+https://github.com/sfdo-community-sprints/declarativetestgeneration # Declarative Test Framework - Write automated unit tests in visual flow for any SDFC automation, apex,
+process builder or flow.
+https://github.com/sfdo-community-sprints/transfer-equivalency-credits-eda # Open Source Community Sprint project focused on building functionality to search for course an d credit transfer equivalency between institutions.
+https://github.com/sfdo-community-sprints/summit-events-app-documentation # The repo dedicated to documentation for the Summit Events app package
+https://github.com/sfdo-community-sprints/sticky-selectron-documentation # Sticky Selectron is a Datatable Lightning Component for easy record selection in a screen flow t hat will persist (or remain “sticky”) across flow screens.
+https://github.com/sfdo-community-sprints/dlrs-documentation # Repo to organize the documentation and Pages files for the DLRS project
+https://github.com/sfdo-community-sprints/data-integrity-integrations # To create a living document, like a "clean up guide", for the community to use.
+https://github.com/sfdo-community-sprints/deployment-best-practices # Bring the Well Architected Framework from Manifesto of Best Practice to action
+https://github.com/sfdo-community-sprints/pmm-v4s # A Community Sprint project group to draft a recipe doc to connect Program Management Module (PMM) and Volunteers for Sa lesforce (V4S) open source products!
+https://github.com/sfdo-community-sprints/snowfakery-nonprofit # Snowfakery faker data specific to non-profit use-cases
+https://github.com/sfdo-community-sprints/food-pantry-commons #
+https://github.com/sfdo-community-sprints/geo-reporting-pmm # This project will figure out how to extend PMM to facilitate easier geographic reporting to meet the needs of funders, donors, and nonprofit staff.
+https://github.com/sfdo-community-sprints/financial-aid # Open Source Community Sprint project focused on supplying a Financial Aid architecture and small assistance in a manner similar to EDA.
+https://github.com/sfdo-community-sprints/sprintys-community-resources # Searchable library of community resources. SCR is an easy, searchable online repository of communi ty created best practices, tips, use cases, and more to help Nonprofit and Education focused admins find the information they need, fast.
+https://github.com/sfdo-community-sprints/household-formatter-for-npspimport # We have developed an Excel spreadsheet with an embedded VisualBasic program that makes it ea sier to get contact data into import-ready format for the NPSP Data Import tool.
+https://github.com/sfdo-community-sprints/sfdo-community-sprints.github.io # This repo feeds a website (
+https://sfdo-community-sprints.github.io)
+https://github.com/sfdo-community-sprints/npc-best-practices # Doc Repo
+https://github.com/sfdo-community-sprints/sandbox-sample-data-set # This project is a set of sample data that can be used to populate a clean NPSP install (e.g. a scratch org). It’s intended to be used for learning purposes, e.g. training new users or new admins of NPSP to get them familiar with the base platform.
+https://github.com/sfdo-community-sprints/impact-management-ngo # This Community Sprint project is to explore how we might incorporate impact measurement elements into the Program Management Module and Outbound Funds Module to enable standardized program outcomes and impact data in both.
+https://github.com/sfdo-community-sprints/salesforcedatapackloader # An Apex Loader for a JSON format produced by Snowfakery
+https://github.com/sfdo-community-sprints/mentorship-app # New Sprint project to build a open source mentorship tracking application
+https://github.com/sfdo-community-sprints/common-data-models # Project focusing on how the community can use the power of the Salesforce platform to provide consistency fo r data models that are commonly implemented in the Nonprofit and Education spaces to avoid duplicate work and promote collaboration and best practices.
+https://github.com/sfdo-community-sprints/doc-generation # Project to provide guidance and solution options for Nonprofits needing a doc gen solution
+https://github.com/sfdo-community-sprints/snowfakery-edu # Fake data to support educational institutions
+https://github.com/sfdo-community-sprints/flowrecipes # focused on creating recipes to help beginner admins get up to speed on Flow by creating basic building blocks that Admins can then customize for their own Nonprofit or Education processes.
+https://github.com/sfdo-community-sprints/onboarding-new-users-best-practices #
+https://github.com/sfdo-community-sprints/grants-content-kit-documentation # Repo to house grants content kit documentation and Sprint work outside of the managed package
+https://github.com/sfdo-community-sprints/membership-management #
+https://github.com/sfdo-community-sprints/enhancements-to-npsp-email-acknowledgement # Proposing updates to the existing functionality "Acknowledge Donations by Email"
+https://github.com/sfdo-community-sprints/outboundfunds # The Outbound Funds team work at SFDO Community Sprints. For full product details go to
+https://github.com/Salesfo rceFoundation/OutboundFunds.
+https://github.com/sfdo-community-sprints/ombudsmancloudcaresprints # Sprint repo for the Ombudsman Cloud Care Application
+https://github.com/sfdo-community-sprints/cumulusci-process-for-customers-and-partners # How to go about setting up CumulusCI for Continuous Development and Distribution
+https://github.com/sfdo-community-sprints/faker_person_diverse # Diverse person names for Faker and Snowfakery
+https://github.com/sfdo-community-sprints/data-intake-governance # Open Source Community Sprint project focused on managing surveys, applications and other intake data.
+https://github.com/sfdo-community-sprints/opportunity-contact-roles # Soft crediting implications with the new version of the Opportunity Contact Roles object.
+https://github.com/sfdo-community-sprints/grms-documentation # Doc repo for Grassroots Mobile Survey -
+https://sfdo-community-sprints.github.io/GRMS-Documentation/
+https://github.com/sfdo-community-sprints/metric-tracking # Place to develop metric tracking
+https://github.com/sfdo-community-sprints/.github #
+https://github.com/sfdo-community-sprints/timecard-app # A Salesforce application for tracking time worked on a grant
+https://github.com/sfdo-community-sprints/youth-program-demo # Demo project for Metecho training
+https://github.com/sfdo-community-sprints/affiliations-functionality-upgrade # Project to transfer the Affiliations Functionality in the NPSP to the "Contact to Multiple A ccount" standard Salesforce Functionality
+https://github.com/sfdo-community-sprints/npsp-datacloud-kit # Creating a Data Cloud kit for NPSP use cases
+https://github.com/sfdo-community-sprints/membership-essentials-documentation #
+https://github.com/sfdo-community-sprints/npsp-donation-form-and-payment-service-providers #
+https://github.com/sfdo-community-sprints/edaeasy #
+https://github.com/sfdo-community-sprints/dupededupe # Tools for managing duplicates in Salesforce
+https://github.com/sfdo-community-sprints/global-goals-mapping-tool # Global Goals Mapping Tool for NPSP
+https://github.com/sfdo-community-sprints/technicalgovernanceforstarters #
+https://github.com/sfdo-community-sprints/autoleadconvert # A space for sharing info on automatic lead conversion based on criteria in NPSP/HEDA
+https://github.com/sfdo-community-sprints/npsp-engagement-plan-templates # New Sprint project for the February 2021 Community Sprint! This new community generated project will work to identify and define different donor personas and document templates that can be used when creating NPSP Engagement Plan Templates.
+https://github.com/sfdo-community-sprints/education-summit-projects-2022 # Home for work being done on the 2022 Education Summit project ideas
+https://github.com/sfdo-community-sprints/common-data-model-applications # Common-data-model-applications
+https://github.com/sfdo-community-sprints/uk-technical-collective # Local program to train admins to help Charities with Salesforce
+https://github.com/sfdo-community-sprints/affordable-housing-solution # Commons affordable housing solution (three solutions merged)
+https://github.com/sfdo-community-sprints/indicators-documentation #
+https://github.com/sfdo-community-sprints/rapidprotypingwithlightning # Tools for rapid prototyping and wireframe building with SLDS and Base Lightning Components
+https://github.com/sfdo-community-sprints/npsp-flow-replacements # Documenting how to replace existing NPSP workflow with Flow
+https://github.com/sfdo-community-sprints/snowfakery-representation # A snowfakery plugin for diverse or otherwise representative names and topics.
+https://github.com/sfdo-community-sprints/automation-library # Use cases for nonprofit and higher education process automation
+https://github.com/sfdo-community-sprints/nonprofit-trailhead # Community brainstorm and contributions to nonprofit trailhead content!
+https://github.com/sfdo-community-sprints/engagementplans # Engagement Plans 2.0
+https://github.com/sfdo-community-sprints/accounting_and_gift_locking #
+https://github.com/sfdo-community-sprints/osc-vscode-extensions # The VS Code Extension Pack for OSC Contributors
+https://github.com/sfdo-community-sprints/account_campaign_participation #
+https://github.com/sfdo-community-sprints/community-fundraising-guide # This new APAC specific Sprint project is working to create a document that guides the user through creating a custom Opportunity Record Type, Page Layout and Campaign Hierarchy to record these donations and the relationship between donors and fundraisers. Use Opportunity stages to manage the process from application, approval, letter of authority, and receipt of funds.
+https://github.com/sfdo-community-sprints/common-data-model-templates # Template org for the Common Data Model templates
+https://github.com/sfdo-community-sprints/npsp-data-importer-documentation # Review and revise the documentation to better communicate the who, what, where and why of the NPSP Data Importer and its related components.
+https://github.com/sfdo-community-sprints/npsp-gender-blog #
+https://github.com/sfdo-community-sprints/accreditation-metric-tracking # Open Source Community Sprint project focused on building a solution to track metrics required for accreditations such as AACSB by reducing time required to compile data and pain of using countless spreadsheets.
+https://github.com/sfdo-community-sprints/commons-team-org # Team looking to build a simple common data model for programs like the Commons who want to track volunteers, t eams, and open source projects
+https://github.com/sfdo-community-sprints/anz-payment-framework # Sydney Project focused on helping create a decision tree to choose payment processor for local needs
+https://github.com/sfdo-community-sprints/npsp-data-import # Work on ways to make the NPSP Administrator's Guide to Importing Donor Data easier to use and follow.
+https://github.com/sfdo-community-sprints/ngo-ai-prompts #
+https://github.com/sfdo-community-sprints/enhancedleadconversion # Adding options for additional mapping options when converting leads
+https://github.com/sfdo-community-sprints/visualiser # This will allow an organization to visualise data from several types of field as "tags". They can be color-coded and are displayed to the Users as a Lightning Component.
+https://github.com/sfdo-community-sprints/eda-regionalisation # Community Sprint project to focus on identifying opportunities to tailor EDA for country, region, language,
+dialect, and education operating models. EDA was originally designed for AMER, and is now being used globally.
+https://github.com/sfdo-community-sprints/scholarship-tracking # Project working on a solution to help students be able to easily connect to scholarships and grants that m eet their qualifying criteria.
+https://github.com/sfdo-community-sprints/common-data-model-refugee-support #
+https://github.com/sfdo-community-sprints/app-advice # This project is a Community sourced list of commonly used Salesforce Apps by the Salesforce.org community
+https://github.com/sfdo-community-sprints/data-management-key-considerations # Tips that Nonprofits should consider with Data Management
+https://github.com/sfdo-community-sprints/pretty-lightning-pages # Team building examples of beautiful lightning pages for everyone
