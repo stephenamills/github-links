@@ -1,0 +1,59 @@
+https://github.com/asyncapi/spec # The AsyncAPI specification allows you to create ma
+chine-readable definitions of your asynchronous APIs. https://github.com/asyncapi/generator # Use your AsyncAPI definition to generate lite
+rally anything. Markdown documentation, Node.js code, HTML documentation, anything! https://github.com/asyncapi/website # AsyncAPI specification website
+https://github.com/asyncapi/modelina # A library for generating typed models based on
+inputs such as AsyncAPI, OpenAPI, and JSON Schema documents with high customization https://github.com/asyncapi/saunter # Saunter is a code-first AsyncAPI documentation
+generator for dotnet. https://github.com/asyncapi/cli # CLI to work with your AsyncAPI files. You can valid
+ate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! https://github.com/asyncapi/asyncapi-react # React component for rendering documentat
+ion from your specification in real-time in the browser. It also provides a WebComponent and bundle for Angular and Vue https://github.com/asyncapi/studio # Visually design your AsyncAPI files and event-dr
+iven architecture. https://github.com/asyncapi/parser-js # AsyncAPI parser for Javascript (browser-compa
+tible too). https://github.com/asyncapi/community # AsyncAPI community-related stuff.
+https://github.com/asyncapi/glee # Glee — The AsyncAPI framework that will make you s
+mile again :) https://github.com/asyncapi/bindings # AsyncAPI bindings specifications
+https://github.com/asyncapi/jasyncapi # /jay-sync-api/ is a Java code-first tool for
+AsyncAPI specification https://github.com/asyncapi/java-spring-template # Java Spring template for the Async
+API Generator https://github.com/asyncapi/html-template # HTML template for AsyncAPI Generator. Use
+it to generate a static docs. It is using AsyncAPI React component under the hood. https://github.com/asyncapi/parser-go # It parses AsyncAPI documents.
+https://github.com/asyncapi/spec-json-schemas # AsyncAPI schema versions
+https://github.com/asyncapi/go-watermill-template # Go template for the AsyncAPI Gene
+rator using Watermill module https://github.com/asyncapi/github-action-for-cli # GitHub Action with generator, val
+idator, converter and others - all in one for your AsyncAPI documents with AsyncAPI CLI as backbone https://github.com/asyncapi/vs-asyncapi-preview # VSCode AsyncAPI Preview Extension
+https://github.com/asyncapi/nodejs-template # This template generates a server using
+your AsyncAPI document. It supports multiple different protocols, like Kafka or MQTT. It is designed in the way that generated code is a library and with it's API you can start the server, send messages or register a middleware for listening incoming messages. Runtime message validation included. https://github.com/asyncapi/avro-schema-parser # An AsyncAPI schema parser for Avro 1
+.x schemas. https://github.com/asyncapi/java-spring-cloud-stream-template # Java Spring Cloud Str
+eam template for the AsyncAPI Generator https://github.com/asyncapi/bundler # Combine multiple AsyncAPI specification files i
+nto one. https://github.com/asyncapi/.github # Location of all reusable community health files
+https://github.com/asyncapi/server-api # Server API providing official AsyncAPI tools
+https://github.com/asyncapi/diff # Diff is a library that compares two AsyncAPI Docum
+ents and provides information about the differences by pointing out explicitly information like breaking changes. https://github.com/asyncapi/markdown-template # Markdown template for the AsyncAPI Ge
+nerator https://github.com/asyncapi/python-paho-template # Python Paho template for the Async
+API generator https://github.com/asyncapi/nodejs-ws-template # Node.js WebSockets template for the
+AsyncAPI Generator. It showcases how from a single AsyncAPI document you can generate a server and a client at the same time. https://github.com/asyncapi/conference-website # Website for the AsyncAPI online conf
+erence https://github.com/asyncapi/kotlin-asyncapi # Simplify event-driven API documentation
+for Kotlin microservices https://github.com/asyncapi/converter-go # Convert AsyncAPI documents from older to n
+ewer versions with Golang https://github.com/asyncapi/generator-react-sdk # Generator React SDK enabling the As
+yncAPI generator to support React as the rendering engine for templates. https://github.com/asyncapi/template-for-generator-templates # This is a GitHub repos
+itory template for generator templates to make it much easier to start writing your own generator template. https://github.com/asyncapi/converter-js # Convert to or migrate between AsyncAPI ver
+sions with the converter https://github.com/asyncapi/simulator # Asynchronous traffic simulation application u
+sing async-api https://github.com/asyncapi/edavisualiser # View your system, events, applications th
+rough different perspectives https://github.com/asyncapi/optimizer # AsyncAPI offers many different ways to reuse
+certain parts of the document like messages or schemas definitions or references to external files, not to even mention the traits. There is a need for a tool that can be plugged into any workflows and optimize documents that are generated from code, but not only. https://github.com/asyncapi/tck # (WIP) Test Compatibility Suite for AsyncAPI
+https://github.com/asyncapi/openapi-schema-parser # An AsyncAPI schema parser for Ope
+nAPI 3.0.x and Swagger 2.x schemas. https://github.com/asyncapi/chatbot # The project's aim is to develop a chatbot that
+can help people create spec documents without knowing the specification.To get started with, the bot will consume the spec, JSON schema and serves the user as an expert. So based on a set of questions and answers it will generate an AsyncApi spec document according to the use cases. https://github.com/asyncapi/extensions-catalog # Catalog of extensions for AsyncAPI s
+pecification https://github.com/asyncapi/shape-up-process # This repo contains pitches and the cur
+rent cycle bets. More info about the Shape Up process: https://basecamp.com/shapeup https://github.com/asyncapi/php-template # PHP Template for AsyncAPI generator
+https://github.com/asyncapi/dotnet-rabbitmq-template # This template is for generatin
+g a .NET C# wrapper for the RabbitMQ client based on your AsyncAPI document. https://github.com/asyncapi/java-template # Java template for the AsyncAPI Generator
+https://github.com/asyncapi/jasyncapi-idea-plugin # /jay-sync-api/-idea-plugin is a I
+DEA plugin for AsyncAPI specification https://github.com/asyncapi/brand # AsyncAPI brand guidelines and strategy
+https://github.com/asyncapi/parser-api # Global API definition for all AsyncAPI Parse
+r implementations. https://github.com/asyncapi/training # All about trainings, workshops, courses, etc.
+https://github.com/asyncapi/problem # Library that implements the Problem interface.
+Reference https://www.rfc-editor.org/rfc/rfc7807 https://github.com/asyncapi/raml-dt-schema-parser # AsyncAPI schema parser for RAML d
+ata types https://github.com/asyncapi/protobuf-schema-parser # Schema parser for Protobuf compa
+tible with AsyncAPI JS Parser https://github.com/asyncapi/enterprise-patterns # Enterprise patterns using AsyncAPI
+https://github.com/asyncapi/generator-hooks # Library with reusable generator hooks t
+hat you can use in your templates https://github.com/asyncapi/template-for-go-projects # This is a repository template
+for golang projects https://github.com/asyncapi/learning-paths # Learning resources, including tutorials,
+guides and examples

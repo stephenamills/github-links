@@ -1,0 +1,56 @@
+https://github.com/redhat-middleware-workshops/workshop-amq-streams
+https://github.com/redhat-middleware-workshops/eap7-modernization
+https://github.com/redhat-middleware-workshops/modernize-apps-katacoda
+https://github.com/redhat-middleware-workshops/quarkus-workshop-m1m2
+https://github.com/redhat-middleware-workshops/amq7-broker-workshop
+https://github.com/redhat-middleware-workshops/dayinthelife-streaming
+https://github.com/redhat-middleware-workshops/cloud-native-workshop-v2m1-guides
+https://github.com/redhat-middleware-workshops/camelk-hackathon
+https://github.com/redhat-middleware-workshops/rh1-eap7-eap8-lab
+https://github.com/redhat-middleware-workshops/edge-to-cloud-data-pipelines-workshop
+https://github.com/redhat-middleware-workshops/rhpam-7-workshop
+https://github.com/redhat-middleware-workshops/rhpam-rhdm-workshop-v1-images
+
+https://github.com/artemiscloud/activemq-artemis-operator #
+https://github.com/artemiscloud/activemq-artemis-broker-image # ActiveMQ Artemis Broker Image Reposifory
+https://github.com/artemiscloud/activemq-artemis-broker-kubernetes-image #
+https://github.com/artemiscloud/artemiscloud-examples # examples from artemiscloud
+https://github.com/artemiscloud/grafana # Sample Grafana Dashboard for ActiveMQ Artemis
+https://github.com/artemiscloud/activemq-artemis-self-provisioning-plugin # ActiveMQ Artemis Self Provisioning Plugin
+https://github.com/artemiscloud/activemq-artemis-management # Small Go library to manage ActiveMQ Artemis via the Jolokia JMX to HTTP bridge
+https://github.com/artemiscloud/activemq-artemis-broker-init-image # Init container image that configures artemis broker instances
+https://github.com/artemiscloud/artemiscloud-docs # Documentation for ArtemisCloud
+https://github.com/artemiscloud/website #
+https://github.com/artemiscloud/artemiscloud.github.io # The artemiscloud web site
+https://github.com/artemiscloud/activemq-artemis-operator-bundle #
+https://github.com/artemiscloud/antora-ui-docs # An Artemis Cloud UI Theme
+https://github.com/artemiscloud/activemq-artemis-jolokia-api-server #
+
+https://github.com/apache/activemq # Mirror of Apache ActiveMQ
+https://github.com/apache/activemq-artemis # Mirror of Apache ActiveMQ Artemis
+https://github.com/apache/incubator-kie-optaplanner-quickstarts # OptaPlanner quick starts for AI optimization: many use cases shown in many different technologies.
+https://github.com/apache/activemq-cpp # Apache ActiveMQ CPP
+https://github.com/apache/camel-spring-boot-examples # Apache Camel Spring Boot Examples
+https://github.com/apache/camel # Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+https://github.com/apache/servicemix # Apache ServiceMix
+https://github.com/apache/activemq-website # Apache ActiveMQ Website
+https://github.com/apache/activemq-nms-amqp # Mirror of Apache ActiveMQ NMS.AMQP Client
+https://github.com/apache/activemq-nms-api # Mirror of Apache ActiveMQ NMS API
+https://github.com/apache/fineract # Apache Fineract
+https://github.com/apache/activemq-artemis-examples # Apache ActiveMQ Artemis Examples
+https://github.com/apache/activemq-nms-openwire # Mirror of Apache ActiveMQ NMS OpenWire client library
+https://github.com/apache/activemq-protobuf # Mirror of Apache ActiveMQ Protobuf
+https://github.com/apache/activemq-openwire # Mirror of Apache ActiveMQ OpenWire
+https://github.com/apache/activemq-cli-tools # Mirror of Apache ActiveMQ CLI Tools
+https://github.com/apache/activemq-artemis-native # Apache activemq artemis native
+https://github.com/apache/activemq-nms-stomp # Mirror of Apache ActiveMQ NMS.Stomp Client
+https://github.com/apache/servicemix4-features # Mirror of Apache Servicemix 4 features
+https://github.com/apache/servicemix5 # Mirror of Apache ServiceMix 5
+https://github.com/apache/activemq-artemis-console # Apache ActiveMQ Artemis Console
+https://github.com/apache/hertzbeat # Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+https://github.com/apache/sling-org-apache-sling-jms # Apache Sling MoM Implementation using JMS with AMQ
+https://github.com/apache/activemq-nms-openwire-generator # Mirror of Apache ActiveMQ NMS OpenWire protocol generator tool
+https://github.com/apache/uima-async-scaleout # Apache UIMA UIMA Asynchronous Scaleout (UIMA-AS)
+https://github.com/apache/servicemix4-nmr # Mirror of Apache Servicemix 4 NMR
+https://github.com/apache/servicemix4-kernel # Mirror of Apache Servicemix 4 kernel
+https://github.com/apache/uima-ducc # Apache UIMA Ducc

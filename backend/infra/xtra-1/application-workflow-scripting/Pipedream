@@ -1,0 +1,14 @@
+https://github.com/pipedreamhq/pipedream # Connect APIs, remarkably fast. Free for developers.
+
+https://github.com/pipedreamhq/sdk #
+https://github.com/pipedreamhq/pipedream-go # Go support for Pipedream
+https://github.com/pipedreamhq/node-sse-example # Process events from Pipedream SSE streams in Node.js
+https://github.com/pipedreamhq/nextjs-examples # NextJS examples using Pipedream
+https://github.com/pipedreamhq/eslint-plugin-pipedream # ESLint plugin for Pipedream components: https://pipedream.com/docs/components/api/
+https://github.com/pipedreamhq/pipedream-py # Python support
+https://github.com/pipedreamhq/cdk-constructs # AWS CDK Constructs
+https://github.com/pipedreamhq/homebrew-pd-cli # Homebrew formula for the Pipedream CLI
+https://github.com/pipedreamhq/pipedream-connect-examples # Collection of example apps showcasing the pipedream SDK
+https://github.com/pipedreamhq/workflow-sharing-examples #
+https://github.com/pipedreamhq/component-dev-env # A Gitpod environment for building Pipedream components - right from your browser!
+https://github.com/pipedreamhq/file-stores-email-templates # An example of leveraging HTML email templates with Pipedream workflows

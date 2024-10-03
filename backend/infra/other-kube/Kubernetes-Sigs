@@ -1,0 +1,135 @@
+https://github.com/kubernetes-sigs/kubespray # Deploy a Production Ready Kubernetes Cluster
+https://github.com/kubernetes-sigs/kind # Kubernetes IN Docker - local clusters for testing Kubernetes
+https://github.com/kubernetes-sigs/kustomize # Customization of kubernetes YAML configurations
+https://github.com/kubernetes-sigs/kubebuilder # Kubebuilder - SDK for building Kubernetes APIs using CRDs
+https://github.com/kubernetes-sigs/external-dns # Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+https://github.com/kubernetes-sigs/krew # 📦 Find and install kubectl plugins
+https://github.com/kubernetes-sigs/metrics-server # Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+https://github.com/kubernetes-sigs/descheduler # Descheduler for Kubernetes
+https://github.com/kubernetes-sigs/aws-load-balancer-controller # A Kubernetes controller for Elastic Load Balancers
+https://github.com/kubernetes-sigs/kui # A hybrid command-line/UI development experience for cloud-native development
+https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner # Dynamic sub-dir volume provisioner on a remote NFS server
+https://github.com/kubernetes-sigs/kwok # Kubernetes Without Kubelet - Simulates thousands of Nodes and Clusters.
+https://github.com/kubernetes-sigs/controller-runtime # Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+https://github.com/kubernetes-sigs/aws-iam-authenticator # A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+https://github.com/kubernetes-sigs/prometheus-adapter # An implementation of the custom.metrics.k8s.io API using Prometheus
+https://github.com/kubernetes-sigs/gateway-api # Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+https://github.com/kubernetes-sigs/kueue # Kubernetes-native Job Queueing
+https://github.com/kubernetes-sigs/scheduler-plugins # Repository for out-of-tree scheduler plugins based on scheduler framework
+https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner # Static provisioner of local volumes
+https://github.com/kubernetes-sigs/apiserver-builder-alpha # Tools to quickly and easily build Kubernetes apiservers/controllers to support custom resource types based on APIServer Aggregation
+https://github.com/kubernetes-sigs/kube-scheduler-simulator # The simulator for the Kubernetes scheduler
+https://github.com/kubernetes-sigs/node-feature-discovery # Node feature discovery for Kubernetes
+https://github.com/kubernetes-sigs/controller-tools # Tools to use with the controller-runtime libraries
+https://github.com/kubernetes-sigs/security-profiles-operator # The Kubernetes Security Profiles Operator
+https://github.com/kubernetes-sigs/krew-index # Plugin index for Krew. This repo is for plugin maintainers.
+https://github.com/kubernetes-sigs/cluster-proportional-autoscaler # Kubernetes Cluster Proportional Autoscaler Container
+https://github.com/kubernetes-sigs/hierarchical-namespaces # Home of the Hierarchical Namespace Controller (HNC). Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy.
+https://github.com/kubernetes-sigs/sig-storage-lib-external-provisioner
+https://github.com/kubernetes-sigs/application # Application metadata descriptor CRD
+https://github.com/kubernetes-sigs/e2e-framework # A Go framework for end-to-end testing of components running in Kubernetes clusters.
+https://github.com/kubernetes-sigs/custom-metrics-apiserver # Framework for implementing custom metrics support for Kubernetes
+https://github.com/kubernetes-sigs/karpenter # Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+https://github.com/kubernetes-sigs/cluster-capacity # Cluster capacity analysis
+https://github.com/kubernetes-sigs/nfs-ganesha-server-and-external-provisioner # NFS Ganesha Server and Volume Provisioner.
+https://github.com/kubernetes-sigs/image-builder # Tools for building Kubernetes disk images
+https://github.com/kubernetes-sigs/apiserver-network-proxy
+https://github.com/kubernetes-sigs/ingress2gateway # Convert Ingress resources to Gateway API resources
+https://github.com/kubernetes-sigs/kubetest2 # Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes.
+https://github.com/kubernetes-sigs/bom # A utility to generate SPDX-compliant Bill of Materials manifests
+https://github.com/kubernetes-sigs/blixt # Layer 4 Kubernetes load-balancer
+https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern # A toolkit for building declarative operators with kubebuilder
+https://github.com/kubernetes-sigs/ip-masq-agent # Manage IP masquerade on nodes
+https://github.com/kubernetes-sigs/aws-encryption-provider # APIServer encryption provider, backed by AWS KMS
+https://github.com/kubernetes-sigs/mcs-api # Multi-Cluster Service APIs
+https://github.com/kubernetes-sigs/zeitgeist # Zeitgeist: the language-agnostic dependency checker
+https://github.com/kubernetes-sigs/cluster-addons # Addon operators for Kubernetes clusters.
+https://github.com/kubernetes-sigs/cli-utils # This repo contains binaries that built from libraries in cli-runtime.
+https://github.com/kubernetes-sigs/promo-tools # Container and file artifact promotion tooling for the Kubernetes project
+https://github.com/kubernetes-sigs/kubectl-validate
+https://github.com/kubernetes-sigs/kube-storage-version-migrator #
+https://github.com/kubernetes-sigs/usage-metrics-collector # High fidelity and scalable capacity and usage metrics for Kubernetes clusters
+https://github.com/kubernetes-sigs/boskos # Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources.
+https://github.com/kubernetes-sigs/jobset # JobSet: a k8s native API for distributed ML training and HPC workloads
+https://github.com/kubernetes-sigs/lwkd # Last Week in Kubernetes Development
+https://github.com/kubernetes-sigs/downloadkubernetes # Download kubernetes binaries more easily
+https://github.com/kubernetes-sigs/lws # LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
+https://github.com/kubernetes-sigs/prow # Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community.
+https://github.com/kubernetes-sigs/structured-merge-diff # Test cases and implementation for "server-side apply"
+https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension # All the things to make the scheduler extendable with wasm.
+https://github.com/kubernetes-sigs/slack-infra # Tooling for kubernetes.slack.com
+https://github.com/kubernetes-sigs/dashboard-metrics-scraper # Container to scrape, store, and retrieve a window of time from the Metrics Server.
+https://github.com/kubernetes-sigs/apisnoop # Snooping on the Kubernetes OpenAPI communications
+https://github.com/kubernetes-sigs/kernel-module-management # The kernel module management operator builds, signs and loads kernel modules in Kubernetes clusters.
+https://github.com/kubernetes-sigs/apiserver-runtime # Libraries for implementing aggregated apiservers
+https://github.com/kubernetes-sigs/cli-experimental # Experimental Kubectl libraries and commands.
+https://github.com/kubernetes-sigs/node-feature-discovery-operator # Operator for managing Node Feature Discovery deployment
+https://github.com/kubernetes-sigs/community-images # kubectl plugin that displays images running in a Kubernetes cluster that were pulled from community owned repositories and warn the user to switch repositories if needed
+https://github.com/kubernetes-sigs/wg-policy-prototypes # A place for policy work group related proposals and prototypes.
+https://github.com/kubernetes-sigs/hydrophone # Hydrophone is a lightweight Kubernetes conformance tests runner
+https://github.com/kubernetes-sigs/tejolote # A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.
+https://github.com/kubernetes-sigs/work-api # Kubernetes Work API
+https://github.com/kubernetes-sigs/iptables-wrappers # Wrapper scripts for using iptables in containers
+https://github.com/kubernetes-sigs/network-policy-api # This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource
+https://github.com/kubernetes-sigs/release-notes # This repo contains tooling around generating and publishing release notes for the Kubernetes organization.
+https://github.com/kubernetes-sigs/cluster-proportional-vertical-autoscaler
+https://github.com/kubernetes-sigs/minikube-gui # GUI for minikube
+https://github.com/kubernetes-sigs/clientgofix # clientgofix rewrites calls to old k8s.io/client-go methods to use newer invocations
+https://github.com/kubernetes-sigs/ingress-controller-conformance # Repository for a compliance specification of ingress-controllers.
+https://github.com/kubernetes-sigs/dra-example-driver # Example DRA driver that developers can fork and modify to get them started writing their own.
+https://github.com/kubernetes-sigs/cluster-inventory-api # Kubernetes ClusterInventory API
+https://github.com/kubernetes-sigs/mdtoc # Markdown table-of-contents generator
+https://github.com/kubernetes-sigs/externalip-webhook # ClusterIP Validating Webhook
+https://github.com/kubernetes-sigs/depstat # depstat is a dependency analyzer for Go modules enabled projects. It runs as part of the Kubernetes CI pipeline to help evaluate dependency updates to Kubernetes.
+https://github.com/kubernetes-sigs/pspmigrator # pspmigrator is a tool to migrate from PSP to PSA
+https://github.com/kubernetes-sigs/about-api # A CRD for arbitrary properties about a cluster
+https://github.com/kubernetes-sigs/instrumentation-tools # Repository for tools and artifacts related to the sig-instrumentation charter in Kubernetes.
+https://github.com/kubernetes-sigs/kubectl-check-ownerreferences # Read-only tool to check metadata.ownerReferences.
+https://github.com/kubernetes-sigs/kube-network-policies # Kubernetes network policies
+https://github.com/kubernetes-sigs/json # Golang JSON decoder supporting case-sensitive, number-preserving, and strict decoding use cases
+https://github.com/kubernetes-sigs/knftables # golang nftables library
+https://github.com/kubernetes-sigs/kubebuilder-release-tools # Release tooling for KubeBuilder projects.
+https://github.com/kubernetes-sigs/krm-functions-registry # Public registry for KRM functions
+https://github.com/kubernetes-sigs/instrumentation # All about Kubernetes SIG Instrumentation
+https://github.com/kubernetes-sigs/release-sdk # Interfaces and implementations for building Kubernetes releases.
+https://github.com/kubernetes-sigs/release-team-shadow-stats # Kubernetes release team shadow program application analysis
+https://github.com/kubernetes-sigs/sig-multicluster-site # Outreach and central subproject docs site for SIG-Multicluster
+https://github.com/kubernetes-sigs/logtools # Tools related to log calls for Kubernetes.
+https://github.com/kubernetes-sigs/execution-hook # This repo contains ExecutionHook CRDs for dynamically executing user’s commands in pods/containers and an ExecutionHookController to manage the hook's lifecycle.
+https://github.com/kubernetes-sigs/provider-aws-test-infra # Shared test infrastructure for the AWS cloud provider repositories
+https://github.com/kubernetes-sigs/logical-cluster # Utilities to interact with fleet of clusters which can be managed by Cluster API, or cloud providers
+https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver # The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Plugin.
+https://github.com/kubernetes-sigs/blob-csi-driver # Azure Blob Storage CSI driver
+https://github.com/kubernetes-sigs/container-object-storage-interface-controller # Container Object Storage Interface (COSI) controller responsible for managing the lifecycle of COSI objects.
+https://github.com/kubernetes-sigs/gcp-filestore-csi-driver # The Google Cloud Filestore Container Storage Interface (CSI) Plugin.
+https://github.com/kubernetes-sigs/container-object-storage-interface-spec # Container Object Storage (COSI) Specification
+https://github.com/kubernetes-sigs/container-object-storage-interface-api # Container Object Storage Interface (COSI) API responsible to define API for COSI objects.
+https://github.com/kubernetes-sigs/container-object-storage-interface-provisioner-sidecar # Container Object Storage Interface (COSI) provisioner responsible to interface with COSI drivers.
+https://github.com/kubernetes-sigs/aws-fsx-openzfs-csi-driver # Amazon FSx for OpenZFS Cloud Container Storage Interface(CSI) Driver
+https://github.com/kubernetes-sigs/azurelustre-csi-driver #
+https://github.com/kubernetes-sigs/aws-file-cache-csi-driver # Amazon File Cache Cloud Container Storage Interface(CSI) Driver
+https://github.com/kubernetes-sigs/release-actions # A set of reusable GitHub actions based on the Kubernetes Release Engineering Tooling
+https://github.com/kubernetes-sigs/node-ipam-controller # Out of tree implementation of multiple cluster cidrs
+https://github.com/kubernetes-sigs/maintainers # Tools and utilities to parse OWNERS, OWNER_ALIASES in kubernetes related github orgs
+https://github.com/kubernetes-sigs/secrets-store-sync-controller # This is a Kubernetes controller that watches for changes to a custom resource and syncs the secrets from external secrets-store as Kubernetes secret.
+https://github.com/kubernetes-sigs/wg-device-management # Prototypes and experiments for WG Device Management.
+https://github.com/kubernetes-sigs/contributor-katacoda # Host repository of katacoda scenarios for upstream contributors
+https://github.com/kubernetes-sigs/testgrid-json-exporter #
+https://github.com/kubernetes-sigs/instrumentation-addons # Addons owned by sig-instrumentation
+https://github.com/kubernetes-sigs/gluster-file-external-provisioner # Gluster File Dynamic Volume Provisioner
+https://github.com/kubernetes-sigs/cve-feed-osv # OSV JSON format file generator for official Kubernetes CVE Feed
+https://github.com/kubernetes-sigs/verify-conformance # CNCF CI bot for verifying Kubernetes conformance product submissions
+https://github.com/kubernetes-sigs/etcd-manager #
+https://github.com/kubernetes-sigs/testgrid # Kubernetes-related TestGrid projects. Currently hosts the new frontend code for TestGrid.
+https://github.com/kubernetes-sigs/sig-auth-tools #
+https://github.com/kubernetes-sigs/gluster-block-external-provisioner # Gluster Block Dynamic Volume Provisioner
+https://github.com/kubernetes-sigs/obscli # Command-line interface for managing OpenBuildService (OBS) assets
+https://github.com/kubernetes-sigs/sigs-github-actions # Repository for GitHub actions and artifacts related to all sigs in Kubernetes.
+https://github.com/kubernetes-sigs/wg-serving #
+https://github.com/kubernetes-sigs/legacyflag # Provides a pflag wrapper that addresses pain-points of backwards-compatible ComponentConfig migration.
+https://github.com/kubernetes-sigs/multi-network-api #
+https://github.com/kubernetes-sigs/multi-network #
+https://github.com/kubernetes-sigs/noderesourcetopology-api # CRD based API to capture Node Resource Topology information
+https://github.com/kubernetes-sigs/cloud-pv-admission-labeler # External admission webhook to label PVs created by cloud providers
+https://github.com/kubernetes-sigs/porche # This project exists to explore the creation of a redirector for specific artifacts, similar to the redirector for registry.k8s.io.
+https://github.com/kubernetes-sigs/referencegrant-poc #

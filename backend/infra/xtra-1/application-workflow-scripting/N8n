@@ -1,0 +1,26 @@
+https://github.com/n8n-io/n8n # Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+
+https://github.com/n8n-io/self-hosted-ai-starter-kit # The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
+https://github.com/n8n-io/n8n-nodes-starter # Example starter module for custom n8n nodes.
+https://github.com/n8n-io/n8n-docs # Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
+https://github.com/n8n-io/n8n-kubernetes-hosting #
+https://github.com/n8n-io/bash-dash # (Slash)Dash-Commands for the terminal
+https://github.com/n8n-io/n8n-docker-caddy # Get up and running with n8n on DigitalOcean
+https://github.com/n8n-io/n8n-desktop-app # n8n Desktop App
+https://github.com/n8n-io/n8n-hosting # Example of self-hosting n8n in various environments like docker, kubernetes, etc.
+https://github.com/n8n-io/n8n-heroku #
+https://github.com/n8n-io/n8n-benchmarking #
+https://github.com/n8n-io/test-workflows # n8n workflows used for testing nodes
+https://github.com/n8n-io/tournament #
+https://github.com/n8n-io/n8n-eks-cluster # Multi-instance n8n setup on AWS EKS
+https://github.com/n8n-io/nodelinter # Static code analyzer for n8n node files
+https://github.com/n8n-io/discourse-n8n-wf # Discourse plugin for pretty rendering of n8n workflow code
+https://github.com/n8n-io/n8n-nodes-debughelper # A community node with useful debug functions
+https://github.com/n8n-io/subscription-app # Subscription app
+https://github.com/n8n-io/n8n-storybook #
+https://github.com/n8n-io/homebrew-n8n # Homebrew Tap for n8n
+https://github.com/n8n-io/codemirror-lang-n8n # n8n expression language support for CodeMirror
+https://github.com/n8n-io/n8n-demo-website #
+https://github.com/n8n-io/codemirror-lang-n8n-sql #
+https://github.com/n8n-io/codemirror-lang-n8n-html # HTML + n8n expression language support for CodeMirror 6
+https://github.com/n8n-io/.github # GitHub profile for n8n-io

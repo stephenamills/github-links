@@ -1,0 +1,38 @@
+https://github.com/slack-samples/deno-starter-template # A template for building Slack apps with Deno
+https://github.com/slack-samples/bolt-python-starter-template # A template for building Slack apps with Bolt for Python
+https://github.com/slack-samples/deno-message-translator # Translate message text to different languages using reactions
+https://github.com/slack-samples/deno-code-snippets # A collection of example snippets for modular Slack app features
+https://github.com/slack-samples/bolt-ts-starter-template # A template for building Slack apps with Bolt for JavaScript (TypeScript)
+https://github.com/slack-samples/deno-announcement-bot # Preview, post, and manage announcements sent to one or more channels
+https://github.com/slack-samples/deno-github-functions # A collection of functions that map to oft-used functionality on GitHub
+https://github.com/slack-samples/bolt-js-starter-template # A template for building Slack apps with Bolt for JavaScript
+https://github.com/slack-samples/deno-hello-world # Send a greeting to channel
+https://github.com/slack-samples/deno-simple-survey # Request and collect feedback on messages using reacjis
+https://github.com/slack-samples/bolt-python-ai-chatbot # Bring AI into your workspace using a chatbot powered by Anthropic and OpenAI
+https://github.com/slack-samples/bolt-java-starter-template # A template for building Slack apps with Bolt for Java
+https://github.com/slack-samples/deno-request-time-off # Send a time off request to a designated user to be approved or denied; uses interactivity handlers
+https://github.com/slack-samples/deno-timesheet-approval # Collect timesheet information from users and store it in a Google Sheet
+https://github.com/slack-samples/deno-blank-template # A blank template for building modular Slack apps with Deno
+https://github.com/slack-samples/deno-welcome-bot # Create, store, and send a welcome message when a user joins a channel
+https://github.com/slack-samples/deno-triage-rotation # Create, manage, and delete rotation or on-call assignments
+https://github.com/slack-samples/deno-reverse-string # Post a reversed version of a string in a selected channel
+https://github.com/slack-samples/bolt-python-custom-step-template # A template for building automations with Bolt for Python
+https://github.com/slack-samples/deno-give-kudos # Give kudos and share some kind words with anyone in your workspace
+https://github.com/slack-samples/deno-virtual-running-buddies # Log runs and post a team leaderboard with stats once a week
+https://github.com/slack-samples/bolt-js-slack-connect # Implement automation with Slack Connect APIs.
+https://github.com/slack-samples/deno-function-template # A template for a single function (no workflow)
+https://github.com/slack-samples/deno-issue-submission # Submit an issue to channel
+https://github.com/slack-samples/deno-daily-channel-topic # Update channel topics on a daily basis using today's date
+https://github.com/slack-samples/bolt-python-jira-functions # An application used to authenticate and interact with Jira Server
+https://github.com/slack-samples/bolt-js-custom-step-template # A template for building automations with Bolt for JavaScript
+https://github.com/slack-samples/send-to-slack #
+https://github.com/slack-samples/bolt-python-assistant-template # A template for building Agents & Assistants with Bolt for Python
+https://github.com/slack-samples/bolt-js-upgrade-app # A sample demonstrating techniques to upgrade an existing install with new features and permission scopes
+https://github.com/slack-samples/deno-triage-bot # Generate reports for support requests submitted to public channels and configure regularly scheduled reporting
+https://github.com/slack-samples/.github # Slack Samples's Github templates default configuration.
+https://github.com/slack-samples/bolt-ts-custom-function-template # A template for building automations with Bolt for JavaScript (TypeScript)
+
+https://github.com/slackhq/simple-kubernetes-webhook # This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible.
+
+https://github.com/slackhq/backend-interview-prep-questions # A few questions & data to help you prepare for the Slack HQ backend interview
+https://github.com/slackhq/backend-interview-prerequisites # A project to ensure that your backend onsite interview at Slack runs smoothly.

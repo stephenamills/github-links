@@ -1,0 +1,56 @@
+https://mad.firstmark.com # industries
+
+https://tag-runtime.cncf.io/wgs/cnaiwg/whitepapers # stack
+https://landscape.lfai.foundation # stack
+https://landscape.cncf.io/?group=cnai # stack
+
+https://hadoopecosystemtable.github.io # Hadoop ecosystem
+
+https://github.com/jhuangtw/xg2xg # By ex-googlers, for ex-googlers - a lookup table of similar tech & services
+https://github.com/greko6/xfb2xfb # By ex-Facebookers, for ex-Facebookers - a lookup table of similar tech & services
+
+https://dbdb.io # database pokedex
+
+--
+Data Contract
+https://github.com/datacontract/datacontract-cli # CLI to manage your datacontract.yaml files
+https://github.com/datacontract/datacontract-specification # The Data Contract Specification Repository
+https://github.com/datacontract/datacontract-gpt # Chat with your data contracts with Data Contract GPT
+https://github.com/datacontract/datacontract-editor # Edit your data contract in the Data Contract Editor
+
+Hasura
+
+Hadoop
+https://github.com/learn-co-curriculum/dsc-enterprise-hsbc-mapreduce
+https://github.com/learn-co-curriculum/dsc-hadoop-mapreduce-recap
+https://github.com/learn-co-curriculum/dc-ds-071519
+
+Flink
+
+Pipedream
+https://github.com/pipedreamhq/pipedream # Connect APIs, remarkably fast. Free for developers.
+https://github.com/pipedreamhq/sdk #
+https://github.com/pipedreamhq/pipedream-go # Go support for Pipedream
+https://github.com/pipedreamhq/node-sse-example # Process events from Pipedream SSE streams in Node.js
+https://github.com/pipedreamhq/nextjs-examples # NextJS examples using Pipedream
+https://github.com/pipedreamhq/pipedream-py # Python support
+https://github.com/pipedreamhq/cdk-constructs # AWS CDK Constructs
+https://github.com/pipedreamhq/homebrew-pd-cli # Homebrew formula for the Pipedream CLI
+https://github.com/pipedreamhq/pipedream-connect-examples # Example apps showcasing the pipedream SDK
+https://github.com/pipedreamhq/workflow-sharing-examples #
+https://github.com/pipedreamhq/component-dev-env # A Gitpod environment for building Pipedream components - right from your browser
+https://github.com/pipedreamhq/file-stores-email-templates # An example of leveraging HTML email templates with Pipedream workflows
+
+--
+Kubernetes
+https://github.com/cncf/llm-starter-pack # Run a language model in Kubernetes (in Docker)
+https://github.com/cncf/llm-in-action # Run a language model in Kubernetes (Ollama service)
+https://github.com/rhecosystemappeng/llm-on-openshift # Hugging Face, Redis vector, etc.
+https://github.com/redhat-scholars/rhods-od-workshop # Jupyter, TensorFlow, Kafka
+https://github.com/redhat-scholars/rhods-lp-workshop # Jupyter, Flask
+https://github.com/ibm-ecosystem-engineering/superknowa # Retrieval demo on all IBM docs
+https://www.wwt.com/topic/genai/overview # retrieval demo by WWT
+https://github.com/rh-aiservices-bu/multi-gpu-llms # GPU cluster
+https://github.com/rh-aiservices-bu/jumpstart-library
+https://github.com/rh-aiservices-bu/openshift-ai-resources
+https://github.com/vmware-private-ai/vmware-generative-ai-reference-architecture # GPU cluster

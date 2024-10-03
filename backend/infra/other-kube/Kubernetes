@@ -1,0 +1,165 @@
+https://github.com/kubernetes/kubernetes # Container scheduling and management
+
+https://maturitymodel.cncf.io # Business outcomes
+https://contribute.cncf.io/maintainers # Community building & relationship management
+
+https://github.com/helm/helm
+https://github.com/artifacthub/hub
+https://github.com/bitnami/charts
+
+https://github.com/kubernetes/examples # Guestbook-PHP, Guestbook-Go, Wordpress, Cassandra
+https://github.com/dockersamples/example-voting-app Voting App Postgres Redis
+https://github.com/googlecloudplatform/microservices-demo # Online Boutique
+
+https://github.com/redhat-scholars/kubernetes-tutorial
+https://github.com/redhat-scholars/helm-tutorial
+https://github.com/redhat-scholars/openshift-starter-guides-javascript # web hook (JavaScript)
+https://github.com/redhat-scholars/openshift-starter-guides-python # web hook (Python)
+https://github.com/redhat-scholars/openshift-starter-guides-dotnet # web hook (Dotnet)
+https://github.com/redhat-scholars/openshift-starter-guides # web hook (Java)
+https://github.com/redhat-scholars/spring-boot-k8s-tutorial
+https://github.com/redhat-scholars/getting-started-fullstack-js
+https://github.com/redhat-scholars/serverless-workflow # saga pattern
+https://github.com/redhat-scholars/rhoda-pacman-workshop # Pacman game and hosted MongoDB
+https://github.com/redhat-scholars/rhoda-guide # Java & MySQL
+https://github.com/redhat-scholars/cloud-native-apps
+https://github.com/redhat-scholars/devnation-labs-dashboard
+https://github.com/redhat-scholars/tekton-tutorial
+https://github.com/redhat-scholars/argocd-tutorial
+https://github.com/redhat-scholars/inner-outer-guides # Tekton & ArgoCD
+https://github.com/redhat-scholars/outer-loop-guide
+https://github.com/redhat-scholars/inner-loop-guide
+https://github.com/redhat-scholars/debug-microservices # debugging
+https://github.com/redhat-scholars/debugging-guide # debugging - Istio and the circuit breaker pattern, Jaeger, Kibana
+https://github.com/redhat-scholars/istio-tutorial # Istio
+https://github.com/redhat-scholars/chaos-engineering-guide # chaos engineering - ArgoCD, service mesh, Grafana, Kiali
+https://github.com/redhat-scholars/kube-native-java-apps # buildpack
+https://github.com/redhat-scholars/ansible-tutorial # Ansible
+https://github.com/redhat-scholars/operator-javasdk-workshop # basic Java Operator
+https://github.com/redhat-scholars/operators-sdk-tutorial # Go and Java Operators
+https://github.com/redhat-scholars/backstage-workshop # Backstage
+https://github.com/redhat-scholars/kubernetes-apps-resource-management
+https://github.com/redhat-scholars/rhoam-sandbox-getting-started
+https://github.com/vmware-tanzu-labs/tanzu-validated-solutions
+https://github.com/cncf/telecom-user-group # 5G Kubernetes examples (follow links)
+https://github.com/cncf/devstats-helm # bare metal (mess)
+
+https://killercoda.com # labs (mentioned by CNCF)
+https://labs.play-with-k8s.com # labs (by Docker)
+
+https://github.com/kubernetes-sigs/ingress2gateway # Convert Ingress resources to Gateway API resources
+https://github.com/kubernetes-sigs/external-dns # Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+https://github.com/kubernetes-sigs/gateway-api # Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+https://github.com/kubernetes-sigs/ingress-controller-conformance # Repository for a compliance specification of ingress-controllers.
+
+https://github.com/kubernetes-sigs/aws-load-balancer-controller # A Kubernetes controller for Elastic Load Balancers
+https://github.com/zalando-incubator/kube-ingress-aws-controller # Configures AWS Load Balancers according to Kubernetes Ingress resources
+https://github.com/digitalocean/kubernetes-sample-apps # Example DigitalOcean Kubernetes workload with service exposed through a DO load-balancer.
+https://github.com/metallb/metallb # A network load-balancer implementation for Kubernetes using standard routing protocols
+https://github.com/kube-vip/kube-vip # Kubernetes Control Plane Virtual IP and Load-Balancer
+https://github.com/openelb/openelb # Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
+https://github.com/loxilb-io/loxilb # eBPF based cloud-native load-balancer. Powering Kubernetes|Edge|5G|IoT|XaaS Apps.
+https://github.com/kubermatic/kubelb # Kubernetes based load balancing
+
+https://tag-app-delivery.cncf.io
+https://github.com/cncf/tag-storage # storage
+https://tag-runtime.cncf.io # AI
+https://tag-security.cncf.io # security
+https://github.com/cncf/tag-observability # observability
+https://github.com/kubernetes/community # networking, AI, bare metal, and much more
+
+https://radar.cncf.io/overview # industry tech stack surveys
+https://github.com/cncf/students#10-finding-a-job # job board
+https://github.com/cncf/trailmap # project trailmap
+https://github.com/cncf/velocity # project activity
+https://github.com/cncf/clowarden
+https://github.com/cncf/cncf-fuzzing
+https://github.com/cncf/chaosengineering-wg
+https://github.com/cncf/wg-serverless # good distinction between serverless and functions-as-a-service
+https://github.com/cncf/presentations
+https://github.com/cncf/techdocs
+https://github.com/cncf/curriculum
+https://github.com/cncf/awards
+https://github.com/kubernetes-sigs/contributor-playground
+https://github.com/cncf/clotributor
+https://github.com/cncf/communitygroups
+https://github.com/cncf/landscape
+https://github.com/cncf/tag-network
+https://glossary.cncf.io # glossary
+https://maturitymodel.cncf.io # maturity model - build, operate, scale, adapt
+https://tag-env-sustainability.cncf.io/landscape
+https://github.com/cncf/cluster
+https://github.com/hjacobs/kubernetes-failure-stories
+
+https://github.com/containersolutions/k8s-deployment-strategies # six deployment strategies (recreate, rampled, blue/green, canary, a/b testing, shadow)
+https://github.com/stacksimplify/kubernetes-fundamentals # good course writeups
+https://github.com/justmeandopensource/kubernetes/ # recent demos - Rancher, Keepalived, HAProxy
+https://www.cncf.io/training/courses/ # CNCF courses
+https://github.com/mialeevs/kubernetes_installation_docker # Ubuntu 22.04 install guide
+
+https://github.com/kubernetes/minikube # Run Kubernetes locally
+https://github.com/kubernetes/ingress-nginx # Ingress-NGINX Controller for Kubernetes
+https://github.com/kubernetes/kops # Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+https://github.com/kubernetes/dashboard # General-purpose web UI for Kubernetes clusters
+https://github.com/kubernetes/kompose # Convert Compose to Kubernetes
+https://github.com/kubernetes/client-go # Go client for Kubernetes.
+https://github.com/kubernetes/autoscaler # Autoscaling components for Kubernetes
+https://github.com/kubernetes/kube-state-metrics # Add-on agent to generate and expose cluster-level metrics.
+https://github.com/kubernetes/test-infra # Test infrastructure for the Kubernetes project.
+https://github.com/kubernetes/kubeadm # Aggregator for issues filed against kubeadm
+https://github.com/kubernetes/enhancements # Enhancements tracking repo for Kubernetes
+https://github.com/kubernetes/sample-controller # Repository for sample controller. Complements sample-apiserver
+https://github.com/kubernetes/node-problem-detector # This is a place for various problem detectors running on the Kubernetes nodes.
+https://github.com/kubernetes/kubectl # kubectl code
+https://github.com/kubernetes/git-sync # A sidecar app which clones a git repo and keeps it in sync with the upstream.
+https://github.com/kubernetes/code-generator # Generators for kube-like API types
+https://github.com/kubernetes/ingress-gce # Ingress controller for Google Cloud
+https://github.com/kubernetes/dns # Kubernetes DNS service
+https://github.com/kubernetes/perf-tests # Performance tests and benchmarks
+https://github.com/kubernetes/apimachinery
+https://github.com/kubernetes/k8s.io # Code and configuration to manage Kubernetes project infrastructure, including various \*.k8s.io sites
+https://github.com/kubernetes/api # The canonical location of the Kubernetes API definition.
+https://github.com/kubernetes/apiserver # Library for writing a Kubernetes-style API server.
+https://github.com/kubernetes/gengo # gengo library for code generation.
+https://github.com/kubernetes/sig-release # Repo for SIG release
+https://github.com/kubernetes/sample-apiserver # Reference implementation of an apiserver for a custom Kubernetes API.
+https://github.com/kubernetes/metrics # Kubernetes metrics-related API types and clients
+https://github.com/kubernetes/release # Release infrastructure for Kubernetes and related components
+https://github.com/kubernetes/design-proposals-archive # Archive of Kubernetes Design Proposals
+https://github.com/kubernetes/registry.k8s.io # Repo for registry.k8s.io, the production OCI registry service for Kubernetes' container image artifacts
+https://github.com/kubernetes/utils # Non-Kubernetes-specific utility libraries which are consumed by multiple projects.
+https://github.com/kubernetes/kube-openapi # Kubernetes OpenAPI spec generation & serving
+https://github.com/kubernetes/kubelet # kubelet component configs
+https://github.com/kubernetes/sample-cli-plugin # Sample kubectl plugin
+https://github.com/kubernetes/cli-runtime # Set of helpers for creating kubectl commands and plugins.
+https://github.com/kubernetes/kube-aggregator # Aggregator for Kubernetes-style API servers: dynamic registration, discovery summarization, secure proxy
+https://github.com/kubernetes/org # Meta configuration for Kubernetes Github Org
+https://github.com/kubernetes/apiextensions-apiserver # API server for API extensions like CustomResourceDefinitions
+https://github.com/kubernetes/kubernetes-template-project # A template for starting new projects on the github.com/kubernetes organization
+https://github.com/kubernetes/kube-proxy # kube-proxy component configs
+https://github.com/kubernetes/sig-security # Process documentation, non-code deliverables, and miscellaneous artifacts of Kubernetes SIG Security
+https://github.com/kubernetes/committee-security-response # Kubernetes Security Process and Security Committee docs
+https://github.com/kubernetes/kube-scheduler # kube-scheduler component configs
+https://github.com/kubernetes/component-base # Shared code for kubernetes core components
+https://github.com/kubernetes/pod-security-admission # Kubernetes Pod Security Standards implementation -
+https://github.com/kubernetes/enhancements/blob/master/keps/sig-auth/2579-psp-replacement/README.md
+https://github.com/kubernetes/repo-infra # Kubernetes repository infrastucture tools
+https://github.com/kubernetes/kube-controller-manager # kube-controller-manager component configs
+https://github.com/kubernetes/steering # The Kubernetes Steering Committee
+https://github.com/kubernetes/publishing-bot # Code behind the robot to publish from staging to real repositories.
+https://github.com/kubernetes/controller-manager # Common public library code for kube-controller-manager, cloud-controller-manager and any other controller managers
+https://github.com/kubernetes/contributor-site # Code for kubernetes.dev
+https://github.com/kubernetes/mount-utils # Package mount defines an interface to mounting filesystems.
+https://github.com/kubernetes/system-validators # A set of system-oriented validators for kubeadm preflight checks.
+https://github.com/kubernetes/cluster-bootstrap #
+https://github.com/kubernetes/dynamic-resource-allocation #
+https://github.com/kubernetes/kms # Kubernetes KMS implementation
+https://github.com/kubernetes/node-api #
+https://github.com/kubernetes/component-helpers # High-level helpers for Kubernetes components
+https://github.com/kubernetes/csi-translation-lib # Staging repo for CSI Migration/Translation libraries
+https://github.com/kubernetes/cel-admission-webhook #
+https://github.com/kubernetes/sig-testing # Home for SIG Testing discussion and documents.
+https://github.com/kubernetes/endpointslice #
+https://github.com/coreos/coreos-kubernetes
+
+https://github.com/paloaltonetworks/rbac-police # evaluate the RBAC permissions of Kubernetes identities through policies written in Rego

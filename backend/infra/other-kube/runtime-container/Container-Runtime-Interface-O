@@ -1,0 +1,6 @@
+https://github.com/kubernetes-sigs/cri-tools # CLI and validation tools for Kubelet Container Runtime Interface (CRI).
+
+https://github.com/cri-o/cri-o # Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+
+https://github.com/kubernetes/cri-api # Container Runtime Interface (CRI) – a plugin interface that enables kubelet to use a wide variety of container runtimes
+https://github.com/kubernetes/cri-client # Container Runtime Interface client implementation

@@ -1,0 +1,19 @@
+https://github.com/kubernetes/cloud-provider-sample # Cloud provider repo sample. Uses CSI Daemon Set.
+
+https://github.com/container-storage-interface/spec # Container Storage Interface (CSI) - a plugin interface that enables storage for Linux containers
+https://github.com/kubernetes-sigs/secrets-store-csi-driver # Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
+https://github.com/kubernetes-sigs/aws-ebs-csi-driver # Amazon EBS
+https://github.com/kubernetes-sigs/azuredisk-csi-driver # Azure Disk
+https://github.com/kubernetes-sigs/aws-efs-csi-driver # Amazon EFS
+https://github.com/kubernetes-sigs/azurefile-csi-driver # Azure File
+https://github.com/kubernetes-sigs/vsphere-csi-driver # vSphere storage
+https://github.com/kubernetes-sigs/blob-csi-driver # Azure Blob Storage
+https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver # Google Compute Engine Persistent Disk (GCE PD)
+https://github.com/kubernetes-sigs/aws-fsx-csi-driver # Amazon FSx for Lustre
+https://github.com/kubernetes-sigs/aws-fsx-openzfs-csi-driver # Amazon FSx for OpenZFS
+https://github.com/kubernetes-sigs/gcp-filestore-csi-driver # Google Cloud Filestore
+https://github.com/kubernetes-sigs/azurelustre-csi-driver # Azure Lustre
+https://github.com/kubernetes-sigs/aws-file-cache-csi-driver # Amazon File Cache
+https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner # Static provisioner of local volumes
+https://github.com/kubernetes-sigs/sig-storage-lib-external-provisioner #
+https://github.com/kubernetes-sigs/kube-storage-version-migrator #

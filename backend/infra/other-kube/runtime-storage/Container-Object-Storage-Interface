@@ -1,0 +1,6 @@
+https://github.com/kubernetes-sigs/cosi-driver-sample # Sample Driver that provides reference implementation for Container Object Storage Interface (COSI) API
+
+https://github.com/kubernetes-sigs/container-object-storage-interface-spec # Container Object Storage Interface (COSI) specification
+https://github.com/kubernetes-sigs/container-object-storage-interface-controller # COSI controller responsible for managing the lifecycle of COSI objects.
+https://github.com/kubernetes-sigs/container-object-storage-interface-api # COSI API responsible for defining the API for COSI objects.
+https://github.com/kubernetes-sigs/container-object-storage-interface-provisioner-sidecar # COSI provisioner responsible for interfacing with COSI drivers.

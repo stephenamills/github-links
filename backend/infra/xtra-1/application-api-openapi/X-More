@@ -1,0 +1,122 @@
+https://github.com/redocly/redoc # 📘 OpenAPI/Swagger-generated API Reference Documentation
+https://github.com/redocly/redocly-cli # ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
+https://github.com/redocly/create-openapi-repo # 🤖 Generator for GH repo to help you manage the OpenAPI definition lifecycle
+https://github.com/redocly/openapi-sampler # :capital_abcd: Tool for generation samples based on OpenAPI(fka Swagger) payload/response schema
+https://github.com/redocly/openapi-starter # OpenAPI starter repository
+https://github.com/redocly/redocly-vs-code # Redocly VS Code extension
+https://github.com/redocly/museum-openapi-example # An example OpenAPI description for an imaginary Museum API.
+https://github.com/redocly/repo-file-sync-action # GitHub Action that sync's two (or more) repos.
+https://github.com/redocly/json-to-json-schema # Convert JSON examples into JSON schema (supports Swagger 2, OpenAPI 3 and 3.1)
+https://github.com/redocly/openapi-template # OpenAPI/Swagger 2.0 template, intended to be good starting point for describing your API
+https://github.com/redocly/redocly-cli-cookbook # A community-created collection of configuration, plugins and techniques for getting the best from Redocly CLI in every situation.
+https://github.com/redocly/warp-single-sidebar # Template with API and single sidebar
+https://github.com/redocly/apidocs-starter # Starter template for Redoc API reference docs projects
+https://github.com/redocly/reunite-push-action # GitHub Action for pushing files to Redocly Reunite app
+https://github.com/redocly/warp-multi-sidebars # Template with API and multiple sidebars
+
+https://github.com/ogen-go/ogen # OpenAPI v3 code generator for go
+https://github.com/ogen-go/example # Sample project with client, server and OpenTelemetry integration
+https://github.com/ogen-go/protoc-gen-oas # Generate OpenAPI v3 from protobuf
+https://github.com/ogen-go/ent2ogen #
+https://github.com/ogen-go/web # https://ogen.dev
+https://github.com/ogen-go/corpus # OpenAPI schema corpus
+
+https://github.com/swagger-api/swagger-ui # Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+https://github.com/swagger-api/swagger-codegen # swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+https://github.com/swagger-api/swagger-editor # Swagger Editor
+https://github.com/swagger-api/swagger-core # Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+https://github.com/swagger-api/swagger-js # Javascript library to connect to swagger-enabled APIs via browser or nodejs
+https://github.com/swagger-api/swagger.io-docs # The content of swagger.io
+https://github.com/swagger-api/swagger-parser # Swagger Spec to Java POJOs
+https://github.com/swagger-api/swagger-codegen-generators #
+https://github.com/swagger-api/swagger-petstore #
+https://github.com/swagger-api/validator-badge # Validate your Swagger JSON/YAML today!
+https://github.com/swagger-api/swagger-inflector #
+https://github.com/swagger-api/swagger-converter # OpenAPI/Swagger 2.0 to OpenAPI 3.0 Converter WebService
+https://github.com/swagger-api/apidom # Semantic parser for API specifications
+https://github.com/swagger-api/swaggerhub-maven-plugin # A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger from a maven build process.
+https://github.com/swagger-api/swaggerhub-gradle-plugin # Gradle plugin for SwaggerHub
+https://github.com/swagger-api/petstore-kafka # A demo site built on top of Kafka topics
+https://github.com/swagger-api/swagger-editor-cra # This is forked Create React App that builds SwaggerEditor@5
+https://github.com/swagger-api/apidom-lsp-vscode # ApiDOM VS Code Extension
+https://github.com/swagger-api/.github # Common Github files for the Swagger projects
+https://github.com/swagger-api/swagger-codegen-test #
+
+https://github.com/openapitools/openapi-generator # OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+https://github.com/openapitools/openapi-generator-cli # A node package wrapper for https://github.com/OpenAPITools/openapi-generator
+https://github.com/openapitools/openapi-diff # Utility for comparing two OpenAPI specifications.
+https://github.com/openapitools/openapi-style-validator # A customizable style validator to make sure your OpenAPI spec follows your organization's standards.
+https://github.com/openapitools/jackson-databind-nullable # JsonNullable wrapper class and Jackson module to support meaningful null values
+https://github.com/openapitools/openapi-generator-bazel # Bazel plugin for OpenAPI Generator
+https://github.com/openapitools/openapi-petstore # The pet store sample
+https://github.com/openapitools/sbt-openapi-generator #
+https://github.com/openapitools/openapi-generator-pip # pip installer for OpenAPI Generator
+https://github.com/openapitools/empoa # Code (implementation, experiments, tools...) for the Eclipse MicroProfile OpenAPI project
+https://github.com/openapitools/openapitools.github.io # OpenAPI Generator
+https://github.com/openapitools/openapi-json-schema-generator # An unmaintained out of date version of this project
+https://github.com/openapitools/art # Art and related files
+
+https://github.com/oai/openapi-specification # The OpenAPI Specification Repository
+https://github.com/oai/sig-moonwalk # Version 4.x of the OpenAPI Specification is known as "Moonwalk," and has a goal to ship in 2024.
+https://github.com/oai/openapi-style-guide # How to (and how not to) refer to the OAI in meetups, interviews, casual conversations, the settling of bar bets, and for conference presentations.
+https://github.com/oai/arazzo-specification # The Arazzo Specification - A Tapestry for Deterministic API Workflows
+https://github.com/oai/learn.openapis.org # OpenAPI - Getting started, and the specification explained
+https://github.com/oai/tools.openapis.org # A collection of open-source and commercial tools for creating your APIs with OpenAPI - Sourced from and published for the community
+https://github.com/oai/overlay-specification # The OAI Overlay Specification
+https://github.com/oai/talks-and-workshops # A collection of talks and workshops provided by OAI members
+https://github.com/oai/oai-courses # OpenAPI Initiative training courses
+https://github.com/oai/oascomply #
+https://github.com/oai/projects # All of the open projects occurring within the Open API Initiative (OAI) community.
+https://github.com/oai/community #
+https://github.com/oai/sig-finance # A repo for managing the sig-finance working group within the OpenAPI Initiative (OAI)
+https://github.com/oai/sig-security #
+https://github.com/oai/sig-travel # A repo for managing the travel working group within the OpenAPI Initiative (OAI)
+https://github.com/oai/outreach #
+https://github.com/oai/sig-lifecycle #
+https://github.com/oai/stories # Submit ideas, writing, and publishing stories about the OpenAPI specification.
+https://github.com/oai/sig-formats # Focusing on the Formats Registry efforts
+https://github.com/oai/.github #
+https://github.com/oai/sig-industry-standards # Used to collect information related to the use of OpenAPI descriptions for defining API standards in industry verticals
+
+https://github.com/stoplightio/prism # Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+https://github.com/stoplightio/spectral # A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
+https://github.com/stoplightio/elements # Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
+https://github.com/stoplightio/studio # The modern editor for API Design and Technical Writing.
+https://github.com/stoplightio/json-schema-viewer # A JSON Schema viewer React component
+https://github.com/stoplightio/spectral-action # GitHub Action wrapper for Spectral - a JSON/YAML/OpenAPI/AsyncAPI/etc linter with custom rule support.
+https://github.com/stoplightio/vscode-spectral # VS Code extension bringing the awesome Spectral JSON/YAML linter with OpenAPI/AsyncAPI support
+https://github.com/stoplightio/spectral-owasp-ruleset # Improve the security of your API by detecting common vulnerabilities as defined by OWASP and enforced with Spectral.
+https://github.com/stoplightio/spectral-rulesets # Keeping track of Spectral Rulesets in the wild, helping you build better, more consistent APIs, via OpenAPI, AsyncAPI, JSON Schema, etc.
+https://github.com/stoplightio/json # Useful functions when working with JSON.
+https://github.com/stoplightio/http-spec # Utilities to normalize OpenAPI v2 and v3 objects for the Stoplight ecosystem.
+https://github.com/stoplightio/ui-kit # Foundational React components for the Stoplight ecosystem.
+https://github.com/stoplightio/yaml # Useful functions when working with YAML.
+https://github.com/stoplightio/json-schema-tree #
+https://github.com/stoplightio/scripts # Scripts to aid in testing, releasing, and linting.
+https://github.com/stoplightio/json-schema-sampler #
+https://github.com/stoplightio/studio-nightly # Nightly pre-releases of Studio Desktop https://github.com/stoplightio/studio
+https://github.com/stoplightio/spectral-documentation # Teach Spectral how to help improve the quality of your OpenAPI-based documentation.
+https://github.com/stoplightio/spectral-url-versioning #
+https://github.com/stoplightio/dev-portal #
+https://github.com/stoplightio/types # Common typings for the Stoplight ecosystem.
+https://github.com/stoplightio/markdown # Useful functions when working with Markdown.
+https://github.com/stoplightio/examplechooserprismproxy # proxy server that adds example-selection logic to an upstream Stoplight Prism mock server
+https://github.com/stoplightio/storybook-config # Shared storybook config for UI-Kit based project.
+https://github.com/stoplightio/style-guides-rulebook-series #
+https://github.com/stoplightio/stoplight-cli-workflow # Stoplight CLI action
+https://github.com/stoplightio/json-ref-readers # Paired with a resolver package, readers handle the loading of $ref content. This repo contains some common readers for files, URLs, etc.
+https://github.com/stoplightio/path #
+https://github.com/stoplightio/react-error-boundary #
+https://github.com/stoplightio/eslint-config # Shared Stoplight linting rules.
+https://github.com/stoplightio/deference-openapi #
+https://github.com/stoplightio/webpack # Webpack helpers, built on top of webpack-chain.
+https://github.com/stoplightio/spectral-bundled-ruleset #
+https://github.com/stoplightio/studiolab # Resources for hands-on labs with Stoplight Studio
+https://github.com/stoplightio/governance-template-repo #
+https://github.com/stoplightio/ordered-object-literal #
+
+https://github.com/openapi-ts/openapi-typescript # Generate TypeScript types from OpenAPI 3 specs
+
+https://github.com/openapi/openapi # Generate JavaScript or TypeScript code from Swagger/OpenAPI specifications
+https://github.com/openapi/preset-effector #
+https://github.com/openapi/preset-actix # Generate server-side for Rust Actix

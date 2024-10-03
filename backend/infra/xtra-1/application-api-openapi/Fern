@@ -1,0 +1,16 @@
+https://github.com/fern-api/fern # Input OpenAPI. Output SDKs and Docs.
+https://github.com/fern-api/express-starter # A starter repo for Express, using Fern
+https://github.com/fern-api/fastapi-starter # A starter repo for FastAPI + React, using Fern
+https://github.com/fern-api/docs-starter # Publish beautiful documentation from OpenAPI and markdown (MDX)
+https://github.com/fern-api/spring-starter # A starter repo for Java Spring, using Fern
+https://github.com/fern-api/python-sdk # Official Python SDK for Fern's Public API
+https://github.com/fern-api/typescript-sdk # Official TypeScript SDK for Fern's Public API
+https://github.com/fern-api/docs-starter-fern-definition # Publish beautiful documentation in under 5 minutes using a Fern Definition.
+https://github.com/fern-api/fern-platform # Fern's docs platform
+https://github.com/fern-api/docs-custom-js-example # Fern Docs example with custom headers and footers
+https://github.com/fern-api/generator-exec-go # A Go library for progress updates between the Go generator and Fern's remote generation server.
+https://github.com/fern-api/subpath-example-docs #
+https://github.com/fern-api/frontend-debugging-interview #
+https://github.com/fern-api/ir-go #
+https://github.com/fern-api/generator-cli-go # The Go library used to call Fern's generator-cli
+https://github.com/fern-api/action-postman-sync # A GitHub Action for updating a Postman Collection within a Workspace

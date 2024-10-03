@@ -1,0 +1,16 @@
+https://github.com/kubernetes-sigs/cluster-api # Cluster API, a subproject of sig-cluster-lifecycle
+https://github.com/kubernetes-sigs/cluster-api-provider-gcp # The GCP provider implementation for Cluster API
+https://github.com/kubernetes-sigs/cluster-api-provider-azure # Cluster API implementation for Microsoft Azure
+https://github.com/kubernetes-sigs/cluster-api-provider-aws # Cluster API implementation for AWS
+https://github.com/kubernetes-sigs/cluster-api-provider-vsphere #
+https://github.com/kubernetes-sigs/cluster-api-provider-openstack # Cluster API implementation for OpenStack
+https://github.com/kubernetes-sigs/cluster-api-provider-nested # Cluster API Provider for Nested Clusters
+https://github.com/kubernetes-sigs/cluster-api-operator # Cluster API Operator, a subproject of sig-cluster-lifecycle
+https://github.com/kubernetes-sigs/cluster-api-provider-kubevirt # Cluster API Provider for KubeVirt
+https://github.com/kubernetes-sigs/cluster-api-provider-digitalocean # The DigitalOcean provider implementation of the Cluster Management API
+https://github.com/kubernetes-sigs/cluster-api-provider-packet # Cluster API Provider Packet (now Equinix Metal)
+https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster # An IPAM provider for Cluster API that manages pools of IP addresses using Kubernetes resources.
+https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm # CAAPH uses Helm charts to manage the installation and lifecycle of Cluster API add-ons.
+https://github.com/kubernetes-sigs/cluster-api-provider-cloudstack # A Kubernetes Cluster API Provider implementation for Apache CloudStack.
+https://github.com/kubernetes-sigs/cluster-api-provider-kubemark # Cluster API (CAPI) that allows users to deploy fake, Kubemark-backed machines to their clusters.
+https://github.com/kubernetes-sigs/logical-cluster # utilities to interact with fleet of clusters which can be managed by Cluster API
