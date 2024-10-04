@@ -1,0 +1,120 @@
+https://github.com/osodevops/aws-enterprise-naming-tagging-standard # AWS Tagging policy and naming convention for all resources created within any AWS accounts under the AWS Master Account.
+https://github.com/osodevops/aws-terraform-module-cardano-stake-pool # A Terraform module to deploy a HA Cardano Stake Pool on AWS
+https://github.com/osodevops/ansible-role-cardano-node # Ansible role for the provisioning of Shelly Cardano binaries from source.
+https://github.com/osodevops/confluent-kubernetes-playground # Playground for Kafka / Confluent Kubernetes experimentations
+https://github.com/osodevops/terraform-azure-confluent-platform # Terraform Module for deploying best practice HA Confluent Platform on Azure
+https://github.com/osodevops/kubernetes-volume-snapshots # Navigate through the Kubernetes api, and locate any underlying Persistent Volumes and create a snapshot of each of these volumes.
+https://github.com/osodevops/kafka-gitops-examples # A Kafka / Confluent GitOps workflow example for multi-env deployments with Flux, Kustomize, Helm and Confluent For Kubernetes (CFK) Operator
+https://github.com/osodevops/devops-onboarding-checklist # This onboarding checklist contains sample activities that are good practices for onboarding application teams to use DevOps capabilities
+https://github.com/osodevops/aws-terraform-module-ssm-automated-patching # Terraform module to automate patching of AMI templated EC2 Linux instances in a specify schedule
+https://github.com/osodevops/aws-terraform-module-tableau-public # Tableau on demand is now enterprise ready, fully automated Tableau Server solution
+https://github.com/osodevops/kafka-arm-images # CFK deployment of ARM based images on Raspberry Pi
+https://github.com/osodevops/pedigree # Perform analytical tasks on GitHub repositories.
+https://github.com/osodevops/aws-openvpn-solution # A guide on how to secure your AWS infrastructure with a simple OpenVPN deployment
+https://github.com/osodevops/aws-terraform-module-openvpn-byol # A terraform module for deploying OpenVPN Access Server on AWS
+https://github.com/osodevops/ansible-role-cardano-stake-pool # Ansible Role for setting up a Cardano stake pool.
+https://github.com/osodevops/kafka-audit-security-acls # Testing the audit logging of Confluent Kafka security ACLs
+https://github.com/osodevops/aws-terraform-module-codebuild-packer # AMI builder using native AWS CodeBuild running Packer and CodePipeline to orchestrate the entire process.
+https://github.com/osodevops/confluent-gitops-demo # A fully automated Confluent Platform deployment using GitOps. Showcases multi namespaced environments and the Terraform Confluent Provider.
+https://github.com/osodevops/aws-efs-snapshot # Utility container which takes all EFS drives, mounts them on EC2 backed with sufficient EBS space, copies files and permissions and terminates EC2 instance.
+https://github.com/osodevops/aws-terraform-module-ssm-session-manager # A terraform module for quickly configuring AWS SSM Session Manager.
+https://github.com/osodevops/vagrant-confluent-platform # Vagrantfile to start a virtual machine running the confluent platform: Zookeeper, Kafka, Schema registry and Confluent control centre using cp-ansible
+https://github.com/osodevops/chaos-kafka # Chaos scenarios for Kafka 💥
+https://github.com/osodevops/aws_zookeeper_cluster # Deploy an external Zookeeper cluster in AWS using Ansible
+https://github.com/osodevops/aws_solr_cloud_cluster # Deploy Solr Cloud in clustered mode on AWS with Ansible
+https://github.com/osodevops/aws-cli-cookbook # A series of useful aws cli commands to help identify usage and cost saving opportunities
+https://github.com/osodevops/aws-terraform-module-waf #
+https://github.com/osodevops/kr # kubernetes log collection tool for developers
+https://github.com/osodevops/docker-devsecops-nikto # Container for Nikto Web Vulnerability Scanner
+https://github.com/osodevops/aws-terraform-module-elasticcache-redis #
+https://github.com/osodevops/docker-pg-dumper # Postgres utility container to dump a database and push to S3 :) Lovely
+https://github.com/osodevops/aws-terraform-module-iam # Terraform module which contains packages for creating IAM policies, roles, users and groups
+https://github.com/osodevops/byod-enterprise-security-standard # This standard outlines the security requirements required to protect your organisational data and financial assets
+https://github.com/osodevops/docker-cp-ansible #
+https://github.com/osodevops/cloudformation-exercise # 1 hour practical exercise to test AWS cloudformation knowledge.
+https://github.com/osodevops/aws-terraform-module-vpc # Terraform module which contains packages for creating a best-practices Virtual Private Cloud (VPC) setup in AWS
+https://github.com/osodevops/aws-enterprise-ami-hardening-standard # Guidelines for which the hardened golden AMI’s are created and shared across the AWS multiple accounts.
+https://github.com/osodevops/aws-lambda-log-collector # Lambda function triggered by Cloudwatch cron event.
+https://github.com/osodevops/terraform-aws-cloudtrail #
+https://github.com/osodevops/aws-terraform-module-guardduty # A terraform module for configuring AWS GuardDuty with SNS notification and S3 or Kinesis backend
+https://github.com/osodevops/event-driven-architecture-workshop # Helping you understand and harness the power of event driven architectures
+https://github.com/osodevops/docker-packer # Containerised Packer to avoid having to install CLI on Dev or CI/CD machines.
+https://github.com/osodevops/kafka-connect-smt-demo #
+https://github.com/osodevops/aws-terraform-module-nlb #
+https://github.com/osodevops/docker-zookeeper # Docker images for Apache Zookeeper based on Confluent.
+https://github.com/osodevops/aws-terraform-module-s3 # Terraform S3 module for AWS
+https://github.com/osodevops/bizdev-aws-domain-checker # Python util script to parse a list of URLs and checkers each against public IP ranges of all AWS services.
+https://github.com/osodevops/aws-terraform-module-acm-certificate # About A Terraform module to create an Amazon Certificate Manager (ACM) certificate with Route 53 DNS validation.
+https://github.com/osodevops/osodevops.github.io # Live new updates from the OSO team
+https://github.com/osodevops/aws-terraform-module-security-buckets #
+https://github.com/osodevops/aws-terraform-module-ssm-parameter-store # This module defines read and write actions from parameter store.
+https://github.com/osodevops/aws-terraform-module-sns-to-slack # Terraform module to push notifications to slack from AWS SNS
+https://github.com/osodevops/bizdev-waf-checker # Utility to check a bunch of domains against active WAF protection
+https://github.com/osodevops/news # A curated feed from the engineering team
+https://github.com/osodevops/kafka-topology-playground # A playground for exploring solutions for automating the management of a Kafka cluster.
+https://github.com/osodevops/pedigree-publisher #
+https://github.com/osodevops/terraform-admin-administrative-console-dashboard #
+https://github.com/osodevops/aws-terraform-module-cloudfront-whitelabel # Allow creation of domain whitelabel cloudfront distributions
+https://github.com/osodevops/.github #
+https://github.com/osodevops/aws-terraform-module-ssm-agent #
+https://github.com/osodevops/aws-k8s-kops #
+https://github.com/osodevops/aws-terraform-module-inspector # Terraform module to deploy AWS Inspector in your account
+https://github.com/osodevops/aws-terraform-module-ssm-monitoring # SSM Document to install a bunch of monitoring agents on EC2 Linux Instances.
+https://github.com/osodevops/aws-terraform-module-iam-bastion # A bastion controlled by dynamic ssh generated from IAM
+https://github.com/osodevops/terraform-gitops-example # A Terraform GitOps workflow example for multi cloud deployments with Flux, Kustomize, Helm and Terraform Controller
+https://github.com/osodevops/docker-jenkins-cjoc # Cloudbees Enterprise Jenkins CJOC
+https://github.com/osodevops/aws-lambda-encrypt-ami # Lambda function triggered by SNS notification on a successful AMI Packer build.
+https://github.com/osodevops/docker-devsecops-wafw00f # Container for WAFW00F Web Application Firewall Detector
+https://github.com/osodevops/confluent-openshift-team-alpha-resources # GitOps enabled repo to provision Kafka as a service for a single team.
+https://github.com/osodevops/ansible-role-confluent-patching # An structured way of OS patching Confluent running on Centos / RHEL / Amazon Linux
+https://github.com/osodevops/aws-terraform-module-ssm-bastion #
+https://github.com/osodevops/aws-terraform-state # A template Terraform state module. Follow the instructions to use this bad boy.
+https://github.com/osodevops/kafka-cloud-dev #
+https://github.com/osodevops/kafka-on-kubernetes-tutorial # Kafka Cluster install on Kubernetes and Monitoring with Grafana
+https://github.com/osodevops/docker-sample-ruby-2.2 # Sample Hello World Ruby application serving on port 80
+https://github.com/osodevops/ansible-role-kubernetes # Ansible role for the provisioning of any Kubernetes version
+https://github.com/osodevops/docker-jenkins-master # Jenkins Master with all the bells and whistles
+https://github.com/osodevops/aws-terraform-module-client-vpn #
+https://github.com/osodevops/confluent-azure-gitops # A GitOps based deployment of Confluent platform on AKS using Terraform / Helm / CFK and Flux
+https://github.com/osodevops/kafka-sample-application # A simple Java producer and consumer to test connectivity and Kafka functionality
+https://github.com/osodevops/kafka-application-monitoring-elastic # Local development of a Kafka cluster monitored by the Elastic stack (Metricbeat / Filebeat)
+https://github.com/osodevops/ansible-role-clamav # Ansible role for the provisioning of ClamAV from binaries
+https://github.com/osodevops/openshift-confluent # Document Kafka deployments via the Confluent operator on OpenShift/OKD
+https://github.com/osodevops/aws-terraform-module-confluent # Terraform Module for deploying best practice HA Confluent Platform on AWS
+https://github.com/osodevops/template-quix-siem # A template for quix.io that will consume log data and scan the data with sigma rules to provide alerting
+https://github.com/osodevops/ansible-role-confluent-connectors # An automated way of displaying, configuring and deleting connectors
+https://github.com/osodevops/aws-terraform-module-proftp # A terraform module for deploying ProFTP on AWS
+https://github.com/osodevops/aws-cardano-example-stake-pool # A full stake pool infrastructure build using GitHub actions. Fork and launch in your own AWS account.
+https://github.com/osodevops/aws-terraform-module-notify-slack-lambda # This module deploys and configures an SNS topic (or uses an existing one) and an AWS Lambda function that sends notifications to Slack
+https://github.com/osodevops/aws-terraform-module-vpc-peering #
+https://github.com/osodevops/aws-terraform-openshift # Provision AWS infrastructure with Terraform, and install Red Hat OpenShift Container Platform 3.11
+https://github.com/osodevops/argocd-gitops-demo # About A fully automated deployment using GitOps. Showcases multi namespaced environments and the progressive delivery
+https://github.com/osodevops/aws-terraform-module-lambda-at-edge # A terraform module for deploying Lambda@Edge function in terraform
+https://github.com/osodevops/aws-terraform-module-config-rules # Enables AWS Config and adds managed config rules with good defaults for PCI / HIPAA / GPG compliance
+https://github.com/osodevops/aws-terraform-alb-logs-to-elasticsearch # Terraform module to send ALB logs from S3 bucket to ElasticSearch using AWS Lambda
+https://github.com/osodevops/aws-terraform-module-cloudfront-s3-redirect # An AWS S3 & Cloudfront based solution to redirect domains in a serverless way
+https://github.com/osodevops/aws-terraform-dynamodb # Dynamo DB all signing module
+https://github.com/osodevops/example-serverless-app-with-dynamodb #
+https://github.com/osodevops/argocd-confluent-deployments # Example Confluent deployments enabled by Argo CD
+https://github.com/osodevops/aws-terraform-module-cloudwatch-audit # A terraform module for alerting on AWS CloudTrail events with CloudWatch alerts and SNS.
+https://github.com/osodevops/aws-terraform-module-template # Terraform template for new account and module provisioning.
+https://github.com/osodevops/docker-terraform # Docker container to run Terraform via CI/CD
+https://github.com/osodevops/aws-terraform-module-acm # Using AWS ACM to create an SSL certificate in a Public Zone
+https://github.com/osodevops/pedigree_trending_github_queue #
+https://github.com/osodevops/docker-gitlab-nexus # Testing GitLab Ci locally with Nexus, Traefik and Docker
+https://github.com/osodevops/aws-terraform-module-ebs-volume-snapshots # Lifecycle Manager using lifecycle policy for EBS Snapshots based on tag
+https://github.com/osodevops/docker-kafka # Docker images for Apache Kafka based on Confluent.
+https://github.com/osodevops/docker-aws-cli-postgres # AWS CLI v2 with support for Postgres 10 tooling pg_dump / pg_restore
+https://github.com/osodevops/aws-terraform-module-apigateway # A terraform module for deploying API Gateway with optional VPC Link
+https://github.com/osodevops/uk-stock-bot # Alerts when stock becomes available for specified products in UK
+https://github.com/osodevops/benchmark-containers # Benchmark container build files for a variety of cloud-native benchmarks.
+https://github.com/osodevops/aws-terraform-module-cloudfront-s3 # A terraform module for deploying Cloudfront backed by S3
+https://github.com/osodevops/kafka-performance-testing # A collection of Ansible playbooks for performance testing an Apache Kafka cluster
+https://github.com/osodevops/aws-terraform-module-iam-groups # OSO DevOps has created a set of example groups that should be used for securing your AWS account
+https://github.com/osodevops/confluent-openshift-gitops-demo # A Confluent Platform deployed on OpenShift 4 via GitOps
+https://github.com/osodevops/aws-terraform-module-elasticache #
+https://github.com/osodevops/docker-elk # The Elastic stack (ELK) powered by Docker and Compose.
+https://github.com/osodevops/kafka-azure-app-insights # Monitoring librdkafka and Confluent components in Azure Ecosystems
+https://github.com/osodevops/aws-terraform-module-acmpca # Create AWS Certificate Manager Private Certificate Authorities (ACM PCA Certificate Authorities)
+https://github.com/osodevops/aws-terraform-kinesis-stream # AWS Kinesis Stream module
+https://github.com/osodevops/flux-gitops-demo #

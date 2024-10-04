@@ -1,0 +1,12 @@
+https://github.com/karafka/karafka # Ruby and Rails efficient Kafka processing framework
+
+https://github.com/karafka/example-apps # Karafka and WaterDrop example applications
+
+https://github.com/karafka/rdkafka-ruby # Modern and performant Kafka client library for Ruby based on librdkafka
+https://github.com/karafka/waterdrop # Standalone Karafka library for producing Kafka messages
+https://github.com/karafka/karafka-web # Web UI for monitoring and managing Karafka consumers
+https://github.com/karafka/karafka-testing # Library which provides helpers for easier Karafka consumers tests
+https://github.com/karafka/karafka-core # A toolset of small support modules used throughout the Karafka ecosystem
+https://github.com/karafka/wiki # Wiki of the main Karafka repository
+https://github.com/karafka/misc # Miscellaneous data related to Karafka, like graphics, charts, etc
+https://github.com/karafka/.github # Repository containing the Karafka organization README

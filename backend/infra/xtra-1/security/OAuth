@@ -1,3 +1,145 @@
+https://github.com/ory/hydra # The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+https://github.com/ory/kratos # The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+https://github.com/ory/keto # The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+https://github.com/ory/dockertest # Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+https://github.com/ory/oathkeeper # A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
+https://github.com/ory/ladon # A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
+https://github.com/ory/fosite # Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+https://github.com/ory/k8s # Kubernetes Helm Charts for the ORY ecosystem.
+https://github.com/ory/kratos-selfservice-ui-node #
+https://github.com/ory/hydra-login-consent-node # This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
+https://github.com/ory/go-acc # Accurate Code Coverage reporting for Golang (Go)
+https://github.com/ory/graceful # A best practice http server set up that supports graceful shutdown
+https://github.com/ory/sdk # The place where ORY's SDKs are being auto-generated
+https://github.com/ory/examples # A curated collection of examples and solutions created and maintained by the Ory Community.
+https://github.com/ory/docs # The Ory documentation
+https://github.com/ory/kratos-selfservice-ui-react-nextjs # A full reference implementation for designing your own login, registration, recovery, verification, ... pages using Ory Kratos' APIs.
+https://github.com/ory/herodot # A lightweight Go library for writing responses and errors to HTTP
+https://github.com/ory/kratos-selfservice-ui-react-native # A reference implementation of an app using ORY Kratos for auth (login), sign up (registration), profile settings (update password), MFA/2FA, account recovery (password reset), and more for React Native. This repository is available as an expo template!
+https://github.com/ory/x # Libraries used in the Ory ecosystem
+https://github.com/ory/elements # Ory Elements is a component library that makes building login, registration and account pages for Ory a breeze. Check out the components library on Chromatic https://www.chromatic.com/library?appId=63b58e306cfd32348fa48d50
+https://github.com/ory/network # Ory runs a global end-to-end security infrastructure for humans, robots, and servers. We build and use open source software.
+https://github.com/ory/fosite-example #
+https://github.com/ory/kratos-client-go #
+https://github.com/ory/cli # Create bulk action scripts, automate your tasks, manage your projects, and seamlessly interact with the Ory Network using the Ory command line interface (CLI).
+https://github.com/ory/hydra-client-go #
+https://github.com/ory/kratos-nextjs-react-example # Add login, registration, account recovery (password reset), account verification (email verification), social sign in, multi-factor authentication to your Next.js / React App using Ory!
+https://github.com/ory/oathkeeper-maester # Kuberenetes CRD Controller for Ory Oathkeeper. :warning: Maintained by the community, not an official Ory project!
+https://github.com/ory/hydra-maester # Kuberenetes CRD Controller for Ory Hydra. :warning: Maintained by the community, not an official Ory project!
+https://github.com/ory/hydra-client-java #
+https://github.com/ory/client-go #
+https://github.com/ory/closed-reference-notifier # A GitHub action to open an issue when GitHub references in your code are closed.
+https://github.com/ory/go-convenience # Well-tested helpers for dealing with daily problems in Go.
+https://github.com/ory/integrations #
+https://github.com/ory/defcon-30-ctf #
+https://github.com/ory/keto-client-go #
+https://github.com/ory/meta # A place where we plan and schedule our open source activities and track cross-project and ory-wide issues
+https://github.com/ory/redux-saga-fetch # A simple wrapper that reduces boilerplate code when using redux-saga in combination with async backend calls.
+https://github.com/ory/encrypt-dir # A very simple cli helper that encrypts files in directories using AES-GCM (128bit)
+https://github.com/ory/hydra-client-php #
+https://github.com/ory/kratos-client-php #
+https://github.com/ory/oathkeeper-client-go #
+https://github.com/ory/build-buf-action # A GitHub action to build and lint protobuf using buildbuf
+https://github.com/ory/summit # This repository holds all material related to the Ory Summit, specifically the presentations.
+https://github.com/ory/kratos-client-js # Autogenerated kratos SDK.
+https://github.com/ory/kratos-client-rust # Autogenerated kratos SDK.
+https://github.com/ory/ci # Automation and robots for Ory's CI and CD pipelines
+https://github.com/ory/keto-client-php #
+https://github.com/ory/keto-client-java #
+https://github.com/ory/kratos-client-ruby # Autogenerated kratos SDK.
+https://github.com/ory/oathkeeper-client-php #
+https://github.com/ory/ory-config # A small Web App for configuring Ory systems built in VueJs 2.x
+https://github.com/ory/kratos-maester #
+https://github.com/ory/ory-sdk-go #
+https://github.com/ory/kratos-client-java #
+https://github.com/ory/kratos-client-python # Autogenerated kratos SDK.
+https://github.com/ory/milestone-action #
+https://github.com/ory/hydra-client-js # Autogenerated hydra SDK.
+https://github.com/ory/hydra-client-ruby # Autogenerated hydra SDK.
+https://github.com/ory/open-source-support # Are you looking for help above and beyond our community self service support?
+https://github.com/ory/themes #
+https://github.com/ory/client-dotnet # Autogenerated client SDK.
+https://github.com/ory/client-js # Autogenerated client SDK.
+https://github.com/ory/hydra-client-dart # Autogenerated hydra SDK.
+https://github.com/ory/client-php #
+https://github.com/ory/cli-vscode-extension # This extension enables Visual Studio Code to use the Ory CLI to interact with your Ory projects and services.
+https://github.com/ory/hydra-client-python # Autogenerated hydra SDK.
+https://github.com/ory/kratos-client-dart # Autogenerated kratos SDK.
+https://github.com/ory/label-sync-action #
+https://github.com/ory/kratos-client-dotnet # Autogenerated kratos SDK.
+https://github.com/ory/keto-maester #
+https://github.com/ory/summit-platform #
+https://github.com/ory/oathkeeper-client-js # Autogenerated oathkeeper SDK.
+https://github.com/ory/ory-client-go #
+https://github.com/ory/oathkeeper-client-rust # Autogenerated oathkeeper SDK.
+https://github.com/ory/homebrew-kratos #
+https://github.com/ory/client-python # Autogenerated client SDK.
+https://github.com/ory/scoop #
+https://github.com/ory/homebrew-tap # Location for all of Ory's homebrew packages
+https://github.com/ory/client-java #
+https://github.com/ory/oathkeeper-client-dotnet # Autogenerated oathkeeper SDK.
+https://github.com/ory/client-ruby # Autogenerated client SDK.
+https://github.com/ory/resilient-axios # A interceptor which makes axios requests resilient.
+https://github.com/ory/oathkeeper-client-java #
+https://github.com/ory/changelog # Ory Changelog Generator
+https://github.com/ory/oathkeeper-client-dart # Autogenerated oathkeeper SDK.
+https://github.com/ory/keto-client-python # Autogenerated keto SDK.
+https://github.com/ory/hydra-client-dotnet # Autogenerated hydra SDK.
+https://github.com/ory/client-dart # Autogenerated client SDK.
+https://github.com/ory/homebrew-keto #
+https://github.com/ory/ory-client-php #
+https://github.com/ory/client-typescript-fetch # Autogenerated client SDK.
+https://github.com/ory/homebrew-hydra #
+https://github.com/ory/k8s-toolbox #
+https://github.com/ory/xgoreleaser #
+https://github.com/ory/homebrew-oathkeeper #
+https://github.com/ory/hydra-client-rust # Autogenerated hydra SDK.
+https://github.com/ory/scoop-hydra #
+https://github.com/ory/actions # A GitHub action for cross-compiling (Linux, Windows, Mac) and releasing CGO applications using Goreleaser
+https://github.com/ory/client-rust # Autogenerated client SDK.
+https://github.com/ory/keto-client-dotnet # Autogenerated keto SDK.
+https://github.com/ory/scoop-ory #
+https://github.com/ory/hydra-legacy-sdk #
+https://github.com/ory/scoop-oathkeeper #
+https://github.com/ory/sdk-hydra-typescript-fetch # ORY Hydra Client SDK for TypeScript using fetch
+https://github.com/ory/keto-client-js # Autogenerated keto SDK.
+https://github.com/ory/homebrew-ory #
+https://github.com/ory/scoop-kratos #
+https://github.com/ory/open-source-monitor-action #
+https://github.com/ory/scoop-keto #
+https://github.com/ory/.github #
+https://github.com/ory/oathkeeper-client-python # Autogenerated oathkeeper SDK.
+https://github.com/ory/golang-health-action #
+https://github.com/ory/next-auth-example #
+https://github.com/ory/https-reverse-proxy #
+https://github.com/ory/release-canary # This repository contains a program used to test the release pipeline
+https://github.com/ory/keto-client-rust # Autogenerated keto SDK.
+https://github.com/ory/keto-node-express-example # A small example file sharing service that demonstrates how to consume Keto from a Node JS backend.
+https://github.com/ory/keto-client-ruby # Autogenerated keto SDK.
+https://github.com/ory/keto-client-dart # Autogenerated keto SDK.
+https://github.com/ory/oathkeeper-client-ruby # Autogenerated oathkeeper SDK.
+https://github.com/ory/e2e-env # Responsible for building oryd/e2e-env which is used by cypress tests.
+https://github.com/ory/office-muc-printing-scanning # Collection of Utilities and Information about Printing/Scanning in the Ory Munich Office
+https://github.com/ory/client-ts-fetch #
+https://github.com/ory/keto-client-ts-fetch #
+https://github.com/ory/hydra-client-typescript-fetch # Autogenerated hydra SDK.
+https://github.com/ory/oathkeeper-client-ts-fetch #
+https://github.com/ory/oathkeeper-client-typescript-fetch # Autogenerated oathkeeper SDK.
+https://github.com/ory/kratos-client-ts-fetch #
+https://github.com/ory/example-auth-js #
+https://github.com/ory/docs-feedback # Public documentation feedback
+https://github.com/ory/kratos-client-typescript-fetch # Autogenerated kratos SDK.
+https://github.com/ory/hydra-client-ts-fetch #
+https://github.com/ory/bench-test #
+
+https://github.com/oauth2-proxy/oauth2-proxy # A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+
+https://github.com/oauth2-proxy/oauth2-proxy-template # A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+
+https://github.com/oauth2-proxy/manifests # For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+https://github.com/oauth2-proxy/mockoidc # A Mock OIDC Server for Unit & Integration Tests
+https://github.com/oauth2-proxy/tools # Tooling to help run the OAuth2 Proxy project
+
 https://www.iana.org/assignments/oauth-parameters
 
 https://www.iana.org/assignments/jwt

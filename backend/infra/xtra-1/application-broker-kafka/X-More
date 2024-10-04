@@ -1,0 +1,84 @@
+https://github.com/automq/automq # AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency.
+https://github.com/automq/automq-for-rocketmq # A cloud native implementation for Apache RocketMQ 5.0
+https://github.com/automq/kafka-provider-comparison #
+https://github.com/automq/openmessaging-benchmark #
+https://github.com/automq/charts # AutoMQ charts repository for Kafka and RocketMQ.
+https://github.com/automq/terraform-aws-automq-byoc-environment # Terraform module to create AutoMQ BYOC resources with AWS providers
+https://github.com/automq/terraform-provider-automq # Terraform Provider for AutoMQ
+https://github.com/automq/rocketmq-e2e #
+https://github.com/automq/.github #
+https://github.com/automq/automq-eks-example # Free trial of AutoMQ Enterprise Edition. Use Terraform to automatically prepare the AutoMQ environment in a few minutes. There's no need to provide your own AWS account or purchase cloud resources.
+
+https://github.com/lensesio/fast-data-dev # Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors
+https://github.com/lensesio/stream-reactor # A collection of open source Apache 2.0 Kafka Connector maintained by Lenses.io.
+https://github.com/lensesio/kafka-topics-ui # Web Tool for Kafka Topics |
+https://github.com/lensesio/kafka-connect-ui # Web tool for Kafka Connect |
+https://github.com/lensesio/schema-registry-ui # Web tool for Avro Schema Registry |
+https://github.com/lensesio/kafka-cheat-sheet # Curated by Lenses.io
+https://github.com/lensesio/lenses-docker # ❤for real-time DataOps - where the application and data fabric blends - Lenses
+https://github.com/lensesio/kafka-connect-query-language # SQL for Kafka Connectors
+https://github.com/lensesio/coyote # Environment, operations and runtime-meta testing tool.
+https://github.com/lensesio/cypress-websocket-testing # Test WebSocket connections with Cypress
+https://github.com/lensesio/secret-provider # Open Source Secret Provider plugin for the Kafka Connect framework
+https://github.com/lensesio/lenses-go # Lenses.io CLI (command-line interface)
+https://github.com/lensesio/kafka-autocomplete # Bash completion for Kafka command line utilities.
+https://github.com/lensesio/lenses-jdbc # Lenses.io JDBC driver for Apache Kafka
+https://github.com/lensesio/stream-reactor-dockers # Docker images for Stream Reactor
+https://github.com/lensesio/lenses-helm-charts # Helm Charts for Lenses.io
+https://github.com/lensesio/lenses-topology-example # An example of streaming microservices with Apache Kafka and Data Flow Topology integration with Lenses Ⓡ DataOps Plat
+form. You can see it in action here: https://www.youtube.com/watch?v=V15mrcA1Wxg
+https://github.com/lensesio/datagen # A small project to allow publishing data to Apache Kafka, Apache Pulsar or any other target system
+https://github.com/lensesio/redux-lenses-streaming-example #
+https://github.com/lensesio/docker-images # Public docker images we use for our infrastructure.
+https://github.com/lensesio/lenses-ldap-plugin-template #
+https://github.com/lensesio/lenses-serde #
+https://github.com/lensesio/lenses-alerts-plugin # Defines interface for pluggable lenses alert services integration, along with some officially supported implementations.
+https://github.com/lensesio/kafka-connect-smt # A Lenses.io Kafka Connect Single Message Transform(SMT) collection
+https://github.com/lensesio/lenses-cloud-templates # Available templates to deploy Lenses in different cloud providers
+https://github.com/lensesio/connect-mock # This is a dummy application that mocks the Kafka Connect API.
+https://github.com/lensesio/lenses-serde-protobuf-example #
+https://github.com/lensesio/lenses-udf-example # Lenses.io - User Defined Functions for Lenses SQL
+https://github.com/lensesio/lenses-security-http-sample # A sample project using the HTTP request to handle the authentication
+https://github.com/lensesio/lenses-testing-exercise # QA Interview Exercise
+https://github.com/lensesio/merge-repos-blog-repo_b # Demo repository for blog material
+https://github.com/lensesio/topology-client # A client to register Kafka microservices with Lenses topology
+https://github.com/lensesio/merge-repos-blog-repo_a # Demo repository for blog material
+https://github.com/lensesio/.github #
+https://github.com/lensesio/product-documentation # Dummy repo for reporting issues with docs.lenses.io
+https://github.com/lensesio/lenses-serde-example #
+https://github.com/lensesio/restore-consumer-groups-offset # An application that enables reading consumer group offsets stored in Amazon S3 and applying them to the designated Kafka cluster.
+https://github.com/lensesio/lenses-serde-kafka-consumer-offsets # A Lenses serde to deserialize the Apache Kafka \_\_conusumer_offset topic
+
+https://github.com/kafkajs/canary-app # Kafka application to test beta versions of KafkaJS
+
+https://github.com/strimzi/strimzi-kafka-operator # Apache Kafka® running on Kubernetes
+https://github.com/strimzi/strimzi-kafka-bridge # An HTTP bridge for Apache Kafka®
+https://github.com/strimzi/strimzi-kafka-oauth # OAuth2 support for Apache Kafka® to work with many OAuth2 authorization servers
+https://github.com/strimzi/client-examples # Example clients for use with Strimzi
+https://github.com/strimzi/proposals # Strimzi proposals
+https://github.com/strimzi/drain-cleaner # Utility to help with draining nodes running Strimzi-managed Apache Kafka® or ZooKeeper® pods
+https://github.com/strimzi/strimzi-canary # Strimzi canary
+https://github.com/strimzi/strimzi-mqtt-bridge # An MQTT bridge for Apache Kafka®
+https://github.com/strimzi/strimzi.github.io # Strimzi web site project
+https://github.com/strimzi/kafka-kubernetes-config-provider # Kubernetes Configuration Provider for Apache Kafka®
+https://github.com/strimzi/kafka-access-operator # Operator for sharing access to Strimzi clusters across namespaces
+https://github.com/strimzi/test-container # Strimzi Test container for unit and integration tests
+https://github.com/strimzi/test-clients # Clients used in Strimzi system tests
+https://github.com/strimzi/kafka-env-var-config-provider # Environment variable configuration provider for Apache Kafka®
+https://github.com/strimzi/governance # Strimzi governance policies
+https://github.com/strimzi/metrics-reporter # Prometheus Metrics Reporter for Apache Kafka server and client compoenents
+https://github.com/strimzi/test-container-images # Container images for Strimzi test Container
+https://github.com/strimzi/.github # Community health files for the Strimzi project
+
+https://github.com/cloudevents/spec # CloudEvents Specification
+https://github.com/cloudevents/sdk-go # Go SDK for CloudEvents
+https://github.com/cloudevents/sdk-java # Java SDK for CloudEvents
+https://github.com/cloudevents/sdk-javascript # JavaScript/TypeScript SDK for CloudEvents
+https://github.com/cloudevents/sdk-python # Python SDK for CloudEvents
+https://github.com/cloudevents/sdk-csharp # CSharp SDK for CloudEvents
+https://github.com/cloudevents/sdk-rust # Rust library to interact with CloudEvents
+https://github.com/cloudevents/sdk-php # PHP SDK for CloudEvents
+https://github.com/cloudevents/sdk-ruby # Ruby SDK for CloudEvents
+https://github.com/cloudevents/conformance #
+https://github.com/cloudevents/sdk-powershell # PowerShell 7.0 SDK for CloudEvents
+https://github.com/cloudevents/cloudevents-web # Source files for the website

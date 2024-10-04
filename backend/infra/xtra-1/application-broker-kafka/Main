@@ -1,0 +1,53 @@
+https://github.com/apache/kafka # Mirror of Apache Kafka
+https://github.com/apache/calcite # Apache Calcite
+https://github.com/apache/camel-examples # Apache Camel Examples
+https://github.com/apache/kafka-site # Mirror of Apache Kafka site
+https://github.com/apache/flink-playgrounds # Apache Flink Playgrounds
+https://github.com/apache/camel-kafka-connector # Camel Kafka Connector allows you to use all Camel components as Kafka Connect connectors
+https://github.com/apache/samza # Mirror of Apache Samza
+https://github.com/apache/flink-connector-kafka # Apache flink
+https://github.com/apache/hbase-connectors # Apache HBase Connectors
+https://github.com/apache/gobblin # A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, or
+ganization and lifecycle management for both streaming and batch data ecosystems. https://github.com/apache/camel-spring-boot-examples # Apache Camel Spring Boot Examples
+https://github.com/apache/ranger # Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond
+https://github.com/apache/samza-hello-samza # Mirror of Apache Samza
+https://github.com/apache/fineract # Apache Fineract
+https://github.com/apache/incubator-kie-kogito-examples # Kogito examples - Kogito is a cloud-native business automation technology for building cloud-ready business appli
+cations. https://github.com/apache/flink # Apache Flink
+https://github.com/apache/openwhisk-package-kafka # Apache OpenWhisk package for communicating with Kafka or Message Hub
+https://github.com/apache/inlong # Apache InLong - a one-stop, full-scenario integration framework for massive data
+https://github.com/apache/atlas # Apache Atlas
+https://github.com/apache/camel-kafka-connector-examples # Apache Camel Kafka Connector Examples
+https://github.com/apache/pinot # Apache Pinot - A realtime distributed OLAP datastore
+https://github.com/apache/karaf-decanter # Mirror of Apache Karaf Decanter
+https://github.com/apache/hop # Hop Orchestration Platform
+https://github.com/apache/plc4x # PLC4X The Industrial IoT adapter
+https://github.com/apache/skywalking-rust # Apache SkyWalking Rust Agent
+https://github.com/apache/gravitino # World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+https://github.com/apache/bigtop # Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, an
+d configuration of the leading open source big data components. https://github.com/apache/doris-kafka-connector # Kafka Connector for Apache Doris
+https://github.com/apache/samza-beam-examples # Apache samza
+https://github.com/apache/eventmesh # EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
+https://github.com/apache/geode-kafka-connector # Kafka connector for Apache Geode
+https://github.com/apache/pekko-connectors-kafka # Apache Pekko Kafka Connector - Pekko-Connectors is a Reactive Enterprise Integration library for Java and Scala, based o
+n Reactive Streams and Apache Pekko. https://github.com/apache/kylin # Apache Kylin
+https://github.com/apache/linkis # Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper application
+s and the underlying data engines. https://github.com/apache/apisix # The Cloud-Native API Gateway
+https://github.com/apache/streampipes # Apache StreamPipes - A self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data
+streams. https://github.com/apache/nifi-minifi-cpp # Apache NiFi - MiNiFi C++
+https://github.com/apache/logging-flume-kafka # Apache Flume Kafka contains the Flume components that interact with Kafka.
+https://github.com/apache/amoro # Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
+https://github.com/apache/doris # Apache Doris is an easy-to-use, high performance and unified analytics database.
+https://github.com/apache/pekko-connectors # Apache Pekko Connectors is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Apache
+Pekko. https://github.com/apache/hertzbeat # Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom moni
+toring and status page building capabilities. https://github.com/apache/pekko-projection # Apache Pekko Projections is intended for building systems with the CQRS pattern, and facilitate in event-based service-to-serv
+ice communication. https://github.com/apache/sling-org-apache-sling-distribution-journal-kafka # Apache Sling Journal Messaging based on Apache Kafka
+https://github.com/apache/camel-kamelets # Apache Camel Kamelets Repository
+https://github.com/apache/openwhisk-deploy-kube # The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and Op
+enShift clusters. https://github.com/apache/openwhisk-release # Tools and documentation for Apache OpenWhisk Release Managers
+https://github.com/apache/seatunnel-datasource-sdk # SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of m
+assive data (offline & real-time). https://github.com/apache/aries-journaled-events # Apache aries
+https://github.com/apache/geronimo-opentracing # Apache Geronimo Microprofile OpenTracing implementation
+https://github.com/apache/karaf-reactive-components # Apache Karaf Reactive Components
+https://github.com/apache/camel-website # Apache Camel Website
+https://github.com/apache/kafka-merge-queue-sandbox # Apache kafka

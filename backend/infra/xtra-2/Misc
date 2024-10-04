@@ -30,6 +30,12 @@ https://github.com/utilsec/packet_captures # ARP, DHCP
 https://github.com/mttaggart/jupyter-pcap # Jupyter
 
 --
+Data Contract
+https://github.com/datacontract/datacontract-cli # CLI to manage your datacontract.yaml files
+https://github.com/datacontract/datacontract-specification # The Data Contract Specification Repository
+https://github.com/datacontract/datacontract-gpt # Chat with your data contracts with Data Contract GPT
+https://github.com/datacontract/datacontract-editor # Edit your data contract in the Data Contract Editor
+
 GIS
 https://github.com/gis-ops/routingpy # 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner.
 https://github.com/gis-ops/docker-valhalla # This is our flexible Docker repository for the Valhalla routing engine

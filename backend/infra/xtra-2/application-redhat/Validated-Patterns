@@ -1,14 +1,14 @@
 https://github.com/validatedpatterns/multicloud-gitops # Multi-cloud Gitops validated pattern
 https://github.com/validatedpatterns/multicluster-devsecops #
 https://github.com/validatedpatterns/industrial-edge #
-https://github.com/validatedpatterns/ansible-edge-gitops # Validated Pattern featuring the use of Ansible Automation Platform to opera
-te and lifecycle a container-native application on Edge https://github.com/validatedpatterns/docs # Validated Patterns documentation
+https://github.com/validatedpatterns/ansible-edge-gitops # Validated Pattern featuring the use of Ansible Automation Platform to operate and lifecycle a container-native application on Edge
+https://github.com/validatedpatterns/docs # Validated Patterns documentation
 https://github.com/validatedpatterns/agof # Experimental work on Ansible GitOps Framework
 https://github.com/validatedpatterns/rag-llm-gitops #
 https://github.com/validatedpatterns/patterns-operator #
 https://github.com/validatedpatterns/regional-resiliency-pattern #
-https://github.com/validatedpatterns/emerging-disease-detection # This Emerging Disease Detection pattern includes a demo for Sepsis d
-etection. https://github.com/validatedpatterns/utilities #
+https://github.com/validatedpatterns/emerging-disease-detection # This Emerging Disease Detection pattern includes a demo for Sepsis detection.
+https://github.com/validatedpatterns/utilities #
 https://github.com/validatedpatterns/medical-diagnosis #
 https://github.com/validatedpatterns/kong-gateway # Pattern for Kong Gateway Control Plane and Data Plane demo
 https://github.com/validatedpatterns/common #
@@ -32,7 +32,7 @@ https://github.com/validatedpatterns/clustergroup-chart #
 https://github.com/validatedpatterns/vp-qe-test-common #
 https://github.com/validatedpatterns/golang-external-secrets-chart #
 https://github.com/validatedpatterns/spark # A Spark based data analytics demo.
-https://github.com/validatedpatterns/edge-anomaly-detection # Based on Industrial Edge 2.0, this repo moves to using Red Hat OpenShift
-Data Science and generalizes the pattern beyond manufacturing. https://github.com/validatedpatterns/jobs-chart #
+https://github.com/validatedpatterns/edge-anomaly-detection # Based on Industrial Edge 2.0, this repo moves to using Red Hat OpenShift Data Science and generalizes the pattern beyond manufacturing.
+https://github.com/validatedpatterns/jobs-chart #
 https://github.com/validatedpatterns/rhvp.cluster_utils # Common ansible utils for Validated Patterns
 https://github.com/validatedpatterns/letsencrypt-chart #

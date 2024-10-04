@@ -1,4 +1,5 @@
-https://github.com/nodeshift/nodejs-reference-architecture # The Red Hat and IBM Node.js Reference architecture. https://github.com/nodeshift/opossum # Node.js circuit breaker - fails fast ⚡️
+https://github.com/nodeshift/nodejs-reference-architecture # The Red Hat and IBM Node.js Reference architecture.
+https://github.com/nodeshift/opossum # Node.js circuit breaker - fails fast ⚡️
 https://github.com/nodeshift/docker # Sample Dockerfile templates for building Dev, Debug, Test and Run images for your application
 https://github.com/nodeshift/nodeshift # CLI application for OpenShift Node.js deployment 🚀
 https://github.com/nodeshift/helm # Sample Helm Chart templates for packaging your Node.js application for deployment to Kubernetes
