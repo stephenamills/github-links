@@ -1,0 +1,10 @@
+Eleuther
+https://github.com/eleutherai/gpt-neox # An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
+https://github.com/eleutherai/exploring-contrastive-topology # 
+https://github.com/eleutherai/dalle-mtf # Open-AI's DALL-E for large scale training in mesh-tensorflow.
+https://github.com/eleutherai/sae # Sparse autoencoders
+https://github.com/eleutherai/knowledge-neurons # A library for finding knowledge neurons in pretrained transformer models.
+https://github.com/eleutherai/semantic-memorization # 
+https://github.com/eleutherai/multimodal-fid # 
+https://github.com/eleutherai/pythia # The hub for EleutherAI's work on interpretability and learning dynamics
+

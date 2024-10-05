@@ -1,0 +1,86 @@
+https://github.com/huggingface/transformers # 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
+https://github.com/huggingface/alignment-handbook # Robust recipes to align language models with human and AI preferences
+https://github.com/huggingface/notebooks # Notebooks using the Hugging Face libraries 🤗
+https://github.com/huggingface/course # The Hugging Face course on Transformers
+https://github.com/huggingface/cookbook # Open-source AI cookbook
+https://github.com/huggingface/large_language_model_training_playbook # An open collection of implementation tips, tricks and resources for training large language models
+https://github.com/huggingface/llm_training_handbook # An open collection of methodologies to help with successful training of large language models.
+https://github.com/huggingface/huggingface-llama-recipes #
+https://github.com/huggingface/education-toolkit # Educational materials for universities
+https://github.com/huggingface/local-gemma # Gemma 2 optimized for your local machine.
+https://github.com/huggingface/llm-academy # LLM Academy
+
+https://github.com/huggingface/pytorch-image-models # The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights
+https://github.com/huggingface/diffusers # 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+https://github.com/huggingface/datasets # 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+https://github.com/huggingface/peft # 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+https://github.com/huggingface/candle # Minimalist ML framework for Rust
+https://github.com/huggingface/trl # Train transformer language models with reinforcement learning.
+https://github.com/huggingface/tokenizers # 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+https://github.com/huggingface/text-generation-inference # Large Language Model Text Generation Inference
+https://github.com/huggingface/accelerate # 🚀 Train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
+https://github.com/huggingface/chat-ui # Open source codebase powering the HuggingChat app
+https://github.com/huggingface/lerobot # 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+https://github.com/huggingface/parler-tts # Inference and training library for high-quality TTS models.
+https://github.com/huggingface/deep-rl-class # Hugging Face Deep Reinforcement Learning Course.
+https://github.com/huggingface/autotrain-advanced # 🤗 AutoTrain Advanced
+https://github.com/huggingface/diffusion-models-class # Materials for the Hugging Face Diffusion Models Course
+https://github.com/huggingface/distil-whisper # Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
+https://github.com/huggingface/speech-to-speech # Speech To Speech: an effort for an open-sourced and modular GPT4-o
+https://github.com/huggingface/neuralcoref # ✨Fast Coreference Resolution in spaCy with Neural Networks
+https://github.com/huggingface/knockknock # 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
+https://github.com/huggingface/safetensors # Simple, safe way to store and distribute tensors
+https://github.com/huggingface/text-embeddings-inference # A blazing fast inference solution for text embeddings models
+https://github.com/huggingface/swift-coreml-diffusers # Swift app demonstrating Core ML Stable Diffusion
+https://github.com/huggingface/optimum # 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
+https://github.com/huggingface/blog # Public repo for HF blog posts
+https://github.com/huggingface/setfit # Efficient few-shot learning with Sentence Transformers
+https://github.com/huggingface/awesome-papers # Papers & presentation materials from Hugging Face's internal science day
+https://github.com/huggingface/huggingface_hub # The official Python client for the Huggingface Hub.
+https://github.com/huggingface/evaluate # 🤗 Evaluate: A library for easily evaluating machine learning models and datasets.
+https://github.com/huggingface/datatrove # Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+https://github.com/huggingface/transfer-learning-conv-ai # 🦄 State-of-the-Art Conversational AI with Transfer Learning
+https://github.com/huggingface/swift-coreml-transformers # Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
+https://github.com/huggingface/pytorch-openai-transformer-lm # 🐥A PyTorch implementation of OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI
+https://github.com/huggingface/huggingface.js # Utilities to use the Hugging Face Hub API
+https://github.com/huggingface/gsplat.js # JavaScript Gaussian Splatting library.
+https://github.com/huggingface/mongoku # 🔥The Web-scale GUI for MongoDB
+https://github.com/huggingface/llm-vscode # LLM powered development for VSCode
+https://github.com/huggingface/hmtl # 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
+https://github.com/huggingface/nanotron # Minimalistic large language model 3D-parallelism training
+https://github.com/huggingface/pytorch-pretrained-biggan # 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
+https://github.com/huggingface/torchmoji # 😇A pyTorch implementation of the DeepMoji model: state-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc
+https://github.com/huggingface/optimum-nvidia #
+https://github.com/huggingface/awesome-huggingface # 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
+https://github.com/huggingface/chat-macos # Making the community's best AI chat models available to everyone.
+https://github.com/huggingface/optimum-quanto # A pytorch quantization backend for optimum
+https://github.com/huggingface/naacl_transfer_learning_tutorial # Repository of code for the tutorial on Transfer Learning in NLP held at NAACL 2019 in Minneapolis, MN, USA
+https://github.com/huggingface/lighteval # Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends
+https://github.com/huggingface/dataset-viewer # Backend that powers the dataset viewer on Hugging Face dataset pages through a public API.
+https://github.com/huggingface/swift-transformers # Swift Package to implement a transformers-like API in Swift
+https://github.com/huggingface/exporters # Export Hugging Face models to Core ML and TensorFlow Lite
+https://github.com/huggingface/llm-ls # LSP server leveraging LLMs for code completion (and more?)
+https://github.com/huggingface/ratchet # A cross-platform browser ML framework.
+https://github.com/huggingface/transformers-bloom-inference # Fast Inference Solutions for BLOOM
+https://github.com/huggingface/pytorch_block_sparse # Fast Block Sparse Matrices for Pytorch
+https://github.com/huggingface/node-question-answering # Fast and production-ready question answering in Node.js
+https://github.com/huggingface/swift-chat # Mac app to demonstrate swift-transformers
+https://github.com/huggingface/text-clustering # Easily embed, cluster and semantically label text datasets
+https://github.com/huggingface/cosmopedia #
+https://github.com/huggingface/nn_pruning # Prune a model while finetuning or training.
+https://github.com/huggingface/transformers.js-examples # A collection of 🤗 Transformers.js demos and example applications
+https://github.com/huggingface/100-times-faster-nlp # 🚀100 Times Faster Natural Language Processing in Python - iPython notebook
+https://github.com/huggingface/audio-transformers-course # The Hugging Face Course on Transformers for Audio
+https://github.com/huggingface/instruction-tuned-sd # Code for instruction-tuning Stable Diffusion.
+https://github.com/huggingface/coreml-examples # Swift Core ML Examples
+https://github.com/huggingface/google-cloud-containers # Hugging Face Deep Learning Containers (DLCs) for Google Cloud
+https://github.com/huggingface/ml-for-3d-course #
+https://github.com/huggingface/making-games-with-ai-course # This repository contains the ML For Games Course
+https://github.com/huggingface/llm-intellij # LLM powered development for IntelliJ
+https://github.com/huggingface/olm-training # Repo for training MLMs, CLMs, or T5-type models on the OLM pretraining data, but it should work with any hugging face text dataset.
+https://github.com/huggingface/bloom-jax-inference #
+https://github.com/huggingface/energystarai # A repository for the AI Energy Star Project, aiming to establish energy efficiency ratings for AI models
+https://github.com/huggingface/ethics-education # AI Ethics educational material 🤗
+https://github.com/huggingface/hf-rocm-benchmark # A reproducible benchmark of Text Generation Inference and Transformers as of April 2024 on AMD Instinct MI250 and MI300
+https://github.com/huggingface/huggingface-sagemaker-snowflake-example #

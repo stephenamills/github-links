@@ -1,0 +1,58 @@
+Google
+https://github.com/googlecloudplatform/terraform-genai-knowledge-base # Fine tune an LLM model to answer questions from your documents.
+https://github.com/googlecloudplatform/genai-for-marketing # Showcasing Google Cloud's generative AI for marketing scenarios via application frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including examples of their use in crafting marketing materials like blog posts and social media content, nl2sql analysis, and campaign personalization.
+https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstrating how to operationalize Google Research T5X framework on Google Cloud Vertex AI.
+https://github.com/googlecloudplatform/genai-databases-retrieval-app #
+https://github.com/googlecloudplatform/nl2sql #
+https://github.com/googlecloudplatform/stable-diffusion-on-gcp #
+https://github.com/googlecloudplatform/slo-monitoring-using-terraform #
+https://github.com/googlecloudplatform/llm-pipeline-examples #
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+https://github.com/googlecloudplatform/accelerated-platforms #
+https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.
+https://github.com/googlecloudplatform/dataflowruninference #
+
+Hugging Face
+https://github.com/huggingface/peft # 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+https://github.com/huggingface/transformers # 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+https://github.com/huggingface/trl # Train transformer language models with reinforcement learning.
+https://github.com/huggingface/alignment-handbook # Robust recipes to align language models with human and AI preferences
+https://github.com/huggingface/diffusion-models-class # Materials for the Hugging Face Diffusion Models Course
+https://github.com/huggingface/setfit # Efficient few-shot learning with Sentence Transformers
+https://github.com/huggingface/naacl_transfer_learning_tutorial # Repository of code for the tutorial on Transfer Learning in NLP held at NAACL 2019 in Minneapolis, MN, USA
+https://github.com/huggingface/huggingface-llama-recipes #
+https://github.com/huggingface/parler-tts # Inference and training library for high-quality TTS models.
+https://github.com/huggingface/pytorch-openai-transformer-lm # 🐥A PyTorch implementation of OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI
+https://github.com/huggingface/autotrain-advanced # 🤗 AutoTrain Advanced
+https://github.com/huggingface/community-events # Place where folks can contribute to 🤗 community events
+https://github.com/huggingface/diarizers #
+https://github.com/huggingface/swift-coreml-transformers # Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
+https://github.com/huggingface/transfer-learning-conv-ai # 🦄 State-of-the-Art Conversational AI with Transfer Learning
+https://github.com/huggingface/tflite-android-transformers # DistilBERT / GPT-2 for on-device inference thanks to TensorFlow Lite with Android demo apps
+https://github.com/huggingface/pytorch-image-models # The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights
+https://github.com/huggingface/instruction-tuned-sd # Code for instruction-tuning Stable Diffusion.
+https://github.com/huggingface/text-generation-inference # Large Language Model Text Generation Inference
+https://github.com/huggingface/google-cloud-containers # Hugging Face Deep Learning Containers (DLCs) for Google Cloud
+https://github.com/huggingface/optimum-tpu # Google TPU optimizations for transformers models
+https://github.com/huggingface/block_movement_pruning # Block Sparse movement pruning
+https://github.com/huggingface/accelerate # 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8)
+https://github.com/huggingface/optimum-intel # 🤗 Optimum Intel: Accelerate inference with Intel optimization tools
+https://github.com/huggingface/awesome-papers # Papers & presentation materials from Hugging Face's internal science day
+https://github.com/huggingface/hmtl # 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
+https://github.com/huggingface/optimum-habana # Easy and lightning fast training of 🤗 Transformers on Habana Gaudi processor (HPU)
+https://github.com/huggingface/awesome-huggingface # 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries.
+https://github.com/huggingface/sam2-studio #
+https://github.com/huggingface/dataspeech #
+https://github.com/huggingface/optimum-graphcore # Blazing fast training of 🤗 Transformers on Graphcore IPUs
+https://github.com/huggingface/pytorch_block_sparse # Fast Block Sparse Matrices for Pytorch
+https://github.com/huggingface/jat # General multi-task deep RL Agent
+https://github.com/huggingface/nn_pruning # Prune a model while finetuning or training.
+https://github.com/huggingface/chug # Minimal sharded dataset loaders, decoders, and utils for multi-modal document, image, and text datasets.
+https://github.com/huggingface/education-toolkit # Educational materials for universities
+https://github.com/huggingface/node-question-answering # Fast and production-ready question answering in Node.js
+https://github.com/huggingface/llm-swarm # Manage scalable open LLM inference endpoints in Slurm clusters
+https://github.com/huggingface/peft-pytorch-conference # Code for the examples presented in the talk "Training a Llama in your backyard: fine-tuning very large models on consumer hardware" given at PyTorch Conference 2023
+https://github.com/huggingface/exporters # Export Hugging Face models to Core ML and TensorFlow Lite
+https://github.com/huggingface/pixparse # Pixel Parsing. A reproduction of OCR-free end-to-end document understanding models with open data
+https://github.com/huggingface/amused #
+https://github.com/huggingface/ms-build-mi300 #

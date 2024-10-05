@@ -18,14 +18,4 @@ https://github.com/cohere-ai/human-feedback-paper # Code and data from the paper
 https://github.com/cohere-ai/meeting-notes-summaries #
 https://github.com/cohere-ai/cohere-compass-sdk # Provides an SDK for interacting with Compass, and Compass Parsing
 
-Embed
-https://github.com/cohere-ai/notebooks # Code examples and jupyter notebooks for the Cohere Platform
-https://github.com/cohere-ai/binaryvectordb # Efficient vector database for hundred millions of embeddings.
-https://github.com/cohere-ai/diskvectorindex #
-https://github.com/cohere-ai/sandbox-toy-semantic-search # A demonstration of how a toy (but usable!) semantic search engine can be quickly built using Cohere's platform.
-https://github.com/cohere-ai/magikarp #
-https://github.com/cohere-ai/sandbox-multilingual # A demonstration of a multilingual semantic search engine you can be quickly built using Cohere's platform.
-https://github.com/cohere-ai/sandbox-topically # Topic modeling helpers using managed language models from Cohere. Name text clusters using large GPT models.
-
-Rerank
-https://github.com/cohere-ai/notebooks # Code examples and jupyter notebooks for the Cohere Platform
+Tune

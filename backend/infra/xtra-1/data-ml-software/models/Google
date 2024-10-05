@@ -14,4 +14,8 @@ https://github.com/google/jetstream-pytorch # PyTorch/XLA integration with JetSt
 https://github.com/google/genc #
 https://github.com/google/highway # Performance-portable, length-agnostic SIMD with runtime dispatch
 
+Gemma Tuning
+https://github.com/google-deepmind/gemma # Open weights LLM from Google DeepMind.
+https://github.com/google-deepmind/recurrentgemma # Open weights language model from Google DeepMind, based on Griffin.
+
 Gemini
