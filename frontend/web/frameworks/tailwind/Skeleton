@@ -1,0 +1,11 @@
+https://github.com/skeletonlabs/skeleton # A complete design system and component solution, built on Tailwind.
+
+https://github.com/skeletonlabs/floating-ui-svelte # A Floating UI wrapper for Svelte
+https://github.com/skeletonlabs/skeleton-starter-tauri # A starter project that pairs Skeleton with Tauri.
+https://github.com/skeletonlabs/skeleton-datatables-integration # This projects showcases an integration between Skeleton and Svelte Simple Datatables
+https://github.com/skeletonlabs/create-skeleton-app # CLI installer for Skeleton apps and monorepo for the sites that form the templates
+https://github.com/skeletonlabs/blog-tutorials # This directory contains a series of tutorial projects created as part of the Skeleton blog.
+https://github.com/skeletonlabs/skeleton-next # A sandbox for prototyping the next iteration of Skeleton.
+https://github.com/skeletonlabs/repl # Preconfigured starter projects for use with Stackblitz and SvelteLab
+https://github.com/skeletonlabs/astro-svelte-repro # A barebones Astro project that reproduces a Svelte 5 render issue.
+https://github.com/skeletonlabs/react-form-components # Demonstrates how to handle form element state management within React components.

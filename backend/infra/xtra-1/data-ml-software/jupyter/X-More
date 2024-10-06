@@ -1,0 +1,208 @@
+Carpentries
+https://github.com/carpentries-incubator/jupyter_maps # Interactive Maps in the Jupyter Notebook
+https://github.com/carpentries-incubator/jupyter-notebooks-intro # Introduction to Jupyter notebooks
+
+https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists # Introduction to Conda for (Data) Scientists
+
+Colaboratory
+https://github.com/googlecloudplatform/vertex-ai-samples # Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI.
+https://github.com/googlecloudplatform/generative-ai # Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+https://github.com/googlecloudplatform/data-beans #
+https://github.com/googlecloudplatform/dfcx-scrapi # A high level scripting API for bot builders, developers, and maintainers.
+https://github.com/googlecloudplatform/edu-resources # Curated List of GCP educational resources http://goo.gle/google-cloud-edu
+https://github.com/googlecloudplatform/cloudsql-jump-start-solution-for-genai # A jump start solution using GKE or Cloud Run with Cloud SQL and VertexAI
+https://github.com/googlecloudplatform/terraform-genai-knowledge-base # Fine tune an LLM model to answer questions from your documents.
+https://github.com/googlecloudplatform/cxlint # Automated Quality Control for Dialogflow CX Agents
+https://github.com/googlecloudplatform/terraform-google-analytics-lakehouse # Deploys a Lakehouse Architecture Solution
+https://github.com/googlecloudplatform/sensitive-data-protection-for-vertex-ai-palm2 # Sample notebook for Sensitive Data Protection of Generative AI on Google Cloud
+https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/dataflux-pytorch # The Dataflux Accelerated Dataloader for PyTorch with GCS is an effort to improve ML-training efficiency when using data stored in GCS for training datasets. Using the Dataflux Accelerated Dataloader for training is up to 3X faster when the dataset consists of many small files (e.g., 100 - 500 KB).
+https://github.com/googlecloudplatform/solutionbuilder-terraform-genai-doc-summarization #
+
+https://github.com/google-deepmind/gemma # Open weights LLM from Google DeepMind.
+https://github.com/google-deepmind/open_spiel # OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+https://github.com/google-deepmind/materials_discovery #
+https://github.com/google-deepmind/educational #
+https://github.com/google-deepmind/mathematics_conjectures #
+https://github.com/google-deepmind/neural-processes # This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
+https://github.com/google-deepmind/alphatensor #
+https://github.com/google-deepmind/dramatron # Dramatron uses large language models to generate coherent scripts and screenplays.
+https://github.com/google-deepmind/uncertain_ground_truth # Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation.
+https://github.com/google-deepmind/recurrentgemma # Open weights language model from Google DeepMind, based on Griffin.
+https://github.com/google-deepmind/graphcast #
+https://github.com/google-deepmind/open_x_embodiment #
+https://github.com/google-deepmind/mc_gradients #
+https://github.com/google-deepmind/arnheim #
+https://github.com/google-deepmind/penzai # A JAX research toolkit for building, editing, and visualizing neural networks.
+https://github.com/google-deepmind/tapnet # Tracking Any Point (TAP)
+https://github.com/google-deepmind/jraph # A Graph Neural Network Library in Jax
+https://github.com/google-deepmind/enn #
+https://github.com/google-deepmind/mujoco # Multi-Joint dynamics with Contact. A general purpose physics simulator.
+https://github.com/google-deepmind/funsearch #
+https://github.com/google-deepmind/bsuite # bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+https://github.com/google-deepmind/mishax #
+https://github.com/google-deepmind/neural_testbed #
+https://github.com/google-deepmind/functa #
+https://github.com/google-deepmind/alphafold # Open source code for AlphaFold.
+https://github.com/google-deepmind/multimodal_transformers #
+https://github.com/google-deepmind/ithaca # Restoring and attributing ancient texts using deep neural networks
+https://github.com/google-deepmind/treescope # An interactive HTML pretty-printer for machine learning research in IPython notebooks.
+https://github.com/google-deepmind/sonnet # TensorFlow-based neural network library
+https://github.com/google-deepmind/asyncdiloco #
+https://github.com/google-deepmind/pgmax # Loopy belief propagation for factor graphs on discrete variables in JAX
+https://github.com/google-deepmind/xmanager # A platform for managing machine learning experiments
+https://github.com/google-deepmind/enn_acme #
+https://github.com/google-deepmind/envlogger # A tool for recording RL trajectories.
+https://github.com/google-deepmind/ferminet # An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+https://github.com/google-deepmind/inverse_design #
+https://github.com/google-deepmind/active_ops #
+https://github.com/google-deepmind/onetwo #
+https://github.com/google-deepmind/detcon #
+https://github.com/google-deepmind/offpolicy_selection_eslb #
+https://github.com/google-deepmind/eddict #
+https://github.com/google-deepmind/hierarchical_perceiver #
+https://github.com/google-deepmind/pbde #
+https://github.com/google-deepmind/spatial_memory_pipeline #
+https://github.com/google-deepmind/svo_probes # The SVO-Probes Dataset for Verb Understanding
+https://github.com/google-deepmind/omninocs # A large-scale NOCS dataset.
+https://github.com/google-deepmind/robovqa #
+https://github.com/google-deepmind/visual-memory # Code & data for "Towards flexible perception with visual memory"
+https://github.com/google-deepmind/spurious_normativity #
+https://github.com/google-deepmind/hai_selective_prediction #
+https://github.com/google-deepmind/gnn_single_rigids #
+https://github.com/google-deepmind/abcei_mab #
+https://github.com/google-deepmind/emotions_courtship #
+https://github.com/google-deepmind/statistical_discrimination #
+https://github.com/google-deepmind/dm_hamiltonian_dynamics_suite #
+https://github.com/google-deepmind/augmentations_medical_images #
+https://github.com/google-deepmind/discretisation_drift #
+https://github.com/google-deepmind/ovr #
+https://github.com/google-deepmind/linac #
+https://github.com/google-deepmind/csil # Coherent Soft Imitation Learning
+
+https://github.com/google/gemma_pytorch # The official PyTorch implementation of Google's Gemma models
+
+https://github.com/googlecolab/colabtools # Python libraries for Google Colaboratory
+https://github.com/googlecolab/open_in_colab #
+https://github.com/googlecolab/colab-cdn-widget-manager #
+https://github.com/googlecolab/backend-info #
+https://github.com/googlecolab/colab-widgets #
+https://github.com/googlecolab/tswidgets #
+
+Datalayer
+https://github.com/datalayer/jupyter-ui # ⚛️ React.js components 💯% compatible with 🪐 Jupyter - Storybook on https://jupyter-ui-storybook.datalayer.tech
+
+https://github.com/datalayer/examples # Ξ Examples for Datalayer.
+
+https://github.com/datalayer/jupyter-server-nbmodel # Jupyter Server NbModel
+https://github.com/datalayer/jupyter-viewer # 🪐 👀 Serverless Jupyer Notebook viewer aka NbViewer in pure React.js.
+https://github.com/datalayer/jupyter-manager # 🪐 🎛️ User interface to manage your Jupyter platform.
+https://github.com/datalayer/jupyter-dashboard # 🪐 🏄 Jupyter Dashboard WYSIWYG.
+https://github.com/datalayer/core # Ξ Datalayer core.
+
+Executable Books
+https://github.com/executablebooks/myst-parser # An extended commonmark compliant parser, with bridges to docutils/sphinx
+
+https://github.com/executablebooks/quantecon-mini-example # A short example showing how to write a lecture series using Jupyter Book 2.0.
+https://github.com/executablebooks/quantecon-example # A demonstration of Jupyter Book functionality using QuantEcon Python programming source material.
+https://github.com/executablebooks/jupyterlab-myst-quickstart # Quickstart examples for working with MyST in Jupyter
+https://github.com/executablebooks/multi-book-demo #
+https://github.com/executablebooks/jupyter-book-myst #
+
+https://github.com/executablebooks/markdown-it-py # Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
+https://github.com/executablebooks/sphinx-book-theme # A clean book theme for scientific explanations and documentation with Sphinx
+https://github.com/executablebooks/myst-vs-code # A syntax highlighter for the MyST Markdown format
+
+Jupyter
+https://github.com/jupyter/jupyter # Jupyter metapackage for installation, docs and chat
+
+https://github.com/jupyter/notebook # Jupyter Interactive Notebook
+https://github.com/jupyter/nbviewer # nbconvert as a web service: Render Jupyter Notebooks as static web pages
+https://github.com/jupyter/nbconvert # Jupyter Notebook Conversion
+https://github.com/jupyter/nbconvert-examples # Examples that illustrate how nbconvert can be used
+https://github.com/jupyter/kernel_gateway_demos # Demos associated with the kernel gateway incubator project
+https://github.com/jupyter/nbclient # A client library for executing notebooks. Formally nbconvert's ExecutePreprocessor
+https://github.com/jupyter/enhancement-proposals # Enhancement proposals for the Jupyter Ecosystem
+https://github.com/jupyter/roadmap # Master roadmap for Project Jupyter
+https://github.com/jupyter/scipy-advanced-tutorial # Advance Tutorial For SciPy
+https://github.com/jupyter/nbmanager # View and stop running IPython notebook servers
+https://github.com/jupyter/ngcm-tutorial # Materials for the IPython/Jupyter workshop at the NGCM Summer Academy, at Southampton University, Boldrewood campus.
+https://github.com/jupyter/echo_kernel # A simple example kernel for Jupyter
+https://github.com/jupyter/strata-sv-2015-tutorial # Strata Silicon Valley 2015 Tutorial
+https://github.com/jupyter/mozfest15-training # Notebooks for Jupyter training session at Mozfest 2015
+https://github.com/jupyter/nature-demo # Materials for the November 2014 Nature Article
+https://github.com/jupyter/jupyter_markdown # Documentation and tests related to Jupyter's Markdown syntax
+https://github.com/jupyter/lbnl-jupyterday # Materials for the Jupyter workshop at LBNL, 17 July 2015
+https://github.com/jupyter/scipy-2015-advanced-topics # Advanced topics in Jupyter tutorial for SciPy 2015.
+https://github.com/jupyter/markdown # Specify the Jupyter Markdown flavor.
+https://github.com/jupyter/.github #
+
+https://github.com/jupyterlab/jupyterlab # JupyterLab computational environment.
+https://github.com/jupyterlab/jupyterlab-desktop # JupyterLab desktop application, based on Electron.
+https://github.com/jupyterlab/jupyter-ai # A generative AI extension for JupyterLab
+https://github.com/jupyterlab/jupyter-renderers # Renderers and renderer extensions for JupyterLab
+https://github.com/jupyterlab/extension-examples # JupyterLab Extensions by Example
+https://github.com/jupyterlab/jupyterlab-github # GitHub integration for JupyterLab
+https://github.com/jupyterlab/jupyterlab-demo # Demonstrations of JupyterLab
+https://github.com/jupyterlab/extension-cookiecutter-ts # A cookiecutter recipe for JupyterLab extensions in Typescript
+https://github.com/jupyterlab/jupyter-collaboration # A Jupyter Server Extension Providing Support for Y Documents
+https://github.com/jupyterlab/jupyterlab_server # A set of server components for JupyterLab and JupyterLab like applications
+https://github.com/jupyterlab/jupyterlab-hdf5 # Open and explore HDF5 files in JupyterLab. Can handle very large (TB) sized files, and datasets of any dimensionality
+https://github.com/jupyterlab/scipy2018-jupyterlab-tutorial # Tutorial material and instruction for scipy 2018 jupyterlab tutorial
+https://github.com/jupyterlab/frontends-team-compass # A repository for team interaction, syncing, and handling meeting notes across the JupyterLab ecosystem.
+https://github.com/jupyterlab/extension-cookiecutter-js # A cookiecutter recipe for building JupyterLab extensions.
+https://github.com/jupyterlab/extension-template # A `copier` template for JupyterLab extensions
+https://github.com/jupyterlab/scipy2019-jupyterlab-tutorial # Scipy 2019 JupyterLab tutorial
+https://github.com/jupyterlab/jupyterlab-plugin-playground # A dynamic extension loader for JupyterLab
+https://github.com/jupyterlab/hatch-jupyter-builder # A hatch plugin to help build Jupyter packages
+https://github.com/jupyterlab/jupyterlab_apod # JupyterLab extension tutorial answer key. Please see the tutorial at https://jupyterlab.readthedocs.io/en/stable/extension/extension_tutorial.html
+https://github.com/jupyterlab/jupytercon-jupyterlab-tutorial # JupyterCon 2018 JupyterLab tutorial
+https://github.com/jupyterlab/jupyter-chat # An extension to add a chat panel to JupyterLab
+https://github.com/jupyterlab/ui-profiler # Extension for profiling performance of JupyterLab UI for JupyterLab core developers, extension developers, and advanced users.
+https://github.com/jupyterlab/benchmarks # Benchmarking tools for JupyterLab
+https://github.com/jupyterlab/maintainer-tools # Workflows and Actions meant to be used by other repositories to make repo maintenance easier
+https://github.com/jupyterlab/vscode-config-template # A copier template for creating the IDE config needed to debug the Python and Typescript code in any Jupyter project
+https://github.com/jupyterlab/jupytercon-jupyterlab-training # JupyterCon 2018 JupyterLab Training
+https://github.com/jupyterlab/language-pack-cookiecutter # Template for Jupyterlab Language packs
+https://github.com/jupyterlab/jupyterlab-probot # A probot for JupyterLab development
+https://github.com/jupyterlab/jupyter-builder # Build tools for JupyterLab (and remixes)
+https://github.com/jupyterlab/assets # Static assets for JupyterLab extensions
+
+https://github.com/jupyterhub/jupyterhub # Multi-user server for Jupyter notebooks
+https://github.com/jupyterhub/binderhub # Run your code in the cloud, with technology so advanced, it feels like magic!
+https://github.com/jupyterhub/repo2docker # Turn repositories into Jupyter-enabled Docker images
+https://github.com/jupyterhub/the-littlest-jupyterhub # Simple JupyterHub distribution for 1-100 users on a single server
+https://github.com/jupyterhub/jupyterhub-deploy-docker # Reference deployment of JupyterHub with docker
+https://github.com/jupyterhub/dockerspawner # Spawns JupyterHub single user servers in Docker containers
+https://github.com/jupyterhub/oauthenticator # OAuth + JupyterHub Authenticator = OAuthenticator
+https://github.com/jupyterhub/jupyter-server-proxy # Jupyter notebook server extension to proxy web services.
+https://github.com/jupyterhub/ldapauthenticator # LDAP Authenticator Plugin for Jupyter
+https://github.com/jupyterhub/jupyterhub-tutorial # Tutorial materials for deploying JupyterHub
+https://github.com/jupyterhub/mybinder.org-user-guide # Turn a Git repo into a collection of interactive notebooks. This is Binder's user documentation repository.
+https://github.com/jupyterhub/repo2docker-action # A GitHub action to build data science environment images with repo2docker and push them to registries.
+https://github.com/jupyterhub/traefik-proxy # JupyterHub proxy implementation with traefik
+https://github.com/jupyterhub/grafana-dashboards # Grafana Dashboards useful for k8s + JupyterHub
+https://github.com/jupyterhub/jupyterhub-example-kerberos # Example for experimenting with how JupyterHub can be configured to work with Kerberos
+https://github.com/jupyterhub/simpervisor # Simple Python3 Supervisor library
+https://github.com/jupyterhub/kerberosauthenticator # A JupyterHub authenticator using Kerberos
+https://github.com/jupyterhub/nullauthenticator # Null Authenticator for JupyterHub instances that should have no login mechanism
+https://github.com/jupyterhub/action-k8s-await-workloads # A Github Action to await k8s workloads to become Ready
+
+Jupyter 4 Edu
+https://github.com/jupyter4edu/jupyter-edu-book # Teaching and Learning with Jupyter
+https://github.com/jupyter4edu/ideas # A repo to hold ideas about education curriculum, resources, and pedagogy
+
+JupyterCon
+https://github.com/jupytercon/2020-jupyterbook-with-turing-way # 2020-tutorial created by GitHub Classroom
+
+Jupyter Guide
+https://github.com/jupyter-guide/ten-rules-jupyter # Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks
+https://github.com/jupyter-guide/jupyter-guide # Guide for Reproducible Research and Data Science in Jupyter Notebooks
+
+Learn Python with Jupyter
+https://github.com/learnpythonwithjupyter/notebooks # Notebooks associated to the book "Learn Python with Jupyter"
+https://github.com/learnpythonwithjupyter/learnpythonwithjupyter.github.io # Website of the book "Learn Python with Jupyter"
+
+Pretzel AI
+https://github.com/pretzelai/pretzelai # The modern replacement for Jupyter Notebooks
+https://github.com/pretzelai/pretzelai-server-ext # The server extension for Pretzel AI

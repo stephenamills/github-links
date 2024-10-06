@@ -1,0 +1,12 @@
+https://github.com/nsqio/nsq # A realtime distributed messaging platform
+
+https://github.com/nsqio/go-nsq # The official Go package for NSQ
+https://github.com/nsqio/go-diskqueue # A Go package providing a filesystem-backed FIFO queue
+https://github.com/nsqio/pynsq # The official Python client library for NSQ
+https://github.com/nsqio/libnsq # async C client library for NSQ
+https://github.com/nsqio/nsq-java # official Java client library for NSQ
+https://github.com/nsqio/trendrrnsqclient # Fast Java client for NSQ
+https://github.com/nsqio/helm-chart # Official NSQ Helm chart for Kubernetes
+https://github.com/nsqio/rust-nsq # official rust crate for NSQ
+https://github.com/nsqio/nsqio.github.io # NSQ documentation
+https://github.com/nsqio/nsqadmin_to_slack # NSQ consumer to relay nsqadmin actions to slack in realtime

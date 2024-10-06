@@ -1,0 +1,23 @@
+https://github.com/vespa-cloud/cord-19-search # Vespa application making an index of the CORD-19 dataset.
+https://github.com/vespa-cloud/vespa-documentation-search # Application configuration and scripts for search on https://docs.vespa.ai/
+https://github.com/vespa-cloud/vector-search # Vector Search Sample Application for Vespa Cloud, with feed and query examples
+https://github.com/vespa-cloud/terraform-aws-enclave # Terraform modules for Vespa Cloud Enclave (AWS)
+https://github.com/vespa-cloud/terraform-google-enclave # Terraform modules for Vespa Cloud Enclave (GCP)
+https://github.com/vespa-cloud/examples # Repository of example applications that can be deployed to Vespa Cloud
+
+https://github.com/vespa-engine/vespa # AI + Data, online. https://vespa.ai
+
+https://github.com/vespa-engine/sample-apps # Repository of sample applications for https://vespa.ai, the open big data serving engine
+
+https://github.com/vespa-engine/pyvespa # Python API for https://vespa.ai, the open big data serving engine
+https://github.com/vespa-engine/cord-19 # Search COVID-19 Open Research Dataset (CORD-19) using Vespa - the open source big data serving engine.
+https://github.com/vespa-engine/docker-image # Public docker image for Vespa
+https://github.com/vespa-engine/docker-image-dev # Docker image for building Vespa on CI platforms
+https://github.com/vespa-engine/vespa-search #
+https://github.com/vespa-engine/system-test # Vespa system tests
+https://github.com/vespa-engine/vespa_exporter # Vespa metrics exporter for Prometheus
+https://github.com/vespa-engine/vespa-ann-benchmark # Python binding for the Vespa implementation of an HNSW index for nearest neighbour search used for low-level benchmarking.
+https://github.com/vespa-engine/vespa-3rdparty-deps # Vespa 3rd-party dependencies
+https://github.com/vespa-engine/setup-vespa-cli-action #
+https://github.com/vespa-engine/logstash-plugins # Logstash plugins for ingesting data into Vespa
+https://github.com/vespa-engine/docker-image-pipeline # Docker image for use in pipelines

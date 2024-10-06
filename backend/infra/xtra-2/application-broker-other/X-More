@@ -1,0 +1,49 @@
+Watermill
+https://github.com/threedotslabs/watermill # Building event-driven applications the easy way in Go.
+
+https://github.com/threedotslabs/event-driven-example # An example Event-Driven application in Go built with Watermill library.
+
+https://github.com/threedotslabs/watermill-kafka # Kafka Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-amqp # AMQP Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-sql # SQL (Postgres/MySQL) Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-nats # NATS Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-googlecloud # Google Cloud Pub/Sub Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-redisstream # Redis Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-amazonsqs # Amazon SQS/SNS Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-http # HTTP Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-benchmark # Benchmarking tools for Watermill.
+https://github.com/threedotslabs/watermill-jetstream #
+https://github.com/threedotslabs/watermill-io # IO Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/nats-example # An example Go project for running local development environment, with hot code reloading.
+https://github.com/threedotslabs/watermill-bolt # Bolt Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-firestore # Firestore Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-terraform # Terraform definitions for Watermill-related repositories and infrastructure.
+
+
+https://github.com/threedotslabs/wild-workouts-go-ddd-example # Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
+https://github.com/threedotslabs/go-web-app-antipatterns # Short examples of common anti-patterns in Go Web Applications.
+https://github.com/threedotslabs/monolith-microservice-shop # Source code for https://threedots.tech/post/microservices-or-monolith-its-detail/ article.
+https://github.com/threedotslabs/event-driven-example # An example Event-Driven application in Go built with Watermill library.
+https://github.com/threedotslabs/nats-example # An example Go project for running local development environment, with hot code reloading.
+https://github.com/threedotslabs/watermill-sql # SQL (Postgres/MySQL) Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-kafka # Kafka Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-amqp # AMQP Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-nats # NATS Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/meteors # An example 2D game made with Go and Ebitengine.
+https://github.com/threedotslabs/watermill-redisstream # Redis Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-http # HTTP Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/go-event-driven # Materials for https://threedots.tech/event-driven/
+https://github.com/threedotslabs/esja # Event Sourcing library in Go.
+https://github.com/threedotslabs/watermill-benchmark # Benchmarking tools for Watermill.
+https://github.com/threedotslabs/watermill-googlecloud # Google Cloud Pub/Sub Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-amazonsqs # Amazon SQS/SNS Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/cli #
+https://github.com/threedotslabs/watermill-jetstream #
+https://github.com/threedotslabs/watermill-io # IO Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/watermill-bolt # Bolt Pub/Sub for the Watermill project.
+https://github.com/threedotslabs/pii #
+https://github.com/threedotslabs/github-releases-dashboard # A simple dashboard to keep track of GitHub releases.
+https://github.com/threedotslabs/wait-for # A simple "wait for port" utility.
+https://github.com/threedotslabs/watermill-terraform # Terraform definitions for Watermill-related repositories and infrastructure.
+https://github.com/threedotslabs/github-actions-terraform # Example repository last updated 2024-08-30T08:26:02Z
+https://github.com/threedotslabs/watermill-firestore # Firestore Pub/Sub for the Watermill project.

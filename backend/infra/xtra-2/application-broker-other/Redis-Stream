@@ -1,0 +1,88 @@
+https://github.com/redislabs-solution-architects/redis-streams-ws # Redis Streams with Websockets
+https://github.com/redislabs-solution-architects/demo-streams-redistimeseries-grafana #
+https://github.com/redislabs-solution-architects/stream-demo # Demo of Redis streams using Spring Data Redis
+https://github.com/redislabs-solution-architects/adgears # Example of how to maximize Ad Revenue using Gears/Streams/Bloom Filters
+https://github.com/redislabs-solution-architects/stream-slam # Slam a bunch of messages through redis streams
+https://github.com/redislabs-solution-architects/aws-microservices-workshop-hugo
+https://github.com/redislabs-solution-architects/handsonlab-spring
+https://github.com/redislabs-solution-architects/aws-microservices-workshop-images
+https://github.com/redislabs-solution-architects/ecstats2
+https://github.com/redislabs-solution-architects/redis-spring-data-handsonlab
+https://github.com/redislabs-solution-architects/redis-aws-game-dev-day-workshop
+https://github.com/redislabs-solution-architects/micro-redis
+https://github.com/redislabs-solution-architects/rediscogs
+https://github.com/redislabs-solution-architects/securities_portfolio_data_model
+https://github.com/redislabs-solution-architects/redisbank-microservices
+https://github.com/redislabs-solution-architects/redisdi-docker
+https://github.com/redislabs-solution-architects/mappingworkshop
+https://github.com/redislabs-solution-architects/ecstats
+https://github.com/redislabs-solution-architects/aws-fraud-detection
+https://github.com/redislabs-solution-architects/redisbank
+https://github.com/redislabs-solution-architects/re-rdi-k8s
+https://github.com/redislabs-solution-architects/appointment-directory
+https://github.com/redislabs-solution-architects/rdi-arcion-k8s
+https://github.com/redislabs-solution-architects/hands-on-labs-redis-aws-sagemaker
+
+https://github.com/redis-field-engineering/redis-connect-dist # Real-Time Event Streaming & Change Data Capture
+https://github.com/redis-field-engineering/redis-streams-to-ws # Serve Redis streams as a Web socket endpoint
+https://github.com/redis-field-engineering/redis-connect-geode-demo # Live Stream trading data to geode
+https://github.com/redis-field-engineering/demo-microservices-saga # Demo for showing microservices communicating through a Redis Streams messaging bus. It can randomly inject failures that will be cleaned up and retried.
+https://github.com/redis-field-engineering/redis-kafka-connect
+https://github.com/redis-field-engineering/demo-microservices-fraud
+https://github.com/redis-field-engineering/redis-enterprise-observability
+https://github.com/redis-field-engineering/redis-connect-api-docs
+
+https://github.com/redislabs-training/ru202 # RU202 Redis Streams Course
+https://github.com/redislabs-training/ru102n
+https://github.com/redislabs-training/ru102py
+https://github.com/redislabs-training/node-js-crash-course
+https://github.com/redislabs-training/hitc-new-in-redis-62
+https://github.com/redislabs-training/ru102js
+https://github.com/redislabs-training/ioredis-demos
+https://github.com/redislabs-training/ru330
+https://github.com/redislabs-training/ru204
+https://github.com/redislabs-training/ru402
+https://github.com/redislabs-training/generics
+https://github.com/redislabs-training/exercises-scaling-redis
+https://github.com/redislabs-training/keybase
+https://github.com/redislabs-training/redis-sitesearch
+https://github.com/redislabs-training/ru102j
+
+https://github.com/redis-developer/redis-microservices-demo # Microservice application with various Redis use-cases with RediSearch, RedisGraph and Streams. The data is synchronized between MySQL and Redis using Debezium
+https://github.com/redis-developer/redis-streams-hotel-jobs # Redis Streams example with Python and Node.js
+https://github.com/redis-developer/redis-streams-with-dotnet # Example applications use Redis Streams with various .NET libraries
+https://github.com/redis-developer/redis-aqi-monitor # A demonstration of Redis Stack Streams, Timeseries, JSON, and Search using a Raspberry Pico W and PMS5003 sensor
+https://github.com/redis-developer/redis-developer.github.io
+https://github.com/redis-developer/beats-by-redis
+https://github.com/redis-developer/redis-microservices-ecommerce-solutions
+https://github.com/redis-developer/redis-client-cheat-sheets
+https://github.com/redis-developer/introducing-redis-talk
+https://github.com/redis-developer/redis-om-spring-skeleton-app
+https://github.com/redis-developer/video-qa-semantic-vector-caching
+https://github.com/redis-developer/redis-nvidia-recsys
+https://github.com/redis-developer/redis-developer-old
+https://github.com/redis-developer/redis-kaboom-rpg
+https://github.com/redis-developer/dot-net-redis-intro
+https://github.com/redis-developer/nredi2read-preview
+https://github.com/redis-developer/micropython-redis-boilerplate
+https://github.com/redis-developer/basic-redis-chat-app-demo-java
+https://github.com/redis-developer/sql-cache-invalidation-debezium
+https://github.com/redis-developer/fixed-window-rate-limiter
+https://github.com/redis-developer/redis-datasets
+https://github.com/redis-developer/explore-redis-modules-with-jedis
+https://github.com/redis-developer/product-catalog-redis-om-dotnet
+https://github.com/redis-developer/redis-om-spring-kotlin-skeleton-app
+https://github.com/redis-developer/redi2read
+https://github.com/redis-developer/redis-chat-challenge
+https://github.com/redis-developer/doc-crawler
+https://github.com/redis-developer/hitc-dotnet-redisearch-demo
+https://github.com/redis-developer/redi2read-data
+https://github.com/redis-developer/palmsight
+https://github.com/redis-developer/finding-bigfoot-with-semantic-search
+https://github.com/redis-developer/the-redis-marketplace-app-backend
+https://github.com/redis-developer/haunted-places-data-service
+https://github.com/redis-developer/redis-nodejs-starter
+https://github.com/redis-developer/redis-utilities
+https://github.com/redis-developer/recording-meta
+https://github.com/redis-developer/nextjs-redis-netlify
+https://github.com/redis-developer/session-store-nextjs

@@ -1,0 +1,56 @@
+https://github.com/redpanda-data/redpanda # Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
+
+https://github.com/redpanda-data/redpanda-connect-plugin-example # Benthos plugin examples
+https://github.com/redpanda-data/redpanda-examples # A collection of examples to demonstrate how to interact with Redpanda from various clients and languages.
+https://github.com/redpanda-data/flink-kafka-examples # A repo of Java examples using Apache Flink with flink-connector-kafka
+https://github.com/redpanda-data/2023-stream-processing-apache-flink-redpanda # Repository containing all the code you need to build a simple streaming ETL pipeline from scratch.
+https://github.com/redpanda-data/2023-build-time-series-data-stream-timescale-db # This is the GitHub repo for the Redpanda tutorial on building a time series data stream using TimescaleDB
+https://github.com/redpanda-data/kubecon-na-2023 # Different Redpanda in Kubernetes Deployment Examples
+https://github.com/redpanda-data/2023-unify-log-data-parseable #
+https://github.com/redpanda-data/implement-messaging-integration-patterns-apache-camel # Blog post "Implementing Messaging Integration Patterns with Apache Camel and Redpanda".
+https://github.com/redpanda-data/demos # Demo Environments
+https://github.com/redpanda-data/how-to-connect-code-snippets #
+https://github.com/redpanda-data/kubernetes-native-connectivity-triggermesh # Use TriggerMesh to stream data from a Redpanda topic into an AWS S3 bucket. Blog post "Kubernetes-native connectivity for Redpanda with TriggerMesh".
+
+https://github.com/redpanda-data/connect # Fancy stream processing made operationally mundane
+https://github.com/redpanda-data/console # Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Gain visibility into your topics, masking data, manage consumer groups, and explore real-time data with time-travel debugging.
+https://github.com/redpanda-data/awesome-distributed-transactions # Awesome list of distributed transactions
+https://github.com/redpanda-data/kminion # KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go.
+https://github.com/redpanda-data/benthos #
+https://github.com/redpanda-data/helm-charts # Redpanda Helm Chart
+https://github.com/redpanda-data/deployment-automation # Cluster configuration best practices
+https://github.com/redpanda-data/redpanda-operator #
+https://github.com/redpanda-data/openmessaging-benchmark #
+https://github.com/redpanda-data/observability #
+https://github.com/redpanda-data/redpanda-connect-helm-chart # Helm 3 repository for benthosdev/benthos
+https://github.com/redpanda-data/seastar-starter # Seastar boilerplate project with cmake
+https://github.com/redpanda-data/redpanda-edge-agent # Lightweight internet of things agent that forwards events from the edge
+https://github.com/redpanda-data/redpanda-labs # The home for Redpanda Labs projects.
+https://github.com/redpanda-data/redpanda-ansible-collection #
+https://github.com/redpanda-data/chaos #
+https://github.com/redpanda-data/terraform-provider-redpanda #
+https://github.com/redpanda-data/docs-extensions-and-macros # Extensions and macros developed for Redpanda documentation.
+https://github.com/redpanda-data/client-swarm # Test utility for running large numbers of concurrent client sessions
+https://github.com/redpanda-data/github-action #
+https://github.com/redpanda-data/rp-connect-docs # Documentation for Redpanda Connect
+https://github.com/redpanda-data/kgo-verifier # Test utility based on franz-go, for consistency checking of Redpanda reads vs. writes
+https://github.com/redpanda-data/alien_thread # Tools for interoperating with native threads from Seastar
+https://github.com/redpanda-data/docs # Open source content for the Redpanda documentation
+https://github.com/redpanda-data/common-go #
+https://github.com/redpanda-data/terraform-aws-redpanda-cluster #
+https://github.com/redpanda-data/docs-ui # UI project for the Redpanda documentation site.
+https://github.com/redpanda-data/homebrew-tap # Redpanda Homebrew Tap
+https://github.com/redpanda-data/cloud-docs # Redpanda Cloud documentation
+https://github.com/redpanda-data/databalancer #
+https://github.com/redpanda-data/gcp-psc #
+https://github.com/redpanda-data/developer-diaries # Curated notes designed to simplify complex concepts and system designs through visual diagrams and concise summaries of data engineering and analytics.
+https://github.com/redpanda-data/aws-redpanda-genai-workshop # Redpanda AWS GenAI Serverless Workshop
+https://github.com/redpanda-data/cloud-examples #
+https://github.com/redpanda-data/delete-records-test #
+https://github.com/redpanda-data/redpanda-addr2line #
+https://github.com/redpanda-data/terraform-gcp-redpanda-cluster #
+https://github.com/redpanda-data/docs-site # The Antora playbook project, contributing documentation, home page, search page, and API pages for the Redpanda docs site.
+https://github.com/redpanda-data/kafka-fsync #
+https://github.com/redpanda-data/valgrind-headers # a copy of the BSD licensed vagrant headers
+https://github.com/redpanda-data/community-program # For all community events, programs and more.
+https://github.com/redpanda-data/schema-migration # Tools for handling Schema Migration to Redpanda
