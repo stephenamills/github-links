@@ -1,0 +1,7 @@
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform
+on GCP. https://github.com/googlecloudplatform/gke-managed-certs # Managed Certificates for Kubernetes clusters using GCLB
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/apigee-samples # A repo for Apigee X/hybrid samples
+https://github.com/googlecloudplatform/terraform-google-anthos-vm # Creates VMs on Anthos Bare Metal clusters
+https://github.com/googlecloudplatform/gke-vault-demo # This demo builds two GKE Clusters and guides you through using secrets in V
+ault, using Kubernetes authentication from within a pod to login to Vault, and fetching short-lived Google Service Account credentials on-demand from Vault within a pod. https://github.com/googlecloudplatform/recaptcha-pld #

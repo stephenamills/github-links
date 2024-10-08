@@ -1,0 +1,12 @@
+https://github.com/googlecloudplatform/eventarc-samples # This repository contains a collection of samples for Eventarc for various
+use cases. https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
+https://github.com/googlecloudplatform/serverless-photosharing-workshop # This is the code for the Pic-a-daily, an application to u
+pload, analyse and share pictures using Google Cloud serverless solutions, namely Cloud Functions, App Engine, and Cloud Run https://github.com/googlecloudplatform/docker-clamav-malware-scanner #
+https://github.com/googlecloudplatform/terraform-google-cloud-functions # Deploys Cloud Functions (Gen 2)
+https://github.com/googlecloudplatform/terraform-dataanalytics-eventdriven # Uses click-to-deploy to demonstrate how to load data f
+rom Cloud Storage to BigQuery using an event-driven load function. https://github.com/googlecloudplatform/terraform-google-media-cdn-vod # Deploys Media CDN video-on-demand
+https://github.com/googlecloudplatform/customer-experience-modernization # This open-source project aims to compile best practices,
+guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products. https://github.com/googlecloudplatform/eventarc-web-feed # A serverless and extensible event-driven system for reacting to legacy w
+eb feed events https://github.com/googlecloudplatform/dlp-pdf-redaction # This solution provides an automated, serverless way to redact sensitive
+data from PDF files using Google Cloud Services like Data Loss Prevention (DLP), Cloud Workflows, and Cloud Run. https://github.com/googlecloudplatform/gke-2-scc # A lightweight integration to stream GKE Control Plane Audit Logs into Security C
+ommand Center https://github.com/googlecloudplatform/solutionbuilder-terraform-genai-doc-summarization #

@@ -1,0 +1,3 @@
+https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
+https://github.com/googlecloudplatform/node-red-contrib-google-cloud # Node-RED nodes for Google Cloud Platform
+https://github.com/googlecloudplatform/datacatalog-tag-engine # Tag Engine automates the process of creating, updating, deleting, and populating metadata in bulk with the Google Cloud services Data Catalog and Dataplex. Tag Engine is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.

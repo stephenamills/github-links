@@ -1,0 +1,151 @@
+https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
+https://github.com/googlecloudplatform/gcsfuse # A user-space file system for interacting with Google Cloud Storage
+https://github.com/googlecloudplatform/gsutil # A command line tool for interacting with cloud storage services.
+https://github.com/googlecloudplatform/berglas # A tool for managing secrets on Google Cloud
+https://github.com/googlecloudplatform/gcs-fuse-csi-driver # The Google Cloud Storage FUSE Container Storage Interface (CSI) Plugin
+. https://github.com/googlecloudplatform/spring-cloud-gcp # New home for Spring Cloud GCP development starting with version 2.0.
+https://github.com/googlecloudplatform/eventarc-samples # This repository contains a collection of samples for Eventarc for various
+use cases. https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
+https://github.com/googlecloudplatform/mlops-with-vertex-ai # An end-to-end example of MLOps on Google Cloud using TensorFlow, TFX,
+and Vertex AI https://github.com/googlecloudplatform/cpp-samples # C++ code samples for using Google Cloud Platform
+https://github.com/googlecloudplatform/k8s-config-connector # GCP Config Connector, a Kubernetes add-on for managing GCP resources
+https://github.com/googlecloudplatform/getting-started-dotnet # A tutorial for creating a complete application using .NET on Google
+Cloud Platform https://github.com/googlecloudplatform/gke-logging-sinks-demo # This project describes the steps required to deploy a sample applic
+ation to Kubernetes Engine that forwards log events to Stackdriver Logging. As a part of the exercise, you will create a Cloud Storage bucket and a BigQuery dataset for exporting log data. https://github.com/googlecloudplatform/kotlin-samples #
+https://github.com/googlecloudplatform/document-ai-samples # Sample applications and demos for Document AI, the end-to-end document
+processing platform on Google Cloud https://github.com/googlecloudplatform/compute-image-tools # Tools and scripts for Google Compute Engine images.
+https://github.com/googlecloudplatform/dlp-dataflow-deidentification # Multi Cloud Data Tokenization Solution By Using Dataflow and
+Cloud DLP https://github.com/googlecloudplatform/pontem # Open source tools for Google Cloud Storage and Databases.
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/elixir-samples # A collection of samples on using Elixir with Google Cloud Platform.
+https://github.com/googlecloudplatform/compute-archlinux-image-builder # A tool to build a Arch Linux Image for GCE
+https://github.com/googlecloudplatform/cloud-builders # Builder images and examples commonly used for Google Cloud Build
+https://github.com/googlecloudplatform/storage-sdrs # Data retention tool for Google Cloud Storage
+https://github.com/googlecloudplatform/vertex-pipelines-end-to-end-samples #
+https://github.com/googlecloudplatform/datashare-toolkit # DIY commercial datasets on Google Cloud Platform
+https://github.com/googlecloudplatform/gcr-cleaner # Delete untagged image refs in Google Container Registry or Artifact Registry
+https://github.com/googlecloudplatform/podcast # The Google Cloud Platform Podcast
+https://github.com/googlecloudplatform/gcp-token-broker #
+https://github.com/googlecloudplatform/serverless-store-demo # A web e-commerce demo app showcasing serverless capabilities of Goog
+le Cloud Platform. https://github.com/googlecloudplatform/developer-journey-app # Developer Journey App is a gaming sample app, built with Cloud Run,
+Cloud Storage, Cloud Firestore, and Cloud Build. https://github.com/googlecloudplatform/earth-ml # Use a TensorFlow model to do land cover classification using Earth Engine dataset
+s. https://github.com/googlecloudplatform/terraform-splunk-log-export # Deploy Google Cloud log export to Splunk using Terraform
+https://github.com/googlecloudplatform/dlp-cloud-functions-tutorials #
+https://github.com/googlecloudplatform/security-analytics # Community Security Analytics provides a set of community-driven audit &
+threat queries for Google Cloud https://github.com/googlecloudplatform/oracle-to-postgres #
+https://github.com/googlecloudplatform/gcs-oauth2-boto-plugin # Auth plugin allowing use the use of OAuth 2.0 credentials for Googl
+e Cloud Storage in the Boto library. https://github.com/googlecloudplatform/terraform-dynamic-python-webapp # Deploy a dynamic python webapp
+https://github.com/googlecloudplatform/auto-data-tokenize # Identify and tokenize sensitive data automatically using Cloud DLP and
+Dataflow https://github.com/googlecloudplatform/terraform-genai-doc-summarization # Summarizes document using OCR and Vertex Generative AI L
+LM https://github.com/googlecloudplatform/functions-framework-php # FaaS (Function as a service) framework for writing portable PHP fu
+nctions https://github.com/googlecloudplatform/dataflow-contact-center-speech-analysis # Speech Analysis Framework, a collection of compone
+nts and code from Google Cloud that you can use to transcribe audio files to create analytics. https://github.com/googlecloudplatform/data-migration-tool # DMT is an end to end automation of data warehouse migration, focused o
+n extraction, SQL translation, data migration, data validation, etc. The main goal is to reduce migration delivery time https://github.com/googlecloudplatform/terraform-google-log-analysis # Stores and analyzes log data
+https://github.com/googlecloudplatform/dataflow-opinion-analysis # Opinion Analysis of News, Threaded Conversations, and User Gener
+ated Content https://github.com/googlecloudplatform/terraform-google-three-tier-web-app # Deploys a three tier web application using Cloud Run a
+nd Cloud SQL https://github.com/googlecloudplatform/functions-framework-dotnet # FaaS (Function as a service) framework for writing portable .NE
+T functions https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatile, multi-purpose tool to handle Pub/Sub messages an
+d turn them into email, API calls, GCS objects, files or almost anything. https://github.com/googlecloudplatform/dynamodb-spanner-migration #
+https://github.com/googlecloudplatform/functions-framework-ruby # FaaS (Function as a service) framework for writing portable Ruby
+functions https://github.com/googlecloudplatform/terraform-google-cloud-functions # Deploys Cloud Functions (Gen 2)
+https://github.com/googlecloudplatform/docker-clamav-malware-scanner #
+https://github.com/googlecloudplatform/elixir-runtime # The community-supported runtime for Elixir on Google App Engine.
+https://github.com/googlecloudplatform/terraform-cloud-deployment-gke # Deploy a change to a live stateful service (Go on GKE)
+https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstra
+ting how to operationalize Google Research T5X framework on Google Cloud Vertex AI. https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/enterprise-knowledge-solution #
+https://github.com/googlecloudplatform/deploystack-serverless-e2e-photo-sharing-app # An scalable serverless end-to-end photo-shari
+ng application made from 11 Google Cloud components https://github.com/googlecloudplatform/dataflux-pytorch # The Dataflux Accelerated Dataloader for PyTorch with GCS is an effort to
+improve ML-training efficiency when using data stored in GCS for training datasets. Using the Dataflux Accelerated Dataloader for training is up to 3X faster when the dataset consists of many small files (e.g., 100 - 500 KB). https://github.com/googlecloudplatform/terraform-google-media-cdn-vod # Deploys Media CDN video-on-demand
+https://github.com/googlecloudplatform/practical-ml-vision-book #
+https://github.com/googlecloudplatform/terraform-genai-knowledge-base # Fine tune an LLM model to answer questions from your docume
+nts. https://github.com/googlecloudplatform/cloud-composer-mssql-dataflow-bigquery # This repository contains an example of how to lever
+age Cloud Composer and Cloud Dataflow to move data from a Microsoft SQL Server to BigQuery. The diagrams below demonstrate the workflow pipeline. https://github.com/googlecloudplatform/terraform-cloud-deployment-gce # Deploy a change to a live stateful service (Java on GCE)
+https://github.com/googlecloudplatform/recommender-iac-pipeline-nodejs-tutorial #
+https://github.com/googlecloudplatform/text-to-speech-epg-demo # This repository contains a reference implementation demonstrating
+how the Google Cloud Text-to-Speech Service can be used to easily implement text-to-speech functionality for Electronic Program Guides (EPG's). https://github.com/googlecloudplatform/deploystack-storage-event-function-app #
+https://github.com/googlecloudplatform/terraform-dataanalytics-eventdriven # Uses click-to-deploy to demonstrate how to load data f
+rom Cloud Storage to BigQuery using an event-driven load function. https://github.com/googlecloudplatform/terraform-google-analytics-lakehouse # Deploys a Lakehouse Architecture Solution
+https://github.com/googlecloudplatform/datacatalog-tag-engine # Tag Engine automates the process of creating, updating, deleting, a
+nd populating metadata in bulk with the Google Cloud services Data Catalog and Dataplex. Tag Engine is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.https://github.com/googlecloudplatform/deploystack-static-hosting-with-domain #
+https://github.com/googlecloudplatform/notebooks-blueprint-security # Opinionated setup for securely using AI Platform Notebooks.
+https://github.com/googlecloudplatform/fraudfinder # Fraudfinder: A comprehensive lab series on how to build a real-time fraud dete
+ction system on Google Cloud https://github.com/googlecloudplatform/solutions-gke-autoprovisioning #
+https://github.com/googlecloudplatform/terraform-cloud-client-api # Deploys an example application that uses Cloud Client APIs
+https://github.com/googlecloudplatform/mfg-ml-examples # Practical examples of machine learning use cases in manufacturing
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse # Deploys a secured BigQuery data warehouse
+https://github.com/googlecloudplatform/storage-regionalized-performance #
+https://github.com/googlecloudplatform/datalake-modernization-workshops #
+https://github.com/googlecloudplatform/cloud-hackathons #
+https://github.com/googlecloudplatform/abap-sdk-sample-archivelink-content-repository #
+https://github.com/googlecloudplatform/notebooks-extended-uis #
+https://github.com/googlecloudplatform/vertex-ai-creative-studio # Creative Studio is a Vertex AI generative media example user exp
+erience to highlight the use of Imagen and other generative media APIs on Google Cloud. https://github.com/googlecloudplatform/terraform-dynamic-javascript-webapp # Deploy a dynamic javascript webapp
+https://github.com/googlecloudplatform/deploystack-etl-pipeline #
+https://github.com/googlecloudplatform/llm-pipeline-examples #
+https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Accelerators for Serverless Spark on GCP, the industry'
+s first auto-scaling and serverless Spark as a service https://github.com/googlecloudplatform/migrate-webapp-heroku-to-cloudrun-node #
+https://github.com/googlecloudplatform/sensitive-data-protection-for-vertex-ai-palm2 # Sample notebook for Sensitive Data Protectio
+n of Generative AI on Google Cloud https://github.com/googlecloudplatform/ai-infra-cluster-provisioning #
+https://github.com/googlecloudplatform/terraform-google-dataplex-auto-data-quality # Move data between environments using Dataplex
+https://github.com/googlecloudplatform/dlp-pdf-redaction # This solution provides an automated, serverless way to redact sensitive
+data from PDF files using Google Cloud Services like Data Loss Prevention (DLP), Cloud Workflows, and Cloud Run. https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
+https://github.com/googlecloudplatform/terraform-google-cloud-workflows # Manage Workflows with optional Scheduler or Event Arc tri
+ggers https://github.com/googlecloudplatform/gcs-metadata-server #
+https://github.com/googlecloudplatform/terraform-google-secure-cicd # Builds a secure CI/CD pipeline on Google Cloud
+https://github.com/googlecloudplatform/dataflow-zoomify-image #
+https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Public Sector Landing Zone overlay on top of the TEF v
+ia CFT modules - a secure cloud foundation https://github.com/googlecloudplatform/gcs-postgresql-recovery-tutorial # Repository containing source code, docker, and management
+scripts to accompany Reference Guide https://github.com/googlecloudplatform/smart-expenses #
+https://github.com/googlecloudplatform/redis-dataflow-realtime-analytics # Build a real-time website analytics dashboard on GCP usi
+ng Dataflow, Cloud Memorystore (Redis) and Spring Boot https://github.com/googlecloudplatform/data-sage-genai #
+https://github.com/googlecloudplatform/dataproc-connect-visualization # Connecting your Visualization Software to Hadoop on Google
+Cloud https://github.com/googlecloudplatform/marketplace-vm-imagebuilder # A tool to automate the build process of VM images for Google C
+loud Platform (GCP). https://github.com/googlecloudplatform/dataflow-vision-analytics # Vision analytics solution using Dataflow and Vision AI
+https://github.com/googlecloudplatform/beyondcorp-applink #
+https://github.com/googlecloudplatform/tensorflow-lifetime-value # Predict customer lifetime value using AutoML Tables, or ML Engin
+e with a TensorFlow neural network and the Lifetimes Python library. https://github.com/googlecloudplatform/gke-vault-demo # This demo builds two GKE Clusters and guides you through using secrets in V
+ault, using Kubernetes authentication from within a pod to login to Vault, and fetching short-lived Google Service Account credentials on-demand from Vault within a pod. https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-onprem-ingest # Deploys a secured data warehouse var
+iant for ingesting encrypted data from on-prem sources https://github.com/googlecloudplatform/cymbal-superstore # 🍎 Sample app for AI-assisted development on Google Cloud.
+https://github.com/googlecloudplatform/migrating-openshift-to-anthos #
+https://github.com/googlecloudplatform/deploystack-cloudsql-multiregion #
+https://github.com/googlecloudplatform/identity-labs-google-cloud #
+https://github.com/googlecloudplatform/dataproc-scala-examples # Dataproc Scala Examples is an effort to assist in the creation of
+Spark jobs written in Scala to run on Dataproc. https://github.com/googlecloudplatform/solutionbuilder-terraform-genai-doc-summarization #
+https://github.com/googlecloudplatform/guest-agent #
+https://github.com/googlecloudplatform/gke-photoalbum-example # GKE Photo Album Example
+https://github.com/googlecloudplatform/continuous-deployment-on-kubernetes # Get up and running with Jenkins on Google Kubernetes E
+ngine https://github.com/googlecloudplatform/cloudnetworking-config-solutions # Cloud Networking config solution makes it easy for you to
+connect your on-premises network or VPC to Google-managed services.The solution simplifies complex network configurations and takes care of that for you, so you can focus on your business. Plus, it's designed to be scalable and reliable, so you can count on it to handle your growing needs. https://github.com/googlecloudplatform/customer-experience-modernization # This open-source project aims to compile best practices,
+guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products. https://github.com/googlecloudplatform/workload-manager # This repository contains Rego sample rules that you can use with Workload
+Manager to validate your workloads against recommended best practices. https://github.com/googlecloudplatform/terraform-google-network-forensics # Deploys Zeek on Google Cloud
+https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and c
+ompare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. https://github.com/googlecloudplatform/cloudrun-gpus-opencv-cuda-demo #
+https://github.com/googlecloudplatform/eventarc-web-feed # A serverless and extensible event-driven system for reacting to legacy w
+eb feed events https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline # This repository compiles prescriptive guidance and
+code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. https://github.com/googlecloudplatform/bigquery-record-manager #
+https://github.com/googlecloudplatform/composer-local-dev #
+https://github.com/googlecloudplatform/stac-m3-2022 #
+https://github.com/googlecloudplatform/deploystack-gcs-to-bq-with-least-privileges #
+https://github.com/googlecloudplatform/terraform-google-bigtable # Create and manage Google Bigtable resources
+https://github.com/googlecloudplatform/aicoe # This repository contains an end-to-end walkthrough to leverage Google Cloud services
+to demonstrate Solution Accelerators for few business domains https://github.com/googlecloudplatform/terraform-google-crmint # Deploy the marketing analytics application, CRMint
+https://github.com/googlecloudplatform/ai-ml-recipes #
+https://github.com/googlecloudplatform/dataflux-client-python # This is the git repository for the Dataflux Python client library,
+providing fast listing and download of small files from GCS in Python. Also see https://github.com/GoogleCloudPlatform/dataflux-pytorch. https://github.com/googlecloudplatform/terraform-google-cloudsqlnetworking #
+https://github.com/googlecloudplatform/terraform-google-dbt-composer-blueprint #
+https://github.com/googlecloudplatform/market-data-transcoder # ffmpeg for market data
+https://github.com/googlecloudplatform/chef-google-bigquery #
+https://github.com/googlecloudplatform/cloud-alerting-notification-forwarding #
+https://github.com/googlecloudplatform/gcp-bitbucket-wif #
+https://github.com/googlecloudplatform/bigquery-dlp-remote-function # Use Remote Functions to tokenize data with DLP in BigQuery us
+ing SQL https://github.com/googlecloudplatform/dataflow-metrics-exporter # CLI tool to collect dataflow resource & execution metrics and ex
+port to either BigQuery or Google Cloud Storage. Tool will be useful to compare & visualize the metrics while benchmarking the dataflow pipelines using various data formats, resource configurations etc https://github.com/googlecloudplatform/chef-google-sql #
+https://github.com/googlecloudplatform/opencensus-jetty-demo #
+https://github.com/googlecloudplatform/chef-google-compute #
+https://github.com/googlecloudplatform/federated-learning # Federated Learning on Google Cloud
+https://github.com/googlecloudplatform/bq-backup-manager #
+https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo Megatron Large Language Model (LLM) using NeMo Fra
+mework on Google Kubernetes Engine https://github.com/googlecloudplatform/evaluating-cost-and-performance-of-bigquery-workloads #
+https://github.com/googlecloudplatform/openapi-generator-for-abap-sdk # Open API Generator for ABAP SDK for Google Cloud
+https://github.com/googlecloudplatform/document-intake-accelerator #

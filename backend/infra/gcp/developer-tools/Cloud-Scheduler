@@ -1,0 +1,24 @@
+https://github.com/googlecloudplatform/cloud-sql-iam-db-authn-groups # Example of how to enable Cloud SQL IAM Database Authenticati
+on for Groups https://github.com/googlecloudplatform/terraform-google-cloud-workflows # Manage Workflows with optional Scheduler or Event Arc tri
+ggers https://github.com/googlecloudplatform/vertex-pipelines-end-to-end-samples #
+https://github.com/googlecloudplatform/storage-sdrs # Data retention tool for Google Cloud Storage
+https://github.com/googlecloudplatform/deviceconnect # https://deviceconnect.readthedocs.io/
+https://github.com/googlecloudplatform/stackdriver-metrics-export #
+https://github.com/googlecloudplatform/recommender-iac-pipeline-nodejs-tutorial #
+https://github.com/googlecloudplatform/terraform-google-cloud-spanner # Deploy Spanner instances
+https://github.com/googlecloudplatform/filestore-snapshot-scheduler #
+https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Accelerators for Serverless Spark on GCP, the industry'
+s first auto-scaling and serverless Spark as a service https://github.com/googlecloudplatform/crbt # Cloud Run Bootstrap Tool
+https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
+https://github.com/googlecloudplatform/dialogflow-email-agent-demo #
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/transactional-microservice-examples #
+https://github.com/googlecloudplatform/multi-provider-dns-with-clouddns #
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse # Deploys a secured BigQuery data warehouse
+https://github.com/googlecloudplatform/bigquery-long-running-jobs-metric-exporter # Google Cloud Workflow that exports a custom met
+ric into Google Cloud Monitoring for "long running jobs". A job is defined as long running if it is still running at the point the Workflow executes, and it has been running for longer than the defined threshold. https://github.com/googlecloudplatform/bq-backup-manager #
+https://github.com/googlecloudplatform/eventarc-web-feed # A serverless and extensible event-driven system for reacting to legacy w
+eb feed events https://github.com/googlecloudplatform/terraform-google-crmint # Deploy the marketing analytics application, CRMint
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-onprem-ingest # Deploys a secured data warehouse var
+iant for ingesting encrypted data from on-prem sources https://github.com/googlecloudplatform/migrate-from-service-account-keys # This repo produces a data pipeline to help you assess se
+rvice account key usage, as described in the Assess phase of the Google Cloud documentation migrate from service account keys to more secure alternatives.

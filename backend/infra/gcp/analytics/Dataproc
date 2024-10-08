@@ -1,0 +1,33 @@
+https://github.com/googlecloudplatform/dataproc-templates # Dataproc templates and pipelines for solving simple in-cloud data tasks
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Accelerators for Serverless Spark on GCP, the industry'
+s first auto-scaling and serverless Spark as a service https://github.com/googlecloudplatform/cloud-bigtable-examples # Examples of how to use Cloud Bigtable both with GCE map/reduce as
+well as stand alone applications. https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform
+on GCP. https://github.com/googlecloudplatform/datalake-modernization-workshops #
+https://github.com/googlecloudplatform/gcp-token-broker #
+https://github.com/googlecloudplatform/oozie-to-airflow # Oozie Workflow to Airflow DAGs migration tool
+https://github.com/googlecloudplatform/dataplex-labs #
+https://github.com/googlecloudplatform/dataproc-scala-examples # Dataproc Scala Examples is an effort to assist in the creation of
+Spark jobs written in Scala to run on Dataproc. https://github.com/googlecloudplatform/ai-ml-recipes #
+https://github.com/googlecloudplatform/dataproc-trino-autoscaler # Trino Autoscaler on Dataproc automates the scaling of Dataproc c
+luster based on real-time resource utilization by Trino workloads https://github.com/googlecloudplatform/dataproc-connect-visualization # Connecting your Visualization Software to Hadoop on Google
+Cloud https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/edu-resources # Curated List of GCP educational resources http://goo.gle/google-cloud-edu
+https://github.com/googlecloudplatform/bigquery-dlp-remote-function # Use Remote Functions to tokenize data with DLP in BigQuery using SQL
+
+https://github.com/googleclouddataproc/initialization-actions # Run in all nodes of your cluster before the cluster starts - lets y
+ou customize your cluster https://github.com/googleclouddataproc/spark-bigquery-connector # BigQuery data source for Apache Spark: Read data from BigQuery in
+to DataFrames, write DataFrames into BigQuery tables. https://github.com/googleclouddataproc/hadoop-connectors # Libraries and tools for interoperability between Hadoop-related open-sou
+rce software and Google Cloud Platform. https://github.com/googleclouddataproc/cloud-dataproc # Cloud Dataproc: Samples and Utils
+https://github.com/googleclouddataproc/custom-images # Tools for creating Dataproc custom images
+https://github.com/googleclouddataproc/hive-bigquery-storage-handler # Hive Storage Handler for interoperability between BigQuery a
+nd Apache Hive https://github.com/googleclouddataproc/spark-spanner-connector # Cloud Spanner Connector for Apache Spark
+https://github.com/googleclouddataproc/flink-bigquery-connector # BigQuery integration to Apache Flink's Table API
+https://github.com/googleclouddataproc/jupyterhub-dataprocspawner #
+https://github.com/googleclouddataproc/hive-bigquery-connector # A library enabling BigQuery as Hive storage handler
+https://github.com/googleclouddataproc/dataproc-jupyter-plugin #
+https://github.com/googleclouddataproc/spark-bigtable-connector #
+https://github.com/googleclouddataproc/dataprocmagic #
+https://github.com/googleclouddataproc/dataproc-jdbc-connector #
+https://github.com/googleclouddataproc/.allstar #
+https://github.com/googleclouddataproc/dataproc-spark-connect-python #

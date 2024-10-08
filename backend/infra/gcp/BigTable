@@ -1,0 +1,17 @@
+https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
+https://github.com/googlecloudplatform/cloud-bigtable-examples # Examples of how to use Cloud Bigtable both with GCE map/reduce as well as stand alone applications.
+https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/opentsdb-bigtable #
+https://github.com/googlecloudplatform/cpp-samples # C++ code samples for using Google Cloud Platform
+https://github.com/googlecloudplatform/gcp-token-broker #
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform
+on GCP. https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/dataflow-cookbook #
+https://github.com/googlecloudplatform/java-repo-tools # Tools used to maintain and test Java repositories in the GoogleCloudPlatfo
+rm organization. https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
+https://github.com/googlecloudplatform/bigtable-janusgraph-helm #
+https://github.com/googlecloudplatform/chef-google-bigquery #
+https://github.com/googlecloudplatform/mfg-ml-examples # Practical examples of machine learning use cases in manufacturing
+https://github.com/googlecloudplatform/dataflow-solution-guides # The Dataflow Solution Guides offer full end-to-end deployment for
+the most common streaming solutions to run on Dataflow. https://github.com/googlecloudplatform/terraform-google-bigtable # Create and manage Google Bigtable resources
+https://github.com/googlecloudplatform/reporting-api-processor #

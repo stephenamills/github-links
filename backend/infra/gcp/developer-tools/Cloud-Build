@@ -1,0 +1,108 @@
+https://github.com/googlecloudplatform/cloud-builders # Builder images and examples commonly used for Google Cloud Build
+https://github.com/googlecloudplatform/cloud-builders-community # Community-contributed images for Google Cloud Build
+https://github.com/googlecloudplatform/cloud-build-samples # Code snippets used in Cloud Build documentation
+https://github.com/googlecloudplatform/cloud-build-notifiers # Notifier images for Cloud Build, complete with build status filterin
+g and Google Secret Manager integration https://github.com/googlecloudplatform/solutions-terraform-cloudbuild-gitops #
+https://github.com/googlecloudplatform/click-to-deploy # Source for Google Click to Deploy solutions listed on Google Cloud Marketp
+lace. https://github.com/googlecloudplatform/cloud-build-software-delivery # A walkthrough of setting up a secure CI/CD pipeline for a co
+ntainerized workloads using Google Cloud Build https://github.com/googlecloudplatform/terraform-google-secure-cicd # Builds a secure CI/CD pipeline on Google Cloud
+https://github.com/googlecloudplatform/anthos-config-management-samples # Code samples for Anthos Config Management
+https://github.com/googlecloudplatform/golang-docker # Docker images for Go on Google App Engine
+https://github.com/googlecloudplatform/policy-library # A library of constraint templates and sample constraints for Constraint Fra
+mework tools https://github.com/googlecloudplatform/ci-cd-for-data-processing-workflow #
+https://github.com/googlecloudplatform/cloudbuild-integration-testing # Example of techniques for using Google Cloud Build to do in
+tegration tests of a microservices application https://github.com/googlecloudplatform/cloud-run-microservice-template-python #
+https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Public Sector Landing Zone overlay on top of the TEF v
+ia CFT modules - a secure cloud foundation https://github.com/googlecloudplatform/cloud-run-microservice-template-nodejs # Microservice template for Cloud Run
+https://github.com/googlecloudplatform/developer-journey-app # Developer Journey App is a gaming sample app, built with Cloud Run,
+Cloud Storage, Cloud Firestore, and Cloud Build. https://github.com/googlecloudplatform/opentelemetry-cloud-run #
+https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
+https://github.com/googlecloudplatform/avocano # Avocano is a sample dropship/fake product website, built with Firebase Hosting, Cl
+oud Run, Cloud SQL and Cloud Build https://github.com/googlecloudplatform/microservices-demo # Sample cloud-first application with 10 microservices showcasing Kuberne
+tes, Istio, and gRPC. https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/cloudbowl-microservice-game #
+https://github.com/googlecloudplatform/runtimes-common # Common tools used by the GCP runtimes.
+https://github.com/googlecloudplatform/mlops-with-vertex-ai # An end-to-end example of MLOps on Google Cloud using TensorFlow, TFX,
+and Vertex AI https://github.com/googlecloudplatform/apigee-samples # A repo for Apigee X/hybrid samples
+https://github.com/googlecloudplatform/terraform-google-cloud-functions # Deploys Cloud Functions (Gen 2)
+https://github.com/googlecloudplatform/cloud-run-microservice-template-go # A template repository for a Cloud Run microservice, wri
+tten in Go. https://github.com/googlecloudplatform/secure-image-pipeline #
+https://github.com/googlecloudplatform/serverless-store-demo # A web e-commerce demo app showcasing serverless capabilities of Goog
+le Cloud Platform. https://github.com/googlecloudplatform/cloud-run-microservice-template-java #
+https://github.com/googlecloudplatform/cortex-data-foundation # Data Foundation - Google Cloud Cortex Framework
+https://github.com/googlecloudplatform/bank-of-anthos # Retail banking sample application showcasing Kubernetes and Google Cloud
+https://github.com/googlecloudplatform/opentelemetry-collector-builder-sample #
+https://github.com/googlecloudplatform/dialogflow-integrations # Dialogflow integrations with multiple platforms including KIK, Sky
+pe, Spark, Twlio, Twitter and Viber https://github.com/googlecloudplatform/cortex-reporting #
+https://github.com/googlecloudplatform/recommender-iac-pipeline-nodejs-tutorial #
+https://github.com/googlecloudplatform/terraform-ml-image-annotation-gcf # Deploys an app for ml image annotation using gcf
+https://github.com/googlecloudplatform/memstore-gaming-leaderboard #
+https://github.com/googlecloudplatform/berglas # A tool for managing secrets on Google Cloud
+https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/terraform-google-three-tier-web-app # Deploys a three tier web application using Cloud Run a
+nd Cloud SQL https://github.com/googlecloudplatform/terraform-google-dataplex-auto-data-quality # Move data between environments using Dataplex
+https://github.com/googlecloudplatform/terraform-google-cloud-deploy # Create Cloud Deploy pipelines and targets
+https://github.com/googlecloudplatform/batch-samples #
+https://github.com/googlecloudplatform/df-ml-anomaly-detection # Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, B
+QML & Cloud DLP https://github.com/googlecloudplatform/compute-custom-boot-images #
+https://github.com/googlecloudplatform/gke-photoalbum-example # GKE Photo Album Example
+https://github.com/googlecloudplatform/application-integration-management-toolkit # This tool lets you interact with Application I
+ntegration, Integration Connectors or Apigee Integration/Connector APIs. The tool lets you manage (create, del, get, list) integrations, connections etc. https://github.com/googlecloudplatform/deploystack-serverless-e2e-photo-sharing-app # An scalable serverless end-to-end photo-shari
+ng application made from 11 Google Cloud components https://github.com/googlecloudplatform/cortex-dag-generator #
+https://github.com/googlecloudplatform/terraform-google-waap # Deploys the WAAP solution on Google Cloud
+https://github.com/googlecloudplatform/localllm #
+https://github.com/googlecloudplatform/woolaroo-language-learning-app # Project Woolaroo - Exploring Indigenous language through ph
+otos. https://github.com/googlecloudplatform/software-delivery-shield-demo-java #
+https://github.com/googlecloudplatform/gcr-cleaner # Delete untagged image refs in Google Container Registry or Artifact Registry
+https://github.com/googlecloudplatform/vertex-pipelines-end-to-end-samples #
+https://github.com/googlecloudplatform/enterprise-linux-stig-builder # The Enterprise Linux STIG Builder project is a Google Cloud
+Build automation to produce a DISA STIG-compliant RHEL 8 image, as well as an OpenSCAP Compliance report. https://github.com/googlecloudplatform/run-gmp-sidecar #
+https://github.com/googlecloudplatform/wsi-to-dicom-converter # Conversion tool/library for converting whole slide images to DICOM
+https://github.com/googlecloudplatform/crbt # Cloud Run Bootstrap Tool
+https://github.com/googlecloudplatform/cloud-code-vscode # Cloud Code for Visual Studio Code: Issues, Documentation and more
+https://github.com/googlecloudplatform/opentsdb-bigtable #
+https://github.com/googlecloudplatform/multi-provider-dns-with-clouddns #
+https://github.com/googlecloudplatform/terraform-google-enterprise-genai #
+https://github.com/googlecloudplatform/terraform-dynamic-javascript-webapp # Deploy a dynamic javascript webapp
+https://github.com/googlecloudplatform/dataflow-geobeam #
+https://github.com/googlecloudplatform/scoutsuite-gcp-scan # Terraform to run Scoutsuite security scan of projects within a Google
+Cloud Org. Report will be published to a GCS bucket. https://github.com/googlecloudplatform/dialogflow-email-agent-demo #
+https://github.com/googlecloudplatform/cloud-alerting-notification-forwarding #
+https://github.com/googlecloudplatform/appengine-cloud-demo-portal # Cloud Demo Portal is an App Engine web application which has s
+mall demos. https://github.com/googlecloudplatform/stable-diffusion-on-gcp #
+https://github.com/googlecloudplatform/software-delivery-blueprint #
+https://github.com/googlecloudplatform/security-analytics # Community Security Analytics provides a set of community-driven audit &
+threat queries for Google Cloud https://github.com/googlecloudplatform/gke-pubsub-websocket-adapter # Consume Pub/Sub over Websockets
+https://github.com/googlecloudplatform/terraform-example-foundation-app #
+https://github.com/googlecloudplatform/terraform-google-media-cdn-vod # Deploys Media CDN video-on-demand
+https://github.com/googlecloudplatform/friendly-cicd-helper #
+https://github.com/googlecloudplatform/bigquery-geotools #
+https://github.com/googlecloudplatform/aactl # Google Container Analysis data import utility, supports OSS vulnerability scanner re
+ports, SLSA provenance and sigstore attestations. https://github.com/googlecloudplatform/solutions-pubsub-proxy-rest # Publish messages to Google Cloud Pub/Sub from mobile/client ap
+plications https://github.com/googlecloudplatform/immersive-stream-for-xr-templates #
+https://github.com/googlecloudplatform/terraform-google-crmint # Deploy the marketing analytics application, CRMint
+https://github.com/googlecloudplatform/dotnet-migration-sample #
+https://github.com/googlecloudplatform/solutionbuilder-terraform-google-three-tier-web-app #
+https://github.com/googlecloudplatform/bigquery-antipattern-recognition # Utility to identify and rewrite common anti patterns in B
+igQuery SQL syntax https://github.com/googlecloudplatform/continuous-deployment-on-kubernetes # Get up and running with Jenkins on Google Kubernetes E
+ngine https://github.com/googlecloudplatform/bigquery-dlp-remote-function # Use Remote Functions to tokenize data with DLP in BigQuery us
+ing SQL https://github.com/googlecloudplatform/cloudrun-gpus-opencv-cuda-demo #
+https://github.com/googlecloudplatform/solutions-terraform-scc-notifications-gchat # Send SCC Notifications to Google Chat
+https://github.com/googlecloudplatform/hpc-lab-samples # This repo contains source code to provision a HPC Cluster with basic compu
+te, storage, networking and a SLURM cluster. The code consists mainly of Terraform and shell scripts. https://github.com/googlecloudplatform/data-sage-genai #
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse # Deploys a secured BigQuery data warehouse
+https://github.com/googlecloudplatform/elixir-runtime # The community-supported runtime for Elixir on Google App Engine.
+https://github.com/googlecloudplatform/reliable-app-platforms # A MVP of a platform for delivering reliable applications on Google
+Cloud https://github.com/googlecloudplatform/terraform-google-dbt-composer-blueprint #
+https://github.com/googlecloudplatform/transactional-microservice-examples #
+https://github.com/googlecloudplatform/ezcx #
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-onprem-ingest # Deploys a secured data warehouse var
+iant for ingesting encrypted data from on-prem sources https://github.com/googlecloudplatform/gke-prober #
+
+https://github.com/googlecloudbuild/gcbapp-dockerfile-example # Example used in the Cloud Build GitHub app tutorial
+https://github.com/googlecloudbuild/hello-kubernetes # Example end-to-end build, test, and deploy pipelines for Kubernetes, using G
+oogle Cloud Build. https://github.com/googlecloudbuild/gcbapp-example # Example used in the Cloud Build GitHub app tutorial
+https://github.com/googlecloudbuild/cloud-console-sample-build # A sample build used within the Google Cloud Console
+https://github.com/googlecloudbuild/gcbapp-buildconfig-example # Example used in the Cloud Build GitHub app tutorial
+https://github.com/googlecloudbuild/cicd-images #

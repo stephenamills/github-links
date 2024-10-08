@@ -1,0 +1,11 @@
+https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
+https://github.com/googlecloudplatform/workflows-samples # This repository contains samples for Cloud Workflows.
+https://github.com/googlecloudplatform/vertex-ai-samples # Notebooks, code samples, sample apps, and other resources that demonstra
+te how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. https://github.com/googlecloudplatform/oozie-to-airflow # Oozie Workflow to Airflow DAGs migration tool
+https://github.com/googlecloudplatform/terraform-google-cloud-workflows # Manage Workflows with optional Scheduler or Event Arc tri
+ggers https://github.com/googlecloudplatform/dlp-pdf-redaction # This solution provides an automated, serverless way to redact sensitive
+data from PDF files using Google Cloud Services like Data Loss Prevention (DLP), Cloud Workflows, and Cloud Run. https://github.com/googlecloudplatform/smart-sdlc # Set of tools to implement an AI workflow on your SDLC
+https://github.com/googlecloudplatform/ml-auto-solutions # A simplified and automated orchestration workflow to perform ML end-to-e
+nd (E2E) model tests and benchmarking on Cloud VMs across different frameworks. https://github.com/googlecloudplatform/cloud-composer-mssql-dataflow-bigquery # This repository contains an example of how to lever
+age Cloud Composer and Cloud Dataflow to move data from a Microsoft SQL Server to BigQuery. The diagrams below demonstrate the workflow pipeline. https://github.com/googlecloudplatform/bigquery-long-running-jobs-metric-exporter # Google Cloud Workflow that exports a custom met
+ric into Google Cloud Monitoring for "long running jobs". A job is defined as long running if it is still running at the point the Workflow executes, and it has been running for longer than the defined threshold.

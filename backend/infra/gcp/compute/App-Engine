@@ -1,0 +1,66 @@
+https://github.com/googlecloudplatform/appengine-guestbook-python # Guestbook is an example application showing basic usage of Goog
+le App Engine https://github.com/googlecloudplatform/govanityurls # Use a custom domain in your Go import path
+https://github.com/googlecloudplatform/buildpacks # Builders and buildpacks designed to run on Google Cloud's container platforms
+https://github.com/googlecloudplatform/appengine-mapreduce # A library for running MapReduce jobs on App Engine
+https://github.com/googlecloudplatform/golang-docker # Docker images for Go on Google App Engine
+https://github.com/googlecloudplatform/appengine-guestbook-java # The guestbook App Engine demo, written in Java, built using Maven
+. https://github.com/googlecloudplatform/python-runtime # gcr.io/google_appengine/python - Docker images for python
+https://github.com/googlecloudplatform/appengine-pipelines # makeViewerUrl
+https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/appengine-java-standard # Google App Engine Standard Java runtime: Prod runtime, local devap
+pserver, Cloud SDK Java components, GAE APIs, and GAE API emulators. https://github.com/googlecloudplatform/kotlin-samples #
+https://github.com/googlecloudplatform/appengine-php-sdk # Google App Engine PHP SDK
+https://github.com/googlecloudplatform/java-docs-samples # Java and Kotlin Code samples used on cloud.google.com
+https://github.com/googlecloudplatform/ruby-docker # Ruby runtime for Google Cloud Platform
+https://github.com/googlecloudplatform/appengine-python-standard # Google App Engine services SDK for Python 3
+https://github.com/googlecloudplatform/appengine-custom-runtimes-samples # Samples for creating custom runtimes on Google App Engin
+e Flexible https://github.com/googlecloudplatform/cloud-bigtable-examples # Examples of how to use Cloud Bigtable both with GCE map/reduce as
+well as stand alone applications. https://github.com/googlecloudplatform/appengine-sidecars-docker # A set of services that run along side of your Google App Engine
+Flexible VM application containers. Each service runs inside of its own docker container along with your application's source code.https://github.com/googlecloudplatform/appengine-plugins # A client Java library to manage App Engine Java applications for any pro
+ject that performs App Engine Java application management. For example, the Maven, Gradle and Eclipse App Engine plugins, custom user tools, etc. https://github.com/googlecloudplatform/docker-credential-gcr # A Docker credential helper for GCR users
+https://github.com/googlecloudplatform/serverless-store-demo # A web e-commerce demo app showcasing serverless capabilities of Goog
+le Cloud Platform. https://github.com/googlecloudplatform/appengine-ruby # Optional integration library for the Ruby runtime for Google App Engine
+https://github.com/googlecloudplatform/elixir-runtime # The community-supported runtime for Elixir on Google App Engine.
+https://github.com/googlecloudplatform/appengine-bottle-skeleton # A skeleton app that illustrates how to run the Bottle micro-fram
+ework with App Engine https://github.com/googlecloudplatform/hackathon-toolkit # GCP Hackathon Toolkit
+https://github.com/googlecloudplatform/migrate-from-app-engine-to-cloud-run # Helper library and webpage to migrate from App Engine
+to Cloud Run https://github.com/googlecloudplatform/serverless-photosharing-workshop # This is the code for the Pic-a-daily, an application to u
+pload, analyse and share pictures using Google Cloud serverless solutions, namely Cloud Functions, App Engine, and Cloud Run https://github.com/googlecloudplatform/podcast # The Google Cloud Platform Podcast
+https://github.com/googlecloudplatform/php-tools #
+https://github.com/googlecloudplatform/cloud-sdk-docker # Google Cloud CLI Docker Image - Docker Image containing the gcloud CLI an
+d its bundled components. https://github.com/googlecloudplatform/google-cloud-node-todos # TodoMVC backend using gcloud-node
+https://github.com/googlecloudplatform/openjdk-runtime # Google Cloud Platform OpenJDK Docker image
+https://github.com/googlecloudplatform/google-cloud-gemserver # CLI to deploy a private gem server to Google App Engine Flex
+https://github.com/googlecloudplatform/functions-framework-dart # FaaS (Function as a service) framework for writing portable Dart
+functions https://github.com/googlecloudplatform/jit-groups # JIT Groups is an open source application that lets you implement secure, self-s
+ervice access management for Google Cloud using groups. https://github.com/googlecloudplatform/berglas # A tool for managing secrets on Google Cloud
+https://github.com/googlecloudplatform/ml-on-gcp # Machine Learning on Google Cloud Platform
+https://github.com/googlecloudplatform/go-templates #
+https://github.com/googlecloudplatform/stackdriver-metrics-export #
+https://github.com/googlecloudplatform/java-repo-tools # Tools used to maintain and test Java repositories in the GoogleCloudPlatfo
+rm organization. https://github.com/googlecloudplatform/appengine-php-extension #
+https://github.com/googlecloudplatform/app2run # app2run is a python CLI tool to translate App Engine configuration into compatible
+Cloud Run configuration, it aims to help App Engine users to migrate their App Engine applications to Cloud Run. https://github.com/googlecloudplatform/serverless-game-contest # A system to manage game programming contests and demonstrate serve
+rless architecture. https://github.com/googlecloudplatform/dataproc-templates # Dataproc templates and pipelines for solving simple in-cloud data tasks
+https://github.com/googlecloudplatform/nodejs-serverless-url-shortener # A link shortening service built on Google Cloud
+https://github.com/googlecloudplatform/spring-cloud-gcp # New home for Spring Cloud GCP development starting with version 2.0.
+https://github.com/googlecloudplatform/appengine-scipy-zombie-apocalypse-python # A simulator for zombie apocalypse with scipy
+https://github.com/googlecloudplatform/google-cloud-eclipse # Google Cloud Platform plugin for Eclipse
+https://github.com/googlecloudplatform/jetty-runtime # Google Cloud Platform Jetty Docker image
+https://github.com/googlecloudplatform/functions-framework-go # FaaS (Function as a service) framework for writing portable Go func
+tions https://github.com/googlecloudplatform/appengine-cloud-demo-portal # Cloud Demo Portal is an App Engine web application which has s
+mall demos. https://github.com/googlecloudplatform/tulip #
+https://github.com/googlecloudplatform/wombat-dressing-room # proxy designed to reduce the attack surface of npm publish
+https://github.com/googlecloudplatform/solutions-cloud-history-tool #
+https://github.com/googlecloudplatform/stackdriver-errors-js # Client-side JavaScript exception reporting library for Cloud Error R
+eporting https://github.com/googlecloudplatform/dataflow-opinion-analysis # Opinion Analysis of News, Threaded Conversations, and User Gener
+ated Content https://github.com/googlecloudplatform/functions-framework-php # FaaS (Function as a service) framework for writing portable PHP fu
+nctions https://github.com/googlecloudplatform/slo-monitoring-using-terraform #
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse # Deploys a secured BigQuery data warehouse
+https://github.com/googlecloudplatform/resource-security-remediation #
+https://github.com/googlecloudplatform/spinnaker-for-gcp # Production-ready Spinnaker on GKE
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-onprem-ingest # Deploys a secured data warehouse var
+iant for ingesting encrypted data from on-prem sources https://github.com/googlecloudplatform/crbt # Cloud Run Bootstrap Tool
+https://github.com/googlecloudplatform/recaptcha-enterprise-google-tag-manager # A reCAPTCHA solution that takes advantage of GTM a
+nd sGTM to implement reCAPTCHA Enterprise. https://github.com/googlecloudplatform/document-intake-accelerator #
+https://github.com/googlecloudplatform/chef-google-compute #

@@ -1,0 +1,55 @@
+https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/cloud-bigtable-examples # Examples of how to use Cloud Bigtable both with GCE map/reduce as
+well as stand alone applications. https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/bigquery-etl-dataflow-sample #
+https://github.com/googlecloudplatform/df-ml-anomaly-detection # Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, B
+QML & Cloud DLP https://github.com/googlecloudplatform/dataflow-sample-applications #
+https://github.com/googlecloudplatform/terraform-splunk-log-export # Deploy Google Cloud log export to Splunk using Terraform
+https://github.com/googlecloudplatform/dataflow-contact-center-speech-analysis # Speech Analysis Framework, a collection of compone
+nts and code from Google Cloud that you can use to transcribe audio files to create analytics. https://github.com/googlecloudplatform/dlp-dataflow-deidentification # Multi Cloud Data Tokenization Solution By Using Dataflow and
+Cloud DLP https://github.com/googlecloudplatform/dataflow-opinion-analysis # Opinion Analysis of News, Threaded Conversations, and User Gener
+ated Content https://github.com/googlecloudplatform/dataflow-cookbook #
+https://github.com/googlecloudplatform/practical-ml-vision-book #
+https://github.com/googlecloudplatform/dataflow-geobeam #
+https://github.com/googlecloudplatform/dataflow-video-analytics # Video Clip Analytics By Using Dataflow and Video AI For Object Tr
+acking https://github.com/googlecloudplatform/generative-ai # Sample code and notebooks for Generative AI on Google Cloud, with Gemini on
+Vertex AI https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse # Deploys a secured BigQuery data warehouse
+https://github.com/googlecloudplatform/bigquery-oreilly-book # Source code accompanying: BigQuery: The Definitive Guide by Lakshma
+nan & Tigani to be published by O'Reilly Media https://github.com/googlecloudplatform/healthcare-data-harmonization-dataflow #
+https://github.com/googlecloudplatform/tensorflow-lifetime-value # Predict customer lifetime value using AutoML Tables, or ML Engin
+e with a TensorFlow neural network and the Lifetimes Python library. https://github.com/googlecloudplatform/cloud-composer-mssql-dataflow-bigquery # This repository contains an example of how to lever
+age Cloud Composer and Cloud Dataflow to move data from a Microsoft SQL Server to BigQuery. The diagrams below demonstrate the workflow pipeline. https://github.com/googlecloudplatform/healthcare #
+https://github.com/googlecloudplatform/mlops-with-vertex-ai # An end-to-end example of MLOps on Google Cloud using TensorFlow, TFX,
+and Vertex AI https://github.com/googlecloudplatform/dataflow-solution-guides # The Dataflow Solution Guides offer full end-to-end deployment for
+the most common streaming solutions to run on Dataflow. https://github.com/googlecloudplatform/oracle-to-postgres #
+https://github.com/googlecloudplatform/dataflow-pubsub-dedup #
+https://github.com/googlecloudplatform/auto-data-tokenize # Identify and tokenize sensitive data automatically using Cloud DLP and
+Dataflow https://github.com/googlecloudplatform/redis-dataflow-realtime-analytics # Build a real-time website analytics dashboard on GCP usi
+ng Dataflow, Cloud Memorystore (Redis) and Spring Boot https://github.com/googlecloudplatform/dataflow-vision-analytics # Vision analytics solution using Dataflow and Vision AI
+https://github.com/googlecloudplatform/dynamodb-spanner-migration #
+https://github.com/googlecloudplatform/dataflow-twitter-realtime-leaderboard # Demonstrating the processing and analysis of unstruc
+tured tweet like data in batch and real-time using Cloud DataFlow. https://github.com/googlecloudplatform/dataflow-stt-auto-caption # Processing interim response form STT Streaming API for WebVTT tr
+ansform by using Dataflow. https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-onprem-ingest # Deploys a secured data warehouse var
+iant for ingesting encrypted data from on-prem sources https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/dataflow-zoomify-image #
+https://github.com/googlecloudplatform/deploystack-gcs-to-bq-with-least-privileges #
+https://github.com/googlecloudplatform/fraudfinder # Fraudfinder: A comprehensive lab series on how to build a real-time fraud dete
+ction system on Google Cloud https://github.com/googlecloudplatform/mfg-ml-examples # Practical examples of machine learning use cases in manufacturing
+https://github.com/googlecloudplatform/terraform-gcp-datadog-integration # Terraform code to make the Google Cloud Platform to Data
+dog log collection integration easier. https://github.com/googlecloudplatform/deploystack-etl-pipeline #
+https://github.com/googlecloudplatform/gcp-fedramp-quickstart #
+https://github.com/googlecloudplatform/aicoe # This repository contains an end-to-end walkthrough to leverage Google Cloud services
+to demonstrate Solution Accelerators for few business domains https://github.com/googlecloudplatform/marketing-analytics-jumpstart # Marketing Analytics Jumpstart consists of an easy, extensibl
+e and automated implementation of an end-to-end solution that enables Marketing Technology teams to store, transform, enrich with 1PD and analyze marketing data, and programmatically send predictive events to Google Analytics 4 to support conversion optimization and remarketing campaigns. https://github.com/googlecloudplatform/cloud-spanner-emulator # An open source emulator for Cloud Spanner.
+https://github.com/googlecloudplatform/edu-resources # Curated List of GCP educational resources http://goo.gle/google-cloud-edu
+https://github.com/googlecloudplatform/dataflow-ordered-processing #
+https://github.com/googlecloudplatform/llm-pipeline-examples #
+https://github.com/googlecloudplatform/dataflow-metrics-exporter # CLI tool to collect dataflow resource & execution metrics and ex
+port to either BigQuery or Google Cloud Storage. Tool will be useful to compare & visualize the metrics while benchmarking the dataflow pipelines using various data formats, resource configurations etc https://github.com/googlecloudplatform/crbt # Cloud Run Bootstrap Tool
+https://github.com/googlecloudplatform/enterprise-knowledge-solution #
+https://github.com/googlecloudplatform/datastream-bigquery-migration-toolkit #
+https://github.com/googlecloudplatform/gke-logging-sinks-demo # This project describes the steps required to deploy a sample applic
+ation to Kubernetes Engine that forwards log events to Stackdriver Logging. As a part of the exercise, you will create a Cloud Storage bucket and a BigQuery dataset for exporting log data. https://github.com/googlecloudplatform/reporting-api-processor #
+https://github.com/googlecloudplatform/dataflowruninference #
+https://github.com/googlecloudplatform/spanner-data-validator #

@@ -1,0 +1,13 @@
+https://github.com/googlecloudplatform/anthos-samples # Anthos code samples
+https://github.com/googlecloudplatform/anthos-config-management-samples # Code samples for Anthos Config Management
+https://github.com/googlecloudplatform/bank-of-anthos # Retail banking sample application showcasing Kubernetes and Google Cloud
+https://github.com/googlecloudplatform/anthos-service-mesh-packages # Packaged configuration for setting up a Kubernetes cluster wi
+th Anthos Service Mesh features enabled https://github.com/googlecloudplatform/kubeflow-distribution # Blueprints for Deploying Kubeflow on Google Cloud Platform and Antho
+s https://github.com/googlecloudplatform/anthos-security-blueprints # Implementation steps and assets for Google Cloud Anthos bluepr
+ints https://cloud.google.com/architecture/blueprints/anthos-security-blueprints-faq https://github.com/googlecloudplatform/bank-of-anthos-scripts # Scripts and YAML files for the Bank of Anthos sample application
+https://github.com/googlecloudplatform/anthos-service-mesh-samples #
+https://github.com/googlecloudplatform/apigee-anthos-service-mesh-demo # This demo extends the existing GCP Boutique Shop Microserv
+ices demo to show how to use Apigee for exposing internal gRPC services (inside the mesh) as RESTful API to external consumers (outside the mesh). https://github.com/googlecloudplatform/anthos-appconfig # A Kubernetes controller to simplify the management of applications
+https://github.com/googlecloudplatform/point-of-sale # Anthos Edge Use Cases for bringing apps and computation closer to the locati
+on where the action is, to improve response times and save bandwidth. https://github.com/googlecloudplatform/migrating-openshift-to-anthos #
+https://github.com/googlecloudplatform/terraform-google-anthos-vm # Creates VMs on Anthos Bare Metal clusters

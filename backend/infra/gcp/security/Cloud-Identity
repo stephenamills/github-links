@@ -1,0 +1,16 @@
+https://github.com/googlecloudplatform/jit-groups # JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups.
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform on GCP.
+https://github.com/googlecloudplatform/gatekeeper-securitycenter # Report OPA Gatekeeper audit violations in Security Command Center.
+https://github.com/googlecloudplatform/security-analytics # Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud
+https://github.com/googlecloudplatform/beyondcorp-applink #
+https://github.com/googlecloudplatform/mqtt-cloud-pubsub-connector # Lightweight connector to bridge MQTT brokers and Google Cloud Pub/Sub
+https://github.com/googlecloudplatform/pastures-poc-toolkit # Google Cloud utility for rapid prototype delivery on production-ready foundations
+https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatile, multi-purpose tool to handle Pub/Sub messages and turn them into email, API calls, GCS objects, files or almost anything.
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+https://github.com/googlecloudplatform/stable-diffusion-on-gcp #
+https://github.com/googlecloudplatform/gcp-fedramp-quickstart #
+https://github.com/googlecloudplatform/org-wide-gcloud-revoke #
+https://github.com/googlecloudplatform/iap-gcip-web-toolkit #
+https://github.com/googlecloudplatform/deploystack-auditlogs-to-bq #
+https://github.com/googlecloudplatform/federated-learning # Federated Learning on Google Cloud
+https://github.com/googlecloudplatform/chef-google-compute #

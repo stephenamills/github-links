@@ -1,0 +1,106 @@
+https://github.com/googlecloudplatform/deploymentmanager-samples # Deployment Manager samples and templates.
+https://github.com/googlecloudplatform/continuous-deployment-on-kubernetes # Get up and running with Jenkins on Google Kubernetes E
+ngine https://github.com/googlecloudplatform/spinnaker-for-gcp # Production-ready Spinnaker on GKE
+https://github.com/googlecloudplatform/fraudfinder # Fraudfinder: A comprehensive lab series on how to build a real-time fraud dete
+ction system on Google Cloud https://github.com/googlecloudplatform/gke-istio-gce-demo # In this project, you will leverage Kubernetes Engine and Google Compute
+Engine to explore how Istio can manage services that reside outside of the Kubernetes Engine environment. You will deploy a typical Istio service mesh in Kubernetes Engine, then configure an externally deployed microservice to join the mesh. https://github.com/googlecloudplatform/gke-istio-telemetry-demo # This project demonstrates how to use an Istio service mesh in a s
+ingle Kubernetes Engine cluster alongside Prometheus, Jaeger, and Grafana, to monitor cluster and workload performance metrics. You will first deploy the Istio control plane, data plane, and additional visibility tools using the provided scripts, then explore the collected metrics and trace data in Grafana. https://github.com/googlecloudplatform/rad-lab # RAD Lab enables users to deploy infrastructure on Google Cloud Platform (GCP) to s
+upport specific use cases. Infrastructure is created and managed through Terraform in conjunction with support scripts written in Python. The templates, code, and documentation for each use case are bundled into modules. https://github.com/googlecloudplatform/gke-migration-to-containers # This demo provides a basic walkthrough of migrating a stateles
+s application from running on a VM all the way to running it on Kubernetes Engine (GKE). https://github.com/googlecloudplatform/deploystack-three-tier-app #
+https://github.com/googlecloudplatform/appengine-guestbook-java # The guestbook App Engine demo, written in Java, built using Maven
+. https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/avocano # Avocano is a sample dropship/fake product website, built with Firebase Hosting, Cl
+oud Run, Cloud SQL and Cloud Build https://github.com/googlecloudplatform/kubernetes-engine-customize-fluentd #
+https://github.com/googlecloudplatform/terraform-google-load-balanced-vms # Creates a Managed Instance Group with a loadbalancer
+https://github.com/googlecloudplatform/bigquery-antipattern-recognition # Utility to identify and rewrite common anti patterns in B
+igQuery SQL syntax https://github.com/googlecloudplatform/gcpdiag # gcpdiag is a command-line diagnostics tool for GCP customers.
+https://github.com/googlecloudplatform/cloud-run-samples # Samples for Cloud Run
+https://github.com/googlecloudplatform/software-delivery-workshop #
+https://github.com/googlecloudplatform/inspec-gcp-cis-benchmark # GCP CIS 1.1.0 Benchmark InSpec Profile
+https://github.com/googlecloudplatform/cluster-toolkit # Cluster Toolkit is an open-source software offered by Google Cloud which m
+akes it easy for customers to deploy AI/ML and HPC environments on Google Cloud. https://github.com/googlecloudplatform/gke-datadog-demo # This project demonstrates how a third party solution, like Datadog, can b
+e used to monitor a Kubernetes Engine cluster and its workloads. Using the provided manifest, you will install Datadog and a simple nginx workload into your cluster. The Datadog agents will be configured to monitor the nginx workload, and ship metrics to your own Datadog account. https://github.com/googlecloudplatform/deploystack # An extension to Google Cloud's Open In Cloud Shell that turns a terraform proj
+ect into a one click deployable on Google Cloud https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline # This repository compiles prescriptive guidance and
+code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. https://github.com/googlecloudplatform/gke-enterprise-demo # This demo aims to show what a fully-featured project running in Kubern
+etes Engine looks like. It includes Elasticsearch, a very popular open-source project for indexing and searching data, as well as some custom software to interface with it. https://github.com/googlecloudplatform/monitoring-dashboard-samples # Google Cloud Monitoring Dashboard Samples
+https://github.com/googlecloudplatform/gke-istio-vpn-demo # This project demonstrates how Istio's mesh expansion feature can be use
+d to link services accross a VPN. The feature allows for a non-Kubernetes service running outside of the Istio infrastructure on Kubernetes Engine, to be integrated into, and managed by the Istio service mesh. https://github.com/googlecloudplatform/deploystack-cost-sentry #
+https://github.com/googlecloudplatform/gke-tracing-demo # This project introduces you to Stackdriver's tracing feature, and provid
+es a distributed tracing example that can serve as a basis for your own applications. You will deploy a multi-tier application to a Kubernetes Engine cluster and trace calls between the components. https://github.com/googlecloudplatform/retail-common-services #
+https://github.com/googlecloudplatform/aws-discovery-export #
+https://github.com/googlecloudplatform/anthos-security-blueprints # Implementation steps and assets for Google Cloud Anthos bluepr
+ints https://cloud.google.com/architecture/blueprints/anthos-security-blueprints-faq https://github.com/googlecloudplatform/deploystack-storage-event-function-app #
+https://github.com/googlecloudplatform/gcp-fedramp-quickstart #
+https://github.com/googlecloudplatform/gke-photoalbum-example # GKE Photo Album Example
+https://github.com/googlecloudplatform/gke-network-policy-demo # This guide demonstrates how to improve the security of your Kubern
+etes Engine by applying fine-grained restrictions to network communication. You will provision a simple HTTP server and two client pods in a Kubernetes Engine cluster, then use a Network Policy restrict connections from client pods. https://github.com/googlecloudplatform/prometheus-engine # Google Cloud Managed Service for Prometheus libraries and manifests.
+https://github.com/googlecloudplatform/solutions-builder #
+https://github.com/googlecloudplatform/deploystack-load-balanced-vms #
+https://github.com/googlecloudplatform/gke-poc-toolkit # 📦 Demo generator for Google Kubernetes Engine!
+https://github.com/googlecloudplatform/dialogflow-email-agent-demo #
+https://github.com/googlecloudplatform/dlp-dataflow-deidentification # Multi Cloud Data Tokenization Solution By Using Dataflow and
+Cloud DLP https://github.com/googlecloudplatform/deploystack-nosql-client-server # A terraform solution that will create 2 VMS and a firewall
+rule, connect them all, to serve up a API powered by mongo. https://github.com/googlecloudplatform/documentai-sheets-plugin #
+https://github.com/googlecloudplatform/gke-security-scenarios-demo # This project demonstrates a series of best practices for impro
+ving the security of containerized applications deployed to Kubernetes Engine. You will deploy multiple instances of the same container image with a variety of security settings to illustrate the use of RBAC, security contexts, and AppArmor policies. https://github.com/googlecloudplatform/deploystack-serverless-e2e-photo-sharing-app # An scalable serverless end-to-end photo-shari
+ng application made from 11 Google Cloud components https://github.com/googlecloudplatform/cortex-dag-generator #
+https://github.com/googlecloudplatform/deploystack-single-vm #
+https://github.com/googlecloudplatform/deploystack-etl-pipeline #
+https://github.com/googlecloudplatform/gke-logging-sinks-demo # This project describes the steps required to deploy a sample applic
+ation to Kubernetes Engine that forwards log events to Stackdriver Logging. As a part of the exercise, you will create a Cloud Storage bucket and a BigQuery dataset for exporting log data. https://github.com/googlecloudplatform/azure-discovery-export #
+https://github.com/googlecloudplatform/deploystack-static-hosting-with-domain #
+https://github.com/googlecloudplatform/document-intake-accelerator #
+https://github.com/googlecloudplatform/notebooks-blueprint-security # Opinionated setup for securely using AI Platform Notebooks.
+https://github.com/googlecloudplatform/cymbal-eats #
+https://github.com/googlecloudplatform/terraform-example-java-dynamic-point-of-sale # Deploys a dynamic Java webapp into a Google K
+ubernetes Engine cluster. https://github.com/googlecloudplatform/gke-application-security-demo # This project demonstrates a series of best practices for imp
+roving the security of containerized applications deployed to Kubernetes Engine. You will deploy multiple instances of the same container image with a variety of security settings to illustrate the use of RBAC, security contexts, and AppArmor policies. https://github.com/googlecloudplatform/data-beans #
+https://github.com/googlecloudplatform/datalake-modernization-workshops #
+https://github.com/googlecloudplatform/matching-engine-tutorial-for-image-search #
+https://github.com/googlecloudplatform/notebooks-extended-uis #
+https://github.com/googlecloudplatform/deploystack-ops-agent #
+https://github.com/googlecloudplatform/bigquery-dlp-remote-function # Use Remote Functions to tokenize data with DLP in BigQuery us
+ing SQL https://github.com/googlecloudplatform/opencensus-spanner-demo #
+https://github.com/googlecloudplatform/gke-rbac-demo # This project covers two use cases for RBAC within a Kubernetes Engine cluste
+r. First, assigning different permissions to user personas. Second, granting limited API access to an application running within your cluster. Since RBAC's flexibility can occasionally result in complex rules, you will also perform common steps for troubleshooting RBAC as a part of the second scenario. https://github.com/googlecloudplatform/pastures-poc-toolkit # Google Cloud utility for rapid prototype delivery on production-ready
+foundations https://github.com/googlecloudplatform/auto-data-tokenize # Identify and tokenize sensitive data automatically using Cloud DLP and
+Dataflow https://github.com/googlecloudplatform/dlp-pdf-redaction # This solution provides an automated, serverless way to redact sensitive
+data from PDF files using Google Cloud Services like Data Loss Prevention (DLP), Cloud Workflows, and Cloud Run. https://github.com/googlecloudplatform/multi-provider-dns-with-clouddns #
+https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstra
+ting how to operationalize Google Research T5X framework on Google Cloud Vertex AI. https://github.com/googlecloudplatform/cloud-alerting-notification-forwarding #
+https://github.com/googlecloudplatform/apigee-samples # A repo for Apigee X/hybrid samples
+https://github.com/googlecloudplatform/apigee-anthos-service-mesh-demo # This demo extends the existing GCP Boutique Shop Microserv
+ices demo to show how to use Apigee for exposing internal gRPC services (inside the mesh) as RESTful API to external consumers (outside the mesh). https://github.com/googlecloudplatform/transactional-microservice-examples #
+https://github.com/googlecloudplatform/terraform-dataanalytics-eventdriven # Uses click-to-deploy to demonstrate how to load data f
+rom Cloud Storage to BigQuery using an event-driven load function. https://github.com/googlecloudplatform/smart-expenses #
+https://github.com/googlecloudplatform/open_data_qna # The Open Data QnA python library enables you to chat with your databases by
+leveraging LLM Agents on Google Cloud. Open Data QnA enables a conversational approach to interacting with your data by implementing state-of-the-art NL2SQL / Text2SQL methods. https://github.com/googlecloudplatform/redis-dataflow-realtime-analytics # Build a real-time website analytics dashboard on GCP usi
+ng Dataflow, Cloud Memorystore (Redis) and Spring Boot https://github.com/googlecloudplatform/berglas # A tool for managing secrets on Google Cloud
+https://github.com/googlecloudplatform/gke-vault-demo # This demo builds two GKE Clusters and guides you through using secrets in V
+ault, using Kubernetes authentication from within a pod to login to Vault, and fetching short-lived Google Service Account credentials on-demand from Vault within a pod. https://github.com/googlecloudplatform/k8s-cloudkms-plugin # K8S KMS Plugin for Google CloudKMS
+https://github.com/googlecloudplatform/application-integration-management-toolkit # This tool lets you interact with Application I
+ntegration, Integration Connectors or Apigee Integration/Connector APIs. The tool lets you manage (create, del, get, list) integrations, connections etc. https://github.com/googlecloudplatform/deploystack-wordpress-on-cloudrun #
+https://github.com/googlecloudplatform/dataproc-scala-examples # Dataproc Scala Examples is an effort to assist in the creation of
+Spark jobs written in Scala to run on Dataproc. https://github.com/googlecloudplatform/marketing-analytics-jumpstart # Marketing Analytics Jumpstart consists of an easy, extensibl
+e and automated implementation of an end-to-end solution that enables Marketing Technology teams to store, transform, enrich with 1PD and analyze marketing data, and programmatically send predictive events to Google Analytics 4 to support conversion optimization and remarketing campaigns. https://github.com/googlecloudplatform/enterprise-knowledge-solution #
+https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and c
+ompare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. https://github.com/googlecloudplatform/opencensus-jetty-demo #
+https://github.com/googlecloudplatform/cloud-ids-demo #
+https://github.com/googlecloudplatform/software-delivery-blueprint #
+https://github.com/googlecloudplatform/scoutsuite-gcp-scan # Terraform to run Scoutsuite security scan of projects within a Google
+Cloud Org. Report will be published to a GCS bucket. https://github.com/googlecloudplatform/data-mesh-demo #
+https://github.com/googlecloudplatform/deploystack-auditlogs-to-bq #
+https://github.com/googlecloudplatform/cloud-build-software-delivery # A walkthrough of setting up a secure CI/CD pipeline for a co
+ntainerized workloads using Google Cloud Build https://github.com/googlecloudplatform/dataflow-vision-analytics # Vision analytics solution using Dataflow and Vision AI
+https://github.com/googlecloudplatform/deploystack-google-lb-and-armor #
+https://github.com/googlecloudplatform/deploystack-cloudsql-multiregion #
+https://github.com/googlecloudplatform/data-sage-genai #
+https://github.com/googlecloudplatform/gcp-bitbucket-wif #
+https://github.com/googlecloudplatform/customer-experience-modernization # This open-source project aims to compile best practices,
+guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products. https://github.com/googlecloudplatform/openapi-generator-for-abap-sdk # Open API Generator for ABAP SDK for Google Cloud
+https://github.com/googlecloudplatform/migrate-from-service-account-keys # This repo produces a data pipeline to help you assess se
+rvice account key usage, as described in the Assess phase of the Google Cloud documentation migrate from service account keys to more secure alternatives. https://github.com/googlecloudplatform/deploystack-gcs-to-bq-with-least-privileges #
+https://github.com/googlecloudplatform/federated-learning # Federated Learning on Google Cloud
+https://github.com/googlecloudplatform/dialogflow-ccai-omnichannel # Omnichannel Customer Service on Google Cloud. Conversational A
+I for web, telephony, SMS, Google Assistant and mobile. https://github.com/googlecloudplatform/dotnet-migration-sample #
+https://github.com/googlecloudplatform/recaptcha-pld #

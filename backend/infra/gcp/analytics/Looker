@@ -1,0 +1,92 @@
+https://github.com/googlecloudplatform/cortex-data-foundation # Data Foundation - Google Cloud Cortex Framework
+https://github.com/googlecloudplatform/genai-for-marketing # Showcasing Google Cloud's generative AI for marketing scenarios via application frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including examples of their use in crafting marketing materials like blog posts and social media content, nl2sql analysis, and campaign personalization.
+https://github.com/googlecloudplatform/looker-hosting-reference-implementations #
+https://github.com/googlecloudplatform/marketing-analytics-jumpstart # Marketing Analytics Jumpstart consists of an easy, extensible and automated implementation of an end-to-end solution that enables Marketing Technology teams to store, transform, enrich with 1PD and analyze marketing data, and programmatically send predictive events to Google Analytics 4 to support conversion optimization and remarketing campaigns.
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform
+on GCP. https://github.com/googlecloudplatform/terraform-google-billing-dashboard #
+https://github.com/googlecloudplatform/deviceconnect # https://deviceconnect.readthedocs.io/
+https://github.com/googlecloudplatform/ml-auto-solutions # A simplified and automated orchestration workflow to perform ML end-to-e
+nd (E2E) model tests and benchmarking on Cloud VMs across different frameworks. https://github.com/googlecloudplatform/data-migration-tool # DMT is an end to end automation of data warehouse migration, focused o
+n extraction, SQL translation, data migration, data validation, etc. The main goal is to reduce migration delivery time https://github.com/googlecloudplatform/df-ml-anomaly-detection # Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, B
+QML & Cloud DLP https://github.com/googlecloudplatform/terraform-google-analytics-lakehouse # Deploys a Lakehouse Architecture Solution
+https://github.com/googlecloudplatform/mfg-ml-examples # Practical examples of machine learning use cases in manufacturing
+https://github.com/googlecloudplatform/aira # AIRA is an open-source experiment (demo) created by Google Cloud Education Engineers
+that was put together to help educators across the globe on identifying reading gaps among students of different ages in the process of learning how to read and interpret a text. This repo has everything you need to put LIA to work in your institution. https://github.com/googlecloudplatform/migrationcenter-utils # Useful scripts, and other utilities for Migration Center.
+https://github.com/googlecloudplatform/aicoe # This repository contains an end-to-end walkthrough to leverage Google Cloud services
+to demonstrate Solution Accelerators for few business domains https://github.com/googlecloudplatform/terraform-google-log-analysis # Stores and analyzes log data
+https://github.com/googlecloudplatform/customer-experience-modernization # This open-source project aims to compile best practices,
+guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products. https://github.com/googlecloudplatform/dataproc-connect-visualization # Connecting your Visualization Software to Hadoop on Google
+Cloud https://github.com/googlecloudplatform/terraform-dataanalytics-eventdriven # Uses click-to-deploy to demonstrate how to load data f
+rom Cloud Storage to BigQuery using an event-driven load function. https://github.com/googlecloudplatform/mde-looker-project-template #
+https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/evaluating-cost-and-performance-of-bigquery-workloads #
+https://github.com/googlecloudplatform/terraform-google-dbt-composer-blueprint #
+https://github.com/googlecloudplatform/dialogflow-ccai-omnichannel # Omnichannel Customer Service on Google Cloud. Conversational A
+I for web, telephony, SMS, Google Assistant and mobile.
+
+https://github.com/looker-open-source/sdk-codegen # One SDK to rule them all, and in the codegen bind them
+https://github.com/looker-open-source/look-at-me-sideways # A style guide and linter for Looker's LookML data modeling language
+https://github.com/looker-open-source/gzr # A Command Line Tool for Looker Content Management
+https://github.com/looker-open-source/looker-explore-assistant # A React Application for interacting with Looker data through natur
+al language. https://github.com/looker-open-source/henry # A command line tool for Looker instance cleanup
+https://github.com/looker-open-source/lookr # An R library for the Looker API (4.0)
+https://github.com/looker-open-source/embed-sdk # The Looker browser embedding SDK
+https://github.com/looker-open-source/extension-gen-ai # Looker Extension GenAI - using LLMs to make exploration easier and getting
+dashboard insights https://github.com/looker-open-source/components # Looker's UI Components, Design Infrastructure and more
+https://github.com/looker-open-source/actions #
+https://github.com/looker-open-source/looker_deployer # A tool to help deploy objects from one Looker instance to another
+https://github.com/looker-open-source/customer-scripts # customer scripts
+https://github.com/looker-open-source/extension-examples # Examples and templates for use with the Looker Extension Framework.
+https://github.com/looker-open-source/dashboard-summarization #
+https://github.com/looker-open-source/block-cortex-sap # Cortex - Order to Cash and Finance
+https://github.com/looker-open-source/bqjdbc # Fork of Starschema's JDBC driver for BigQuery. https://code.google.com/p/starschema-
+bigquery-jdbc/ https://github.com/looker-open-source/admin_power_pack #
+https://github.com/looker-open-source/app-lookml-diagram # An "ERD for LookML". Now available for download on the Looker Marketplac
+e. https://github.com/looker-open-source/looker-sdk-ruby # Looker SDK for Ruby
+https://github.com/looker-open-source/app-data-dictionary #
+https://github.com/looker-open-source/app-ml-accelerator # Looker extension designed to give business users access to BigQuery and
+Vertex AI's machine learning capabilities. https://github.com/looker-open-source/lmanage #
+https://github.com/looker-open-source/viz-report-table-marketplace-open-source #
+https://github.com/looker-open-source/micro-admin-for-looker #
+https://github.com/looker-open-source/extension-api-explorer #
+https://github.com/looker-open-source/github_actions_looker_cicd # This is a repo that walks through the process on how to enable G
+ithub actions to automate a basic LookML testing suite. https://github.com/looker-open-source/vertex-ai-actions #
+https://github.com/looker-open-source/chatty # A simple iframe host/client channel manager
+https://github.com/looker-open-source/block-google-cloud-billing # Ticket # 200225073
+https://github.com/looker-open-source/bqml-actions # BigQuery ML Actions using Google Cloud Functions for Looker
+https://github.com/looker-open-source/viz-force_directed_graph-marketplace #
+https://github.com/looker-open-source/looker-query-insights #
+https://github.com/looker-open-source/looker_content_observer # A command line tool for automated checking of dashboards and looks
+across instances and branches https://github.com/looker-open-source/custom-viz-builder #
+https://github.com/looker-open-source/block-cortex-salesforce #
+https://github.com/looker-open-source/google_cloud_focus #
+https://github.com/looker-open-source/block-cloud-armor #
+https://github.com/looker-open-source/create-looker-extension # Create Looker Extensions with zero manual configuration
+https://github.com/looker-open-source/block-multicloud-billing-dashboard #
+https://github.com/looker-open-source/bqml_semantic_search_block #
+https://github.com/looker-open-source/block-cortex-demand-sensing #
+https://github.com/looker-open-source/block-cortex-meta #
+https://github.com/looker-open-source/block-workspace-audit-logs #
+https://github.com/looker-open-source/thelookevent #
+https://github.com/looker-open-source/block-multicloud-billing-bq-export #
+https://github.com/looker-open-source/block-cortex-sfmc #
+https://github.com/looker-open-source/block-aws-billing #
+https://github.com/looker-open-source/healthcare_operations_demo #
+https://github.com/looker-open-source/faa #
+https://github.com/looker-open-source/extension-google-ads-action # The Looker Google Ads Customer Match Demo Application is a Looker in-platform extension that utilizes an improved UI for leveraging the existing Google Ads Customer Match Action from Looker's Action Hub.
+https://github.com/looker-open-source/block-azure-billing #
+https://github.com/looker-open-source/call_center_demo #
+https://github.com/looker-open-source/financial_services_demo #
+https://github.com/looker-open-source/block-retail-search #
+https://github.com/looker-open-source/block-cortex-youtube #
+https://github.com/looker-open-source/ml-accelerator-tutorials #
+https://github.com/looker-open-source/retail_demo #
+https://github.com/looker-open-source/block-business-messages #
+https://github.com/looker-open-source/access-token-server #
+https://github.com/looker-open-source/saas_demo #
+https://github.com/looker-open-source/adwords_demo #
+https://github.com/looker-open-source/reusable-actions #
+https://github.com/looker-open-source/block-cortex-oracle-ebs #
+https://github.com/looker-open-source/block-cloud-ids #
+https://github.com/looker-open-source/equity-demo # repo for crypto MVP project

@@ -1,0 +1,8 @@
+https://github.com/googlecloudplatform/deploymentmanager-samples # Deployment Manager samples and templates.
+https://github.com/googlecloudplatform/gke-networking-demos # This project presents a number of best practices for establishing network links between Kubernetes Engine clusters, and exposing cluster services across Google Cloud projects. You will use a set of Deployment Manager templates to create networks, subnets, vpn connections, and Kubernetes Engine clusters.
+https://github.com/googlecloudplatform/marketplace-tools #
+https://github.com/googlecloudplatform/marketplace-autogen #
+https://github.com/googlecloudplatform/marketplace-testrunner #
+https://github.com/googlecloudplatform/solutions-compute-mysql-migration-haproxy # Migrating a MySQL Cluster to Compute Engine Using HAProxy
+https://github.com/googlecloudplatform/storage-sdrs # Data retention tool for Google Cloud Storage
+https://github.com/googlecloudplatform/serverless-log-trigger-demo # Demo code for real-time logging processing on GCP

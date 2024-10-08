@@ -1,0 +1,9 @@
+https://github.com/googlecloudplatform/apigee-samples # A repo for Apigee X/hybrid samples
+https://github.com/googlecloudplatform/apigee-anthos-service-mesh-demo # This demo extends the existing GCP Boutique Shop Microserv
+ices demo to show how to use Apigee for exposing internal gRPC services (inside the mesh) as RESTful API to external consumers (outside the mesh). https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform
+on GCP. https://github.com/googlecloudplatform/microservices-demo # Sample cloud-first application with 10 microservices showcasing Kuberne
+tes, Istio, and gRPC. https://github.com/googlecloudplatform/cloud-code-vscode # Cloud Code for Visual Studio Code: Issues, Documentation and more
+https://github.com/googlecloudplatform/click-to-deploy-solutions # This repository has Google Cloud solutions that you can deploy w
+ith a single click. https://github.com/googlecloudplatform/terraform-google-waap # Deploys the WAAP solution on Google Cloud
+https://github.com/googlecloudplatform/application-integration-management-toolkit # This tool lets you interact with Application I
+ntegration, Integration Connectors or Apigee Integration/Connector APIs. The tool lets you manage (create, del, get, list) integrations, connections etc. https://github.com/googlecloudplatform/openapi-generator-for-abap-sdk # Open API Generator for ABAP SDK for Google Cloud

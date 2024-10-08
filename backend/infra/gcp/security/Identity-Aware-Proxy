@@ -1,0 +1,35 @@
+https://github.com/googlecloudplatform/iap-desktop # IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
+https://github.com/googlecloudplatform/jit-groups # JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups.
+https://github.com/googlecloudplatform/serverless-game-contest # A system to manage game programming contests and demonstrate serve rless architecture.
+https://github.com/googlecloudplatform/security-analytics # Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud
+https://github.com/googlecloudplatform/beyondcorp-applink #
+https://github.com/googlecloudplatform/iap-gcip-web-toolkit #
+https://github.com/googlecloudplatform/gke-networking-recipes #
+https://github.com/googlecloudplatform/mqtt-broker-gcp-setup #
+https://github.com/googlecloudplatform/guacamole-on-gcp # Deploying Apache Guacamole on Google Cloud - provides terraform for deploying GCP resources as well as a Guacamole auth plugin to enable Identity Aware Proxy (IAP) integration.
+https://github.com/googlecloudplatform/spinnaker-for-gcp # Production-ready Spinnaker on GKE
+https://github.com/googlecloudplatform/solutions-builder #
+https://github.com/googlecloudplatform/stable-diffusion-on-gcp #
+https://github.com/googlecloudplatform/enterprise-knowledge-solution #
+https://github.com/googlecloudplatform/federated-learning # Federated Learning on Google Cloud
+https://github.com/googlecloudplatform/chef-google-compute #
+nd SSH access to Linux and Windows VMs on Google Cloud.
+https://github.com/googlecloudplatform/getting-started-python # Code samples for using Python on Google Cloud Platform
+https://github.com/googlecloudplatform/ai-on-gke # AI on GKE is a collection of examples, best-practices, and prebuilt solutions to help build, deploy, and scale AI Platforms on Google Kubernetes Engine
+https://github.com/googlecloudplatform/wombat-dressing-room # proxy designed to reduce the attack surface of npm publish
+https://github.com/googlecloudplatform/spring-cloud-gcp # New home for Spring Cloud GCP development starting with version 2.0.
+https://github.com/googlecloudplatform/cymbal-eats #
+https://github.com/googlecloudplatform/document-intake-accelerator #
+https://github.com/googlecloudplatform/cloud-composer-mssql-dataflow-bigquery # This repository contains an example of how to lever age Cloud Composer and Cloud Dataflow to move data from a Microsoft SQL Server to BigQuery. The diagrams below demonstrate the workflow pipeline.
+https://github.com/googlecloudplatform/terraform-google-crmint # Deploy the marketing analytics application, CRMint
+https://github.com/googlecloudplatform/terraform-google-vertex-ai # Deploy Vertex AI resources
+https://github.com/googlecloudplatform/enterprise-linux-stig-builder # The Enterprise Linux STIG Builder project is a Google Cloud Build automation to produce a DISA STIG-compliant RHEL 8 image, as well as an OpenSCAP Compliance report.
+https://github.com/googlecloudplatform/terraform-google-itar-architectures # Includes use cases for deploying ITAR-aligned architec tures on Google Cloud
+https://github.com/googlecloudplatform/appengine-cloud-demo-portal # Cloud Demo Portal is an App Engine web application which has s mall demos.
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+https://github.com/googlecloudplatform/resource-security-remediation #
+https://github.com/googlecloudplatform/data-sage-genai #
+https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Public Sector Landing Zone overlay on top of the TEF v ia CFT modules - a secure cloud foundation
+https://github.com/googlecloudplatform/gce-rescue # GCE Rescue is a command-line tool to boot Google Cloud Platform VMs in Rescue Mode. Topics
+https://github.com/googlecloudplatform/customer-experience-modernization # This open-source project aims to compile best practices,
+guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products.

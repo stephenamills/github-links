@@ -1,0 +1,31 @@
+https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
+https://github.com/googlecloudplatform/microservices-demo # Sample cloud-first application with 10 microservices showcasing Kuberne
+tes, Istio, and gRPC. https://github.com/googlecloudplatform/spanner-migration-tool # Spanner migration tool helps you migrate from your existing databas
+e/dump files to Spanner https://github.com/googlecloudplatform/cloud-spanner-emulator # An open source emulator for Cloud Spanner.
+https://github.com/googlecloudplatform/google-cloud-spanner-hibernate # The official Google Cloud Spanner Dialect for Hibernate ORM
+https://github.com/googlecloudplatform/cloud-spanner-r2dbc # R2DBC driver for Google Cloud Spanner
+https://github.com/googlecloudplatform/cpp-samples # C++ code samples for using Google Cloud Platform
+https://github.com/googlecloudplatform/k8s-config-connector # GCP Config Connector, a Kubernetes add-on for managing GCP resources
+https://github.com/googlecloudplatform/pgadapter # PostgreSQL wire-protocol proxy for Cloud Spanner
+https://github.com/googlecloudplatform/spring-cloud-gcp # New home for Spring Cloud GCP development starting with version 2.0.
+https://github.com/googlecloudplatform/grpc-gcp-node #
+https://github.com/googlecloudplatform/cymbal-superstore # 🍎 Sample app for AI-assisted development on Google Cloud.
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform
+on GCP. https://github.com/googlecloudplatform/cloud-spanner-samples #
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
+Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/terraform-google-cloud-spanner # Deploy Spanner instances
+https://github.com/googlecloudplatform/zetasql-toolkit # The ZetaSQL Toolkit is a library that helps users use ZetaSQL Java API to
+perform SQL analysis for multiple query engines, including BigQuery and Cloud Spanner. https://github.com/googlecloudplatform/dataflow-cookbook #
+https://github.com/googlecloudplatform/dynamodb-spanner-migration #
+https://github.com/googlecloudplatform/solutions-spanner-sequences # This repository contains example code to accompany the Sequenc
+e generation in Cloud Spanner solution paper. https://github.com/googlecloudplatform/opencensus-spanner-demo #
+https://github.com/googlecloudplatform/node-red-contrib-google-cloud # Node-RED nodes for Google Cloud Platform
+https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/dataflow-solution-guides # The Dataflow Solution Guides offer full end-to-end deployment for
+the most common streaming solutions to run on Dataflow. https://github.com/googlecloudplatform/chef-google-spanner #
+https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/cymbal-eats #
+https://github.com/googlecloudplatform/datacatalog-tag-engine # Tag Engine automates the process of creating, updating, deleting, a
+nd populating metadata in bulk with the Google Cloud services Data Catalog and Dataplex. Tag Engine is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.https://github.com/googlecloudplatform/spanner-data-validator #
+https://github.com/googlecloudplatform/professional-services-data-validator # Utility to compare data between homogeneous or hetero
+geneous environments to ensure source and target tables match
