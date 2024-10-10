@@ -1,3 +1,5 @@
+SQLite
+
 https://github.com/sqlitebrowser/dbhub.io # A "Cloud" for SQLite databases.
 https://github.com/sqlitebrowser/dio # A powerful command line interface for working with DBHub.io
 https://github.com/sqlitebrowser/go-dbhub # A Go library for accessing and using SQLite databases on DBHub.io
@@ -18,12 +20,43 @@ https://github.com/sqlitecloud/sqlitecloud-php # PHP drivers for SQLiteCloud
 https://github.com/sqlitecloud/docsearch-action # SQLite Cloud documents full-text search action.
 https://github.com/sqlitecloud/sqlitecloud-kotlin # SQLite Cloud Kotlin SDK
 
+https://github.com/canonical/dqlite # Embeddable, replicated and fault-tolerant SQL engine.
+https://github.com/canonical/go-dqlite # Go bindings for libdqlite
+https://github.com/canonical/microcluster # dqlite cluster management using go-dqlite
+https://github.com/canonical/k8s-dqlite # Dqlite for Kubernetes
+https://github.com/canonical/upptime # 📈 Uptime monitor and status page for Canonical web and design team, powered by @upptime
+
 https://github.com/pocketbase/pocketbase # Open Source realtime backend in 1 file
 https://github.com/pocketbase/js-sdk # PocketBase JavaScript SDK
 https://github.com/pocketbase/dart-sdk # PocketBase Dart SDK
 https://github.com/pocketbase/site # PocketBase Site
 https://github.com/pocketbase/benchmarks # PocketBase test application with various benchmarks
 https://github.com/pocketbase/tygoja # Experimental helper library for generating TypeScript declarations from Go code
+
+https://github.com/azure-samples/dapr-store # Sample application showcasing the use of Dapr to build microservices based apps
+https://github.com/microsoft/workshop-library # A library of workshops written by and for Microsoft Learn Student Ambassadors and Cloud Advocates and their local communities
+onfigured phone number!
+https://github.com/microsoft/mlos-autotuning-template # A basic template repo for doing MLOS tuning development work
+https://github.com/microsoft/secure-my-api # An example HTTP API that needs to be secured using the power of GitHub Copilot
+
+https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples # A collection of sample scripts to customize Amazon SageMaker Notebook Instances using Lifecycle Configurations
+https://github.com/aws-samples/industrial-data-store-simulation-chatbot # This code sample deploy a realistic simulated Manufacturing Execution System hosted on SQLite and a companion chatbot application powered by Amazon Bedrock to query data from the MES using natural language
+https://github.com/aws-samples/amazon-verified-permissions-asp-dotnet-core-custom-auth-policy-provider #
+https://github.com/aws-samples/agentsforbedrock-retailagent # End to end example of a Retail Agent implemented with agents for Amazon Bedrock
+https://github.com/aws-samples/berkeley-room-designer #
+https://github.com/aws-samples/natural-language-queries-for-datalakes #
+https://github.com/aws-samples/aws-elemental-conductor-amazon-sns # This split and stitch addon works with Elemental Conductor for acceleration of transcoding.
+https://github.com/aws-samples/bedrock-agent-and-telecom-apis # Agents for Amazon Bedrock and Telecom API
+https://github.com/aws-samples/improve-employee-productivity-using-genai # Employee Productivity GenAI Assistant Example is an innovative code sample and architecture pattern designed to enhance writing tasks efficiency using AWS serverless technologies and Amazon Bedrock's generative AI models.
+https://github.com/aws-samples/aws-reinvent-2019-builders-session-opn215 #
+
+https://github.com/awslabs/mls-rs # An implementation of Messaging Layer Security (RFC 9420)
+https://github.com/awslabs/aws-mobile-appsync-sdk-ios # iOS SDK for AWS AppSync.
+https://github.com/awslabs/unified-text2sql-benchmark # UNITE: A Unified Benchmark for Text-to-SQL Evaluation
+https://github.com/aws/aws-elastic-beanstalk-cli-setup # Simplified EB CLI installation mechanism.
+https://github.com/aws/aws-xray-sdk-python # AWS X-Ray SDK for the Python programming language
+https://github.com/aws/aws-xray-sdk-dotnet # The official AWS X-Ray SDK for .NET.
+https://github.com/oracle/kconfigs # Tool for extracting Linux kernel configurations from many distributions & displaying a web UI
 
 https://github.com/learn-co-curriculum/python-p3-setting-up-sqlite
 https://github.com/learn-co-curriculum/python-p3-writing-db-commands-to-a-file
