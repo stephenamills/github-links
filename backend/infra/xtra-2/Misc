@@ -580,6 +580,27 @@ https://github.com/corsego/119-trello-drag-drop-save # Trello
 https://github.com/hopegipson/spotify_clone # Spotify
 https://github.com/zkural1/alljourneys # AllTrails
 
+https://github.com/googlecloudplatform/appengine-ruby # Optional integration library for the Ruby runtime for Google App Engine
+https://github.com/googlecloudplatform/serverless-exec-ruby #
+
+https://github.com/googleapis/ruby-spanner-activerecord # Spanner<->ActiveRecord adapter for Ruby
+https://github.com/google/sqlcommenter #
+https://github.com/google/safe-active-record # Security middleware to defend against SQL injection in Active Record.
+https://github.com/google/yaml-ui-editor # YAML UI editor application with Git repository storage
+
+https://github.com/azure-samples/ruby-docs-hello-world # A simple ruby application for docs
+https://github.com/azure-samples/rubyrails-tasks # A simple Ruby on Rails application that demonstrates how to build data-driven Ruby apps in Azure App Service
+
+https://github.com/aws-samples/rails-lambda-handler #
+https://github.com/awslabs/aws-lambda-web-adapter # Run web applications on AWS Lambda
+
+https://github.com/aws/aws-sdk-rails # Official repository for the aws-sdk-rails gem, which integrates the AWS SDK for Ruby with Ruby on Rails.
+
+https://github.com/oracle-devrel/oci-arch-rubyonrails-mds # Simple Ruby on Rails Application on Oracle Cloud Infrastructure
+https://github.com/oracle-devrel/terraform-oci-ruby # A sample showing how Ruby (and Ruby on Rails) might be installed on OCI
+https://github.com/oracle-devrel/oci-arch-ruby-rails-build # oci-arch-ruby-rails-build
+https://github.com/oracle-devrel/terraform-oci-arch-ruby-rails-devops-pipeline # terraform-oci-arch-ruby-rails-devops-pipeline
+
 Appwrite
 
 Supabase
