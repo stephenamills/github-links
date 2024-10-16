@@ -33,9 +33,14 @@ https://github.com/pocketbase/site # PocketBase Site
 https://github.com/pocketbase/benchmarks # PocketBase test application with various benchmarks
 https://github.com/pocketbase/tygoja # Experimental helper library for generating TypeScript declarations from Go code
 
-https://github.com/azure-samples/dapr-store # Sample application showcasing the use of Dapr to build microservices based apps
+https://github.com/azure-samples/dapr-store # Sample application showcasing the use of Dapr
+
+https://github.com/microsoft/windows-appsample-customers-orders-database # Customer order database hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app.
+https://github.com/microsoft/buildcast # Example UWP Media Application to show best practices
+https://github.com/microsoft/windows-tutorials-customer-database # Starting point for Customer Database tutorial.
 https://github.com/microsoft/workshop-library # A library of workshops written by and for Microsoft Learn Student Ambassadors and Cloud Advocates and their local communities
-onfigured phone number!
+https://github.com/microsoft/inventorysample # Sample UWP application for LOB scenarios
+https://github.com/microsoft/call-center-ai # Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 https://github.com/microsoft/mlos-autotuning-template # A basic template repo for doing MLOS tuning development work
 https://github.com/microsoft/secure-my-api # An example HTTP API that needs to be secured using the power of GitHub Copilot
 
@@ -49,14 +54,6 @@ https://github.com/aws-samples/aws-elemental-conductor-amazon-sns # This split a
 https://github.com/aws-samples/bedrock-agent-and-telecom-apis # Agents for Amazon Bedrock and Telecom API
 https://github.com/aws-samples/improve-employee-productivity-using-genai # Employee Productivity GenAI Assistant Example is an innovative code sample and architecture pattern designed to enhance writing tasks efficiency using AWS serverless technologies and Amazon Bedrock's generative AI models.
 https://github.com/aws-samples/aws-reinvent-2019-builders-session-opn215 #
-
-https://github.com/awslabs/mls-rs # An implementation of Messaging Layer Security (RFC 9420)
-https://github.com/awslabs/aws-mobile-appsync-sdk-ios # iOS SDK for AWS AppSync.
-https://github.com/awslabs/unified-text2sql-benchmark # UNITE: A Unified Benchmark for Text-to-SQL Evaluation
-https://github.com/aws/aws-elastic-beanstalk-cli-setup # Simplified EB CLI installation mechanism.
-https://github.com/aws/aws-xray-sdk-python # AWS X-Ray SDK for the Python programming language
-https://github.com/aws/aws-xray-sdk-dotnet # The official AWS X-Ray SDK for .NET.
-https://github.com/oracle/kconfigs # Tool for extracting Linux kernel configurations from many distributions & displaying a web UI
 
 https://github.com/learn-co-curriculum/python-p3-setting-up-sqlite
 https://github.com/learn-co-curriculum/python-p3-writing-db-commands-to-a-file

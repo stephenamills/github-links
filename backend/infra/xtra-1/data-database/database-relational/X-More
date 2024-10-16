@@ -1,0 +1,346 @@
+Oracle Database
+https://github.com/oracle-samples/db-sample-schemas # Oracle Database Sample Schemas
+https://github.com/oracle-samples/oracle-db-examples # Examples of applications and tool usage for Oracle Database
+https://github.com/oracle-samples/oaim-sandbox # GenAI/RAG Sandbox for experimentation using Oracle Database AI Vector Search data sync middle tier using OCI. This one uses Autonomous JSON DB(AJD), API Gateway, Functions, Vault, OCI Registry.
+https://github.com/oracle-samples/genai-langchainjava-sample # This sample code demonstrates the use of the LangChain Java framework with OCI Gen AI Service. The sample supports Large Language Model, HTTP Request Chain and SQL Chain for Oracle Database.
+https://github.com/oracle-quickstart/oci-cloudnative # MuShop - Cloud Native microservices demo for Oracle Cloud Infrastructure
+https://github.com/oracle-quickstart/fastapi-oracle-database-example #
+https://github.com/oracle-quickstart/webapp-python-oracledb-flask-api #
+https://github.com/oracle-devrel/springai-rag-db23ai # springai-rag-db23ai
+https://github.com/oracle-devrel/oci-arch-rubyonrails-mds # Simple Ruby on Rails Application on Oracle Cloud Infrastructure
+https://github.com/oracle-livelabs/database #
+https://github.com/oracle-livelabs/database-maa #
+https://github.com/oracle-livelabs/cloud-database-services #
+https://github.com/oracle/docker-images # Official source of container configurations, images, and examples for Oracle products and projects
+https://github.com/oracle/json-in-db # Oracle Database JSON Examples
+https://github.com/oracle/nosql-examples # This is a top level repository for code examples related to the use of Oracle NoSQL Database.
+https://github.com/oracle/microservices-datadriven # Sample code of application examples to build microservices with converged Oracle database and cloud services
+https://github.com/oracle/free # Free Oracle technologies for Developers
+https://github.com/oracle/oci-react-samples # A series of simple Cloud Native app using React JS frontend, various backends (Java, Python, DotNet) and the Autonomous database.
+https://dbdb.io/db/oracle-rdbms
+SQL Server
+https://github.com/googlecloudplatform/database-assessment # Database Migration Assessment
+https://github.com/googlecloudplatform/spanner-migration-tool # Spanner migration tool helps you migrate from your existing database/dump files to Spanner
+https://github.com/googlecloudplatform/cloud-composer-mssql-dataflow-bigquery # This repository contains an example of how to leverage Cloud Composer and Cloud Dataflow to move data from a Microsoft SQL Server to BigQuery. The diagrams below demonstrate the workflow pipeline.
+https://github.com/googlecloudplatform/dotnet-migration-sample #
+https://github.com/googlecloudplatform/invoice-insights #
+s https://github.com/googlecloudplatform/data-migration-tool # DMT is an end to end automation of data warehouse migration, focused on extraction, SQL translation, data migration, data validation, etc. The main goal is to reduce migration delivery time
+https://github.com/googleapis/langchain-google-cloud-sql-mssql-python #
+https://github.com/mspnp/app-service-environments-ilb-deployments #
+https://github.com/azure-samples/azure-sql-db-change-stream-debezium # SQL Server Change Stream sample using Debezium
+https://github.com/azure-samples/dotnetcore-sqldb-ghactions # GitHub Actions sample for .NET Core Web Application with Azure SQ
+L Server database backend https://github.com/azure-samples/data-migration-sql # This is a repository of script samples to migrate SQL Server databases to
+Azure using Azure Database Migration Service https://github.com/azure-samples/smartbulkcopy # High-Speed Bulk Copy tool to move data from one Azure SQL / SQL Server databas
+e to another. Smartly uses logical or physical partitions to maximize speed. https://github.com/azure-samples/dab-swa-todo # End-to-end Jamstack Todo list application with Data API builder and Static Web
+Apps https://github.com/azure-samples/quickstart-spring-data-jdbc-sql-server # Sample application for https://docs.microsoft.com/azu
+re/developer/java/spring-framework/configure-spring-data-jdbc-with-azure-sql-server https://github.com/azure-samples/azure-sql-db-todo-mvc # Full-Stack implementation of the famous ToDoMVC: Vue.js, .NET Core RES
+T API, Azure SQL https://github.com/azure-samples/azure-cost-management-dashboard # Repository with sample project to consume Azure Cost Managem
+ent APIs https://github.com/azure-samples/quickstart-spring-data-jpa-sql-server # Sample application for https://docs.microsoft.com/azur
+e/developer/java/spring-framework/configure-spring-data-jpa-with-azure-sql-server https://github.com/azure-samples/azure-sql-db-django # REST API using Python, Django, Azure SQL DB & mssql-django driver
+https://github.com/azure-samples/dotnetcore-containerized-sqldb-ghactions # GitHub Actions sample for containerized .NET Core W
+eb Application with Azure SQL Server database backend https://github.com/azure-samples/sql-ai-samples # Samples using AI and Azure SQL DB
+https://github.com/azure-samples/azure-sql-db-prisma # Full-Stack End-To-End implementation - both with REST and GraphQL suppor
+t - with Azure SQL and Prisma.io of the well-known To-do list sample. https://github.com/azure-samples/millionsongdataset-sql # Working with the Million Song Dataset in Azure SQL and SQL Server
+https://github.com/azure-samples/keyvault-rotation-sqlpassword-csharp # Key Vault SQL Password Rotation Functions
+https://github.com/azure-samples/azure-sql-db-fullstack-serverless-kickstart # Fullstack/Jamstack solution with Vue.js, Azure F
+unctions, Azure Static Web apps and Azure SQL. https://github.com/azure-samples/azure-sql-db-session-recommender # Build a recommender using OpenAI, Azure Functions, Azure St
+atic Web Apps, Azure SQL DB, Data API builder and Text Embeddings https://github.com/azure-samples/nlp-sql-in-a-box #
+https://github.com/azure-samples/sql-database-dotnet-manage-import-export-db # Getting started with importing and exporting SQL
+databases in C# https://github.com/azure-samples/active-directory-aspnetcore-webapp-openidconnect-v2 # An ASP.NET Core Web App which lets sign-
+in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph) https://github.com/azure-samples/sql-database-dotnet-manage-sql-dbs-in-elastic-pool # Getting started on managing SQL databases
+in elastic pools in C# https://github.com/azure-samples/sql-database-dotnet-manage-db # Getting started on managing SQL databases in C#
+https://github.com/azure-samples/azure-sql-db-who-am-i # Passwordless authentication with Azure SQL database and .Net
+https://github.com/azure-samples/mssql-django-samples # This repo contains tested reference examples of using Django with SQL S
+ervers. https://github.com/azure-samples/eshoponaks # Fork of https://github.com/dotnet-architecture/eShopOnWeb to demonstrate its depl
+oyment to AKS https://github.com/azure-samples/gov-paas-sample # A Web App on Azure Government that utilizes different Azure PaaS services
+https://github.com/azure-samples/azure-sql-db-vector-search #
+https://github.com/azure-samples/sql-database-dotnet-manage-sql-server-keys-with-azure-key-vault # Getting started on managing
+SQL server keys with Azure key vault keys in C# https://github.com/azure-samples/azure-sql-binding-func-dotnet-todo # Todo Backend with Azure SQL binding for Azure Functions a
+nd .NET https://github.com/azure-samples/app-service-dotnet-manage-data-connections-for-web-apps # Getting started on managing data con
+nections (such as SQL Database and Redis Cache) for Web Apps in C# https://github.com/azure-samples/sql-database-dotnet-manage-firewalls-for-sql-databases # Getting started on managing firewalls
+for sql databases in C# https://github.com/azure-samples/azure-sql-db-session-recommender-v2 # Build a Retrieval Augmented Generation solution using Op
+enAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings https://github.com/azure-samples/quickstart-spring-data-r2dbc-sql-server # Sample application for https://docs.microsoft.com/az
+ure/developer/java/spring-framework/configure-spring-data-r2dbc-with-azure-sql-server https://github.com/azure-samples/ms-identity-dotnet-advanced-token-cache # Samples covering advanced token cache scenarios, suc
+h as integrating cache between a web app and background worker, leveraging Msal.net and Microsoft.Identity.Web. https://github.com/azure-samples/app-sql-devops-demo-project # Demos for integrated CI / CD spanning Azure SQL DB, Azure App Se
+rvice and Azure DevOps https://github.com/azure-samples/dotnet-container-app # This repository contains an example application developed in dotnet usi
+ng containers https://github.com/azure-samples/python-ms-sql-devcontainer # Python 3 and MS-SQL Server Devcontainer template
+https://github.com/azure-samples/azure-sql-library-app-blazor # Library app built with SQL Server and Data API builder as backe
+nd, and Blazor as frontend. https://github.com/azure-samples/azure-sql-db-ci-cd # Azure SQL DB CI/CD Sample Solution
+https://github.com/azure-samples/azuresandbox # Stand up an Azure sandbox environment for accelerating your projects in an hour
+. https://github.com/azure-samples/azure-sql-db-openai # Samples on how to use Azure SQL database with Azure OpenAI
+https://github.com/azure-samples/sqlbindings-python-datatransfer # Sample code for Python Azure Functions connecting to Azure S
+QL https://github.com/azure-samples/ms-identity-aspnet-webapi-onbehalfof # Web API calling a downstream API on behalf of the user
+using the Microsoft identity platform (formerly named Azure AD) v2.0 enpoint https://github.com/azure-samples/sql-database-java-manage-db # Getting started on managing SQL databases using Java
+https://github.com/azure-samples/sql-database-dotnet-manage-sql-databases-across-regions # Getting started on managing SQL data
+bases across regions in C# https://github.com/azure-samples/sql-database-java-manage-sql-databases-across-regions # Getting started with managing SQL data
+bases across regions using Java https://github.com/azure-samples/sql-database-dotnet-manage-recover-or-restore-db # Getting started with recover and restore op
+erations for SQL databases in C# https://github.com/azure-samples/azure-sql-db-python-rest-api # REST API using Python, Flask and Azure SQL
+https://github.com/azure-samples/dab-adventureworks-lt # Turn AdventureWorksLT sample database into a REST and GraphQL service
+with Data API builder https://github.com/azure-samples/azure-sql-db-sync-api-change-tracking # Using Azure SQL Change Tracking API to Sync mobile App
+s data with the Cloud https://github.com/azure-samples/dab-azure-sql-quickstart # Quickstart application template for Data API builder and Azure SQL
+database https://github.com/azure-samples/sql-database-java-manage-import-export-db # Getting started with importing and exporting SQL d
+atabases using Java https://github.com/azure-samples/sql-database-dotnet-manage-sql-failover-groups # Getting started on managing SQL failover grou
+ps in C# https://github.com/azure-samples/app-service-networking-samples # This repo contains a sample application and demos for various
+app service networking setups https://github.com/azure-samples/azure-sql-db-redis # Modern end-to-end solution for building a realtime leaderboard solution A
+zure SQL DB, Redis and .NET https://github.com/azure-samples/azure-sql-db-todo-backend-func-node # Todo Backend with Azure Functions, Node and Azure SQL
+https://github.com/azure-samples/function-call-dynamic-query-demo # FastAPI app that takes a users prompt, transforms it to a S
+QL query and fetches the result from an Azure SQL Database through an OpenAI function call. https://github.com/azure-samples/azure-sql-db-serverless-geospatial # Get realtime public transportation data and never miss th
+e bus again with Azure SQL, Azure Functions and IFTT https://github.com/azure-samples/app-service-dotnet-manage-data-connections-for-web-apps-on-linux # Getting started on managing
+data connections (such as SQL Database and Redis Cache) for Web Apps on Linux using C# https://github.com/azure-samples/app-service-java-manage-data-connections-for-web-apps # Getting started on managing data conne
+ctions (such as SQL Database and Redis Cache) for Web Apps using Java https://github.com/azure-samples/data-api-builder # Various samples on how to use Data API builder for Azure Databases
+https://github.com/azure-samples/sql-database-java-manage-sql-secrets-in-key-vault # Get started with managing SQL secrets (Ser
+ver Keys) in Azure Key Vault using Java https://github.com/azure-samples/highly-available-zone-redundant-webapp # This reference architecture sample shows how to run a
+web-app workload on Azure App Services in a zone-redundant configuration. https://github.com/azure-samples/dab-library-demo-containers # Build your APIs with DAB using containers to get an isolated, an
+d lightweight local development experience. https://github.com/azure-samples/sqlaiworkshop # SQL and AI Workshop
+https://github.com/azure-samples/elastic-jobs-samples # Elastic Jobs Samples
+https://github.com/azure-samples/azure-cache-redis-demos # This repository contains demo projects demonstrating best practices
+and recommendations for incorporating Azure Cache for Redis into cloud-native applications on various platforms https://github.com/azure-samples/sql-database-java-manage-sql-server-dns-aliases # Get started with managing SQL Server DNS ali
+ases using Java https://github.com/azure-samples/azure-sql-db-serverless-geospatial-stream-analytics # Monitor GeoFences in real-time using Azu
+re SQL and Stream Analytics https://github.com/azure-samples/databricks-observability # OpenTelemetry Demo with Azure Databricks and Azure Monitor
+https://github.com/azure-samples/azure-sql-db-rag-langchain-chainlit # Sample RAG pattern using Azure SQL DB, Langchain and Cha
+inlit https://github.com/azure-samples/sql-database-dotnet-get-sql-server-metrics # Getting started on getting SQL server metrics in
+C# https://github.com/azure-samples/sql-database-dotnet-manage-sql-server-dns-aliases # Getting started on managing SQL server DNS
+aliases in C# https://github.com/azure-samples/sql-database-java-manage-sql-server-security-alert-policy # Get started with managing SQL serv
+er security alert policy using Java https://github.com/azure-samples/semtech-lr1110-azureiot-integration # Sample code to onboard Semtech's LoRa Edge tracker into
+Azure IoT, including payload decoding via LoRa Cloud geolocation services. https://github.com/azure-samples/sql-database-java-manage-failover-groups # Get started with managing SQL Database Failover Gro
+ups using Java https://github.com/azure-samples/sql-database-java-get-sql-metrics # Get SQL Database metrics using Java
+https://github.com/azure-samples/azure-sql-spark-connector-notebook-sample #
+https://github.com/azure-samples/sql-database-java-manage-firewalls-for-sql-databases # Getting started on managing firewalls f
+or sql databases using Java https://github.com/azure-samples/sql-database-dotnet-manage-sql-virtual-network-rules # Getting started on managing SQL virtual
+network rules in C# https://github.com/azure-samples/azure-sql-db-dynamic-schema-ef # Samples on how efficiently to handle dynamic schemas in Azure
+SQL using EF Core https://github.com/azure-samples/sql-database-java-manage-virtual-network-rules # Get started with managing SQL Virtual Network
+Rules using Java https://github.com/azure-samples/app-service-java-manage-data-connections-for-web-apps-on-linux # Getting started on managing d
+ata connections (such as SQL Database and Redis Cache) for Web Apps on Linux using Java https://github.com/azure-samples/sql-database-java-manage-sql-dbs-in-elastic-pool # Getting started on managing SQL databases i
+n elastic pools using Java https://github.com/azure-samples/sql-database-java-manage-recover-restore-db # Getting started with recovering and restoring SQ
+L databases using Java https://github.com/azure-samples/web-app-redis-sql-db # This sample shows how to configure an Azure App Service to access Azure
+Cache for Redis and Azure SQL Database via regional VET integration and Private Endpoints. https://github.com/azure-samples/bak-to-bacpac # About This project will ingest a SQL Server .bak file into Azure File Share, c
+reate an Azure Container Instance running SQL Server, restore the database, and create a bacpac for import into Azure SQL Database. https://github.com/azure-samples/azure-sql-blazor-tag-game-sample # A sample Blazor WASM online game with the backend APIs impl
+emented with Azure SQL bindings for Azure Functions. https://github.com/azure-samples/azure-cosmos-db-graph-npm-bom-sample # Sample application describing a Bill of Materials scena
+rio through an NPM (Node package manager) dependency explorer solution. Code by Chris Joakim (https://github.com/cjoakim/). https://github.com/azure-samples/azure-sql-db-fusioncache # Using FusionCache with Azure SQL Database is a good way to have an
+happier life! https://github.com/azure-samples/azure-monitor-private-link-scope # This sample shows how to configure an Azure Monitor Private
+Link Scope (AMPLS) to let an App Service with regional VNET integration to connect privately to Azure Monitor. https://github.com/azure-samples/azure-sql-db-secure-data-access-api # Creating API that can guarantee secured and controlled d
+ata access to your data https://github.com/azure-samples/cosmicclone # Cosmic Clone is a utility that can backup\clone\restore a azure Cosmos database
+Collection. It can also anonymize cosmos documents and helps hide personally identifiable data. https://github.com/azure-samples/highly-available-zone-redundant-ipaas # Bicep template for Highly available zone-redundant iPa
+aS application reference architecture. https://github.com/azure/azure-policy # Repository for Azure Resource Policy built-in definitions and samples
+https://github.com/azure/terraform-azurerm-database # Terraform Azure RM Module for Database
+https://github.com/azure/aspnet-redis-providers # ASP.NET Redis Providers
+https://github.com/azure/sql-action # 🚀 Deploy changes to your SQL database easily with SQL projects or SQL scripts and sql-ac
+tion for GitHub workflows https://github.com/azure/azure-functions-sql-extension # Azure SQL bindings for Azure Functions ⚡️ supports Azure SQL Database,
+Azure SQL Managed Instance, and SQL Server 2016+ https://github.com/azure/terraform-azurerm-naming #
+https://github.com/azure/azqr # Azure Quick Review
+https://github.com/azure/sql-migration-azuresql-poc # This repository is created to support one-click PoC for Azure SQL
+https://github.com/azure/durabletask # Durable Task Framework allows users to write long running persistent workflows in C# usi
+ng the async/await capabilities. https://github.com/azure/kdd2017r # Tutorial on Scaling R at KDD 2017
+https://github.com/azure/hardened-webapp #
+https://github.com/azure/hpcpack-template-2016 # Deploy an HPC Pack 2016 cluster in Azure
+https://github.com/azure/commercial-marketplace-saas-accelerator # A reference example with sample code for developers interest
+ed publishing transactable, Software as a-Service offers in the Microsoft commercial marketplace. https://github.com/azure/resourcemodules # This repository includes a CI platform for and collection of mature and curated Bice
+p modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines. https://github.com/azure/gpt-rag # Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise sc
+ale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. https://github.com/azure/dataverse-to-sql # Repository of the DataverseToSql tool for the incremental copy of data between Syna
+pse Link for Dataverse and Azure SQL Database https://github.com/azure/azure-libraries-for-net # Azure libraries for .Net
+https://github.com/azure/jp-techdocs # A repository for providing Japanese technical documents by volunteer employees belonging
+to technical divisions in Microsoft Japan. https://github.com/azure/hpcpack-template-2012r2 # Deploy an HPC cluster in Azure with Microsoft HPC Pack 2012 R2 Update 3
+https://github.com/azure/feathr # Contains Sample codes, additional tools, experimental or pilot features for LinkedIn Feathr F
+eature Store https://github.com/azure/agw-pep-custom-names # Azure Application Gateway: Private Endpoint Custom Name Solution Reference Arch
+itecture and Tests https://github.com/azure/arm-deploy # ARM action to deploy an Azure Resource Manager (ARM) template to all the deployment scope
+s https://github.com/azure/data-product-batch # Template to deploy a Data Product for Batch data processing into a Data Landing Z
+one of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics). The Data Product template can be used by cross-functional teams to ingest, provide and create new data assets within the platform. https://github.com/azure/elenchus # Machine teaching with Azure SQL
+https://github.com/azure/uk-official-paas-webapp # Azure Security and Compliance Blueprint - PaaS Web Application Hosting for U
+K OFFICIAL Workloads https://github.com/azure/terraform-azurerm-avm-res-sql-server #
+https://github.com/azure/semantic-kernel-bot-in-a-box # Extensible Semantic Kernel Bot Solution Accelerator
+https://github.com/azure/azure-sql-feedback-hub # A consolidated list of links where to report feedback and ideas on Azure SQL
+and related technologies https://github.com/azure/appservice-landing-zone-accelerator # The Azure App Service landing zone accelerator is an open-source
+collection of architectural guidance and reference implementation to accelerate deployment of Azure App Service at scale. https://github.com/azure/sql-modernisation-hack #
+https://github.com/azure/test-drive-synapse-link-for-sqldb-with-1-click #
+https://github.com/azure/fedramp-iaas-webapp # Azure Security and Compliance Blueprint - FedRAMP Web Applications Automation
+https://github.com/azure/terraform-azurerm-avm-ptn-network-private-link-private-dns-zones # The AVM pattern module to deploy al
+l the required private link private DNS zones for supported services. https://github.com/azure/azure-relay-bridge # Azure Relay Bridge - A cross-platform command line tool to create VPN-less TCP tu
+nnels from and to anywhere https://github.com/azure/langchain-sqlserver # Langchain package SQL Server and Azure SQL
+https://github.com/azure/terraform-azurerm-subnets # Terraform module to create/provision Azure Virtual Network and Subnets
+https://github.com/azure/terraform-azurerm-caf-enterprise-scale # Azure landing zones Terraform module
+https://github.com/azure/jumpstart-cerebral # Global Hackathon 2024 - "Cerebral" (Copilot for Industries)
+https://github.com/azure/adaw #
+https://github.com/azure/maximo # Maximo on Azure
+https://github.com/azure/iot-central-bidirectional-device-bridge # The Device Bridge enables the connection of devices to Azure
+IoT Central in scenarios where it's not possible to use the Azure IoT Device SDKs. https://github.com/azure/diagnostics-eventflow # Microsoft Diagnostics EventFlow
+https://github.com/microsoft/sql-server-samples # Azure Data SQL Samples - Official Microsoft GitHub Repository containing code
+samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge https://github.com/microsoft/sqlworkshops # SQL Server Workshops
+https://github.com/microsoft/vscode-mssql # Visual Studio Code SQL Server extension.
+https://github.com/microsoft/mssql-docker # Official Microsoft repository for SQL Server in Docker resources
+https://github.com/microsoft/msphpsql # Microsoft Drivers for PHP for SQL Server
+https://github.com/microsoft/sql-server-r-services-samples # Advanced analytics samples and templates using SQL Server R Servic
+es https://github.com/microsoft/sqlworkshops-sql2019workshop # SQL Server 2019 Workshop
+https://github.com/microsoft/reportingservicestools # Reporting Services Powershell Tools
+https://github.com/microsoft/mssql-jdbc # The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides databa
+se connectivity with SQL Server through the standard JDBC application program interfaces (APIs). https://github.com/microsoft/mssql-django # The Microsoft Django backend for SQL Server provides a connectivity layer for Djang
+o on SQL Server or Azure SQL DB. https://github.com/microsoft/sql-spark-connector # Apache Spark Connector for SQL Server and Azure SQL
+https://github.com/microsoft/reporting-services # Git repo for SQL Server Reporting Services and Power BI paginated report samp
+les, and community projects https://github.com/microsoft/sql-server-language-extensions # language-extensions-sqlserver
+https://github.com/microsoft/sqltoolsservice # SQL Tools API service that provides SQL Server data management capabilities.
+https://github.com/microsoft/sqlworkshops-sql2022workshop # A workshop to learn about SQL Server 2022
+https://github.com/microsoft/diagmanager # Pssdiag/Sqldiag Manager is a graphic interface that provides customization capabilit
+ies to collect data for SQL Server using sqldiag collector engine. The data collected can be used by SQL Nexus tool which help you troubleshoot SQL Server performance problems. This is the same tool Microsoft SQL Server support engineers use to for data collection to troubleshoot customer's performance problems. https://github.com/microsoft/sample-app-aoai-chatgpt # Sample code for a simple web chat experience through Azure OpenAI, inclu
+ding Azure OpenAI On Your Data. https://github.com/microsoft/sqlworkshops-azuresqlworkshop # Azure SQL Workshop
+https://github.com/microsoft/sqlworkshops-sql2019lab # SQL Server 2019 Lab
+https://github.com/microsoft/sqlworkshops-sqlonopenshift # SQL Server on OpenShift Workshop
+https://github.com/microsoft/sqlnexus # SQL Nexus is a tool that helps you identify the root cause of SQL Server performance is
+sues. It loads and analyzes performance data collected by SQL LogScout, SQLDiag or PSSDiag. It can dramatically reduce the amount of time you spend manually analyzing data. https://github.com/microsoft/sqldev # Source code for SQL Server and Azure SQL DB developer getting started tutorials: https://
+www.microsoft.com/en-us/sql-server/developer-get-started/ https://github.com/microsoft/bobsql # demos, scripts, samples, and code from the two bobs who work at Microsoft on SQL Server
+https://github.com/microsoft/homebrew-mssql-release #
+https://github.com/microsoft/analysis-services # Git repo for Analysis Services samples and community projects
+https://github.com/microsoft/css_sql_networking_tools # Tools used by the SQL Networking Customer Support Team
+https://github.com/microsoft/sql-ml-tutorials # SQL Server tutorials for Python and R
+https://github.com/microsoft/sqlmanagementobjects # Sql Management Objects, an API for scripting and managing SQL Server and Az
+ure SQL Database https://github.com/microsoft/sqllinuxlabs # Self-paced labs for SQL Server on Linux and Docker Containers
+https://github.com/microsoft/azuresynapsescriptsandaccelerators #
+https://github.com/microsoft/rdlmigration # Tool that converts RDL from a SQL Server Reporting Services Server or Power BI Repo
+rt server and published to a Power BI premium workspace https://github.com/microsoft/sqlworkshops-bdc #
+https://github.com/microsoft/azuredatastudio # Azure Data Studio is a data management and development tool with connectivity to
+popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB. https://github.com/microsoft/dacfx # DacFx, SqlPackage, and other SQL development libraries enable declarative database develop
+ment and database portability across SQL versions and environments. Share feedback here on dacpacs, bacpacs, and SQL projects. https://github.com/microsoft/sqlworkshops-sqlg2c #
+https://github.com/microsoft/sqlmlutils # Utility functions for easier usage of SQL Server Machine Learning Services
+https://github.com/microsoft/go-sqlcmd # The new sqlcmd, CLI for SQL Server and Azure SQL (winget install sqlcmd / sqlcmd creat
+e mssql / sqlcmd open ads) https://github.com/microsoft/reporting-services-loadtest # Reporting Services Load Test Project
+https://github.com/microsoft/durabletask-mssql # Microsoft SQL storage provider for Durable Functions and the Durable Task Fram
+ework https://github.com/microsoft/mssql_ssisworkshop # SSIS Workshop Intent to take People from Beginner to Intermediate Level
+https://github.com/microsoft/sqlserverspatialtools # This project is a collection of tools for use with the spatial types in SQ
+L Server. This project does not provide an end-user application, but rather a set of reusable functions which applications can make use of. These functions may include data conversion routines, new transformations, aggregates, etc. Please feel free to suggest additional functionality. This project is sponsored by Microsoft, but we welcome outside developers. https://github.com/microsoft/dcmkit # Datacenter Migration Program Kit
+https://github.com/microsoft/sql_logscout # SQL LogScout allows you to collect diagnostic logs from your SQL Server system to h
+elp you and Microsoft technical support engineers (CSS) to resolve SQL Server technical incidents faster. It is a light, script-based, open-source tool that is version-agnostic. https://github.com/microsoft/sqlworkshops-azuresqllabs # Azure SQL Labs
+https://github.com/microsoft/fusion-dev-ebook # Sample Code for eBook - Use Power Apps to bring your business and pro devs tog
+ether to build apps fast https://github.com/microsoft/sqlworkshops-k8stobdc # Kubernetes Course for SQL Server Big Data Clusters
+https://github.com/microsoft/peek # Azure Usage/Billing Analytics Solution for EAs, CSPs and Direct Subscriptions.
+https://github.com/microsoft/r-server-fraud-detection # This solution template demonstrates how to build and deploy a retail on
+line fraud detection solution. https://github.com/microsoft/vscode-remote-try-sqlserver # SQL Server and Azure SQL sample project for trying out the Dev Conta
+iners extension https://github.com/microsoft/windows-appsample-customers-orders-database # This code demonstrates a working customer order data
+base hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app. https://github.com/microsoft/sloos # Tool to bulk load CSV files into SQL Server
+https://github.com/microsoft/sqlworkshops-pythonfordatapros # Python Basics for the Data Professional
+https://github.com/microsoft/sanddance # Visually explore, understand, and present your data.
+https://github.com/microsoft/dsc-data-driven-deployment # This is a Proof of Concept Project on how a database solution can be
+utilized to manage DSC configurations. Metadata for the configuration is stored in JSON within the database so that it can be easily retrieved and deployed. Credentials are also stored securely in the database. The project consists of a database schema and a PowerShell module which has a series of functions. https://github.com/microsoft/sqlbdc-appdeploy # App Templates for SQL Server BDC
+https://github.com/microsoft/sqlworkshops-migratesqltoazure # A workshop to guide and demonstrate to customers how to migrate S
+QL Server to Azure https://github.com/microsoft/r-server-loan-credit-risk # This solution template shows how to build and deploy a loan-credit-ris
+k solution with Microsoft ML Server https://github.com/microsoft/rulesengine # A Json based Rules Engine with extensive Dynamic expression support
+https://github.com/microsoft/yams # YAMS (Yet Another Microservices Solution) is a library that can be used to deploy and host
+microservices in the cloud (e.g. Azure) or on premises https://github.com/microsoft/datastoriessamples # Sample code and documentation on data stories that showcase how you can use C
+ortana Intelligence Suite, SQL Server and Microsoft R Server https://github.com/microsoft/flink-on-azure # Examples of Flink on Azure
+https://github.com/microsoft/sqlcallstackresolver # A sample tool for users of Microsoft SQL Server to aid in troubleshooting o
+therwise difficult to diagnose issues. Provided AS-IS - see SUPPORT.md. https://github.com/microsoft/ssms-visualstudio-addin # Addin to open the SQL server management studio from within the modeling
+experience for Dynamics for Operations. https://github.com/microsoft/hol-azure-machine-learning # Introduction to Machine Learning and Azure Machine Learning Services.
+Hands on labs to show Azure Machine Learning features, developing experiments, feature engineering, R and Python Scripting, Production stage, publishing models as web service, RRS and BES usage https://github.com/microsoft/techexcel-securely-migrate-windows-server-and-sql-server-workloads-to-azure # To gain access, plea
+se finish setting up this repository now at: https://github.com/microsoft/superchargeazuresqldeployments # Learn how to quickly deploy and mange Azure SQL database developm
+ent and deployments at scale using Azure DevOps Services. Supercharge your data estate with database lifecycle management using modern cloud principles and architectures. Learn how to leverage the power of Azure Resource Manager and DevOps to deploy efficiently. Empower your customers to seamlessly manage database projects, and handle schema changes that will avail their cloud migration efforts with ease. https://github.com/microsoft/cloudsqlworkshop # The Cloud Workshop for the SQL DBA
+https://github.com/microsoft/java # JDK Dockerfiles
+https://github.com/microsoft/azuredatastudio-postgresql # azuredatastudio-postgresql is an extension for Azure Data Studio that
+enables you to work with PostgreSQL databases https://github.com/microsoft/sqlworkshops-bdconopenshift # Course for Installing and Operating SQL Server Big Data Clusters on
+Red Hat OpenShift https://github.com/microsoft/r-server-loan-chargeoff # Loan ChargeOff Risk Solution Template with Microsoft ML Server
+https://github.com/microsoft/dsb # The DSB benchmark is designed for evaluating both workloaddriven and traditional database sy
+stems on modern decision support workloads. DSB is adapted from the widely-used industrialstandard TPC-DS benchmark. It enhances the TPC-DS benchmark with complex data distribution and challenging yet semantically meaningful query templates. DSB also introduces configurable and dynamic workloads to assess the adaptability of database systems. Since workload-driven and traditional database systems have different performance dimensions, including the additional resources required for tuning and maintaining the systems, we provide guidelines on evaluation methodology and metrics to report. https://github.com/microsoft/ml-server-python-samples # Advanced analytics samples and templates with Python for ML Server
+https://github.com/microsoft/ssma-extensions # Repo for SQL Server Migration Assistant extensions including converters and samp
+les https://github.com/microsoft/backupdwtoblob # An Azure Data Factory pipeline with T-SQL and REST API to backup an Azure Synapse
+provisioned SQL Pool to Azure BLOB storage. https://github.com/microsoft/ml-server-text-classification # Text classification solution with Microsoft Machine Learning Serve
+r https://github.com/microsoft/ml-server-image-similarity # Image similarity solution with Microsoft Machine Learning Server
+https://github.com/microsoft/sql-server-big-data-cluster-app-deploy-extension # Visual Studio Code Extension for deploying appl
+ications to a SQL Server Big Data Cluster https://github.com/microsoft/kernel-memory # RAG architecture: index and query any data using LLM and natural language, track s
+ources, show citations, asynchronous memory patterns. https://github.com/microsoft/fhir-server # A service that implements the FHIR standard
+https://github.com/microsoft/mssql-server-ha # Contains source code for the mssql-server-ha package
+https://github.com/microsoft/eventlogexpert #
+https://github.com/microsoft/vscode-remote-try-dab # Data API builder and Azure SQL sample project for trying out the Dev Conta
+iners extension https://github.com/microsoft/azure-managed-instance-link # Githib repository for Azure SQL Managed Instance link. This reposito
+ry contains instructions, links to documentation and other useful resources, as well as scripts for setup and use of Managed Instance link. https://github.com/microsoft/yada # Yet Another Demo App
+https://github.com/microsoft/sqlworkshops-rfordataprofessionals # Introduction to R for Data Professionals
+https://github.com/microsoft/mimdsc # PowerShell Desired State Configuration Module for Microsoft Identity Manager
+https://github.com/microsoft/sqlserverpsmodule # This repo is the home of SQL Server PowerShell Module development.
+https://github.com/microsoft/cosmicclone # Cosmic Clone is a utility that can backup\clone\restore a azure Cosmos database Coll
+ection. It can also anonymize cosmos documents and helps hide personally identifiable data. https://github.com/microsoft/tdslib # Open implementation of the TDS protocol (version 7.4) in managed C# code.
+https://github.com/microsoft/dynamics-365-connected-field-service-deployment # ARM templates for deploying resources for Connec
+ted Field Service https://github.com/microsoft/azuredatastudio-mysql # MySQL extension for Azure Data Studio
+https://github.com/microsoft/rag_hack # Hack Together: RAG Hack | Register, Learn, Hack
+https://github.com/microsoft/dataexposed # Place for resources related to Data Exposed
+https://github.com/microsoft/azuresqldatasynchealthchecker # This PowerShell script will check if all the metadata of a hub and
+member is in place and also validate the scopes against the information we have on the sync metadata database (among other validations). This script will not make any changes, will just validate data sync and user objects. It will also gather some useful information for faster troubleshooting. https://github.com/microsoft/linux-package-repositories # Microsoft Packaged Linux Software (DEBs, RPMs, etc) are hosted on pac
+kages.microsoft.com (PMC) made available as native Linux repositories for use with package managers like APT, YUM, etc. https://github.com/microsoft/sqlextentions # Repository to accelerate SQL IaaS Extension, workshop and step by step guidance
+https://github.com/microsoft/insiderdevtour18-modernize # Demo code for modernizing apps session
+https://github.com/microsoft/foss-fund # The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate i
+n the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides sponsorships to open source projects as selected by Microsoft employees. https://github.com/microsoft/java-webapp-oidc-migrate-poc # Demonstrates a pattern (using the adal4j library) for integrating A
+zure AD authentication with a legacy authentication system, and illustrating one approach to migrating users from the legacy auth system over to Azure AD. https://github.com/microsoft/sqltoolsdiag #
+https://github.com/microsoft/ssma #
+https://github.com/microsoft/rexl # Research EXpression Language
+https://github.com/microsoft/project-butterfly-latam # Share content about the Project Butterfly lead by LATAM GPS Tech Team.
+https://github.com/microsoft/sqlworkshops-template # Template for our courses
+https://github.com/microsoft/data-sharing-accelerator # This is a private staging repository for code related to the 2022 FEMA
+sponsored Cascadia Rising Exercise. https://github.com/microsoft/stretchbuildstrong # Bringing the elasticity and convenience of hosted build, to private build ser
+vers https://github.com/microsoft/dynamic-prober # The goal of this project was to develop a chat-bot based data collection tool. It
+asks users questions through a validated alignment survey. https://github.com/microsoft/azure-synapse-connectivity-checker # A script that can be used to test connectivity with all multi
+ple Synapse endpoints needed (SQL, SQLOndemand, Dev) and return additional information that can be used to open a support case https://github.com/microsoft/mtc_il_workshop_azure_administrator #
+https://github.com/aws-solutions-library-samples/guidance-for-customer-lifetime-value-analytics-on-aws # This Guidance demonstr
+ates how to improve the accuracy of the Customer Lifetime Value (CLV) metric by combining the data from both historical and proprietary databases, unifying operational and real-time data, and delivering that data through a powerful business intelligence service https://github.com/aws-solutions-library-samples/guidance-for-connecting-data-products-with-amazon-datazone # This Guidance dem onstrates how you can extend the data governance capabilities of Amazon DataZone to other Java Database Connectivity (JDBC) sources, such as MySQL, PostgreSQL, Oracle, and SQL Server.
+https://github.com/aws-ia/cfn-ps-microsoft-sql-fci-fsx #
+https://github.com/aws-samples/aws-dms-sql-server # Amazon DMS infrastructure with sample SQL server databases.
+https://github.com/aws-samples/dotnet-modernization-music-store #
+https://github.com/aws-samples/sqlservertools #
+https://github.com/aws-samples/specialty-practice-code-samples # Scripts for use in AWS Database Blogs
+https://github.com/aws-samples/bobs-used-bookstore-sample # A sample .NET application representing a fictional used books store
+. https://github.com/aws-samples/dotnet-modernization-gadgetsonline # Demo online shopping app built using ASP.NET MVC 5 and Enti
+ty Framework 6 https://github.com/aws-samples/aws-dev-fabric-for-sql-server # Dev fabric solution for SQL Server
+https://github.com/aws-samples/amazon-rds-for-sql-server-custom-log-shipping #
+https://github.com/aws-samples/dotnet-modernization-gadgetsonline-core #
+https://github.com/aws-samples/aws-xray-dotnet-webapp # An ASP.NET Web API application that has been instrumented for AWS X-Ray
+https://github.com/aws-samples/ssm-automation-deploy-sql-developer #
+https://github.com/aws-samples/aws-dms-getting-started-blog #
+https://github.com/aws-samples/aws-sqlagentjob-to-stepfunctions # Replace SQL Server Agent Job with Step Functions
+https://github.com/aws-samples/amazon-ecs-windows-authentication-blog #
+https://github.com/aws-samples/serverless-data-analytics # CloudFormation templates and scripts to setup the AWS services for t
+he workshop, Athena & Redshift Spectrum queries https://github.com/aws-samples/application-insights-sample-application # This repository contains a sample CloudFormation templ
+ate that is used to launch sample .NET/SQL Server application. This demo application, along with a follow-along blog are to demonstrate the monitoring capabilities of CloudWatch Application Insights. https://github.com/aws-samples/aws-netcoreapi-aurora-cdk #
+https://github.com/aws-samples/controltower-cloudendure-simulated-environment #
+https://github.com/aws-samples/systemsmanager-sql-backup-automation #
+https://github.com/aws-samples/multi-database-schema-validator #
+https://github.com/aws-samples/startup-kit-templates # CloudFormation templates to accelerate getting started on AWS.
+https://github.com/aws-samples/net-modernization # This workshop is for .NET developers who are interested in restructuring the
+ir legacy application into microservices. In this workshop you will apply the strangler fig pattern to extract multiple services from a sample monolithic application and re-implement them with modern AWS services. https://github.com/aws-samples/aws-lambda-manage-rds-connections # Sample code for dynamically managing RDS/RDBMS connections a
+cross a fleet of Lambda functions https://github.com/aws-samples/mssql-on-fsx-with-cdk #
+https://github.com/aws-samples/sqlserver-monitoring-tool-with-amazon-cloudwatch #
+https://github.com/aws-samples/aws-windows-failover-cluster-automation #
+https://github.com/aws-samples/cluster-amazon-elastic-compute-cloud-amazon-fsx-microsoft-sql-server # The included terraform mo
+dule provisions SQL Server Failover Cluster Instances (FCI) across Windows Server Failover Clustering (WSFC) nodes on Amazon EC2 with an Amazon FSx for Windows File Server (Amazon FSx) share acting as the quorum witness and storing shared data and log files. https://github.com/aws-samples/systems-manager-license-manager-license-tracker-for-sql-server #
+https://github.com/aws-samples/bobs-used-bookstore-classic #
+https://github.com/aws-samples/aws-log-shipping-from-onprem-ec2-to-rds-sql-server #
+https://github.com/aws-samples/aws-modernization-with-baffle #
+https://github.com/aws-samples/aws-dms-deployment-using-aws-cdk # Automate the AWS DMS deployment process using AWS CDK in few
+command line actions. https://github.com/aws-samples/ssm-automation-downgrade-sql-developer #
+https://github.com/aws-samples/downgrade-sqlserver-edition #
+https://github.com/aws-samples/amazon-rds-for-sql-server-cross-region-dr #
+https://github.com/aws-samples/csharp-code-converter-for-postgres # This tool is a Visual Studio extension which helps migratin
+g the Microsoft C# ADO.NET code that is connected to Microsoft SQL Server to PostgreSQL database. https://github.com/aws-samples/kerberos-linux-clients-rds-sql-server-with-aws-managed-microsoft-ad #
+https://github.com/aws-samples/aws-rds-sqlserver-2014-upgrade #
+https://github.com/aws-samples/rds-custom-sqlserver-onboard-existing-vpc #
+https://github.com/aws-samples/babelfish-for-amazon-aurora-postgresql-demo #
+https://github.com/aws-samples/amazon-rds-audit-log #
+https://github.com/aws-samples/amazon-rds-crossaccount-access #
+https://github.com/aws-samples/rds-kerberos-authentication-using-onprem-active-directory # Authenticate Amazon RDS instances us
+ing on-premises Microsoft Active Directory and Kerberos https://github.com/aws-samples/aws-config-rule-rds-logging-enabled-remediation #
+https://github.com/aws-samples/data-foundation-gen-ai-aws-vector-databases #
+https://github.com/aws-samples/writing-prepared-data-directly-into-jdbc-supported-destinations-samples #
+https://github.com/aws-samples/aws-neptune-mortgage-backed-security-data-model #
+https://github.com/aws-samples/babelfish-postgresql-aurora-bedrock #
+https://github.com/aws-samples/industrial-platform-starter-kit # 設備データ・日報データなど生産現場データを活用するためのデータ
+基盤を作成するスターターキット https://github.com/aws-samples/aws-apprunner-netcore #
+https://github.com/aws-samples/migration-validator-toolkit-for-microsoft-workloads #
+https://github.com/aws-samples/cross-account-rds-access #
+https://github.com/aws-samples/providing-self-service-multiaccount-access-to-aws-managed-microsoft-ad #
+
+https://github.com/awslabs/windows-web-app-migration-assistant # PowerShell utility that migrates .NET applications from Window
+s servers to AWS Elastic Beanstalk https://github.com/awslabs/kinesis-agent-windows # An extensible Windows agent that ingests logs and metrics to AWS services su
+ch as Kinesis Stream, Kinesis Firehose, CloudWatch Logs and CloudWatch. https://github.com/awslabs/data-compare-tool #
+https://github.com/awslabs/simple-database-archival-solution # Simple Database Archival Solution (SDAS) is an open source solut
+ion which you can deploy in your AWS account to archive data to AWS. SDAS provides organizations with an efficient, easy and cost-effective solution for archiving Oracle, Microsoft SQL, PostgreSQL, and MySQL databases.
+
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, Open
+Search, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+https://github.com/aws/aws-xray-sdk-dotnet # The official AWS X-Ray SDK for .NET.
+https://github.com/aws/awesome-redshift #
+https://github.com/aws/aws-sdk-net # The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web s
+ite:
+
+https://dbdb.io/db/sql-server
