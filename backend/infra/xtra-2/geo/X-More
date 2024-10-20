@@ -1,0 +1,297 @@
+https://github.com/gis-ops/routingpy # 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner.
+https://github.com/gis-ops/docker-valhalla # This is our flexible Docker repository for the Valhalla routing engine
+https://github.com/gis-ops/tutorials # :blue_book: 🌍 A broad collection of GIS related tutorials
+https://github.com/gis-ops/valhalla-app # This is the demo web app running on https://valhalla.openstreetmap.de
+https://github.com/gis-ops/pyvalhalla # High-level Python bindings to the Valhalla routing framework.
+https://github.com/gis-ops/routingjs # Library for consistent access to various vehicle routing APIs
+https://github.com/gis-ops/wordpress-markdown-git # :loop: WordPress plugin to add file content (Markdown, Jupyter notebooks) from a Git based VCS to a WordPress post; replaces https://github.com/gis-ops/md-github-wordpress
+https://github.com/gis-ops/md-github-wordpress # :loop: WordPress plugin to add markdown content from Github to a WP blog; based on https://github.com/ghandic/nbconvert
+https://github.com/gis-ops/prop2osm-public # Public README for our proprietary solution to make arbitrary datasets (e.g. TomTom/HERE) routable with FOSS routing engines.
+https://github.com/gis-ops/valhalla-qgis-plugin # QGIS plugin to use Valhalla for routing, isochrones and matrices.
+https://github.com/gis-ops/osm-converter-demo # Holds the recipe to run our street data converter locally via docker-compose: https://converter.gis-ops.com
+https://github.com/gis-ops/py-osrm # Python bindings to the OSRM routing framework
+https://github.com/gis-ops/osrm-tester # CLI for testing OSRM
+https://github.com/gis-ops/holladiewaldfee #
+https://github.com/gis-ops/canada_cities_osmium_extract # Setup to extract 11 biggest cities in Canada
+https://github.com/gis-ops/takehome-toye #
+https://github.com/gis-ops/valhalla-osrm-libs # A common repository to generate and host binaries for OSRM & Valhalla and their dependencies
+https://github.com/gis-ops/gtfs-fetcher # Fetches GTFS datasets from various & configurable sources
+https://github.com/gis-ops/elevation_tiles_from_polygons #
+https://github.com/gis-ops/valhalla_isochrone_timeseries # Jupyter notebooks for creating an animated time series of isochrones from a traffic enriched Valhalla instance
+https://github.com/gis-ops/.github #
+
+https://github.com/nextgis/nextgisweb # Web GIS framework by NextGIS
+
+https://github.com/nextgis/ngf-tutorial #
+
+https://github.com/nextgis/quickmapservices # QGIS plugin to find and add map services to a project in one click
+https://github.com/nextgis/ngw_external_api_python # NextGIS Web Python API
+https://github.com/nextgis/runivers # Live web map
+https://github.com/nextgis/topography-of-terror # Mapping engine for Topograhy of terror project by Memorial
+https://github.com/nextgis/qgis_copy_coords # Capture coordinates from QGIS in one click for immediate pasting into a spreadsheet, as simple as it gets.
+https://github.com/nextgis/dwg_samples # AutoCAD DWG samples
+https://github.com/nextgis/webgis_course # Web GIS course for beginners
+https://github.com/nextgis/oopt_demo # Demo protected areas map based on cesium.js
+https://github.com/nextgis/walrus # Web-map to vizualize location of walrus and other species encounters in Barent Sea region for WWF
+https://github.com/nextgis/docs_formbuilder # :books: User documentation for NextGIS FormBuilder
+https://github.com/nextgis/docs_ngweb # :books: User documentation for NextGIS Web
+https://github.com/nextgis/ngw_demo_front # NextGIS Web frontend intergration demo
+https://github.com/nextgis/docs_ngmobile # :books: User documentation for NextGIS Mobile
+https://github.com/nextgis/gps_tracks_analyzer # Simple web application for analyzing gps tracks
+https://github.com/nextgis/nextgis_frontend_react #
+https://github.com/nextgis/nextgis_frontend_apps # Frontend application boilerplates
+https://github.com/nextgis/ngf_xyz_offline_demo # Demo frontend for showing XYZ tiles (no server)
+https://github.com/nextgis/city_demo_front # Municipality GIS frontend demo
+
+https://github.com/thinkwhere/geoserver-docker # Docker container for installing Geoserver
+https://github.com/thinkwhere/gdal-docker # Docker container for installing GDAL and Python 3
+https://github.com/thinkwhere/geopython17 # Flask Geospatial Microservice sample code for GeoPython 2017
+https://github.com/thinkwhere/celery-workshop-geopython-2018 # Task queues with Celery and RabbitMQ
+https://github.com/thinkwhere/open-data-viewer # Open data web map using ReactJS, Leaflet and OpenStreetmap
+https://github.com/thinkwhere/mapproxy-docker # Repo for MapProxy Docker container
+https://github.com/thinkwhere/dmis # Disaster Management Information Service
+https://github.com/thinkwhere/roadnet #
+https://github.com/thinkwhere/themapcloud-qgis-plugin # The QGIS Plugin for theMapCloud web services
+https://github.com/thinkwhere/foss4g-serverless-ops # Repo containing Terraform scripts for spinning up AWS serverless environment
+https://github.com/thinkwhere/mapcloud-metrics # theMapCloud Metrics
+https://github.com/thinkwhere/tmc-workshop-map #
+https://github.com/thinkwhere/thinkwhere-training #
+https://github.com/thinkwhere/foss4g-horizon-render-app # App renders horizon from Terrain 50 data
+https://github.com/thinkwhere/foss4g-horizon-web-app # App for display of rendered horizon images
+
+https://github.com/geoserver/geoserver # Official GeoServer repository
+https://github.com/geoserver/geoserver-cloud # Cloud Native GeoServer is GeoServer ready to use in the cloud through dockerized microservices.
+https://github.com/geoserver/docker # GeoServer docker image
+https://github.com/geoserver/geofence # Advanced Authorization Manager for GeoServer
+https://github.com/geoserver/wps-remote #
+https://github.com/geoserver/geoserver.github.io # GeoServer Website
+https://github.com/geoserver/geoserver-acl # Access Control List authorization management for GeoServer
+https://github.com/geoserver/geoserver-cloud-config # geoserver-microservices sample configuration respository
+https://github.com/geoserver/geoserver-history # The GeoServer history before the one recorded in the main repo. For historical and statistical purposes. Mind, this repository is quite large.
+
+https://github.com/gispocoding/qgis-visualization-workshop # QGIS visualization workshop materials.
+https://github.com/gispocoding/globebuilder # QGIS 3 plugin meant for adding globe visualization for the current map.
+https://github.com/gispocoding/ngz-geoviz # Map visualizations using kepler.gl and Django https://ngz.gispocoding.fi/kepler/?locale=en
+https://github.com/gispocoding/pytest-qgis # A pytest plugin for testing QGIS python plugins
+https://github.com/gispocoding/cookiecutter-qgis-plugin # A QGIS Plugin template to be set up with Cookiecutter
+https://github.com/gispocoding/eis_toolkit # Python library for mineral prospectivity mapping
+https://github.com/gispocoding/nlsgpkgloader # QGIS3 plugin to download Maastotietokanta (MTK) data from the Finnish NLS and write it to a GeoPackage. Developed by Gispo Ltd.
+https://github.com/gispocoding/tarmo # Tarmo - Tampere Mobilemap
+https://github.com/gispocoding/flake8-qgis # Flake8 plugin for QGIS python plugins
+https://github.com/gispocoding/fmi2qgis # QGIS 3 plugin to download FMI-ENFUSER air quality data
+https://github.com/gispocoding/eis_qgis_plugin # A QGIS plugin for mineral prospectivity mapping
+https://github.com/gispocoding/ipygis # GIS utils for Jupyter Notebook
+https://github.com/gispocoding/sentinel2-geo-ai # Cloud detection from Sentinel-2 satellite imagery with machine learning.
+https://github.com/gispocoding/qgis-venv-creator # A tool to create virtual environments for QGIS plugin development
+https://github.com/gispocoding/geoviz-notebooks #
+https://github.com/gispocoding/qgisdigitransitgeocoding # QGIS plugin that is meant for geocoding Finnish addresses
+https://github.com/gispocoding/aukigo-backend #
+https://github.com/gispocoding/rytj # Kaavatietomalli ja liitännäiset
+https://github.com/gispocoding/qgis_workshop # QGIS data visualization workshop 07/05/2019 at Aalto university
+https://github.com/gispocoding/cfsi # Cloud Free Satellite Imagery - source code repository
+https://github.com/gispocoding/qgis-postgis-performance-test #
+https://github.com/gispocoding/demo_map # Interactive demo map
+https://github.com/gispocoding/fv_qgis3dkokeilu # Forum Viriumille tehtävän "Kokeiluhanke: 3D-aineistojen integraatio QGISiin" -projektin Github-repo
+https://github.com/gispocoding/gp002_introduction_to_qgis #
+https://github.com/gispocoding/wastesoil #
+https://github.com/gispocoding/ptvfdw #
+https://github.com/gispocoding/kimu #
+https://github.com/gispocoding/pyqgis_workshop # PyQGIS workshop repository
+https://github.com/gispocoding/master-training-data # Repo for Gispo training materials.
+https://github.com/gispocoding/assessclimateimpact # Climate Tool plugin for QGIS and PostGIS
+https://github.com/gispocoding/infrao-open # Project repo for Finnish municipal asset management.
+https://github.com/gispocoding/addr-parser # Simple Address Parser for Python
+https://github.com/gispocoding/gis-containers #
+https://github.com/gispocoding/turkukartalle-backend # Turku kartalle Oskari-sovellus PoC - backend
+https://github.com/gispocoding/mcda-plugin # QGIS plugin that generates a customized site classification raster layer for educational facilities (schools).
+https://github.com/gispocoding/risteyslaskenta #
+https://github.com/gispocoding/ge013_tilastot_ja_analyysit_qgisilla #
+https://github.com/gispocoding/sp-maakuntakaava # mk-määräys hanke, maakuntakaavan soveltamisprofiili
+https://github.com/gispocoding/gs008_advanced_geoserver # Advanced GeoServer course.
+https://github.com/gispocoding/how_to_create_isochrones # Documentation on using the Catchment plugin and Graphhopper with OpenStreetMap data
+https://github.com/gispocoding/gs017_paikkatiedon_mobiilikeruu_merginmapsilla #
+https://github.com/gispocoding/arho-feature-template #
+https://github.com/gispocoding/museovirasto-placename-compare-tool-ui # Web-UI for a tool that helps to compare data from various place name & ontology services
+https://github.com/gispocoding/scdi-geoviz #
+https://github.com/gispocoding/grantapplication-gis # GIS from grant applications
+https://github.com/gispocoding/bookdown-docker # Bookdown docker image for building bookdown sites
+https://github.com/gispocoding/.github # Customized front page for GispoCoding
+https://github.com/gispocoding/gs009_postgresql_ja_postgisin_perusteet #
+https://github.com/gispocoding/geospatial-text-analysis # Notebook for analyzing Open311 API data
+https://github.com/gispocoding/sample-training-env # Sample Training Environment with PostgreSQL/PostGIS, Geoserver and PgAdmin
+https://github.com/gispocoding/gs001_visualisoinnin_mestariksi_qgisilla #
+https://github.com/gispocoding/ge016_paikkatiedon_mobiilikeruu_qfieldilla # Paikkatiedon mobiilikeruu Qfieldillä
+https://github.com/gispocoding/gp008_kartat_ja_taitot #
+https://github.com/gispocoding/geoserver-scripts # Scripts to help admining Geoserver
+https://github.com/gispocoding/avoimet-paikkatietoaineistot #
+https://github.com/gispocoding/infrao-plugin #
+https://github.com/gispocoding/foss4g_kosovo_2023_workshop # Workshop material for FOSS4G Kosovo 2023
+https://github.com/gispocoding/gp004_johdanto_geoserverin_kayttoon #
+https://github.com/gispocoding/gp002_johdanto_qgisin_kayttoon # This is the source code repository for the introductory QGIS course in Finnish.
+https://github.com/gispocoding/course_dev_test #
+https://github.com/gispocoding/eu-interreg-map #
+https://github.com/gispocoding/rytj-html-docx # RYTJ: tietomalli.ymparisto.fi -saitin tuonti docx-tiedostoiksi
+https://github.com/gispocoding/turkukartalle-ui # Turku kartalle Oskari-sovellus PoC - UI - https://turkukartalle.karttatehdas.fi/turkukartalle-ui/
+https://github.com/gispocoding/pygeoapi-poc # Testing OGC API with pygeoapi.
+https://github.com/gispocoding/lightning-map # Explore lightning data on an interactive web map
+https://github.com/gispocoding/gp001_johdanto_paikkatietoon_ja_qgisin_kayttoon #
+https://github.com/gispocoding/course_material_development #
+https://github.com/gispocoding/gp007_qgis_perusteet_kunnille #
+https://github.com/gispocoding/training-master-repo-dev #
+https://github.com/gispocoding/ge002_suunnittelu_editointi_ja_datan_hallinta_qgisilla # GE002_Suunnittelu_editointi_ja_datan_hallinta_QGISilla
+https://github.com/gispocoding/museovirasto-placename-compare-tool-backend # Backend (REST API access) for a tool that helps to compare data from various place name & ontology services
+https://github.com/gispocoding/pyqgis-advanced-workshop # Sample QGIS plugin used in training
+https://github.com/gispocoding/gs014_lausekkeet_qgisissa #
+https://github.com/gispocoding/gp004_introduction_to_geoserver #
+https://github.com/gispocoding/hame-ryhti # HAME regional land use planning database compatible with national Ryhti data model
+https://github.com/gispocoding/training-data # Data repository for courses.
+https://github.com/gispocoding/custom-vectortiles #
+
+https://github.com/openstreetmap/id # 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
+https://github.com/openstreetmap/openstreetmap-website # The Rails application that powers OpenStreetMap
+https://github.com/openstreetmap/osmosis # Osmosis is a command line Java application for processing OSM data.
+https://github.com/openstreetmap/merkaartor # Home of Merkaartor, an openstreetmap mapping program.
+https://github.com/openstreetmap/mod_tile # Renders map tiles with mapnik and serves them using apache
+https://github.com/openstreetmap/osm-binary #
+https://github.com/openstreetmap/id-tagging-schema # 🆔🏷 The presets and other tagging data used by the iD editor
+https://github.com/openstreetmap/leaflet-osm # OpenStreetMap plugin for Leaflet
+https://github.com/openstreetmap/operations # OSMF Operations Working Group issue tracking
+https://github.com/openstreetmap/chef # Chef configuration management repo for configuring & maintaining the OpenStreetMap servers.
+https://github.com/openstreetmap/tirex # Tirex tile queue manager. A drop-in replacement for renderd.
+https://github.com/openstreetmap/openstreetmap-mirror # Scripts to mirror remote repositories to http://github.com/openstreetmap
+https://github.com/openstreetmap/potlatch2 # Potlatch 2 OpenStreetMap Editor
+https://github.com/openstreetmap/owg-website # The website for the OSMF Operations Working Group (OWG)
+https://github.com/openstreetmap/osmembrane # OSMembrane is a GUI front-end for “Osmosis” used by the OpenStreetMap project.
+https://github.com/openstreetmap/map-icons # Mirror of the map icons used on OpenStreetMap.org
+https://github.com/openstreetmap/mkgmap # Mirror of mkgmap's Subversion repository
+https://github.com/openstreetmap/tile-attribution # This repository is used for reporting and tracking sites which are using tile.openstreetmap.org tiles but without attributing OpenStreetMap. The sites are tracked in the issue tracker.
+https://github.com/openstreetmap/osmdbt # OSM Database Replication Tools
+https://github.com/openstreetmap/dns # OpenStreetMap DNS
+https://github.com/openstreetmap/gosmore # Mirror of Gosmore's Subversion repository
+https://github.com/openstreetmap/stateofthemap-2019 # State of the Map 2019 website
+https://github.com/openstreetmap/lane-icons # :arrow_up: SVG icons for common lane markings
+https://github.com/openstreetmap/stateofthemap-2022 #
+https://github.com/openstreetmap/shp2osm # Mirror of the shp2osm Subversion repository
+https://github.com/openstreetmap/stateofthemap-2020 # State of the Map 2020 website
+https://github.com/openstreetmap/potlatch # Mirror of Potlatch's subversion repository
+https://github.com/openstreetmap/gpx-updater # Retrieve new OSM GPS tracks as they are uploaded, and invalidate cached tiles
+https://github.com/openstreetmap/stateofthemap-2018 # State of the Map 2018 website
+https://github.com/openstreetmap/splitter # Mirror of splitter's Subversion repository
+https://github.com/openstreetmap/beboj # Online OpenStreetMap editor (pre-alpha, discontinued)
+https://github.com/openstreetmap/stateofthemap-website # State of the Map website resources
+https://github.com/openstreetmap/stateofthemap-2024 # State of the Map 2024 website
+https://github.com/openstreetmap/stateofthemap-2016 # State of the Map 2016
+https://github.com/openstreetmap/openstreetmap-license-change # Algorithm for OpenStreetMap ODbL transition.
+https://github.com/openstreetmap/stateofthemap-2017 # State of the Map 2017 website
+https://github.com/openstreetmap/tilelog #
+https://github.com/openstreetmap/osmtaginfo # Mediawiki extension for taginfo.openstreetmap.org
+https://github.com/openstreetmap/quad_tile # Native C implementation of quad_tile functions from OpenStreetMap bundled as a gem
+https://github.com/openstreetmap/irc-website # irc.openstreetmap.org website
+https://github.com/openstreetmap/prometheus-exporters #
+https://github.com/openstreetmap/stateofthemap-2021 # State of the Map 2021 website
+https://github.com/openstreetmap/hot.openstreetmap.org-website # container and builder for hot.openstreetmap.org website
+https://github.com/openstreetmap/trac-website # Minimal redirector for the trac.openstreetmap.org to the archived tickets
+https://github.com/openstreetmap/opengeodata-static # Historical OpenGeoData static content
+https://github.com/openstreetmap/dmca-website # OpenStreetMap's DMCA notice website
+https://github.com/openstreetmap/svn-website # Minimal redirector for the svn.openstreetmap.org to the archive
+https://github.com/openstreetmap/oxidized # Gem bundler files for managing installed oxidized version
+https://github.com/openstreetmap/birthday20-website # OpenStreetMap 20 years old birthday website. Static export from wordpress created using wp2static
+https://github.com/openstreetmap/stateofthemap-2008 #
+https://github.com/openstreetmap/opengeodata-images # Historical OpenGeoData images
+https://github.com/openstreetmap/preview.ideditor.com-website # container and builder for preview.ideditor.com website
+https://github.com/openstreetmap/en.openstreetmap.town-website # en.openstreetmap.town redirect to en.osm.town
+https://github.com/openstreetmap/airs # Aerial Imagery Request System
+https://github.com/openstreetmap/stateofthemap-2007 #
+https://github.com/openstreetmap/stateofthemap-2009 #
+https://github.com/openstreetmap/opengeodata-podcasts # Historical OpenGeoData podcasts
+https://github.com/openstreetmap/legal #
+https://github.com/openstreetmap/.github #
+https://github.com/openstreetmap/wordpress-container # wordpress-container
+https://github.com/openstreetmap/stateofthemap-2013 # State of the Map 2013
+
+https://github.com/koopjs/koop # Transform, query, and download geospatial data on the web.
+https://github.com/koopjs/featureserver # An open source Geoservices Implementation (deprecated)
+https://github.com/koopjs/winnow # Deprecated
+https://github.com/koopjs/koop-app-example # A Koop express application example with some common providers.
+https://github.com/koopjs/koop-provider-example # Sample provider for Koop.
+https://github.com/koopjs/featureservice # Get all features from an Esri Feature Service.
+https://github.com/koopjs/koop-output-vector-tiles #
+https://github.com/koopjs/koop-core # Core library for KoopJS (deprecated)
+https://github.com/koopjs/geohub # GeoJSON extractor for Github repos and gists.
+https://github.com/koopjs/koopjs.github.io # Home of the Koop Geospatial Server.
+https://github.com/koopjs/koop-provider-elasticsearch # A provider for koop that can connect to one or more elastic search inst
+ances and turn indices/aliases into individual feature services. https://github.com/koopjs/koop-serverless-example # An example project to use KoopJS with AWS Lambda + API Gateway
+https://github.com/koopjs/koop-provider-agol # ArcGIS Online provider for Koop (public services only).
+https://github.com/koopjs/koop-cli # CLI tool to build Koop applications and plugins
+https://github.com/koopjs/koop-provider-github # Github provider for Koop.
+https://github.com/koopjs/koop-docker-example # Example application using Koop with Docker.
+https://github.com/koopjs/koop-socrata # Socrata provider for Koop.
+https://github.com/koopjs/koop-auth-direct-file # Koop authentication plugin using file-based identity-store
+https://github.com/koopjs/koop-filesystem-s3 # Koop S3 Filesystem Plugin
+https://github.com/koopjs/koop-provider-marklogic # A Koop Provider that can be used to exposed data in MarkLogic via Esri feat
+ure services https://github.com/koopjs/koop-provider-google-sheets # Create a Koop provider to bring in data from Google Sheets into Insight
+s for ArcGIS https://github.com/koopjs/koop-provider-geojson # GeoJSON provider for Koop
+https://github.com/koopjs/koop-output-geoservices # Deprecated
+https://github.com/koopjs/koop-osm # An OSM provider for Koop (experimental).
+https://github.com/koopjs/koop-provider-csv # Koop provider for CSV
+https://github.com/koopjs/koop-geocommons # A Koop provider for Geocommons (experimental).
+https://github.com/koopjs/koop-ui # An Electron-based user interface for installations of Koop (experimental).
+https://github.com/koopjs/koop-provider-gist # Github gist provider for Koop.
+https://github.com/koopjs/koop-provider-file-geojson # Simple Koop provider for serving file-based GeoJSON
+https://github.com/koopjs/provider-ogcapi-features # Experimental Koop provider plugin for OGC API - Features
+https://github.com/koopjs/koop-pgcache # PostGIS cache for Koop.
+https://github.com/koopjs/koop-provider-ckan # CKAN provider for Koop (experimental).
+https://github.com/koopjs/koop-opendata # ArcGIS Open Data provider for Koop (experimental).
+https://github.com/koopjs/koop-provider-composite # Combine multiple geoservices into a common, normalized geoservice
+https://github.com/koopjs/koop-provider-yelp # Yelp provider for Koop.
+https://github.com/koopjs/koop-tiles-app # An app that shows how to register the koop-tile-plugin.
+https://github.com/koopjs/koop-acs # American Community Survey provider for Koop (experimental).
+https://github.com/koopjs/koop-elasticsearch-app # A koop application configured to use ElasticSearch as its data cache
+https://github.com/koopjs/koop-plugin-polygon-geocoder # Koop plugin for geocoding polygons
+https://github.com/koopjs/koop-provider-elastic-sql # Koop provider to fetch data in elastic/opensearch datastores through the
+SQL API https://github.com/koopjs/koop-provider-mongo # A mongo db provider for koop
+https://github.com/koopjs/koop-output-geojson # A simple Koop output plugin that filters data from providers and returns in Geo
+JSON or TopoJSON format https://github.com/koopjs/koop-output-dcat-us-11 # A Koop output plugin for generating DCAT-US 1.1 feeds from the ArcGIS Hub Se
+arch API. https://github.com/koopjs/koop-output-wms # Koop output service for generating WMS
+https://github.com/koopjs/koop-provider-socrata # Koop 3.0 provider plugin for Socrata
+https://github.com/koopjs/koop-provider-s3-select # Koop provider for S3 data
+https://github.com/koopjs/geodata # GeoJSON files for demonstrating koop-provider-github
+https://github.com/koopjs/geoservice-utils # Functional utilities for working with request data from GeoService clients.
+https://github.com/koopjs/koop-provider-google-analytics # Provider to connect to Google Analytics V4 API
+https://github.com/koopjs/koop-tile-plugin # Koop plugin that enables tile generation via mapnik.
+https://github.com/koopjs/koop-escache # ElasticSearch cache for Koop (experimental).
+https://github.com/koopjs/harvey-response-lambda-server #
+https://github.com/koopjs/foss4g-2017-demo #
+https://github.com/koopjs/koop-provider-hub-search # A Koop provider for querying against the ArcGIS Hub Search API.
+https://github.com/koopjs/koop-output-wfs # Web Feature Services output plugin for Koop
+https://github.com/koopjs/koop-provider-vrbo # Koop provider for VRBO (experimental).
+https://github.com/koopjs/koop-worker # A worker bot for Koop
+https://github.com/koopjs/koop-cache-redis #
+https://github.com/koopjs/koop-exporter # Plugin for Koop that transforms data into static file formats
+https://github.com/koopjs/output-ogcapi-features # Experimental output plugin for OGC API - Features
+https://github.com/koopjs/koop-cache-memory # Deprecated
+https://github.com/koopjs/koop-output-odata # OData output plugin for Koop
+https://github.com/koopjs/koop-output-catalog-example # An example of a Koop app acting as a data catalog app, with a local out
+put plugin https://github.com/koopjs/koop-provider-redshift-analytics # Translate analytics from Amazon Redshift
+https://github.com/koopjs/koop-dc-esri # A koop deploy will deploy all the koop things to the dev deploy
+https://github.com/koopjs/koop-sandbox # Future Koop Sandbox App (once I rewrite it in Ember)
+https://github.com/koopjs/koop-filesystem-local # A local filesystem plugin for Koop that keeps all file actions confined to a
+single root directory https://github.com/koopjs/koop-output-csv # A Koop output plugin for generating CSV file.
+https://github.com/koopjs/koop-elasticsearch-example-app # An example app that uses the koop-provider-elasticsearch provider
+https://github.com/koopjs/kubernetes-example #
+https://github.com/koopjs/koop-queue # A queuing system for Koop
+https://github.com/koopjs/koop-provider-advanced-sample # :construction:
+https://github.com/koopjs/koop-output-flat # Convert GeoJSON to a flattened JSON array
+https://github.com/koopjs/koop-provider-geonames #
+https://github.com/koopjs/koop-output-dcat-ap-201 # A Koop output plugin for generating DCAT-AP 2.0.1 feeds from the ArcGIS Hub
+Search API. https://github.com/koopjs/koop-fda # A Koop provider for the FDA's food recall enforcement data (experimental).
+https://github.com/koopjs/koop-provider-google-fusion-tables #
+https://github.com/koopjs/koop-provider-hub-search-ogc # A Koop provider for querying against the ArcGIS Hub Search OGC API.
+https://github.com/koopjs/koop-output-csw #
+https://github.com/koopjs/koop-census # Census Decennial Data API provider for Koop (experimental).
+https://github.com/koopjs/koop-provider-arcgis-service # Pass through to an ArcGIS service
+https://github.com/koopjs/koop-cache-apache-ignite #
+https://github.com/koopjs/koop-provider-arcgis-search # Search for ArcGIS Online and Portal
+https://github.com/koopjs/koop-output-rss # A Koop output plugin for generating RSS 2.0 feeds (including GeoJSON) from any Koop
+Providers. https://github.com/koopjs/koop-logger # A shared logger for Koop (deprecated)
+https://github.com/koopjs/koop-provider-trimet # A TriMet Bus Provider for Koop
