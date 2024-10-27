@@ -5,30 +5,148 @@ https://github.com/googlecloudplatform/terraform-google-cloud-run # Deploys apps
 https://github.com/googlecloudplatform/cloud-run-microservice-template-nodejs # Microservice template for Cloud Run
 https://github.com/googlecloudplatform/cloud-run-microservice-template-python #
 https://github.com/googlecloudplatform/cloud-run-proxy # Local proxy for authenticating requests to Cloud Run
-https://github.com/googlecloudplatform/opentelemetry-cloud-run
+https://github.com/googlecloudplatform/opentelemetry-cloud-run #
 https://github.com/googlecloudplatform/cloud-run-microservice-template-go # A template repository for a Cloud Run microservice, written in Go.
 https://github.com/googlecloudplatform/terraform-google-three-tier-web-app # Deploys a three tier web application using Cloud Run and Cloud SQL
-https://github.com/googlecloudplatform/cloud-run-microservice-template-java
-https://github.com/googlecloudplatform/cloud-run-mesh
+https://github.com/googlecloudplatform/cloud-run-microservice-template-java #
+https://github.com/googlecloudplatform/functions-framework-nodejs # FaaS (Function as a service) framework for writing portable Node.js functions
+https://github.com/googlecloudplatform/dialogflow-integrations # Dialogflow integrations with multiple platforms including KIK, Skype, Spark, Twlio, Twitter and Viber
+https://github.com/googlecloudplatform/cloud-run-mesh #
+https://github.com/googlecloudplatform/cloud-code-vscode # Cloud Code for Visual Studio Code: Issues, Documentation and more
+https://github.com/googlecloudplatform/functions-framework-python # FaaS (Function as a service) framework for writing portable Python functions
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform on GCP.
 https://github.com/googlecloudplatform/migrate-from-app-engine-to-cloud-run # Helper library and webpage to migrate from App Engine to Cloud Run
-https://github.com/googlecloudplatform/developer-journey-app # Gaming sample app, built with Cloud Run, Cloud Storage, Cloud Firestore, and Cloud Build.
+https://github.com/googlecloudplatform/eventarc-samples # This repository contains a collection of samples for Eventarc for various use cases.
+https://github.com/googlecloudplatform/functions-framework-dart # FaaS (Function as a service) framework for writing portable Dart functions
+https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
+https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/functions-framework-php # FaaS (Function as a service) framework for writing portable PHP functions
+https://github.com/googlecloudplatform/functions-framework-dotnet # FaaS (Function as a service) framework for writing portable .NET functions
+https://github.com/googlecloudplatform/cloud-code-samples # Code templates to make working with Kubernetes feel like editing and debugging local code.
+https://github.com/googlecloudplatform/jobs-demos # Cloud Run Jobs Demos - A collection of samples to show you how and when to run a container to completion
+https://github.com/googlecloudplatform/developer-journey-app # Developer Journey App is a gaming sample app, built with Cloud Run, Cloud Storage, Cloud Firestore, and Cloud Build.
+https://github.com/googlecloudplatform/docker-clamav-malware-scanner #
 https://github.com/googlecloudplatform/avocano # Avocano is a sample dropship/fake product website, built with Firebase Hosting, Cloud Run, Cloud SQL and Cloud Build
 https://github.com/googlecloudplatform/cloudsql-jump-start-solution-for-genai # A jump start solution using GKE or Cloud Run with Cloud SQL and VertexAI
+https://github.com/googlecloudplatform/bigquery-oreilly-book # Source code accompanying: BigQuery: The Definitive Guide by Lakshmanan & Tigani to be published by O'Reilly Media
+https://github.com/googlecloudplatform/kotlin-samples #
+https://github.com/googlecloudplatform/serverless-photosharing-workshop # This is the code for the Pic-a-daily, an application to upload, analyse and share pictures using Google Cloud serverless solutions, namely Cloud Functions, App Engine, and Cloud Run
 https://github.com/googlecloudplatform/crbt # Cloud Run Bootstrap Tool
-https://github.com/googlecloudplatform/jit-access # Just-In-Time Access is a self-service web application that lets you manage just-in-time privileged access
-https://github.com/googlecloudplatform/jobs-demos # Cloud Run Jobs Demos - samples showing you how and when to run a container to completion without a server
-https://github.com/googlecloudplatform/serverless-photosharing-workshop # This is the code for the Pic-a-daily, an application to upload, analyse and share pictures
+https://github.com/googlecloudplatform/solutions-builder #
+https://github.com/googlecloudplatform/terraform-dynamic-javascript-webapp # Deploy a dynamic javascript webapp
+https://github.com/googlecloudplatform/dfcx-scrapi # A high level scripting API for bot builders, developers, and maintainers.
+https://github.com/googlecloudplatform/apigee-samples # A repo for Apigee X/hybrid samples
+https://github.com/googlecloudplatform/functions-framework-ruby # FaaS (Function as a service) framework for writing portable Ruby functions
 https://github.com/googlecloudplatform/gce-automated-ad-join # A Cloud Run application that enables you to automatically join VM instances to an Active Directory domain.
-https://github.com/googlecloudplatform/dlp-pdf-redaction # Automated, serverless way to redact sensitive data from PDF files
-https://github.com/googlecloudplatform/app2run # app2run is a python CLI tool to translate an App Engine configuration into a compatible Cloud Run configuration
-https://github.com/googlecloudplatform/cloud-run-release-manager # [EXPERIMENTAL] Automated canary rollout tool for Cloud Run services.
-https://github.com/googlecloudplatform/cloud-run-anthos-reference-web-app # Best practices architecture for building a web application using Cloud Run for Anthos
-https://github.com/googlecloudplatform/cloud-run-helloworld-python
-https://github.com/googlecloudplatform/vpc-network-tester # Deploy VPC Network Tester to App Engine or Cloud Run to investigate traffic flow.
+https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatile, multi-purpose tool to handle Pub/Sub messages and turn them into email, API calls, GCS objects, files or almost anything.
+https://github.com/googlecloudplatform/migrate-to-containers # Migrate to Containers samples and best practices
+https://github.com/googlecloudplatform/jit-groups # JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups.
+https://github.com/googlecloudplatform/cloud-sql-iam-db-authn-groups # Example of how to enable Cloud SQL IAM Database Authentication for Groups
+https://github.com/googlecloudplatform/dlp-pdf-redaction # This solution provides an automated, serverless way to redact sensitive data from PDF files using Google Cloud Services like Data Loss Prevention (DLP), Cloud Workflows, and Cloud Run.
+https://github.com/googlecloudplatform/buildpacks # Builders and buildpacks designed to run on Google Cloud's container platforms
+https://github.com/googlecloudplatform/deploystack-wordpress-on-cloudrun #
+https://github.com/googlecloudplatform/cloud-build-notifiers # Notifier images for Cloud Build, complete with build status filtering and Google Secret Manager integration
+https://github.com/googlecloudplatform/software-delivery-shield-demo-java #
+https://github.com/googlecloudplatform/google-cloud-ai-demos #
+https://github.com/googlecloudplatform/app2run # app2run is a Python CLI tool to translate App Engine configuration into compatible Cloud Run configuration, it aims to help App Engine users to migrate their App Engine applications to Cloud Run.
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+https://github.com/googlecloudplatform/go-templates #
+https://github.com/googlecloudplatform/transactional-microservice-examples #
+https://github.com/googlecloudplatform/professional-services-data-validator # Utility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match
+https://github.com/googlecloudplatform/datacatalog-tag-engine # Tag Engine automates the process of creating, updating, deleting, and populating metadata in bulk with the Google Cloud services Data Catalog and Dataplex.
+https://github.com/googlecloudplatform/terraform-dynamic-python-webapp # Deploy a dynamic python webapp
+https://github.com/googlecloudplatform/click-to-deploy-solutions # This repository has Google Cloud solutions that you can deploy with a single click.
+https://github.com/googlecloudplatform/smart-sdlc # Set of tools to implement an AI workflow on your SDLC
+https://github.com/googlecloudplatform/deploystack-serverless-e2e-photo-sharing-app # An scalable serverless end-to-end photo-sharing application made from 11 Google Cloud components
+https://github.com/googlecloudplatform/terraform-google-log-analysis # Stores and analyzes log data
+https://github.com/googlecloudplatform/recommender-iac-pipeline-nodejs-tutorial #
+https://github.com/googlecloudplatform/nodejs-serverless-url-shortener # A link shortening service built on Google Cloud
+https://github.com/googlecloudplatform/serverless-production-readiness-java-gcp #
+https://github.com/googlecloudplatform/run-gmp-sidecar #
+https://github.com/googlecloudplatform/cloud-hackathons #
+https://github.com/googlecloudplatform/bigquery-dlp-remote-function # Use Remote Functions to tokenize data with DLP in BigQuery using SQL
+https://github.com/googlecloudplatform/bigquery-antipattern-recognition # Utility to identify and rewrite common anti patterns in BigQuery SQL syntax
+https://github.com/googlecloudplatform/zone-printer # Sample app that prints the compute region it’s running on
+https://github.com/googlecloudplatform/functions-framework-java # FaaS (Function as a service) framework for writing portable Java functions
+https://github.com/googlecloudplatform/esp-v2 # A service proxy that provides API management capabilities using Google Service Infrastructure.
+https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
+https://github.com/googlecloudplatform/cloud-alerting-notification-forwarding #
+https://github.com/googlecloudplatform/vertex-ai-creative-studio # Creative Studio is a Vertex AI generative media example user experience to highlight the use of Imagen and other generative media APIs on Google Cloud.
+https://github.com/googlecloudplatform/cloudbowl-microservice-game #
+https://github.com/googlecloudplatform/terraform-google-cloud-functions # Deploys Cloud Functions (Gen 2)
+https://github.com/googlecloudplatform/migrate-webapp-heroku-to-cloudrun-node #
+https://github.com/googlecloudplatform/data-migration-tool # DMT is an end to end automation of data warehouse migration, focused on extraction, SQL translation, data migration, data validation, etc. The main goal is to reduce migration delivery time
+https://github.com/googlecloudplatform/functions-framework-cpp # Functions Framework for C++
+https://github.com/googlecloudplatform/deviceconnect # https://deviceconnect.readthedocs.io/
+https://github.com/googlecloudplatform/cdn-auth-proxy #
+https://github.com/googlecloudplatform/open_data_qna # The Open Data QnA python library enables you to chat with your databases by leveraging LLM Agents on Google Cloud. Open Data QnA enables a conversational approach to interacting with your data by implementing state-of-the-art NL2SQL / Text2SQL methods.
+https://github.com/googlecloudplatform/cloud-sql-python-connector # A Python library for connecting securely to your Cloud SQL instances.
+https://github.com/googlecloudplatform/gcr-cleaner # Delete untagged image refs in Google Container Registry or Artifact Registry
+https://github.com/googlecloudplatform/terraform-cloud-client-api # Deploys an example application that uses Cloud Client APIs
+https://github.com/googlecloudplatform/functions-framework-go # FaaS (Function as a service) framework for writing portable Go functions
+https://github.com/googlecloudplatform/berglas # A tool for managing secrets on Google Cloud
+https://github.com/googlecloudplatform/functions-framework # The Contract for Building New Function Frameworks
+https://github.com/googlecloudplatform/cymbal-superstore # 🍎 Sample app for AI-assisted development on Google Cloud.
+https://github.com/googlecloudplatform/dotnet-migration-sample #
+https://github.com/googlecloudplatform/node-red-contrib-google-cloud # Node-RED nodes for Google Cloud Platform
+https://github.com/googlecloudplatform/bigquery-record-manager #
+https://github.com/googlecloudplatform/serverless-log-trigger-demo # Demo code for real-time logging processing on GCP
+https://github.com/googlecloudplatform/solutionbuilder-terraform-google-three-tier-web-app #
+https://github.com/googlecloudplatform/gcs-metadata-server #
+https://github.com/googlecloudplatform/customer-experience-modernization # This open-source project aims to compile best practices, guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products.
+https://github.com/googlecloudplatform/secure-image-pipeline #
+https://github.com/googlecloudplatform/cymbal-eats #
+https://github.com/googlecloudplatform/data-sage-genai #
+https://github.com/googlecloudplatform/text-to-speech-epg-demo # This repository contains a reference implementation demonstrating how the Google Cloud Text-to-Speech Service can be used to easily implement text-to-speech functionality for Electronic Program Guides (EPG's).
+https://github.com/googlecloudplatform/terraform-google-media-cdn-vod # Deploys Media CDN video-on-demand
+https://github.com/googlecloudplatform/slo-monitoring-using-terraform #
+https://github.com/googlecloudplatform/cortex-applayer # Application Layer collaboration repository for Google Cloud Cortex Framework
+https://github.com/googlecloudplatform/alloydb-python-connector # A Python library for connecting securely to your AlloyDB instances.
+https://github.com/googlecloudplatform/bq-backup-manager #
+https://github.com/googlecloudplatform/cloudrun-gpus-opencv-cuda-demo #
+https://github.com/googlecloudplatform/cloud-sql-proxy # A utility for connecting securely to your Cloud SQL instances
+https://github.com/googlecloudplatform/ezytf #
+https://github.com/googlecloudplatform/gce-license-tracker # Tracks VM and sole-tenant node usage for the purpose of license reporting
+https://github.com/googlecloudplatform/reporting-api-processor #
+https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
+https://github.com/googlecloudplatform/kafka-private-service-connect #
+https://github.com/googlecloudplatform/ezcx #
+https://github.com/googlecloudplatform/terraform-google-crmint # Deploy the marketing analytics application, CRMint
+https://github.com/googlecloudplatform/terraform-dataanalytics-eventdriven # Uses click-to-deploy to demonstrate how to load data from Cloud Storage to BigQuery using an event-driven load function.
+https://github.com/googlecloudplatform/terraform-cloud-dynamic-credentials # Create dynamic, short-lived GCP credentials from within Terraform Cloud
+https://github.com/googlecloudplatform/party-game #
 
-https://github.com/google/lasso
-https://github.com/googlecodelabs/cloud-slack-bot # Slack bot
-https://github.com/google-github-actions/deploy-cloudrun # GitHub Action
+https://github.com/google-github-actions/deploy-cloudrun # A GitHub Action for deploying services to Google Cloud Run.
+https://github.com/google-github-actions/example-workflows # Repository to demonstrate example workflows.
+https://github.com/google-github-actions/create-cloud-deploy-release # A GitHub Action for creating releases via Cloud Deploy.
+https://github.com/google-github-actions/setup-gcloud # A GitHub Action for installing and configuring the gcloud CLI.
+https://github.com/google-github-actions/github-workflow-job-to-pubsub # Fulfills a GitHub workflow_job webhooks into a Pub/Sub queue.
+https://github.com/google-github-actions/deploy-cloud-functions # A GitHub Action that deploys source code to Google Cloud Functions.
+https://github.com/google-github-actions/github-runner-token-proxy # Generate registration tokens for GitHub self-hosted runners without disclosing a privileged credential to the caller.
+
+https://github.com/googlecodelabs/cloud-slack-bot # Build a Slack Bot with Node.js on Cloud Run
+https://github.com/googlecodelabs/cloud-nebulous-serverless # Tutorials showing developers how to deploy the same app locally _and_ to all three fully-managed serverless compute platforms from Google Cloud.
+
+https://github.com/google/osv.dev # Open source vulnerability DB and triage service.
+https://github.com/google/creative-screenshots #
+https://github.com/google/prog-edu-assistant # An easy system to create autograding tests in Jupyter Python notebook and deploy to cloud.
+https://github.com/google/slo-generator # SLO Generator computes SLIs, SLOs, Error Budgets and Burn Rates from supported backends, then exports an SLO report to supported targets.
+https://github.com/google/lasso # A simple service for running hundreds of lighthouse tests in parallel via Google Cloud Tasks and Cloud Run. Includes options for blocking specific requests e.g. 3rd party tags.
+https://github.com/google/gcp-fwrule-open-domain #
+https://github.com/google/go-metrics-stackdriver # This library provides a stackdriver sink for applications instrumented with the go-metrics library
+https://github.com/google/project_cartesian #
+https://github.com/google/java-run #
+https://github.com/google/litmus # Litmus is a comprehensive LLM testing and evaluation tool designed for GenAI Application Development. It provides a robust platform with a user-friendly UI for
+streamlining the process of building and assessing the performance of your LLM-powered applications.
+https://github.com/google/triage-party # 🎉 Triage Party: massively multi-player GitHub triage 🎉
+https://github.com/google/floody #
+https://github.com/google/gke-policy-automation # Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices
+https://github.com/google/app-reporting-pack # Comprehensive reporting for Google Ads App campaigns
+https://github.com/google/support-case-notifications #
+https://github.com/google/keyword_factory #
+https://github.com/google/caliban # Research workflows made easy, locally and in the Cloud.
+https://github.com/google/dactionboard # Comprehensive reporting for Google Ads Video Action campaigns
+https://github.com/google/feedloader #
 
 https://github.com/kelseyhightower/serverless-vault-with-cloud-run
 https://github.com/kelseyhightower/lambda-on-cloud-run
