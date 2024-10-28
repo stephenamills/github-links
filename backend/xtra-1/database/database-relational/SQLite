@@ -1,5 +1,4 @@
 SQLite
-
 https://github.com/sqlitebrowser/dbhub.io # A "Cloud" for SQLite databases.
 https://github.com/sqlitebrowser/dio # A powerful command line interface for working with DBHub.io
 https://github.com/sqlitebrowser/go-dbhub # A Go library for accessing and using SQLite databases on DBHub.io
@@ -20,40 +19,12 @@ https://github.com/sqlitecloud/sqlitecloud-php # PHP drivers for SQLiteCloud
 https://github.com/sqlitecloud/docsearch-action # SQLite Cloud documents full-text search action.
 https://github.com/sqlitecloud/sqlitecloud-kotlin # SQLite Cloud Kotlin SDK
 
-https://github.com/canonical/dqlite # Embeddable, replicated and fault-tolerant SQL engine.
-https://github.com/canonical/go-dqlite # Go bindings for libdqlite
-https://github.com/canonical/microcluster # dqlite cluster management using go-dqlite
-https://github.com/canonical/k8s-dqlite # Dqlite for Kubernetes
-https://github.com/canonical/upptime # 📈 Uptime monitor and status page for Canonical web and design team, powered by @upptime
-
 https://github.com/pocketbase/pocketbase # Open Source realtime backend in 1 file
 https://github.com/pocketbase/js-sdk # PocketBase JavaScript SDK
 https://github.com/pocketbase/dart-sdk # PocketBase Dart SDK
 https://github.com/pocketbase/site # PocketBase Site
 https://github.com/pocketbase/benchmarks # PocketBase test application with various benchmarks
 https://github.com/pocketbase/tygoja # Experimental helper library for generating TypeScript declarations from Go code
-
-https://github.com/azure-samples/dapr-store # Sample application showcasing the use of Dapr
-
-https://github.com/microsoft/windows-appsample-customers-orders-database # Customer order database hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app.
-https://github.com/microsoft/buildcast # Example UWP Media Application to show best practices
-https://github.com/microsoft/windows-tutorials-customer-database # Starting point for Customer Database tutorial.
-https://github.com/microsoft/workshop-library # A library of workshops written by and for Microsoft Learn Student Ambassadors and Cloud Advocates and their local communities
-https://github.com/microsoft/inventorysample # Sample UWP application for LOB scenarios
-https://github.com/microsoft/call-center-ai # Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
-https://github.com/microsoft/mlos-autotuning-template # A basic template repo for doing MLOS tuning development work
-https://github.com/microsoft/secure-my-api # An example HTTP API that needs to be secured using the power of GitHub Copilot
-
-https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples # A collection of sample scripts to customize Amazon SageMaker Notebook Instances using Lifecycle Configurations
-https://github.com/aws-samples/industrial-data-store-simulation-chatbot # This code sample deploy a realistic simulated Manufacturing Execution System hosted on SQLite and a companion chatbot application powered by Amazon Bedrock to query data from the MES using natural language
-https://github.com/aws-samples/amazon-verified-permissions-asp-dotnet-core-custom-auth-policy-provider #
-https://github.com/aws-samples/agentsforbedrock-retailagent # End to end example of a Retail Agent implemented with agents for Amazon Bedrock
-https://github.com/aws-samples/berkeley-room-designer #
-https://github.com/aws-samples/natural-language-queries-for-datalakes #
-https://github.com/aws-samples/aws-elemental-conductor-amazon-sns # This split and stitch addon works with Elemental Conductor for acceleration of transcoding.
-https://github.com/aws-samples/bedrock-agent-and-telecom-apis # Agents for Amazon Bedrock and Telecom API
-https://github.com/aws-samples/improve-employee-productivity-using-genai # Employee Productivity GenAI Assistant Example is an innovative code sample and architecture pattern designed to enhance writing tasks efficiency using AWS serverless technologies and Amazon Bedrock's generative AI models.
-https://github.com/aws-samples/aws-reinvent-2019-builders-session-opn215 #
 
 https://github.com/learn-co-curriculum/python-p3-setting-up-sqlite
 https://github.com/learn-co-curriculum/python-p3-writing-db-commands-to-a-file
@@ -106,6 +77,8 @@ https://github.com/stokry/wp-sqlite # WordPress running on an SQLite database
 https://github.com/sqlite/sqlite # SQL database engine
 
 https://dbdb.io/db/sqlite
+
+---
 
 RQLite
 https://github.com/rqlite/rqlite # The lightweight, user-friendly, distributed relational database built on SQLite.
@@ -172,3 +145,111 @@ https://github.com/tursodatabase/turso-install # Turso CLI installer
 https://github.com/tursodatabase/nemesis-test-check # [temporary] repo to check nemesis tests
 https://github.com/tursodatabase/libsql-js-116 # Reproducer for issue reported in #116
 https://github.com/tursodatabase/.github #
+
+SQLite Browser
+https://github.com/sqlitebrowser/dbhub.io # A "Cloud" for SQLite databases.
+https://github.com/sqlitebrowser/dio # A powerful command line interface for working with DBHub.io
+https://github.com/sqlitebrowser/go-dbhub # A Go library for accessing and using SQLite databases on DBHub.io
+https://github.com/sqlitebrowser/sqlitedatagen # Super simple (~180 lines) Go util to generate SQLite data files filled with test data
+https://github.com/sqlitebrowser/homebrew-tap # Homebrew tap with the formulae needed to build our project.
+https://github.com/sqlitebrowser/db4s_cluster_downloader # Super simple server app to serve DB4S releases from a small, inexpensive cluster
+
+SQLite Cloud
+https://github.com/sqlitecloud/sdk # Official SDK repository for SQLite Cloud databases and nodes.
+
+https://github.com/sqlitecloud/examples # Examples, demos, and other useful code
+https://github.com/sqlitecloud/example-with-nextjs # An example of using SQLite Cloud with Next.js
+
+https://github.com/sqlitecloud/sqlitecloud-py # Python drivers for SQLite Cloud
+https://github.com/sqlitecloud/sqlitecloud-js # Javascript drivers for SQLiteCloud
+https://github.com/sqlitecloud/sqlitecloud-go # Official repository for SQLite Cloud go modules
+https://github.com/sqlitecloud/sqlitecloud-swift # SQLite Cloud Swift
+https://github.com/sqlitecloud/sqlitecloud-php # PHP drivers for SQLiteCloud
+https://github.com/sqlitecloud/docsearch-action # SQLite Cloud documents full-text search action.
+https://github.com/sqlitecloud/sqlitecloud-kotlin # SQLite Cloud Kotlin SDK
+
+Dqlite
+https://github.com/canonical/dqlite # Embeddable, replicated and fault-tolerant SQL engine.
+https://github.com/canonical/go-dqlite # Go bindings for libdqlite
+https://github.com/canonical/microcluster # dqlite cluster management using go-dqlite
+https://github.com/canonical/k8s-dqlite # Dqlite for Kubernetes
+https://github.com/canonical/upptime # 📈 Uptime monitor and status page for Canonical web and design team, powered by @upptime
+
+Pocketbase
+https://github.com/pocketbase/pocketbase # Open Source realtime backend in 1 file
+https://github.com/pocketbase/js-sdk # PocketBase JavaScript SDK
+https://github.com/pocketbase/dart-sdk # PocketBase Dart SDK
+https://github.com/pocketbase/site # PocketBase Site
+https://github.com/pocketbase/benchmarks # PocketBase test application with various benchmarks
+https://github.com/pocketbase/tygoja # Experimental helper library for generating TypeScript declarations from Go code
+
+Cloud Platforms
+https://github.com/azure-samples/dapr-store # Sample application showcasing the use of Dapr
+
+https://github.com/microsoft/windows-appsample-customers-orders-database # Customer order database hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app.
+https://github.com/microsoft/buildcast # Example UWP Media Application to show best practices
+https://github.com/microsoft/windows-tutorials-customer-database # Starting point for Customer Database tutorial.
+https://github.com/microsoft/workshop-library # A library of workshops written by and for Microsoft Learn Student Ambassadors and Cloud Advocates and their local communities
+https://github.com/microsoft/inventorysample # Sample UWP application for LOB scenarios
+https://github.com/microsoft/call-center-ai # Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+https://github.com/microsoft/mlos-autotuning-template # A basic template repo for doing MLOS tuning development work
+https://github.com/microsoft/secure-my-api # An example HTTP API that needs to be secured using the power of GitHub Copilot
+
+https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples # A collection of sample scripts to customize Amazon SageMaker Notebook Instances using Lifecycle Configurations
+https://github.com/aws-samples/industrial-data-store-simulation-chatbot # This code sample deploy a realistic simulated Manufacturing Execution System hosted on SQLite and a companion chatbot application powered by Amazon Bedrock to query data from the MES using natural language
+https://github.com/aws-samples/amazon-verified-permissions-asp-dotnet-core-custom-auth-policy-provider #
+https://github.com/aws-samples/agentsforbedrock-retailagent # End to end example of a Retail Agent implemented with agents for Amazon Bedrock
+https://github.com/aws-samples/berkeley-room-designer #
+https://github.com/aws-samples/natural-language-queries-for-datalakes #
+https://github.com/aws-samples/aws-elemental-conductor-amazon-sns # This split and stitch addon works with Elemental Conductor for acceleration of transcoding.
+https://github.com/aws-samples/bedrock-agent-and-telecom-apis # Agents for Amazon Bedrock and Telecom API
+https://github.com/aws-samples/improve-employee-productivity-using-genai # Employee Productivity GenAI Assistant Example is an innovative code sample and architecture pattern designed to enhance writing tasks efficiency using AWS serverless technologies and Amazon Bedrock's generative AI models.
+https://github.com/aws-samples/aws-reinvent-2019-builders-session-opn215 #
+
+https://github.com/learn-co-curriculum/python-p3-setting-up-sqlite
+https://github.com/learn-co-curriculum/python-p3-writing-db-commands-to-a-file
+https://github.com/learn-co-curriculum/dsc-intro-to-sqlite
+https://github.com/learn-co-curriculum/sql-v3-database-basics
+https://github.com/learn-co-curriculum/python-p3-database-basics # alter table
+https://github.com/learn-co-curriculum/ds_course1_week1_module1_sqlselectlab
+https://github.com/learn-co-curriculum/ds_course1_week1_module2_sqlqueries
+https://github.com/learn-co-curriculum/ds_course1_week1_module3_sqltables
+https://github.com/learn-co-curriculum/ds_course1_week1_module4_sqlpandas
+https://github.com/learn-co-curriculum/dsc-sql-summative-lab
+https://github.com/learn-co-curriculum/python-p3-sql-queries
+https://github.com/learn-co-curriculum/python-p3-sql-crud
+
+https://github.com/lerocha/chinook-database # Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
+https://github.com/tthibo/sql-tutorial # A Gentle Introduction to SQL Using SQLite
+https://github.com/render-examples/strapi-sqlite # Deploy Strapi with SQLite on Render
+https://github.com/aaemnnosttv/wp-sqlite-db # A single file drop-in for using a SQLite database with WordPress. Based on the original SQLite Integration plugin.
+https://github.com/expo/examples/ # Example projects of how to use Expo APIs
+https://github.com/geshan/nodejs-sqlite # Node.js and SQLIte example for a blog post
+https://github.com/ptyadana/sql-data-analysis-and-visualization-projects # SQL data analysis & visualization projects
+https://github.com/remix-run/indie-stack # The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
+
+https://github.com/harelba/q # q - Run SQL directly on delimited files and multi-file sqlite databases
+https://github.com/dbcli/litecli # CLI for SQLite Databases with auto-completion and syntax highlighting
+
+https://github.com/dogsheep/github-to-sqlite # Save data from GitHub to a SQLite database
+https://github.com/cldellow/sqlite-parquet-vtable # A SQLite vtable extension to read Parquet files
+https://github.com/phiresky/sql.js-httpvfs # Hosting read-only SQLite databases on static file hosters like Github Pages
+https://github.com/proofrock/ws4sqlite # Query sqlite via json+http
+
+https://github.com/inloop/sqlite-viewer # View SQLite file online
+https://github.com/lana-k/sqliteviz # Instant offline SQL-powered data visualisation in your browser
+https://github.com/asg017/sqlite-vec # A vector search SQLite extension that runs anywhere!
+https://github.com/techouse/sqlite3-to-mysql # Transfer data from SQLite to MySQL
+https://github.com/thombashi/sqlitebiter # Convert data formats such as CSV a SQLite database file.
+https://github.com/avinassh/fast-sqlite3-inserts # Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
+https://github.com/nalgeon/redka # Redis re-implemented with SQLite
+https://github.com/nalgeon/sqlean # The ultimate set of SQLite extensions
+https://github.com/simonw/csvs-to-sqlite # Convert CSV files into a SQLite database
+https://github.com/tengla/sqlite3-to-mysql # Make an Sqlite3 export MySQL readable.
+https://github.com/aergoio/litetree # SQLite with Branches
+https://github.com/nalgeon/sqlime # Online SQLite playground
+https://github.com/dpapathanasiou/simple-graph # This is a simple graph database in SQLite, inspired by "SQLite as a document database"
+https://github.com/k3s-io/kine # Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
+https://github.com/wordpress/sqlite-database-integration # Feature Plugin to add SQLite support to WordPress. Under Development.
+https://github.com/shuebener/sqlitecompare # Utility for comparing two SQLite database files for both structure and data
+https://github.com/stokry/wp-sqlite # WordPress running on an SQLite database
