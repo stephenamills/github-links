@@ -1,0 +1,10 @@
+https://github.com/sap-samples/cloud-extension-ecc-business-process # This sample showcases how to complement an existing business process in an SAP solution – currently SAP ECC, with additional business process steps. This involves adding major logic and/or additional data.
+https://github.com/sap-samples/hana-xsa-live-reporting # Pre-configured multi-target application with calculation views for deployment in XS Advanced or SAP Cloud Platform, Cloud Foundry.
+https://github.com/sap-samples/teched2023-dt161 # Simplified Selective Data Transition
+https://github.com/sap-samples/logistics-business-network-gtt-standardapps-samples # Contains implementation sample code and relevant documentation that shows how to integrate external systems such as SAP ERP with standard apps of the SAP Logistics Business Network, global track and trace option to build a tracking application.
+https://github.com/sap-samples/btp-extensions-unified-order-management # SAP BTP use case of Node.js, SAPUI5, Cloud Foundry, and SAP HANA Cloud replicated from legacy systems like ECC or S/4HANA.
+https://github.com/sap-samples/cloud-mdi-integration # The objective of this end to end scenario is to showcase how to easily synchronize master data between SAP and non-SAP system via CPI and MDI.
+https://github.com/sap-samples/teched2023-dt260 # Streamlining SAP S/4HANA Transition: Tools for Planning and Validation
+https://github.com/sap-samples/data-intelligence-replication # Replication from SQL DB to Object Store using SAP Data Intelligence.
+https://github.com/sap-samples/teched2022-dt261 # Simplify Data Integration Between SAP S/4HANA and SAP’s Industry Cloud
+https://github.com/sap/abap-atc-cr-cv-s4hc # ABAP test cockpit cloud readiness check variants for SAP S/4HANA Cloud

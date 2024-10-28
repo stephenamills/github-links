@@ -1,0 +1,6 @@
+https://github.com/googlecloudplatform/terraform-google-secure-cicd # Builds a s
+ecure CI/CD pipeline on Google Cloud https://github.com/googlecloudplatform/gke-binary-auth-tools #
+https://github.com/googlecloudplatform/software-delivery-shield-demo-java #
+https://github.com/googlecloudplatform/mllp # The MLLP (Short for "Minimal Lower
+Layer Protocol") adapter is a component that runs on GKE (https://cloud.google.com/kubernetes-engine/), receives HL7v2 messages via MLLP/TCP, and forwards messages received to Cloud HL7v2 API. https://github.com/googlecloudplatform/cloud-build-software-delivery # A walkthr
+ough of setting up a secure CI/CD pipeline for a containerized workloads using Google Cloud Build https://github.com/googlecloudplatform/pso-infra-cicd #

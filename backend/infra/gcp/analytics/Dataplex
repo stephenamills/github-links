@@ -1,0 +1,11 @@
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modu
+lar samples and landing zones toolkit for Terraform on GCP. https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google
+-provided templates for solving in-Cloud data tasks https://github.com/googlecloudplatform/dataplex-labs #
+https://github.com/googlecloudplatform/cloud-data-quality # Data Quality Engine
+for BigQuery https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to en
+d demo of Google's Cloud data and analytic stack. https://github.com/googlecloudplatform/terraform-google-dataplex-auto-data-quali
+ty # Move data between environments using Dataplex https://github.com/googlecloudplatform/cloud-dataplex # Cloud Dataplex: Samples
+and Utils https://github.com/googlecloudplatform/datacatalog-tag-engine # Tag Engine autom
+ates the process of creating, updating, deleting, and populating metadata in bulk with the Google Cloud services Data Catalog and Dataplex. Tag Engine is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Acce
+lerators for Serverless Spark on GCP, the industry's first auto-scaling and serverless Spark as a service https://github.com/googlecloudplatform/datacatalog-templates # Data Catalog Tag
+Templates https://github.com/googlecloudplatform/bq-backup-manager #

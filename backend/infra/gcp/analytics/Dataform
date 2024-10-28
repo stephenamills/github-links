@@ -1,0 +1,9 @@
+https://github.com/googlecloudplatform/marketing-analytics-jumpstart-dataform #
+This Dataform project processes various marketing data sources and creates a Marketing Data Store (MDS) to be used in several use cases: a)retain historical marketing data; b)create high performance dashboards; c)perform Data Analytics explorations. https://github.com/googlecloudplatform/bigquery-oreilly-book # Source code accom
+panying: BigQuery: The Definitive Guide by Lakshmanan & Tigani to be published by O'Reilly Media https://github.com/googlecloudplatform/security-analytics # Community Security A
+nalytics provides a set of community-driven audit & threat queries for Google Cloud https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modu
+lar samples and landing zones toolkit for Terraform on GCP. https://github.com/googlecloudplatform/marketing-analytics-jumpstart # Marketing
+Analytics Jumpstart consists of an easy, extensible and automated implementation of an end-to-end solution that enables Marketing Technology teams to store, transform, enrich with 1PD and analyze marketing data, and programmatically send predictive events to Google Analytics 4 to support conversion optimization and remarketing campaigns. https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to en
+d demo of Google's Cloud data and analytic stack. https://github.com/googlecloudplatform/bigquery-antipattern-recognition # Utilit
+y to identify and rewrite common anti patterns in BigQuery SQL syntax https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Acce
+lerators for Serverless Spark on GCP, the industry's first auto-scaling and serverless Spark as a service

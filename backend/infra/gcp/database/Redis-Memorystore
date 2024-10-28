@@ -1,0 +1,14 @@
+https://github.com/googlecloudplatform/microservices-demo # Sample cloud-first a
+pplication with 10 microservices showcasing Kubernetes, Istio, and gRPC. https://github.com/googlecloudplatform/memstore-gaming-leaderboard #
+https://github.com/googlecloudplatform/
+https://github.com/googlecloudplatform/redis-docker #
+redis-dataflow-realtime-analytics # Build
+a real-time website analytics dashboard on GCP using Dataflow, Cloud Memorystore (Redis) and Spring Boot https://github.com/googlecloudplatform/terraform-google-three-tier-web-app # Dep
+loys a three tier web application using Cloud Run and Cloud SQL https://github.com/googlecloudplatform/gcp-token-broker #
+https://github.com/googlecloudplatform/spinnaker-for-gcp # Production-ready Spin
+naker on GKE https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/text-to-speech-epg-demo # This repository
+contains a reference implementation demonstrating how the Google Cloud Text-to-Speech Service can be used to easily implement text-to-speech functionality for Electronic Program Guides (EPG's). https://github.com/googlecloudplatform/cloudnetworking-config-solutions # Cloud
+Networking config solution makes it easy for you to connect your on-premises network or VPC to Google-managed services.The solution simplifies complex network configurations and takes care of that for you, so you can focus on your business. Plus, it's designed to be scalable and reliable, so you can count on it to handle your growing needs. https://github.com/googlecloudplatform/invoice-insights #
+https://github.com/googlecloudplatform/solutionbuilder-terraform-google-three-ti
+er-web-app #

@@ -1,0 +1,12 @@
+https://github.com/googlecloudplatform/cdn-auth-proxy #
+https://github.com/googlecloudplatform/text-to-speech-epg-demo # This repository
+contains a reference implementation demonstrating how the Google Cloud Text-to-Speech Service can be used to easily implement text-to-speech functionality for Electronic Program Guides (EPG's). https://github.com/googlecloudplatform/diy-tools #
+https://github.com/googlecloudplatform/developer-journey-app # Developer Journey
+App is a gaming sample app, built with Cloud Run, Cloud Storage, Cloud Firestore, and Cloud Build. https://github.com/googlecloudplatform/terraform-google-media-cdn-vod # Deploys
+Media CDN video-on-demand https://github.com/googlecloudplatform/stackdriver-errors-js # Client-side JavaS
+cript exception reporting library for Cloud Error Reporting https://github.com/googlecloudplatform/service-extensions # SDKs and Samples for
+Google Cloud Service Extensions https://github.com/googlecloudplatform/cloudbowl-microservice-game #
+https://github.com/googlecloudplatform/terraform-cloud-deployment-gke # Deploy a
+change to a live stateful service (Go on GKE) https://github.com/googlecloudplatform/terraform-cloud-deployment-gce # Deploy a
+change to a live stateful service (Java on GCE) https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline #
+This repository compiles prescriptive guidance and code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. https://github.com/googlecloudplatform/chef-google-compute #

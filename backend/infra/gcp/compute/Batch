@@ -1,0 +1,60 @@
+https://github.com/googlecloudplatform/batch-samples #
+https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Accelerat
+ors for Serverless Spark on GCP, the industry's first auto-scaling and serverless Spark as a service https://github.com/googlecloudplatform/generative-ai # Sample code and notebooks for
+Generative AI on Google Cloud, with Gemini on Vertex AI https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows sa
+mples for various use cases https://github.com/googlecloudplatform/tensorflow-without-a-phd # A crash course in s
+ix episodes for software developers who want to become machine learning practitioners. https://github.com/googlecloudplatform/document-ai-samples # Sample applications and
+demos for Document AI, the end-to-end document processing platform on Google Cloud https://github.com/googlecloudplatform/google-cloud-spanner-hibernate # The official
+Google Cloud Spanner Dialect for Hibernate ORM https://github.com/googlecloudplatform/mlops-with-vertex-ai # An end-to-end example o
+f MLOps on Google Cloud using TensorFlow, TFX, and Vertex AI https://github.com/googlecloudplatform/stackdriver-metrics-export #
+https://github.com/googlecloudplatform/dlp-dataflow-deidentification # Multi Cloud Da
+ta Tokenization Solution By Using Dataflow and Cloud DLP https://github.com/googlecloudplatform/llm-pipeline-examples #
+https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline # This
+repository compiles prescriptive guidance and code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. https://github.com/googlecloudplatform/ai-on-gke # AI on GKE is a collection of examp
+les, best-practices, and prebuilt solutions to help build, deploy, and scale AI Platforms on Google Kubernetes Engine https://github.com/googlecloudplatform/wsi-to-dicom-converter # Conversion tool/libra
+ry for converting whole slide images to DICOM https://github.com/googlecloudplatform/scientific-computing-examples # Open Source ex
+amples using Google Cloud to solve various Scientific and Technical Computing problems. https://github.com/googlecloudplatform/marketplace-autogen #
+https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google-prov
+ided templates for solving in-Cloud data tasks https://github.com/googlecloudplatform/df-ml-anomaly-detection # Streaming Anomaly De
+tection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP https://github.com/googlecloudplatform/data-migration-tool # DMT is an end to end aut
+omation of data warehouse migration, focused on extraction, SQL translation, data migration, data validation, etc. The main goal is to reduce migration delivery time https://github.com/googlecloudplatform/gcs-fuse-csi-driver # The Google Cloud Storage
+FUSE Container Storage Interface (CSI) Plugin. https://github.com/googlecloudplatform/fraudfinder # Fraudfinder: A comprehensive lab
+series on how to build a real-time fraud detection system on Google Cloud https://github.com/googlecloudplatform/smart-expenses #
+https://github.com/googlecloudplatform/mfg-ml-examples # Practical examples of machin
+e learning use cases in manufacturing https://github.com/googlecloudplatform/dataproc-scala-examples # Dataproc Scala Examp
+les is an effort to assist in the creation of Spark jobs written in Scala to run on Dataproc. https://github.com/googlecloudplatform/enterprise-knowledge-solution #
+https://github.com/googlecloudplatform/solutions-spanner-sequences # This repository
+contains example code to accompany the Sequence generation in Cloud Spanner solution paper. https://github.com/googlecloudplatform/cloud-spanner-r2dbc # R2DBC driver for Google
+Cloud Spanner https://github.com/googlecloudplatform/terraform-splunk-log-export # Deploy Google Cl
+oud log export to Splunk using Terraform https://github.com/googlecloudplatform/professional-services # Common solutions and t
+ools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/dataflow-twitter-realtime-leaderboard # Demons
+trating the processing and analysis of unstructured tweet like data in batch and real-time using Cloud DataFlow. https://github.com/googlecloudplatform/aicoe # This repository contains an end-to-end
+walkthrough to leverage Google Cloud services to demonstrate Solution Accelerators for few business domains https://github.com/googlecloudplatform/cloud-composer-mssql-dataflow-bigquery # This
+repository contains an example of how to leverage Cloud Composer and Cloud Dataflow to move data from a Microsoft SQL Server to BigQuery. The diagrams below demonstrate the workflow pipeline. https://github.com/googlecloudplatform/prometheus # The Prometheus monitoring system
+and time series database. GCP fork to export to Google Cloud Managed Service for Prometheus. Main branch is kept at parity with upstream - see branches or tags for Google's additions. https://github.com/googlecloudplatform/text-to-speech-epg-demo # This repository cont
+ains a reference implementation demonstrating how the Google Cloud Text-to-Speech Service can be used to easily implement text-to-speech functionality for Electronic Program Guides (EPG's). https://github.com/googlecloudplatform/dataflow-video-analytics # Video Clip Analytic
+s By Using Dataflow and Video AI For Object Tracking https://github.com/googlecloudplatform/healthcare-api-dicomweb-cli # A command line t
+ool for interacting with a DICOMweb server https://github.com/googlecloudplatform/practical-ml-vision-book #
+https://github.com/googlecloudplatform/vertex-pipelines-end-to-end-samples #
+https://github.com/googlecloudplatform/dataflow-vision-analytics # Vision analytics s
+olution using Dataflow and Vision AI https://github.com/googlecloudplatform/alertmanager #
+https://github.com/googlecloudplatform/tensorflow-lifetime-value # Predict customer l
+ifetime value using AutoML Tables, or ML Engine with a TensorFlow neural network and the Lifetimes Python library. https://github.com/googlecloudplatform/data-beans #
+https://github.com/googlecloudplatform/deploystack-gcs-to-bq-with-least-privileges #
+https://github.com/googlecloudplatform/document-intake-accelerator #
+https://github.com/googlecloudplatform/dataflow-zoomify-image #
+https://github.com/googlecloudplatform/professional-services-data-validator # Utility
+to compare data between homogeneous or heterogeneous environments to ensure source and target tables match https://github.com/googlecloudplatform/dataflow-opinion-analysis # Opinion Analysis o
+f News, Threaded Conversations, and User Generated Content https://github.com/googlecloudplatform/pgadapter # PostgreSQL wire-protocol proxy for
+Cloud Spanner https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
+https://github.com/googlecloudplatform/dataflux-pytorch # The Dataflux Accelerated Da
+taloader for PyTorch with GCS is an effort to improve ML-training efficiency when using data stored in GCS for training datasets. Using the Dataflux Accelerated Dataloader for training is up to 3X faster when the dataset consists of many small files (e.g., 100 - 500 KB). https://github.com/googlecloudplatform/auto-data-tokenize # Identify and tokenize sen
+sitive data automatically using Cloud DLP and Dataflow https://github.com/googlecloudplatform/dataflow-ordered-processing #
+https://github.com/googlecloudplatform/migrate-from-service-account-keys # This repo
+produces a data pipeline to help you assess service account key usage, as described in the Assess phase of the Google Cloud documentation migrate from service account keys to more secure alternatives. https://github.com/googlecloudplatform/reporting-api-processor #
+https://github.com/googlecloudplatform/dialogflow-ccai-omnichannel # Omnichannel Cust
+omer Service on Google Cloud. Conversational AI for web, telephony, SMS, Google Assistant and mobile. https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo Mega
+tron Large Language Model (LLM) using NeMo Framework on Google Kubernetes Engine https://github.com/googlecloudplatform/spanner-data-validator #
+https://github.com/googlecloudplatform/dataflowruninference #
+https://github.com/googlecloudplatform/cluster-health-scanner #
+https://github.com/googlecloudplatform/db-ha-validation #

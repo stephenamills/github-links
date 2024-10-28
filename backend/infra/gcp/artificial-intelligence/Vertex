@@ -1,33 +1,33 @@
-https://github.com/googlecloudplatform/generative-ai # Sample code and notebooks for Generative AI on Google Cloud, with Gemini on
-Vertex AI https://github.com/googlecloudplatform/asl-ml-immersion # This repos contains notebooks for the Advanced Solutions Lab: ML Immersio
-n https://github.com/googlecloudplatform/mlops-with-vertex-ai # An end-to-end example of MLOps on Google Cloud using TensorFlow, TFX,
-and Vertex AI https://github.com/googlecloudplatform/applied-ai-engineering-samples # This repository compiles code samples and notebooks demonst
-rating how to use Generative AI on Google Cloud Vertex AI. https://github.com/googlecloudplatform/vertex-pipelines-end-to-end-samples #
+https://github.com/googlecloudplatform/generative-ai # Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+https://github.com/googlecloudplatform/asl-ml-immersion # This repos contains notebooks for the Advanced Solutions Lab: ML Immersion
+https://github.com/googlecloudplatform/mlops-with-vertex-ai # An end-to-end example of MLOps on Google Cloud using TensorFlow, TFX, and Vertex AI
+https://github.com/googlecloudplatform/applied-ai-engineering-samples # This repository compiles code samples and notebooks demonstrating how to use Generative AI on Google Cloud Vertex AI.
+https://github.com/googlecloudplatform/vertex-pipelines-end-to-end-samples #
 https://github.com/googlecloudplatform/practical-ml-vision-book #
-https://github.com/googlecloudplatform/genai-for-marketing # Showcasing Google Cloud's generative AI for marketing scenarios via ap
-plication frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including examples of their use in crafting marketing materials like blog posts and social media content, nl2sql analysis, and campaign personalization. https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Accelerators for Serverless Spark on GCP, the industry'
-s first auto-scaling and serverless Spark as a service https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
-https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline # This repository compiles prescriptive guidance and
-code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. https://github.com/googlecloudplatform/bigquery-oreilly-book # Source code accompanying: BigQuery: The Definitive Guide by Lakshma
-nan & Tigani to be published by O'Reilly Media https://github.com/googlecloudplatform/marketing-analytics-jumpstart # Marketing Analytics Jumpstart consists of an easy, extensibl
-e and automated implementation of an end-to-end solution that enables Marketing Technology teams to store, transform, enrich with 1PD and analyze marketing data, and programmatically send predictive events to Google Analytics 4 to support conversion optimization and remarketing campaigns. https://github.com/googlecloudplatform/terraform-genai-doc-summarization # Summarizes document using OCR and Vertex Generative AI L
-LM https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
-Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstra
-ting how to operationalize Google Research T5X framework on Google Cloud Vertex AI. https://github.com/googlecloudplatform/google-cloud-ai-demos #
-https://github.com/googlecloudplatform/solutions-genai-llm-workshop # Generative AI Language (PaLM2 + Langchain) Workshop sample co
-des https://github.com/googlecloudplatform/stable-diffusion-on-gcp #
+https://github.com/googlecloudplatform/genai-for-marketing # Showcasing Google Cloud's generative AI for marketing scenarios via application frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including examples of
+their use in crafting marketing materials like blog posts and social media content, nl2sql analysis, and campaign personalization. https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Accelerators for Serverless Spark on GCP, the industry's first auto-scaling and serverless Spark as a service
+https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minutes
+https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline # This repository compiles prescriptive guidance and code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines.
+https://github.com/googlecloudplatform/bigquery-oreilly-book # Source code accompanying: BigQuery: The Definitive Guide by Lakshmanan & Tigani to be published by O'Reilly Media
+https://github.com/googlecloudplatform/marketing-analytics-jumpstart # Marketing Analytics Jumpstart consists of an easy, extensible and automated implementation of an end-to-end solution that enables Marketing Technology teams to store, transform, enrich with 1PD and
+analyze marketing data, and programmatically send predictive events to Google Analytics 4 to support conversion optimization and remarketing campaigns. https://github.com/googlecloudplatform/terraform-genai-doc-summarization # Summarizes document using OCR and Vertex Generative AI LLM
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+https://github.com/googlecloudplatform/t5x-on-vertex-ai # This repository compiles prescriptive guidance and code samples demonstrating how to operationalize Google Research T5X framework on Google Cloud Vertex AI.
+https://github.com/googlecloudplatform/google-cloud-ai-demos #
+https://github.com/googlecloudplatform/solutions-genai-llm-workshop # Generative AI Language (PaLM2 + Langchain) Workshop sample codes
+https://github.com/googlecloudplatform/stable-diffusion-on-gcp #
 https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
 https://github.com/googlecloudplatform/smart-sdlc # Set of tools to implement an AI workflow on your SDLC
-https://github.com/googlecloudplatform/terraform-genai-knowledge-base # Fine tune an LLM model to answer questions from your docume
-nts. https://github.com/googlecloudplatform/vertex-ai-samples # Notebooks, code samples, sample apps, and other resources that demonstra
-te how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. https://github.com/googlecloudplatform/fraudfinder # Fraudfinder: A comprehensive lab series on how to build a real-time fraud dete
-ction system on Google Cloud https://github.com/googlecloudplatform/customer-experience-modernization # This open-source project aims to compile best practices,
-guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products. https://github.com/googlecloudplatform/dataflow-solution-guides # The Dataflow Solution Guides offer full end-to-end deployment for
-the most common streaming solutions to run on Dataflow. https://github.com/googlecloudplatform/terraform-google-enterprise-genai #
+https://github.com/googlecloudplatform/terraform-genai-knowledge-base # Fine tune an LLM model to answer questions from your documents.
+https://github.com/googlecloudplatform/vertex-ai-samples # Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI.
+https://github.com/googlecloudplatform/fraudfinder # Fraudfinder: A comprehensive lab series on how to build a real-time fraud detection system on Google Cloud
+https://github.com/googlecloudplatform/customer-experience-modernization # This open-source project aims to compile best practices, guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison
+, search). There code samples explain how to use Google Cloud products. https://github.com/googlecloudplatform/dataflow-solution-guides # The Dataflow Solution Guides offer full end-to-end deployment for the most common streaming solutions to run on Dataflow.
+https://github.com/googlecloudplatform/terraform-google-enterprise-genai #
 https://github.com/googlecloudplatform/core-solution-services #
 https://github.com/googlecloudplatform/terraform-google-vertex-ai # Deploy Vertex AI resources
-https://github.com/googlecloudplatform/vertex-ai-creative-studio # Creative Studio is a Vertex AI generative media example user exp
-erience to highlight the use of Imagen and other generative media APIs on Google Cloud. https://github.com/googlecloudplatform/datalake-modernization-workshops #
+https://github.com/googlecloudplatform/vertex-ai-creative-studio # Creative Studio is a Vertex AI generative media example user experience to highlight the use of Imagen and other generative media APIs on Google Cloud.
+https://github.com/googlecloudplatform/datalake-modernization-workshops #
 https://github.com/googlecloudplatform/application-integration-samples #
 https://github.com/googlecloudplatform/mfg-ml-examples # Practical examples of machine learning use cases in manufacturing
 https://github.com/googlecloudplatform/vertex-ai-spark-ml-serving #
@@ -37,17 +37,17 @@ https://github.com/googlecloudplatform/llm-pipeline-examples #
 https://github.com/googlecloudplatform/genai-databases-retrieval-app #
 https://github.com/googlecloudplatform/cloud-hackathons #
 https://github.com/googlecloudplatform/friendly-cicd-helper #
-https://github.com/googlecloudplatform/aicoe # This repository contains an end-to-end walkthrough to leverage Google Cloud services
-to demonstrate Solution Accelerators for few business domains https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatile, multi-purpose tool to handle Pub/Sub messages an
-d turn them into email, API calls, GCS objects, files or almost anything. https://github.com/googlecloudplatform/enterprise-knowledge-solution #
+https://github.com/googlecloudplatform/aicoe # This repository contains an end-to-end walkthrough to leverage Google Cloud services to demonstrate Solution Accelerators for few business domains
+https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatile, multi-purpose tool to handle Pub/Sub messages and turn them into email, API calls, GCS objects, files or almost anything.
+https://github.com/googlecloudplatform/enterprise-knowledge-solution #
 https://github.com/googlecloudplatform/ai-ml-recipes #
 https://github.com/googlecloudplatform/data-sage-genai #
-https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo Megatron Large Language Model (LLM) using NeMo Fra
-mework on Google Kubernetes Engine https://github.com/googlecloudplatform/data-beans #
-https://github.com/googlecloudplatform/bigquery-antipattern-recognition # Utility to identify and rewrite common anti patterns in B
-igQuery SQL syntax https://github.com/googlecloudplatform/discord-bot #
+https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo Megatron Large Language Model (LLM) using NeMo Framework on Google Kubernetes Engine
+https://github.com/googlecloudplatform/data-beans #
+https://github.com/googlecloudplatform/bigquery-antipattern-recognition # Utility to identify and rewrite common anti patterns in BigQuery SQL syntax
+https://github.com/googlecloudplatform/discord-bot #
 https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to end demo of Google's Cloud data and analytic stack.
 https://github.com/googlecloudplatform/solutionbuilder-terraform-genai-doc-summarization #
 https://github.com/googlecloudplatform/mis-ai-accelerator # Google Cloud Medical Imaging ML Development Accelerators
-https://github.com/googlecloudplatform/open_data_qna # The Open Data QnA python library enables you to chat with your databases by
-leveraging LLM Agents on Google Cloud. Open Data QnA enables a conversational approach to interacting with your data by implementing state-of-the-art NL2SQL / Text2SQL methods. https://github.com/googlecloudplatform/vertex-parameter-server-training-demo #
+https://github.com/googlecloudplatform/open_data_qna # The Open Data QnA python library enables you to chat with your databases by leveraging LLM Agents on Google Cloud. Open Data QnA enables a conversational approach to interacting with your data by implementing stat
+e-of-the-art NL2SQL / Text2SQL methods. https://github.com/googlecloudplatform/vertex-parameter-server-training-demo #

@@ -1,0 +1,28 @@
+https://github.com/googlecloudplatform/elcarro-oracle-operator # El Carro is a n
+ew project that offers a way to run Oracle databases in Kubernetes as a portable, open source, community driven, no vendor lock-in container orchestration system. El Carro provides a powerful declarative API for comprehensive and consistent configuration and deployment as well as for real-time operations and monitoring. https://github.com/googlecloudplatform/terraform-google-alloy-db # Creates an Al
+loy DB instance https://github.com/googlecloudplatform/jenkins-docker #
+https://github.com/googlecloudplatform/terraform-google-cloud-spanner # Deploy S
+panner instances https://github.com/googlecloudplatform/terraform-google-backup-dr # Deploy Backu
+p and DR appliances https://github.com/googlecloudplatform/composer-infra-python #
+https://github.com/googlecloudplatform/dataproc-templates # Dataproc templates a
+nd pipelines for solving simple in-cloud data tasks https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google
+-provided templates for solving in-Cloud data tasks https://github.com/googlecloudplatform/bq-backup-manager #
+https://github.com/googlecloudplatform/cloudbuild-integration-testing # Example
+of techniques for using Google Cloud Build to do integration tests of a microservices application https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Acce
+lerators for Serverless Spark on GCP, the industry's first auto-scaling and serverless Spark as a service https://github.com/googlecloudplatform/gke-photoalbum-example # GKE Photo Album
+Example https://github.com/googlecloudplatform/cloud-spanner-emulator # An open source e
+mulator for Cloud Spanner. https://github.com/googlecloudplatform/cluster-toolkit # Cluster Toolkit is an o
+pen-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud. https://github.com/googlecloudplatform/healthcare-dicom-dicomweb-adapter # Adapt
+er which transforms DIMSE requests to DICOMweb requests https://github.com/googlecloudplatform/gcp-fedramp-quickstart #
+https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatil
+e, multi-purpose tool to handle Pub/Sub messages and turn them into email, API calls, GCS objects, files or almost anything. https://github.com/googlecloudplatform/terraform-google-netapp-volumes # Deploy
+NetApp Storage Volumes https://github.com/googlecloudplatform/gce-rescue # GCE Rescue is a command-line
+tool to boot Google Cloud Platform VMs in Rescue Mode. Topics https://github.com/googlecloudplatform/terraform-provider-backupdr #
+https://github.com/googlecloudplatform/chef-google-bigquery #
+https://github.com/googlecloudplatform/terraform-gcp-datadog-integration # Terra
+form code to make the Google Cloud Platform to Datadog log collection integration easier. https://github.com/googlecloudplatform/customer-experience-modernization # This
+open-source project aims to compile best practices, guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products. https://github.com/googlecloudplatform/chef-google-compute #
+https://github.com/googlecloudplatform/multi-provider-dns-with-clouddns #
+https://github.com/googlecloudplatform/db-ha-validation #
+https://github.com/googlecloudplatform/dotnet-migration-sample #

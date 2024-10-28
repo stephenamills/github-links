@@ -1,0 +1,17 @@
+https://github.com/googlecloudplatform/cloudsql-jump-start-solution-for-genai #
+A jump start solution using GKE or Cloud Run with Cloud SQL and VertexAI https://github.com/googlecloudplatform/terraform-google-alloy-db # Creates an Al
+loy DB instance https://github.com/googlecloudplatform/cloud-sql-nodejs-connector # A JavaScript
+library for connecting securely to your Cloud SQL instances https://github.com/googlecloudplatform/kafka-private-service-connect #
+https://github.com/googlecloudplatform/cloud-sql-python-connector # A Python lib
+rary for connecting securely to your Cloud SQL instances. https://github.com/googlecloudplatform/terraform-example-foundation-app #
+https://github.com/googlecloudplatform/gcp-fedramp-quickstart #
+https://github.com/googlecloudplatform/alloydb-python-connector # A Python libra
+ry for connecting securely to your AlloyDB instances. https://github.com/googlecloudplatform/deploystack-wordpress-on-cloudrun #
+https://github.com/googlecloudplatform/deploystack-cloudsql-multiregion #
+https://github.com/googlecloudplatform/terraform-google-cloud-ids # Deploys a Cl
+oud IDS instance and associated resources. https://github.com/googlecloudplatform/cloudnetworking-config-solutions # Cloud
+Networking config solution makes it easy for you to connect your on-premises network or VPC to Google-managed services.The solution simplifies complex network configurations and takes care of that for you, so you can focus on your business. Plus, it's designed to be scalable and reliable, so you can count on it to handle your growing needs. https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to en
+d demo of Google's Cloud data and analytic stack. https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline #
+This repository compiles prescriptive guidance and code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Pub
+lic Sector Landing Zone overlay on top of the TEF via CFT modules - a secure cloud foundation https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/terraform-google-cloudsqlnetworking #

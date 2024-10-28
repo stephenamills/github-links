@@ -1,0 +1,5 @@
+https://github.com/googlecloudplatform/click-to-deploy # Source for Google Click
+to Deploy solutions listed on Google Cloud Marketplace. https://github.com/googlecloudplatform/opentelemetry-demo #
+https://github.com/googlecloudplatform/platform-engineering #
+https://github.com/googlecloudplatform/terraform-dataanalytics-eventdriven # Use
+s click-to-deploy to demonstrate how to load data from Cloud Storage to BigQuery using an event-driven load function.

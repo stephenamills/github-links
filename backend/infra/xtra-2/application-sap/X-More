@@ -1,3 +1,111 @@
+https://github.com/googlecloudplatform/cortex-data-foundation # Data Foundation - Google Cloud Cortex Framework
+https://github.com/googlecloudplatform/sap-deployment-automation #
+https://github.com/googlecloudplatform/cortex-reporting #
+https://github.com/googlecloudplatform/cortex-dag-generator #
+https://github.com/googlecloudplatform/sapagent # This repository contains the Agent for SAP (Linux and Windows). The agent is intended to run on all Google Cloud compute instances where an SAP workload is running.
+https://github.com/googlecloudplatform/pacemaker-log-parser-for-sap-on-gcp # This repository contains the program to analyze logs from Linux Pacemaker High Availability cluster for SAP solutions running in Google Cloud Platform.
+https://github.com/googlecloudplatform/google-cloud-abap # ABAP SDK for Google Cloud and BigQuery Connector for SAP enable customers to easily consume Google Products and Services natively from their SAP Landscape.
+https://github.com/googlecloudplatform/abap-sdk-sample-archivelink-content-repository #
+https://github.com/googlecloudplatform/invoice-insights #
+https://github.com/googlecloudplatform/openapi-generator-for-abap-sdk # Open API Generator for ABAP SDK for Google Cloud
+https://github.com/mspnp/iaas-landing-zone-baseline # This is the IaaS baseline for Azure landing zones reference implementation as produced by the Azure Architecture Center.
+https://github.com/azure-samples/app-service-javascript-sap-cap-quickstart # Sample project showcasing SAP Cloud Application Programming Model (CAP) consumption from SAP S4 with Azure App Service
+https://github.com/azure-samples/app-service-javascript-sap-cloud-sdk-quickstart # Sample project showcasing SAP Cloud SDK for OData consumption from SAP S4 with Azure App Service
+https://github.com/azure-samples/functions-javascript-sap-cloud-sdk-quickstart # Sample project showcasing SAP Cloud SDK for OData consumption from SAP S4 with Azure Functions
+https://github.com/azure-samples/copilot-sap-sales-order-verification #
+https://github.com/azure-samples/azd-apic-sap # Discover your SAP & Azure API Management APIs in one place with Azure API Center
+https://github.com/azure-samples/universal-api-center # APIC ♥️ all APIs - this repo contains labs focused on importing APIs from a wide variety of gateways and sources
+https://github.com/azure/sap-automation # This is the repository supporting the SAP deployment automation framework on Azure
+https://github.com/azure/ftalive-sessions # This repository is a public-facing source of information for FastTrack for Azure Live sessions.
+https://github.com/azure/sap-automation-samples # This repository will contain the sample SAP Application files and the Terraform configuration files
+https://github.com/azure/sap-on-azure-scripts-and-utilities # This repository hosts scripts and utilities that can be used to streamline deployment and operations for SAP on Azure customers
+https://github.com/azure/review-checklists # This repo contains code and examples to operationalize Azure review checklists.
+https://github.com/azure/rgcopy # script for copying an Azure Resource Group
+https://github.com/azure/azure-hanaonazure-cli-extension # Microsoft Azure Command-Line Tools SAP HANA Command Module
+https://github.com/azure/sap-automation-bootstrap # Bootstrap repo for SDAF
+https://github.com/azure/fta-architecturalreview # FastTrack for Azure - Architectural Review
+https://github.com/azure/azure-center-for-sap-solutions # Azure Center for SAP solutions is an end-to-end solution that enables you to create and run SAP systems as a unified workload on Azure and provides a more seamless foundation for innovation. You can take advant
+age of the management capabilities for both new and existing Azure-based SAP systems. https://github.com/azure/hana-large-instances-self-service-scripts # Self Service Scripts for Azure HANA Large Instances
+https://github.com/azure/terraform-azurerm-caf-enterprise-scale # Azure landing zones Terraform module
+https://github.com/azure/azure-monitor-for-sap-solutions-preview # Documentation for Azure Monitor for SAP solutions – preview.
+https://github.com/azure/azure-sdk-for-sap-odata # This repository serves as foundation to power SAP OData SDK development for .NET
+https://github.com/azure/universal-print-for-sap-starter-pack # This repos shows how to enable integration between SAP NetWeaver and Microsoft Universal Print for backend printing needs.
+https://github.com/azure/azqr # Azure Quick Review
+https://github.com/azure/sap-hana-tools # Tools used for SAP HANA BareMetal customers
+https://github.com/azure/performance-efficiency-scripts-sap-ora # This repository contains pre-made scripts for use with SAP on Oracle environments. They can help troubleshoot Oracle Performance issues
+https://github.com/azure/migration #
+https://github.com/azure/cloud-rolesandops # Guidance for routine operations in Azure.
+https://github.com/azure/ams-migration # This repo contains details of how to migrate from AMS V1 to V2
+https://github.com/azure/azure-workload-backup-troubleshooting-scripts # Maintains troubleshooting scripts for issues faced during workload backups via Azure Recovery Services Vaults.
+https://github.com/azure/sap-edge-integration-cell-on-azure-accelerator # This repos serves as an accelerator for deployment of SAP Edge Integration Cell (EIC) on Azure Kubernetes Service (AKS).
+https://github.com/azure/jp-techdocs # A repository for providing Japanese technical documents by volunteer employees belonging to technical divisions in Microsoft Japan.
+https://github.com/azure/regulatory-compliance-initiatives #
+https://github.com/azure/sap-automation-actions # To gain access, please finish setting up this repository now at:
+https://github.com/azure/sterling # IBM Sterling Order Management on Azure
+https://github.com/azure/azure-ai-at-build #
+https://github.com/microsoft/whatthehack # A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates. Please visit the What The Hack website at: https://aka.ms/wth
+https://github.com/microsoft/abap-sdk-for-azure # ABAP Libraries for SAP native Integration with Azure Services
+https://github.com/microsoft/aisdkforsapabap # AI SDK for SAP ABAP
+https://github.com/microsoft/templates-for-power-platform # Solutions designed to expedite the implementation of Power Platform within large-scale enterprises.
+https://github.com/microsoft/sapazuresnooze # SAPAzureSnooze
+https://github.com/microsoft/entraidgovernance-training # Microsoft Entra ID Governance Training and Learning Resources
+https://github.com/microsoft/abap2git # One-way sync from SAP to Git repo for ABAP objects allowing multiple systems in branches and multiple packages in one branch, supporting code objects plus configuration delta and HR/payroll PCR/schema
+https://github.com/microsoft/ai-developer-plugin-for-eclipse # AI Developer Plugin for Eclipse
+https://github.com/microsoft/gps-csa-tech-stack # Tech Stack Contribute by GPS China CSA Team
+https://github.com/microsoft/power-platform-terraform-quickstarts # Examples for using the Power Platform Terraform Provider
+https://github.com/microsoft/toxigen # This repo contains the code for generating the ToxiGen dataset, published at ACL 2022.
+https://github.com/microsoft/applicationinsights-sap-fiori-plugin # SAP Fiori Launchpad Plugin to gain insights into Fiori metrics with Azure Application Insights
+https://github.com/microsoft/saptelemetry # SAP Telemetry data to Azure Application insights using Azure API within SAP REST framework
+https://github.com/microsoft/rtp-lx # Repository for the paper "RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?"
+https://github.com/microsoft/ssma #
+https://github.com/microsoft/mtc_il_workshop_azure_administrator #
+https://github.com/aws-solutions-library-samples/guidance-for-automating-sap-configuration-health-checks-on-aws # This Guidance shows how to automate evaluation of your SAP landscape on AWS against 100+ health checks and architecture best practices aligned with the AW
+S Well-Architected Framework. https://github.com/aws-solutions-library-samples/guidance-for-improving-application-development-productivity-with-the-sap-abap-assistant-on-aws # This Guidance demonstrates how to set up the SAP ABAP Assistant, a plugin that integrates with Amazon Bedrock in the Eclip
+se integrated development environment (IDE) https://github.com/aws-solutions-library-samples/guidance-for-building-a-sap-cloud-data-warehouse-on-aws # This Guidance shows how to extract data and business logic from SAP systems to build a data warehouse that integrates the business context and logic embedded wit
+hin the SAP system. https://github.com/aws-solutions-library-samples/guidance-for-sap-data-integration-and-management-on-aws # This Guidance provides the essential data foundation for empowering customers to build data and analytics solutions
+https://github.com/aws-solutions-library-samples/guidance-for-datalake-with-sap-and-non-sap-data-on-aws # This Guidance demonstrates how to combine and consolidate SAP and non-SAP data from disparate sources using data lakes and machine learning services on AWS.
+https://github.com/aws-solutions-library-samples/guidance-for-sap-generative-ai-assistant-on-aws # Guidance about how to improve business user productivity and experience using real-time data summaries, task automation, seamless natural language interactions
+https://github.com/aws-samples/terraform-aws-sap-netweaver-on-hana # Terraform modules for deploying highly configurable SAP products on AWS.
+https://github.com/aws-samples/aws-install-sap-with-jenkins-ansible #
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-netweaver # Amazon CloudWatch Monitoring for SAP NetWeaver ABAP-based environments.
+https://github.com/aws-samples/custom-lens-wa-hub # Provide JSON file template that demonstrate how to create customize Well-Architected reviews using Custom lenses.
+https://github.com/aws-samples/aws-cloudformation-apigw-sap-idocs # This repository contains sample code as well as an AWS CloudFormation template to integrate SAP IDocs with Amazon S3 using Amazon API Gateway.
+https://github.com/aws-samples/aws-ssm-automation-for-start-stop-sap #
+https://github.com/aws-samples/aws-ebs-snapshot-sap-hana # How to use AWS EBS Snapshots for SAP HANA database to create an automated recovery procedure
+https://github.com/aws-samples/codecommit-crawler-innersource # A custom crawler written for AWS CodeCommit that generates the repos.json that can be used by the SAP InnerSource Portal.
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-hana # Amazon CloudWatch Monitoring for SAP HANA
+https://github.com/aws-samples/aws-sap-on-ase-with-jenkins-terraform-ansible #
+https://github.com/aws-samples/aws-iot-sap-condition-monitoring-demo #
+https://github.com/aws-samples/aws-sap-lens-well-architected # AWS SAP Lens for Well-Architected Framework. Custom JSON file for use in the AWS Well-Architected console tool.
+https://github.com/aws-samples/sap-commerce-blue-green-deployments-on-amazon-eks #
+https://github.com/aws-samples/sap-automated-hana-patching #
+https://github.com/aws-samples/amazon-cloudwatch-monitor-for-sap-highavailability #
+https://github.com/aws-samples/aws-analytics-fabric-for-sap #
+https://github.com/aws-samples/aws-ebs-snapshot-sap-ase # AWS EBS Snapshots for SAP ASE
+https://github.com/aws-samples/aws-abapsdk-idp-textract-demo #
+https://github.com/aws-samples/aws-license-manager-license-consumption-sample #
+https://github.com/aws-samples/sap-on-aws-documentprocessing-workflow #
+https://github.com/aws-samples/automate-sap-hana-high-availability-test #
+https://github.com/aws-samples/aws-lookoutforvision-sap-integration # Integrate AWS Lookout for vision with SAP Quality Management Process
+https://github.com/aws-samples/aws-sap-golden-ami-image-builder #
+https://github.com/aws-samples/jp-contents-hub # AWS の日本語用ハンズオンなどを掲載するウェブサイト
+https://github.com/aws-samples/aws-sap-hana-update-cluster-nzdt #
+https://github.com/aws-samples/aws-backint-automated-backup #
+https://github.com/aws-samples/systems-manager-license-manager-license-tracker-for-sql-server #
+https://github.com/aws-samples/aws-sap-hana-fast-restart-scripts #
+https://github.com/aws-samples/aws-sap-multiaz #
+https://github.com/aws-samples/aws-workshop-samples-for-sap # Sample code used in SAP on AWS workshops.
+https://github.com/aws-samples/aws-ssm-automation-for-sap-hana-restore #
+https://github.com/aws-samples/platform-to-migrate-sap-sybaseiq-to-datalake-on-aws-with-fine-grained-control #
+https://github.com/aws-samples/sap-ase-db-backup-ssm-eventbridge #
+https://github.com/aws-samples/suse-linux-on-aws-workshop # Hands-on workshop for architects, infrastructure specialists and developers to learn about how to maintain the lifecycle of SUSE Linux Enterprise Servers (SLES) & SUSE Linux Enterprise Servers for SAP (SLES4S
+AP) on AWS https://github.com/aws-samples/on-prem-jobs-with-step-functions #
+https://github.com/awslabs/aws-sap-automation # Collection of scripts, that can be used with AWS Launch Wizard for SAP or standalone to automate SAP on AWS
+https://github.com/awslabs/sockeye # Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch
+https://github.com/awslabs/aws-appflow-custom-connector-python #
+https://github.com/awslabs/aws-dynasync # Create an AWS AppSync GraphQL API and an Amazon DynamoDB database with a single command. Automate the building and provisioning of a GraphQL API using a single config file with AWS AppSync and Amazon DynamoDb to store the data
+. https://github.com/awslabs/aws-appflow-custom-connector-java #
+
 https://github.com/sap-docs/btp-cloud-platform # Markdown source for the SAP BTP documentation.
 https://github.com/sap-docs/btp-business-application-studio # Markdown source for the SAP Business Application Studio documentation.
 https://github.com/sap-docs/btp-best-practices-guide # Markdown source for the Best Practices Guide for SAP BTP.

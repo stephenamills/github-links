@@ -1,0 +1,39 @@
+https://github.com/googlecloudplatform/alloydb-go-connector # A Go library for c
+onnecting securely to your AlloyDB instances https://github.com/googlecloudplatform/alloydb-auth-proxy # A utility for connec
+ting securely to your AlloyDB instances https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modu
+lar samples and landing zones toolkit for Terraform on GCP. https://github.com/googlecloudplatform/terraform-google-alloy-db # Creates an Al
+loy DB instance https://github.com/googlecloudplatform/microservices-demo # Sample cloud-first a
+pplication with 10 microservices showcasing Kubernetes, Istio, and gRPC. https://github.com/googlecloudplatform/alloydb-python-connector # A Python libra
+ry for connecting securely to your AlloyDB instances. https://github.com/googlecloudplatform/genai-databases-retrieval-app #
+https://github.com/googlecloudplatform/alloydb-java-connector # A Java library f
+or connecting securely to your AlloyDB instances. https://github.com/googlecloudplatform/alloydb-omni-samples #
+https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/cloudnetworking-config-solutions # Cloud
+Networking config solution makes it easy for you to connect your on-premises network or VPC to Google-managed services.The solution simplifies complex network configurations and takes care of that for you, so you can focus on your business. Plus, it's designed to be scalable and reliable, so you can count on it to handle your growing needs. https://github.com/googlecloudplatform/professional-services-data-validator # Ut
+ility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match
+
+https://github.com/googlecloudplatform/postgresql-docker #
+https://github.com/googlecloudplatform/bank-of-anthos # Retail banking sample ap
+plication showcasing Kubernetes and Google Cloud https://github.com/googlecloudplatform/terraform-google-three-tier-web-app # Dep
+loys a three tier web application using Cloud Run and Cloud SQL https://github.com/googlecloudplatform/pgadapter # PostgreSQL wire-protocol prox
+y for Cloud Spanner https://github.com/googlecloudplatform/spanner-migration-tool # Spanner migratio
+n tool helps you migrate from your existing database/dump files to Spanner https://github.com/googlecloudplatform/oracle-to-postgres #
+https://github.com/googlecloudplatform/cloud-sql-python-connector # A Python lib
+rary for connecting securely to your Cloud SQL instances. https://github.com/googlecloudplatform/open_data_qna # The Open Data QnA python
+library enables you to chat with your databases by leveraging LLM Agents on Google Cloud. Open Data QnA enables a conversational approach to interacting with your data by implementing state-of-the-art NL2SQL / Text2SQL methods. https://github.com/googlecloudplatform/spring-cloud-gcp # New home for Spring Cl
+oud GCP development starting with version 2.0. https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google
+-provided templates for solving in-Cloud data tasks https://github.com/googlecloudplatform/cloud-spanner-emulator # An open source e
+mulator for Cloud Spanner. https://github.com/googlecloudplatform/terraform-google-microfocus-es #
+https://github.com/googlecloudplatform/cloud-sql-iam-db-authn-groups # Example o
+f how to enable Cloud SQL IAM Database Authentication for Groups https://github.com/googlecloudplatform/cloud-sql-nodejs-connector # A JavaScript
+library for connecting securely to your Cloud SQL instances https://github.com/googlecloudplatform/gcs-postgresql-recovery-tutorial # Reposi
+tory containing source code, docker, and management scripts to accompany Reference Guide https://github.com/googlecloudplatform/alloydb-python-connector # A Python libra
+ry for connecting securely to your AlloyDB instances. https://github.com/googlecloudplatform/migrate-webapp-heroku-to-cloudrun-node #
+https://github.com/googlecloudplatform/chef-google-sql #
+https://github.com/googlecloudplatform/deploystack-wordpress-on-cloudrun #
+https://github.com/googlecloudplatform/solutionbuilder-terraform-google-three-ti
+er-web-app # https://github.com/googlecloudplatform/deploystack-cloudsql-multiregion #
+https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker
+(PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/terraform-google-cloudsqlnetworking #
+https://github.com/googlecloudplatform/spanner-data-validator #

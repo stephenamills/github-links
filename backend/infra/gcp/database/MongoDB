@@ -1,0 +1,6 @@
+https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google
+-provided templates for solving in-Cloud data tasks https://github.com/googlecloudplatform/mongodb-docker #
+https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker
+(PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. https://github.com/googlecloudplatform/deploystack-nosql-client-server # A terra
+form solution that will create 2 VMS and a firewall rule, connect them all, to serve up a API powered by mongo. https://github.com/googlecloudplatform/cloud-code-custom-samples-example # Examp
+le of configuring a Custom Samples repository for Cloud Code https://github.com/googlecloudplatform/dataflow-cookbook #

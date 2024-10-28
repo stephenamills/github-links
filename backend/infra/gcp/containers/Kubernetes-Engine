@@ -29,7 +29,7 @@ https://github.com/googlecloudplatform/terraform-example-java-dynamic-point-of-s
 https://github.com/googlecloudplatform/secrets-store-csi-driver-provider-gcp # Google Secret Manager provider for the Secret Store CSI Driver.
 https://github.com/googlecloudplatform/gke-enterprise-demo # This demo aims to show what a fully-featured project running in Kubernetes Engine looks like.
 https://github.com/googlecloudplatform/gke-logging-sinks-demo # This project describes the steps required to deploy a sample application to Kubernetes Engine
-https://github.com/googlecloudplatform/mllp # The Minimal Lower Layer Protocol adapter is a component that runs on GKE  
+https://github.com/googlecloudplatform/mllp # The Minimal Lower Layer Protocol adapter is a component that runs on GKE
 https://github.com/googlecloudplatform/k8s-cloudkms-plugin # K8s KMS Plugin for Google CloudKMS
 https://github.com/googlecloudplatform/gke-security-scenarios-demo # Best practices for improving the security of containerized applications deployed to GKE
 https://github.com/googlecloudplatform/gke-application-security-demo # Best practices for improving the security of containerized applications deployed to GKE
@@ -46,3 +46,8 @@ https://github.com/googlecloudplatform/terraform-google-anthos-vm # Creates VMs 
 https://github.com/googlecloudplatform/gke-pubsub-websocket-adapter # Consume Pub/Sub over Websockets
 https://github.com/googlecloudplatform/reliable-app-platforms # A MVP of a platform for delivering reliable applications on Google Cloud
 https://github.com/googlecloudplatform/kubeflow-gke-docs # Documentation for Kubeflow on Google Cloud
+
+https://github.com/googlecloudplatform/k8s-config-connector # GCP Config Connect
+or, a Kubernetes add-on for managing GCP resources https://github.com/googlecloudplatform/cloud-foundation-toolkit # The Cloud Foun
+dation toolkit provides GCP best practices as code. https://github.com/googlecloudplatform/pubsec-declarative-toolkit # The GCP PubS
+ec Declarative Toolkit is a collection of declarative solutions to help you on your Journey to Google Cloud. Solutions are designed using Config Connector and deployed using Config Controller.

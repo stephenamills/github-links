@@ -1,0 +1,93 @@
+https://github.com/googlecloudplatform/terraformer # CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+https://github.com/googlecloudplatform/solutions-terraform-cloudbuild-gitops #
+https://github.com/googlecloudplatform/magic-modules # Add Google Cloud Platform support to Terraform
+https://github.com/googlecloudplatform/solutions-terraform-jenkins-gitops # Demonstrates the use of Jenkins and Terraform to manage Infrastructure as Code using GitOps practices
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modular samples and landing zones toolkit for Terraform on GCP.
+https://github.com/googlecloudplatform/terraform-google-cloud-run # Deploys apps to Cloud Run, along with option to map custom domain
+https://github.com/googlecloudplatform/terraform-google-three-tier-web-app # Deploys a three tier web application using Cloud Run and Cloud SQL
+https://github.com/googlecloudplatform/terraform-genai-doc-summarization # Summarizes document using OCR and Vertex Generative AI LLM
+https://github.com/googlecloudplatform/terraform-google-conversion # This is a Golang library which provides functions to map a Terraform configuration for Google Cloud Platform into GCP's native API inventory format.
+https://github.com/googlecloudplatform/terraform-google-secure-cicd # Builds a secure CI/CD pipeline on Google Cloud
+https://github.com/googlecloudplatform/terraform-python-testing-helper # Simple Python test helper for Terraform.
+https://github.com/googlecloudplatform/terraform-google-load-balanced-vms # Creates a Managed Instance Group with a loadbalancer
+https://github.com/googlecloudplatform/terraform-dynamic-python-webapp # Deploy a dynamic python webapp
+https://github.com/googlecloudplatform/terraform-genai-rag # Deploys a Generative AI RAG solution
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse # Deploys a secured BigQuery data warehouse
+https://github.com/googlecloudplatform/terraform-example-foundation-app #
+https://github.com/googlecloudplatform/terraform-genai-knowledge-base # Fine tune an LLM model to answer questions from your documents.
+https://github.com/googlecloudplatform/terraform-splunk-log-export # Deploy Google Cloud log export to Splunk using Terraform
+https://github.com/googlecloudplatform/terraform-google-secret-manager # Creates one or more Google Secret Manager secrets and manages basic permissions for them
+https://github.com/googlecloudplatform/terraform-google-cloud-armor # Deploy Cloud Armor security policy
+https://github.com/googlecloudplatform/terraform-google-cloud-functions # Deploys Cloud Functions (Gen 2)
+https://github.com/googlecloudplatform/terraform-ecommerce-microservices-on-gke # Deploys a web-based ecommerce app into a multi-cluster Google Kubernetes Engine setup.
+https://github.com/googlecloudplatform/terraform-dynamic-javascript-webapp # Deploy a dynamic javascript webapp
+https://github.com/googlecloudplatform/terraform-google-analytics-lakehouse # Deploys a Lakehouse Architecture Solution
+https://github.com/googlecloudplatform/microservices-demo # Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+https://github.com/googlecloudplatform/terraform-google-enterprise-application # Deploy an enterprise developer platform on Google Cloud
+https://github.com/googlecloudplatform/terraform-google-alloy-db # Creates an Alloy DB instance
+https://github.com/googlecloudplatform/terraform-ml-image-annotation-gcf # Deploys an app for ml image annotation using gcf
+https://github.com/googlecloudplatform/gcve-iac-foundations # This repository contains Terraform code to deploy a sample Terraform foundation for Google Cloud VMware Engine. In this repository you can find Terraform modules, deployment examples as well as a set of dep
+loyment stages to set up you foundational infrastructure. https://github.com/googlecloudplatform/terraform-google-enterprise-genai #
+https://github.com/googlecloudplatform/terraform-google-waap # Deploys the WAAP solution on Google Cloud
+https://github.com/googlecloudplatform/terraform-google-cloud-workflows # Manage Workflows with optional Scheduler or Event Arc triggers
+https://github.com/googlecloudplatform/terraform-google-network-forensics # Deploys Zeek on Google Cloud
+https://github.com/googlecloudplatform/terraform-example-deploy-java-multizone # Deploy a multizone Java application
+https://github.com/googlecloudplatform/terraform-sample-tools # Developer Tools & Utilities for contributing Terraform Samples in [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules/)
+https://github.com/googlecloudplatform/terraform-cloud-deployment-gke # Deploy a change to a live stateful service (Go on GKE)
+https://github.com/googlecloudplatform/terraform-google-log-analysis # Stores and analyzes log data
+https://github.com/googlecloudplatform/terraform-google-billing-dashboard #
+https://github.com/googlecloudplatform/terraform-google-artifact-registry # Create and manage Artifact Registry repositories
+https://github.com/googlecloudplatform/terraform-google-cloud-deploy # Create Cloud Deploy pipelines and targets
+https://github.com/googlecloudplatform/solutions-floating-ip-patterns-terraform #
+https://github.com/googlecloudplatform/terraform-example-deploy-java-gke # Deploy a Legacy Java App GKE
+https://github.com/googlecloudplatform/terraform-google-cloud-spanner # Deploy Spanner instances
+https://github.com/googlecloudplatform/terraform-google-cloudsqlnetworking #
+https://github.com/googlecloudplatform/terraform-cloud-deployment-gce # Deploy a change to a live stateful service (Java on GCE)
+https://github.com/googlecloudplatform/deploystack # An extension to Google Cloud's Open In Cloud Shell that turns a terraform project into a one click deployable on Google Cloud
+https://github.com/googlecloudplatform/terraform-google-tf-cloud-agents # Creates self-hosted Terraform Cloud Agent on Google Cloud
+https://github.com/googlecloudplatform/terraform-example-java-dynamic-point-of-sale # Deploys a dynamic Java webapp into a Google Kubernetes Engine cluster.
+https://github.com/googlecloudplatform/gke-poc-toolkit # 📦 Demo generator for Google Kubernetes Engine!
+https://github.com/googlecloudplatform/terraform-google-itar-architectures # Includes use cases for deploying ITAR-aligned architectures on Google Cloud
+https://github.com/googlecloudplatform/terraform-google-vertex-ai # Deploy Vertex AI resources
+https://github.com/googlecloudplatform/terraform-google-dataplex-auto-data-quality # Move data between environments using Dataplex
+https://github.com/googlecloudplatform/terraform-google-microfocus-es #
+https://github.com/googlecloudplatform/terraform-google-backup-dr # Deploy Backup and DR appliances
+https://github.com/googlecloudplatform/gcp-to-aws-ha-vpn-terraform-module #
+https://github.com/googlecloudplatform/click-to-deploy-solutions # This repository has Google Cloud solutions that you can deploy with a single click.
+https://github.com/googlecloudplatform/terraform-google-anthos-vm # Creates VMs on Anthos Bare Metal clusters
+https://github.com/googlecloudplatform/terraform-cloud-client-api # Deploys an example application that uses Cloud Client APIs
+https://github.com/googlecloudplatform/terraform-google-media-cdn-vod # Deploys Media CDN video-on-demand
+https://github.com/googlecloudplatform/terraform-google-secure-web-proxy # Create and manage Secure Web Proxy on GCP for secured egress web traffic
+https://github.com/googlecloudplatform/terraform-google-cloud-ids # Deploys a Cloud IDS instance and associated resources.
+https://github.com/googlecloudplatform/slo-monitoring-using-terraform #
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-onprem-ingest # Deploys a secured data warehouse variant for ingesting encrypted data from on-prem sources
+https://github.com/googlecloudplatform/terraform-dataanalytics-eventdriven # Uses click-to-deploy to demonstrate how to load data from Cloud Storage to BigQuery using an event-driven load function.
+https://github.com/googlecloudplatform/terraform-google-crmint # Deploy the marketing analytics application, CRMint
+https://github.com/googlecloudplatform/terraform-google-tags # Create and manage Google Cloud Tags
+https://github.com/googlecloudplatform/assured-workloads-terraform #
+https://github.com/googlecloudplatform/terraform-cloud-dynamic-credentials # Create dynamic, short-lived GCP credentials from within Terraform Cloud
+https://github.com/googlecloudplatform/rad-lab # RAD Lab enables users to deploy infrastructure on Google Cloud Platform (GCP) to support specific use cases. Infrastructure is created and managed through Terraform in conjunction with support scripts written in Python.
+The templates, code, and documentation for each use case are bundled into modules. https://github.com/googlecloudplatform/terraform-google-out-of-band-security # Creates a 3P out-of-band security appliance deployment
+https://github.com/googlecloudplatform/terraform-gcp-datadog-integration # Terraform code to make the Google Cloud Platform to Datadog log collection integration easier.
+https://github.com/googlecloudplatform/terraform-google-netapp-volumes # Deploy NetApp Storage Volumes
+https://github.com/googlecloudplatform/deploystack-nosql-client-server # A terraform solution that will create 2 VMS and a firewall rule, connect them all, to serve up a API powered by mongo.
+https://github.com/googlecloudplatform/terraform-google-pam # Deploy Privileged Access Manager
+https://github.com/googlecloudplatform/terraform-google-bigtable # Create and manage Google Bigtable resources
+https://github.com/googlecloudplatform/terraform-pubsub-integration-java #
+https://github.com/googlecloudplatform/solutionbuilder-terraform-google-three-tier-web-app #
+https://github.com/googlecloudplatform/dataflow-solution-guides # The Dataflow Solution Guides offer full end-to-end deployment for the most common streaming solutions to run on Dataflow.
+https://github.com/googlecloudplatform/guacamole-on-gcp # Deploying Apache Guacamole on Google Cloud - provides terraform for deploying GCP resources as well as a Guacamole auth plugin to enable Identity Aware Proxy (IAP) integration.
+https://github.com/googlecloudplatform/reliable-app-platforms # A MVP of a platform for delivering reliable applications on Google Cloud
+https://github.com/googlecloudplatform/terraform-google-dbt-composer-blueprint #
+https://github.com/googlecloudplatform/solutions-terraform-scc-notifications-gchat # Send SCC Notifications to Google Chat
+https://github.com/googlecloudplatform/education-data-platform # Education Data Platform (EDP) is a reference architecture followed by end-to-end blueprints, scripts and a suite of Terraform modules for Google Cloud Platform (GCP), designed to automate the creation, g
+overnance and observability of a modern and robust data repository for educational institutions, looking into becoming a data-driven organization. https://github.com/googlecloudplatform/terraform-google-autokey # Deploys KMS Autokey resource to simplify creation and management of customer encryption keys (CMEK) by automating provisioning and assignment.
+https://github.com/googlecloudplatform/solutionbuilder-terraform-genai-doc-summarization #
+https://github.com/googlecloudplatform/solutionbuilder-terraform-google-bigquery #
+https://github.com/googlecloudplatform/dlp-pdf-redaction # This solution provides an automated, serverless way to redact sensitive data from PDF files using Google Cloud Services like Data Loss Prevention (DLP), Cloud Workflows, and Cloud Run.
+https://github.com/googlecloudplatform/scoutsuite-gcp-scan # Terraform to run Scoutsuite security scan of projects within a Google Cloud Org. Report will be published to a GCS bucket.
+https://github.com/googlecloudplatform/cloudnetworking-config-solutions # Cloud Networking config solution makes it easy for you to connect your on-premises network or VPC to Google-managed services.The solution simplifies complex network configurations and takes care
+of that for you, so you can focus on your business. Plus, it's designed to be scalable and reliable, so you can count on it to handle your growing needs. https://github.com/googlecloudplatform/terraform-google-apphub # Creates and manages AppHub resources
+https://github.com/googlecloudplatform/terraform-provider-backupdr #
+https://github.com/googlecloudplatform/terraform-pubsub-integration-golang #
+https://github.com/googlecloudplatform/hpc-lab-samples # This repo contains source code to provision a HPC Cluster with basic compute, storage, networking and a SLURM cluster. The code consists mainly of Terraform and shell scripts.

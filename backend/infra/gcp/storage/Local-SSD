@@ -1,0 +1,7 @@
+https://github.com/googlecloudplatform/gcsfuse # A user-space file system for in
+teracting with Google Cloud Storage https://github.com/googlecloudplatform/knfsd-cache-utils # A set of utilities fo
+r building, deploying and operating a high performance NFS Cache in Google Cloud. This is designed to be used for certain HPC and burst compute use-cases where there is a requirement for a high performance NFS cache between a NFS Server and its downstream NFS Clients. https://github.com/googlecloudplatform/guest-agent #
+https://github.com/googlecloudplatform/invoice-insights #
+https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo
+Megatron Large Language Model (LLM) using NeMo Framework on Google Kubernetes Engine https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker
+(PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. https://github.com/googlecloudplatform/chef-google-compute #

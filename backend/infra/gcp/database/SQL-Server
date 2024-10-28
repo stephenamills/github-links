@@ -1,0 +1,13 @@
+https://github.com/googlecloudplatform/iap-desktop # IAP Desktop is a Windows ap
+plication that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud. https://github.com/googlecloudplatform/database-assessment # Database Migration
+Assessment https://github.com/googlecloudplatform/spanner-migration-tool # Spanner migratio
+n tool helps you migrate from your existing database/dump files to Spanner https://github.com/googlecloudplatform/cloud-composer-mssql-dataflow-bigquery #
+This repository contains an example of how to leverage Cloud Composer and Cloud Dataflow to move data from a Microsoft SQL Server to BigQuery. The diagrams below demonstrate the workflow pipeline. https://github.com/googlecloudplatform/cloud-sql-python-connector # A Python lib
+rary for connecting securely to your Cloud SQL instances. https://github.com/googlecloudplatform/sql-server-agent # This repository contai
+ns the Agent for SQL Server (for Windows and Linux). The agent is intended to run on Google Cloud compute instances where SQL Server workload is running. https://github.com/googlecloudplatform/cloud-sql-nodejs-connector # A JavaScript
+library for connecting securely to your Cloud SQL instances https://github.com/googlecloudplatform/dotnet-migration-sample #
+https://github.com/googlecloudplatform/invoice-insights #
+https://github.com/googlecloudplatform/cloud-sql-proxy # A utility for connectin
+g securely to your Cloud SQL instances https://github.com/googlecloudplatform/cloud-sql-go-connector # A Go library for
+connecting securely to your Cloud SQL instances https://github.com/googlecloudplatform/data-migration-tool # DMT is an end to en
+d automation of data warehouse migration, focused on extraction, SQL translation, data migration, data validation, etc. The main goal is to reduce migration delivery time

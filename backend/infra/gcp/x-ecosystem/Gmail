@@ -1,0 +1,53 @@
+https://github.com/googlecloudplatform/cloud-functions-gmail-nodejs # A demo app that processes Gmail messages with Cloud Functions
+https://github.com/googlecloudplatform/cloud-bigtable-examples # Examples of how to use Cloud Bigtable both with GCE map/reduce as well as stand alone applications.
+https://github.com/googlecloudplatform/datashare-toolkit # DIY commercial datasets on Google Cloud Platform
+https://github.com/googlecloudplatform/dialogflow-email-agent-demo #
+https://github.com/googlecloudplatform/cloud-sql-python-connector # A Python library for connecting securely to your Cloud SQL instances.
+https://github.com/googlecloudplatform/cloud-sql-go-connector # A Go library for connecting securely to your Cloud SQL instances
+https://github.com/googlecloudplatform/dialogflow-ccai-omnichannel # Omnichannel Customer Service on Google Cloud. Conversational AI for web, telephony, SMS, Google Assistant and mobile.
+https://github.com/googlecloudplatform/cloud-sql-nodejs-connector # A JavaScript library for connecting securely to your Cloud SQL instances
+https://github.com/googlecloudplatform/compute-video-demo-puppet # Supporting details for the Using Puppet and Compute Engine video demo
+
+https://github.com/googleapis/google-api-nodejs-client # Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+https://github.com/googleapis/python-bigtable #
+https://github.com/googleapis/google-api-java-client-services # Generated Java code for Google APIs
+https://github.com/googleapis/google-api-dotnet-client # Google APIs Client Library for .NET
+https://github.com/googleapis/elixir-google-api # Elixir client libraries for accessing Google APIs.
+https://github.com/googleapis/google-api-php-client # A PHP client library for accessing Google APIs
+https://github.com/googleapis/java-bigtable-hbase # Java libraries and HBase client extensions for accessing Google Cloud Bigtable
+https://github.com/googleapis/java-bigtable #
+https://github.com/googleapis/java-datastore #
+
+https://github.com/google/gmail-oauth2-tools # Tools and sample code for authenticating to Gmail with OAuth2
+https://github.com/google/import-mailbox-to-gmail # Import .mbox files into Google Workspace
+https://github.com/google/mail-importer # Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
+https://github.com/google/oauth2l # oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
+https://github.com/google/j2objc # A Java to iOS Objective-C translation tool and runtime.
+https://github.com/google/megalista # First Party data integration solution built for marketing teams to enable audience and conversion onboarding into Google Marketing products (Google Ads, Campaign Manager, Google Analytics).
+https://github.com/google/closure-templates # A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements
+https://github.com/google/intermock # Mocking library to create mock objects with fake data for TypeScript interfaces
+https://github.com/google/j2cl # Java to Closure JavaScript transpiler
+https://github.com/google/product_video_ads # Product Video Ads is a solution to build video Ads at scale.
+https://github.com/google/googleapis.dart # Repository for building the googleapis packages
+https://github.com/google/magika # Detect file content types with deep learning
+https://github.com/google/packetdrill # The official Google release of packetdrill
+https://github.com/google/groupavail #
+https://github.com/google/vim-syncopate # Make it easy to share beautiful code. DISCLAIMER: This is not an official Google product.
+https://github.com/google/highwayhash # Fast strong hash functions: SipHash/HighwayHash
+https://github.com/google/cast-moderator-centipede # Automate Cast Moderator Google TV setup
+
+https://github.com/googleworkspace/apps-script-samples # Apps Script samples for Google Workspace products.
+https://github.com/googleworkspace/gmail-add-on-codelab #
+https://github.com/googleworkspace/python-samples # 🐍 Python samples for Google Workspace APIs
+https://github.com/googleworkspace/java-samples # ☕ Java samples for Google Workspace APIs.
+https://github.com/googleworkspace/php-samples # PHP samples for Google Workspace APIs
+https://github.com/googleworkspace/go-samples # Go samples for Google Workspace APIs
+https://github.com/googleworkspace/node-samples # Node samples for Google Workspace APIs.
+https://github.com/googleworkspace/browser-samples # Web samples for Google Workspace APIs
+https://github.com/googleworkspace/ruby-samples # 💎 Ruby samples for Google Workspace APIs
+https://github.com/googleworkspace/google-chat-samples # Google Chat app samples.
+https://github.com/googleworkspace/apps-script-intro-codelab #
+https://github.com/googleworkspace/gsuite-apis-intro #
+https://github.com/googleworkspace/gws-genai-addon-sample # A sample Google Workspace add-on for Gmail and Google Drive using Node.js and demonstrating how to use various Generative AI APIs
+https://github.com/googleworkspace/.github #
+https://github.com/googleworkspace/apps-script-oauth2 # An OAuth2 library for Google Apps Script.

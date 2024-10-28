@@ -1,0 +1,29 @@
+https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/composer-local-dev #
+https://github.com/googlecloudplatform/tensorflow-lifetime-value # Predict custo
+mer lifetime value using AutoML Tables, or ML Engine with a TensorFlow neural network and the Lifetimes Python library. https://github.com/googlecloudplatform/composer-airflow #
+https://github.com/googlecloudplatform/cloud-composer-mssql-dataflow-bigquery #
+This repository contains an example of how to leverage Cloud Composer and Cloud Dataflow to move data from a Microsoft SQL Server to BigQuery. The diagrams below demonstrate the workflow pipeline. https://github.com/googlecloudplatform/ci-cd-for-data-processing-workflow #
+https://github.com/googlecloudplatform/data-analytics-golden-demo # An end to en
+d demo of Google's Cloud data and analytic stack. https://github.com/googlecloudplatform/composer-infra-python #
+https://github.com/googlecloudplatform/serverless-spark-workshop # Solution Acce
+lerators for Serverless Spark on GCP, the industry's first auto-scaling and serverless Spark as a service https://github.com/googlecloudplatform/data-migration-tool # DMT is an end to en
+d automation of data warehouse migration, focused on extraction, SQL translation, data migration, data validation, etc. The main goal is to reduce migration delivery time https://github.com/googlecloudplatform/functions-framework-php # FaaS (Function
+as a service) framework for writing portable PHP functions https://github.com/googlecloudplatform/php-tools #
+https://github.com/googlecloudplatform/composer-utilities #
+https://github.com/googlecloudplatform/enterprise-knowledge-solution #
+https://github.com/googlecloudplatform/ml-auto-solutions # A simplified and auto
+mated orchestration workflow to perform ML end-to-end (E2E) model tests and benchmarking on Cloud VMs across different frameworks. https://github.com/googlecloudplatform/education-data-platform # Education Data
+Platform (EDP) is a reference architecture followed by end-to-end blueprints, scripts and a suite of Terraform modules for Google Cloud Platform (GCP), designed to automate the creation, governance and observability of a modern and robust data repository for educational institutions, looking into becoming a data-driven organization. https://github.com/googlecloudplatform/cortex-dag-generator #
+https://github.com/googlecloudplatform/oozie-to-airflow # Oozie Workflow to Airf
+low DAGs migration tool https://github.com/googlecloudplatform/dataproc-scala-examples # Dataproc Scala
+Examples is an effort to assist in the creation of Spark jobs written in Scala to run on Dataproc. https://github.com/googlecloudplatform/deploystack-etl-pipeline #
+https://github.com/googlecloudplatform/terraform-google-dbt-composer-blueprint #
+https://github.com/googlecloudplatform/professional-services-composer-templates
+
+# https://github.com/googlecloudplatform/dagify
+
+https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minu
+tes https://github.com/googlecloudplatform/dataflow-opinion-analysis # Opinion Analy
+sis of News, Threaded Conversations, and User Generated Content https://github.com/googlecloudplatform/deploystack-gcs-to-bq-with-least-privileg
+es #

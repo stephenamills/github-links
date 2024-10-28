@@ -1,0 +1,35 @@
+https://github.com/googlecloudplatform/getting-started-python # Code samples for
+using Python on Google Cloud Platform https://github.com/googlecloudplatform/hackathon-toolkit # GCP Hackathon Toolkit
+https://github.com/googlecloudplatform/dataflowtemplates # Cloud Dataflow Google
+-provided templates for solving in-Cloud data tasks https://github.com/googlecloudplatform/kotlin-samples #
+https://github.com/googlecloudplatform/developer-journey-app # Developer Journey
+App is a gaming sample app, built with Cloud Run, Cloud Storage, Cloud Firestore, and Cloud Build. https://github.com/googlecloudplatform/terraform-genai-knowledge-base # Fine tun
+e an LLM model to answer questions from your documents. https://github.com/googlecloudplatform/spring-cloud-gcp # New home for Spring Cl
+oud GCP development starting with version 2.0. https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modu
+lar samples and landing zones toolkit for Terraform on GCP. https://github.com/googlecloudplatform/terraform-dynamic-javascript-webapp # Dep
+loy a dynamic javascript webapp https://github.com/googlecloudplatform/serverless-photosharing-workshop # This i
+s the code for the Pic-a-daily, an application to upload, analyse and share pictures using Google Cloud serverless solutions, namely Cloud Functions, App Engine, and Cloud Run https://github.com/googlecloudplatform/diy-tools #
+https://github.com/googlecloudplatform/serverless-store-demo # A web e-commerce
+demo app showcasing serverless capabilities of Google Cloud Platform. https://github.com/googlecloudplatform/terraform-cloud-deployment-gke # Deploy a
+change to a live stateful service (Go on GKE) https://github.com/googlecloudplatform/smart-expenses #
+https://github.com/googlecloudplatform/workflows-demos # A collection of Workflo
+ws samples for various use cases https://github.com/googlecloudplatform/gcp-token-broker #
+https://github.com/googlecloudplatform/cymbal-superstore # 🍎 Sample app for AI-
+assisted development on Google Cloud. https://github.com/googlecloudplatform/firestore-securing-with-identity-platform
+
+# https://github.com/googlecloudplatform/professional-services # Common solutions
+
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/firestore-migration-tooling # This repo h
+as tools and sample code to help you start migrating from other databases to FireStore. https://github.com/googlecloudplatform/customer-experience-modernization # This
+open-source project aims to compile best practices, guidance, and comprehensive code samples for using Google Cloud Vertex AI APIs, in customer services modernization (chatbots, text-bison, search). There code samples explain how to use Google Cloud products. https://github.com/googlecloudplatform/genai-databases-retrieval-app #
+https://github.com/googlecloudplatform/serverless-game-contest # A system to man
+age game programming contests and demonstrate serverless architecture. https://github.com/googlecloudplatform/serverless-production-readiness-java-gcp
+
+# https://github.com/googlecloudplatform/datacatalog-tag-engine # Tag Engine autom
+
+ates the process of creating, updating, deleting, and populating metadata in bulk with the Google Cloud services Data Catalog and Dataplex. Tag Engine is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. https://github.com/googlecloudplatform/dialogflow-email-agent-demo #
+https://github.com/googlecloudplatform/open_data_qna # The Open Data QnA python
+library enables you to chat with your databases by leveraging LLM Agents on Google Cloud. Open Data QnA enables a conversational approach to interacting with your data by implementing state-of-the-art NL2SQL / Text2SQL methods. https://github.com/googlecloudplatform/eventarc-web-feed # A serverless and exte
+nsible event-driven system for reacting to legacy web feed events https://github.com/googlecloudplatform/bq-backup-manager #
+https://github.com/googlecloudplatform/party-game #
+https://github.com/googlecloudplatform/document-intake-accelerator #

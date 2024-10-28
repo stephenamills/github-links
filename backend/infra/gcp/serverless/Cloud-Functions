@@ -1,0 +1,19 @@
+https://github.com/googlecloudplatform/functions-framework-nodejs # FaaS (Function as a service) framework for writing portable Node.js functions
+https://github.com/googlecloudplatform/functions-framework-python # FaaS (Function as a service) framework for writing portable Python functions
+https://github.com/googlecloudplatform/functions-framework-go # FaaS (Function as a service) framework for writing portable Go functions
+https://github.com/googlecloudplatform/functions-framework-dart # FaaS (Function as a service) framework for writing portable Dart functions
+https://github.com/googlecloudplatform/functions-framework-java # FaaS (Function as a service) framework for writing portable Java functions
+https://github.com/googlecloudplatform/functions-framework-dotnet # FaaS (Function as a service) framework for writing portable .NET functions
+https://github.com/googlecloudplatform/functions-framework-php # FaaS (Function as a service) framework for writing portable PHP functions
+https://github.com/googlecloudplatform/functions-framework-ruby # FaaS (Function as a service) framework for writing portable Ruby functions
+https://github.com/googlecloudplatform/functions-framework-cpp # Functions Framework for C++
+https://github.com/googlecloudplatform/terraform-google-cloud-functions # Deploys Cloud Functions (Gen 2)
+https://github.com/googlecloudplatform/functions-framework # The Contract for Building New Function Frameworks
+https://github.com/googlecloudplatform/dlp-cloud-functions-tutorials #
+https://github.com/googlecloudplatform/cloud-functions-gmail-nodejs # A demo app that processes Gmail messages with Cloud Functions
+https://github.com/googlecloudplatform/functions-framework-conformance # A Tool for Validating Conformance to the Functions Framework Contract
+https://github.com/googlecloudplatform/terraform-google-conversion # This is a Golang library which provides functions to map a Terraform configuration for Google Cloud Platform into GCP's native API inventory format.
+https://github.com/googlecloudplatform/serverless-photosharing-workshop # This is the code for the Pic-a-daily, an application to upload, analyse and share pictures using Google Cloud serverless solutions, namely Cloud Functions, App Engine, and Cloud Run
+https://github.com/googlecloudplatform/cloud-pubsub-sendmail # pubsub_sendmail - Send emails from Google Cloud Pub/Sub events using a Google Cloud Function
+https://github.com/googlecloudplatform/bigquery-dlp-remote-function # Use Remote Functions to tokenize data with DLP in BigQuery using SQL
+https://github.com/googlecloudplatform/terraform-dataanalytics-eventdriven # Uses click-to-deploy to demonstrate how to load data from Cloud Storage to BigQuery using an event-driven load function.

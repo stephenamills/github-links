@@ -1,0 +1,11 @@
+https://github.com/googlecloudplatform/healthcare #
+https://github.com/googlecloudplatform/healthcare-data-harmonization # This is an engine that converts data of one structure to another, based on a configuration file which describes how. There is an accompanying syntax to make writing mappings easier and more robust.
+https://github.com/googlecloudplatform/healthcare-dicom-dicomweb-adapter # Adapter which transforms DIMSE requests to DICOMweb requests
+https://github.com/googlecloudplatform/healthcare-data-harmonization-dataflow #
+https://github.com/googlecloudplatform/healthcare-api-dicom-fuse # FUSE plugin for the Google Cloud Healthcare DICOM API
+https://github.com/googlecloudplatform/healthcare-federated-access-services #
+https://github.com/googlecloudplatform/healthcare-api-dicomweb-cli # A command line tool for interacting with a DICOMweb server
+https://github.com/googlecloudplatform/healthcare-api-dicom-viewer # Tool to view DICOM data served by Google Cloud Healthcare API
+https://github.com/googlecloudplatform/weasis-chcapi-extension # Weasis plugin adding support for the Google Cloud Healthcare API
+https://github.com/googlecloudplatform/healthcare-imaging-performance-test #
+https://github.com/googlecloudplatform/medical-imaging # Accelerate ingestion/transformation of pathology images into DICOMWeb

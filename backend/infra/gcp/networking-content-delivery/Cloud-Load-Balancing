@@ -1,0 +1,84 @@
+https://github.com/googlecloudplatform/terraform-google-load-balanced-vms # Creates a
+Managed Instance Group with a loadbalancer https://github.com/googlecloudplatform/service-extensions # SDKs and Samples for Goog
+le Cloud Service Extensions https://github.com/googlecloudplatform/terraform-cloud-deployment-gke # Deploy a chan
+ge to a live stateful service (Go on GKE) https://github.com/googlecloudplatform/gdcv-bare-metal-ref-arch #
+https://github.com/googlecloudplatform/deploystack-serverless-e2e-photo-sharing-app #
+An scalable serverless end-to-end photo-sharing application made from 11 Google Cloud components https://github.com/googlecloudplatform/deploystack-static-hosting-with-domain #
+https://github.com/googlecloudplatform/deploystack-load-balanced-vms #
+https://github.com/googlecloudplatform/deploystack-google-lb-and-armor #
+https://github.com/googlecloudplatform/terraform-google-cloud-run # Deploys apps to C
+loud Run, along with option to map custom domain https://github.com/googlecloudplatform/gke-managed-certs # Managed Certificates for K
+ubernetes clusters using GCLB https://github.com/googlecloudplatform/terraform-cloud-deployment-gce # Deploy a chan
+ge to a live stateful service (Java on GCE) https://github.com/googlecloudplatform/gcp-fedramp-quickstart #
+https://github.com/googlecloudplatform/gke-autoneg-controller # This GKE controller p
+rovides simple custom integration between GKE and GCLB. https://github.com/googlecloudplatform/spinnaker-for-gcp # Production-ready Spinnaker
+on GKE https://github.com/googlecloudplatform/professional-services # Common solutions and t
+ools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/chef-google-compute #
+
+https://github.com/googlecloudplatform/gke-networking-recipes #
+https://github.com/googlecloudplatform/terraform-google-load-balanced-vms # Crea
+tes a Managed Instance Group with a loadbalancer https://github.com/googlecloudplatform/gcve-iac-foundations # This repository co
+ntains Terraform code to deploy a sample Terraform foundation for Google Cloud VMware Engine. In this repository you can find Terraform modules, deployment examples as well as a set of deployment stages to set up you foundational infrastructure. https://github.com/googlecloudplatform/healthcare-dicom-dicomweb-adapter # Adapt
+er which transforms DIMSE requests to DICOMweb requests https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modu
+lar samples and landing zones toolkit for Terraform on GCP. https://github.com/googlecloudplatform/service-extensions # SDKs and Samples for
+Google Cloud Service Extensions https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/gke-migration-to-containers # This demo p
+rovides a basic walkthrough of migrating a stateless application from running on a VM all the way to running it on Kubernetes Engine (GKE). https://github.com/googlecloudplatform/gke-managed-certs # Managed Certificates
+for Kubernetes clusters using GCLB https://github.com/googlecloudplatform/ml-on-gcp # Machine Learning on Google Cl
+oud Platform https://github.com/googlecloudplatform/terraform-dynamic-javascript-webapp # Dep
+loy a dynamic javascript webapp https://github.com/googlecloudplatform/continuous-deployment-on-kubernetes # Get
+up and running with Jenkins on Google Kubernetes Engine https://github.com/googlecloudplatform/click-to-deploy-solutions # This reposito
+ry has Google Cloud solutions that you can deploy with a single click. https://github.com/googlecloudplatform/gdcv-bare-metal-ref-arch #
+https://github.com/googlecloudplatform/solutions-floating-ip-patterns-terraform
+
+https://github.com/googlecloudplatform/apigee-samples # A repo for Apigee X/hybr
+
+id samples https://github.com/googlecloudplatform/zone-printer # Sample app that prints the
+compute region it’s running on https://github.com/googlecloudplatform/gke-enterprise-demo # This demo aims to s
+how what a fully-featured project running in Kubernetes Engine looks like. It includes Elasticsearch, a very popular open-source project for indexing and searching data, as well as some custom software to interface with it. https://github.com/googlecloudplatform/memstore-gaming-leaderboard #
+https://github.com/googlecloudplatform/terraform-google-cloud-armor # Deploy Clo
+ud Armor security policy https://github.com/googlecloudplatform/sap-deployment-automation #
+https://github.com/googlecloudplatform/gcp-fedramp-quickstart #
+https://github.com/googlecloudplatform/mllp # The MLLP (Short for "Minimal Lower
+Layer Protocol") adapter is a component that runs on GKE (https://cloud.google.com/kubernetes-engine/), receives HL7v2 messages via MLLP/TCP, and forwards messages received to Cloud HL7v2 API. https://github.com/googlecloudplatform/compute-video-demo-puppet # Supporting de
+tails for the Using Puppet and Compute Engine video demo https://github.com/googlecloudplatform/deploystack-google-lb-and-armor #
+https://github.com/googlecloudplatform/cloud-run-proxy # Local proxy for authent
+icating requests to Cloud Run https://github.com/googlecloudplatform/gke-istio-vpn-demo # This project demonst
+rates how Istio's mesh expansion feature can be used to link services accross a VPN. The feature allows for a non-Kubernetes service running outside of the Istio infrastructure on Kubernetes Engine, to be integrated into, and managed by the Istio service mesh. https://github.com/googlecloudplatform/deploystack-load-balanced-vms #
+https://github.com/googlecloudplatform/knfsd-cache-utils # A set of utilities fo
+r building, deploying and operating a high performance NFS Cache in Google Cloud. This is designed to be used for certain HPC and burst compute use-cases where there is a requirement for a high performance NFS cache between a NFS Server and its downstream NFS Clients. https://github.com/googlecloudplatform/terraform-cloud-deployment-gke # Deploy a
+change to a live stateful service (Go on GKE) https://github.com/googlecloudplatform/chef-google-compute #
+https://github.com/googlecloudplatform/deploystack-serverless-e2e-photo-sharing-
+app # An scalable serverless end-to-end photo-sharing application made from 11 Google Cloud components https://github.com/googlecloudplatform/gke-logging-sinks-demo # This project des
+cribes the steps required to deploy a sample application to Kubernetes Engine that forwards log events to Stackdriver Logging. As a part of the exercise, you will create a Cloud Storage bucket and a BigQuery dataset for exporting log data. https://github.com/googlecloudplatform/software-delivery-shield-demo-java #
+https://github.com/googlecloudplatform/gke-pubsub-websocket-adapter # Consume Pu
+b/Sub over Websockets https://github.com/googlecloudplatform/deploystack-static-hosting-with-domain #
+https://github.com/googlecloudplatform/gke-istio-gce-demo # In this project, you
+will leverage Kubernetes Engine and Google Compute Engine to explore how Istio can manage services that reside outside of the Kubernetes Engine environment. You will deploy a typical Istio service mesh in Kubernetes Engine, then configure an externally deployed microservice to join the mesh. https://github.com/googlecloudplatform/gke-tracing-demo # This project introduce
+s you to Stackdriver's tracing feature, and provides a distributed tracing example that can serve as a basis for your own applications. You will deploy a multi-tier application to a Kubernetes Engine cluster and trace calls between the components. https://github.com/googlecloudplatform/cloud-hackathons #
+https://github.com/googlecloudplatform/beyondcorp-applink #
+https://github.com/googlecloudplatform/guacamole-on-gcp # Deploying Apache Guaca
+mole on Google Cloud - provides terraform for deploying GCP resources as well as a Guacamole auth plugin to enable Identity Aware Proxy (IAP) integration. https://github.com/googlecloudplatform/guest-agent #
+https://github.com/googlecloudplatform/gke-istio-telemetry-demo # This project d
+emonstrates how to use an Istio service mesh in a single Kubernetes Engine cluster alongside Prometheus, Jaeger, and Grafana, to monitor cluster and workload performance metrics. You will first deploy the Istio control plane, data plane, and additional visibility tools using the provided scripts, then explore the collected metrics and trace data in Grafana. https://github.com/googlecloudplatform/terraform-google-cloud-run # Deploys apps
+to Cloud Run, along with option to map custom domain https://github.com/googlecloudplatform/solutions-builder #
+https://github.com/googlecloudplatform/terraform-cloud-deployment-gce # Deploy a
+change to a live stateful service (Java on GCE) https://github.com/googlecloudplatform/terraform-google-network-forensics # Depl
+oys Zeek on Google Cloud https://github.com/googlecloudplatform/cymbal-eats #
+https://github.com/googlecloudplatform/apigee-anthos-service-mesh-demo # This de
+mo extends the existing GCP Boutique Shop Microservices demo to show how to use Apigee for exposing internal gRPC services (inside the mesh) as RESTful API to external consumers (outside the mesh). https://github.com/googlecloudplatform/jetty-runtime # Google Cloud Platform Jet
+ty Docker image https://github.com/googlecloudplatform/gke-autoneg-controller # This GKE control
+ler provides simple custom integration between GKE and GCLB. https://github.com/googlecloudplatform/terraform-google-microfocus-es #
+https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatil
+e, multi-purpose tool to handle Pub/Sub messages and turn them into email, API calls, GCS objects, files or almost anything. https://github.com/googlecloudplatform/gke-vault-demo # This demo builds two GKE
+Clusters and guides you through using secrets in Vault, using Kubernetes authentication from within a pod to login to Vault, and fetching short-lived Google Service Account credentials on-demand from Vault within a pod. https://github.com/googlecloudplatform/spinnaker-for-gcp # Production-ready Spin
+naker on GKE https://github.com/googlecloudplatform/gcp-lb-controller-rs #
+https://github.com/googlecloudplatform/data-sage-genai #
+https://github.com/googlecloudplatform/gke-application-security-demo # This proj
+ect demonstrates a series of best practices for improving the security of containerized applications deployed to Kubernetes Engine. You will deploy multiple instances of the same container image with a variety of security settings to illustrate the use of RBAC, security contexts, and AppArmor policies. https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Pub
+lic Sector Landing Zone overlay on top of the TEF via CFT modules - a secure cloud foundation https://github.com/googlecloudplatform/terraform-google-crmint # Deploy the mark
+eting analytics application, CRMint https://github.com/googlecloudplatform/kafka-private-service-connect #
+https://github.com/googlecloudplatform/db-ha-validation #
+https://github.com/googlecloudplatform/chef-google-spanner #
+https://github.com/googlecloudplatform/cloud-run-mesh #
+https://github.com/googlecloudplatform/alertmanager #

@@ -1,0 +1,92 @@
+https://github.com/googlemaps-samples/android-samples # Samples demonstrating how to use Maps SDK for Android
+https://github.com/googlemaps-samples/maps-sdk-for-ios-samples # Samples for the Google Maps and Places SDKs for iOS
+https://github.com/googlemaps-samples/android-places-demos # Google Places SDK Demos for Android
+https://github.com/googlemaps-samples/codelab-locator-maps-js #
+https://github.com/googlemaps-samples/js-solar-potential # Source code for the Solar Potential demo using the Solar API from Google Maps Platform
+https://github.com/googlemaps-samples/codelab-maps-nearby-search-js # Sample code for a web app using Google Maps Platform APIs for maps, geolocation, and place search
+https://github.com/googlemaps-samples/codelab-maps-platform-101-js #
+https://github.com/googlemaps-samples/codelab-maps-platform-101-android-kotlin # Starter and solution code for Google Maps Platform 101: Android codelab
+https://github.com/googlemaps-samples/codelab-3d-maps-webgl-js #
+https://github.com/googlemaps-samples/codelab-places-current-place-android # Use Google Maps Platform to add a current place picker to your Android app
+https://github.com/googlemaps-samples/js-3d-area-explorer #
+https://github.com/googlemaps-samples/codelab-places-arcore-android # Starter and solution code for "Display nearby places in AR on Android in Kotlin" codelab.
+https://github.com/googlemaps-samples/codelab-maps-platform-101-ios-swiftui # Accompanying starter and solution code for Add a map to your iOS app with SwiftUI (Swift) codelab.
+https://github.com/googlemaps-samples/codelab-maps-platform-deckgl-js #
+https://github.com/googlemaps-samples/codelab-maps-platform-101-compose #
+https://github.com/googlemaps-samples/codelab-maps-platform-101-react-js #
+https://github.com/googlemaps-samples/js-3d-storytelling #
+https://github.com/googlemaps-samples/codelab-maps-platform-101-swift # Companion code for the Add a map to your iOS app (Swift) codelab
+https://github.com/googlemaps-samples/codelab-locator-full-stack-maps-js #
+https://github.com/googlemaps-samples/codelab-places-101-android-kotlin # Companion code for the Get started with the Places SDK for Android (Kotlin) codelab
+https://github.com/googlemaps-samples/codelab-route-planner-101-js #
+https://github.com/googlemaps-samples/android-navigation-samples #
+https://github.com/googlemaps-samples/codelab-maps-platform-101-objc #
+https://github.com/googlemaps-samples/java-route-optimization-fleetengine #
+https://github.com/googlemaps-samples/codelab-navigation-101-ios-swift #
+https://github.com/googlemaps-samples/.github #
+https://github.com/googlemaps-samples/codelab-navigation-101-android-kotlin #
+https://github.com/googlemaps-samples/ios-places-sdk-samples #
+https://github.com/googlemaps-samples/.allstar #
+
+https://github.com/googlemaps/google-maps-services-python # Python client library for Google Maps API Web Services
+https://github.com/googlemaps/android-maps-utils # Maps SDK for Android Utility Library
+https://github.com/googlemaps/google-maps-services-js # Node.js client library for Google Maps API Web Services
+https://github.com/googlemaps/google-maps-services-java # Java client library for Google Maps API Web Services
+https://github.com/googlemaps/android-maps-compose # Jetpack Compose composables for the Maps SDK for Android
+https://github.com/googlemaps/js-samples # Samples for the Google Maps JavaScript v3 API
+https://github.com/googlemaps/google-maps-services-go # Go client library for Google Maps API Web Services
+https://github.com/googlemaps/google-maps-ios-utils # Google Maps SDK for iOS Utility Library
+https://github.com/googlemaps/react-wrapper # Wrap React components with this libary to load the Google Maps JavaScript API.
+https://github.com/googlemaps/js-api-loader # Load the Google Maps JavaScript API script dynamically.
+https://github.com/googlemaps/android-maps-ktx # Kotlin extensions (KTX) for the Maps SDK and Utility Library for Android
+https://github.com/googlemaps/js-markerclusterer # Create and manage clusters for large amounts of markers
+https://github.com/googlemaps/js-three # Add ThreeJS objects to Google Maps.
+https://github.com/googlemaps/extended-component-library # A set of Web Components from Google Maps Platform
+https://github.com/googlemaps/openapi-specification # OpenAPI specification for Google Maps Platform API
+https://github.com/googlemaps/android-places-ktx # Kotlin extensions (KTX) for the Places SDK for Android
+https://github.com/googlemaps/js-route-optimization-app # Solve vehicle routing problems with Google Maps Platform Route Optimization
+https://github.com/googlemaps/js-markerwithlabel # Google Maps Marker with Label
+https://github.com/googlemaps/last-mile-fleet-solution-samples #
+https://github.com/googlemaps/js-polyline-codec # Polyline encoding and decoding.
+https://github.com/googlemaps/ios-maps-sdk # Google Maps SDK for iOS
+https://github.com/googlemaps/url-signing # Samples in various languages that demonstrate how to sign URLs for Google Maps Platform Web Services APIs
+https://github.com/googlemaps/js-jest-mocks # Jest mocks for Google Maps Platform
+https://github.com/googlemaps/python-high-volume-address-validation-library #
+https://github.com/googlemaps/android-on-demand-rides-deliveries-samples #
+https://github.com/googlemaps/react-native-navigation-sdk #
+https://github.com/googlemaps/js-typescript-guards # TypeScript guards for the Google Maps JavaScript API.
+https://github.com/googlemaps/android-maps-rx # RxJava bindings for the Maps and Places SDKs for Android
+https://github.com/googlemaps/flutter-navigation-sdk #
+https://github.com/googlemaps/fleet-debugger #
+https://github.com/googlemaps/ios-on-demand-rides-deliveries-samples #
+https://github.com/googlemaps/js-markermanager # Marker manager is an interface between the map and the user, designed to manage adding and removing many points when the viewport changes.
+https://github.com/googlemaps/on-demand-rides-deliveries-samples #
+https://github.com/googlemaps/ios-combine # Combine extensions for Maps and Places SDKs for iOS
+https://github.com/googlemaps/js-ogc # Add a WmsMapType to Google Maps
+https://github.com/googlemaps/.github # Default configurations for googlemaps repositories
+https://github.com/googlemaps/java-on-demand-rides-deliveries-stub-provider #
+https://github.com/googlemaps/react-last-mile-fleet-solution-samples #
+https://github.com/googlemaps/js-url-signature # Sign a URL for Google Maps Platform requests.
+https://github.com/googlemaps/js-adv-markers-utils #
+https://github.com/googlemaps/java-fleetengine-auth #
+https://github.com/googlemaps/react-on-demand-rides-deliveries-samples #
+https://github.com/googlemaps/ios-places-sdk #
+https://github.com/googlemaps/react-routing-playground #
+https://github.com/googlemaps/js-types # Automatically generated types for the Google Maps Platform JavaScript API
+https://github.com/googlemaps/angular-on-demand-rides-deliveries-samples #
+https://github.com/googlemaps/eslint-plugin-googlemaps # ESLint rules for Google Maps Platform.
+https://github.com/googlemaps/fleet-events-reference-solution #
+https://github.com/googlemaps/gmp-firebase-extensions #
+https://github.com/googlemaps/ios-navigation-sdk #
+https://github.com/googlemaps/android-places-compose #
+https://github.com/googlemaps/semantic-release-config # Shareable configuration for semantic release.
+https://github.com/googlemaps/js-region-lookup #
+https://github.com/googlemaps/ios-places-swift-sdk #
+https://github.com/googlemaps/ios-consumer-sdk #
+https://github.com/googlemaps/js-github-policy-bot # Enforce polices for repositories in the googlemaps organization.
+https://github.com/googlemaps/ios-driver-sdk #
+
+https://github.com/googlecloudplatform/bigquery-geo-viz # Visualize Google BigQuery geospatial data using Google Maps Platform APIs
+https://github.com/googlecloudplatform/terraform-google-cloud-run # Deploys apps to Cloud Run, along with option to map custom domain
+https://github.com/googlecloudplatform/cloud-bigtable-examples # Examples of how to use Cloud Bigtable both with GCE map/reduce as well as stand alone applications.
+https://github.com/googlecloudplatform/terraform-google-conversion # This is a Golang library which provides functions to map a Terraform configuration for Google Cloud Platform into GCP's native API inventory format.

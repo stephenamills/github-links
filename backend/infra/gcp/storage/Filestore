@@ -1,0 +1,7 @@
+https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline #
+This repository compiles prescriptive guidance and code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines.        https://github.com/googlecloudplatform/stable-diffusion-on-gcp #
+https://github.com/googlecloudplatform/cluster-toolkit # Cluster Toolkit is an o
+pen-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.                             https://github.com/googlecloudplatform/filestore-snapshot-scheduler #
+https://github.com/googlecloudplatform/gcs-fuse-csi-driver # The Google Cloud St
+orage FUSE Container Storage Interface (CSI) Plugin.                            https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo
+ Megatron Large Language Model (LLM) using NeMo Framework on Google Kubernetes Engine

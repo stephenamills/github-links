@@ -11,73 +11,74 @@ https://github.com/googlecloudplatform/guest-test-infra # Compute Engine Guest O
 https://github.com/googlecloudplatform/endpoints-samples #
 https://github.com/googlecloudplatform/guest-configs #
 https://github.com/googlecloudplatform/osconfig #
-https://github.com/googlecloudplatform/getting-started-php # A tutorial for creating a complete application using PHP on Google Clo
-ud Platform https://github.com/googlecloudplatform/ops-agent #
+https://github.com/googlecloudplatform/getting-started-php # A tutorial for creating a complete application using PHP on Google Cloud Platform
+https://github.com/googlecloudplatform/ops-agent #
 https://github.com/googlecloudplatform/compute-gpu-installation #
 https://github.com/googlecloudplatform/konlet #
 https://github.com/googlecloudplatform/compute-image-import #
 https://github.com/googlecloudplatform/cloud-code-vscode # Cloud Code for Visual Studio Code: Issues, Documentation and more
-https://github.com/googlecloudplatform/eventarc-samples # This repository contains a collection of samples for Eventarc for various
-use cases. https://github.com/googlecloudplatform/node-red-contrib-google-cloud # Node-RED nodes for Google Cloud Platform
 https://github.com/googlecloudplatform/docker-credential-gcr # A Docker credential helper for GCR users
+https://github.com/googlecloudplatform/eventarc-samples # This repository contains a collection of samples for Eventarc for various use cases.
+https://github.com/googlecloudplatform/node-red-contrib-google-cloud # Node-RED nodes for Google Cloud Platform
 https://github.com/googlecloudplatform/terraform-google-load-balanced-vms # Creates a Managed Instance Group with a loadbalancer
 https://github.com/googlecloudplatform/buildpacks # Builders and buildpacks designed to run on Google Cloud's container platforms
 https://github.com/googlecloudplatform/compute-virtual-ethernet-windows # Compute Engine Virtual Ethernet Windows driver.
-https://github.com/googlecloudplatform/iap-desktop # IAP Desktop is a Windows application that provides zero-trust Remote Desktop a
-nd SSH access to Linux and Windows VMs on Google Cloud. https://github.com/googlecloudplatform/google-cloud-ops-agents-ansible # Ansible Role for Google Cloud Ops
+https://github.com/googlecloudplatform/iap-desktop # IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
+https://github.com/googlecloudplatform/google-cloud-ops-agents-ansible # Ansible Role for Google Cloud Ops
 https://github.com/googlecloudplatform/bank-of-anthos # Retail banking sample application showcasing Kubernetes and Google Cloud
 https://github.com/googlecloudplatform/gke-istio-shared # This is the shared project for two Kubernetes Engine demos
 https://github.com/googlecloudplatform/compute-custom-boot-images #
 https://github.com/googlecloudplatform/terraform-splunk-log-export # Deploy Google Cloud log export to Splunk using Terraform
-https://github.com/googlecloudplatform/dataproc-templates # Dataproc templates and pipelines for solving simple in-cloud data tasks
 https://github.com/googlecloudplatform/spring-cloud-gcp # New home for Spring Cloud GCP development starting with version 2.0.
 https://github.com/googlecloudplatform/guest-agent #
+https://github.com/googlecloudplatform/dataproc-templates # Dataproc templates and pipelines for solving simple in-cloud data tasks
 https://github.com/googlecloudplatform/solutions-floating-ip-patterns-terraform #
 https://github.com/googlecloudplatform/workflows-demos # A collection of Workflows samples for various use cases
-https://github.com/googlecloudplatform/compute-video-demo-puppet # Supporting details for the Using Puppet and Compute Engine video
-demo https://github.com/googlecloudplatform/gke-istio-gce-demo # In this project, you will leverage Kubernetes Engine and Google Compute
-Engine to explore how Istio can manage services that reside outside of the Kubernetes Engine environment. You will deploy a typical Istio service mesh in Kubernetes Engine, then configure an externally deployed microservice to join the mesh. https://github.com/googlecloudplatform/batch-samples #
+https://github.com/googlecloudplatform/compute-video-demo-puppet # Supporting details for the Using Puppet and Compute Engine video demo
+https://github.com/googlecloudplatform/gke-istio-gce-demo # In this project, you will leverage Kubernetes Engine and Google Compute Engine to explore how Istio can manage services that reside outside of the Kubernetes Engine environment. You will deploy a typical Istio service mesh in Kubernetes Engine, then configure an externally deployed microservice to join the mesh.
+https://github.com/googlecloudplatform/batch-samples #
 https://github.com/googlecloudplatform/solutions-cloud-history-tool #
 https://github.com/googlecloudplatform/cloud-run-proxy # Local proxy for authenticating requests to Cloud Run
-https://github.com/googlecloudplatform/gke-istio-vpn-demo # This project demonstrates how Istio's mesh expansion feature can be use
-d to link services accross a VPN. The feature allows for a non-Kubernetes service running outside of the Istio infrastructure on Kubernetes Engine, to be integrated into, and managed by the Istio service mesh. https://github.com/googlecloudplatform/compute-gpu-monitoring #
+https://github.com/googlecloudplatform/gke-istio-vpn-demo # This project demonstrates how Istio's mesh expansion feature can be used to link services accross a VPN. The feature allows for a non-Kubernetes service running outside of the Istio infrastructure on Kubernetes Engine, to be integrated into, and managed by the Istio service mesh.
+https://github.com/googlecloudplatform/compute-gpu-monitoring #
 https://github.com/googlecloudplatform/spinnaker-for-gcp # Production-ready Spinnaker on GKE
 https://github.com/googlecloudplatform/gcp-token-broker #
 https://github.com/googlecloudplatform/composer-infra-python #
-https://github.com/googlecloudplatform/deploystack-nosql-client-server # A terraform solution that will create 2 VMS and a firewall
-rule, connect them all, to serve up a API powered by mongo. https://github.com/googlecloudplatform/compute-migration-scripts # A set of scripts that help to migrate your standalone Compute En
-gine instances to different configurations on GCP. https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
+https://github.com/googlecloudplatform/deploystack-nosql-client-server # A terraform solution that will create 2 VMS and a firewall rule, connect them all, to serve up a API powered by mongo.
+https://github.com/googlecloudplatform/compute-migration-scripts # A set of scripts that help to migrate your standalone Compute Engine instances to different configurations on GCP.
 https://github.com/googlecloudplatform/compute-virtual-ethernet-freebsd # Compute Engine Virtual Ethernet FreeBSD driver.
+https://github.com/googlecloudplatform/awesome-google-cloud # A curated list of awesome stuff for Google Cloud.
 https://github.com/googlecloudplatform/deploystack-cost-sentry #
 https://github.com/googlecloudplatform/tensorflow-object-detection-example #
-https://github.com/googlecloudplatform/solutions-compute-mysql-migration-haproxy # Migrating a MySQL Cluster to Compute Engine Usin
-g HAProxy https://github.com/googlecloudplatform/woolaroo-language-learning-app # Project Woolaroo - Exploring Indigenous language through ph
-otos. https://github.com/googlecloudplatform/fraudfinder # Fraudfinder: A comprehensive lab series on how to build a real-time fraud dete
-ction system on Google Cloud https://github.com/googlecloudplatform/deploystack-load-balanced-vms #
-https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Public Sector Landing Zone overlay on top of the TEF v
-ia CFT modules - a secure cloud foundation https://github.com/googlecloudplatform/marketplace-vm-imagebuilder # A tool to automate the build process of VM images for Google C
-loud Platform (GCP). https://github.com/googlecloudplatform/k8s-cloudkms-plugin # K8S KMS Plugin for Google CloudKMS
+https://github.com/googlecloudplatform/solutions-compute-mysql-migration-haproxy # Migrating a MySQL Cluster to Compute Engine Using HAProxy
+https://github.com/googlecloudplatform/woolaroo-language-learning-app # Project Woolaroo - Exploring Indigenous language through photos.
+https://github.com/googlecloudplatform/fraudfinder # Fraudfinder: A comprehensive lab series on how to build a real-time fraud detection system on Google Cloud
+https://github.com/googlecloudplatform/deploystack-load-balanced-vms #
+https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Public Sector Landing Zone overlay on top of the TEF via CFT modules - a secure cloud foundation
+https://github.com/googlecloudplatform/marketplace-vm-imagebuilder # A tool to automate the build process of VM images for Google Cloud Platform (GCP).
+https://github.com/googlecloudplatform/k8s-cloudkms-plugin # K8S KMS Plugin for Google CloudKMS
 https://github.com/googlecloudplatform/artifact-registry-yum-plugin #
-https://github.com/googlecloudplatform/gke-istio-telemetry-demo # This project demonstrates how to use an Istio service mesh in a s
-ingle Kubernetes Engine cluster alongside Prometheus, Jaeger, and Grafana, to monitor cluster and workload performance metrics. You will first deploy the Istio control plane, data plane, and additional visibility tools using the provided scripts, then explore the collected metrics and trace data in Grafana. https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and c
-ompare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. https://github.com/googlecloudplatform/cloud-logging-data-source-plugin #
-https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatile, multi-purpose tool to handle Pub/Sub messages an
-d turn them into email, API calls, GCS objects, files or almost anything. https://github.com/googlecloudplatform/terraform-cloud-deployment-gce # Deploy a change to a live stateful service (Java on GCE)
-https://github.com/googlecloudplatform/solutions-spanner-sequences # This repository contains example code to accompany the Sequenc
-e generation in Cloud Spanner solution paper. https://github.com/googlecloudplatform/opentelemetry-cloud-run #
+https://github.com/googlecloudplatform/gke-istio-telemetry-demo # This project demonstrates how to use an Istio service mesh in a single Kubernetes Engine cluster alongside Prometheus, Jaeger, and Grafana, to monitor cluster and workload performance metrics. You will first deploy the Istio control plane, data plane, and additional visibility tools using the provided scripts, then explore the collected metrics and trace data in Grafana.
+https://github.com/googlecloudplatform/perfkitbenchmarker # PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see.
+https://github.com/googlecloudplatform/cloud-logging-data-source-plugin #
+https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatile, multi-purpose tool to handle Pub/Sub messages and turn them into email, API calls, GCS objects, files or almost anything.
+https://github.com/googlecloudplatform/terraform-cloud-deployment-gce # Deploy a change to a live stateful service (Java on GCE)
+https://github.com/googlecloudplatform/opentelemetry-cloud-run #
+https://github.com/googlecloudplatform/solutions-spanner-sequences # This repository contains example code to accompany the Sequence generation in Cloud Spanner solution paper.
 https://github.com/googlecloudplatform/terraform-google-network-forensics # Deploys Zeek on Google Cloud
 https://github.com/googlecloudplatform/terraform-google-backup-dr # Deploy Backup and DR appliances
 https://github.com/googlecloudplatform/deploystack-ops-agent #
 https://github.com/googlecloudplatform/deactivate_tunnel # Deactivates a VPN tunnel on the Google Cloud Platform.
-https://github.com/googlecloudplatform/gcs-postgresql-recovery-tutorial # Repository containing source code, docker, and management
-scripts to accompany Reference Guide https://github.com/googlecloudplatform/terraform-google-log-analysis # Stores and analyzes log data
-https://github.com/googlecloudplatform/smart-sdlc # Set of tools to implement an AI workflow on your SDLC
-https://github.com/googlecloudplatform/auto-data-tokenize # Identify and tokenize sensitive data automatically using Cloud DLP and
-Dataflow https://github.com/googlecloudplatform/terraform-google-media-cdn-vod # Deploys Media CDN video-on-demand
+https://github.com/googlecloudplatform/gcs-postgresql-recovery-tutorial # Repository containing source code, docker, and management scripts to accompany Reference Guide
+https://github.com/googlecloudplatform/terraform-google-log-analysis # Stores and analyzes log data
+https://github.com/googlecloudplatform/auto-data-tokenize # Identify and tokenize sensitive data automatically using Cloud DLP and Dataflow
+https://github.com/googlecloudplatform/terraform-google-media-cdn-vod # Deploys Media CDN video-on-demand
 https://github.com/googlecloudplatform/llm-pipeline-examples #
 https://github.com/googlecloudplatform/tensorflow-sketch-rnn-example #
-https://github.com/googlecloudplatform/solutions-pubsub-proxy-rest # Publish messages to Google Cloud Pub/Sub from mobile/client ap
-plications https://github.com/googlecloudplatform/hpc-tools #
+https://github.com/googlecloudplatform/google-guest-agent #
+https://github.com/googlecloudplatform/solutions-pubsub-proxy-rest # Publish messages to Google Cloud Pub/Sub from mobile/client applications
+https://github.com/googlecloudplatform/smart-sdlc # Set of tools to implement an AI workflow on your SDLC
+https://github.com/googlecloudplatform/hpc-tools #
 https://github.com/googlecloudplatform/chef-google-auth #
 https://github.com/googlecloudplatform/chaos-engineering # Chaos Engineering recipes on the Google Cloud Platform
 https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse # Deploys a secured BigQuery data warehouse
@@ -85,28 +86,27 @@ https://github.com/googlecloudplatform/opencensus-jetty-demo #
 https://github.com/googlecloudplatform/chef-google-compute #
 https://github.com/googlecloudplatform/storage-sdrs # Data retention tool for Google Cloud Storage
 https://github.com/googlecloudplatform/cloud-sql-proxy # A utility for connecting securely to your Cloud SQL instances
-https://github.com/googlecloudplatform/dlp-dataflow-deidentification # Multi Cloud Data Tokenization Solution By Using Dataflow and
-Cloud DLP https://github.com/googlecloudplatform/identity-labs-google-cloud #
+https://github.com/googlecloudplatform/dlp-dataflow-deidentification # Multi Cloud Data Tokenization Solution By Using Dataflow and Cloud DLP
+https://github.com/googlecloudplatform/identity-labs-google-cloud #
 https://github.com/googlecloudplatform/terraform-google-cloud-ids # Deploys a Cloud IDS instance and associated resources.
 https://github.com/googlecloudplatform/cloud-trace-data-source-plugin #
-https://github.com/googlecloudplatform/gce-license-tracker # Tracks VM and sole-tenant node usage for the purpose of license report
-ing https://github.com/googlecloudplatform/continuous-deployment-on-kubernetes # Get up and running with Jenkins on Google Kubernetes E
-ngine https://github.com/googlecloudplatform/cloudnetworking-config-solutions # Cloud Networking config solution makes it easy for you to
-connect your on-premises network or VPC to Google-managed services.The solution simplifies complex network configurations and takes care of that for you, so you can focus on your business. Plus, it's designed to be scalable and reliable, so you can count on it to handle your growing needs. https://github.com/googlecloudplatform/notebooks-blueprint-security # Opinionated setup for securely using AI Platform Notebooks.
-https://github.com/googlecloudplatform/google-guest-agent #
-https://github.com/googlecloudplatform/cloud-image-tests # A testing framework and a set of test suites used for testing GCE Images
-. https://github.com/googlecloudplatform/cloud-ids-demo #
-https://github.com/googlecloudplatform/dataflow-opinion-analysis # Opinion Analysis of News, Threaded Conversations, and User Gener
-ated Content https://github.com/googlecloudplatform/alloydb-auth-proxy # A utility for connecting securely to your AlloyDB instances
-https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional
-Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/run-gmp-sidecar #
+https://github.com/googlecloudplatform/continuous-deployment-on-kubernetes # Get up and running with Jenkins on Google Kubernetes Engine
+https://github.com/googlecloudplatform/gce-license-tracker # Tracks VM and sole-tenant node usage for the purpose of license reporting
+https://github.com/googlecloudplatform/notebooks-blueprint-security # Opinionated setup for securely using AI Platform Notebooks.
+https://github.com/googlecloudplatform/cloudnetworking-config-solutions # Cloud Networking config solution makes it easy for you to connect your on-premises network or VPC to Google-managed services.The solution simplifies complex network configurations and takes care of that for you, so you can focus on your business. Plus, it's designed to be scalable and reliable, so you can count on it to handle your growing needs.
+https://github.com/googlecloudplatform/cloud-image-tests # A testing framework and a set of test suites used for testing GCE Images.
+https://github.com/googlecloudplatform/cloud-ids-demo #
+https://github.com/googlecloudplatform/dataflow-opinion-analysis # Opinion Analysis of News, Threaded Conversations, and User Generated Content
+https://github.com/googlecloudplatform/alloydb-auth-proxy # A utility for connecting securely to your AlloyDB instances
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-onprem-ingest # Deploys a secured data warehouse variant for ingesting encrypted data from on-prem sources
+https://github.com/googlecloudplatform/professional-services # Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
+https://github.com/googlecloudplatform/run-gmp-sidecar #
 https://github.com/googlecloudplatform/federated-learning # Federated Learning on Google Cloud
-https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-onprem-ingest # Deploys a secured data warehouse var
-iant for ingesting encrypted data from on-prem sources https://github.com/googlecloudplatform/terraform-google-cloud-armor # Deploy Cloud Armor security policy
-https://github.com/googlecloudplatform/bigquery-dlp-remote-function # Use Remote Functions to tokenize data with DLP in BigQuery us
-ing SQL https://github.com/googlecloudplatform/terraform-gcp-datadog-integration # Terraform code to make the Google Cloud Platform to Data
-dog log collection integration easier. https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo Megatron Large Language Model (LLM) using NeMo Fra
-mework on Google Kubernetes Engine https://github.com/googlecloudplatform/dotnet-migration-sample #
+https://github.com/googlecloudplatform/terraform-google-cloud-armor # Deploy Cloud Armor security policy
+https://github.com/googlecloudplatform/terraform-gcp-datadog-integration # Terraform code to make the Google Cloud Platform to Datadog log collection integration easier.
 https://github.com/googlecloudplatform/recaptcha-pld #
+https://github.com/googlecloudplatform/bigquery-dlp-remote-function # Use Remote Functions to tokenize data with DLP in BigQuery using SQL
+https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo Megatron Large Language Model (LLM) using NeMo Framework on Google Kubernetes Engine
+https://github.com/googlecloudplatform/dotnet-migration-sample #
 https://github.com/googlecloudplatform/document-intake-accelerator #
 https://github.com/googlecloudplatform/spanner-data-validator #

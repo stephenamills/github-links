@@ -1,0 +1,5 @@
+https://github.com/googlecloudplatform/earth-ml # Use a TensorFlow model to do land cover classification using Earth Engine datasets.
+https://github.com/google/earthengine-api # Python and JavaScript bindings for calling the Earth Engine API.
+https://github.com/google/earthengine-community # Tutorials and content created by Earth Engine users, for Earth Engine users
+https://github.com/google/earthengine-catalog # Earth Engine Public Data Catalog in STAC form
+https://github.com/google/xee # An Xarray extension for Google Earth Engine

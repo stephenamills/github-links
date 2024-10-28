@@ -1,0 +1,84 @@
+https://github.com/googlecloudplatform/terraformer # CLI tool to generate terraf
+orm files from existing infrastructure (reverse Terraform). Infrastructure to Code https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modu
+lar samples and landing zones toolkit for Terraform on GCP. https://github.com/googlecloudplatform/cluster-toolkit # Cluster Toolkit is an o
+pen-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud. https://github.com/googlecloudplatform/gke-networking-demos # This project prese
+nts a number of best practices for establishing network links between Kubernetes Engine clusters, and exposing cluster services across Google Cloud projects. You will use a set of Deployment Manager templates to create networks, subnets, vpn connections, and Kubernetes Engine clusters. https://github.com/googlecloudplatform/click-to-deploy # Source for Google Click
+to Deploy solutions listed on Google Cloud Marketplace. https://github.com/googlecloudplatform/cloud-run-samples # Samples for Cloud Run
+https://github.com/googlecloudplatform/terraform-google-load-balanced-vms # Crea
+tes a Managed Instance Group with a loadbalancer https://github.com/googlecloudplatform/security-analytics # Community Security A
+nalytics provides a set of community-driven audit & threat queries for Google Cloud https://github.com/googlecloudplatform/cloud-pubsub-sendmail # pubsub_sendmail -
+Send emails from Google Cloud Pub/Sub events using a Google Cloud Function https://github.com/googlecloudplatform/terraform-example-foundation-app #
+https://github.com/googlecloudplatform/terraform-google-network-forensics # Depl
+oys Zeek on Google Cloud https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/notebooks-blueprint-security # Opinionate
+d setup for securely using AI Platform Notebooks. https://github.com/googlecloudplatform/gke-ip-address-management # An applicatio
+n to help with IP Address Management (IPAM) for Google Kubernetes Engine (GKE) clusters. Easily allows the calculation of the subnets required to spin up GKE clusters in VPC-native mode. See it at: https://googlecloudplatform.github.io/gke-ip-address-management/ https://github.com/googlecloudplatform/terraform-google-cloud-run # Deploys apps
+to Cloud Run, along with option to map custom domain https://github.com/googlecloudplatform/enterprise-knowledge-solution #
+https://github.com/googlecloudplatform/redis-dataflow-realtime-analytics # Build
+a real-time website analytics dashboard on GCP using Dataflow, Cloud Memorystore (Redis) and Spring Boot https://github.com/googlecloudplatform/gke-autoneg-controller # This GKE control
+ler provides simple custom integration between GKE and GCLB. https://github.com/googlecloudplatform/automlops # Build MLOps Pipelines in Minu
+tes https://github.com/googlecloudplatform/vertex-ai-alphafold-inference-pipeline #
+This repository compiles prescriptive guidance and code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. https://github.com/googlecloudplatform/solutions-genai-llm-workshop # Generative
+AI Language (PaLM2 + Langchain) Workshop sample codes https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse #
+Deploys a secured BigQuery data warehouse https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Pub
+lic Sector Landing Zone overlay on top of the TEF via CFT modules - a secure cloud foundation https://github.com/googlecloudplatform/cloudsql-jump-start-solution-for-genai #
+A jump start solution using GKE or Cloud Run with Cloud SQL and VertexAI https://github.com/googlecloudplatform/deploystack-wordpress-on-cloudrun #
+https://github.com/googlecloudplatform/cloud-sql-jdbc-socket-factory # A collect
+ion of Java libraries for connecting securely to Cloud SQL https://github.com/googlecloudplatform/cloud-sql-proxy # A utility for connectin
+g securely to your Cloud SQL instances https://github.com/googlecloudplatform/terraform-google-enterprise-genai #
+https://github.com/googlecloudplatform/mllp # The MLLP (Short for "Minimal Lower
+Layer Protocol") adapter is a component that runs on GKE (https://cloud.google.com/kubernetes-engine/), receives HL7v2 messages via MLLP/TCP, and forwards messages received to Cloud HL7v2 API. https://github.com/googlecloudplatform/terraform-google-microfocus-es #
+https://github.com/googlecloudplatform/terraform-google-secure-cicd # Builds a s
+ecure CI/CD pipeline on Google Cloud https://github.com/googlecloudplatform/terraform-google-tf-cloud-agents # Create
+s self-hosted Terraform Cloud Agent on Google Cloud https://github.com/googlecloudplatform/terraform-google-cloud-functions # Deploy
+s Cloud Functions (Gen 2) https://github.com/googlecloudplatform/gcp-to-aws-ha-vpn-terraform-module #
+https://github.com/googlecloudplatform/memstore-gaming-leaderboard #
+https://github.com/googlecloudplatform/gke-poc-toolkit # 📦 Demo generator for G
+oogle Kubernetes Engine! https://github.com/googlecloudplatform/terraform-google-cloudsqlnetworking #
+https://github.com/googlecloudplatform/terraform-google-backup-dr # Deploy Backu
+p and DR appliances https://github.com/googlecloudplatform/deploystack-serverless-e2e-photo-sharing-
+app # An scalable serverless end-to-end photo-sharing application made from 11 Google Cloud components https://github.com/googlecloudplatform/cloud-run-mesh #
+https://github.com/googlecloudplatform/gke-enterprise-demo # This demo aims to s
+how what a fully-featured project running in Kubernetes Engine looks like. It includes Elasticsearch, a very popular open-source project for indexing and searching data, as well as some custom software to interface with it. https://github.com/googlecloudplatform/deploystack-cloudsql-multiregion #
+https://github.com/googlecloudplatform/pubsec-declarative-toolkit # The GCP PubS
+ec Declarative Toolkit is a collection of declarative solutions to help you on your Journey to Google Cloud. Solutions are designed using Config Connector and deployed using Config Controller. https://github.com/googlecloudplatform/terraform-google-cloud-ids # Deploys a Cl
+oud IDS instance and associated resources. https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-o
+nprem-ingest # Deploys a secured data warehouse variant for ingesting encrypted data from on-prem sources https://github.com/googlecloudplatform/gke-network-conversion #
+https://github.com/googlecloudplatform/terraform-google-out-of-band-security # C
+reates a 3P out-of-band security appliance deployment https://github.com/googlecloudplatform/notebooks-extended-uis #
+https://github.com/googlecloudplatform/document-intake-accelerator #
+https://github.com/googlecloudplatform/terraform-google-artifact-registry # Crea
+te and manage Artifact Registry repositories https://github.com/googlecloudplatform/terraform-gcp-datadog-integration # Terra
+form code to make the Google Cloud Platform to Datadog log collection integration easier. https://github.com/googlecloudplatform/appengine-ruby # Optional integration lib
+rary for the Ruby runtime for Google App Engine https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatil
+e, multi-purpose tool to handle Pub/Sub messages and turn them into email, API calls, GCS objects, files or almost anything. https://github.com/googlecloudplatform/cloud-sql-python-connector # A Python lib
+rary for connecting securely to your Cloud SQL instances. https://github.com/googlecloudplatform/terraform-google-cloud-deploy # Create Cl
+oud Deploy pipelines and targets https://github.com/googlecloudplatform/terraform-splunk-log-export # Deploy Goog
+le Cloud log export to Splunk using Terraform https://github.com/googlecloudplatform/federated-learning # Federated Learning o
+n Google Cloud https://github.com/googlecloudplatform/cloud-ids-demo #
+https://github.com/googlecloudplatform/reliable-app-platforms # A MVP of a platf
+orm for delivering reliable applications on Google Cloud https://github.com/googlecloudplatform/terraform-google-crmint # Deploy the mark
+eting analytics application, CRMint https://github.com/googlecloudplatform/apigee-anthos-service-mesh-demo # This de
+mo extends the existing GCP Boutique Shop Microservices demo to show how to use Apigee for exposing internal gRPC services (inside the mesh) as RESTful API to external consumers (outside the mesh). https://github.com/googlecloudplatform/healthcare-dicom-dicomweb-adapter # Adapt
+er which transforms DIMSE requests to DICOMweb requests https://github.com/googlecloudplatform/cloudnetworking-config-solutions # Cloud
+Networking config solution makes it easy for you to connect your on-premises network or VPC to Google-managed services.The solution simplifies complex network configurations and takes care of that for you, so you can focus on your business. Plus, it's designed to be scalable and reliable, so you can count on it to handle your growing needs. https://github.com/googlecloudplatform/cloud-sql-nodejs-connector # A JavaScript
+library for connecting securely to your Cloud SQL instances https://github.com/googlecloudplatform/kafka-private-service-connect #
+https://github.com/googlecloudplatform/cpe-partner-solution-accelerators #
+https://github.com/googlecloudplatform/alloydb-go-connector # A Go library for c
+onnecting securely to your AlloyDB instances https://github.com/googlecloudplatform/bgp-with-nva-on-gcp #
+https://github.com/googlecloudplatform/gke-network-policy-demo # This guide demo
+nstrates how to improve the security of your Kubernetes Engine by applying fine-grained restrictions to network communication. You will provision a simple HTTP server and two client pods in a Kubernetes Engine cluster, then use a Network Policy restrict connections from client pods. https://github.com/googlecloudplatform/cymbal-superstore # 🍎 Sample app for AI-
+assisted development on Google Cloud. https://github.com/googlecloudplatform/terraform-google-secure-web-proxy # Creat
+e and manage Secure Web Proxy on GCP for secured egress web traffic https://github.com/googlecloudplatform/deploystack-gcs-to-bq-with-least-privileg
+es # https://github.com/googlecloudplatform/enterprise-linux-stig-builder # The Enter
+prise Linux STIG Builder project is a Google Cloud Build automation to produce a DISA STIG-compliant RHEL 8 image, as well as an OpenSCAP Compliance report. https://github.com/googlecloudplatform/jit-access-bastion-host-tf #
+https://github.com/googlecloudplatform/terraform-google-netapp-volumes # Deploy
+NetApp Storage Volumes https://github.com/googlecloudplatform/chef-google-compute #
+https://github.com/googlecloudplatform/alloydb-auth-proxy # A utility for connec
+ting securely to your AlloyDB instances https://github.com/googlecloudplatform/gce-rescue # GCE Rescue is a command-line
+tool to boot Google Cloud Platform VMs in Rescue Mode. Topics https://github.com/googlecloudplatform/aicoe # This repository contains an end-t
+o-end walkthrough to leverage Google Cloud services to demonstrate Solution Accelerators for few business domains https://github.com/googlecloudplatform/gcp-lb-controller-rs #
+https://github.com/googlecloudplatform/nvidia-nemo-on-gke # Training NVIDIA NeMo
+Megatron Large Language Model (LLM) using NeMo Framework on Google Kubernetes Engine https://github.com/googlecloudplatform/alloydb-python-connector # A Python libra
+ry for connecting securely to your AlloyDB instances. https://github.com/googlecloudplatform/terraform-google-dbt-composer-blueprint #
+https://github.com/googlecloudplatform/dotnet-migration-sample #

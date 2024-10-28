@@ -1,0 +1,36 @@
+https://github.com/googlecloudplatform/cloud-foundation-fabric # End-to-end modu
+lar samples and landing zones toolkit for Terraform on GCP. https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/cloud-sql-go-connector # A Go library for
+connecting securely to your Cloud SQL instances https://github.com/googlecloudplatform/terraform-google-cloud-run # Deploys apps
+to Cloud Run, along with option to map custom domain https://github.com/googlecloudplatform/inspec-gcp-cis-benchmark # GCP CIS 1.1.0
+Benchmark InSpec Profile https://github.com/googlecloudplatform/security-analytics # Community Security A
+nalytics provides a set of community-driven audit & threat queries for Google Cloud https://github.com/googlecloudplatform/pbmm-on-gcp-onboarding # GCP Canadian Pub
+lic Sector Landing Zone overlay on top of the TEF via CFT modules - a secure cloud foundation https://github.com/googlecloudplatform/deploystack-serverless-e2e-photo-sharing-
+app # An scalable serverless end-to-end photo-sharing application made from 11 Google Cloud components https://github.com/googlecloudplatform/chef-google-dns #
+https://github.com/googlecloudplatform/terraform-example-foundation-app #
+https://github.com/googlecloudplatform/node-red-contrib-google-cloud # Node-RED
+nodes for Google Cloud Platform https://github.com/googlecloudplatform/terraform-google-alloy-db # Creates an Al
+loy DB instance https://github.com/googlecloudplatform/notebooks-extended-uis #
+https://github.com/googlecloudplatform/multi-provider-dns-with-clouddns #
+https://github.com/googlecloudplatform/gke-security-scenarios-demo # This projec
+t demonstrates a series of best practices for improving the security of containerized applications deployed to Kubernetes Engine. You will deploy multiple instances of the same container image with a variety of security settings to illustrate the use of RBAC, security contexts, and AppArmor policies. https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse #
+Deploys a secured BigQuery data warehouse https://github.com/googlecloudplatform/cloud-pubsub-sendmail # pubsub_sendmail -
+Send emails from Google Cloud Pub/Sub events using a Google Cloud Function https://github.com/googlecloudplatform/asm-user-auth #
+https://github.com/googlecloudplatform/pubsub2inbox # Pubsub2Inbox is a versatil
+e, multi-purpose tool to handle Pub/Sub messages and turn them into email, API calls, GCS objects, files or almost anything. https://github.com/googlecloudplatform/terraform-google-enterprise-genai #
+https://github.com/googlecloudplatform/terraform-google-itar-architectures # Inc
+ludes use cases for deploying ITAR-aligned architectures on Google Cloud https://github.com/googlecloudplatform/chef-google-auth #
+https://github.com/googlecloudplatform/beyondcorp-applink #
+https://github.com/googlecloudplatform/terraform-google-secured-data-warehouse-o
+nprem-ingest # Deploys a secured data warehouse variant for ingesting encrypted data from on-prem sources https://github.com/googlecloudplatform/document-intake-accelerator #
+https://github.com/googlecloudplatform/gcp-fedramp-quickstart #
+https://github.com/googlecloudplatform/federated-learning # Federated Learning o
+n Google Cloud https://github.com/googlecloudplatform/cloud-sql-proxy # A utility for connectin
+g securely to your Cloud SQL instances https://github.com/googlecloudplatform/reporting-api-forwarder #
+https://github.com/googlecloudplatform/alloydb-auth-proxy # A utility for connec
+ting securely to your AlloyDB instances https://github.com/googlecloudplatform/kafka-private-service-connect #
+https://github.com/googlecloudplatform/gke-prober #
+https://github.com/googlecloudplatform/cloud-run-mesh #
+https://github.com/googlecloudplatform/chef-google-sql #
+https://github.com/googlecloudplatform/stac-m3-2022 #
+https://github.com/googlecloudplatform/chef-google-compute #

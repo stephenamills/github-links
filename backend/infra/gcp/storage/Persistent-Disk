@@ -1,0 +1,9 @@
+https://github.com/googlecloudplatform/gcsfuse # A user-space file system for in
+teracting with Google Cloud Storage https://github.com/googlecloudplatform/gke-enterprise-demo # This demo aims to s
+how what a fully-featured project running in Kubernetes Engine looks like. It includes Elasticsearch, a very popular open-source project for indexing and searching data, as well as some custom software to interface with it. https://github.com/googlecloudplatform/chef-google-compute #
+https://github.com/googlecloudplatform/gke-pubsub-websocket-adapter # Consume Pu
+b/Sub over Websockets https://github.com/googlecloudplatform/terraform-google-out-of-band-security # C
+reates a 3P out-of-band security appliance deployment https://github.com/googlecloudplatform/gce-rescue # GCE Rescue is a command-line
+tool to boot Google Cloud Platform VMs in Rescue Mode. Topics https://github.com/googlecloudplatform/professional-services # Common solutions
+and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product. https://github.com/googlecloudplatform/compute-video-demo-puppet # Supporting de
+tails for the Using Puppet and Compute Engine video demo
