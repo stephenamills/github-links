@@ -1,0 +1,20 @@
+https://github.com/sap-samples/cloud-extension-ecc-business-process # This sample showcases how to complement an existing business process in an SAP solution – currently SAP ECC, with additional business process steps. This involves adding major logic and/or additional data.
+https://github.com/sap-samples/gateway-odata-v4 # Collection of sample code to show how services based on OData V4 can be build using the SAP Gateway OData V4 framework.
+https://github.com/sap-samples/node-rfc-samples # This repository provides small sets of configuration and code relating to various node-rfc usage scenarios and platform integrations.
+https://github.com/sap-samples/abap-alv-google-upload-sheet # Sample demonstrating export of ALV Grid data from SAP GUI directly to Google Drive and display exported data snapshots automatically in Google Sheets.
+https://github.com/sap-samples/abap-platform-fundamentals-01 # This project contains ABAP and SQL source used in customer facing events for SAP user groups.
+https://github.com/sap-samples/abap-test-isolation-examples # The samples in this repository demonstrate how test isolation can be achieved in ABAP. It does this by giving examples for the available tools the ABAP Platform.
+https://github.com/sap-samples/abap-platform-jak # The JSON ABAP Konverter
+https://github.com/sap-samples/abap-platform-yy # YY Data Service: A Poor Man's RTTI for the ABAP Environment on SAP Cloud Platform
+https://github.com/sap-samples/ui5-networkgraph-page-level-breakout # Demo SAP Fiori application showing how to create a page level breakout with network graph in a list report.
+https://github.com/sap-samples/hana-xsa-live-reporting # Pre-configured multi-target application with calculation views for deployment in XS Advanced or SAP Cloud Platform, Cloud Foundry.
+https://github.com/sap-samples/s4hana-online-validation-extension # Extend the SAP Online Validation Service with your own verification of business partners' master data to satisfy local or regional requirements.
+https://github.com/sap-samples/teched2022-da260 # Hands-On Experience with SAP Master Data Governance
+https://github.com/sap/node-rfc # Asynchronous, non-blocking SAP NW RFC SDK bindings for Node.js
+https://github.com/sap/pyrfc # Asynchronous, non-blocking SAP NW RFC SDK bindings for Python
+https://github.com/sap/code-pal-for-abap # code pal for ABAP is a highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.
+https://github.com/sap/gorfc # SAP NW RFC Connector for GO
+https://github.com/sap/odata-library # Javascript library for processing OData protocol and developing OData clients.
+https://github.com/sap/generator-easy-ui5 # Meta-generator various project types within the UI5 Universe
+https://github.com/sap/jcomigrationhelperplugin # The JCo Migration Helper Plugin is an Eclipse plugin to help applications to migrate to the JCo 3 API
+https://github.com/sap/scientific-publications-of-sap-hana-database-analytics # List of scientific publications from SAP HANA Database & Analytics

@@ -1,0 +1,24 @@
+https://github.com/sap-samples/btp-data-to-value-workshop # This repo contains a dataset, exercises, and sample code for an end-to-end SAP BTP data-to-value bootcamp covering SAP HANA Cloud, SAP Data Warehouse Cloud, SAP Data Intelligence Cloud, and SAP Analytics Cloud.
+https://github.com/sap-samples/teched2022-da280 # Build an Integrated Planning Scenario with Data and Analytics Solutions
+https://github.com/sap-samples/teched2022-da160 # Explore SAP Data Warehouse Cloud from A to Z
+https://github.com/sap-samples/data-warehouse-cloud-connectors # Connecting third party clients to SAP Data Warehouse Cloud.
+https://github.com/sap-samples/btp-showcase-actuals-cap # This project creates an SAP HANA Deployment Infrastructure (aka HDI) container on SAP HANA Cloud and persists actual sales data originated from an external system in the same SAP Data Warehouse Cloud’s existing persistence area.
+https://github.com/sap-samples/teched2022-da262 # Modeling External and SAP Software Data in SAP Data Warehouse Cloud
+https://github.com/sap-samples/sap-community-developer-challenge-eda-hana # SAP Developer Challenge: Exploratory Data Analysis with SAP HANA and Python. Take part in the challenge and build your skills using the Python Client for SAP HANA. https://github.com/sap-samples/teched2024-da180 # Explore SAP Datasphere and SAP Analytics Cloud end to end
+https://github.com/sap-samples/data-warehouse-cloud-fedml-retail-inventory # Retail Inventory Prediction and Insight use case with SAP Data Warehouse Cloud and federated machine learning.
+https://github.com/sap-samples/s4hana-ext-product-catalog-ios # SAP Extensibility Explorer example: Display SAP S/4HANA Cloud produ
+cts on an iOS Device. https://github.com/sap-samples/dwc-provisioner # This sample tool shows how to programmatically create, update, and delete SAP Data
+Warehouse Cloud artifacts. The tool, referred to as **provisioner**, is written in Python and demonstrates how to automate various SAP Data Warehouse Cloud provisioning activities.
+https://github.com/sap-samples/teched2023-da266 # Federate Queries to Databricks from SAP Datasphere for Real-Time Analytics
+https://github.com/sap-samples/teched2023-da260 # Data Integration: Connections, Rep & Transf Flow, Monitoring and more!
+https://github.com/sap-samples/teched2023-da183v # Explore SAP Datasphere from A to Z
+https://github.com/sap-samples/btp-spend-analysis # The sample integration flows in this repository demonstrate how to use SAP BTP Integration Suite to pull data from the SAP Ariba Analytical Reporting API, process it into SAP Data Warehouse Cloud, and analyze it using the SAP Analytics Cloud Spend Analysis business content.
+https://github.com/sap-samples/ibp-sop-benchmarks-milp-cellphoneco # Benchmark instances modelling the supply chain of a fictive co
+mpany producing and selling cell phones and accessories of different types. The instances formulate typical mixed-integer linear optimization problems in the standard MPS format.
+https://github.com/sap-samples/teched2022-dt261 # Simplify Data Integration Between SAP S/4HANA and SAP’s Industry Cloud
+https://github.com/sap-samples/teched2022-da263 # Interactive Stochastic Simulations for Adapting to Uncertainty
+https://github.com/sap-tutorials/data-warehouse-cloud # This repository will house tutorials that support the set up, operations, and usag of the SAP Data Warehouse Cloud.
+https://github.com/sap/ewm-cloud-robotics # Source code, containers & Helm charts enabling users to leverage the core of Google Cloud Robotics to automate fulfilment warehouse orders & tasks commissioned by SAP EWM
+https://github.com/sap/cloud-robotics # Cloud Robotics Core: Kubernetes, Federation, App Management
+https://github.com/sap/scientific-publications-of-sap-hana-database-analytics # List of scientific publications from SAP HANA Datab
+ase & Analytics
