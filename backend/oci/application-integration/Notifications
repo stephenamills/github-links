@@ -1,0 +1,31 @@
+https://github.com/oracle-quickstart/oci-adoption-framework-thunder #
+https://github.com/oracle-quickstart/oci-limit-monitoring #
+https://github.com/oracle-quickstart/oci-cloud-native-sftp # Terraform module to deploy a cloud-native SFTP solution on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-arch-lbs-custom-error # Code repo for OCI load balancer custom errror page
+https://github.com/oracle-samples/oracle-functions-samples # Examples demonstrating how to use Oracle Functions
+https://github.com/oracle-samples/clara-rules # Forward-chaining rules in Clojure(Script)
+https://github.com/oracle-samples/idm-samples # Oracle's official repository for Identity Management (IDM) code samples and snippets.
+https://github.com/oracle-samples/ignite-endpoints # API endpoints for Millennium's HL7 FHIR implementation for patient access
+https://github.com/oracle-samples/sample-serverless-saas-erp-dataload # Sample code demonstrating how you can use Oracle Cloud Infrastructure serverless components to load data into Oracle Fusion ERP
+https://github.com/oracle-samples/pushiomanager-flutter # Flutter plugin for Responsys Mobile SDK
+https://github.com/oracle-samples/oraclemobilechat #
+https://github.com/oracle-samples/oci-streaming-datasync-sample #
+https://github.com/oracle-samples/oci-autonomous-json-db-datasync-sample # This solution shows how you can use Oracle Cloud Infrast
+ructure (OCI) cloud native services to build a serverless data syncing solution. There are various approaches to build a data sync middle tier using OCI. This one uses Autonomous JSON DB(AJD), API Gateway, Functions, Vault, OCI Registry. https://github.com/oracle-devrel/oci-arch-notifications-demo # oci-arch-notifications
+https://github.com/oracle-devrel/terraform-oci-ocloud-foundation # A Terraform framework for deploying to Oracle Cloud Infrastructure. This is the landing zone (starting point) for the framework.
+https://github.com/oracle-devrel/oci-wearable-health-app # oci-wearable-demo
+https://github.com/oracle-devrel/splunk-export-audit # splunk-export-audit
+https://github.com/oracle-devrel/terraform-oci-ocloud-asset-resident # terraform-oci-ocloud-asset-resident
+https://github.com/oracle-devrel/terraform-oci-ocloud-core # terraform-oci-ocloud-configuration
+https://github.com/oracle-devrel/terraform-oci-ocloud-asset-network # terraform-oci-ocloud-asset-network
+https://github.com/oracle/pushiomanager-react-native # React Native Module for Responsys SDK
+https://github.com/oracle/oci-utils # Oracle Cloud Infrastructure utilities
+https://github.com/oracle/puppet-solaris_providers # Oracle Solaris Puppet Module
+https://github.com/oracle/pushiomanager-cordova-plugin # Cordova Plugin for Oracle Responsys Mobile SDK
+https://github.com/oracle/free # Free Oracle technologies for Developers
+https://github.com/oracle/spring-cloud-oracle # Spring Cloud Oracle, eases the integration with Oracle Database and OCI services, and offers a convenient way to interact with Oracle Database and OCI-provided services using well-known Spring idioms and APIs.
+https://github.com/oracle/magento-extension-cx-apps # Magento extension project for Oracle CX Apps integration with Magento Platform.
+https://github.com/oracle/oci-ruby-sdk # Ruby SDK for Oracle Cloud Infrastructure
+https://github.com/oracle/coherence-js-client # The Coherence JavaScript Client
+https://github.com/oracle/oracle-db-appdev-monitoring # Metrics exporter and samples for unified observability for data-centric app
+dev and microservices

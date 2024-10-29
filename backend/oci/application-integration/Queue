@@ -1,0 +1,21 @@
+https://github.com/oracle-quickstart/oci-hpc # Terraform examples for deploying HPC clusters on OCI
+https://github.com/oracle-quickstart/oci-monte-carlo-simulations-fsi #
+https://github.com/oracle-quickstart/oke-transcoder # FFMPEG transcoder on OCI OKE.
+https://github.com/oracle-devrel/leagueoflegends-optimizer # League of Legends Optimizer - Learn Artificial Intelligence with Gaming
+https://github.com/oracle-devrel/oci-arch-queue-demo # oci-arch-queue-demo
+https://github.com/oracle-devrel/oci-arch-queue-oke-demo # oci-arch-queue-oke-demo
+https://github.com/oracle-devrel/oci-queue-fn-oke-demo # oci-queue-fn-oke-demo
+https://github.com/oracle-devrel/oci-wearable-health-app # oci-wearable-demo
+https://github.com/oracle-devrel/arch-virus-scanning-with-oke-autoscaling # arch-virus-scanning-with-oke-autoscaling
+https://github.com/oracle-devrel/terraform-oci-arch-queue # terraform-oci-arch-queue
+https://github.com/oracle-devrel/terraform-oci-wearable-health-app # terraform-oci-wearable-health-app
+https://github.com/oracle-devrel/oci-lsf-resource-connector # oci-lsf-resource-connector
+https://github.com/oracle/okafka # Kafka Java Client for Oracle Transactional Event Queues
+https://github.com/oracle/microservices-datadriven # Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services
+https://github.com/oracle/oracle-db-appdev-monitoring # Metrics exporter and samples for unified observability for data-centric appdev and microservices
+https://github.com/oracle/spring-cloud-oracle # Spring Cloud Oracle, eases the integration with Oracle Database and OCI services, and offers a convenient way to interact with Oracle Database and OCI-provided services using well-known Spring idioms and APIs.
+https://github.com/oracle/coherence-go-client # The Coherence Go Client allows native Go applications to act as cache clients to a Coherence cluster using gRPC for the network transport.
+https://github.com/oracle/oci-compute-jenkins-plugin # Jenkins Plugin for Oracle Cloud Infrastructure (Compute)
+https://github.com/oracle/coherence-visualvm # The Coherence-VisualVM Plugin provides management and monitoring of a single Coherence cluster using the VisualVM management utility.
+https://github.com/oracle/offline-persistence-toolkit # Offline Persistence Toolkit for Javascript Applications
+https://github.com/oracle/oci-ruby-sdk # Ruby SDK for Oracle Cloud Infrastructure

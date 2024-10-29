@@ -1,0 +1,56 @@
+https://github.com/oracle-quickstart/oci-jenkins # Terraform module to deploy Jenkins on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-mysql # Terraform module to deploy MySQL on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oke-airflow #
+https://github.com/oracle-quickstart/oci-ebs # Terraform module to deploy Oracle E-Business Suite (EBS) on Oracle Cloud Infrastruct
+ure (OCI) https://github.com/oracle-quickstart/oci-ocihpc # Simplifying deployments of HPC applications in Oracle Cloud Infrastructure (OCI).
+https://github.com/oracle-quickstart/oci-httpd # Terraform module to deploy httpd on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-hpc-runbook-starccm #
+https://github.com/oracle-quickstart/oci-beegfs-beeond-rdma # Deploy BeeGFS BeeOND (BeeGFS ON Demand) on Oracle Cloud Infrastructur
+e HPC 100Gbps RDMA Clustered Network https://github.com/oracle-quickstart/oci-bastion-dbaas #
+https://github.com/oracle-quickstart/terraform-oci-oke-quickstart # Base OKE automated deployment with extras, to be used alone or
+by other Quickstarts https://github.com/oracle-quickstart/oci-weblogic-server # Terraform scripts to create and deploy WebLogic domains in OCI
+https://github.com/oracle-quickstart/oci-sap # Terraform modules to prepare infrastructure and resources for deploying Oracle Datab
+ase based SAP apps on Oracle Cloud Infrastructure https://github.com/oracle-quickstart/oci-slurm # Terraform module to deploy Slurm on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-nginx # Terraform module to deploy Nginx on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-lustre # Terraform template to deploy the DDN Lustre distributed file system on OCI
+https://github.com/oracle-quickstart/oci-hpc-oke # This repo includes everything you need to know about deploying GPU nodes on OCI
+https://github.com/oracle-quickstart/oci-nfs # NFS server deployment in Highly Available Active Passive mode or Single node NFS wit
+h local NVMe or Block Storage. https://github.com/oracle-quickstart/oci-essbase # Terraform module to deploy Essbase on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-chef # Terraform module to deploy Chef on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-jboss-wildfly-atp # Jboss / WildFly terraform deployment on Oracle Cloud Infrastructure
+https://github.com/oracle-quickstart/oci-hpc-runbook-namd #
+https://github.com/oracle-quickstart/oci-ocvs-dr # Template for rapid deployment of Disaster Recovery Architecture with optional Or
+acle Cloud VMware Solution (OCVS). https://github.com/oracle-quickstart/oci-pbspro # Terraform module to deploy PBS Pro on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-arch-bastion # This module provides a way to easily and quickly build a bastion (jump box)
+(and the related config options) in Oracle Cloud Infrastructure (OCI). https://github.com/oracle-quickstart/oci-hpc-runbook-lsdyna # HPC Lsdyna
+https://github.com/oracle-quickstart/oci-hpc-runbook-fluent # HPC Fluent
+https://github.com/oracle-quickstart/oci-primavera # Terraform module to deploy Primavera on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-agile-plm # Module for Terraform to deploy Agile PLM on Oracle Cloud Infrastructure (OCI)
+
+- Delivery Framework https://github.com/oracle-quickstart/oci-arch-enterprise-base # This module shows how to deploy a basic starting architecture that
+  is suitable for many OCI environments, providing the foundational components needed to run 3-tier Enterprise Applications https://github.com/oracle-quickstart/oci-quobyte # Quobyte file system (https://www.quobyte.com)
+  https://github.com/oracle-quickstart/oci-hpc-data-mover # OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system
+  data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI. It's designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth. It can scale to n worker nodes. https://github.com/oracle-quickstart/oci-arch-graph # Oracle Cloud Graph on ADW
+  https://github.com/oracle-devrel/terraform-oci-arch-redis # terraform-oci-arch-redis
+  https://github.com/oracle-devrel/terraform-oci-arch-magento # terraform-oci-arch-magento
+  https://github.com/oracle-devrel/terraform-oci-arch-wordpress # terraform-oci-arch-wordpress
+  https://github.com/oracle-devrel/terraform-oci-jenkins # Terraform module to deploy Jenkins on Oracle Cloud Infrastructure (OCI)
+  https://github.com/oracle-devrel/kubeflow-oke # Kubeflow on OKE
+  https://github.com/oracle-devrel/terraform-oci-arch-joomla # terraform-oci-arch-joomla
+  https://github.com/oracle-devrel/terraform-oci-arch-drupal # terraform-oci-arch-drupal
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-bastionservice-sessions # terraform-oci-cloudbricks-bastionservice-sessi
+  ons https://github.com/oracle-devrel/terraform-oci-arch-moodle # terraform-oci-arch-moodle
+  https://github.com/oracle-devrel/terraform-oci-arch-tomcat # terraform-oci-arch-tomcat
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-bastionservice # OCI Cloud Bricks: Bastion
+  https://github.com/oracle-devrel/oke-bastion # oke-bastion
+  https://github.com/oracle-devrel/terraform-oci-rsa-bastion # Bastion Terraform Module on OCI
+  https://github.com/oracle-devrel/terraform-oci-arch-jboss-wildfly-atp # terraform-oci-arch-jboss-wildfly-atp
+  https://github.com/oracle-devrel/terraform-oci-arch-jenkins # terraform-oci-arch-jenkins
+  https://github.com/oracle-devrel/terraform-oci-ocloud-component-db # A Terraform framework for deploying to Oracle Cloud Infrastruc
+  ture. This is the database module used in the framework. https://github.com/oracle-devrel/oci-tf-vision-web-client # oci-tf-vision-web-client
+  https://github.com/oracle-devrel/terraform-oci-ocloud-component-oke # A Terraform framework for deploying to Oracle Cloud Infrastru
+  cture. This is the application module used in the framework. https://github.com/oracle-devrel/terraform-oci-arch-tomcat-mds # Terraform to deploy Apache Tomcat on OCI
+  https://github.com/oracle-devrel/terraform-oci-arch-lustre # terraform-oci-arch-lustre
+  https://github.com/oracle-devrel/terraform-oci-cassandra # terraform-oci-cassandra
+  https://github.com/oracle/free # Free Oracle technologies for Developers
+  https://github.com/oracle/oci-ruby-sdk # Ruby SDK for Oracle Cloud Infrastructure

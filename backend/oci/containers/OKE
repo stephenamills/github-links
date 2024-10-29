@@ -1,0 +1,20 @@
+https://github.com/oracle-quickstart/oci-kubernetes-monitoring # Kubernetes Monitoring with OCI Observability & Management Platform
+https://github.com/oracle-quickstart/oke-prerequisites # Instructions on how to setup an Oracle Kubernetes Engine (OKE) cluster
+https://github.com/oracle-quickstart/oke-confluent # Describes how to use Confluent on Oracle Kubernetes Engine (OKE)
+https://github.com/oracle-quickstart/oke-sysdig # Sysdig Secure: Unified security and compliance for containers, Kubernetes and clo
+ud https://github.com/oracle-quickstart/oke-hazelcast # Describes how to use Hazelcast on Oracle Kubernetes Engine (OKE)
+https://github.com/oracle-quickstart/oke-cockroachdb # Describes how to use CockroachDB on Oracle Kubernetes Engine (OKE)
+https://github.com/oracle-quickstart/oke-couchbase # Describes how to use Couchbase on Oracle Kubernetes Engine (OKE)
+https://github.com/oracle-devrel/terraform-oci-arch-oke # This is a Terraform module that deploys Container Engine for Kubernetes (
+OKE) on Oracle Cloud Infrastructure (OCI). https://github.com/oracle-devrel/go-oke-isv-fn-nodepool-tagger # Automating a Pod Identity Solution with Oracle Container Engine fo
+r Kubernetes (OKE) https://github.com/oracle-devrel/kubernetes-mutating-admission-controller # kubernetes-mutating-admission-controller
+https://github.com/oracle-devrel/helm-oci-mysql # Helm chart to deploy a MySQL Database System (MDS) in a Kubernetes cluster on OCI
+https://github.com/oracle/weblogic-kubernetes-operator # WebLogic Kubernetes Operator
+https://github.com/oracle/oci-cloud-controller-manager # Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infras
+tructure https://github.com/oracle/fmw-kubernetes # Kubernetes Deployment Scripts for Oracle Fusion Middleware products
+https://github.com/oracle/cluster-api-provider-oci # Kubernetes Cluster API Provider for Oracle Cloud Infrastructure
+https://github.com/oracle/weblogic-toolkit-ui # WebLogic Kubernetes Toolkit UI
+https://github.com/oracle/oci-service-operator # The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage
+OCI services from a cloud native application running in a Kubernetes environment. https://github.com/oracle/weblogic-azure # This project offers support for running Oracle WebLogic Server in the Azure Virtual Mach
+ines and Azure Kubernetes Service (AKS) https://github.com/oracle/oracle-database-operator # The Oracle Database Operator for Kubernetes (a.k.a. OraOperator) helps develop
+ers, DBAs, DevOps and GitOps teams reduce the time and complexity of deploying and managing Oracle Databases. It eliminates the dependency on a human operator or administrator for the majority of database operations. https://github.com/oracle/zfssa-csi-driver # Kubernetes Container Storage Interface (CSI) plug-in for Oracle ZFS Storage Appliance.

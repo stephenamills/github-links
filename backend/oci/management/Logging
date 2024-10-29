@@ -1,0 +1,4 @@
+https://github.com/oracle-quickstart/oci-arch-dataflow-store-analyze-data # Store and analyze your on-premises logs in Oracle Cloud Infrastructure
+https://github.com/oracle-devrel/terraform-oci-arch-logging-splunk # terraform-oci-logging-splunk
+https://github.com/oracle/fluent-plugin-oci-logging # This is the official fluentD output plugin for the Oracle Cloud Infrastructure (OCI) Logging service.
+https://github.com/oracle/oci-grafana-logs # Grafana datasource plugin for OCI logs

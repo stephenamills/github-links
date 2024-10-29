@@ -1,0 +1,283 @@
+https://github.com/oracle-quickstart/oci-cloudnative # MuShop - Cloud Native microservices demo for Oracle Cloud Infrastructure
+https://github.com/oracle-quickstart/oci-prerequisites # Instructions to get your environment ready to deploy OCI Quick Start examp
+les https://github.com/oracle-quickstart/oci-enterprise-scale-baseline-landing-zone # Baseline Landing Zone
+https://github.com/oracle-quickstart/oci-ods-orm # Deploy Oracle Data Science using Resource Manager and Terraform
+https://github.com/oracle-quickstart/oci-micronaut # Micronaut MuShop - Cloud Native microservices demo for Oracle Cloud Infrastruc
+ture https://github.com/oracle-quickstart/oci-quickstart-template # Template for OCI Quick Starts
+https://github.com/oracle-quickstart/oci-redis # Terraform module to deploy Redis on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/terraform-oci-oke-quickstart # Base OKE automated deployment with extras, to be used alone or
+by other Quickstarts https://github.com/oracle-quickstart/oci-ebs # Terraform module to deploy Oracle E-Business Suite (EBS) on Oracle Cloud Infrastruct
+ure (OCI) https://github.com/oracle-quickstart/oci-palo-alto-networks # Terraform module to deploy Palo Alto Networks on Oracle Cloud Infrast
+ructure (OCI) https://github.com/oracle-quickstart/oci-tableau # Terraform module to deploy Tableau on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-adoption-framework-thunder #
+https://github.com/oracle-quickstart/oci-hpc # Terraform examples for deploying HPC clusters on OCI
+https://github.com/oracle-quickstart/oci-jenkins # Terraform module to deploy Jenkins on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-openshift # OpenShift cluster creation on Oracle Cloud Infrastructure
+https://github.com/oracle-quickstart/oci-sap # Terraform modules to prepare infrastructure and resources for deploying Oracle Datab
+ase based SAP apps on Oracle Cloud Infrastructure https://github.com/oracle-quickstart/oci-essbase # Terraform module to deploy Essbase on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-fortinet # Terraform module to deploy Fortinet on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-management-agent # OCI O&M Management Agent
+https://github.com/oracle-quickstart/oci-kafka # Terraform module to deploy Kafka on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-weblogic-server # Terraform scripts to create and deploy WebLogic domains in OCI
+https://github.com/oracle-quickstart/oci-lustre # Terraform template to deploy the DDN Lustre distributed file system on OCI
+https://github.com/oracle-quickstart/oci-check-point # Terraform module to deploy Checkpoint on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-splunk # Terraform module to deploy Splunk on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oke-soa #
+https://github.com/oracle-quickstart/oci-elastic # Terraform module to deploy an Elastic cluster on Oracle Cloud Infrastructure (OC
+I) https://github.com/oracle-quickstart/oci-kubernetes-monitoring # Kubernetes Monitoring with OCI Observability & Management Platform
+https://github.com/oracle-quickstart/oke-airflow #
+https://github.com/oracle-quickstart/oci-mysql # Terraform module to deploy MySQL on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-github-actions-runner # Deployment of self-hosted GitHub Actions Runner on Oracle Cloud In
+frastructure https://github.com/oracle-quickstart/oci-beegfs # BeeGFS on Oracle Cloud Infrastructure
+https://github.com/oracle-quickstart/oci-hyperion # Terraform module to deploy Hyperion on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-beegfs-beeond-rdma # Deploy BeeGFS BeeOND (BeeGFS ON Demand) on Oracle Cloud Infrastructur
+e HPC 100Gbps RDMA Clustered Network https://github.com/oracle-quickstart/terraform-oci-networking # Terraform module to Quickstart deploy network resources on OCI and
+to be reused by other projects https://github.com/oracle-quickstart/oci-cloud-native-sftp # Terraform module to deploy a cloud-native SFTP solution on Oracle Clou
+d Infrastructure (OCI) https://github.com/oracle-quickstart/oci-peoplesoft-monitoring #
+https://github.com/oracle-quickstart/oci-oke #
+https://github.com/oracle-quickstart/oke-prerequisites # Instructions on how to setup an Oracle Kubernetes Engine (OKE) cluster
+https://github.com/oracle-quickstart/oci-digital-assistant-external-services #
+https://github.com/oracle-quickstart/oci-nfs # NFS server deployment in Highly Available Active Passive mode or Single node NFS wit
+h local NVMe or Block Storage. https://github.com/oracle-quickstart/oke-confluent # Describes how to use Confluent on Oracle Kubernetes Engine (OKE)
+https://github.com/oracle-quickstart/oci-ibm-spectrum-scale # Terraform template to deploy IBM Spectrum Scale on Oracle Cloud Infra
+structure (OCI) https://github.com/oracle-quickstart/oci-httpd # Terraform module to deploy httpd on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-bastion-dbaas #
+https://github.com/oracle-quickstart/oci-jde-monitoring #
+https://github.com/oracle-quickstart/oci-mlflow #
+https://github.com/oracle-quickstart/oci-hpc-runbook-starccm #
+https://github.com/oracle-quickstart/oci-hpc-runbook-gromacs #
+https://github.com/oracle-quickstart/oke-snyk # Snyk: the platform developers choose to build cloud native applications securely, p
+roviding a range of developer-first security products. https://github.com/oracle-quickstart/oci-esblz-workload-expansion #
+https://github.com/oracle-quickstart/oci-ebs-monitoring # Oracle E-Business Suite Monitoring Solution
+https://github.com/oracle-quickstart/oke-sysdig # Sysdig Secure: Unified security and compliance for containers, Kubernetes and clo
+ud https://github.com/oracle-quickstart/oci-arch-ha-scheduler # This automation provisions an HA Scheduler on OCI
+https://github.com/oracle-quickstart/oci-kinetica # Terraform module to deploy Kinetica on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-neo4j # Terraform module to deploy Neo4j on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-cisco # Terraform module to deploy Cisco Products on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-siebel-monitoring #
+https://github.com/oracle-quickstart/oci-limit-monitoring #
+https://github.com/oracle-quickstart/oci-dotnet # QuickStart ASP.Net on OCI with Terraform scripts (Includes ORM Stack)
+https://github.com/oracle-quickstart/oci-sas-grid # Terraform module to deploy SAS Grid on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-slurm # Terraform module to deploy Slurm on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-ocvs-dr # Template for rapid deployment of Disaster Recovery Architecture with optional Or
+acle Cloud VMware Solution (OCVS). https://github.com/oracle-quickstart/oci-hpc-runbook-namd #
+https://github.com/oracle-quickstart/oci-ldap # Terraform module to deploy LDAP on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-arch-vip # Terraform automation that provisions Floating IP(VIP) emulation on the Oracle C
+loud Infrastructure(OCI). https://github.com/oracle-quickstart/oci-arch-spatial #
+https://github.com/oracle-quickstart/appstack # App Stack
+https://github.com/oracle-quickstart/oci-adb #
+https://github.com/oracle-quickstart/oci-nginx # Terraform module to deploy Nginx on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oke-flink # Apache Flink on OKE
+https://github.com/oracle-quickstart/oci-netfoundry # This repo contains terraform scripts to deploy NetFoundry Edge Routers into O
+CI VCN. https://github.com/oracle-quickstart/oci-prisma-sdwan # Terraform module to deploy Prisma SDWAN Product by Palo Alto Networks on Or
+acle Cloud Infrastructure (OCI) https://github.com/oracle-quickstart/oci-jboss-wildfly-atp # Jboss / WildFly terraform deployment on Oracle Cloud Infrastructure
+https://github.com/oracle-quickstart/oci-arch-best-practices # oracle-lead
+https://github.com/oracle-quickstart/oci-global-multiregion-app-goldengate-autonomous # Deploy a Multi-Region OCI Goldengate and Au
+tonomous Stack to Build Distributed Apps on OCI https://github.com/oracle-quickstart/access-governance # This repository will be used in quick start landing zones
+https://github.com/oracle-quickstart/oci-obp-extension #
+https://github.com/oracle-quickstart/oci-arch-graph # Oracle Cloud Graph on ADW
+https://github.com/oracle-quickstart/oci-cloud-migrations # Oracle Cloud Migrations Service
+https://github.com/oracle-quickstart/oci-crowdstrike # Terraform module to deploy CrowdStrike Solutions on Oracle Cloud Infrastruct
+ure (OCI) https://github.com/oracle-quickstart/oci-cpe # Quickstart with Customer Premisses Equipment (CPE) simulated on OCI
+https://github.com/oracle-quickstart/oci-dls # Deploy Oracle Data Labeling Service using Resource Manager and Terraform
+https://github.com/oracle-quickstart/oci-freebsd # FreeBSD
+https://github.com/oracle-quickstart/oci-sas-viya # Terraform module to deploy SAS Viya on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-chef # Terraform module to deploy Chef on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-gpu-jupyter #
+https://github.com/oracle-quickstart/oci-carbon-black # Terraform module to deploy VMware Carbon Black solution on Oracle Cloud Inf
+rastructure (OCI) https://github.com/oracle-quickstart/oci-juniper #
+https://github.com/oracle-quickstart/oci-datalake # Bootstrap a Modern, Secure & Serverless Datalake on OCI Using Fully Managed Ser
+vices https://github.com/oracle-quickstart/oci-primavera # Terraform module to deploy Primavera on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-transit-fw # Using a DRG to route traffic through a centralized network virtual appliance
+https://github.com/oracle-quickstart/oci-hazelcast # Terraform module to deploy Hazelcast Enterprise on Oracle Cloud Infrastructure
+(OCI) https://github.com/oracle-quickstart/oci-qualys # Terraform module to deploy Qualys on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-arangodb # Terraform module to deploy ArangoDB on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-network-firewall #
+https://github.com/oracle-quickstart/oci-datastax # Terraform module to deploy DataStax Enterprise (DSE) on Oracle Cloud Infrastruc
+ture (OCI) https://github.com/oracle-quickstart/oci-arch-weblogic-oke #
+https://github.com/oracle-quickstart/oci-nis # Terraform module to deploy Network Information Service (NIS) on Oracle Cloud Infrast
+ructure (OCI) https://github.com/oracle-quickstart/oci-arch-lbs-custom-error # Code repo for OCI load balancer custom errror page
+https://github.com/oracle-quickstart/oci-hpc-runbook-parabricks #
+https://github.com/oracle-quickstart/oci-quobyte # Quobyte file system (https://www.quobyte.com)
+https://github.com/oracle-quickstart/oci-orm-cicd # Deploy oci infrastructure using Jenkins pipeline
+https://github.com/oracle-quickstart/oci-oracle-analytics-server # Terraform module to deploy Oracle Analytics Server on Oracle Clo
+ud Infrastructure (OCI) https://github.com/oracle-quickstart/oci-hpc-runbook-lsdyna # HPC Lsdyna
+https://github.com/oracle-quickstart/oci-hpc-runbook-fluent # HPC Fluent
+https://github.com/oracle-quickstart/oci-ipsec-libreswan # Programmatically spin up an environment for quick functional testing of
+IPSec Customizations leveraging Terraform and Ansible. https://github.com/oracle-quickstart/oci-pbspro # Terraform module to deploy PBS Pro on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-vtap-archiver # Archive VTAP Traffic to OCI Object Storage
+https://github.com/oracle-quickstart/oci-agile-plm # Module for Terraform to deploy Agile PLM on Oracle Cloud Infrastructure (OCI)
+
+- Delivery Framework https://github.com/oracle-quickstart/oci-visual-builder #
+  https://github.com/oracle-quickstart/oci-arch-hybrid-dns # Provision a hybrid DNS solution in Oracle Cloud Infrastructure (OCI)
+  https://github.com/oracle-quickstart/oci-arch-dataflow-store-analyze-data # Store and analyze your on-premises logs in Oracle Cloud
+  Infrastructure https://github.com/oracle-quickstart/oke-hazelcast # Describes how to use Hazelcast on Oracle Kubernetes Engine (OKE)
+  https://github.com/oracle-quickstart/oci-arch-enterprise-base # This module shows how to deploy a basic starting architecture that
+  is suitable for many OCI environments, providing the foundational components needed to run 3-tier Enterprise Applications https://github.com/oracle-quickstart/oci-migrate-ad # Scripts to migrate compute resources between Avvailability Domains
+  https://github.com/oracle-quickstart/oci-arch-bastion # This module provides a way to easily and quickly build a bastion (jump box)
+  (and the related config options) in Oracle Cloud Infrastructure (OCI). https://github.com/oracle-quickstart/access-governance-tf-template #
+  https://github.com/oracle-quickstart/oke-transcoder # FFMPEG transcoder on OCI OKE.
+  https://github.com/oracle-samples/sample-serverless-saas-erp-dataload # Sample code demonstrating how you can use Oracle Cloud Infr
+  astructure serverless components to load data into Oracle Fusion ERP https://github.com/oracle-samples/crossplane-provider-oci # Crossplane provider for Oracle Cloud Infrastructure(OCI)
+  https://github.com/oracle-samples/maa # Provide Maximum Availability and Disaster Protection for Oracle Systems
+  https://github.com/oracle-samples/usage-reports-to-adw # Usage2adw is a tool which uses the Python SDK to extract the usage and cos
+  t reports from your tenant and load it to Oracle Autonomous Database. (DbaaS can be used as well) Authentication to OCI by User or instance principals. https://github.com/oracle-samples/oracle-dis-samples # Terraform OCI Data Integration Services Architecture
+  https://github.com/oracle-samples/oci-streaming-datasync-sample #
+  https://github.com/oracle-samples/fusion-ords-identityprop-sample # Sample code showing how to do identity propagation between VBCS
+  in Oracle SaaS environment and ORDS https://github.com/oracle-samples/orm-docker-compute-stack-sample # Sample code which demonstrates how to use OCI Resource Manager
+  to automate the install and configuration of Docker and Docker Compose in a compute instance and configures a container running Jaeger tracing service as an example. https://github.com/oracle-devrel/redbull-analytics-hol # Learn machine learning the fun way, with Oracle and RedBull Racing
+  https://github.com/oracle-devrel/terraform-oci-arch-postgresql # Terraform module to deploy PostgreSQL on Oracle Cloud Infrastructu
+  re (OCI). https://github.com/oracle-devrel/terraform-oci-arch-ci-cd-devops # terraform-oci-arch-ci-cd-devops
+  https://github.com/oracle-devrel/terraform-oci-oracle-cloud-foundation # Oracle Cloud Foundation Terraform Framework
+  https://github.com/oracle-devrel/cd3-automation-toolkit # The CD3 Automation Toolkit generates Terraform modules from a design spec
+  in an Excel sheet. It also enables a user to export an OCI tenancy into Excel and corresponding TF modules (and associated tfvars)https://github.com/oracle-devrel/terraform-oci-arch-wordpress-mds # terraform-oci-arch-wordpress-mds
+  https://github.com/oracle-devrel/save-the-wildlife # save-the-wildlife
+  https://github.com/oracle-devrel/terraform-oci-backstage # Deployable solution to run Backstage on OCI - Work in Progress ⚠️
+  https://github.com/oracle-devrel/kubeflow-oke # Kubeflow on OKE
+  https://github.com/oracle-devrel/terraform-oci-arch-oke # This is a Terraform module that deploys Container Engine for Kubernetes (
+  OKE) on Oracle Cloud Infrastructure (OCI). https://github.com/oracle-devrel/terraform-oci-code-server # Deployable solution to run code-server on OCI
+  https://github.com/oracle-devrel/terraform-oci-arch-oke-virtual-node # terraform-oci-arch-oke-virtual-node
+  https://github.com/oracle-devrel/terraform-oci-ocloud-foundation # A Terraform framework for deploying to Oracle Cloud Infrastructu
+  re. This is the landing zone (starting point) for the framework. https://github.com/oracle-devrel/oci-generative-ai # oci-generative-ai
+  https://github.com/oracle-devrel/terraform-oci-arch-devops-cicd-instances # terraform-oci-arch-devops-cicd-instances
+  https://github.com/oracle-devrel/terraform-oci-arch-fn-app # Terraform code to deploy an event-triggered serverless function
+  https://github.com/oracle-devrel/terraform-oci-arch-elastic # terraform-oci-arch-elastic
+  https://github.com/oracle-devrel/terraform-jenkins-ci-cd-oci # terraform-jenkins-ci-cd-oci
+  https://github.com/oracle-devrel/terraform-oci-arch-ci-cd # terraform-oci-arch-ci-cd
+  https://github.com/oracle-devrel/terraform-oci-arch-hub-spoke-drg # terraform-oci-arch-hub-spoke-drg
+  https://github.com/oracle-devrel/terraform-oci-arch-redis # terraform-oci-arch-redis
+  https://github.com/oracle-devrel/terraform-oci-arch-devops-cicd-with-functions # terraform-oci-arch-devops-cicd-with-functions
+  https://github.com/oracle-devrel/terraform-oci-arch-devops-deploy-helm-and-ci # terraform-oci-arch-devops-deploy-helm-and-ci
+  https://github.com/oracle-devrel/oci-terraform-genai-llm-on-gpuvms # oci-terraform-genai-llm-on-gpuvms
+  https://github.com/oracle-devrel/terraform-oci-arch-hub-spoke # Set up a hub-and-spoke network topology.
+  https://github.com/oracle-devrel/terraform-oci-arch-magento-mds # terraform-oci-arch-magento-mds
+  https://github.com/oracle-devrel/terraform-oci-arch-microservice-oke # terraform-oci-arch-microservice-oke
+  https://github.com/oracle-devrel/terraform-oci-arch-adb # This is a Terraform module that deploys Autonomous Database (ADB) on Orac
+  le Cloud Infrastructure (OCI). https://github.com/oracle-devrel/terraform-oci-cloudbricks-mongodb # OCI Cloud Bricks: MongoDB
+  https://github.com/oracle-devrel/terraform-oci-arch-db-migration # terraform-oci-arch-db-migration
+  https://github.com/oracle-devrel/terraform-oci-arch-devops-deployment-strategies # terraform-oci-arch-devops-deployment-strategies
+  https://github.com/oracle-devrel/terraform-oci-rsa-wazuh # Wazuh Terraform Module on OCI
+  https://github.com/oracle-devrel/terraform-oci-arch-jenkins # terraform-oci-arch-jenkins
+  https://github.com/oracle-devrel/terraform-oci-pirate-translator # Having fun with a pirate translator running on OCI
+  https://github.com/oracle-devrel/terraform-oci-arch-load-file-into-adw-python # This reference architecture shows how you can use a
+  serverless function to automate the process of extracting data from files generated by various databases or applications and loading the data into a data warehouse for analysis. https://github.com/oracle-devrel/oci-openproject # oci-openproject
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-apex # Cloud Bricks framework: APEX
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-postgresql # Cloud Bricks framework: PostgreSQL
+  https://github.com/oracle-devrel/oci-tf-vision-web-client # oci-tf-vision-web-client
+  https://github.com/oracle-devrel/terraform-oci-jenkins # Terraform module to deploy Jenkins on Oracle Cloud Infrastructure (OCI)
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-redis # OCI Cloud Bricks: Redis
+  https://github.com/oracle-devrel/terraform-oci-arch-oke-atp # terraform-oci-arch-oke-atp
+  https://github.com/oracle-devrel/oci-arch-custom-dns-fn # oci-arch-custom-dns-fn
+  https://github.com/oracle-devrel/terraform-oci-arch-drupal-mds # terraform-oci-arch-drupal-mds
+  https://github.com/oracle-devrel/terraform-oci-arch-magento # terraform-oci-arch-magento
+  https://github.com/oracle-devrel/terraform-oci-arch-wordpress # terraform-oci-arch-wordpress
+  https://github.com/oracle-devrel/oci-arch-queue-oke-demo # oci-arch-queue-oke-demo
+  https://github.com/oracle-devrel/oci-arch-rubyonrails-mds # Simple Ruby on Rails Application on Oracle Cloud Infrastructure
+  https://github.com/oracle-devrel/terraform-oci-arch-lakehouse-mds # terraform-oci-arch-lakehouse-mds
+  https://github.com/oracle-devrel/terraform-oci-arch-asp-net # terraform-oci-arch-asp-net
+  https://github.com/oracle-devrel/terraform-oci-arch-wordpress-matomo # terraform-oci-arch-wordpress-matomo
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-dataintegration # OCI Cloud Bricks: data integration
+  https://github.com/oracle-devrel/terraform-oci-multi-arch-generic-compute # terraform-oci-multi-arch-generic-compute
+  https://github.com/oracle-devrel/terraform-oci-arch-iot-streaming #
+  https://github.com/oracle-devrel/pi-day23-tutorial # Pi-Day23-Tutorial
+  https://github.com/oracle-devrel/terraform-oci-arch-logging-splunk # terraform-oci-logging-splunk
+  https://github.com/oracle-devrel/terraform-oci-cloud-camera # Cloud camera processing environment in OCI
+  https://github.com/oracle-devrel/nodered_mqtt_db23c # nodered_MQTT_db23c
+  https://github.com/oracle-devrel/redbull-pit-strategy # redbull-pit-strategy
+  https://github.com/oracle-devrel/oci-arch-oke-gitops-argo-cd # oci-arch-oke-gitops-argo-cd
+  https://github.com/oracle-devrel/terraform-oci-rsa-bastion # Bastion Terraform Module on OCI
+  https://github.com/oracle-devrel/terraform-oci-arch-shared-volume # terraform-oci-arch-shared-volume
+  https://github.com/oracle-devrel/terraform-oci-arch-tags # terraform-oci-arch-tags
+  https://github.com/oracle-devrel/terraform-oci-arch-cassandra # terraform-oci-arch-cassandra
+  https://github.com/oracle-devrel/oci-container-instances-examples # oci-container-instances-examples
+  https://github.com/oracle-devrel/terraform-oci-arch-virtual-firewall # terraform-oci-arch-virtual-firewall
+  https://github.com/oracle-devrel/terraform-oci-arch-data-flow # terraform-oci-arch-data-flow
+  https://github.com/oracle-devrel/terraform-oci-ocloud-component-host # terraform-oci-ocloud-component-host
+  https://github.com/oracle-devrel/terraform-oci-arch-opensearch # terraform-oci-arch-opensearch
+  https://github.com/oracle-devrel/terraform-oci-oke-osok-install # terraform-oci-oke-osok-install
+  https://github.com/oracle-devrel/terraform-oci-arch-oke-mds # terraform-oci-arch-oke-mds
+  https://github.com/oracle-devrel/oci-s3-tfstate-file-locking # oci-s3-tfstate-file-locking
+  https://github.com/oracle-devrel/terraform-oci-arch-spring-boot # terraform-oci-arch-spring-boot
+  https://github.com/oracle-devrel/terraform-oci-arch-atp-private # ATP Private Endpoint
+  https://github.com/oracle-devrel/terraform-oci-lakehouse # Deploy a data lakehouse architecture on OCI
+  https://github.com/oracle-devrel/terraform-guardrails # terraform-guardrails
+  https://github.com/oracle-devrel/terraform-oci-arch-autoscaling # Oracle Cloud Insfrastruture Autoscaling Web application
+  https://github.com/oracle-devrel/oci-terraform-genai-service-infra # oci-terraform-genai-service-infra
+  https://github.com/oracle-devrel/terraform-oci-arch-cockroachdb # terraform-oci-arch-cockroachdb
+  https://github.com/oracle-devrel/terraform-oci-arch-gluster # terraform-oci-arch-gluster
+  https://github.com/oracle-devrel/terraform-oci-arch-moodle-mds # terraform-oci-arch-moodle-mds
+  https://github.com/oracle-devrel/terraform-oci-arch-joomla-mds # terraform-oci-arch-joomla-mds
+  https://github.com/oracle-devrel/terraform-oci-arch-lustre # terraform-oci-arch-lustre
+  https://github.com/oracle-devrel/terraform-oci-wearable-health-app # terraform-oci-wearable-health-app
+  https://github.com/oracle-devrel/terraform-oci-arch-data-science # terraform-oci-arch-data-science
+  https://github.com/oracle-devrel/terraform-oci-cd3 # terraform-oci-cd3
+  https://github.com/oracle-devrel/terraform-oci-arch-spark # terraform-oci-arch-spark
+  https://github.com/oracle-devrel/terraform-oci-arch-queue # terraform-oci-arch-queue
+  https://github.com/oracle-devrel/terraform-oci-arch-tomcat-mds # Terraform to deploy Apache Tomcat on OCI
+  https://github.com/oracle-devrel/terraform-oci-arch-oac-heatwave # terraform-oci-arch-oac-heatwave
+  https://github.com/oracle-devrel/terraform-oci-arch-magento-redis # terraform-oci-arch-magento-redis
+  https://github.com/oracle-devrel/terraform-oci-arch-devops-cicd-oke-helm # terraform-oci-arch-devops-cicd-oke-helm
+  https://github.com/oracle-devrel/terraform-oci-arch-service-mesh-oke # terraform-oci-arch-service-mesh-oke
+  https://github.com/oracle-devrel/terraform-oci-ruby # A sample showing how Ruby (and Ruby on Rails) might be installed on OCI
+  https://github.com/oracle-devrel/terraform-oci-arch-oke-autoscale-gitlab-runners # terraform-oci-arch-oke-autoscale-gitlab-runners
+  https://github.com/oracle-devrel/terraform-oci-arch-template # terraform-oci-arch-template
+  https://github.com/oracle-devrel/terraform-oci-arch-jboss-wildfly-atp # terraform-oci-arch-jboss-wildfly-atp
+  https://github.com/oracle-devrel/terraform-oci-cassandra # terraform-oci-cassandra
+  https://github.com/oracle-devrel/terraform-oci-hybrid-dns # An example of how to use hybrid DNS in OCI
+  https://github.com/oracle-devrel/terraform-oci-blender # terraform-oci-blender
+  https://github.com/oracle-devrel/terraform-oci-cts-example # CTS on OCI Example
+  https://github.com/oracle-devrel/oci-oke-terraform # oci-oke-terraform
+  https://github.com/oracle-devrel/terraform-oci-arch-policies # terraform-oci-arch-policies
+  https://github.com/oracle-devrel/terraform-oci-ocloud-component-oke # A Terraform framework for deploying to Oracle Cloud Infrastru
+  cture. This is the application module used in the framework. https://github.com/oracle-devrel/terraform-oci-arch-clamd-object-storage # terraform-oci-arch-clamd-object-storage
+  https://github.com/oracle-devrel/pulumi-python-oci-devops-oke # pulumi-python-oci-devops-oke
+  https://github.com/oracle-devrel/openmpi-oci # openMPI-OCI
+  https://github.com/oracle-devrel/terraform-oci-k3s # terraform-oci-k3s
+  https://github.com/oracle-devrel/terraform-oci-arch-joomla # terraform-oci-arch-joomla
+  https://github.com/oracle-devrel/oci-arch-virtual-disk-import # oci-arch-virtual-disk-import
+  https://github.com/oracle-devrel/terraform-oci-arch-rms-private-endpoint # terraform-oci-arch-rms-private-endpoint
+  https://github.com/oracle-devrel/devrocks-oci-terraform-modules # devrocks-oci-terraform-modules
+  https://github.com/oracle-devrel/terraform-oci-arch-drupal # terraform-oci-arch-drupal
+  https://github.com/oracle-devrel/terraform-oci-arch-devops # terraform-oci-arch-devops
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-cms # terraform-oci-cloudbricks-cms
+  https://github.com/oracle-devrel/terraform-oci-arch-tomcat # terraform-oci-arch-tomcat
+  https://github.com/oracle-devrel/terraform-oci-arch-moodle # terraform-oci-arch-moodle
+  https://github.com/oracle-devrel/terraform-oci-ocloud-attachment # terraform-oci-ocloud-attachment
+  https://github.com/oracle-devrel/terraform-oci-arch-networks # terraform-oci-arch-networks
+  https://github.com/oracle-devrel/terraform-oci-ocloud-core # terraform-oci-ocloud-configuration
+  https://github.com/oracle-devrel/terraform-oci-arch-vpn # terraform-oci-arch-vpn
+  https://github.com/oracle-devrel/terraform-oci-automation-ci # terraform-oci-automation-ci
+  https://github.com/oracle-devrel/terraform-oci-ocloud-asset-network # terraform-oci-ocloud-asset-network
+  https://github.com/oracle-devrel/oci-lsf-resource-connector # oci-lsf-resource-connector
+  https://github.com/oracle-devrel/terraform-oci-arch-embedded-finance # terraform-oci-arch-embedded-finance
+  https://github.com/oracle-devrel/terraform-oci-ocloud-asset-database # terraform-oci-ocloud-asset-database
+  https://github.com/oracle-devrel/terraform-oci-arch-api-gateway # terraform-oci-arch-api-gateway
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-bastionservice-sessions # terraform-oci-cloudbricks-bastionservice-sessi
+  ons https://github.com/oracle-devrel/terraform-oci-arch-ords-ha # terraform-oci-arch-ords-ha
+  https://github.com/oracle-devrel/terraform-oci-ocloud-asset-resident # terraform-oci-ocloud-asset-resident
+  https://github.com/oracle-devrel/terraform-oci-ocloud-asset-encryption # terraform-oci-ocloud-asset-encryption
+  https://github.com/oracle-devrel/terraform-oci-arch-cert-authority # terraform-oci-arch-cert-authority
+  https://github.com/oracle-devrel/terraform-oci-arch-racing-montecarlo # terraform-oci-arch-racing-montecarlo
+  https://github.com/oracle-devrel/terraform-oci-cloudbricks-bastionservice # OCI Cloud Bricks: Bastion
+  https://github.com/oracle-devrel/terraform-oci-arch-oss-data-analytics # terraform-oci-arch-oss-data-analytics
+  https://github.com/oracle-devrel/terraform-oci-arch-hpc-runbook-gromacs # terraform-oci-arch-hpc-runbook-gromacs
+  https://github.com/oracle-devrel/terraform-oci-arch-hpc-runbook-openfoam # terraform-oci-arch-hpc-runbook-openfoam
+  https://github.com/oracle-devrel/terraform-oci-arch-hpc-runbook-fluent # terraform-oci-arch-hpc-runbook-fluent
+  https://github.com/oracle-devrel/terraform-oci-arch-hpc-runbook-parabricks # terraform-oci-arch-hpc-runbook-parabricks
+  https://github.com/oracle-devrel/terraform-oci-arch-hpc-runbook-lsdyna # terraform-oci-arch-hpc-runbook-lsdyna
+  https://github.com/oracle-devrel/terraform-oci-arch-hpc-runbook-starccm # terraform-oci-arch-hpc-runbook-starccm
+  https://github.com/oracle-devrel/terraform-oci-arch-media-job-processing # terraform-oci-arch-media-job-processing
+  https://github.com/oracle-devrel/terraform-oci-arch-hpc-runbook-namd # terraform-oci-arch-hpc-runbook-namd
+  https://github.com/oracle-devrel/terraform-oci-ocloud-component-db # A Terraform framework for deploying to Oracle Cloud Infrastruc
+  ture. This is the database module used in the framework. https://github.com/oracle-devrel/oci-cyber-recovery-tenancy # oci-cyber-recovery-tenancy
+  https://github.com/oracle-devrel/terraform-oci-arch-data-science-health-care # terraform-oci-arch-data-science-health-care
+  https://github.com/oracle-devrel/terraform-oci-arch-ruby-rails-devops-pipeline # terraform-oci-arch-ruby-rails-devops-pipeline
+  https://github.com/oracle-devrel/arch-virus-scanning-with-oke-autoscaling # arch-virus-scanning-with-oke-autoscaling
+  https://github.com/oracle-devrel/oci-arch-oke-api-graphql # oci-arch-oke-api-graphql
+  https://github.com/oracle/terraform-provider-oci # Terraform Oracle Cloud Infrastructure provider
+  https://github.com/oracle/nosql-examples # This is a top level repository for code examples related to the use of Oracle NoSQL Data
+  base. https://github.com/oracle/db-sharding # Oracle Sharded database deployment automation and tools for use in client applications.
+  https://github.com/oracle/oci-designer-toolkit # OCI designer toolKIT (OKIT) is a set of tools for enabling design, deploy and visu
+  alise OCI environments through a graphical web based interface. https://github.com/oracle/oci-grafana-metrics # Grafana datasource plugin for OCI metrics
+  https://github.com/oracle/free # Free Oracle technologies for Developers
+  https://github.com/oracle/oci-grafana-logs # Grafana datasource plugin for OCI logs

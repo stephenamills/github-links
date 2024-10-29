@@ -1,0 +1,22 @@
+https://github.com/oracle-quickstart/oci-ebs # Terraform module to deploy Oracle E-Business Suite (EBS) on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-hyperion # Terraform module to deploy Hyperion on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-nfs # NFS server deployment in Highly Available Active Passive mode or Single node NFS with local NVMe or Block Storage.
+https://github.com/oracle-quickstart/oci-lustre # Terraform template to deploy the DDN Lustre distributed file system on OCI
+https://github.com/oracle-quickstart/oci-arch-vip # Terraform automation that provisions Floating IP(VIP) emulation on the Oracle Cloud Infrastructure(OCI).
+https://github.com/oracle-quickstart/oci-kinetica # Terraform module to deploy Kinetica on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-arch-ha-scheduler # This automation provisions an HA Scheduler on OCI
+https://github.com/oracle-quickstart/oci-quobyte # Quobyte file system (https://www.quobyte.com)
+https://github.com/oracle-quickstart/oci-migrate-ad # Scripts to migrate compute resources between Avvailability Domains
+https://github.com/oracle-quickstart/oci-hpc-runbook-fluent # HPC Fluent
+
+https://github.com/oracle-samples/orm-docker-compute-stack-sample # Sample code which demonstrates how to use OCI Resource Manager to automate the install and configuration of Docker and Docker Compose in a compute instance and configures a container running Jaeger tracing service as an example.
+
+https://github.com/oracle-devrel/terraform-oci-arch-redis # terraform-oci-arch-redis
+https://github.com/oracle-devrel/oci-arch-virtual-disk-import # oci-arch-virtual-disk-import
+https://github.com/oracle-devrel/terraform-oci-arch-shared-volume # terraform-oci-arch-shared-volume
+https://github.com/oracle-devrel/terraform-oci-arch-lustre # terraform-oci-arch-lustre
+https://github.com/oracle-devrel/terraform-oci-ocloud-component-oke # A Terraform framework for deploying to Oracle Cloud Infrastructure. This is the application module used in the framework.
+
+https://github.com/oracle/zfssa-csi-driver # Kubernetes Container Storage Interface (CSI) plug-in for Oracle ZFS Storage Appliance.
+https://github.com/oracle/free # Free Oracle technologies for Developers
+https://github.com/oracle/oci-ruby-sdk # Ruby SDK for Oracle Cloud Infrastructure

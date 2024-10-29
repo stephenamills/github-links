@@ -1,0 +1,40 @@
+https://github.com/oracle-quickstart/oci-ods-orm # Deploy Oracle Data Science using Resource Manager and Terraform
+https://github.com/oracle-quickstart/oci-essbase # Terraform module to deploy Essbase on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-airflow # Apache Airflow on Oracle Cloud Infrastructure
+https://github.com/oracle-quickstart/oke-airflow #
+https://github.com/oracle-quickstart/oci-digital-assistant-external-services #
+https://github.com/oracle-quickstart/oci-peoplesoft-monitoring #
+https://github.com/oracle-quickstart/appstack # App Stack
+https://github.com/oracle-quickstart/oci-jde-monitoring #
+https://github.com/oracle-quickstart/oci-siebel-monitoring #
+https://github.com/oracle-quickstart/terraform-oci-oke-quickstart # Base OKE automated deployment with extras, to be used alone or
+by other Quickstarts https://github.com/oracle-quickstart/oke-soa #
+https://github.com/oracle-quickstart/processes_monitoring # Monitor your processes on Windows and Linux Instances on OCI Metrics Ex
+plorer. https://github.com/oracle-quickstart/oke-transcoder # FFMPEG transcoder on OCI OKE.
+https://github.com/oracle-quickstart/oci-dls # Deploy Oracle Data Labeling Service using Resource Manager and Terraform
+https://github.com/oracle-samples/oracle-functions-samples # Examples demonstrating how to use Oracle Functions
+https://github.com/oracle-samples/oci-data-science-ai-samples # This repo contains a series of tutorials and code examples highligh
+ting different features of the OCI Data Science and AI services, along with a release vehicle for experimental programs. https://github.com/oracle-samples/sample-serverless-saas-erp-dataload # Sample code demonstrating how you can use Oracle Cloud Infr
+astructure serverless components to load data into Oracle Fusion ERP https://github.com/oracle-samples/fusion-cloudnative-360-sample # Sample showing how Oracle Cloud Functions can be used to process
+Oracle CX Sales data https://github.com/oracle-samples/vbcs-oic-fs-identity-propagation-sample # Working end-to-end example of user identity propagation
+from Visual Builder through Integration Cloud to Fusion Applications and back. https://github.com/oracle-samples/oci-streaming-datasync-sample #
+https://github.com/oracle-samples/oci-autonomous-json-db-datasync-sample # This solution shows how you can use Oracle Cloud Infrast
+ructure (OCI) cloud native services to build a serverless data syncing solution. There are various approaches to build a data sync middle tier using OCI. This one uses Autonomous JSON DB(AJD), API Gateway, Functions, Vault, OCI Registry. https://github.com/oracle-samples/gdk-micronaut-samples # Code Samples for the Graal Development Kit for Micronaut (GDK)
+https://github.com/oracle-samples/hcm-onboarding-photo-sample #
+https://github.com/oracle-devrel/terraform-oci-ocloud-foundation # A Terraform framework for deploying to Oracle Cloud Infrastructu
+re. This is the landing zone (starting point) for the framework. https://github.com/oracle-devrel/terraform-oci-arch-devops-deploy-helm-and-ci # terraform-oci-arch-devops-deploy-helm-and-ci
+https://github.com/oracle-devrel/oci-container-instances-examples # oci-container-instances-examples
+https://github.com/oracle-devrel/azure-devops-oracle-database # azure-devops-oracle-database
+https://github.com/oracle-devrel/oci-tf-vision-web-client # oci-tf-vision-web-client
+https://github.com/oracle-devrel/pulumi-python-oci-oke # pulumi-python-oci-oke
+https://github.com/oracle-devrel/pulumi-python-oci-instances # pulumi-python-oci-instances
+https://github.com/oracle-devrel/go-oke-isv-fn-nodepool-tagger # Automating a Pod Identity Solution with Oracle Container Engine fo
+r Kubernetes (OKE) https://github.com/oracle-devrel/terraform-oci-wearable-health-app # terraform-oci-wearable-health-app
+https://github.com/oracle/oci-secrets-store-csi-driver-provider #
+https://github.com/oracle/oracle-database-operator # The Oracle Database Operator for Kubernetes (a.k.a. OraOperator) helps develop
+ers, DBAs, DevOps and GitOps teams reduce the time and complexity of deploying and managing Oracle Databases. It eliminates the dependency on a human operator or administrator for the majority of database operations. https://github.com/oracle/centos2ol # Script and documentation to switch CentOS/Rocky Linux to Oracle Linux
+https://github.com/oracle/spring-cloud-oracle # Spring Cloud Oracle, eases the integration with Oracle Database and OCI services, a
+nd offers a convenient way to interact with Oracle Database and OCI-provided services using well-known Spring idioms and APIs. https://github.com/oracle/accelerated-data-science # ADS is the Oracle Data Science Cloud Service's python SDK supporting, model op
+s (train/eval/deploy), along with running workloads on Jobs and Pipeline resources. https://github.com/oracle/oracle-db-appdev-monitoring # Metrics exporter and samples for unified observability for data-centric app
+dev and microservices https://github.com/oracle/weblogic-azure # This project offers support for running Oracle WebLogic Server in the Azure Virtual Mach
+ines and Azure Kubernetes Service (AKS) https://github.com/oracle/oci-ruby-sdk # Ruby SDK for Oracle Cloud Infrastructure

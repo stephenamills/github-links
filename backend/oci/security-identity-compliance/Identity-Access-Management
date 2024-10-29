@@ -1,0 +1,53 @@
+https://github.com/oracle-quickstart/oci-ods-orm # Deploy Oracle Data Science using Resource Manager and Terraform
+https://github.com/oracle-quickstart/oci-management-agent # OCI O&M Management Agent
+https://github.com/oracle-quickstart/oci-adoption-framework-thunder #
+https://github.com/oracle-quickstart/oci-arch-ha-scheduler # This automation provisions an HA Scheduler on OCI
+https://github.com/oracle-quickstart/oke-airflow #
+https://github.com/oracle-quickstart/oci-dls # Deploy Oracle Data Labeling Service using Resource Manager and Terraform
+https://github.com/oracle-quickstart/oci-kubernetes-monitoring # Kubernetes Monitoring with OCI Observability & Management Platform
+https://github.com/oracle-quickstart/appstack # App Stack
+https://github.com/oracle-quickstart/oci-arch-vip # Terraform automation that provisions Floating IP(VIP) emulation on the Oracle C
+loud Infrastructure(OCI). https://github.com/oracle-quickstart/oci-migrate-ad # Scripts to migrate compute resources between Avvailability Domains
+https://github.com/oracle-quickstart/oci-vtap-archiver # Archive VTAP Traffic to OCI Object Storage
+https://github.com/oracle-quickstart/oci-limit-monitoring #
+https://github.com/oracle-quickstart/oci-hpc-data-mover # OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system
+data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI. It's designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth. It can scale to n worker nodes. https://github.com/oracle-quickstart/oke-transcoder # FFMPEG transcoder on OCI OKE.
+https://github.com/oracle-quickstart/oci-arch-hybrid-dns # Provision a hybrid DNS solution in Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-samples/idm-samples # Oracle's official repository for Identity Management (IDM) code samples and snippet
+s. https://github.com/oracle-samples/oracle-functions-samples # Examples demonstrating how to use Oracle Functions
+https://github.com/oracle-samples/pushiomanager-flutter # Flutter plugin for Responsys Mobile SDK
+https://github.com/oracle-samples/oracle-dis-samples # Terraform OCI Data Integration Services Architecture
+https://github.com/oracle-samples/hcm-onboarding-photo-sample #
+https://github.com/oracle-samples/oci-streaming-datasync-sample #
+https://github.com/oracle-samples/oci-autonomous-json-db-datasync-sample # This solution shows how you can use Oracle Cloud Infrast
+ructure (OCI) cloud native services to build a serverless data syncing solution. There are various approaches to build a data sync middle tier using OCI. This one uses Autonomous JSON DB(AJD), API Gateway, Functions, Vault, OCI Registry. https://github.com/oracle-devrel/cd3-automation-toolkit # The CD3 Automation Toolkit generates Terraform modules from a design spec
+in an Excel sheet. It also enables a user to export an OCI tenancy into Excel and corresponding TF modules (and associated tfvars)https://github.com/oracle-devrel/terraform-oci-arch-oke-virtual-node # terraform-oci-arch-oke-virtual-node
+https://github.com/oracle-devrel/go-oke-isv-fn-nodepool-tagger # Automating a Pod Identity Solution with Oracle Container Engine fo
+r Kubernetes (OKE) https://github.com/oracle-devrel/splunk-export-audit # splunk-export-audit
+https://github.com/oracle-devrel/oci-jet-garage-clock # oci-jet-garage-clock
+https://github.com/oracle-devrel/terraform-oci-rsa-wazuh # Wazuh Terraform Module on OCI
+https://github.com/oracle-devrel/oci-generative-ai # oci-generative-ai
+https://github.com/oracle-devrel/oci-arch-custom-dns-fn # oci-arch-custom-dns-fn
+https://github.com/oracle-devrel/oci-arch-queue-demo # oci-arch-queue-demo
+https://github.com/oracle-devrel/oke-bastion # oke-bastion
+https://github.com/oracle-devrel/oci-fn-nosql # oci-fn-nosql
+https://github.com/oracle-devrel/terraform-oci-cd3 # terraform-oci-cd3
+https://github.com/oracle-devrel/otic-blog-colon-dataflows # otic-blog-colon-dataflows
+https://github.com/oracle-devrel/terraform-oci-arch-data-flow # terraform-oci-arch-data-flow
+https://github.com/oracle-devrel/oci-fn-streaming # oci-fn-streaming
+https://github.com/oracle-devrel/oci-arch-virtual-disk-import # oci-arch-virtual-disk-import
+https://github.com/oracle-devrel/select-ai-autonomous-db-query-oci # select-ai-autonomous-db-query-oci
+https://github.com/oracle/pushiomanager-react-native # React Native Module for Responsys SDK
+https://github.com/oracle/oci-grafana-metrics # Grafana datasource plugin for OCI metrics
+https://github.com/oracle/nosql-go-sdk # SDK for Go for Oracle NoSQL Database
+https://github.com/oracle/oci-grafana-logs # Grafana datasource plugin for OCI logs
+https://github.com/oracle/pushiomanager-cordova-plugin # Cordova Plugin for Oracle Responsys Mobile SDK
+https://github.com/oracle/ocifs # ocifs provides a POSIX-compatible API wrapping Oracle Cloud Infrastructure's (OCI) Object Storage
+. ocifs is a python library that relies on the fsspec framework. https://github.com/oracle/nosql-java-sdk # SDK for Java for the Oracle NoSQL Database
+https://github.com/oracle/nosql-spring-sdk # SDK for Spring Data for Oracle NoSQL Database
+https://github.com/oracle/nosql-node-sdk # Node.js SDK for Oracle NoSQL Database
+https://github.com/oracle/nosql-python-sdk # Python SDK for Oracle NoSQL Database
+https://github.com/oracle/oci-compute-jenkins-plugin # Jenkins Plugin for Oracle Cloud Infrastructure (Compute)
+https://github.com/oracle/oci-ruby-sdk # Ruby SDK for Oracle Cloud Infrastructure
+https://github.com/oracle/content-and-experience-toolkit # The Oracle Content Management Toolkit and SDKs help you develop custom a
+pplications that consume content that is managed in the OCM repository. These applications can be developed in the Content Management Cloud or using 3rd party tools.

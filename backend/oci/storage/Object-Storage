@@ -1,0 +1,79 @@
+https://github.com/oracle-quickstart/oci-adoption-framework-thunder #
+https://github.com/oracle-quickstart/oci-hpc # Terraform examples for deploying HPC clusters on OCI
+https://github.com/oracle-quickstart/oci-byo-image #
+https://github.com/oracle-quickstart/oci-cloud-native-sftp # Terraform module to deploy a cloud-native SFTP solution on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-ibm-spectrum-scale # Terraform template to deploy IBM Spectrum Scale on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-digital-assistant-external-services #
+https://github.com/oracle-quickstart/oci-mlflow #
+https://github.com/oracle-quickstart/oci-hpc-runbook-starccm #
+https://github.com/oracle-quickstart/oke-airflow #
+https://github.com/oracle-quickstart/oci-hpc-data-mover # OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI. It's designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth. It can scale to n worker nodes.
+https://github.com/oracle-quickstart/oci-vtap-archiver # Archive VTAP Traffic to OCI Object Storage
+https://github.com/oracle-quickstart/oci-peoplesoft-monitoring #
+https://github.com/oracle-quickstart/oke-flink # Apache Flink on OKE
+https://github.com/oracle-quickstart/oke-transcoder # FFMPEG transcoder on OCI OKE.
+https://github.com/oracle-quickstart/oci-arch-dataflow-store-analyze-data # Store and analyze your on-premises logs in Oracle Cloud Infrastructure
+https://github.com/oracle-quickstart/oci-jde-monitoring #
+https://github.com/oracle-quickstart/oci-limit-monitoring #
+https://github.com/oracle-quickstart/oci-siebel-monitoring #
+https://github.com/oracle-quickstart/from-vmdk-to-compute # Automated solution that will create a Custom Image when a vmdk is uploaded in a designated bucket and then a Compute Instance based on that Custom Image.
+https://github.com/oracle-quickstart/oci-hpc-runbook-parabricks #
+https://github.com/oracle-quickstart/oci-chef # Terraform module to deploy Chef on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-hpc-runbook-lsdyna # HPC Lsdyna
+https://github.com/oracle-quickstart/oci-hpc-runbook-fluent # HPC Fluent
+https://github.com/oracle-quickstart/oci-arch-lbs-custom-error # Code repo for OCI load balancer custom errror page
+https://github.com/oracle-quickstart/oci-ocvs-dr # Template for rapid deployment of Disaster Recovery Architecture with optional Oracle Cloud VMware Solution (OCVS).
+
+https://github.com/oracle-samples/oracle-functions-samples # Examples demonstrating how to use Oracle Functions
+https://github.com/oracle-samples/usage-reports-to-adw # Usage2adw is a tool which uses the Python SDK to extract the usage and cost reports from your tenant and load it to Oracle Autonomous Database. (DbaaS can be used as well) Authentication to OCI by User or instance principals.
+https://github.com/oracle-samples/crossplane-provider-oci # Crossplane provider for Oracle Cloud Infrastructure(OCI)
+https://github.com/oracle-samples/sample-serverless-saas-erp-dataload # Sample code demonstrating how you can use Oracle Cloud Infrastructure serverless components to load data into Oracle Fusion ERP
+https://github.com/oracle-samples/fusion-cloudnative-360-sample # Sample showing how Oracle Cloud Functions can be used to process
+Oracle CX Sales data
+https://github.com/oracle-samples/oci-vscode-toolkit # OCI Toolkit for VSCode - Functions, Data Science, Resource Manager
+https://github.com/oracle-samples/bicc-extract-logs-server-sample #
+https://github.com/oracle-samples/ocifs-fuse # OCIFS is a filesystem to mount OCI Object Storage buckets
+https://github.com/oracle-samples/oci-streaming-datasync-sample #
+https://github.com/oracle-samples/hcm-onboarding-photo-sample #
+https://github.com/oracle-samples/gdk-micronaut-samples # Code Samples for the Graal Development Kit for Micronaut (GDK)
+
+https://github.com/oracle-devrel/oci-wearable-health-app # oci-wearable-demo
+https://github.com/oracle-devrel/terraform-oci-arch-fn-app # Terraform code to deploy an event-triggered serverless function
+https://github.com/oracle-devrel/terraform-oci-rsa-wazuh # Wazuh Terraform Module on OCI
+https://github.com/oracle-devrel/terraform-oci-arch-clamd-object-storage # terraform-oci-arch-clamd-object-storage
+https://github.com/oracle-devrel/pi-day23-tutorial # Pi-Day23-Tutorial
+https://github.com/oracle-devrel/oci-fn-nosql # oci-fn-nosql
+https://github.com/oracle-devrel/go-oke-isv-fn-nodepool-tagger # Automating a Pod Identity Solution with Oracle Container Engine for Kubernetes (OKE)
+https://github.com/oracle-devrel/terraform-oci-arch-devops-deploy-helm-and-ci # terraform-oci-arch-devops-deploy-helm-and-ci
+https://github.com/oracle-devrel/oci-genai-finetuning # Learn how to efficiently fine-tune large language models (LLMs) in the OCI Generative AI playground.
+https://github.com/oracle-devrel/terraform-oci-arch-data-flow # terraform-oci-arch-data-flow
+https://github.com/oracle-devrel/langchain-oci-genai # langchain-oci-genai
+https://github.com/oracle-devrel/otic-blog-colon-dataflows # otic-blog-colon-dataflows
+https://github.com/oracle-devrel/oci-vision-ai # Discover OCI Vision for object detection in manufacturing, retail, and other industries. Improve quality control and analysis with advanced AI technology.
+https://github.com/oracle-devrel/terraform-oci-arch-load-file-into-adw-python # This reference architecture shows how you can use a serverless function to automate the process of extracting data from files generated by various databases or applications and loading the data into a data warehouse for analysis.
+https://github.com/oracle-devrel/terraform-oci-arch-lakehouse-mds # terraform-oci-arch-lakehouse-mds
+https://github.com/oracle-devrel/oci-arch-virtual-disk-import # oci-arch-virtual-disk-import
+https://github.com/oracle-devrel/arch-virus-scanning-with-oke-autoscaling # arch-virus-scanning-with-oke-autoscaling
+https://github.com/oracle-devrel/terraform-oci-rsa-bastion # Bastion Terraform Module on OCI
+https://github.com/oracle-devrel/oci-terraform-genai-service-infra # oci-terraform-genai-service-infra
+https://github.com/oracle-devrel/terraform-oci-lakehouse # Deploy a data lakehouse architecture on OCI
+https://github.com/oracle-devrel/oci-fn-streaming # oci-fn-streaming
+https://github.com/oracle-devrel/mpack-replay # mpack-replay
+https://github.com/oracle-devrel/cms-secured-by-blockchain # CMS-Secured-by-Blockchain
+https://github.com/oracle-devrel/image-classification-digital-assistant-genai # image-classification-digital-assistant-genai
+https://github.com/oracle-devrel/oci-k8s-hf-inference # oci-k8s-hf-inference
+https://github.com/oracle-devrel/oci-s3-tfstate-file-locking # oci-s3-tfstate-file-locking
+https://github.com/oracle-devrel/oci-ai-invoice-handling # oci-ai-invoice-handling
+https://github.com/oracle-devrel/terraform-oci-ocloud-component-db # A Terraform framework for deploying to Oracle Cloud Infrastructure. This is the database module used in the framework.
+
+https://github.com/oracle/accelerated-data-science # ADS is the Oracle Data Science Cloud Service's python SDK supporting, model ops (train/eval/deploy), along with running workloads on Jobs and Pipeline resources.
+https://github.com/oracle/oci-hdfs-connector # HDFS Connector for Oracle Cloud Infrastructure
+https://github.com/oracle/ocifs # ocifs provides a POSIX-compatible API wrapping Oracle Cloud Infrastructure's (OCI) Object Storage. ocifs is a python library that relies on the fsspec framework.
+https://github.com/oracle/heatwave-tpch # SQL scripts for HeatWave benchmarking
+https://github.com/oracle/oci-mlflow # The Oracle Cloud Infrastructure (OCI) MLflow plugin empowers users of OCI by providing seamless integration with OCI resources, allowing them to effectively manage the entire life cycle of their machine learning use cases.
+https://github.com/oracle/free # Free Oracle technologies for Developers
+https://github.com/oracle/spring-cloud-oracle # Spring Cloud Oracle, eases the integration with Oracle Database and OCI services, and offers a convenient way to interact with Oracle Database and OCI-provided services using well-known Spring idioms and APIs.
+https://github.com/oracle/oci-toolkit-eclipse # Oracle Cloud Infrastructure Toolkit for Eclipse
+https://github.com/oracle/oci-ruby-sdk # Ruby SDK for Oracle Cloud Infrastructure
+https://github.com/oracle/oci-java-sdk # Oracle Cloud Infrastructure SDK for Java
+https://github.com/oracle/ansible-database-migration-tool # Ansible Database Migration Tool utility has been developed with an objective to provide a quick and easy way to move Oracle Cloud Infrastructure Classic (OCI-C) databases to Oracle Cloud Infrastructure (OCI) without setting up DataGuard.

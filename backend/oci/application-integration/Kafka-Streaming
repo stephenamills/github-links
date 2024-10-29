@@ -1,0 +1,12 @@
+https://github.com/oracle-quickstart/oci-kafka # Terraform module to deploy Kafka on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-logan-fluentd-output-plugin #
+https://github.com/oracle-quickstart/oke-flink # Apache Flink on OKE
+https://github.com/oracle-samples/oracle-dataflow-samples # Sample examples Examples demonstrating how to use OCI Data Flow
+https://github.com/oracle/okafka # Kafka Java Client for Oracle Transactional Event Queues
+https://github.com/oracle/coherence-kafka # Coherence Kafka Integration
+https://github.com/oracle/hiq # HiQ - Observability And Optimization In Modern AI Era
+
+https://github.com/oracle-quickstart/oke-unreal-pixel-streaming # Unreal Engine Pixel Streaming Quickstart on OKE
+https://github.com/oracle-samples/oci-streaming-datasync-sample #
+https://github.com/oracle-devrel/terraform-oci-arch-iot-streaming #
+https://github.com/oracle-devrel/oci-fn-streaming # oci-fn-streaming

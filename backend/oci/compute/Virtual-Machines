@@ -1,0 +1,29 @@
+https://github.com/oracle-quickstart/oci-tableau # Terraform module to deploy Tableau on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-nfs # NFS server deployment in Highly Available Active Passive mode or Single node NFS wit
+h local NVMe or Block Storage. https://github.com/oracle-quickstart/oci-quickstart-template # Template for OCI Quick Starts
+https://github.com/oracle-quickstart/oke-airflow #
+https://github.com/oracle-quickstart/oci-github-actions-runner # Deployment of self-hosted GitHub Actions Runner on Oracle Cloud In
+frastructure https://github.com/oracle-quickstart/oci-transit-fw # Using a DRG to route traffic through a centralized network virtual appliance
+https://github.com/oracle-quickstart/oci-quobyte # Quobyte file system (https://www.quobyte.com)
+https://github.com/oracle-quickstart/oke-transcoder # FFMPEG transcoder on OCI OKE.
+https://github.com/oracle-quickstart/oci-carbon-black # Terraform module to deploy VMware Carbon Black solution on Oracle Cloud Inf
+rastructure (OCI) https://github.com/oracle-quickstart/oci-juniper #
+https://github.com/oracle-quickstart/oci-oracle-analytics-server # Terraform module to deploy Oracle Analytics Server on Oracle Clo
+ud Infrastructure (OCI) https://github.com/oracle-quickstart/oci-ocvs-dr # Template for rapid deployment of Disaster Recovery Architecture with optional Or
+acle Cloud VMware Solution (OCVS). https://github.com/oracle-samples/db-appdev-vm # Database Application Development Virtual Machine
+https://github.com/oracle-devrel/terraform-oci-arch-db-migration # terraform-oci-arch-db-migration
+https://github.com/oracle-devrel/oci-arch-queue-oke-demo # oci-arch-queue-oke-demo
+https://github.com/oracle-devrel/helm-oci-wordpress-high-availability-mds-nfs # helm-oci-wordpress-high-availability-mds-nfs
+https://github.com/oracle-devrel/terraform-oci-ocloud-component-db # A Terraform framework for deploying to Oracle Cloud Infrastruc
+ture. This is the database module used in the framework. https://github.com/oracle-devrel/terraform-oci-oke-osok-install # terraform-oci-oke-osok-install
+https://github.com/oracle-devrel/springai-rag-db23ai # springai-rag-db23ai
+https://github.com/oracle-devrel/helm-oci-mds-wordpress # helm-oci-mds-wordpress
+https://github.com/oracle-devrel/helm-oci-mysql # Helm chart to deploy a MySQL Database System (MDS) in a Kubernetes cluster on OCI
+https://github.com/oracle-devrel/terraform-oci-ocloud-component-oke # A Terraform framework for deploying to Oracle Cloud Infrastru
+cture. This is the application module used in the framework. https://github.com/oracle-devrel/helm-oci-autonomous-db # helm-oci-autonomous-db
+https://github.com/oracle/vagrant-projects # Vagrant projects for Oracle products and other examples
+https://github.com/oracle/oci-grafana-metrics # Grafana datasource plugin for OCI metrics
+https://github.com/oracle/oci-grafana-logs # Grafana datasource plugin for OCI logs
+https://github.com/oracle/weblogic-azure # This project offers support for running Oracle WebLogic Server in the Azure Virtual Mach
+ines and Azure Kubernetes Service (AKS) https://github.com/oracle/weblogic-remote-console # A WebLogic Console that connects remotely using the WebLogic Management REST AP
+I https://github.com/oracle/adb-free #

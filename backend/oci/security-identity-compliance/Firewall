@@ -1,0 +1,20 @@
+https://github.com/oracle-quickstart/oci-ebs # Terraform module to deploy Oracle E-Business Suite (EBS) on Oracle Cloud Infrastruct
+ure (OCI) https://github.com/oracle-quickstart/oci-sap # Terraform modules to prepare infrastructure and resources for deploying Oracle Datab
+ase based SAP apps on Oracle Cloud Infrastructure https://github.com/oracle-quickstart/webapp-python-oracledb-flask-api #
+https://github.com/oracle-quickstart/oci-cisco # Terraform module to deploy Cisco Products on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-quickstart/oci-network-firewall #
+https://github.com/oracle-quickstart/oci-mlflow #
+https://github.com/oracle-quickstart/oci-transit-fw # Using a DRG to route traffic through a centralized network virtual appliance
+https://github.com/oracle-quickstart/oci-ocvs-dr # Template for rapid deployment of Disaster Recovery Architecture with optional Or
+acle Cloud VMware Solution (OCVS). https://github.com/oracle-quickstart/oci-primavera # Terraform module to deploy Primavera on Oracle Cloud Infrastructure (OCI)
+https://github.com/oracle-devrel/cd3-automation-toolkit # The CD3 Automation Toolkit generates Terraform modules from a design spec
+in an Excel sheet. It also enables a user to export an OCI tenancy into Excel and corresponding TF modules (and associated tfvars)https://github.com/oracle-devrel/terraform-oci-ocloud-foundation # A Terraform framework for deploying to Oracle Cloud Infrastructu
+re. This is the landing zone (starting point) for the framework. https://github.com/oracle-devrel/terraform-oci-arch-virtual-firewall # terraform-oci-arch-virtual-firewall
+https://github.com/oracle-devrel/devo-tron-metaverse-room # TRON - metaverse room
+https://github.com/oracle-devrel/terraform-oci-ocloud-core # terraform-oci-ocloud-configuration
+https://github.com/oracle-devrel/springai-rag-db23ai # springai-rag-db23ai
+https://github.com/oracle-devrel/terraform-oci-ocloud-component-db # A Terraform framework for deploying to Oracle Cloud Infrastruc
+ture. This is the database module used in the framework. https://github.com/oracle-devrel/distributed-multi-node-model-training # distributed-multi-node-model-training
+https://github.com/oracle/weblogic-monitoring-exporter # WebLogic Monitoring Exporter exposes metrics and monitoring data through R
+EST APIs for consumption by other tools (e.g. Prometheus) https://github.com/oracle/zfssa-csi-driver # Kubernetes Container Storage Interface (CSI) plug-in for Oracle ZFS Storage Appliance.
+https://github.com/oracle/oci-ruby-sdk # Ruby SDK for Oracle Cloud Infrastructure

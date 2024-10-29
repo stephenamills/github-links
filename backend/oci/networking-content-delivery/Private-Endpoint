@@ -1,0 +1,17 @@
+https://github.com/oracle-quickstart/terraform-oci-oke-quickstart # Base OKE automated deployment with extras, to be used alone or
+by other Quickstarts https://github.com/oracle-quickstart/oci-adb #
+https://github.com/oracle-quickstart/oci-visual-builder #
+https://github.com/oracle-quickstart/oci-hpc # Terraform examples for deploying HPC clusters on OCI
+https://github.com/oracle-quickstart/oci-netfoundry # This repo contains terraform scripts to deploy NetFoundry Edge Routers into O
+CI VCN. https://github.com/oracle-samples/fusion-ords-identityprop-sample # Sample code showing how to do identity propagation between VBCS
+in Oracle SaaS environment and ORDS https://github.com/oracle-samples/oci-di-fa-imports-sample # OCI Function written in Golang to zip files for FA import using OCI DI
+https://github.com/oracle-devrel/terraform-oci-arch-adb # This is a Terraform module that deploys Autonomous Database (ADB) on Orac
+le Cloud Infrastructure (OCI). https://github.com/oracle-devrel/terraform-oci-arch-atp-private # ATP Private Endpoint
+https://github.com/oracle-devrel/terraform-oci-arch-rms-private-endpoint # terraform-oci-arch-rms-private-endpoint
+https://github.com/oracle-devrel/terraform-oci-cloudbricks-apex # Cloud Bricks framework: APEX
+https://github.com/oracle-devrel/terraform-oci-lakehouse # Deploy a data lakehouse architecture on OCI
+https://github.com/oracle-devrel/oci-wearable-health-app # oci-wearable-demo
+https://github.com/oracle-devrel/oke-bastion # oke-bastion
+https://github.com/oracle-devrel/terraform-oci-wearable-health-app # terraform-oci-wearable-health-app
+https://github.com/oracle/weblogic-azure # This project offers support for running Oracle WebLogic Server in the Azure Virtual Mach
+ines and Azure Kubernetes Service (AKS)

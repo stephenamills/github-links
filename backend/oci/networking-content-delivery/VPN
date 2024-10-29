@@ -1,0 +1,15 @@
+https://github.com/oracle-quickstart/oci-transit-fw # Using a DRG to route traffic through a centralized network virtual appliance
+https://github.com/oracle-quickstart/oci-hpc # Terraform examples for deploying HPC clusters on OCI
+https://github.com/oracle-quickstart/oci-cpe # Quickstart with Customer Premisses Equipment (CPE) simulated on OCI
+https://github.com/oracle-quickstart/oci-netfoundry # This repo contains terraform scripts to deploy NetFoundry Edge Routers into OCI VCN.
+https://github.com/oracle-quickstart/oci-hpc-data-mover # OCI HPC Data Mover Tool can be used to migrate/sync/replicate file system
+data from one source (POSIX file system) to another POSIX file system across regions, availability domains or on-premise to OCI. It's designed for faster migration by using mutiple nodes and multiple threads per node to fully utilize network bandwidth. It can scale to n worker nodes.
+https://github.com/oracle-quickstart/oci-ocvs-dr # Template for rapid deployment of Disaster Recovery Architecture with optional Or
+acle Cloud VMware Solution (OCVS).
+https://github.com/oracle-quickstart/oci-agile-plm # Module for Terraform to deploy Agile PLM on Oracle Cloud Infrastructure (OCI)
+
+Delivery Framework
+https://github.com/oracle-quickstart/oci-arch-enterprise-base # This module shows how to deploy a basic starting architecture that is suitable for many OCI environments, providing the foundational components needed to run 3-tier Enterprise Applications
+https://github.com/oracle-samples/db-appdev-vm # Database Application Development Virtual Machine
+https://github.com/oracle-devrel/terraform-oci-arch-vpn # terraform-oci-arch-vpn
+https://github.com/oracle/free # Free Oracle technologies for Developers
