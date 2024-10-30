@@ -1,0 +1,139 @@
+https://github.com/anyscale/academy # Ray tutorials from Anyscale
+https://github.com/anyscale/llm-router # Tutorial for building LLM router
+https://github.com/anyscale/e2e-llm-workflows # End-to-End LLM Guide
+https://github.com/anyscale/made-with-ml # 
+https://github.com/anyscale/rl-course # 
+https://github.com/anyscale/long-context-fine-tuning-blogpost # 
+https://github.com/anyscale/ray-summit-2022-training # This is the GitHub Repo for Ray Summit Training 2022
+https://github.com/anyscale/templates # 
+https://github.com/anyscale/cross-modal-search-ecommerce-project # A project between Anyscale and deepsense.ai implementing a cross-modal search application for e-commerce
+https://github.com/anyscale/ray-summit-demo-2020 # Demo Code for Ray Summit 2020.
+https://github.com/anyscale/endpoint-cookbook # Examples for Anyscale Endpoint
+https://github.com/anyscale/ray-summit-demo-2021-public # 
+https://github.com/anyscale/ray-templates # 
+https://github.com/anyscale/architectures # Architectural Patterns for Ray and Anyscale Enablement.
+https://github.com/anyscale/anyscale-mongodb-multi-modal-search-app # Mongodb multi-modal search prototype
+https://github.com/anyscale/blog # Public repository for Anyscale blog
+https://github.com/anyscale/onboarding # A minimal repository used to verify Anyscale onboarding.
+https://github.com/anyscale/e2e-nlp-template # An end-to-end NLP project template for anyscale product
+https://github.com/anyscale/docs_examples # 
+https://github.com/anyscale/training-one # This repo contains an intro to Ray and Anyscale
+https://github.com/anyscale/ux-slack-bot # 
+https://github.com/anyscale/tracing-example # Add OpenTelemetry tracing for a Ray Serve applications in an Anyscale Service
+https://github.com/anyscale/intro-to-ray-core # An intro to ray core
+https://github.com/anyscale/job-services-cuj-examples # 
+https://github.com/anyscale/example-llmserving-aviary # Example Starting Code for LLM Serving with Aviary
+https://github.com/anyscale/rl-end-to-end-tutorial # 
+https://github.com/anyscale/getting-started-webinar # Webinar code for getting started with Anyscale
+https://github.com/anyscale/first-job # Run your first Anyscale Job
+https://github.com/anyscale/first-service # 
+
+https://github.com/anyscale/llm-continuous-batching-benchmarks # 
+https://github.com/anyscale/factuality-eval # Library for iPython notebooks for evaluating factuality.
+https://github.com/anyscale/airflow-provider-ray # Ray provider for Apache Airflow
+https://github.com/anyscale/prefect-anyscale # Prefect integration with Anyscale
+https://github.com/anyscale/hermetic # Hermetic is a library for developing, deploying and refining LLM Applications
+https://github.com/anyscale/terraform-google-anyscale-cloudfoundation-modules # Terraform modules to manage Google cloud infrastructure for Anyscale.
+https://github.com/anyscale/terraform-aws-anyscale-cloudfoundation-modules # Terraform modules to manage AWS cloud infrastructure for Anyscale.
+https://github.com/anyscale/demo-airflow-anyscale # A basic demo repo on how to get set up with airflow and anyscale
+https://github.com/anyscale/madewithml.github.io # 
+https://github.com/anyscale/ray-experience-program # 
+https://github.com/anyscale/ray-secrets-proxy # 
+https://github.com/anyscale/metadata-fetching-benchmarks # Benchmark script for reproducing metadata fetching blog numbers
+https://github.com/anyscale/batch-llm-inference-reproductions # Reproducing Batch LLM Inference performance numbers
+https://github.com/anyscale/serve-benchmark # 
+https://github.com/anyscale/mattwjobs # A place for Matt Weber's jobs scripts
+https://github.com/anyscale/dashboard-d3 # Proof-of-concept for d3.js for the new Ray dashboard design
+https://github.com/anyscale/customer-scripts # 
+https://github.com/anyscale/intro-ray-debugging # An intro on how to debug code execution in ray
+https://github.com/anyscale/hackathon_telemetry_gpt # 
+https://github.com/anyscale/cuj-batch-inference # 
+https://github.com/anyscale/terraform-kubernetes-anyscale-foundation-modules # Anyscale Kubernetes Foundation Modules
+https://github.com/anyscale/llm-menagerie # 
+https://github.com/anyscale/ray-templates-test # Experimental version of ray-templates, used for development
+https://github.com/anyscale/pendo-guide # 
+
+https://github.com/ray-project/ray # Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+https://github.com/ray-project/llm-numbers # Numbers every LLM developer should know
+https://github.com/ray-project/llm-applications # A comprehensive guide to building RAG-based LLM applications for production.
+https://github.com/ray-project/kuberay # A toolkit to run Ray applications on Kubernetes
+https://github.com/ray-project/tutorial # 
+https://github.com/ray-project/llmperf # LLMPerf is a library for validating and benchmarking LLMs
+https://github.com/ray-project/llmperf-leaderboard # 
+https://github.com/ray-project/rl-experiments # Keeping track of RL experiments
+https://github.com/ray-project/deltacat # A portable Pythonic Data Catalog API powered by Ray that brings exabyte-level scalability and fast, ACID-compliant, change-data-capture to your big data workloads.
+https://github.com/ray-project/xgboost_ray # Distributed XGBoost on Ray
+https://github.com/ray-project/rayfed # A multiple parties joint, distributed execution engine based on Ray, to help build your own federated learning frameworks in minutes.
+https://github.com/ray-project/mobius # Mobius is an AI infrastructure platform for distributed online learning, including online sample processing, training and serving.
+https://github.com/ray-project/enhancements # Tracking Ray Enhancement Proposals
+https://github.com/ray-project/plasma # A minimal shared memory object store design
+https://github.com/ray-project/lightgbm_ray # LightGBM on Ray
+https://github.com/ray-project/mlflow-ray-serve # MLFlow Deployment Plugin for Ray Serve
+https://github.com/ray-project/ray_beam_runner # Ray-based Apache Beam runner
+https://github.com/ray-project/distml # Distributed ML Optimizer
+https://github.com/ray-project/kuberay-helm # Helm charts for the KubeRay project
+https://github.com/ray-project/ray-legacy # An experimental distributed execution engine
+https://github.com/ray-project/pygloo # Pygloo provides Python bindings for Gloo.
+https://github.com/ray-project/contrib-workflow-dag # 
+https://github.com/ray-project/docu-mentor # 
+https://github.com/ray-project/spark-ray-example # A simple demonstration of embedding Ray in a Spark UDF. For Spark + AI Summit 2020.
+https://github.com/ray-project/credis # 
+https://github.com/ray-project/community # Artifacts intended to support the Ray Developer Community: SIGs, RFC overviews, and governance. We're very glad you're here! ✨
+https://github.com/ray-project/ray-connect # Material for Ray Connect 2024 Conference
+https://github.com/ray-project/serve_config_examples # 
+https://github.com/ray-project/ray-forward # Some resources about Ray Forward Meetup
+https://github.com/ray-project/air-reference-arch # 
+https://github.com/ray-project/raynomics # Experimental genomics algorithms in Ray
+https://github.com/ray-project/serve-movie-rec-demo # 
+https://github.com/ray-project/ray-open-ports-checker # Tool to quickly check and see if your Ray cluster is exposed to untrusted clients
+https://github.com/ray-project/scalable-learning # Scaling multi-node multi-GPU workloads
+https://github.com/ray-project/maze-raylit # Hackathon 2020! Max Archit Zhe
+https://github.com/ray-project/sandbox # Ray repository sandbox
+https://github.com/ray-project/odsc-west-workshop-2023 # 
+https://github.com/ray-project/rfc # Community Documents
+https://github.com/ray-project/rayci # 
+https://github.com/ray-project/numbuf # Serializing primitive Python types in Arrow
+https://github.com/ray-project/arrow-build # Queue for building arrow
+https://github.com/ray-project/prototype_gpu_buffer # 
+https://github.com/ray-project/qcon-workshop-2023 # 
+https://github.com/ray-project/ray-scripts # Experimental scripts for deploying and using Ray
+https://github.com/ray-project/travis-tracker-v2 # 
+https://github.com/ray-project/raytracer # Polymer WebUI for Ray
+https://github.com/ray-project/serve_workloads # 
+https://github.com/ray-project/2022_04_13_ray_serve_meetup_demo # Code samples for Ray Serve Meetup on 04/13/2022
+https://github.com/ray-project/q4-2021-docs-hackathon # 
+https://github.com/ray-project/raylibs # Libraries for Ray
+https://github.com/ray-project/ray-docs-zh # Chinese translation of Ray documentation. This may not be update to date.
+https://github.com/ray-project/ray-runtime-env-plugins # A set of runtime environment plugins which can be used by the public.
+https://github.com/ray-project/spmd_grid # Grid-style gang-scheduling and collective communication for Ray
+https://github.com/ray-project/issues-to-airtable # 
+https://github.com/ray-project/llmval-legacy # 
+https://github.com/ray-project/checkstyle_java # 
+https://github.com/ray-project/travis-tracker # Dashboard for Tracking Travis Python Test Result.
+https://github.com/ray-project/ray-summit-2022 # Website for Ray Summit 2022
+https://github.com/ray-project/train-serve-primer # 
+https://github.com/ray-project/oneflow # 
+https://github.com/ray-project/common # Code that is shared between Ray projects
+https://github.com/ray-project/streaming # Streaming processing engine based on ray platform.
+https://github.com/ray-project/photon # A local scheduler and node manager for Ray
+https://github.com/ray-project/ray-project.github.io # The Ray project website
+https://github.com/ray-project/ray-train-user-testing # 
+https://github.com/ray-project/bredis # Experiments with sharding redis
+https://github.com/ray-project/project-data # Files for Ray project examples
+https://github.com/ray-project/air-sample-data # A repository hosting data for air examples and notebooks
+https://github.com/ray-project/test_deploy_group # 
+https://github.com/ray-project/images # Host images
+https://github.com/ray-project/rllib # Scalable Library for Reinforcement Learning
+https://github.com/ray-project/redis-replication # Replicating redis
+https://github.com/ray-project/test_packages # This repo maintains the packages that are provided for tests.
+https://github.com/ray-project/test_dag # 
+https://github.com/ray-project/benchmarks # 
+https://github.com/ray-project/ray-data-user-testing # The repo to study Ray Data CUJ
+https://github.com/ray-project/test_runtime_env # Used for testing.
+https://github.com/ray-project/dind-buildkite-plugin # A Buildkite Plugin to enable Docker-in-Docker
+https://github.com/ray-project/pickle5-build # Build unofficial pickle5 wheels
+https://github.com/ray-project/macos-sandbox-buildkite-plugin # 
+https://github.com/ray-project/windows-docker-buildkite-plugin # 
+https://github.com/ray-project/test_module # 
+https://github.com/ray-project/crossbow # Arrow build queue
+

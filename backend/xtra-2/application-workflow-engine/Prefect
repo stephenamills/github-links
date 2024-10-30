@@ -1,0 +1,61 @@
+https://github.com/prefecthq/prefect # Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+
+https://github.com/prefecthq/prefect-recipes # Snippets and templates representing common Customer Success patterns
+https://github.com/prefecthq/prefect-collection-template # Template to quickly bootstrap a Prefect Collection
+https://github.com/prefecthq/prefect-background-task-examples # Examples of using Prefect for background tasks in web applications
+https://github.com/prefecthq/marvin-recipes # Marvin recipes
+https://github.com/prefecthq/prefect-binder-tutorial # 
+https://github.com/prefecthq/prefect-demos # Sales Engineering demo repository
+https://github.com/prefecthq/interactive_workflow_examples # Examples of Interactive Workflows with Prefect
+https://github.com/prefecthq/sample_flows # Prefect's example Flows
+https://github.com/prefecthq/hello-projects # A repository used for demo'ing Prefect projects
+https://github.com/prefecthq/prefect-demo-stocks # 
+https://github.com/prefecthq/write-workflows-course # 
+https://github.com/prefecthq/pacc-2024-v5 # 
+
+https://github.com/prefecthq/marvin # ✨ Build AI interfaces that spark joy
+https://github.com/prefecthq/controlflow # 🦾 Take control of your AI agents
+https://github.com/prefecthq/server # The Prefect API and backend
+https://github.com/prefecthq/legacy-ui # The home of the Prefect 1 UI
+https://github.com/prefecthq/langchain-prefect # Tools for using Langchain with Prefect
+https://github.com/prefecthq/prefect-helm # Helm charts for deploying Prefect Services
+https://github.com/prefecthq/prefect-airbyte # 
+https://github.com/prefecthq/terraform-provider-prefect # Terraform Provider for Prefect Cloud
+https://github.com/prefecthq/prefect-design # 
+https://github.com/prefecthq/actions-prefect-deploy # A GitHub Action for deploying a Prefect flow to Prefect Cloud
+https://github.com/prefecthq/prefect-great-expectations # Prefect integrations for interacting with Great Expectations
+https://github.com/prefecthq/prefect-ui-library # Vue and Typescript library for Prefect 2 and Prefect Cloud 2
+https://github.com/prefecthq/prefect-monte-carlo # A collection of Prefect tasks and flows to orchestrate Monte Carlo.
+https://github.com/prefecthq/prefect-intel # Prefect / Intel collaboration
+https://github.com/prefecthq/prometheus-prefect-exporter # Prometheus Prefect Exporter
+https://github.com/prefecthq/prefect-hightouch # Prefect integrations for interacting with Hightouch.
+https://github.com/prefecthq/prefect-hex # Prefect integrations for interacting with Hex.
+https://github.com/prefecthq/prefect-operator # A Kubernetes operator for managing Prefect servers and work pools
+https://github.com/prefecthq/graphs # Large scale graphs designed for Prefect
+https://github.com/prefecthq/vue-compositions # A collection of reusable vue compositions
+https://github.com/prefecthq/prefect-collection-registry # Source of truth for collection contents across the Prefect ecosystem
+https://github.com/prefecthq/prefect-census # Prefect integrations for working with Census syncs
+https://github.com/prefecthq/actions-prefect-auth # A GitHub Action for authenticating into Prefect Cloud
+https://github.com/prefecthq/vue-charts # 
+https://github.com/prefecthq/premojis # Emojis for Prefect
+https://github.com/prefecthq/prefect-duckdb # 
+https://github.com/prefecthq/prefect-firebolt # Prefect integrations for working with Firebolt data warehouses.
+https://github.com/prefecthq/docs # 
+https://github.com/prefecthq/prefect-redis # 
+https://github.com/prefecthq/pmt # 
+https://github.com/prefecthq/eslint-config # 
+https://github.com/prefecthq/github-issue-autoresponder # 
+https://github.com/prefecthq/qa-wolf-flows # Flows used by QA Wolf for testing
+https://github.com/prefecthq/actions-release-ui-components # Releases UI components using shared release manifest
+https://github.com/prefecthq/oss-pledge # 
+https://github.com/prefecthq/test_flows # A repo of MRE and test work flows
+https://github.com/prefecthq/project-1-tpv-gtm-relay # 
+https://github.com/prefecthq/integration-tests # 
+https://github.com/prefecthq/prefect-build # Prefect Deployment creation CLI
+https://github.com/prefecthq/project-3-tpv-gtm-relay # 
+https://github.com/prefecthq/actions-setup-nodejs # Sets up a NodeJS environment, checks out the repository, and installs dependencies.
+https://github.com/prefecthq/actions-trigger-downstream-npm-package-updates # Generalized job used to optionally trigger downstream workflows for UI components
+https://github.com/prefecthq/sdk-py # 
+https://github.com/prefecthq/actions-updatecli-apply # Actions that runs updatecli, commits those changes if they exist, and opens a PR
+https://github.com/prefecthq/compat-tests # Compatibility testing suite between OSS and Cloud
+

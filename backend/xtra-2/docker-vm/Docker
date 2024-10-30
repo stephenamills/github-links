@@ -1,0 +1,141 @@
+https://github.com/moby/moby
+
+https://github.com/docker/cli
+https://github.com/docker/compose
+
+https://github.com/opencontainers/umoci
+https://github.com/docker/buildx
+https://github.com/moby/buildkit
+
+https://github.com/opencontainers/runc
+https://github.com/docker-archive/libcontainer
+https://github.com/moby/containerd
+
+https://github.com/moby/libnetwork
+https://github.com/moby/vpnkit
+
+https://github.com/tonistiigi/binfmt
+https://github.com/moby/hyperkit
+
+https://github.com/dockersamples/example-voting-app # Distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+https://github.com/dockersamples/docker-swarm-visualizer # A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS and D3
+https://github.com/dockersamples/wordsmith # Sample project with Docker containers running under Kubernetes
+https://github.com/dockersamples/compose-dev-env # Example used to try a compose application with Docker Dev Environments
+https://github.com/dockersamples/docker-fifth-birthday #
+https://github.com/dockersamples/node-bulletin-board # Sample bulletin board app in Node.js and Vue.js
+https://github.com/dockersamples/single-dev-env # Example used to try a single container sample of Docker Dev Environments
+https://github.com/dockersamples/dockercoins #
+https://github.com/dockersamples/global-2018-hol # Hands-On labs for the global 2018 event series
+https://github.com/dockersamples/aspnet-monitoring # Monitoring ASP.NET Fx applications in Windows Docker containers, using Prometheus
+https://github.com/dockersamples/linux_tweet_app # A very simple webapp based on NGINX
+https://github.com/dockersamples/newsletter-signup # Newsletter Sign Up - a .NET Framework app using Docker containers on Windows
+https://github.com/dockersamples/docker-hub-ml-project #
+https://github.com/dockersamples/docker-init-demos # Sample apps to demonstrate the power of docker init
+https://github.com/dockersamples/gopher-task-system # A Task System using Go Docker SDK.
+https://github.com/dockersamples/buildme # buildme
+https://github.com/dockersamples/link-shortener-typescript # A Simple URL Shortener built using TypeScript and Nest.js powered with Docker
+https://github.com/dockersamples/windows-2003 # Sample apps taken from Windows Server 2003 and running in Docker Windows containers
+https://github.com/dockersamples/helloworld-demo-python # Demonstrating Hello World Python Example for docker init CLI
+https://github.com/dockersamples/student-record-management # Building a Student Record Management app using .NET and Docker
+https://github.com/dockersamples/wearedevelopers-2023 # The sample application used for Docker's WeAreDevelopers 2023 talk
+https://github.com/dockersamples/elastic-windows # Samples for Elasticsearch and Kibana running in Windows Docker containers
+https://github.com/dockersamples/.github #
+https://github.com/dockersamples/node-mongo-docker # Creating a REST API using Node, Mongo and Docker
+https://github.com/dockersamples/dotnetconf19 # Code for the 2019 .NET Conf challenge
+https://github.com/dockersamples/helloworld-demo-node # Example used to demonstrate docker init CLI for a simple Hello World Node Program
+https://github.com/dockersamples/build-cloud-cookbook #
+https://github.com/dockersamples/extensions-demo #
+https://github.com/dockersamples/dind-rapid7 #
+https://github.com/dockersamples/scout-metrics-exporter #
+https://github.com/dockersamples/spring-postgres # A Non-containerised Spring Boot app connected to Postgres
+https://github.com/docker/awesome-compose #
+
+https://github.com/docker-library/official-images # Primary source of truth for the Docker "Official Images" program
+https://github.com/docker-library/docs # Documentation for Docker Official Images in docker-library
+https://github.com/docker-library/php # Docker Official Image packaging for PHP
+https://github.com/docker-library/python # Docker Official Image packaging for Python
+https://github.com/docker-library/mysql # Docker Official Image packaging for MySQL Community Server
+https://github.com/docker-library/postgres # Docker Official Image packaging for Postgres
+https://github.com/docker-library/wordpress # Docker Official Image packaging for WordPress
+https://github.com/docker-library/golang # Docker Official Image packaging for golang
+https://github.com/docker-library/openjdk # Docker Official Image packaging for EA builds of OpenJDK from Oracle
+https://github.com/docker-library/docker # Docker Official Image packaging for Docker
+https://github.com/docker-library/mongo # Docker Official Image packaging for MongoDB
+https://github.com/docker-library/rabbitmq # Docker Official Image packaging for RabbitMQ
+https://github.com/docker-library/ghost # Docker Official Image packaging for Ghost
+https://github.com/docker-library/healthcheck # https://github.com/docker/docker/issues/21142 prototypes
+https://github.com/docker-library/tomcat # Docker Official Image packaging for Apache Tomcat
+https://github.com/docker-library/ruby # Docker Official Image packaging for Ruby
+https://github.com/docker-library/repo-info # Extended information (especially license and layer details) about the published Official Images
+https://github.com/docker-library/hello-world #
+https://github.com/docker-library/elasticsearch # DEPRECATED
+https://github.com/docker-library/buildpack-deps #
+https://github.com/docker-library/busybox # Docker Official Image packaging for Busybox
+https://github.com/docker-library/haproxy # Docker Official Image packaging for HAProxy
+https://github.com/docker-library/httpd # Docker Official Image packaging for Apache HTTP Server
+https://github.com/docker-library/drupal # Docker Official Image packaging for Drupal
+https://github.com/docker-library/cassandra # Docker Official Image packaging for Cassandra
+https://github.com/docker-library/redmine # Docker Official Image packaging for Redmine
+https://github.com/docker-library/gcc # Docker Official Image packaging for gcc
+https://github.com/docker-library/memcached # Docker Official Image packaging for memcached
+https://github.com/docker-library/bashbrew # Canonical build tool for the official images
+https://github.com/docker-library/faq # Frequently Asked Questions
+https://github.com/docker-library/logstash # DEPRECATED
+https://github.com/docker-library/kibana # DEPRECATED
+https://github.com/docker-library/oi-janky-groovy # Jenkins Pipeline and Job DSL scripts for Official Images Jenkins jobs
+https://github.com/docker-library/julia # Docker Official Image packaging for julia
+https://github.com/docker-library/pypy # Docker Official Image packaging for pypy
+https://github.com/docker-library/dockerfile-validator # An experimental attempt to catch simple Dockerfile mistakes
+https://github.com/docker-library/perl-bashbrew # Perl-based support libraries/tools for the Bashbrew official-images tool
+https://github.com/docker-library/meta-scripts # Scripts to generate metadata (source IDs, build IDs)
+https://github.com/docker-library/meta #
+
+https://github.com/docker/getting-started # Getting started with Docker
+https://github.com/docker/welcome-to-docker #
+https://github.com/docker/getting-started-app # A simple application for the getting started guide in Docker's documentation
+https://github.com/docker/multi-container-app #
+https://github.com/docker/bindmount-apps/
+https://github.com/docker/genai-stack # Langchain + Docker + Neo4j + Ollama
+https://github.com/docker/whalesay # A repository in support of the Docker's official whalesay image
+https://github.com/docker/docker-nodejs-sample # A simple Node.js application for the guide in Docker's documentation
+https://github.com/docker/getting-started-todo-app # Sample application to get started with Docker
+https://github.com/docker/python-docker # A simple Python app for the Python Language Guide in Docker's Docs
+https://github.com/docker/docker-dotnet-sample # A simple .NET web application
+https://github.com/docker/docker-php-sample
+https://github.com/docker/labs/ # good content
+https://github.com/play-with-docker/play-with-docker
+https://github.com/play-with-docker/play-with-kubernetes.github.io
+https://github.com/redhat-scholars/build-a-container
+https://github.com/redhat-scholars/containers-tutorial
+
+https://github.com/docker/docker-bench-security # Script that checks for dozens of common best-practices around deploying Docker containers in production.
+https://github.com/docker/build-push-action # GitHub Action to build and push Docker images with Buildx
+https://github.com/docker/docker-install # Docker installation script
+https://github.com/docker/docker-credential-helpers # Programs to keep Docker login credentials safe by storing in platform keystores
+https://github.com/docker/login-action # GitHub Action to login against a Docker registry
+https://github.com/docker/setup-buildx-action # GitHub Action to set up Docker Buildx
+https://github.com/docker/metadata-action # GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+https://github.com/docker/setup-qemu-action # GitHub Action to install QEMU static binaries
+https://github.com/docker/bake-action # GitHub Action to use Docker Buildx Bake as a high-level build command
+https://github.com/docker/sbom-cli-plugin # Plugin for Docker CLI to support SBOM creation using Syft
+https://github.com/docker/extensions-sdk # Desktop Extensions SDK
+https://github.com/docker/volumes-backup-extension # Back up, clone, restore, and share Docker volumes effortlessly.
+https://github.com/docker/hub-tool
+https://github.com/docker/actions-toolkit # Toolkit for Docker (GitHub) Actions
+https://github.com/docker/index-cli-plugin #
+https://github.com/docker/buildkit-syft-scanner # BuildKit Syft scanner
+https://github.com/docker/base-cli-plugin # Experimental Docker CLI plugin to detect base images
+https://github.com/docker/go-imageinspect #
+https://github.com/docker/buildx-desktop #
+https://github.com/docker/github-actions-runner # Docker's containerized github-actions runner
+https://github.com/docker/dc23-secure-workshop # DockerCon 2023 Secure Development with Docker hands-on exercises code
+https://github.com/docker/labs-githooks #
+https://github.com/docker/compose-bridge-binaries # public repository to get the `compose-bridge` CLI binary for your platform
+https://github.com/docker/enable-macos-virtualization-framework # How-To Enable virtualization.framework on macOS hosts
+https://github.com/opencontainers/image-spec
+https://github.com/moby/docker-image-spec
+https://github.com/opencontainers/runtime-tools
+https://github.com/opencontainers/runtime-spec
+https://github.com/googlecontainertools
+https://github.com/containers
+https://github.com/opencontainers/distribution-spec
