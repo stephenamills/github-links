@@ -1,0 +1,50 @@
+https://github.com/azure-samples/cognitive-services-sample-data-files # Cognitive Services sample data files
+https://github.com/azure-samples/copilot-sap-sales-order-verification #
+https://github.com/azure-samples/powerplatform-azureappservice-sample # Power Platform and Azure App Service sample to demonstrate
+bulk data import from excel into Dataverse using custom code. https://github.com/azure-samples/doc-intelligence-in-a-box # The Doc Intelligence in-a-Box project leverages Azure AI Document Inte
+lligence to extract data from PDF forms and store the data in a Azure Cosmos DB. This solution, part of the AI-in-a-Box framework by Microsoft Customer Engineers and Architects, ensures quality, efficiency, and rapid deployment of AI and ML solutions across various industries. https://github.com/azure/powerautomate-avd-starter-kit # Starter kit to help customers integrate with and leverage Azure Virtual De
+sktop to scale their Power Automate Desktop machine groups https://github.com/azure/carprice-aml-powerapp # Azure ML + Power App Solution sample and walkthrough to complement the Azure Archi
+tecture Centre reference pattern https://github.com/azure/azure-ai-at-build #
+https://github.com/microsoft/powerplatformconnectors # This is a repository for Microsoft Power Automate, Power Apps, and Azure Log
+ic Apps connectors https://github.com/microsoft/federal-business-applications # US Government Business Applications Demo Repository
+https://github.com/microsoft/power-platform-for-beginners # Event-in-a-box to get started with Power Platform and AI Copilot (aka L
+owCode) https://github.com/microsoft/microsoft-cloud-app-security # Additional Resources to improve Customer Experience with Microsoft Clou
+d App Security https://github.com/microsoft/openai-in-teams-chat # Invite OpenAI to your teams calls to assist w/ QnA right in chat.
+https://github.com/microsoft/coe-starter-kit #
+https://github.com/microsoft/powercat-automation-kit #
+https://github.com/microsoft/bcsamples-warehousehelper # The Warehouse Helper sample consists of an AL extension, a Power App, and
+a Power Automate flow. The app can scan a barcode and attempt to map the value to a Business Central item's GTIN property. https://github.com/microsoft/d365-scm-telemetry # Sample code for customer/partner telemetry emitted by the Dynamics 365 Supply Cha
+in product. https://github.com/microsoft/mtc_guestaccessteamsworkshop # MTC Teams Guest Access Workshop
+https://github.com/microsoft/powerplatform-telemetry # A repository of code samples and guidance on how to use telemetry emitted fr
+om Power Platform and Dynamics products into Azure Application Insights https://github.com/microsoft/azureml-powerappsolution # Step-by-step guide on deploying a natural language processing machine learn
+ing model to the Azure platform and consuming it using Power Automate and Power Apps to generate text and give you creative writing ideas. https://github.com/microsoft/mtc_teamsguestaccess # Teams Guest Access Solution
+https://github.com/microsoft/bcsamples-takeorder # The Take Order sample demonstrates how you can build a customized user experienc
+e for servers at restaurants, using Power Apps powered by Business Central. https://github.com/microsoft/cloud-advocate-workshops # Workshops created by the Cloud Advocacy team at Microsoft.
+https://github.com/microsoft/powerplatform # The official repository for Power Platform tools and resources.
+https://github.com/microsoft/powercat-business-approvals-kit #
+https://github.com/microsoft/machine-learning-patient-risk-analyzer-sa # Machine Learning Patient Risk Analyzer Solution Accelerato
+r is an end-to-end (E2E) healthcare app that leverages ML prediction models (e.g., Diabetes Mellitus (DM) patient 30-day re-admission, breast cancer risk, etc.) to demonstrate how these models can provide key insights for both physicians and patients. Patients can easily access their appointment and care history with infused cognitive services through a conversational interface. In addition to providing new insights for both doctors and patients, the app also provides the Data Scientist/IT Specialist with one-click experiences for registering and deploying a new or existing model to Azure Kubernetes Clusters, and best practices for maintaining these models through Azure MLOps. https://github.com/microsoft/windowsfordevelopers # Windows For Developers
+https://github.com/microsoft/powerplatform-acceleration # Examples, samples and write ups to help educate and accelerate developmen
+t and adoption of power platform including Canvas Apps, Model Apps and Dataverse, Power Automate, Connectors, etc. https://github.com/microsoft/powerplatformconnect # Materiais, tutoriais e dicas sobre Power Platform criados pela equipe de especi
+alistas em Power Platform da Microsoft Brasil. https://github.com/microsoft/templates-for-power-platform # Solutions designed to expedite the implementation of Power Platform wit
+hin large-scale enterprises. https://github.com/microsoft/extracttextfromobjects # Extract text from objects using Power Automate and AI Builder
+https://github.com/microsoft/powerplatform-dev-day # Power Platform Dev Day
+https://github.com/microsoft/powerplatform-qualtrics-api # An OpenAPI demo specification to integrate Qualtrics XM into Microsoft P
+ower Platform https://github.com/microsoft/dataactivator # This is the repository for private preview documentation for Data Activator. Find out
+more at https://aka.ms/dataActivatorBlog https://github.com/microsoft/iom-provider-shopify # Shopify Custom Provider for Intelligent Order Management
+https://github.com/microsoft/gbb-business-applications #
+https://github.com/microsoft/mscc-providers # Public collaboration space for providers for Microsoft Supply Chain Center and Intell
+igent Order Management https://github.com/microsoft/ba-csa-assets # This repo centralizes assets used by Microsoft CSAs. It is available to all organizati
+ons for educational purposes. https://github.com/microsoft/saaslab # SaaS-ification resources for ISVs
+https://github.com/microsoft/global-copilot-summit # The theme of the summit is Adopt, Extend, and Build Copilot, and is attended b
+y professional developers interested in learning more about AI, GitHub Copilot, Azure AI Studio, or Power Apps and how they can leverage them with M365 Copilot. https://github.com/microsoft/virtual-visit-custom-launcher # An example of a custom virtual visit / call launcher that leverages Te
+ams calls and Virtual Appointments, with inputs from other applications. https://github.com/microsoft/bcsamples-coffeemr # Discover the future of industrial sales and planning with the Coffee MR Power App
+sample. This scenario leverages the mixed reality (MR) capabilities of Power Apps, integrated with Business Central's comprehensive data and business logic. https://github.com/microsoft/gif-for-dataverse # Repository for Power Platform template to deploy GIF on Dataverse (Japanese)
+https://github.com/microsoft/vaccine-management-in-the-workplace # Microsoft Power Apps template for Vaccine Management in the Work
+place (Japanese) https://github.com/microsoft/powerpnpguidancehub #
+https://github.com/microsoft/virtual-visit-sample-connector # Sample custom connector for virtual appointment API
+https://github.com/microsoft/fabricrtidemos #
+https://github.com/microsoft/sp-server-workflow-scanner # This workflow scanner mimics the SPO Modernization scanner functionality,
+in relation to the workflow scan reports. It can be run on SharePoint Server 2013 or 2016 to locate your existing classic workflows and provide information that will help you to prepare for a transformation to alternative solutions such as Power Automate. Developed by the Modern Work team from the Industry Solutions Delivery group at Microsoft. https://github.com/microsoft/task-management-in-microsoft-sustainability-manager-solution-accelerator # This solution accelerator u
+ses purpose-built task management within the Microsoft Sustainability Manager (MSM) to meet task creation, tracking and resolution demands. https://github.com/microsoft/fundraisingproposalassistant # Fundrasing Proposal Assistant
+https://github.com/microsoft/dstoolkit-pva-audiocodes-cc #

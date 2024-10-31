@@ -1,0 +1,184 @@
+https://github.com/azure-samples/cognitive-search-templates # This project contains samples including Power BI template file for visualizing AI enrichments in the Azure Search knowledge store
+https://github.com/azure-samples/azure-sql-db-invoke-external-rest-endpoints # Samples on how call a REST endpoint using Azure SQL Database
+https://github.com/azure-samples/azure-cosmos-db-change-feed-dotnet-retail-sample # Reference Solution for Real-Time Data Analysis
+with Cosmos DB Change Feed (+ Azure Functions, Azure Event Hubs, Azure Stream Analytics, Power BI)
+https://github.com/azure-samples/serverless-microservices-reference-architecture # This reference architecture walks you through th
+e decision-making process involved in designing, developing, and delivering a serverless application using a microservices architecture through hands-on instructions for configuring and deploying all of the architecture's components along the way. The goal is to provide practical hands-on experience in working with several Azure services and the technologies that effectively use them in a cohesive and unified way to build a serverless-based microservices architecture. https://github.com/azure-samples/sample-mdw-serverless #
+https://github.com/azure-samples/hdinsight-aks # Sample code repo for HDInsight on AKS
+https://github.com/azure-samples/doc-intelligence-in-a-box # The Doc Intelligence in-a-Box project leverages Azure AI Document Inte
+lligence to extract data from PDF forms and store the data in a Azure Cosmos DB. This solution, part of the AI-in-a-Box framework by Microsoft Customer Engineers and Architects, ensures quality, efficiency, and rapid deployment of AI and ML solutions across various industries. https://github.com/azure-samples/cra-template-iot-cardboard-js #
+https://github.com/azure-samples/azure-health-data-and-ai-samples # Samples for using the Azure Health Data Services
+https://github.com/azure-samples/semtech-lr1110-azureiot-integration # Sample code to onboard Semtech's LoRa Edge tracker into Azur
+e IoT, including payload decoding via LoRa Cloud geolocation services. https://github.com/azure-samples/ai-hub-gateway-solution-accelerator # Reference architecture that provides a set of guidelines and
+best practices for implementing a central AI API gateway to empower various line-of-business units in an organization to leverage Azure AI services https://github.com/azure-samples/powerbi-pipeline-report # Sample Power BI Report consolidating pipeline health information using R
+EST APIs https://github.com/azure-samples/powerbi-incremental-update # This article discussed the use of PowerBI's incremental update featur
+e https://github.com/azure-samples/adme-enterprise-consumption-zone-on-fabric #
+https://github.com/azure/ccoinsights # Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repo
+sitory you will find all the guidance and files needed to deploy the Dashboard in your environment to take benefit of a single pane of glass to get insights about your Azure resources and services. https://github.com/azure/dw-with-synapse-data-factory-power-bi # Create a data mart using Azure Data Factory as ELT / ETL, Azure Sy
+napse as database and Power BI as visualization tool. https://github.com/azure/test-drive-azure-synapse-with-a-1-click-poc #
+https://github.com/azure/azure-data-labs-modules # A list of Terraform modules to build your Azure Data IaC templates.
+https://github.com/azure/resourcemodules # This repository includes a CI platform for and collection of mature and curated Bicep mo
+dules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines. https://github.com/azure/azure-cosmosdb-spark # Apache Spark Connector for Azure Cosmos DB
+https://github.com/azure/azqr # Azure Quick Review
+https://github.com/azure/adx-in-a-day # Hands on experience on Azure Data Explorer and Kusto Query Languages(KQL)
+https://github.com/azure/jp-techdocs # A repository for providing Japanese technical documents by volunteer employees belonging to
+technical divisions in Microsoft Japan. https://github.com/azure/ai-solution-accelerators-list # This is a list of the Azure AI Solution Accelerators available to demonstr
+ate and simply deployment of Azure AI https://github.com/azure/costmanagement-to-kusto #
+https://github.com/azure/azure-kusto-microhack2 #
+https://github.com/azure/azure-kusto-microhack #
+https://github.com/azure/terraform-azurerm-avm-ptn-network-private-link-private-dns-zones # The AVM pattern module to deploy all th
+e required private link private DNS zones for supported services. https://github.com/azure/tech-debt-analytics # A sample solution to add application modernisation capabilities to CI/CD and ship th
+e results to a data lake for a comprehensive view https://github.com/azure/portaldocs # This repository contains documents for creating extension in Azure Portal. The SDK and docume
+ntation are not supported for teams outside Microsoft. https://github.com/azure/adx-in-a-day-lab2 #
+https://github.com/azure/adaw #
+https://github.com/azure/mock-spacestation # A template for deploying a Mock Spacestation and Mock Groundstation to Azure
+https://github.com/azure/terraform-azurerm-caf-enterprise-scale # Azure landing zones Terraform module
+https://github.com/azure/iot-central-integration-guide # Azure IoT Central integration guides, documentation and samples
+
+https://github.com/officedev/project-accelerator # An Accelerator solution for Project for the web
+https://github.com/officedev/project-power-bi-templates # Expand Project with a Power BI Template
+https://github.com/officedev/o365-activityfeed-azurefunction # Azure function that processes incoming notifications from the O365 Activity API
+
+https://github.com/microsoft/powerbi-developer-samples # A collection of Power BI samples for developer use.
+https://github.com/microsoft/powerbi-csharp # Welcome to the .NET developer community for Power BI. Here you will find resources fo
+r the .NET SDKs for Power BI Embedded V2.0.0 https://github.com/microsoft/powerbi-desktop-samples # Power BI Desktop sample files for the monthly release. Here you can find the
+PBIX files used in the monthly release videos. https://github.com/microsoft/dataconnectors # Data Connector SDK and samples for Power Query and Power BI
+https://github.com/microsoft/powerbi-javascript # JavaScript library for embedding Power BI into your apps. Check out the docs webs
+ite and wiki for more information. https://github.com/microsoft/powerbi-powershell # PowerShell community for Microsoft PowerBI. Here you will find resources and sour
+ce for PowerShell modules targeting PowerBI. https://github.com/microsoft/powerbi-jupyter # A Custom Jupyter Widget Library for Power BI
+https://github.com/microsoft/mde-powerbi-templates # A respository for MDATP PowerBI Templates
+https://github.com/microsoft/reportingservicestools # Reporting Services Powershell Tools
+https://github.com/microsoft/powerbi-visuals-tools # Contains tools for building/packaging Power BI visuals
+https://github.com/microsoft/pbiworkshops # Training workshops for Power BI.
+https://github.com/microsoft/federal-business-applications # US Government Business Applications Demo Repository
+https://github.com/microsoft/powerbi-visuals-samplebarchart # Bar Chart Custom Visual for tutorial.
+https://github.com/microsoft/powerbi-client-react # Power BI for React which provides components and services to enabling developer
+s to easily embed Power BI reports into their applications. https://github.com/microsoft/sanddance # Visually explore, understand, and present your data.
+https://github.com/microsoft/customer-service-conversational-insights-with-azure-openai-services # A solution accelerator built on
+top of Microsoft Fabric, Azure OpenAI Service, and Azure AI Speech​ that enables customers with large amounts of conversational data to use generative AI to surface key phrases alongside operational metrics, unlocking valuable insights for targeted business impact. https://github.com/microsoft/rdlmigration # Tool that converts RDL from a SQL Server Reporting Services Server or Power BI Report s
+erver and published to a Power BI premium workspace https://github.com/microsoft/reporting-services # Git repo for SQL Server Reporting Services and Power BI paginated report samples,
+and community projects https://github.com/microsoft/powerbi-embedded-showcases # Showcases for Power BI Embedded
+https://github.com/microsoft/power-bi-embedded-contoso-sales-demo # Power BI Embedded Contoso Sales Demo is a demo application whic
+h showcases Power BI Embedded capabilities https://github.com/microsoft/powerbi-client-angular # Power BI Angular component. This library lets you embed Power BI report, dash
+board, dashboard tile, report visual, or Q&A in your Angular application. https://github.com/microsoft/powerbi-visuals-networknavigator # Network Navigator custom visual for PowerBI
+https://github.com/microsoft/powerbi-loganalytics-template-reports # The repository hosts Power BI template files that can be used
+to analyze Power BI data after you send it to Azure Log Analytics. https://github.com/microsoft/microsoftdefenderforendpoint-powerbi # A repo for sample MDATP Power BI Templates
+https://github.com/microsoft/powerbi-visuals-api # Power BI custom visuals API
+https://github.com/microsoft/powerbi-visuals-chicletslicer # Repo for Power BI Chiclet Slicer custom visual
+https://github.com/microsoft/powerbi-visuals-forcegraph # Repo for Power BI Force Graph custom visual
+https://github.com/microsoft/powerbi-client-vue-js # Power BI Vue.js component. This library lets you embed Power BI report, dashbo
+ard, dashboard tile, report visual, or Q&A in your Vue.js application. https://github.com/microsoft/azure-analysis-services-http-sample # A sample http endpoint for connecting to Azure Analysis Services
+over HTTP. Clients will send DAX or MDX queries and return results as JSON. https://github.com/microsoft/powerbi-visuals-wordcloud # Repo for Power BI Word Cloud custom visual
+https://github.com/microsoft/powerbi-visuals-utils-formattingutils # Formatting utility interfaces for creating powerbi custom visu
+als https://github.com/microsoft/powerbi-visuals-radarchart # Repo for Power BI Radar Chart custom visual
+https://github.com/microsoft/powerbi-visuals-tornado # Repo for Power BI Tornado custom visual
+https://github.com/microsoft/power-platform-for-beginners # Event-in-a-box to get started with Power Platform and AI Copilot (aka L
+owCode) https://github.com/microsoft/powerbi-visuals-circlecard # CircleCard - a sample custom visual
+https://github.com/microsoft/powerbi-visuals-utils-interactivityutils # Interactivity utility interfaces for creating powerbi custo
+m visuals https://github.com/microsoft/powerbi-visuals-utils-svgutils # SVG utility interfaces for creating powerbi custom visuals
+https://github.com/microsoft/powerbi-azure-pipelines-extensions #
+https://github.com/microsoft/powerbi-visuals-utils-tooltiputils # tooltip utility interfaces for creating powerbi custom visuals
+https://github.com/microsoft/powerbi-visuals-utils-dataviewutils # data view utility interfaces for creating powerbi custom visuals
+https://github.com/microsoft/powerbi-visuals-utils-typeutils # Type utility interfaces for creating powerbi custom visuals
+https://github.com/microsoft/powerbi-visuals-textfilter # Text Filter PowerBI Visualization
+https://github.com/microsoft/powerbi-report-authoring # A library for authoring Power BI reports while embedded into your apps. Pro
+vides service which makes it easy to change report and visual elements in session. It gives APIs such as creating visual, changing visual properties, etc ... https://github.com/microsoft/powerbi-visuals-asterplot # Repo for Power BI Aster Plot custom visual
+https://github.com/microsoft/powerbi-visuals-utils-colorutils # color utility interfaces for creating powerbi custom visuals
+https://github.com/microsoft/dynamics-365-for-marketing---power-bi-reporting # Download these Power BI templates to start building
+custom analytics and reports based on your Dynamics 365 for Marketing data. These templates will help you to connect to your Dynamics 365 instance and access its data. The download includes the following templates: Power BI template for Dynamics 365 for Marketing: Includes the code required to connect to your Dynamics 365 for Marketing data, and also includes functions that you can call to load entity and interaction data with just one line of code. This template provides a basic starting point for building your own custom reports. Sample email marketing analytics report: Provides a comprehensive report of your email marketing results, including detailed analytics, charts, and views spread across multiple report pages. You can use this template as-is, or as inspiration for designing your own reports. https://github.com/microsoft/powerbi-visuals-powerkpi # Power KPI for Power BI
+https://github.com/microsoft/powerbi-visuals-clustermap # Cluster Map custom visual for PowerBI
+https://github.com/microsoft/powerbi-visuals-facetkey # PowerBI Facet Key custom visual
+https://github.com/microsoft/peek # Azure Usage/Billing Analytics Solution for EAs, CSPs and Direct Subscriptions.
+https://github.com/microsoft/powerbi-visuals-powerkpimatrix # A KPI matrix visualization sample for PowerBI
+https://github.com/microsoft/azure-synapse-solution-accelerator-financial-analytics-customer-revenue-growth-factor # This accelerat
+or was built to provide developers with all of the resources needed to build a solution to identify the top factors for revenue growth from an e-commerce platform using Azure Synapse Analytics and Azure Machine Learning. https://github.com/microsoft/powerbi-visuals-timebrush # Time Brush custom visual for PowerBI
+https://github.com/microsoft/powerbi-visuals-strippetsbrowser # Strippets Browser custom visual for PowerBI
+https://github.com/microsoft/powerbi-data-access-auditing #
+https://github.com/microsoft/powerbi-visuals-utils-testutils # Test utility interfaces for testing powerbi custom visuals
+https://github.com/microsoft/powerbi-visuals-tablesorter # Table Sorter custom visual for PowerBI
+https://github.com/microsoft/powerbi-visuals-samplebarchart-react # power bi sample bar chart custom visual based on reactJS
+https://github.com/microsoft/powerbi-visuals-gantt # A Gantt chart is a type of bar chart which illustrates a project timeline or s
+chedule. The Gantt Chart visual shows the Tasks, Start Dates, Durations, % Complete, and Resources for a project. The Gantt Chart visual can be used to show current schedule status using percent-complete shadings and a vertical "TODAY" line. The Legend may be used to group or filter tasks based upon data values. https://github.com/microsoft/powerbi-visuals-utils-chartutils # chart utility interfaces for creating powerbi custom visuals
+https://github.com/microsoft/powerbi-visuals-sankey # Sankey is a type of flow diagram in which the width of the series is in propo
+rtion to the quantity of the flow. Use it to find major contributions to an overall flow. https://github.com/microsoft/reporting-services-loadtest # Reporting Services Load Test Project
+https://github.com/microsoft/powerbi-visuals-attributeslicer # Attribute Slicer custom visual for PowerBI
+https://github.com/microsoft/powerbi-visuals-cardbrowser # Card Browser PowerBI Visualization
+https://github.com/microsoft/microsoft-purview-advanced-rich-reports-mparr-collector # Repository with all the MPARR components sol
+ution https://github.com/microsoft/azure-synapse-customer-insights-customer360-solution-accelerator # Solution accelerator to help develo
+pers build an end-to-end Customer 360 solution using Azure Synapse Analytics and Dynamics 360 Customer Insights https://github.com/microsoft/powerbi-visuals-multikpi # A multi KPI visual implementation
+https://github.com/microsoft/powerbi-models # Contains JavaScript & TypeScript object models for Microsoft Power BI JavaScript SDK
+https://github.com/microsoft/semantic-link-labs # Early access to new features for Microsoft Fabric's Semantic Link.
+https://github.com/microsoft/azure-pdf-form-processing-automation-solution-accelerator #
+https://github.com/microsoft/powerbi-visuals-timeline # Timeline slicer is a graphical date range selector used as a filtering comp
+onent in the report canvas https://github.com/microsoft/fhir-analytics-pipelines #
+https://github.com/microsoft/essex-powerbi-visuals-base # Experimental utilities for PowerBI Custom Visualizations
+https://github.com/microsoft/powerbi-visuals-heatstreams # A categorical heat-map of a metric over the time domain
+https://github.com/microsoft/fabricrealtimelab # Microsoft Fabric real-time lab
+https://github.com/microsoft/powerplatformadvocates # This repository contains presentations and workshops created by the Microsoft
+Power Platform Advocates. https://github.com/microsoft/fabricrta-in-a-day # Fabric Real Time Analytics in a Day workshop
+https://github.com/microsoft/powerbi-visuals-pivotslicer # Pivot Slicer provides a unified 'list of lists' approach to viewing, nav
+igating, and slicing data https://github.com/microsoft/powerbi-visuals-mekkochart # A Mekko chart is a mix of a 100% stacked column chart and a 100% stacked
+bar chart combined into one view. Similar to a treemap, the dimensional values are represented by length and width of each rectangle. The width of a column is proportional to the total value of the column. https://github.com/microsoft/azure-social-media-analytics-solution-accelerator #
+https://github.com/microsoft/microsoft365-lighthouse-bi # Microsoft 365 Lighthouse Business Intelligence
+https://github.com/microsoft/powerapps-templates-japan # This is a repo for Japanese Power Apps templates
+https://github.com/microsoft/powerbi-visuals-samplematrix # demonstrates a powerbi matrix custom visual
+https://github.com/microsoft/template-apps-examples # Power BI template apps examples
+https://github.com/microsoft/azure-synapse-content-recommendations-solution-accelerator # This is a solution accelerator for creati
+ng personalized content recommendations based on user activity. https://github.com/microsoft/azure-synapse-solution-accelerator-commodity-price-prediction #
+https://github.com/microsoft/dynamics-365-industry-accelerators # Dynamics 365 is releasing Industry Accelerators to enable ISVs, S
+Is and Partners to rapidly build industry focused solutions on top of our Business Application and Intelligence Platforms. These accelerators are created through a close partnership with internal Product , Sales, Service, Marketing, Field and Vertical Teams, with feedback from external industry SI, ISV and Partners. Here you will find samples and guidance on how to build and extend your industry solution on the Dynamics 365 Business Application and Intelligence platforms using our industry accelerators. Samples will also include cross product implementations with Azure, Office 365, Power BI, LinkedIn, Teams and other on-premise and cloud based implementations. https://github.com/microsoft/azure-invoice-process-automation-solution-accelerator #
+https://github.com/microsoft/datalineage # Data Lineage for Spark components and PowerBI/AAS showing up in Azure Purview
+https://github.com/microsoft/copilotstudiosamples #
+https://github.com/microsoft/coe-starter-kit #
+https://github.com/microsoft/azure-synapse-solution-accelerator--part-comparator # This accelerator was built to provide developers
+with all of the resources needed to build a solution to find ideal replaceable parts comparing with its charecteristics for avoiding supplieir chain part procurement issue using Azure Synapse Analytics and Azure Machine Learning. https://github.com/microsoft/powerbi-router # A lightweight router for the Power BI JavaScript SDK which allows a hosting applicati
+on to register routes to extend and integrate with Power BI embedded components. https://github.com/microsoft/azure-databricks-solution-accelerator-financial-analytics-customer-revenue-growth-factor #
+https://github.com/microsoft/vscode-powerquery-sdk # Power Query Connector Development SDK for VS Code
+https://github.com/microsoft/d365-scm-telemetry # Sample code for customer/partner telemetry emitted by the Dynamics 365 Supply Cha
+in product. https://github.com/microsoft/fabric-metadata-scanning # Sample application for using the Fabric / Power BI metadata Scanner API
+https://github.com/microsoft/fabric-readiness # A collection of useful materials for presenters interested in topics related to Mic
+rosoft Fabric https://github.com/microsoft/fabric-rta-flightstream # Microsoft Fabric Real-time Analytics flight streaming
+https://github.com/microsoft/industry-accelerator-nonprofit # The accelerator enables development to build nonprofit solutions by l
+everaging the Microsoft Business Applications, Modern Workplace, Azure, and Intelligence Platforms. The Nonprofit Accelerator is built on the Common Data Model for Nonprofits that spans across constituent management, fundraising, program design, operations, and impact delivery. https://github.com/microsoft/hack-together-fabric-ai # Hack Together: The Microsoft Fabric Global AI Hack
+https://github.com/microsoft/gbb-business-applications #
+https://github.com/microsoft/dynamics365-project-operations-powerapps # Sample Apps for use with Project Operations
+https://github.com/microsoft/hls-home # This repository is the home for project files related to Microsoft Healthcare.
+https://github.com/microsoft/powerbi-troubleshooting # Troubleshooting resources for Power BI
+https://github.com/microsoft/datafactory #
+https://github.com/microsoft/mtc_azurepolicysamples # MTC Azure Policy Samples
+https://github.com/microsoft/power-bi-adf-synapse #
+https://github.com/microsoft/powerbi-visuals-utils-formattingmodel # powerbi visuals formatting model helper utils
+https://github.com/microsoft/eslint-plugin-powerbi-visuals # contains ESLINT rules for ensuring powerbi custom visuals quality
+https://github.com/microsoft/azure-data-manager-for-energy-experience-lab # Experience Lab is a set of utilities that assist in cre
+ating instances of Microsoft Azure Data Manager for Energy, performing data loads, and performing basic management operations. https://github.com/microsoft/secmgmt-insights-connector # Power BI connector that provides insight into the current state of how Mi
+crosoft 365 is configured and whether best practices have been implemented https://github.com/microsoft/azureml-ops-accelerator # Guided accelerator consolidating best practice patterns, IaaC and AML code a
+rtefacts to provide a reference approach to implementing MLOps on Azure leveraging Azure ML. https://github.com/microsoft/thematic # Thematic is a library and web application to aid designers in creating color palettes that
+unify application colors based on a desired look and feel (e.g., corporate branding) while also providing perceptually balanced color palettes and ramps for data visualization within the application. The primary goal is to provide several bindings to common application development and visualization frameworks, so theming across platforms and contexts is simple and consistent across platforms such as Power BI, Office, and web frameworks (React, Fabric, D3, Vega). https://github.com/microsoft/powercat-automation-kit #
+https://github.com/microsoft/semantic-link-functions # Semantic Functions for Semantic Link
+https://github.com/microsoft/saaslab # SaaS-ification resources for ISVs
+https://github.com/microsoft/powerbi-visuals-multikpi # A multi KPI visual implementation
+https://github.com/microsoft/aitour-get-started-with-fabric #
+https://github.com/microsoft/power-bi-streaming-dataflows # Power BI streaming dataflows templates
+https://github.com/microsoft/powerbi-pipeline-reports # Power BI template that consolidates pipeline runs across multiple projects
+in AzDO using REST APIs https://github.com/microsoft/aoai-logging-with-apim #
+https://github.com/microsoft/bio-compliancy # BIO Compliancy template voor Microsoft 365
+https://github.com/microsoft/cloud-advocate-workshops # Workshops created by the Cloud Advocacy team at Microsoft.
+https://github.com/microsoft/powerbi-report-viewer # Code base for Power BI report viewer react component
+https://github.com/microsoft/azure-datahub-solution-accelerator-for-government-recovery-programs #
+https://github.com/microsoft/azure-employee-network-graph-solution-accelerator-with-mgdc #
+https://github.com/microsoft/azure-data-manager-for-energy-power-bi-connector # Microsoft Azure Data Manager for Energy Certified P
+ower BI Connector https://github.com/microsoft/data-sharing-accelerator # This is a private staging repository for code related to the 2022 FEMA spon
+sored Cascadia Rising Exercise. https://github.com/microsoft/project-yellowstone-documentation # Documentation for the private preview of Project Yellowstone (Buil
+t-in Power BI reports for Dynamics 365 Business Central) https://github.com/microsoft/synapsehealthassessment #
+https://github.com/microsoft/vivainsights_zoom_int # Zoom Data Integration with Viva Insights
+https://github.com/microsoft/iot-curriculum # Hands on labs and content for students and educators to learn and teach the Internet
+of Things at schools, universities, coding clubs, community colleges and bootcamps https://github.com/microsoft/powerbi-visuals-pulsechart # Pulse chart shows a line chart annotated with key events. Each events can
+be selected to filter and cross highlight other visuals to reveal insights or help tell a story. Pulse chart supports animation so you can load your report and watch it play through key events, without user interaction. This visualization is perfect for story telling with data, especially the Power BI publish to web feature. Use it anywhere you need to draw attention to events that shaped a trend. https://github.com/microsoft/global-copilot-summit # The theme of the summit is Adopt, Extend, and Build Copilot, and is attended b
+y professional developers interested in learning more about AI, GitHub Copilot, Azure AI Studio, or Power Apps and how they can leverage them with M365 Copilot. https://github.com/microsoft/dataactivator # This is the repository for private preview documentation for Data Activator. Find out
+more at https://aka.ms/dataActivatorBlog https://github.com/microsoft/powerbi-visuals-utils-onobjectutils #
+https://github.com/microsoft/blob-inventory-report-analytics #
+https://github.com/microsoft/review-hub #
+https://github.com/microsoft/patient-discharge-planning # Sample solution for discharge planning, designed to work as part of Micro
+soft Cloud for Healthcare https://github.com/microsoft/gif-for-dataverse # Repository for Power Platform template to deploy GIF on Dataverse (Japanese)
+https://github.com/microsoft/metadata-translator # Metadata Translator helps to streamline the localization of Power BI data models
+. The tool can automatically translate the captions, descriptions, and display folder names of tables, columns, measures, and hierarchies by using the machine translation technology of Azure Cognitive Services. It also lets you export and import translations for convenient bulk editing in Excel or a localization tool. https://github.com/microsoft/mtc_il_workshop_azure_administrator #

@@ -1,0 +1,33 @@
+https://github.com/officedev/office-add-in-samples # Code samples for Office Add-in development on the Microsoft 365 platform.
+https://github.com/officedev/generator-office # Yeoman generator for building Microsoft Office related projects.
+https://github.com/officedev/excel-custom-functions # Learn about custom functions in Excel.
+https://github.com/officedev/script-lab # Create, run and share your code directly from Office
+https://github.com/officedev/excel-io # A utility library that makes it easy to read and write Excel workbooks using C#
+https://github.com/officedev/odata-excel-integration-add-in-sample # Sample Office Add-In app for Excel.
+https://github.com/officedev/excel-custom-functions-js # Write your own functions in Excel using JavaScript.
+https://github.com/officedev/excel-content-add-in-humongous-insurance # The Humongous Insurance content add-in shows how you can us
+e the new JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in.
+https://github.com/officedev/powerpoint-add-in-microsoft-graph-aspnet-insertchart # An add-in connecting to OneDrive, finds workboo
+ks, returns charts and inserts charts onto slides using Office.js
+https://github.com/officedev/excel-add-in-javascript-salestracker # Display data in Excel tables and charts, and programmatically change the formatting of tables and charts.
+https://github.com/officedev/office-js-snippets # A collection of code snippets built with Script Lab
+https://github.com/officedev/office-store-docs # Microsoft AppSource and Office Store Documentation
+https://github.com/officedev/office-add-in-saas-monetization-sample # Monetize your Office 365 add-in through Microsoft Commercial Marketplace
+https://github.com/officedev/office-js-requirement-sets #
+https://github.com/officedev/excel-scenario-based-add-in-samples # Scenario-focused samples that help you get started with building Excel add-ins.
+https://github.com/officedev/custom-functions # Custom Functions sample add-ins
+https://github.com/officedev/microsoft-teams-shifts-power-automate-templates # Power Automate templates that enable you to automate operations in Microsoft Teams Shifts
+https://github.com/officedev/excel-add-in-salesleads # Shows how to create worksheets and tables, hide worksheets, sort tables, use conditional table formatting, create charts, add trendlines to charts, hide gridlines, include hyperlinks from one table to another, and convert the workbook to a byte array.
+https://github.com/officedev/office-addin-taskpane-sso # Project template for creating an Office taskpane add-in that uses SSO,
+https://github.com/officedev/office-addin-taskpane-sso-js # JavaScript project template for creating an Office taskpane add-in that uses SSO,
+https://github.com/officedev/vscode-debugger-extension-for-office-addins # VS Code extension to allow for debugging Office Add-ins in VS Code
+https://github.com/officedev/office-addin-scripts # A set of scripts and packages that are consumed in Office add-ins projects.
+https://github.com/officedev/excel-custom-functions-shared # Template to get start started writing an Excel custom function Office Add-in that used a shared runtime and TypeScript
+https://github.com/officedev/office-365-huddle-templates # Accelerator for showing Office 365 Services and Apps in lean, process-improvement scenario
+https://github.com/officedev/add-in-content-sample #
+https://github.com/officedev/excel-custom-functions-shared-js # Template to get start started writing an Excel custom function Office Add-in that used a shared runtime and JavaScript
+https://github.com/officedev/groups-api-office-add-in-php-sample # PHP code sample that shows how to use the Groups API in both a stand-alone web application and within an Office add-in
+https://github.com/officedev/office-control-ids # Provides the official IDs of controls in the Office UI
+https://github.com/officedev/office-addin-preview-dev-tool-doc # This repository contains document for Office Add-in development tools in preview status
+https://github.com/officedev/officejsaddinwidget #
+https://github.com/officedev/office-addin-taskpane-sso-naa # JavaScript project template for creating an Office taskpane add-in that uses SSO (NAA API),

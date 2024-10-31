@@ -1,0 +1,92 @@
+https://github.com/azure-samples/ai-gbb-curated-ip # List of Recommended IPs and Accelerators by the AI GBBs
+https://github.com/azure/microsoft365r # R SDK for interacting with Microsoft 365 APIs
+https://github.com/azure/azurer # Family of packages for interacting with Azure from R
+https://github.com/azure/jp-techdocs # A repository for providing Japanese technical documents by volunteer employees belonging to technical divisions in Microsoft Japan.
+https://github.com/azure/mlops-infra-default # Azure MLOps default infrastructure.
+https://github.com/azure/azure-operation-script # Azure Platform Automation using Az PowerShell module and Azure CLI
+https://github.com/azure/terraform-azurerm-avm-res-servicebus-namespace #
+https://github.com/azure/terraform-azurerm-avm-res-documentdb-databaseaccount #
+
+https://github.com/sharepoint/sp-dev-docs # SharePoint & Viva Connections Developer Documentation
+https://github.com/sharepoint/sp-dev-provisioning-templates # Repository for open-source content packs with the provisioning tooling
+https://github.com/sharepoint/sp-provisioning-service # Code for the Microsoft Look Book and provisioning service
+https://github.com/sharepoint/sp-dev-training-spfx-getting-started # SharePoint Framework training package - Getting Started with the SharePoint Framework
+https://github.com/sharepoint/sp-dev-training-spfx-web-parts # SharePoint Framework training package - Developing with the SharePoint Framework: Web Parts
+https://github.com/sharepoint/sp-dev-training-spfx-react-fabric # SharePoint Framework training package - Using React and Office UI Fabric React components
+https://github.com/sharepoint/sp-dev-training-spfx-spcontent # SharePoint Framework training package - Working with SharePoint Content
+https://github.com/sharepoint/sp-dev-training-spfx-extensions # SharePoint Framework training package - Getting Started with SharePoint Framework Extensions
+https://github.com/sharepoint/sp-dev-training-spfx-teams-dev # SharePoint Framework training package - Build Microsoft Teams customizations using SharePoint Framework
+https://github.com/sharepoint/sp-dev-training-spfx-graph-3rdpartyapis # SharePoint Framework training package - Leverage the Microsoft Graph & 3rd Party APIs
+https://github.com/sharepoint/sp-dev-training-spfx-deployment # SharePoint Framework training package - Deploy solutions to production
+https://github.com/sharepoint/sp-dev-training-spfx-webpart-proppane # SharePoint Framework training package - Working with the Web Part Property Pane
+https://github.com/sharepoint/sp-dev-docs-ref-typescript # Source for the SPFx TypeScript reference at https://docs.microsoft.com/en-us/javascript/api/overview/sharepoint?view=sp-typescript-latest
+https://github.com/sharepoint/sp-dev-training-spfx-ace # SharePoint Framework training package - Building Adaptive Card Extensions
+for Microsoft Viva
+https://github.com/sharepoint/sp-dev-docs-2013-server-ref-dotnet # Docs on SharePoint 2013 server side
+https://github.com/sharepoint/.github # SharePoint GitHub organization policies and configuration
+
+https://github.com/officedev/microsoft-teams-samples # Welcome to the Microsoft Teams samples repository. Here you will find task-f
+ocused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App! https://github.com/officedev/m365bootcamp-teamsemergencyresponse # Workshop content and sample code from the Global Microsoft 365 D
+eveloper Bootcamp in October 2020 focused on building an emergency response center with Teams and SharePoint https://github.com/officedev/office-add-in-saas-monetization-sample # Monetize your Office 365 add-in through Microsoft Commercial
+Marketplace https://github.com/officedev/interop-testsuites # SharePoint and Exchange Protocol Test Suites
+https://github.com/officedev/project-samples # This Project Online add-in demonstrates how to create a project using DotNet with CS
+OM https://github.com/officedev/skype-docs # This repository contains the content of the Skype Web SDK documentation. To review your P
+R, contact lindalu@microsoft.com https://github.com/officedev/office-365-huddle-templates # Accelerator for showing Office 365 Services and Apps in lean, process-im
+provement scenario https://github.com/officedev/office-store-docs # Microsoft AppSource and Office Store Documentation
+https://github.com/officedev/project-add-in-rest-basicdataoperations # Use the Project REST endpoints to perform create, read, upda
+te, and delete operations on Projects from a Project Add-in https://github.com/officedev/copilot-for-m365-samples # Microsoft Copilot for Microsoft 365 samples
+https://github.com/officedev/project-rest-basic-operations # This Project Online sample code demonstrates how to create and update
+a project using REST https://github.com/officedev/teams-video-player-bot # This sample shows how to play a video within Microsoft Teams from an Adaptive
+Card. This demonstrator supports public hosted videos (like YouTube) as well as content hosted on Microsoft SharePoint online. https://github.com/officedev/microsoft-teams-emergency-operations-center # The Microsoft Teams Emergency Operations Center (TEOC) s
+olution template leverages the power of the Microsoft 365 platform to centralize incident response, information sharing and field communications using powerful services like Microsoft Lists, SharePoint and more. https://github.com/officedev/office-inspectors-for-fiddler # Microsoft Office (MAPI, WOPI, and FSSHTTP) inspectors for Fiddler
+https://github.com/officedev/microsoft-teams-apps-requestateam # Power Platform based solution that allows users to request teams a
+nd automates team creation. NO LONGER MAINTAINED. Please use 'Provision Assist' - https://github.com/pnp/provision-assist-m365/ instead. https://github.com/officedev/project-csom-read-enterprise-customfields # Reading Project Web App (PWA) Enterprise custom fields using CSOM
+https://github.com/officedev/project-jsom-copy-work-packages # Project-JSOM-Copy-Work-Packages
+https://github.com/officedev/mcca # Microsoft Compliance Configuration Analyzer
+https://github.com/officedev/microsoft-teams-apps-rapid-assist # An app template designed to enable frontline workers to get rapid assistance for customer queries.
+https://github.com/officedev/groups-api-office-add-in-php-sample # PHP code sample that shows how to use the Groups API in both a s
+tand-alone web application and within an Office add-in
+https://github.com/officedev/microsoft-teams-apps-request-a-guest # Power Apps solution that automates the guest approval and invite process
+https://github.com/officedev/microsoft-teams-apps-classroom-dropin # An app template designed to enable system leaders to schedule drop-ins in virtual classrooms.
+https://github.com/officedev/microsoft-teams-app-get-support #
+https://github.com/officedev/camp # Configuration Analyzer for Microsoft Purview (CAMP) is a tool which, on execution, generates a
+report highlighting known issues in your compliance configurations.
+https://github.com/officedev/add-in-content-sample #
+https://github.com/officedev/teams-phone-system-admin-app # A delegated Admin application for Microsoft Teams Calling Plans (PSTN) phone numbers management
+
+https://github.com/microsoft/sharepointdsc.reverse # Extracts a Desired State Configuration Script from an existing SharePoint Farm
+https://github.com/microsoft/mscloudloginassistant # PowerShell Module Handling Authentication to Cloud Services
+https://github.com/microsoft/sharepoint-embedded-samples # Welcome to the SharePoint Embedded samples repository. Here you will fin
+d client-side and server-side samples to help you get started building on SharePoint Embedded!
+https://github.com/microsoft/copilotstudiosamples #
+https://github.com/microsoft/abap-sdk-for-azure # ABAP Libraries for SAP native Integration with Azure Services
+https://github.com/microsoft/hack-together-teams # HackTogether: The Microsoft Teams Global Hack | Register, Hack, Win 👇
+https://github.com/microsoft/mtc_modernsharepointworkshop # MTC_ModernSharePointWorkshop
+https://github.com/microsoft/rdlmigration # Tool that converts RDL from a SQL Server Reporting Services Server or Power BI Report server and published to a Power BI premium workspace
+https://github.com/microsoft/sharepoint-embedded-vs-code-extension # SharePoint Embedded for Visual Studio Code
+https://github.com/microsoft/office365networktools # A collection of tools, scripts, code and documentation for Office 365 Network Routing, Optimization and Monitoring.
+https://github.com/microsoft/mimpowershellconnectors # A collection of data connectors for Microsoft Identity Manager that utilize the PowerShell connector framework
+https://github.com/microsoft/pfe # Public repo for PFE projects
+https://github.com/microsoft/shapeshifter # A way to dynamically render controls in Power Apps
+https://github.com/microsoft/fasttrack # GitHub home for Microsoft FastTrack
+https://github.com/microsoft/2023iotlevelup #
+https://github.com/microsoft/dynamics-365-industry-accelerators # Dynamics 365 Industry Accelerators
+https://github.com/microsoft/mwx-teams-spo-nav # Adds navigation back into SharePoint sites embedded in Microsoft Teams
+https://github.com/microsoft/mtc_guestaccessteamsworkshop # MTC Teams Guest Access Workshop
+https://github.com/microsoft/samplecpmproject # This sample project provides code snipets on how to call the REST api of the CPM service programmatically.
+https://github.com/microsoft/entraexporter # PowerShell module to export a local copy of an Entra (Azure AD) tenant configuration.
+https://github.com/microsoft/industry-accelerator-nonprofit # The accelerator enables development to build nonprofit solutions by leveraging the Microsoft Business Applications, Modern Workplace, Azure, and Intelligence Platforms. The Nonprofit Accelerator is built on the Common Data Model for Nonprofits that spans across constituent management, fundraising, program design, operations, and impact delivery.
+https://github.com/microsoft/spfx-react-webchat # Modern sharepoint online webpart to integrate the BotFramework webchat
+https://github.com/microsoft/mimdsc # PowerShell Desired State Configuration Module for Microsoft Identity Manager
+https://github.com/microsoft/sp-server-workflow-scanner # This workflow scanner mimics the SPO Modernization scanner functionality, in relation to the workflow scan reports. It can be run on SharePoint Server 2013 or 2016 to locate your existing classic workflows and provide information that will help you to prepare for a transformation to alternative solutions such as Power Automate. Developed by the Modern Work team from the Industry Solutions Delivery group at Microsoft.
+https://github.com/microsoft/mwx-teams-me-hub #
+https://github.com/microsoft/mtc_teamsguestaccess # Teams Guest Access Solution
+https://github.com/microsoft/ace-ux-components #
+https://github.com/microsoft/extracttextfromobjects # Extract text from objects using Power Automate and AI Builder
+https://github.com/microsoft/dstoolkit-aoaiflaskapp #
+https://github.com/microsoft/mtc_corpcommworkshop # MTC Corporate Communications Workshop
+https://github.com/microsoft/global-copilot-summit # The theme of the summit is Adopt, Extend, and Build Copilot, and is attended by professional developers interested in learning more about AI, GitHub Copilot, Azure AI Studio, or Power Apps and how they can leverage them with M365 Copilot.
+https://github.com/microsoft/review-hub #
+https://github.com/microsoft/aitour-copilot-security-practices #
+https://github.com/microsoft/bio-compliancy # BIO Compliancy template voor Microsoft 365
+https://github.com/microsoft/comparative-analysis-for-sustainability-solution-accelerator # This solution accelerator enables companies to detect compliance gaps, benchmark against their peers, and generate action plans to ensure they’re on track to meet their sustainability goals
