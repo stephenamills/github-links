@@ -1,8 +1,8 @@
 https://github.com/contentful/contentful.js # JavaScript library for Contentful's Delivery API (node & browser)
 https://github.com/contentful/rich-text # Libraries for handling and rendering Rich Text 📄
 https://github.com/contentful/forma-36 # A design system by Contentful
-https://github.com/contentful/contentful-cli # The official Contentful command line interface. Use Contentful features straight fro
-m the command line! https://github.com/contentful/contentful-migration # 🚚 Migration tooling for contentful
+https://github.com/contentful/contentful-cli # The official Contentful command line interface. Use Contentful features straight from the command line!
+https://github.com/contentful/contentful-migration # 🚚 Migration tooling for contentful
 https://github.com/contentful/contentful-management.js # JavaScript library for Contentful's Management API (node & browser)
 https://github.com/contentful/contentful.swift # A delightful Swift interface to Contentful's content delivery API.
 https://github.com/contentful/contentful-export # This tool allows you to export a Contentful space to a JSON dump
@@ -13,19 +13,19 @@ https://github.com/contentful/ui-extensions-sdk # A JavaScript library to develo
 https://github.com/contentful/contentful.php # Official PHP Library for the Content Delivery API
 https://github.com/contentful/template-blog-webapp-nextjs # Next.js blog starter template
 https://github.com/contentful/create-contentful-app # Bootstrap a Contentful App
-https://github.com/contentful/contentful-import # Node module that uses the data provided by contentful-export to import it to cont
-entful space https://github.com/contentful/contentful.net # .NET Library for Contentful's Content Delivery and Management API
+https://github.com/contentful/contentful-import # Node module that uses the data provided by contentful-export to import it to contentful space
+https://github.com/contentful/contentful.net # .NET Library for Contentful's Content Delivery and Management API
 https://github.com/contentful/template-marketing-webapp-nextjs # Next.js marketing website starter template
 https://github.com/contentful/vault # Easy persistence of Contentful data for Android over SQLite.
 https://github.com/contentful/contentful.java # Java SDK for Contentful's Content Delivery API
 https://github.com/contentful/template-ecommerce-webapp-nextjs # Next.js ecommerce website starter template
 https://github.com/contentful/live-preview # Preview SDK for both the field tagging connection + live content updates
-https://github.com/contentful/contentful-resolve-response # Resolve items & includes of a Contentful API response into a proper obj
-ect graph https://github.com/contentful/contentful.py # Python client for the Contentful Content Delivery API https://www.contentful.com/deve
-lopers/documentation/content-delivery-api/ https://github.com/contentful/contentful-laravel # Laravel integration for the Contentful SDK.
-https://github.com/contentful/contentful_model # A lightweight wrapper around the Contentful api gem, to make it behave more like A
-ctiveRecord https://github.com/contentful/contentful-management.py # Python client for the Contentful Content Management API https://www.conten
-tful.com/developers/documentation/content-management-api/ https://github.com/contentful/contentful-management.rb # Ruby client for the Contentful Content Management API
+https://github.com/contentful/contentful-resolve-response # Resolve items & includes of a Contentful API response into a proper object graph
+https://github.com/contentful/contentful.py # Python client for the Contentful Content Delivery API https://www.contentful.com/developers/documentation/content-delivery-api/
+https://github.com/contentful/contentful-laravel # Laravel integration for the Contentful SDK.
+https://github.com/contentful/contentful_model # A lightweight wrapper around the Contentful api gem, to make it behave more like ActiveRecord
+https://github.com/contentful/contentful-management.py # Python client for the Contentful Content Management API https://www.contentful.com/developers/documentation/content-management-api/
+https://github.com/contentful/contentful-management.rb # Ruby client for the Contentful Content Management API
 https://github.com/contentful/contentfulbundle # Symfony Bundle for the Contentful SDK.
 https://github.com/contentful/rich-text-renderer.swift # Render Contentful Rich Text fields to native strings and views
 https://github.com/contentful/contentful-management.java # Java library for using the Contentful Content Management API
@@ -36,8 +36,8 @@ https://github.com/contentful/contentful-sdk-core # Core modules for the Content
 https://github.com/contentful/content-models # A set of example content models build with and for Contentful
 https://github.com/contentful/contentful-merge # CLI to merge entries between environments
 https://github.com/contentful/contentful-core.php # Foundation library for Contentful PHP SDKs
-https://github.com/contentful/starter-hydrogen-store # Example store starter template built with Contentful and Hydrogen framework
-from Shopify https://github.com/contentful/sveltekit-starter # Starter repo to get started with Sveltekit and Contentful
+https://github.com/contentful/starter-hydrogen-store # Example store starter template built with Contentful and Hydrogen framework from Shopify
+https://github.com/contentful/sveltekit-starter # Starter repo to get started with Sveltekit and Contentful
 https://github.com/contentful/contentful-batch-libs # Library modules used by contentful batch utility CLI tools.
 https://github.com/contentful/ls-content-as-code # Example content migration API scripts
 https://github.com/contentful/node-apps-toolkit # A collection of helpers and utilities for creating NodeJS Contentful Apps
@@ -57,8 +57,8 @@ https://github.com/contentful/nextjs-tailwind-blog #
 https://github.com/contentful/actions-app-deploy # Custom Github Action for deploying apps to Contentful
 https://github.com/contentful/react-starter # Starter template to get started with Contentful and React
 https://github.com/contentful/studio-starter-template #
-https://github.com/contentful/using-contentful-in-unity # This is the code that is referenced in the "Unity Game Development With C
-ontentful" article on the Contentful blog. https://github.com/contentful/browserslist-config #
+https://github.com/contentful/using-contentful-in-unity # This is the code that is referenced in the "Unity Game Development With Contentful" article on the Contentful blog.
+https://github.com/contentful/browserslist-config #
 https://github.com/contentful/what-is-astro # Companion repository for the guide "What is Astro" on the Contentful blog
 https://github.com/contentful/starter-astro-bookshelf # A Contentful starter website built with Astro
 https://github.com/contentful/vercel-nextjs-toolkit #
@@ -73,13 +73,12 @@ https://github.com/contentful/workflow-migration-script #
 https://github.com/contentful/contentful-redux-tutorial #
 https://github.com/contentful/app-framework-workshop-external #
 https://github.com/contentful/live-update-error-example #
-https://github.com/contentful/github-auto-merge # A github custom action to fetch a Github token from vault, approve the PR and ena
-ble auto merge for the PR so that once it passes all the PR checks it will be merged. https://github.com/contentful/uppy-asset-upload-example # Example code on how to upload assets to Contentful using Uppy
+https://github.com/contentful/github-auto-merge # A GitHub custom action to fetch a GitHub token from vault, approve the PR and enable auto merge for the PR so that once it passes all the PR checks it will be merged. https://github.com/contentful/uppy-asset-upload-example # Example code on how to upload assets to Contentful using Uppy
 https://github.com/contentful/contentful-yup-form-validation-formik #
 https://github.com/contentful/ls-categories #
 https://github.com/contentful/contentful-ls-cma-1 #
-https://github.com/contentful/learning-services # A repository of sample code, scripts and other material for use with Contentful's
-training programs. https://github.com/contentful/integration-frontend-toolkit #
+https://github.com/contentful/learning-services # A repository of sample code, scripts and other material for use with Contentful's training programs.
+https://github.com/contentful/integration-frontend-toolkit #
 https://github.com/contentful/.github # Repo for CONTRIBUTING and CODE_OF_CONDUCT files.
 https://github.com/contentful/react-pagination #
 https://github.com/contentful/terraform-provider-pingdom #
@@ -88,30 +87,31 @@ https://github.com/contentful-labs/concorde # Download and decode progressive JP
 https://github.com/contentful-labs/gqli.rb # Ruby GraphQL Client for Humans
 https://github.com/contentful-labs/kube-secret-syncer # A Kubernetes operator to sync secrets from AWS Secrets Manager
 https://github.com/contentful-labs/starter-gatsby-blog # Gatsby starter for a Contentful project from the community.
-https://github.com/contentful-labs/contentful-aws-lambda-static # An experiment in static site genration using Contentful and AWS L
-ambda https://github.com/contentful-labs/coredns-nodecache # Nodelocal DNS implementation as a CoreDNS plugin
+https://github.com/contentful-labs/contentful-aws-lambda-static # An experiment in static site genration using Contentful and AWS Lambda
+https://github.com/contentful-labs/coredns-nodecache # Nodelocal DNS implementation as a CoreDNS plugin
 https://github.com/contentful-labs/terraform-diff # Always know where you need to run Terraform plan & apply!
 https://github.com/contentful-labs/terraform-contentful # Terraform provider for Contentful
-https://github.com/contentful-labs/product-catalogue-web.ts # Demo application in Typescript / Angular2 to consume spaces from Cont
-entful which implement the product catalogue template. https://github.com/contentful-labs/file-upload-example # Example application to demonstrate the new direct file upload feature of C
-ontentful. https://github.com/contentful-labs/continous-delivery-environments-example # An example application for how you can Integrating mig
-rations in your continous delivery pipeline. https://github.com/contentful-labs/contentful.py # This project is unofficial and currently unsupported, the official SDK can be fo
-und here: https://github.com/contentful/contentful.py https://github.com/contentful-labs/gazette # Contentful Gazette: bidirectional real-time content management and delivery
-https://github.com/contentful-labs/gitify-dependencies # CLI tool for replacing node dependencies with their respective git reposit
-ories. https://github.com/contentful-labs/md-to-html-lambda #
-https://github.com/contentful-labs/webhook-apigateway-lambda-slack.js # Demo setup of an integration of Contentful's webhooks with
-a slack channel. https://github.com/contentful-labs/zappa-contentful # Example application showing how to build an entirely serverless site with Py
-thon, Flask, and Contentful. Then seamlessly deploy it to AWS Lambda/API Gateway using Zappa. https://github.com/contentful-labs/continous-delivery-environments-tutorial-starter # Starting Repo for continous delivery pipeline
-tutorial. For a completed project see https://github.com/contentful-labs/continous-delivery-environments-example https://github.com/contentful-labs/lookbook-example # Browser app example for createing a Lookbook with Contenful https://www.conte
-ntful.com/blog/2015/09/10/creating-a-digital-lookbook/ https://github.com/contentful-labs/gatsby-starter-contentful-knowledge-base # A gatsby starter for knowledge base apps powered by C
-ontentful. https://github.com/contentful-labs/cdn-webinar-store-demo # The "Store" demo from the Content Delivery API Webinar on 2014.07.10
+https://github.com/contentful-labs/product-catalogue-web.ts # Demo application in Typescript / Angular2 to consume spaces from Contentful which implement the product catalogue template.
+https://github.com/contentful-labs/file-upload-example # Example application to demonstrate the new direct file upload feature of Contentful.
+https://github.com/contentful-labs/continous-delivery-environments-example # An example application for how you can Integrating migrations in your continous delivery pipeline.
+https://github.com/contentful-labs/contentful.py # This project is unofficial and currently unsupported, the official SDK can be found here:
+https://github.com/contentful/contentful.py https://github.com/contentful-labs/gazette # Contentful Gazette: bidirectional real-time content management and delivery
+https://github.com/contentful-labs/gitify-dependencies # CLI tool for replacing node dependencies with their respective git repositories.
+https://github.com/contentful-labs/md-to-html-lambda #
+https://github.com/contentful-labs/webhook-apigateway-lambda-slack.js # Demo setup of an integration of Contentful's webhooks with a slack channel.
+https://github.com/contentful-labs/zappa-contentful # Example application showing how to build an entirely serverless site with Python, Flask, and Contentful. Then seamlessly deploy it to AWS Lambda/API Gateway using Zappa.
+https://github.com/contentful-labs/continous-delivery-environments-tutorial-starter # Starting Repo for continous delivery pipeline tutorial. For a completed project see
+https://github.com/contentful-labs/continous-delivery-environments-example
+https://github.com/contentful-labs/lookbook-example # Browser app example for createing a Lookbook with Contenful https://www.contentful.com/blog/2015/09/10/creating-a-digital-lookbook/
+https://github.com/contentful-labs/gatsby-starter-contentful-knowledge-base # A gatsby starter for knowledge base apps powered by Contentful.
+https://github.com/contentful-labs/cdn-webinar-store-demo # The "Store" demo from the Content Delivery API Webinar on 2014.07.10
 https://github.com/contentful-labs/contentful-action-example # Example repo showcasing how to use Contentful Action Repo
 https://github.com/contentful-labs/cosmonaut # Explore the awesome depths of Spaces (to be read in Neil deGrasse Tyson's voice)
 https://github.com/contentful-labs/contentful-cardboard # Google Cardboard VR displaying entries from Contentful
 https://github.com/contentful-labs/ui-country-select # A UI-Extension to enrich the editor with a country select
 https://github.com/contentful-labs/ui-reference-quick-select # A UI-Extension to enrich the editor with a reference quick select
-https://github.com/contentful-labs/cma_import_script # Sample script using the contentful management api to create a space with dat
-a. https://github.com/contentful-labs/jumpgate-app # WIP - Design system app exploration
+https://github.com/contentful-labs/cma_import_script # Sample script using the contentful management api to create a space with data.
+https://github.com/contentful-labs/jumpgate-app # WIP - Design system app exploration
 https://github.com/contentful-labs/kramdown-instant-article # A Kramdown converter optimised for Facebook Instant Articles
 https://github.com/contentful-labs/ps-cx-wordpress-migration-tool #
 https://github.com/contentful-labs/contentful_mirror # Contentful Module for Magic Mirror
@@ -119,19 +119,17 @@ https://github.com/contentful-labs/contextual-help # Content type contextual hel
 https://github.com/contentful-labs/reposite-contentful-template # Reposite template for Contentful repositories
 https://github.com/contentful-labs/contentful_aframevr_middleman # Contentful + AFrame VR + Middleman example
 https://github.com/contentful-labs/scheduling_app # Scheduled publishing using Contentful's API and Middleman
-https://github.com/contentful-labs/atom-exporter # An Atom package for exporting your current workspace (or sub folder of it) into
-Contentful https://github.com/contentful-labs/duplicate-space-cli # A bash script that will create a new space and duplicate the content model
-from your reference space. https://github.com/contentful-labs/slack-bot-command-example # Gomix Slack Command Example
+https://github.com/contentful-labs/duplicate-space-cli # A bash script that will create a new space and duplicate the content model from your reference space.
+https://github.com/contentful-labs/slack-bot-command-example # Gomix Slack Command Example
 https://github.com/contentful-labs/floating-editor-extension #
-https://github.com/contentful-labs/.github #
 https://github.com/contentful-labs/sec-challenge # What?
 https://github.com/contentful-labs/extensible-resource-links-example #
-https://github.com/contentful-labs/contentful-fix-asset-cross-refs # A tool to assist with fixing asset cross-references in Content
-ful spaces https://github.com/contentful-labs/web-localization-example # An example project showing the localization feature
+https://github.com/contentful-labs/contentful-fix-asset-cross-refs # A tool to assist with fixing asset cross-references in Contentful spaces
+https://github.com/contentful-labs/web-localization-example # An example project showing the localization feature
 https://github.com/contentful-labs/spelling-and-style-sheet # A shared repository for automated spelling and style sheet tests
 
-https://github.com/contentful-developer-relations/workshop-gatsby-photo-blog # Workshop: Create your personal image blog with Gatsb
-y and Contenful https://github.com/contentful-developer-relations/styled-assets-stream # The styled asset app, built on stream.
+https://github.com/contentful-developer-relations/workshop-gatsby-photo-blog # Workshop: Create your personal image blog with Gatsby and Contenful
+https://github.com/contentful-developer-relations/styled-assets-stream # The styled asset app, built on stream.
 https://github.com/contentful-developer-relations/contentful-summer-of-graphql # GraphQL Projects that we build together on stream.
 
 https://github.com/marketplace-partner-apps/shopify #
