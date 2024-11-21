@@ -8,6 +8,23 @@ https://github.com/graphite-project/ceres # Distributable time-series database (
 https://github.com/graphite-project/graphite-project.github.io # Future website for the Graphite project
 https://github.com/graphite-project/graphite-test-docker # Test scripts for testing Graphite using Docker
 
+https://github.com/grafana/worldmap-panel # Worldmap panel plugin for Grafana 3.0 that can be overlaid with circles for data points.
+https://github.com/grafana/carbon-relay-ng # Fast carbon relay+aggregator with admin interfaces for making changes online - production ready
+https://github.com/grafana/grafana-docker-dev-env # Dockerfile with graphite, grafana, elasticsearch, statsd, fake data generator
+https://github.com/grafana/graphite-mt # Graphite-web tailored for running with a metrictank backend
+https://github.com/grafana/cloud-graphite-scripts # Example program to send data to Grafana Hosted Metrics Graphite service
+https://github.com/grafana/mimir-proxies # Proxies to help you ingest your metrics into Grafana Mimir.
+https://github.com/grafana/synthesize # Scripts for easy installation of Graphite and StatsD
+https://github.com/grafana/grafana-by-example # Grafana Configuration Examples
+https://github.com/grafana/ansible-grafana # Ansible role for grafana deployment
+https://github.com/grafana/grafana-github-actions-go # Grafana GitHub Actions in Golang
+https://github.com/grafana/influx2cortex # Influx to Cortex Proxy
+https://github.com/grafana/graphite-web # A highly scalable real-time graphing system
+https://github.com/grafana/diy-iot #
+https://github.com/grafana/carbonapi # Implementation of graphite API (graphite-web) in golang
+https://github.com/grafana/grafana_status_panel # A panel plugin for Grafana to monitor multiple parameters at once
+https://github.com/grafana/mtail # extract whitebox monitoring data from application logs for collection in a timeseries database
+
 https://github.com/go-graphite/go-carbon # Golang implementation of Graphite/Carbon server with classic architecture: Agent -> Cache -> Persister
 https://github.com/go-graphite/carbonapi # Implementation of graphite API (graphite-web) in golang
 https://github.com/go-graphite/graphite-clickhouse # Graphite cluster backend with ClickHouse support
