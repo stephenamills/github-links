@@ -1,0 +1,33 @@
+https://github.com/azure-samples/durablefunctions-apiscraping-dotnet # Build an Azure Durable Functions that will scrape GitHub for opened issues and store them on Azure Storage.
+https://github.com/azure-samples/azure-functions-samples-java # The Java sample code for Microsoft Azure Functions
+https://github.com/azure-samples/durablefunctions-apiscraping-nodejs # Build an Azure Durable Functions that will scrape GitHub for opened issues and store them on Azure Storage.
+https://github.com/azure-samples/azure-functions-flex-consumption-samples # Samples for Azure Functions Flex Consumption
+https://github.com/azure-samples/serverless-microservices-reference-architecture # This reference architecture walks you through the decision-making process involved in designing, developing, and delivering a serverless application using a microservices architecture through hands-on instructions for configuring and deploying all of the architecture's components along the way. The goal is to provide practical hands-on experience in working with several Azure services and the technologies that effectively use them in a cohesive and unified way to build a serverless-based microservices architecture. https://github.com/azure-samples/app-templates-integration-services # packaged integration services sample with APIM connecting ServiceBus APIs and store queue messages processed by FunctionApp in Cosmos
+https://github.com/azure-samples/durable-functions-order-processing # This repository contains the implementation of an order processing workflow with Durable Functions in C#. The sample is deployed to Azure Functions Flex Consumption using the Azure Developer CLI (azd) and is configured with managed identity as the authentication mechanism.
+https://github.com/azure-samples/iot-hub-dotnet-autoscale # Monitor Azure IoT Hub usage and auto-scale it when necessary
+https://github.com/azure-samples/azure-sql-functions-geocode # Geocoding sample for Azure SQL DB with Azure Functions
+https://github.com/azure-samples/intelligent-pdf-summarizer # Use Durable Functions to orchestrate tasks that intelligently summarize uploaded PDFs
+https://github.com/azure-samples/microsoftgraphshadow # Sample shows how to efficiently replicate data from Microsoft Graph using delta tokens and subscriptions. Sample leverages Azure Durable functions to keep the token state and Cosmos to store the data.
+https://github.com/azure-samples/intelligent-pdf-summarizer-dotnet # Use Durable Functions to orchestrate tasks that intelligently summarize up loaded PDFs
+https://github.com/azure-samples/cross-tenant-sas-key-rotation # This repository contains a sample solution to do SaS key rotations from an Azure Service Bus
+https://github.com/azure/azure-functions-durable-extension # Durable Task Framework extension for Azure Functions
+https://github.com/azure/azure-functions #
+https://github.com/azure/durabletask # Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
+https://github.com/azure/azure-functions-durable-python # Python library for using the Durable Functions bindings.
+https://github.com/azure/azure-functions-durable-js # JavaScript library for using the Durable Functions bindings
+https://github.com/azure/azure-functions-python-worker # Python worker for Azure Functions.
+https://github.com/azure/azure-functions-durable-powershell # PowerShell SDK for writing Durable Functions apps
+https://github.com/azure/apimanagement-authorizations # API Authorization(s) made easy. Simplify connecting to SaaS
+https://github.com/azure/apiforfhir-migration-tool # OSS migration tool for migrating data from Azure API for FHIR to Azure Health Data Services
+https://github.com/azure/iot-central-compute # A simple way to do compute and data transformation on data sent to Azure IoT Central using Azure
+Functions and a slightly modified version of the Azure IoT Central Device Bridge.
+https://github.com/microsoft/durablefunctionsmonitor # A monitoring/debugging UI tool for Azure Durable Functions
+https://github.com/microsoft/durabletask-mssql # Microsoft SQL storage provider for Durable Functions and the Durable Task Framework
+https://github.com/microsoft/durabletask-netherite # A new engine for Durable Functions.
+https://github.com/microsoft/durabletask-dotnet # Out-of-process .NET SDK for the Durable Task Framework
+https://github.com/microsoft/durabletask-java # Java SDK for Durable Functions and the Durable Task Framework
+https://github.com/microsoft/startups # Guidance, information, and resources to get your startup up and running on Azure
+https://github.com/microsoft/kagami # OpenAI powered document scanner
+https://github.com/microsoft/durabletask-python # A Durable Task Python SDK compatible with Dapr Workflow and its underlying Durable Task engine
+https://github.com/microsoft/durabletask-js # A Durable Task JavaScript SDK compatible with Dapr Workflow and its underlying Durable Task engine
+https://github.com/microsoft/cai-test-training-tool # Conversational AI Test and Training Tool
