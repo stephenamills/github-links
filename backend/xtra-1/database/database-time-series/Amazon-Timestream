@@ -1,0 +1,10 @@
+https://github.com/aws-samples/amazon-timestream-simple-visualizer # Timestream Simple Visualizer is a web application that allows you to visualize data from a Amazon Timestream database
+https://github.com/aws-samples/amazon-kinesis-timestream-grafana # Sample serverless application that reads events from Amazon Kinesis Data Streams and batches records to Amazon Timestream via Apache Flink app, visualizing results via Grafana.
+https://github.com/aws-samples/amazon-timestream-telegraf-and-grafana-demo # The purpose of this repository is to demo how to ingest time series data in this case Amazon EC2 instance metrics such as CPU, Memory, Disk into Amazon Timestream.
+https://github.com/aws-samples/aws-iot-core-lorawan # Quickly get started with AWS IoT Core for LoRaWAN with sample solutions (binary decoding, device and gateway monitoring, downlink, dashboarding, provisioning automation)
+https://github.com/aws-samples/generate-notification-from-amazon-timestream #
+https://github.com/aws-samples/sitewise-data-ingestion-demo # This project provides a demonstration of up to 10,000 industrial assets, each with four tags, that can flow data through AWS IoT SiteWise and into a data lake built across Amazon S3 and Amazon Timestream.
+https://github.com/aws-samples/aws-appsync-access-amazon-timestream-example #
+https://github.com/aws-samples/amazon-timestream-sqs-lambda-sample # This is a CDK stack written in TypeScript that sets up an AWS infrastructure to process data from an Amazon Simple Queue Service (SQS) queue and write it to Amazon Timestream using AWS Lambda
+https://github.com/aws-samples/aws-time-series-timestream-cache # An example of a time series caching service that stores historical and future data from a source into Amazon DynamoDB and Amazon Timestream.
+https://github.com/aws/aws-sdk-pandas # pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).

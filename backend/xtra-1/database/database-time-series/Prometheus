@@ -35,6 +35,20 @@ https://github.com/autometrics-dev/render-otelcol # A Render blueprint to setup 
 https://github.com/autometrics-dev/autometrics-demo-embeddings # Demo app with autometrics-py and autometrics-ts
 https://github.com/autometrics-dev/.github #
 
+https://github.com/cortexproject/cortex # A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+https://github.com/cortexproject/cortex-helm-chart # Helm chart for Cortex
+https://github.com/cortexproject/promqlsmith # A random PromQL query generator
+https://github.com/cortexproject/auth-gateway #
+
+https://github.com/thanos-io/thanos # Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+https://github.com/thanos-io/kube-thanos # Kubernetes specific configuration for deploying Thanos.
+https://github.com/thanos-io/promql-engine # Multi-threaded PromQL engine implementation based on the Volcano paper.
+https://github.com/thanos-io/objstore # Go module providing unified interface and efficient clients to work with various object storage providers until like GCS, S3, Azure, SWIFT, COS and more.
+https://github.com/thanos-io/thanosbench # Kubernetes Playground for Thanos testing & benchmarking purposes
+https://github.com/thanos-io/tutorials # Definitions for interactive Thanos tutorials
+https://github.com/thanos-io/thanos-community-website #
+https://github.com/thanos-io/postings-analyzer #
+
 https://github.com/prometheus/prometheus # The Prometheus monitoring system and time series database.
 
 https://github.com/prometheus/node_exporter # Exporter for machine metrics
@@ -109,10 +123,5 @@ https://github.com/prometheus-operator/kube-prometheus # Use Prometheus to monit
 https://github.com/prometheus-operator/runbooks #
 https://github.com/prometheus-operator/poctl # [EXPERIMENTAL] Manage, troubleshoot and validate Prometheus-Operator resources via Command Line Interface!
 https://github.com/prometheus-operator/community # Repository used for managing Prometheus-Operator's community related tasks.
-
-https://github.com/cortexproject/cortex # A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-https://github.com/cortexproject/cortex-helm-chart # Helm chart for Cortex
-https://github.com/cortexproject/promqlsmith # A random PromQL query generator
-https://github.com/cortexproject/auth-gateway #
 
 https://dbdb.io/db/prometheus

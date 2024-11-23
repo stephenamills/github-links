@@ -1,0 +1,21 @@
+https://github.com/m3db/m3 # M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+https://github.com/m3db/m3db-operator # Kubernetes operator for M3DB
+https://github.com/m3db/proposal # M3 Design Documents
+https://github.com/m3db/prometheus_client_golang # Prometheus instrumentation library for Go applications
+https://github.com/m3db/prombench # Prometheus E2E benchmarking tool
+https://github.com/m3db/bloom # Go package implementing Bloom filters
+https://github.com/m3db/m3storage # Tiered storage manager
+https://github.com/m3db/codesearch # Fast, indexed regexp search over large file trees
+https://github.com/m3db/prometheus_common # Go libraries shared across Prometheus components and libraries.
+https://github.com/m3db/prometheus_procfs # procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
+https://github.com/m3db/prometheus_client_model # Data model artifacts for Prometheus.
+https://github.com/m3db/vellum # A Go library implementing an FST (finite state transducer)
+https://github.com/m3db/fast-skiplist # A fast, threadsafe skip list in Go
+https://github.com/m3db/bench #
+https://github.com/m3db/bitset # Go package implementing bitsets
+https://github.com/m3db/golang_protobuf_extensions # Support for streaming Protocol Buffer messages for the Go language (golang).
+https://github.com/m3db/prometheus # The Prometheus monitoring system and time series database.
+https://github.com/m3db/stackadler32 # Just a small library for calculating adler32 checksum.
+https://github.com/m3db/dtest #
+https://github.com/m3db/tools # A collection of golang tools used at Uber
+https://github.com/m3db/pilosa # Temporary fork of pilosa/pilosa until we can merge performance improvements upstream

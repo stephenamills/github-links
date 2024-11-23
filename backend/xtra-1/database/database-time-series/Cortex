@@ -1,0 +1,17 @@
+https://github.com/cortexproject/cortex # A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+https://github.com/cortexproject/cortex-helm-chart # Helm chart for Cortex
+https://github.com/cortexproject/promqlsmith # A random PromQL query generator
+https://github.com/cortexproject/auth-gateway #
+https://github.com/cortexproject/cortex-tools #
+https://github.com/cortexproject/common # Libraries used by cortex
+
+https://github.com/grafana/cortex-tools # If you're using this tool with Grafana Mimir, please switch to "mimirtool" instead: https://github.com/grafana/mimir
+https://github.com/grafana/cortex-jsonnet # Deprecated: see https://github.com/grafana/mimir/tree/main/operations/mimir instead
+https://github.com/grafana/mimir # Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+https://github.com/grafana/cortex-rules-action #
+https://github.com/grafana/influx2cortex # Influx to Cortex Proxy
+https://github.com/grafana/xk6-client-prometheus-remote # A k6 extension for testing Prometheus Remote Write endpoints
+https://github.com/grafana/prometheus-arduino #
+https://github.com/grafana/kubernetes-mixin # A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+https://github.com/grafana/avalanche # Prometheus/OpenMetrics endpoint series generator for load testing.
+https://github.com/grafana/objstore # Go module providing unified interface and efficient clients to work with various object storage providers until like GCS, S3, Azure, SWIFT, COS and more.

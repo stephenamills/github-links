@@ -1,0 +1,63 @@
+https://github.com/crate/crate # CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near r
+eal-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.                                                         https://github.com/crate/crate-python # Python DB API client library for CrateDB, using HTTP.
+https://github.com/crate/crate-sample-apps # A JavaScript guestbook app with a number of different backend implementations, each using a differ
+ent client library to communicate with CrateDB.                                                                                                https://github.com/crate/cratedb-prometheus-adapter # CrateDB Prometheus Adapter.
+https://github.com/crate/docker-crate # Source repository for the official CrateDB Docker image
+https://github.com/crate/crash # Crash is an interactive CrateDB command line interface (CLI) SQL shell with autocompletion.
+https://github.com/crate/crate-pdo # CrateDB PHP PDO adapter
+https://github.com/crate/crate_ruby # A Ruby client library for CrateDB.
+https://github.com/crate/crate-admin # The admin user interface for CrateDB.
+https://github.com/crate/activerecord-crate-adapter # Ruby on Rails ActiveRecord adapter for CrateDB
+https://github.com/crate/crate-operator # The CrateDB Kubernetes Operator provides a convenient way to run CrateDB clusters inside Kubernetes.
+https://github.com/crate/sql-99 # SQL-99 Complete, Really
+https://github.com/crate/crate-jdbc # A JDBC driver for CrateDB.
+https://github.com/crate/crate-docs-theme # A Sphinx theme for the CrateDB documentation.
+https://github.com/crate/crate-dbal # Doctrine Database Access Layer for Crate.IO
+https://github.com/crate/crate-npgsql # A plugin that provides extensions to Npgsql which enable usage of Npgsql as a .NET data provider for Cr
+ateDB.                                                                                                                                         https://github.com/crate/cratedb-examples # A collection of clear and concise examples how to work with CrateDB.
+https://github.com/crate/crate-utils # Utility scripts for Crate
+https://github.com/crate/crate-benchmarks # A collection of CrateDB benchmarks.
+https://github.com/crate/cratedb-toolkit # CrateDB Toolkit, an SDK for CrateDB and CrateDB Cloud.
+https://github.com/crate/sphinx_csv_filter # A CSV filter directive for docutils and Sphinx, that extends the "csv-table" reStructuredText dire
+ctive to add row filtering options.                                                                                                            https://github.com/crate/docker-oauth2_proxy # Docker Image for oauth2_proxy
+https://github.com/crate/tsperf # TSPERF Time Series Database Benchmark Suite. Framework for evaluating and comparing the performance of time s
+eries databases, in the spirit of TimescaleDB's TSBS.                                                                                          https://github.com/crate/cratedb-terraform # Terraform deployment configurations for CrateDB
+https://github.com/crate/cratedb-flink-jobs # This repository accompanies the article "Build a data ingestion pipeline using Kafka, Flink, and
+CrateDB" and the "CrateDB Community Day #2".                                                                                                   https://github.com/crate/micropython-cratedb # A CrateDB Driver for MicroPython.
+https://github.com/crate/helm-charts # Helm charts for Kubernetes
+https://github.com/crate/cratedb-sqlparse # Parsing utilities to validate and split SQL statements for CrateDB.
+https://github.com/crate/cratedb-airflow-tutorial # Reference implementations for orchestration project using Astronomer/Airflow
+https://github.com/crate/croud # A command line interface for CrateDB Cloud ☁
+https://github.com/crate/crate-qa # CrateDB Quality Assurance
+https://github.com/crate/crate-gc-admin #
+https://github.com/crate/devrel-shipping-forecast-geo-demo # Spatial data demo application using CrateDB and the Express framework.
+https://github.com/crate/webinar.101 # CrateDB 101 Webinar series
+https://github.com/crate/crate-clients-tools # Clients, tools, and integrations for CrateDB.
+https://github.com/crate/sqlalchemy-cratedb # SQLAlchemy dialect for CrateDB.
+https://github.com/crate/jmx_exporter # A javaagent to export CrateDB JMX metrics for prometheus
+https://github.com/crate/eventhub-consumer-azure-function # Ingesting data into CrateDB with Azure Event Hub and Azure Functions
+https://github.com/crate/academy-fundamentals-course # GitHub repository accompanying the CrateDB Fundamentals Course at the CrateDB Academy.
+https://github.com/crate/crate-docs # Common build system, QA tools, style guides, and other meta miscellanies for doing docs at Crate.io.
+https://github.com/crate/crate-version-comparison # CrateDB tests for INSERT performance
+https://github.com/crate/commons-codec # Data decoding, encoding, conversion, and translation utilities.
+https://github.com/crate/crate-java-testing # CrateTestServer and CrateTestCluster classes for use as JUnit external resources.
+https://github.com/crate/mlflow-cratedb # MLflow adapter for CrateDB.
+https://github.com/crate/pytest-cratedb # A pytest plugin for CrateDB
+https://github.com/crate/.github # Shared community health files
+https://github.com/crate/crate-pricing-calculator #
+https://github.com/crate/cratedb-jupyter # Repository containing jupyter notebooks in addition to our machine learning blog post.
+https://github.com/crate/p-azure # Azure powering Crate.IO
+https://github.com/crate/mesos-deploy # Ansible playbook/roles for deploying an arbitrarily-sized Apache Mesos cluster
+https://github.com/crate/stackfile # Crate Stackfile
+https://github.com/crate/crate-ui-components # A collection of React components
+https://github.com/crate/devrel-plane-spotting-with-cratedb # Code for the Plane Spotting with Software Defined Radio, CrateDB and Node.js talk
+https://github.com/crate/cratedb-tableau-connector # Tableau connector for CrateDB
+https://github.com/crate/crate-cloud-templates # Templates to deploy CrateDB clusters to the cloud
+https://github.com/crate/cratedb-airbyte # Airbyte connector to use CrateDB as a destination
+https://github.com/crate/cloud-docs # Documentation for CrateDB Cloud.
+https://github.com/crate/academy-timeseries-course # Supporting files for the Advanced Time Series course at CrateDB Academy.
+https://github.com/crate/cratedb-datasets # Open source datasets for learning and experimenting with CrateDB.
+https://github.com/crate/cratedb-estuary #
+https://github.com/crate/cratex #
+https://github.com/crate/cratedb-guide # The CrateDB Guide.
+

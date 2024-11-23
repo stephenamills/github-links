@@ -1,0 +1,45 @@
+https://github.com/questdb/questdb # QuestDB is an open source time-series database for fast ingest and SQL queries
+
+https://github.com/questdb/time-series-streaming-analytics-template # Template to quickstart streaming analytics
+https://github.com/questdb/mindsdb-tutorial # A tutorial on integrating QuestDB with MindsDB to achieve wondrous ML feats
+https://github.com/questdb/questdb-quickstart # quickstart to work with questdb
+https://github.com/questdb/sample-datasets # sample datasets for QuestDB
+https://github.com/questdb/questdb-slack-grafana-alerts # Example code for a tutorial for sending Slack alerts based on market data streamed to QuestDB
+https://github.com/questdb/questdb-open-sauced # Code examples used for the Open Sauced stream
+https://github.com/questdb/demo-data # QuestDb demo website injection app
+https://github.com/questdb/questdb-mock-power-sensor # Repo for the tutorial "Visualizing IoT data with QuestDB"
+https://github.com/questdb/questnotebook # Use a Jupyter Notebook to create a database, insert and query data and graph the results using Python.
+https://github.com/questdb/opcua-questdb-telegraf # Playground for OPCUA data ingestion into QuestDB using telegraf
+https://github.com/questdb/coverage-demo # Demo project with combined Rust+Java test coverage reporting
+https://github.com/questdb/embedded-example # Shows how to run QuestDB in embeded mode
+
+https://github.com/questdb/py-questdb-client # Python client for QuestDB InfluxDB Line Protocol
+https://github.com/questdb/go-questdb-client # Golang client for QuestDB's Influx Line Protocol
+https://github.com/questdb/c-questdb-client # Rust, C and C++ client for QuestDB InfluxDB Line Protocol
+https://github.com/questdb/nodejs-questdb-client # QuestDB Node.js Client
+https://github.com/questdb/net-questdb-client #
+https://github.com/questdb/py-tsbs-benchmark # Benchmark ingestion of the TSBS "dev ops" dataset into QuestDB via ILP using the `questdb` Python library and Pandas.
+https://github.com/questdb/questdb-kubernetes # Configuration to run QuestDB in your Kubernetes cluster
+https://github.com/questdb/kafka-questdb-connector # QuestDB connector for Kafka.
+https://github.com/questdb/tsbs # Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data
+https://github.com/questdb/ui # Monorepo of QuestDB UI packages
+https://github.com/questdb/questdb-connect # SQLAchemy and Apache Superset extensions for QuestDB
+https://github.com/questdb/pykit # A Python-based RPC-like toolkit for interfacing with QuestDB.
+https://github.com/questdb/flink-questdb-connector # QuestDB connector for Apache Flink (over InfluxDB Line Protocol)
+https://github.com/questdb/grafana-questdb-datasource # Questdb datasource plugin for Grafana.
+https://github.com/questdb/julia-questdb-client # Julia QuestDB client
+https://github.com/questdb/py-questdb-query # Fast query over HTTP(S)/CSV for QuestDB
+https://github.com/questdb/roadmap # QuestDB Public Roadmap
+https://github.com/questdb/questdb-operator # Kubernetes Operator for QuestDB
+https://github.com/questdb/desktop-questdb-client # Desktop client application that uses the Postgres Wire Protocol to connect QuestDB
+https://github.com/questdb/alloc-checked # Rust collections that don't panic on alloc failures
+https://github.com/questdb/questdb_change_tracker # Change Tracker (pseudo CDC) for QuestDB tables
+https://github.com/questdb/questdb-digitalocean # QuestDB 1-click app building for DigitalOcean Marketplace
+https://github.com/questdb/play # Launch a QuestDB instance and a Jupyter notebook from a script.
+https://github.com/questdb/replication-stats # network capture replication statistics and parameter tuning
+https://github.com/questdb/sql-grammar # List of keywords, functions and constants that QuestDB supports
+https://github.com/questdb/rust-par-http-example # A Rust example time-slicing a query and fetching the results in parallel into a Pola.rs data frame.
+https://github.com/questdb/s3s # S3 Service Adapter
+https://github.com/questdb/questdb-confstr-rs # A parser for a configuration string format handling service names and parameters
+https://github.com/questdb/documentation # QuestDB documentation
+https://github.com/questdb/questdb-client-test # Test cases for QuestDB clients
