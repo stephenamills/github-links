@@ -1,0 +1,44 @@
+https://github.com/deepset-ai/haystack # AI orchestration framework to build customizable, production-ready LLM applications.
+
+https://github.com/deepset-ai/haystack-cookbook # 👩🏻‍🍳 A collection of example notebooks
+https://github.com/deepset-ai/covid-qa # API & Webapp to answer questions about COVID-19. Using NLP (Question Answering) and trusted data sources.
+https://github.com/deepset-ai/haystack-tutorials # Here you can find all the Tutorials for Haystack 📓
+https://github.com/deepset-ai/haystack-demos # Fully working applications that demonstrate how to use Haystack to implement common NLP use cases
+https://github.com/deepset-ai/rag-with-nvidia-nims # 🚀 Use NVIDIA NIMs with Haystack pipelines
+https://github.com/deepset-ai/haystack-search-pipeline-streamlit # 🚀 Template Haystack Search Application with Streamlit
+https://github.com/deepset-ai/haystack-sagemaker # 🚀 This repo is a showcase of how you can use models deployed on AWS SageMaker in your Haystack Retrieval Augmented Generative AI pipelines
+https://github.com/deepset-ai/haystack-evaluation # Using Haystack to benchmark different architectures over different datasets
+https://github.com/deepset-ai/rag-ui-nextjs # An example of a simple UI for a deepset Cloud RAG pipeline using Next.js
+https://github.com/deepset-ai/haystack-bm25 # A Collection of BM25 Algorithms in Python
+
+https://github.com/deepset-ai/prompthub #
+https://github.com/deepset-ai/haystack-core-integrations # Additional packages (components, document stores and the likes) to extend the capabilities of Haystack version 2.0 and onwards
+https://github.com/deepset-ai/haystack-integrations # 🚀 A list of Haystack Integrations, maintained by the community or deepset.
+https://github.com/deepset-ai/rasa-haystack #
+https://github.com/deepset-ai/hayhooks # Deploy Haystack pipelines behind a REST Api.
+https://github.com/deepset-ai/haystack-experimental # 🧪 Experimental features for Haystack
+https://github.com/deepset-ai/haystack-home # Website for Haystack, the open source LLM framework
+https://github.com/deepset-ai/deepset-cloud-sdk # A Python SDK to interact with deepset Cloud
+https://github.com/deepset-ai/biqa-llm #
+https://github.com/deepset-ai/document-store #
+https://github.com/deepset-ai/visualizer-source-text # Source text for deepset Cloud pipeline nodes
+https://github.com/deepset-ai/prompthub-py #
+https://github.com/deepset-ai/haystack-json-schema # JSON Schema for validating Haystack Pipeline YAML files
+https://github.com/deepset-ai/charts #
+https://github.com/deepset-ai/dc-custom-component-template #
+https://github.com/deepset-ai/deepset-cloud-github-action-template #
+https://github.com/deepset-ai/eks-kubectl-action #
+https://github.com/deepset-ai/doc-threshold-custom-component # Custom component (v2) for instituting a threshold score for document retrieval
+https://github.com/deepset-ai/prompthub-ts #
+https://github.com/deepset-ai/haystack-pydoc-tools #
+https://github.com/deepset-ai/go-tools-tfc-backup #
+https://github.com/deepset-ai/elasticsearch-haystack #
+https://github.com/deepset-ai/dc-status-page #
+https://github.com/deepset-ai/llm_judge_experiments #
+https://github.com/deepset-ai/spotinst-sdk-python # Spotinst SDK for the Python programming language.
+https://github.com/deepset-ai/nvidia-nims-rerankers #
+https://github.com/deepset-ai/sales-gpt-custom-component #
+https://github.com/deepset-ai/haystack-client-py # Simple Python client to interact with Haystack and Haystack Hub instances to embed search functionality in other applications.
+https://github.com/deepset-ai/haystack-metrics #
+https://github.com/deepset-ai/nvidia-triton-inference # This repository contains setup examples for hosting model inference using NVIDIA triton
+https://github.com/deepset-ai/oclc-custom-component #
