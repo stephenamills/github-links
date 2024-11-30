@@ -344,3 +344,130 @@ https://github.com/aws/aws-sdk-net # The official AWS SDK for .NET. For more inf
 ite:
 
 https://dbdb.io/db/sql-server
+
+SingleStore
+https://github.com/singlestore-labs/singlestoredb-laravel-driver # The official Singl
+eStore Laravel driver. https://github.com/singlestore-labs/webinar-code-examples #
+https://github.com/singlestore-labs/python-wasi # Utilities for building CPython for
+the WASI platform https://github.com/singlestore-labs/singlestoredb-samples # Find script examples that
+you can run out of the box in your SingleStoreDB. https://github.com/singlestore-labs/wasi-data # WASI Data Proposal
+https://github.com/singlestore-labs/singlestoredb-dev-image # The SingleStoreDB Dev C
+ontainer is the fastest way to develop with SingleStore on your laptop or in a CI/CD environment. https://github.com/singlestore-labs/wasix # POSIX compatibility layer for WASI builds
+https://github.com/singlestore-labs/singlestore-logistics-sim # Scalable package deli
+very logistics simulator built using SingleStore and Vectorized Redpanda https://github.com/singlestore-labs/singlestore-kai-examples #
+https://github.com/singlestore-labs/spaces-notebooks # Collection of notebooks for us
+e with SingleStoreDB https://github.com/singlestore-labs/singlestore-workshop-data-intensive-app # This re
+po provides a starting point for building applications using SingleStore, Redpanda (by Vectorized), and the Go language. SingleStore is a scale-out relational database built for data-intensive workloads. Redpanda is a Kafka API compatible streaming platform for mission-critical workloads created by the team at Vectorized. https://github.com/singlestore-labs/singlestoredb-python # Python SDK for the SingleS
+tore database and workspace management APIs https://github.com/singlestore-labs/demo-realtime-digital-marketing # This applicatio
+n is a demo of how to use SingleStore to serve ads to users based on their behavior and realtime location. https://github.com/singlestore-labs/singlestore-wasm-toolkit # Tools to streamline de
+velopment of Wasm UDFs for SingleStoreDB. https://github.com/singlestore-labs/wasm-space-program # A large scale simulation whi
+ch pits millions of space ships against each other in a virtual universe all running directly in SingleStore. https://github.com/singlestore-labs/private-llm-aws #
+https://github.com/singlestore-labs/terraform-provider-singlestoredb #
+https://github.com/singlestore-labs/writ # A CLI tool for quickly spot-testing Wasm f
+unctions that have been compiled with WIT bindings. https://github.com/singlestore-labs/elegance-sdk-app-book-query #
+https://github.com/singlestore-labs/wasm-day-2021-distributed-computation-with-wasm-a
+nd-wasi # https://github.com/singlestore-labs/getting-started-with-singlestoredb # Take a quic
+k tour of SingleStore, SQL Editor tool, and look at how to quickly ingest and query lots of data using SingleStore Pipelines. https://github.com/singlestore-labs/esports-low-latency-analytics #
+https://github.com/singlestore-labs/wasi-data-python # Python utilities for implement
+ing wasi-data modules and witx types for wasm modules. https://github.com/singlestore-labs/estore #
+https://github.com/singlestore-labs/demo-sentiment-analysis #
+https://github.com/singlestore-labs/flight-visualizer-serverless # Web app for visual
+izing all planes flying in the world in real-time or in the past, built with SingleStore and Cloudflare Workers https://github.com/singlestore-labs/start-with-singlestore-go #
+https://github.com/singlestore-labs/singlestoredb-fly # You can use this repo to quic
+kly run SingleStoreDB on Fly.io https://github.com/singlestore-labs/start-with-singlestore-csharp #
+https://github.com/singlestore-labs/gpt-database-query #
+https://github.com/singlestore-labs/create-singlestoredb-app # This repo hosts the co
+de for a tool to create a demo application powered by SingleStoreDB. https://github.com/singlestore-labs/cdc-out-examples # Code examples for CDC out in S
+ingleStore 8.5+ https://github.com/singlestore-labs/to-wit # A C/C++ library for parsing Wasm WIT fil
+es https://github.com/singlestore-labs/100-billion-rows #
+https://github.com/singlestore-labs/start-with-laravel #
+https://github.com/singlestore-labs/s2kv #
+https://github.com/singlestore-labs/ibis-singlestoredb # Ibis backend for SingleStore
+DB https://github.com/singlestore-labs/wasm-eval # A system for comparing available feat
+ures and performance of WebAssembly runtimes. https://github.com/singlestore-labs/timestamp9 #
+https://github.com/singlestore-labs/singlestoredb-statistics #
+https://github.com/singlestore-labs/sqlalchemy-singlestoredb # SQLAlchemy dialect for
+the SingleStore database https://github.com/singlestore-labs/elegance-sdk-app-books-chat #
+https://github.com/singlestore-labs/http-client-js # SingleStore HTTP Client for Java
+Script https://github.com/singlestore-labs/start-with-singlestore-python #
+https://github.com/singlestore-labs/key-value-store-demo # Whether you're using an OR
+M or straight SQL, you can get started with SingleStore (formerly MemSQL) fast. Here's an introductory sample of using SingleStore with Node and JavaScript. This sample includes all the CRUD methods: Create, Read by id, Read all, Update, and Delete. https://github.com/singlestore-labs/demo-wasm-youtube-sentiment # Sentiment analysis
+using SingleStore + Wasm on Youtube trending videos https://github.com/singlestore-labs/demo-ridesharing-sim # A ride-sharing simulation
+showcasing how SingleStore can accelerate your Snowflake data and power real-time insights. https://github.com/singlestore-labs/demo-ridesharing-snowpark # A ride-sharing simula
+tion showcasing how SingleStore can accelerate your Snowflake data and power real-time insights, all inside Snowpark Container Services. https://github.com/singlestore-labs/wasm-udf-tutorial # DevContainer and example code
+for the SingleStore Wasm UDF Tutorial https://github.com/singlestore-labs/react-terminal-plus #
+https://github.com/singlestore-labs/sqltools-singlestore-driver #
+https://github.com/singlestore-labs/elegance-sdk #
+https://github.com/singlestore-labs/singlestore-wasm-demo # Demo early prototypes wit
+h WASM https://github.com/singlestore-labs/pandas-wasi #
+https://github.com/singlestore-labs/singlestoredb-minio # A sample of ingesting data
+from min.io into MemSQL https://github.com/singlestore-labs/start-with-singlestore-java #
+https://github.com/singlestore-labs/numeromancy #
+https://github.com/singlestore-labs/gorm-singlestore # GORM database driver for Singl
+eStore https://github.com/singlestore-labs/singlestore-planes-reference-architecture-node #
+https://github.com/singlestore-labs/elegance-sdk-template-express #
+https://github.com/singlestore-labs/start-with-singlestore-node-orm #
+https://github.com/singlestore-labs/lua-wasi # Lua builds for WASI
+https://github.com/singlestore-labs/http-client-generator # Client generator framewor
+k for SingleStore's HTTP API. https://github.com/singlestore-labs/start-with-singlestore-go-stored-procedure #
+https://github.com/singlestore-labs/singlestoredb-extension-vector-ops #
+https://github.com/singlestore-labs/genai-app-example #
+https://github.com/singlestore-labs/demo-collocated-external-functions # This repo in
+cludes a standalone demonstration of using SingleStore external functions. External functions allow you to define a user defined function in SingleStore which, when executed, will call out to an externally defined web service. https://github.com/singlestore-labs/vector-dbs-ai-apps #
+https://github.com/singlestore-labs/elegance-sdk-template-next #
+https://github.com/singlestore-labs/wasi-data-rust #
+https://github.com/singlestore-labs/singlestore-avro-sample #
+https://github.com/singlestore-labs/singlestore-cloudflare-external-functions # Examp
+le of how to use SingleStore External Functions with CloudFlare Workers https://github.com/singlestore-labs/devrel-notebook-examples #
+https://github.com/singlestore-labs/start-with-singlestore-ruby #
+https://github.com/singlestore-labs/singlestore #
+https://github.com/singlestore-labs/okql # Open-Source tools for KQL
+https://github.com/singlestore-labs/pushwasm # Utility to push a Wasm UDF into Single
+StoreDB https://github.com/singlestore-labs/pyrag # A library that makes it easy to get start
+ed with RAG applications with SingleStore. https://github.com/singlestore-labs/memsql-websocket-demo # Companion app to the demo
+at https://youtu.be/Dy-P5rm8p50 https://github.com/singlestore-labs/sqlparams-conda # Conda recipe for sqlparams pack
+age https://github.com/singlestore-labs/templates #
+https://github.com/singlestore-labs/singlestore-hasura-connector #
+https://github.com/singlestore-labs/start-with-singlestore-java-stored-procedure #
+https://github.com/singlestore-labs/start-with-singlestore-csharp-stored-procedure #
+https://github.com/singlestore-labs/collocated-service-using-binary-protocol-example # A simple Python example of a SingleStore collocated process using the binary protocol and ROWDAT format.
+https://github.com/singlestore-labs/singlestore-debezium-connector
+
+https://github.com/singlestore-labs/singlestore-fivetran-destination #
+https://github.com/singlestore-labs/face-matching #
+https://github.com/singlestore-labs/singlestoredb-go-arrow-driver # SingleStoreDB dri
+ver for reading data in arrow format https://github.com/singlestore-labs/singlestoredb-extension-theta-sketch # Theta sket
+ch extension for SingleStoreDB in Wasm https://github.com/singlestore-labs/http-client-php # SingleStore HTTP Client for PHP
+https://github.com/singlestore-labs/start-with-singlestore-python-stored-procedure #
+https://github.com/singlestore-labs/singlestore-client-notes #
+https://github.com/singlestore-labs/singlestoredb-extension-cpp-template # Template p
+roject for a SingleStore WASM extension built in C++ https://github.com/singlestore-labs/singlestore-flink-integration # This project demo
+nstrates the integration of Apache Flink with Kafka for real-time data processing, using SingleStore as the target database. The setup consists of two key components, each built as Maven projects and containerized using Docker. https://github.com/singlestore-labs/singlestoredb-extension-jsonkeys #
+https://github.com/singlestore-labs/start-with-singlestore-csharp-orm #
+https://github.com/singlestore-labs/elegance-sdk-template-remix #
+https://github.com/singlestore-labs/singlestore-drizzle-orm-demo # The aim of this pr
+oject is to provide a connector for Drizzle ORM that is tailored to SingleStore. The nice thing about SingleStore is that we are largely MySQL compatible, with some small differences and some additional functionality like vectors. https://github.com/singlestore-labs/start-with-singlestore-csharp-dapper #
+https://github.com/singlestore-labs/start-with-singlestore-python-kubernetes #
+https://github.com/singlestore-labs/movie-recommender-app #
+https://github.com/singlestore-labs/singlestore-code-challenge-january #
+https://github.com/singlestore-labs/kai-estore #
+https://github.com/singlestore-labs/go-bookstore-example # A beginner-friendly guide
+to creating a bookstore API through test-driven development. https://github.com/singlestore-labs/singlestoredb-extension-json-flatten #
+https://github.com/singlestore-labs/notebook-picture #
+https://github.com/singlestore-labs/singlestore-app-boilerplate #
+https://github.com/singlestore-labs/singlestoredb-extension-rust-template # Template
+project for a SingleStore WASM extension built in Rust https://github.com/singlestore-labs/kai-rag # A fork of the Mongo RAG demo that talks
+to SingleStore KAI and has rich analytics associated with RAG responses simulating a customer bot https://github.com/singlestore-labs/singlestore-go #
+https://github.com/singlestore-labs/singlestore-node-quickstart # Get started quickly
+with SingleStore and Node.js https://github.com/singlestore-labs/start-with-singlestore-ruby-stored-procedure #
+https://github.com/singlestore-labs/genai-app-with-vertex-ai-and-singlestore #
+https://github.com/singlestore-labs/singlestoredb-extension-sentiment # Sentiment Ana
+lysis Wasm Extension https://github.com/singlestore-labs/drop-plans # A script to selectively drop plans o
+n SingleStore nodes. https://github.com/singlestore-labs/threat_detection_generator #
+https://github.com/singlestore-labs/llm-recommender #
+https://github.com/singlestore-labs/dev-days-nyc-2023-05 #
+https://github.com/singlestore-labs/jsonnet-libs # Singlestore's jsonnet libraries
+https://github.com/singlestore-labs/start-with-singlestore-node-stored-procedure #
+https://github.com/singlestore-labs/singlestoredb-extension-bloom-filters # Construct
+bloom filters with WASM as SingleStore aggregate functions https://github.com/singlestore-labs/racecar-analytics # Building a real-time analytic
+s pipeline for racecars with SingleStore.

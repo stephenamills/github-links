@@ -1,0 +1,10 @@
+https://github.com/memcached/memcached # memcached development tree
+
+https://github.com/memcached/mc-crusher # ENSIGN CRUSHER
+https://github.com/memcached/perl-cache-memcached # Cache::Memcached
+https://github.com/memcached/mctester # Load/Fuzz pattern generation suite
+https://github.com/memcached/mcshredder # another load generation tool
+https://github.com/memcached/mcdumpload # dump and reload cache keys
+https://github.com/memcached/shredders # verification and test suites
+https://github.com/memcached/memcached.github.io # docs site
+https://github.com/memcached/memcached-vendor # "vendored" libraries/dependencies for the memcached repository

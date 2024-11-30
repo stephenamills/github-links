@@ -1,0 +1,28 @@
+StarRocks
+https://github.com/starrocks/starrocks # Sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
+
+https://github.com/starrocks/starrocks-connector-for-apache-flink #
+https://github.com/starrocks/starrocks-kubernetes-operator # Kubernetes Operator for StarRocks
+https://github.com/starrocks/demo #
+https://github.com/starrocks/starrocks-connector-for-apache-spark #
+https://github.com/starrocks/community # Welcome to the StarRocks community!
+https://github.com/starrocks/dbt-starrocks # dbt-starrocks contains all of the code enabling dbt to work with StarRocks
+https://github.com/starrocks/stargo #
+https://github.com/starrocks/benchmarktool # Benchmark tool to test StarRocks using several benchmarks.
+https://github.com/starrocks/starrocks-connector-for-kettle #
+https://github.com/starrocks/sqltransformer #
+https://github.com/starrocks/starcache #
+https://github.com/starrocks/starrocks-connector-for-kafka #
+https://github.com/starrocks/fe-plugins-auditloader # AuditLoader plugin for FE
+https://github.com/starrocks/docker #
+https://github.com/starrocks/aws-cloudformation #
+https://github.com/starrocks/lkbot-notifier #
+https://github.com/starrocks/cboplantest #
+https://github.com/starrocks/bdb-je # bdb java edition
+https://github.com/starrocks/clucene #
+https://github.com/starrocks/fecoveragetool #
+https://github.com/starrocks/starrocks-bdb-je #
+https://github.com/starrocks/tenann #
+https://github.com/starrocks/codereview # starrocks code review
+https://github.com/starrocks/docusaurus-build #
+https://github.com/starrocks/airbyte-starrocks # Airbyte Connector for StarRocks
