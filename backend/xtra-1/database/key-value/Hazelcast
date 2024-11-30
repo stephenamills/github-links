@@ -1,0 +1,91 @@
+https://github.com/hazelcast-guides/hazelcast-embedded-springboot #
+https://github.com/hazelcast-guides/hazelcast-client-quarkus #
+https://github.com/hazelcast-guides/stream-processing-fundamentals # An Introduction to Processing Streams with Hazelcast
+https://github.com/hazelcast-guides/caching-springboot #
+https://github.com/hazelcast-guides/spring-session-hazelcast # Session replication with Spring Session Hazelcast
+https://github.com/hazelcast-guides/kubernetes #
+https://github.com/hazelcast-guides/caching-micronaut #
+https://github.com/hazelcast-guides/springboot-webfilter-session-replication #
+https://github.com/hazelcast-guides/base-guide # Template for creating new Hazelcast tutorials
+https://github.com/hazelcast-guides/kubernetes-hpa # Hazelcast Autoscaling with Horizontal Pod Autoscaler
+https://github.com/hazelcast-guides/ecs-embedded #
+https://github.com/hazelcast-guides/kubernetes-external-client #
+https://github.com/hazelcast-guides/caching-springboot-jcache #
+https://github.com/hazelcast-guides/serverless-fraud-detection # Use Hazelcast and AWS Lambda to detect fraudulent transactions.
+https://github.com/hazelcast-guides/springboot-tomcat-session-replication #
+https://github.com/hazelcast-guides/spring-boot-sample # Create a basic Spring Boot application that connects to a cluster.
+https://github.com/hazelcast-guides/istio #
+https://github.com/hazelcast-guides/client-failover # Automatically connect clients to a secondary, failover cluster if they cannot connect to
+the original, primary cluster. https://github.com/hazelcast-guides/standard-deviation-parallel-processing # Use an entry processor to process in parallel the standard deviati
+on of customer satisfaction scores that are stored in a map. https://github.com/hazelcast-guides/kubernetes-sidecar #
+https://github.com/hazelcast-guides/spring-hazelcast-pipeline-dispatcher # Support for using a Hazelcast Pipeline to service web service reques
+ts. https://github.com/hazelcast-guides/serverless-trade-monitor-dashboard # Monitor trades in real-time using Viridian Cloud
+https://github.com/hazelcast-guides/write-through-cache-mongodb-mapstore # Use MapStore to write changes made to a map back to a MongoDB/Atlas
+database. https://github.com/hazelcast-guides/cpp-client-getting-started # Hazelcast C++ client getting started guide
+https://github.com/hazelcast-guides/hazelcast-ml-movie-recommender # A demonstration of how ML in Python can be incorporated into a Hazelcast P
+ipeline https://github.com/hazelcast-guides/springboot-hibernate #
+https://github.com/hazelcast-guides/hibernate-jcache # Configuration details and code sample for using JCache SPI of Hibernate L2C backed by Hazelcast.
+https://github.com/hazelcast-guides/flight-telemetry-demo # Demo application which uses the Hazelcast stream-processing engine to enrich a stre
+am of aircraft positions (from ADS-B Exchange) with airport information, CO2 and noise emissions before sending to a Graphite sink and visualizing in a Grafana dashboard.
+https://github.com/hazelcast-guides/striim-cdc #
+https://github.com/hazelcast-guides/guides-ui # ⛔️ DEPRECATED UI bundle for the guides site.
+
+https://github.com/hazelcast-templates/feast-batch-demo #
+https://github.com/hazelcast-templates/hazelcast-flow-starter #
+https://github.com/hazelcast-templates/python-client-getting-started # This template creates a Python project that contains the code for the Hazelcast Python Client Getting Started guide.
+https://github.com/hazelcast-templates/jupyter-notebook-sample # This project contains a Jupyter Notebook that connects to a Hazelcast cluster using the provided configuration.
+https://github.com/hazelcast-templates/hazelcast-flow-project #
+https://github.com/hazelcast-templates/java-gradle-jet-sample # Hazelcast Jet Sample in Java
+https://github.com/hazelcast-templates/go-client-getting-started # This template creates a Go project that contains the code for the Hazelcast Go Client Getting Started guide.
+https://github.com/hazelcast-templates/feast-streaming-demo #
+https://github.com/hazelcast-templates/python-client-starter # This project contains the minimal code to connect a Hazelcast Python Client to a Hazelcast cluster using a Hazelcast CLC configuration.
+https://github.com/hazelcast-templates/java-compact-serialization-starter #
+
+https://github.com/hazelcast-demos/imperative-to-reactive # Shows how to migrate from a Imperative Programming model to a Reactive Programming
+model step-by-step, while keeping caching https://github.com/hazelcast-demos/evergreen-cache #
+https://github.com/hazelcast-demos/zerodowntime #
+https://github.com/hazelcast-demos/wikipedia-changes # Repository for the post and talk "Hazelcast + Kibana: best buddies for exploring and vis
+ualizing data" https://github.com/hazelcast-demos/hazelcast-session-replication #
+https://github.com/hazelcast-demos/url-shortener # Showcase Quarkus/Kotlin/Hazelcast integration
+https://github.com/hazelcast-demos/jet-elastic #
+https://github.com/hazelcast-demos/caching-patterns #
+https://github.com/hazelcast-demos/microservices-performance # Demo for the talk showcasing how to use Hazelcast to improve (microservices) per
+formance through caching https://github.com/hazelcast-demos/query-cache # Demos different ways to query a Hazelcast IMap
+https://github.com/hazelcast-demos/spring-petclinic # Fork of Spring Petclinic with modification for Enabling Full-text Search with Change Data
+Capture blog post. https://github.com/hazelcast-demos/legacy-search # Demo project showing how to add elasticsearch to a legacy application.
+https://github.com/hazelcast-demos/pet-clinic-index-job # Source code example for Enabling Full-text Search with Change Data Capture blog post.
+https://github.com/hazelcast-demos/payara-hazelcast-sql # Examples using Hazelcast SQL with Payara Micro
+https://github.com/hazelcast-demos/bytecode-streaming #
+
+https://github.com/hazelcast/hazelcast # Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
+
+https://github.com/hazelcast/hazelcast-code-samples # Hazelcast Code Samples
+https://github.com/hazelcast/hazelcast-jet-demos # Demonstration applications using Hazelcast Jet
+https://github.com/hazelcast/hazelcast-platform-demos # hazelcast-platform-demos
+https://github.com/hazelcast/training #
+https://github.com/hazelcast/hazelcast-platform-training #
+
+https://github.com/hazelcast/hazelcast-jet # Distributed Stream and Batch Processing
+https://github.com/hazelcast/hazelcast-go-client # Hazelcast Go Client
+https://github.com/hazelcast/hazelcast-kubernetes # Kubernetes Discovery for Hazelcast
+https://github.com/hazelcast/hazelcast-nodejs-client # Hazelcast Node.js Client
+https://github.com/hazelcast/hazelcast-python-client # Hazelcast Python Client
+https://github.com/hazelcast/hazelcast-csharp-client # Hazelcast .NET Client
+https://github.com/hazelcast/hazelcast-docker # This repository contains docker image for Hazelcast open-source in-memory data-grid.
+https://github.com/hazelcast/hazelcast-simulator # A tool for stress testing Hazelcast
+https://github.com/hazelcast/hazelcast-cpp-client # Hazelcast IMDG C++ Client
+https://github.com/hazelcast/spring-data-hazelcast # Hazelcast Spring Data integration Project http://projects.spring.io/spring-data/
+https://github.com/hazelcast/hazelcast-hibernate # A distributed second-level cache for Hibernate
+https://github.com/hazelcast/quarkus-hazelcast-client # Quarkus Hazelcast Client Extension
+https://github.com/hazelcast/hazelcast-aws # AWS EC2 discovery plugin for hazelcast
+https://github.com/hazelcast/charts # Hazelcast Official Helm Chart Repository
+https://github.com/hazelcast/hazelcast-tomcat-sessionmanager # Tomcat Based Web Session Replication
+https://github.com/hazelcast/hazelcast-eureka # Hazelcast Discovery SPI Plugin for Netflix' Eureka Service Discovery V1
+https://github.com/hazelcast/hazelcast-scala # Scala language support for Hazelcast
+https://github.com/hazelcast/hazelcast-commandline-client # Home of Hazelcast CLC
+https://github.com/hazelcast/hazelcast-spark # Spark Connector for Hazelcast
+https://github.com/hazelcast/hazelcast-zookeeper # Hazelcast Discovery Plugin for Apache ZooKeeper
+https://github.com/hazelcast/hazelcast-jet-contrib # Extension modules for Hazelcast Jet
+https://github.com/hazelcast/hazelcast-reference-manual # Hazelcast Reference Manual
+https://github.com/hazelcast/hive # Design system built with A11Y in mind
+https://github.com/hazelcast/hazelcast-hibernate-3-and-4 # distributed second level cache for your Hibernate
