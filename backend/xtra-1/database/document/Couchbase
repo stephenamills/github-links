@@ -91,3 +91,12 @@ https://github.com/couchbase-partners/nagios-plugin-couchbase # A Nagios plugin 
 https://github.com/couchbase-partners/azure-reporting-couchbase # These are scripts to crunch Azure reports.
 https://github.com/couchbase-partners/azure-aadds-ldap-couchbase # A walkthrough on how to setup active directory to work with Couchbase on Azure
 https://github.com/couchbase-partners/google-deployment-manager-couchbase-mobile # Google Deployment Manager (DM) templates for Couchbase Sync Gateway
+
+https://github.com/apache/couchdb # Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
+https://github.com/apache/couchdb-fauxton # Fauxton is the new Web UI for CouchDB
+https://github.com/apache/couchdb-nano # Nano: The official Apache CouchDB library for Node.js
+https://github.com/apache/couchdb-docker # Semi-official Apache CouchDB Docker images
+https://github.com/apache/couchdb-helm # Apache CouchDB Helm Chart
+
+https://dbdb.io/db/couchbase
+https://dbdb.io/db/couchdb

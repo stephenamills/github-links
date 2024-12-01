@@ -1,10 +1,197 @@
-https://github.com/memcached/memcached # memcached development tree
+https://github.com/couchbase/manifest # Top-level source repository for Couchbase Server source code
 
+https://github.com/couchbase-examples/grafana-plugin # Grafana Couchbase datasource plugin
+https://github.com/couchbase-examples/rag-demo # A RAG demo using LangChain that allows you to chat with your uploaded PDF documents
+https://github.com/couchbase-examples/flutter_cbl_learning_path # Learn Couchbase Lite SDK with Dart and Flutter for Mobile and Desktop Developers
+https://github.com/couchbase-examples/nextjs-quickstart # Quick-start guide demonstrating how to build a basic front-end and backend CRUD app with Next.js and Couchbase
+https://github.com/couchbase-examples/java-springboot-quickstart # Entry level Couchbase Java Spring Boot tutorial/demo. Steps to build a REST API to manage user profile CRUD operations..
+https://github.com/couchbase-examples/nodejs-quickstart # Entry level Couchbase NodeJS tutorial/demo. Steps to build a REST API to manage user profile CRUD operations..
+https://github.com/couchbase-examples/vector-search-nodejs # A RAG demo using LangChain that allows you to chat with your uploaded PDF documents
+https://github.com/couchbase-examples/python-quickstart # Entry level Couchbase Python Flask tutorial/demo. Steps to build a REST API to manage the travel-sample bucket.
+https://github.com/couchbase-examples/scala-quickstart # Entry level Couchbase Scala tutorial/demo. Steps to build REST APIs to manage user profile CRUD operations.
+https://github.com/couchbase-examples/hybrid-search-demo # Hybrid Search demo on Movies Dataset using Couchbase with Native Python SDK & LangChain Vector Store integration & Streamlit
+https://github.com/couchbase-examples/retail-azure-edge-zones # Demo for replicating retail data from cloud to edge with Microsoft Azure Edge Zones
+https://github.com/couchbase-examples/dotnet-xamarin-cblite-userprofile-standalone # Quickstart in Couchbase Lite using a standalone database with dotnet and Xamarin. This tutorial will show you how to use key value pair to do full CRUD operations to the database.
+https://github.com/couchbase-examples/aspnet-quickstart # Entry level Couchbase ASP.NET tutorial/demo. Steps to build a REST API to manage user profile CRUD operations.
+https://github.com/couchbase-examples/android-kotlin-cbl-learning-path # Learn Couchbase Lite SDK with Kotlin and JetPack Compose for Android Developers
+https://github.com/couchbase-examples/golang-quickstart # Entry level Couchbase Golang Gin Gonic tutorial/demo. Steps to build a REST API to manage user profile CRUD operations..
+https://github.com/couchbase-examples/couchbase-jupyter-labs # A series of labs created to start using Couchbase with the Python SDK
+https://github.com/couchbase-examples/python-quickstart-fastapi # Entry level Couchbase Python FastAPI tutorial/demo. Steps to build a REST API to manage the travel-sample bucket.
+https://github.com/couchbase-examples/ios-swift-cblite-userprofile-sync # About Quickstart in Couchbase Lite using a standalone database with iOS and Swift. This tutorial will show you how to use Sync Gateway to sync information between your local database and Couchbase Server.
+https://github.com/couchbase-examples/android-java-cblite-userprofile-query # Quickstart in Couchbase Lite using a standalone database with Android and Java. This tutorial will show you how to use Query Builder to do queries in the database and how to use a pre-built database in your applications.
+https://github.com/couchbase-examples/ottomanjs-quickstart # Entry level Couchbase Ottoman and NodeJS tutorial/demo. Steps to build a REST API to manage user profile CRUD operations in Couchbase Server.
+https://github.com/couchbase-examples/android-java-cblite-userprofile-sync # Quickstart in Couchbase Lite using a standalone database with Android and Java. This tutorial will show you how to use Sync Gateway to sync information between your local database and Couchbase Server.
+https://github.com/couchbase-examples/dotnet-xamarin-cblite-userprofile-query # Quickstart in Couchbase Lite using a standalone database with dotnet and Xamarin Forms in C#. This tutorial will show you how to use Query Builder to do queries in the database and how to use a pre-built database in your applications.
+https://github.com/couchbase-examples/java-springdata-quickstart # Example Spring Data Couchbase application
+https://github.com/couchbase-examples/atlas-device-sdk-cblite-compare # Atlas Device SDK to Couchbase Lite Terminology and Technology comparison
+https://github.com/couchbase-examples/user-defined-functions # Learn to create User Defined Functions(UDF) in Couchbase using Javascript and Python
+https://github.com/couchbase-examples/android-java-cblite-userprofile-standalone # Quickstart in Couchbase Lite using a standalone database with Android and Java. This tutorial will show you how to use key value pair to do full CRUD operations to the database.
+https://github.com/couchbase-examples/ios-swift-cblite-userprofile-standalone # Quickstart in Couchbase Lite using a standalone database with iOS and Swift. This tutorial will show you how to use key value pair to do full CRUD operations to the database.
+https://github.com/couchbase-examples/aspnet-quickstart-minapi # asp.net 8.0 minimum API example application using the Travel-Sample dataset from Couchbase Server
+https://github.com/couchbase-examples/qa-bot-demo # Q&A Chatbot Demo using Couchbase, LangChain, OpenAI and Streamlit
+https://github.com/couchbase-examples/vector-search-cookbook #
+https://github.com/couchbase-examples/langchain4j-couchbase # LangChain4J Couchbase Embedding Store Example
+https://github.com/couchbase-examples/blip-illustrated #
+https://github.com/couchbase-examples/cordova-cblite-userprofile # User Profile quickstart using Cordova Example Plugin
+https://github.com/couchbase-examples/ios-swift-cblite-userprofile-query # Quickstart in Couchbase Lite using a standalone database with iOS and Swift. This tutorial will show you how to use Query Builder to do queries in the database and how to use a pre-built database in your applications.
+https://github.com/couchbase-examples/couchbase-tutorials # Welcome to the Couchbase Tutorials repository, a comprehensive collection of markdown files designed to help you master the power and versatility of Couchbase. Please find all tutorials available at couchbase.com/developers here.
+https://github.com/couchbase-examples/rag-streamlit-aws-bedrock #
+https://github.com/couchbase-examples/nextjs-capella-quickstart # Quickstart in Couchbase with Next.js
+https://github.com/couchbase-examples/starter-kit-ui # UI for starter kit - to be referenced as a submodule
+https://github.com/couchbase-examples/nvidia-rag-demo #
+https://github.com/couchbase-examples/rag-gemini-demo # RAG demo using Google Gemini
+https://github.com/couchbase-examples/haystack-demo # This is the haystack pdf demo repository.
+https://github.com/couchbase-examples/evaluate-rag # Evaluation of RAG systems using Ragas
+https://github.com/couchbase-examples/kotlin-workmanager-replicator-demo # Kotlin WorkManager Replication demo
+https://github.com/couchbase-examples/typescript-quickstart # Entry level Couchbase Type Script tutorial/demo.
+https://github.com/couchbase-examples/ruby-on-rails-quickstart #
+https://github.com/couchbase-examples/rag-aws-bedrock-serverless #
+https://github.com/couchbase-examples/guidelines # Repository Guidelines
+https://github.com/couchbase-examples/java-transactions-quickstart # A Spring Boot application that illustrates using Couchbase transactions with Java SDK
+https://github.com/couchbase-examples/netlify-tutorial # Sample application for Couchbase Capella with Netlify tutorial
+https://github.com/couchbase-examples/php-laravel-quickstart # Quickstart in Couchbase with PHP using Laravel
+https://github.com/couchbase-examples/expo-cbl-travel # Expo based React Native app that uses cbl-reactnative and the Travel-Sample bucket dataset with the hotels and landmark collections
+https://github.com/couchbase-examples/dotnet-xamarin-cblite-userprofile-sync # Quickstart in Couchbase Lite using a database with dotnet and Xamarin Forms in C#. This tutorial will show you how to use Sync Gateway and Couchbase Server to replicate data from your mobil
+e client. https://github.com/couchbase-examples/kotlin-quickstart #
+https://github.com/couchbase-examples/rag-demo-llama-index # A RAG demo using LlamaIndex that allows you to chat with your uploaded PDF documents
+https://github.com/couchbase-examples/ruby-couchbase-orm-quickstart #
+
+https://github.com/couchbase-starter-kit/couchbase-spring-starter # A starter kit for building Spring Boot applications with Couchbase integration. Includes sample configurations, environment setup, JUnit test
+https://github.com/couchbase-starter-kit/couchbase-flask-starter # A starter kit for building Flask applications with Couchbase integration. Includes sample configurations, environment setup, Pytest test
+https://github.com/couchbase-starter-kit/couchbase-rails-starter # A starter kit for building Rails applications with Couchbase integration. Includes sample configurations, environment setup, and a test suite using RSpec.
+https://github.com/couchbase-starter-kit/contributing-guide # Interested in contributing a starter kit for Couchbase in your favorite language and/or framework? Start here.
+https://github.com/couchbase-starter-kit/.github #
+
+https://github.com/couchbase-ps/example-ssl-termination # This example illustrates SSL termination with Couchbase using alternate addresses.
+https://github.com/couchbase-ps/cb-workshop-2d # Couchbase Workshop in 2 days with Labs for Amadeus
+
+https://github.com/couchbase-partners/helm-charts # Helm charts for deployed couchbase services
+https://github.com/couchbase-partners/google-deployment-manager-couchbase # Google Deployment Manager (DM) templates for Couchbase Enterprise
+https://github.com/couchbase-partners/amazon-cloud-formation-couchbase # Amazon CloudFormation Templates (CFT) for Couchbase Enterprise
+https://github.com/couchbase-partners/couchbase-kubernetes-openshift #
+https://github.com/couchbase-partners/azure-resource-manager-couchbase # Azure Resource Manager (ARM) Templates for Couchbase Enterprise
+https://github.com/couchbase-partners/ansible-couchbase #
+https://github.com/couchbase-partners/redhat-pds # Red Hat Partner Demo System Resources
+https://github.com/couchbase-partners/amazon-eks-couchbase # Describes how to use Couchbase on Amazon Elastic Container Service for Kubernetes (EKS)
+https://github.com/couchbase-partners/azure-aks-couchbase # Describes how to use Couchbase on Azure Kubernetes Service (AKS)
+https://github.com/couchbase-partners/redhat-openshift # Location of Docker configurations for Couchbase products on OpenShift
+https://github.com/couchbase-partners/google-gcp-marketplace-k8s-example #
+https://github.com/couchbase-partners/links-couchbase # Links to information about Couchbase partners
+https://github.com/couchbase-partners/test-drive-couchbase # Test Drive Manual for Couchbase
+https://github.com/couchbase-partners/amazon-reporting-couchbase # These scripts download marketplace reports and create graphs from them.
+https://github.com/couchbase-partners/project-voltron #
+https://github.com/couchbase-partners/gcp-reporting-couchbase #
+https://github.com/couchbase-partners/google-gke-couchbase # Describes how to use Couchbase on Google Kubernetes Engine (GKE)
+https://github.com/couchbase-partners/redhat-olm-marketplace # Versioned Resource files for publishing Couchbase Operator to RHEL OLM Marketplace
+https://github.com/couchbase-partners/cb-control-tower # AWS Control Tower Cloud Formation Templates
+https://github.com/couchbase-partners/cruiseline-datagen # A tool to emulate a cruise line's data in Couchbase
+https://github.com/couchbase-partners/marketplace #
+https://github.com/couchbase-partners/marketplace-scripts #
+https://github.com/couchbase-partners/nagios-plugin-couchbase # A Nagios plugin for Couchbase
+https://github.com/couchbase-partners/azure-reporting-couchbase # These are scripts to crunch Azure reports.
+https://github.com/couchbase-partners/azure-aadds-ldap-couchbase # A walkthrough on how to setup active directory to work with Couchbase on Azure
+https://github.com/couchbase-partners/google-deployment-manager-couchbase-mobile # Google Deployment Manager (DM) templates for Couchbase Sync Gateway
+
+https://github.com/memcachier/memjs # A memcache client for node using the binary protocol and SASL authentication
+https://github.com/memcachier/mc # Binary Memcached client for Go with SASL support
+https://github.com/memcachier/examples-sinatra # MemCachier Sinatra / Ruby Usage Example
+https://github.com/memcachier/examples-django # MemCachier Django usage example
+https://github.com/memcachier/examples-rails-gis # MemCachier Rails Usage Example
+https://github.com/memcachier/memcachier-gem # Gem that makes MemCachier compatible with standard memcache libraries
+https://github.com/memcachier/examples-flask # Flask & MemCachier tutorial
+https://github.com/memcachier/wordpress-cache # A WordPress object cache with MemCachier support
+https://github.com/memcachier/aws-route53 # A Haskell AWS Route53 client library
+https://github.com/memcachier/examples-node # MemCachier Node Usage Example
+https://github.com/memcachier/phpmemcachesasl # PHP Memcache class with SASL support
+https://github.com/memcachier/examples-django-tasklist # Django & MemCachier tutorial
+https://github.com/memcachier/examples-php # MemCachier PHP Usage Example
+https://github.com/memcachier/examples-java # MemCachier Java Usage Example
+https://github.com/memcachier/examples-laravel # MemCachier & Laravel tutorial
+https://github.com/memcachier/example-code # Various odds and ends of MemCachier example code
+https://github.com/memcachier/examples-django2 # MemCachier on Heroku with Django tutorial
+https://github.com/memcachier/bcrypt # Go bcrypt library
+https://github.com/memcachier/examples-gin # Gin & MemCachier on Heroku tutorial
+https://github.com/memcachier/docs # MemCachier Documentation
+https://github.com/memcachier/examples-spring-boot # MemCachier & Spring Boot on Heroku tutorial
+https://github.com/memcachier/expressjs-elastic-beanstalk-tutorial # Code to follow along with the _Scaling an Express.js Application with Amazon Elastic Beanstalk_ tutorial.
+https://github.com/memcachier/examples-rails-heroku # MemCachier Heroku Rails Example: https://devcenter.heroku.com/articles/building-a-rails-3-application-with-memcache
+https://github.com/memcachier/django-ascii # Django cache backend supporting MemCachier
+https://github.com/memcachier/examples-expressjs # Express.js & MemCachier on Heroku tutorial
+https://github.com/memcachier/rails_sandbox # MemCachier Rails Sandobx
+https://github.com/memcachier/examples-rails3-heroku # MemCachier Heroku Rails 3 Example
+https://github.com/memcachier/memcachier-tls-buildpack # MemCachier TLS Buildpack
+https://github.com/memcachier/django-docker-ecs-tutorial # Tutorial showing use of MemCachier with Django+Docker+ECS
+https://github.com/memcachier/memcachier-cloudbees # MemCachier CloudBees Example
+https://github.com/memcachier/amazonka-s3-streaming # Provides a conduit based interface to uploading data to S3 using the Multipart API
+https://github.com/memcachier/docker-php-apache-memcached-sessions #
+https://github.com/memcachier/dp # Deploy Script
+https://github.com/memcachier/cache # Gin middleware/handler to enable Cache
+https://github.com/memcachier/postgresql-orm # An Haskell ORM (Object Relational Mapping) and migrations DSL for PostgreSQL.
+https://github.com/memcachier/amazonka # A comprehensive Amazon Web Services SDK for Haskell.
+https://github.com/memcachier/servant-swagger-ui # Provide embedded swagger UI for servant and swagger
+https://github.com/memcachier/memcachier-dotcloud-ruby # MemCachier dotCloud Ruby Example
+https://github.com/memcachier/memc3 # MemC3
+https://github.com/memcachier/sessions # Gin middleware for session management
+https://github.com/memcachier/stripe # :moneybag: Stripe API
+https://github.com/memcachier/examples-rack-cache # MemCachier Rack::Cache Usage Example
+https://github.com/memcachier/examples-django3 # MemCachier Django usage example (ASCII backend)
+https://github.com/memcachier/examples-laravel-beanstalk #
+https://github.com/memcachier/gorilla-sessions-memcache # Memcache session support for Gorilla Web Toolkit
+https://github.com/memcachier/rust-memcache # memcache client for rust
+https://github.com/memcachier/memcached-rs # Memcached library in Rust
+https://github.com/memcachier/examples-rails-contacts # Rails example app for AWS Elastic Beanstalk
+https://github.com/memcachier/aws-ec2 # AWS EC2/VPC, ELB and CloudWatch client library for Haskell
+https://github.com/memcachier/express-memcache #
+https://github.com/memcachier/grpc-haskell # Haskell gRPC support
+https://github.com/memcachier/servant-swagger # Swagger for Servant
+https://github.com/memcachier/examples-django-tasklist-do #
+https://github.com/memcachier/ycsb # Yahoo! Cloud Serving Benchmark
+https://github.com/memcachier/stack # The Haskell Tool Stack
+https://github.com/memcachier/hspec # A Testing Framework for Haskell
+https://github.com/memcachier/docs-pws-services # A place for the PWS-specific services information
+https://github.com/memcachier/gomemcache # Go Memcached client library #golang
+https://github.com/memcachier/nixpkgs # Nix Packages collection
+https://github.com/memcachier/examples-laravel-lemp-do # MemCachier + Laravel tutorial using LEMP stack on DigitalOcean
+https://github.com/memcachier/w3-total-cache #
+https://github.com/memcachier/xmemcached # High performance, easy to use multithreaded memcached client in java.
+
+https://github.com/carrotdata/memcarrot # Memcarrot: A caching server fully compatible with memcached protocol, offering superior memory utilization (memory overhead is as low as 8 bytes per object)
+https://github.com/carrotdata/membench # Various memory usage - related benchmarks for Memcached and Redis
+https://github.com/carrotdata/carrot-cache # In-Out-Process Java cache (L1/L2 off-heap, scalable, ZeroGC) with full SSD support
+https://github.com/carrotdata/zstd-jni # JNI binding for Zstd
+https://github.com/carrotdata/prometheus # Our Graphana/Prometheus integration
+
+https://github.com/dragonflydb/dragonfly # A modern replacement for Redis and Memcached
+https://github.com/dragonflydb/dragonfly-operator # A Kubernetes operator to install and manage Dragonfly instances.
+https://github.com/dragonflydb/dragonfly-examples # Complete code examples for various Dragonfly use cases
+https://github.com/dragonflydb/redis-cluster-application-example #
+https://github.com/dragonflydb/background-process-example #
+https://github.com/dragonflydb/documentation # Dragonfly documentation for users
+
+https://github.com/apache/geode # Apache Geode
+https://github.com/apache/geode-examples # Apache Geode Examples
+https://github.com/apache/geode-native # Apache Geode Native
+https://github.com/apache/geode-benchmarks # Apache Geode Benchmarks
+https://github.com/apache/geode-kafka-connector # Kafka connector for Apache Geode
+
+https://github.com/netflix/evcache # A distributed in-memory data store for the cloud
+https://github.com/netflix/rend # A memcached proxy that manages data chunking and L1 / L2 caches
+https://github.com/netflix/rend-http # Rend server to proxy simple requests to an HTTP proxy
+https://github.com/netflix/cachemover #
+
+https://github.com/memc-rs/memc-rs # A general-purpose distributed memory cache system compatible with Memcached
+
+https://github.com/memcached/memcached # memcached development tree
 https://github.com/memcached/mc-crusher # ENSIGN CRUSHER
 https://github.com/memcached/perl-cache-memcached # Cache::Memcached
 https://github.com/memcached/mctester # Load/Fuzz pattern generation suite
 https://github.com/memcached/mcshredder # another load generation tool
 https://github.com/memcached/mcdumpload # dump and reload cache keys
 https://github.com/memcached/shredders # verification and test suites
-https://github.com/memcached/memcached.github.io # docs site
 https://github.com/memcached/memcached-vendor # "vendored" libraries/dependencies for the memcached repository
+
+https://dbdb.io/db/couchbase
+https://dbdb.io/db/dragonfly
+https://dbdb.io/db/evcache
+https://dbdb.io/db/geode
+https://dbdb.io/db/memcached

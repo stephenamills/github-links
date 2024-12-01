@@ -1,0 +1,86 @@
+https://github.com/infinispan-demos/harry-potter-quarkus # Showcases in a web application Quarkus and Infinispan
+https://github.com/infinispan-demos/links # Lists infinispan demos and covered technologies
+https://github.com/infinispan-demos/streaming-data-workshop # Streaming data workshop with Infinispan, Vert.x and OpenShift
+https://github.com/infinispan-demos/vertx-api # Example that creates a REST, PUSH API and a Clustered Application with Vert.x and Infinispan
+https://github.com/infinispan-demos/swiss-transport-datagrid #
+https://github.com/infinispan-demos/infinispan-near-cache # Simple example showcasing infinispan spring-boot and near-cache
+https://github.com/infinispan-demos/infinispan-sqlstore-demo # SQL Store showcasing capabilities of Infinispan Table and Query caches with persistence
+https://github.com/infinispan-demos/custom-datagrid-openshift #
+https://github.com/infinispan-demos/infinispan-wf-swarm-example # Wildfly Swarm example showing how to interact with Infinispan
+https://github.com/infinispan-demos/infinispan-prometheus #
+https://github.com/infinispan-demos/tf-ispn-demo #
+https://github.com/infinispan-demos/quarkus-insights-demo # What's new in Infinispan Client Extension - Quarkus Insights Demo 23/01/2023
+https://github.com/infinispan-demos/infinispan-pokemon # Query over REST demo
+https://github.com/infinispan-demos/streaming-data-deepdive #
+https://github.com/infinispan-demos/queryable-pojos # Demo comparing different ways in which remote querying can be enabled for Java POJOs
+https://github.com/infinispan-demos/streaming-data-kubernetes #
+https://github.com/infinispan-demos/jdg-x-site-replication-demo # This demo shows how to run JDG x-site replication @ OpenShift
+https://github.com/infinispan-demos/infinispan-events # A 3-tier demo application showing upcoming Infinispan Events (e.g. conferences talks) using Elm, Node.js and Infinispan Servers
+https://github.com/infinispan-demos/jdg-remote-query-demo #
+https://github.com/infinispan-demos/infinispan-openshift-multitenancy # Infinispan and multi-tenancy @ OpenShift demo
+https://github.com/infinispan-demos/nodejs-infinispan-openshift #
+https://github.com/infinispan-demos/http2-demo #
+https://github.com/infinispan-demos/quarkus-insights-demo-2024 # This is the repository holding the code for the Quarkus and Infinispan Insights Demo 2024
+https://github.com/infinispan-demos/jdg-security-demo # Using JDG security with LDAP
+https://github.com/infinispan-demos/endpoint-interop # Demo showcasing interoperability between remote endpoints
+https://github.com/infinispan-demos/riviera-dev-2024-demo # Demo project Quarkus and Infinispan - Riviera Dev 2024
+https://github.com/infinispan-demos/customer-service-jdg # Sample Customer REST Service with JDG as DataGrid Cache
+https://github.com/infinispan-demos/.github # Readme for demos
+https://github.com/infinispan-demos/infinispan-http2-go-example #
+https://github.com/infinispan-demos/swiss-transport-binaries #
+https://github.com/infinispan-demos/infinispan-langchain-demo # Demo integration with Langchain, showcasing Infinispan vector store capabilities
+https://github.com/infinispan-demos/hotrod-secured-remote-access-datagrid-openshift # Showcases how HotRod clients remotely access to a secured Red Hat Data Grid cluster running on Red Hat Openshift Container Platform
+https://github.com/infinispan-demos/infinispan-nosqlunit-demo # Infinispan unit testing example using NoSQLUnit library
+https://github.com/infinispan-demos/postgresql-to-jdg #
+https://github.com/infinispan-demos/infinispan-openshift-monitoring-and-catalog # A demo for Infinispan integrating with Hawkular and Service Catalog
+
+https://github.com/infinispan/infinispan # Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
+https://github.com/infinispan/infinispan-simple-tutorials # Infinispan Simple Tutorials
+https://github.com/infinispan/infinispan-operator # Infinispan Operator
+https://github.com/infinispan/protostream # ProtoStream is a serialization library based on Protocol Buffers
+https://github.com/infinispan/infinispan-images # Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
+https://github.com/infinispan/infinispan-console # Infinispan Server Web Console
+https://github.com/infinispan/infinispan-designs # Infinispan Designs
+https://github.com/infinispan/infinispan-spark # Infinispan Spark Connector
+https://github.com/infinispan/infinispan-embedded-tutorial # Infinispan Embedded Tutorial
+https://github.com/infinispan/infinispan-kafka # Infinispan connector for Apache Kafka
+https://github.com/infinispan/infinispan-management-console # Infinispan Web Management Console
+https://github.com/infinispan/js-client # Javascript client for Infinispan, over the Hot Rod wire protocol
+https://github.com/infinispan/python-client # Native python client for Infinispan, over the Hot Rod wire protocol
+https://github.com/infinispan/infinispan-helm-charts #
+https://github.com/infinispan/infinispan-quarkus # Infinispan Quarkus based extensions and Server
+https://github.com/infinispan/cpp-client # C++ client for Infinispan, over the Hot Rod wire protocol
+https://github.com/infinispan/visual # A visualization of the data grid
+https://github.com/infinispan/dotnet-client # .NET client for Infinispan, over the Hot Rod wire protocol
+https://github.com/infinispan/infispector # Network inspection tool for Infinispan clusters
+https://github.com/infinispan/infinispan-server-tutorial # Infinispan Server Tutorial Guide
+https://github.com/infinispan/infinispan-cachestore-mongodb # Infinispan MongoDB Cache Store
+https://github.com/infinispan/ruby-client # Native ruby client for the Infinispan Data Grid
+https://github.com/infinispan/infinispan-benchmarks # Infinispan Benchmarks
+https://github.com/infinispan/infinispan-cachestore-cassandra # Infinispan Cassandra Cache Store
+https://github.com/infinispan/infinispan.github.io # Current public website
+https://github.com/infinispan/infinispan-labs #
+https://github.com/infinispan/infinispan-hadoop # Infinispan Hadoop integration
+https://github.com/infinispan/infinispan-openshift-templates # _Deprecated_. The Infinispan Operator should be utilised instead.
+https://github.com/infinispan/infinispan-playground-embedded-hotrod # Infinispan Playground Embedded HotRod Server
+https://github.com/infinispan/infinispan-arquillian-container # An Arquillian container for Infinispan
+https://github.com/infinispan/infinispan-remote-tutorial #
+https://github.com/infinispan/infinispan.hotrod.core # .NET Core C# client for Infinispan data grid
+https://github.com/infinispan/infinispan-cachestore-cloud # Infinispan Cloud Cache Store
+https://github.com/infinispan/infinispan-ansible-benchmark # Infinispan Benchmark via Hyperfoil orchestrated by Ansible
+https://github.com/infinispan/infinispan-cachestore-hbase # Infinispan HBase Cache Store
+https://github.com/infinispan/infinispan-cachestore-bdbje # Infinispan BDBJE Cache Store
+https://github.com/infinispan/mc-crusher-horreum #
+https://github.com/infinispan/infinispan-maven-plugins # Infinispan Maven plugins
+https://github.com/infinispan/infinispan-cachestore-jdbm # Infinispan JDBM Cache Store
+https://github.com/infinispan/simple-maven-resolver # Simple Maven resolver library
+https://github.com/infinispan/memcached-client # Memcached Client for Java
+https://github.com/infinispan/infinispan-console-mockup #
+https://github.com/infinispan/infinispan-test # Infinispan Testing utilities
+https://github.com/infinispan/spring-data-infinispan # Infinispan Spring-Data integration
+https://github.com/infinispan/infinispanblog.github.io # Infinispan Blog
+https://github.com/infinispan/staging.infinispan.github.io # Staging public website
+https://github.com/infinispan/infinispan-doclets # Infinispan Doclets
+https://github.com/infinispan/spring-session-redis-hot-replacement # Repository fork for spring-session replacing redis container by infinispan without changing the code
+https://github.com/infinispan/infinispan-openshift-console # Infinispan OpenShift Console
+https://github.com/infinispan/infinispan-cachestore-archetype # Infinispan Custom Cache Store archetype

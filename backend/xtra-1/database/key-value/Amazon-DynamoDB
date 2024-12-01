@@ -1,0 +1,96 @@
+https://github.com/aws-solutions-library-samples/guidance-for-resilient-data-applications-using-amazon-dynamodb # Multi-region application using global tables
+https://github.com/aws-solutions-library-samples/guidance-for-incremental-data-exports-from-amazon-dynamodb-to-amazon-s3 # Continuous incremental exports feature
+https://github.com/aws-solutions-library-samples/guidance-for-processing-real-time-data-using-amazon-dynamo-db # DynamoDB Streams real-time data aggregations
+
+https://github.com/build-on-aws/elevating-customer-support-with-rag-langchain-agent-bedrock-dynamodb-and-kendra #
+https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb # Chatbot using a Bedrock Agent, Lambda functions
+https://github.com/build-on-aws/realtime-dynamodb-zero-etl-opensearch-visualization # Visualize and analyze data with OpenSearch and DynamoDB
+
+https://github.com/aws-samples/aws-dynamodb-examples # Examples
+https://github.com/aws-samples/amazon-dynamodb-labs # Hands on workshop and design scenarios
+https://github.com/aws-samples/csv-to-dynamodb #
+https://github.com/aws-samples/lambda-java8-dynamodb #
+https://github.com/aws-samples/amazon-dynamodb-design-patterns # Sample data models to demonstrate design patterns
+https://github.com/aws-samples/aws-dynamodb-enterprise-application # A Serverless hotel central reservation system
+https://github.com/aws-samples/cross-account-amazon-dynamodb-replication #
+https://github.com/aws-samples/cookiecutter-aws-sam-s3-rekognition-dynamodb-python # SAM app that uses Rekognition APIs to detect text in S3 and store it in DynamoDB.
+https://github.com/aws-samples/building-a-rule-engine-using-aws-lambda-dynamodb #
+https://github.com/aws-samples/dynamodb-local-testing # Webservice built in Go with DynamoDB Local
+https://github.com/aws-samples/amazon-dynamodb-chat-sample # Sample app for a workshop
+https://github.com/aws-samples/aws-saas-factory-dynamodb-fine-grained-access-control-for-saas # Share DynamoDB tables across multiple tenants in a SaaS
+https://github.com/aws-samples/dynamodb-restore-continuous-backup # Build a DataPipeline stack to do point-in-time DynamoDB restore operations
+https://github.com/aws-samples/amazon-dynamodb-monitoring #
+https://github.com/aws-samples/macie-dynamodb-blog # Cloudformation templates for Macie DynamoDB blog post
+https://github.com/aws-samples/amazon-dynamodb-implementing-priority-queuing # Implementing Priority Queuing
+https://github.com/aws-samples/skiresort-example-dynamodb-aws-sdk-v1 #
+https://github.com/aws-samples/aws-serverless-graphql-dynamodb # API Gateway GraphQL APIs and a Lambda function that reads a record from a DynamoDB table
+https://github.com/aws-samples/dynamodb-elasticache-geospatial-workshop #
+https://github.com/aws-samples/cookiecutter-aws-sam-dynamodb-python # SAM app that reads and logs DynamoDB events
+https://github.com/aws-samples/amazon-textract-a2i-dynamodb-handwritten-tabular #
+https://github.com/aws-samples/aws-dynamodb-cross-region-replication # DynamoDB bi-directional replication solution between China regions and AWS commercial regions
+https://github.com/aws-samples/rdbms-to-dynamodb-with-awsglue # Code samples for refactoring to DynamoDB
+https://github.com/aws-samples/amazon-dynamodb-getting-started-for-game-developers # Basic client/server implementation in C++ for game developers
+https://github.com/aws-samples/crud4dynamo # Lightweight library built on-top of the DynamoDB SDK
+https://github.com/aws-samples/build-dynamodb-integration-with-kinesis #
+https://github.com/aws-samples/aws-dynamodb-kinesisfirehose-s3-ingestion #
+https://github.com/aws-samples/amazon-dynamodb-store-stream-sports-data #
+https://github.com/aws-samples/kinesis-data-analytics-stream-to-dynamodb #
+https://github.com/aws-samples/dynamodb-consumed-capacity-check-tool #
+https://github.com/aws-samples/aws-dynamodb-large-object-patterns # Store large objects with DynamoDB.
+https://github.com/aws-samples/amazon-pinpoint-dynamodb-channel #
+https://github.com/aws-samples/dynamodb-debunking-myths #
+https://github.com/aws-samples/searchengine-with-appsync-dynamodb-elasticsearch #
+https://github.com/aws-samples/amazon-dynamodb-item-tagging #
+https://github.com/aws-samples/dynamodb-ml-prediction-amazon-athena #
+https://github.com/aws-samples/cloudformation-custom-resource-add-item-to-dynamodb-table #
+https://github.com/aws-samples/cross-account-migration-for-amazon-dynamodb # Zero-downtime cross-account migration of Amazon DynamoDB tables.
+https://github.com/aws-samples/aws-dynamodb-encrypt-with-abac # Python code that uses CDK for client-side encryption of data in DynamoDB
+https://github.com/aws-samples/amazon-dynamodb-transaction-framework #
+https://github.com/aws-samples/dynamodb-permissions-workshop # Security and Networking workshop
+https://github.com/aws-samples/aws-dynamodb-parallel-queries #
+https://github.com/aws-samples/bcs-disaster-recovery-portal-dynamodb # Lambda handlers to manage Amazon DynamoDB.
+https://github.com/aws-samples/amazon-dynamodb-reviews-inserter-blog #
+https://github.com/aws-samples/dynamodb-reports-denormalization-sample #
+https://github.com/aws-samples/amazon-reverse-engineer-dynamodb #
+https://github.com/aws-samples/bcs-disaster-recovery-portal-dynamodb-stream # Fargate task to manage and process a DynamoDB stream.
+https://github.com/aws-samples/amazon-dynamodb-table-to-global-table-cdk #
+https://github.com/aws-samples/nosql-workbench-for-amazon-dynamodb-new-model #
+https://github.com/aws-samples/implementing-the-circuit-breaker-pattern-with-lambda-extensions-and-dynamodb #
+https://github.com/aws-samples/cdk-fargate-bulkload-dynamodb #
+https://github.com/aws-samples/bulk-update-amazon-dynamodb-tables-with-aws-step-functions # Blog post "Bulk update Amazon DynamoDB tables with AWS Step Functions"
+https://github.com/aws-samples/automatically-archive-items-to-s3-using-dynamodb-ttl #
+https://github.com/aws-samples/dynamodb-pitr-restore-cdc #
+https://github.com/aws-samples/searchable-encryption-dynamodb-howto #
+https://github.com/aws-samples/amazon-dynamodb-protection-policies #
+https://github.com/aws-samples/dynamodb-data-migration-with-transformation-utility #
+https://github.com/aws-samples/amazon-eventbridge-pipes-dynamodb-stream-transactional-outbox #
+https://github.com/aws-samples/asynchronous-event-processing-api-gateway-dynamodb-streams-cdk # Process events asynchronously using API Gateway and DynamoDB Streams.
+https://github.com/aws-samples/aws-dynamodb-fifo #
+https://github.com/aws-samples/amazon-dynamodb-approximate-count #
+https://github.com/aws-samples/aws-accesscontrol-monitoring-dynamodb #
+https://github.com/aws-samples/dynamodb-kinesis-spring-blog #
+https://github.com/aws-samples/amazon-dynamodb-sample-restaurant-app # Sample Amazon DynamoDB restaurant app with utility scripts
+https://github.com/aws-samples/amazon-dynamodb-pitr-table-sync #
+https://github.com/aws-samples/iot-lambda-sns-sqs-lambda-dynamodb #
+https://github.com/aws-samples/amazon-dynamodb-table-to-global-table-cfn #
+https://github.com/aws-samples/rag-based-translation-with-dynamodb-and-bedrock #
+https://github.com/aws-samples/tag-based-scheduled-backup-of-dynamodb-using-aws-backup #
+
+https://github.com/awslabs/emr-dynamodb-connector # Hadoop/Hive interfaces which allow for ingesting data from DynamoDB
+https://github.com/awslabs/amazon-dynamodb-lock-client # Distributed locking library built on DynamoDB. It supports both coarse-grained and fine-grained locking.
+https://github.com/awslabs/dynamodb-document-js-sdk # DynamoDB Document SDK in Javascript
+https://github.com/awslabs/dynamodb-streams-kinesis-adapter # Process data from a DynamoDB Stream using the Amazon Kinesis
+https://github.com/awslabs/amazon-dynamodb-tools # Tools to make effective use of DynamoDB easier.
+https://github.com/awslabs/dynamodb-shell # A command line tool for AWS DynamoDB that offers DDL and DML support.
+https://github.com/awslabs/dynamodb-backup-scheduler # Trigger a Lamda function daily to backup DynamoDB
+https://github.com/awslabs/amazon-dynamodb-local-samples # Java project that uses DynamoDB Local for local development and testing
+https://github.com/awslabs/aws-dynamodb-storage-monitor # A Python Lambda function that gets the storage info of all DynamoDB tables in a region
+https://github.com/awslabs/aws-backup-dynamodb-rotator # The Backup DynamoDB Rotator restores DynamoDB backups to a new timestamped table based on patterns you specify.
+
+https://github.com/aws/aws-dynamodb-encryption-java # Amazon DynamoDB Encryption Client for Java
+https://github.com/aws/aws-dynamodb-encryption-python # Amazon DynamoDB Encryption Client for Python
+https://github.com/aws/aws-sessionstore-dynamodb-ruby # Handles sessions for Ruby web applications using DynamoDB as a backend.
+https://github.com/aws/aws-database-encryption-sdk-dynamodb # AWS Database Encryption SDK for DynamoDB in Java
+
+https://github.com/cdklabs/cdk-dynamo-table-viewer # A CDK construct which exposes an endpoint with the contents of a DynamoDB table
+https://github.com/cdklabs/cdk-dynamo-table-viewer-go # A CDK construct which exposes an endpoint with the contents of a DynamoDB table Topics Resources License

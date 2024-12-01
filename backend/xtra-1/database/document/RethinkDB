@@ -1,0 +1,29 @@
+https://github.com/rethinkdb/rethinkdb # The open-source database for the realtime web.
+
+https://github.com/rethinkdb/rethinkdb-example-nodejs #
+https://github.com/rethinkdb/angular2-typescript-example # A RethinkDB chat app built in Typescript with Node.js and Angular 2
+https://github.com/rethinkdb/example-rabbitmq #
+https://github.com/rethinkdb/rethinkdb-example-bottle-ember-todo # A canonical ember.js todo application running on bottle and RethinkDB
+https://github.com/rethinkdb/aspnet-signalr-chat # A sample RethinkDB chat demo built with ASP.NET and SignalR
+https://github.com/rethinkdb/java-demo # A RethinkDB app built with Java and Vert.x
+
+https://github.com/rethinkdb/rethinkdb-go # Go language driver for RethinkDB
+https://github.com/rethinkdb/rethinkdb-rs # A native RethinkDB driver written in Rust
+https://github.com/rethinkdb/docs # RethinkDB documentation
+https://github.com/rethinkdb/rethinkdb-python # Python driver for RethinkDB
+https://github.com/rethinkdb/rethinkdb-dockerfiles # Dockerfiles for past and present versions of RethinkDB.
+https://github.com/rethinkdb/earthquake-map #
+https://github.com/rethinkdb/rethinkdb-java # Official RethinkDB Java client
+https://github.com/rethinkdb/rethinkdb-admin # RethinkDB Next Generation Admin UI
+https://github.com/rethinkdb/prometheus-exporter # Prometheus rethinkdb statistics exporter
+https://github.com/rethinkdb/www # The RethinkDB website.
+https://github.com/rethinkdb/rethinkdb-ruby #
+https://github.com/rethinkdb/reql # Reql spec/parseable syntax or ast defs
+https://github.com/rethinkdb/rethinkdb-ngconf # Building realtime apps with RethinkDB and Angular (slides)
+https://github.com/rethinkdb/rethinkdb-javascript # JavaScript driver for RethinkDB
+https://github.com/rethinkdb/rethinkdb-kotlin-jvm # Kotlin extensions for the RethinkDB Java driver
+https://github.com/rethinkdb/rethinkdb-update # Update server of rethinkdb
+https://github.com/rethinkdb/rethinkdb-digitalocean # Build a specific RethinkDB version as a DigitalOcean 1-click image.
+https://github.com/rethinkdb/performance-reports # All of rethinkdb/rethinkdb's performance reports and results.
+
+https://dbdb.io/db/rethinkdb

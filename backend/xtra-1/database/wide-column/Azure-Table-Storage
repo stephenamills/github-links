@@ -1,0 +1,24 @@
+https://github.com/azure-samples/msdocs-azure-data-tables-sdk-dotnet # Sample code for access Azure Table Storage or the Cosmos Table API by using the Azure.Data.Tables package in .NET
+https://github.com/azure-samples/functions-docs-python # Python samples that support Azure Functions docs
+https://github.com/azure-samples/azure-serverless-twitter-subscription # A tutorial for using Azure Logic Apps to monitor recent tweets on Twitter. The app sends an email notification to subscribers when new tweets are posted matching a search term.
+https://github.com/azure-samples/msdocs-azure-tables-sdk-python-flask # Sample code for access Azure Table Storage or the Cosmos Table API by using the Azure-Data-Tables package in python
+https://github.com/azure-samples/orleans-url-shortener # Sample URL Shortener implemented in Microsoft Orleans with ASP.NET Core Minimal API
+https://github.com/azure-samples/function-python-ai-openai-chatgpt # This sample shows how to take a ChatGPT prompt as HTTP Get or Post input, calculates the completions using OpenAI ChatGPT service, all hosted in an Azure Function.
+https://github.com/azure-samples/msdocs-azure-data-tables-sdk-js # Sample code for access Azure Table Storage or the Cosmos Table API by using the @azure/data-tables package in JS
+https://github.com/azure-samples/msdocs-azure-data-tables-sdk-java # Sample code for access Azure Table Storage or the Cosmos Table API by using the Azure-Data-Tables package in Java
+https://github.com/azure-samples/azure-cognitive-search-blob-metadata # This sample demonstrates how to use multiple indexers in Azure Cognitive Search to create a single search index from files in Blob storage with their associated metadata in Table storage
+https://github.com/azure-samples/function-javascript-ai-openai-chatgpt # To gain access, please finish setting up this repository now
+https://github.com/azure-samples/http-trigger-azure-function-premium-plan # This sample shows how to call an HTTP-triggered Azure Function hosted in an Azure Functions Premium Plan with Regional VNET Integration using a private endpoint. In addition, the sample shows how the Azure Functions app can use a NAT Gateway for outbound connections and private endpoints to access managed resources.
+https://github.com/azure-samples/record-playback-test-proxy-demo-csharp # C# project that demonstrates use of a record/playback proxy that allows local testing without touching Azure services.
+https://github.com/azure-samples/record-playback-test-proxy-demo-javascript #
+https://github.com/azure-samples/record-playback-test-proxy-demo-java #
+https://github.com/azure-samples/record-playback-test-proxy-demo-python #
+https://github.com/azure-samples/record-playback-test-proxy-demo-go #
+https://github.com/azure-samples/non-http-trigger-azure-functions-premium-plan # This sample shows how to use Azure Private Endpoints and NAT Gateway from a non-HTTP triggered Azure Function deployed to an Azure Functions Premium Plan with Regional VNET Integration. The Azure function receives a message from a Service Bus queue, calls an external service, and writes the result to Cosmos DB.
+
+https://github.com/azure/azure-storage-node # Microsoft Azure Storage SDK for Node.js
+https://github.com/azure/azurite # A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
+https://github.com/azure/terraform-azurerm-avm-res-storage-storageaccount # This Terraform module is designed to create Azure Storage Accounts and its related resources, including blob containers, queues, tables, and file shares. It also supports the creation of a storage account private endpoint which provides secure and direct connectivity to Azure Storage over a private network.
+
+https://github.com/microsoft/notification-provider # A Mail Notification Library providing additional features on top of existing Email Notification clients like Microsoft Graph, Direct Send, and more!
+https://github.com/microsoft/embeddedteamschat # Third-party websites can use this solution to embed Microsoft Teams chats into their webpages

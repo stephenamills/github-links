@@ -1,0 +1,40 @@
+https://github.com/ravendb/ravendb # ACID Document Database
+
+https://github.com/ravendb/samples-yabt # "Yet Another Bug Tracker" solution sample for RavenDB and .NET with Angular UI
+https://github.com/ravendb/demo #
+https://github.com/ravendb/samples-hugin #
+https://github.com/ravendb/template-cloudflare-worker # A batteries included template for kick starting a TypeScript Cloudflare worker project that connects with a RavenDB Cloud database backend.
+https://github.com/ravendb/samples-crypto-app #
+https://github.com/ravendb/samples-jvm #
+https://github.com/ravendb/samples-aspnet-distributed-counters #
+https://github.com/ravendb/templates # Templates and starters for RavenDB
+https://github.com/ravendb/samples-nextjs #
+https://github.com/ravendb/samples-php-laravel #
+
+https://github.com/ravendb/book # RavenDB Book
+https://github.com/ravendb/docs # Docs for RavenDB
+https://github.com/ravendb/bootcamp #
+https://github.com/ravendb/ravendb-nodejs-client # RavenDB node.js client
+https://github.com/ravendb/ravendb-go-client #
+https://github.com/ravendb/ravendb-python-client # This is the official python client for RavenDB document database
+https://github.com/ravendb/awesome-ravendb #
+https://github.com/ravendb/quartznet-ravendb # RavenDB JobStore support for Quartz.NET scheduler.
+https://github.com/ravendb/serilog-sinks-ravendb # A Serilog sink that writes events to RavenDB
+https://github.com/ravendb/ravendb-jvm-client # RavenDB JVM Client
+https://github.com/ravendb/identityserver4.contrib.ravendb #
+https://github.com/ravendb/ravendb-php-client #
+https://github.com/ravendb/ravendb-grafana-datasource #
+https://github.com/ravendb/terraform-provider-ravendb #
+https://github.com/ravendb/helm-charts # An official Helm chart for RavenDB.
+https://github.com/ravendb/ravendb-cpp-client # RavenDB C++ Client
+https://github.com/ravendb/ravendb-ruby-client #
+https://github.com/ravendb/raven.codeanalysis #
+https://github.com/ravendb/ravendb-jvm-embedded #
+https://github.com/ravendb/ravendb-jvm-testdriver #
+https://github.com/ravendb/ravendb-python-embedded #
+https://github.com/ravendb/kr-benchmark-scripts # Scripts & Code to reproduce database benchmark with large dataset
+https://github.com/ravendb/ravendb-python-testdriver #
+https://github.com/ravendb/ravendb-docker-builds # Ravendb Docker image builds
+https://github.com/ravendb/ravendb-datahub-source #
+https://github.com/ravendb/akka.persistence.ravendb #
+https://github.com/ravendb/ravendb-deb-pkg-tests # Github actions scripts for testing latest ravendb deb package.
