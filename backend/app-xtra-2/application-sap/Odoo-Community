@@ -1,0 +1,237 @@
+https://github.com/oca/web # Odoo web client UI related addons
+https://github.com/oca/openupgrade # Open source upgrade path for Odoo/OpenERP
+https://github.com/oca/server-tools # Tools for Odoo Administrators to improve some technical features on Odoo.
+https://github.com/oca/connector # Odoo generic connector framework (jobs queue, asynchronous tasks, channels)
+https://github.com/oca/reporting-engine # Odoo Alternative Reporting Engine
+https://github.com/oca/ocb # Odoo Community Backports
+https://github.com/oca/stock-logistics-warehouse # Odoo Warehouse Management Addons
+https://github.com/oca/account-financial-tools # Odoo Accountant Financial Tools and Utils
+https://github.com/oca/rest-framework #
+https://github.com/oca/sale-workflow # Odoo Sales, Workflow and Organization
+https://github.com/oca/l10n-spain # Odoo Spain Localization
+https://github.com/oca/project # Odoo Project Management and Services Company Addons
+https://github.com/oca/pos #
+https://github.com/oca/maintainer-tools # Odoo Maintainers Tools & conventions for OCA members which evaluate and maintain repositories.
+https://github.com/oca/website # Odoo website builder addons
+https://github.com/oca/vertical-medical # Open Source Healthcare System for Odoo
+https://github.com/oca/l10n-brazil # Localização brasileira oficial do Odoo.
+https://github.com/oca/account-invoicing # Odoo Invoicing Extension Addons
+https://github.com/oca/odoorpc # Python module to pilot your Odoo servers through JSON-RPC.
+https://github.com/oca/account-financial-reporting # Financial reports for Odoo
+https://github.com/oca/stock-logistics-workflow # Odoo Stock, Workflow and Organization
+https://github.com/oca/hr # Odoo Human Resources Addons
+https://github.com/oca/partner-contact # Odoo Partner and Contact related addons
+https://github.com/oca/purchase-workflow # Odoo Purchases, Workflow and Organization
+https://github.com/oca/bank-payment # Odoo Electronic Payment
+https://github.com/oca/geospatial # Odoo and GIS
+https://github.com/oca/management-system # Odoo for Management Systems (ISO, IEC, BS)
+https://github.com/oca/product-attribute # Odoo Product Attribute
+https://github.com/oca/queue # Asynchronous Job Queue
+https://github.com/oca/contract #
+https://github.com/oca/manufacture # Odoo Manufacturing Addons
+https://github.com/oca/e-commerce # Odoo E-Commerce server automation addons
+https://github.com/oca/knowledge # Odoo Document & Knowledge Management
+https://github.com/oca/social # Addons concerning odoo's social ERP features and messaging in general
+https://github.com/oca/server-ux #
+https://github.com/oca/stock-logistics-barcode #
+https://github.com/oca/wms # Warehouse Management System for advance logistic with Odoo
+https://github.com/oca/crm # Odoo CRM, Mail & Newsletter advanced features
+https://github.com/oca/server-auth #
+https://github.com/oca/bank-statement-import # Bank Import Addons
+https://github.com/oca/l10n-italy # Odoo Italian localization
+https://github.com/oca/connector-telephony # Odoo modules for telephony integration
+https://github.com/oca/helpdesk # Odoo modules for managing a HelpDesk system
+https://github.com/oca/field-service # Field Service Management
+https://github.com/oca/mis-builder # Management Information System reports for Odoo: easily build super fast, beautiful, custom reports such as
+P&L, Balance Sheets and more. https://github.com/oca/account-reconcile # Odoo account reconciliation modules (statements, data completion...)
+https://github.com/oca/pylint-odoo # Odoo plugin for Pylint
+https://github.com/oca/vertical-hotel # Odoo for Hotel Management
+https://github.com/oca/odoo-module-migrator # Python library to migrate odoo base code from a version to another
+https://github.com/oca/timesheet # Odoo Timesheet Management Addons
+https://github.com/oca/edi #
+https://github.com/oca/dms # Odoo modules for a Document Management System
+https://github.com/oca/commission # Odoo Commission Management
+https://github.com/oca/delivery-carrier # Odoo Carriers And Deliveries Management
+https://github.com/oca/report-print-send # Odoo Printing Services and Printer related addons
+https://github.com/oca/ansible-odoo # [NOT MAINTAINED] Ansible role for Odoo
+https://github.com/oca/connector-magento # Connect Odoo with Magento
+https://github.com/oca/account-analytic # Odoo Account Analytic Related Addons
+https://github.com/oca/server-backend #
+https://github.com/oca/multi-company #
+https://github.com/oca/odoo-community.org # The Odoo Community Association Website
+https://github.com/oca/connector-prestashop # Connect Odoo with Prestashop
+https://github.com/oca/account-payment # Project supervised by the Banking PSC
+https://github.com/oca/openupgradelib # A library with support functions to be called from Odoo migration scripts.
+https://github.com/oca/payroll # Odoo modules for payroll management
+https://github.com/oca/rma # Odoo for Return Merchandise Authorization (RMA)
+https://github.com/oca/maintenance # Odoo modules for businesses that implies maintenance tasks
+https://github.com/oca/credit-control # Odoo modules for the customer credit control
+https://github.com/oca/margin-analysis # Odoo Financial Controlling (margin, costs, ...)
+https://github.com/oca/operating-unit # Manage Operating Units in Odoo
+https://github.com/oca/account-invoice-reporting # Odoo Invoicing reports
+https://github.com/oca/storage #
+https://github.com/oca/pms # Property Management System on Odoo
+https://github.com/oca/ddmrp #
+https://github.com/oca/stock-logistics-reporting # Provides Odoo Logistics reporting modules
+https://github.com/oca/currency # Odoo Currency related Addons (crypto currencies, rate conversion, integrations with third party applications
+,...) https://github.com/oca/business-requirement # Business Requirements Management via Odoo
+https://github.com/oca/oca-addons-repo-template # OCA Repository Template
+https://github.com/oca/account-closing # Odoo Accountant closing tools
+https://github.com/oca/iot # Internet of Things (IoT)
+https://github.com/oca/stock-logistics-transport # Transport management in Odoo
+https://github.com/oca/event # Event Management addons
+https://github.com/oca/connector-interfaces # Odoo Generic Connector for ODBC, .CSV,...
+https://github.com/oca/product-variant #
+https://github.com/oca/server-brand #
+https://github.com/oca/account-fiscal-rule # Odoo Taxes & Fiscal Rules Management
+https://github.com/oca/server-env # Tools to manage environment-dependent configuration
+https://github.com/oca/connector-woocommerce #
+https://github.com/oca/hr-expense # Human Resources Expenses OCA modules for Odoo
+https://github.com/oca/l10n-switzerland # Odoo Swiss localization
+https://github.com/oca/sale-reporting #
+https://github.com/oca/l10n-thailand # Thai localization
+https://github.com/oca/hr-attendance # HR Attendance OCA modules for Odoo
+https://github.com/oca/product-pack # Odoo modules related to product packs
+https://github.com/oca/brand # Manage brands for products and companies
+https://github.com/oca/spreadsheet #
+https://github.com/oca/connector-ecommerce # Generic module used on Odoo for E-Commerce industry
+https://github.com/oca/interface-github # Tools to interact with github from Odoo
+https://github.com/oca/search-engine #
+https://github.com/oca/stock-logistics-tracking # This repository contains modules around stock packages management
+https://github.com/oca/oca-github-bot # The GitHub Bot of the Odoo Community Association (OCA)
+https://github.com/oca/l10n-france # France Localization for Odoo
+https://github.com/oca/website-cms # CMS features for Odoo website
+https://github.com/oca/account-budgeting #
+https://github.com/oca/odoo-pim #
+https://github.com/oca/vertical-association # Odoo addons for membership related tasks
+https://github.com/oca/community-data-files #
+https://github.com/oca/hr-holidays # Human Resources Holidays OCA modules for Odoo
+https://github.com/oca/vertical-education # Odoo modules for schools, universities and other education organizations
+https://github.com/oca/intrastat-extrastat #
+https://github.com/oca/sale-promotion #
+https://github.com/oca/vertical-travel #
+https://github.com/oca/product-configurator # Advanced Product Configurator (from the original Pledra project https://github.com/pledra/odoo-pr
+oduct-configurator) https://github.com/oca/l10n-china # Chinese localization of Odoo
+https://github.com/oca/oca-port # Tool for porting Odoo modules changes from one version to another
+https://github.com/oca/vertical-ngo # Odoo for NGO's and humanitarian organization
+https://github.com/oca/data-protection # Data Protection
+https://github.com/oca/vertical-agriculture # Verticalization of Odoo for farms and agroindustries
+https://github.com/oca/apps-store # OCA Apps store module repository
+https://github.com/oca/oca-ci # Container image to run OCA CI tests
+https://github.com/oca/project-agile #
+https://github.com/oca/manufacture-reporting #
+https://github.com/oca/fleet # Odoo fleet management modules
+https://github.com/oca/l10n-romania # Romanian Localization for Odoo
+https://github.com/oca/website-themes # Website themes for Odoo
+https://github.com/oca/survey # Survey addons
+https://github.com/oca/vertical-community # Odoo for Communities Verticalization
+https://github.com/oca/project-reporting #
+https://github.com/oca/calendar #
+https://github.com/oca/vertical-isp # Odoo Modules for Internet Service Providers
+https://github.com/oca/connector-odoo2odoo # connector-odoo2odoo. Intercompany process, based on odoo-connector
+https://github.com/oca/purchase-reporting #
+https://github.com/oca/account-consolidation # Odoo Account Consolidation Addons
+https://github.com/oca/sale-financial # Odoo Sale and Financial related Addons
+https://github.com/oca/l10n-netherlands # Odoo Dutch Localization
+https://github.com/oca/connector-jira #
+https://github.com/oca/donation #
+https://github.com/oca/l10n-argentina # Odoo modules for Argentina
+https://github.com/oca/vertical-rental #
+https://github.com/oca/connector-cmis # CMIS Connector
+https://github.com/oca/product-kitting # Odoo Kitting Addons
+https://github.com/oca/infrastructure # Odoo modules related to the management of Domain Name Server services within network infrastructure
+https://github.com/oca/l10n-iran # Odoo Localization for Iran
+https://github.com/oca/vertical-construction # Odoo for Construction Company
+https://github.com/oca/l10n-ecuador # Odoo Localization for Ecuador
+https://github.com/oca/l10n-belgium #
+https://github.com/oca/vertical-realestate # Odoo modules for real estate business
+https://github.com/oca/l10n-germany #
+https://github.com/oca/web-api #
+https://github.com/oca/department # [DEPRECATED since 9.0] Odoo Department segregation and management
+https://github.com/oca/l10n-peru # Peruvian Localization
+https://github.com/oca/connector-sage # Connector with Sage
+https://github.com/oca/pwa-builder #
+https://github.com/oca/repair #
+https://github.com/oca/program #
+https://github.com/oca/odoo-pre-commit-hooks # Linters of Odoo addons that complement pylint-odoo
+https://github.com/oca/webkit-tools #
+https://github.com/oca/cooperative #
+https://github.com/oca/l10n-usa # US Localization of Odoo
+https://github.com/oca/odoo-test-helper # Odoo Test Helper
+https://github.com/oca/sign #
+https://github.com/oca/connector-redmine # Connector Redmine (http://redmine.org)
+https://github.com/oca/odoo-sphinx-autodoc # sphinx extension that allows to use "openerp.addons._" with sphinx autodoc feature
+https://github.com/oca/oca-custom # Custom Module for OCA Instance
+https://github.com/oca/automation # automation
+https://github.com/oca/agreement #
+https://github.com/oca/mis-builder-contrib # Modules that provide additional features on top of MIS Builder. A kind of incubator for MIS Builde
+r features that may land in the core in the future. https://github.com/oca/connector-salesforce # Connect Salesforce with Odoo
+https://github.com/oca/l10n-indonesia # Indonesian Localization Project
+https://github.com/oca/l10n-japan #
+https://github.com/oca/l10n-vietnam #
+https://github.com/oca/vertical-edition #
+https://github.com/oca/stock-logistics-request # This repository contains modules to provide another way of creating stock movements. Provided
+as a dedicated application, users will be able to create their stock needs by product and location. https://github.com/oca/webhook # Modules with community help modules: webhook\__ (gitlab, bitbucket... other webhook consumer)
+https://github.com/oca/l10n-canada # Odoo modules for Canada
+https://github.com/oca/vertical-abbey #
+https://github.com/oca/edi-framework #
+https://github.com/oca/connector-accountedge # Odoo modules to connect with Account Edge (aka MyOB)
+https://github.com/oca/stock-logistics-availability # This repository contains modules to provide more information about product stock availabi
+lity in terms of quantities (immediately usable, potential, unreserved ones, ...). https://github.com/oca/l10n-ukraine # Ukrainian localization
+https://github.com/oca/l10n-colombia # Odoo modules for Colombia
+https://github.com/oca/connector-magento-php-extension #
+https://github.com/oca/dotnet # This repository holds all addons written in dotnet
+https://github.com/oca/l10n-chile # Odoo Chilean Localization
+https://github.com/oca/oca-weblate-deployment #
+https://github.com/oca/connector-lims #
+https://github.com/oca/odoo-sentinel # Custom Odoo client for the stock_scanner module
+https://github.com/oca/role-policy #
+https://github.com/oca/sale-channel #
+https://github.com/oca/stock-logistics-orderpoint # This repository contains modules to extend reordering rules (available on warehouses locati
+ons) functionalities. https://github.com/oca/l10n-turkey # Turkish Localization Project
+https://github.com/oca/oca.recipe.odoo #
+https://github.com/oca/rest-api #
+https://github.com/oca/shift-planning #
+https://github.com/oca/l10n-taiwan # Taiwanese localization
+https://github.com/oca/wallet #
+https://github.com/oca/l10n-finland #
+https://github.com/oca/l10n-portugal # Odoo Portuguese localization
+https://github.com/oca/contribute-md-template # The template contribute.md for OSS projects
+https://github.com/oca/e-learning # e-learning
+https://github.com/oca/l10n-mexico # Mexican Localization.
+https://github.com/oca/l10n-greece # Odoo Greek Localization
+https://github.com/oca/l10n-luxemburg #
+https://github.com/oca/l10n-united-kingdom # Odoo Localization for United Kingdom
+https://github.com/oca/connector-infor # Odoo modules to integrate with Infor
+https://github.com/oca/l10n-morocco # Moroccan Localization
+https://github.com/oca/stock-weighing # stock-weighing
+https://github.com/oca/l10n-slovenia # Slovenian Localization Project
+https://github.com/oca/connector-spscommerce # Connector SPS Commerce
+https://github.com/oca/stock-logistics-interfaces # stock-logistics-interfaces
+https://github.com/oca/l10n-venezuela # Odoo modules for Venezuela
+https://github.com/oca/l10n-russia #
+https://github.com/oca/connector-lengow #
+https://github.com/oca/l10n-estonia #
+https://github.com/oca/vertical-cooperative-supermarket #
+https://github.com/oca/l10n-austria # Odoo Austria Localization
+https://github.com/oca/docs # Central repo for OCA docs (prototype)
+https://github.com/oca/mail # mail
+https://github.com/oca/.github #
+https://github.com/oca/repo-maintainer-conf #
+https://github.com/oca/l10n-ireland # Odoo Localization for Ireland
+https://github.com/oca/l10n-croatia # Odoo Croatian Localization
+https://github.com/oca/l10n-belarus #
+https://github.com/oca/l10n-ethiopia # Ethiopian Localization Project
+https://github.com/oca/l10n-costa-rica # Odoo modules for Costa-Rica
+https://github.com/oca/py3o.template #
+https://github.com/oca/l10n-uruguay # Odoo Localization for Uruguay
+https://github.com/oca/l10n-macedonia # Odoo Macedonian localization
+https://github.com/oca/l10n-bulgaria # l10n-bulgaria
+https://github.com/oca/resource # resource
+https://github.com/oca/repo-maintainer #
+https://github.com/oca/web-api-contrib # web-api-contrib
+https://github.com/oca/l10n-poland # Odoo Polish Localization
+https://github.com/oca/l10n-norway # The Norwegian localization for Odoo
+https://github.com/oca/l10n-india # Odoo Localization for India
+https://github.com/oca/mirrors-flake8 #
+https://github.com/oca/l10n-cambodia # Odoo Cambodian Localization

@@ -1,0 +1,29 @@
+https://github.com/odoo/odoo # Odoo. Open Source Apps To Grow Your Business.
+
+https://github.com/odoo/owl # OWL: A web framework for structured, dynamic and maintainable applications
+https://github.com/odoo/docker #
+https://github.com/odoo/documentation # Odoo documentation sources
+https://github.com/odoo/o-spreadsheet #
+https://github.com/odoo/technical-training #
+https://github.com/odoo/design-themes #
+https://github.com/odoo/runbot #
+https://github.com/odoo/odoo-extra # unsupported addons (runbot, document_fs)
+https://github.com/odoo/technical-training-solutions #
+https://github.com/odoo/upgrade-util # Utility helpers to write better upgrade scripts.
+https://github.com/odoo/paper-muncher # 📄 An experimental document-generation tool
+https://github.com/odoo/tutorials # A repository with the code for the bases and solutions of the official Odoo tutorials
+https://github.com/odoo/odoo-ls # Odoo Language Server
+https://github.com/odoo/docker-official-images #
+https://github.com/odoo/odoolocust # Odoo load testing using Locust and openerplib
+https://github.com/odoo/odoo-client-lib # OpenERP Client Library allows to easily interact with OpenERP in Python.
+https://github.com/odoo/ngx_postgres # upstream module that allows nginx to communicate directly with PostgreSQL database.
+https://github.com/odoo/industry # Odoo Industry Apps
+https://github.com/odoo/x-spreadsheet # A web-based JavaScript（canvas） spreadsheet
+https://github.com/odoo/mail-client-extensions #
+https://github.com/odoo/petstore # Base module for the Web Client tutorial
+https://github.com/odoo/docker-docs # Documentation for Docker Official Images in docker-library
+https://github.com/odoo/functional-mementoes # Tentative accounting tutorial with interactive-ish bits
+https://github.com/odoo/ps-runbot-testing #
+https://github.com/odoo/sfu # Odoo's Selective Forwarding Unit
+https://github.com/odoo/iotbox # iotbox build tools
+https://github.com/odoo/postfix_exporter # A Prometheus exporter for Postfix.

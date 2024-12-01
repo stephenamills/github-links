@@ -1,0 +1,33 @@
+https://github.com/databrickslabs/dolly # Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+https://github.com/databrickslabs/dbx # 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.
+https://github.com/databrickslabs/dbldatagen # Generate relevant synthetic data quickly for your projects. The Databricks Labs synthetic data generator (aka `dbldatagen`) may be used to generate large simulated / synthetic data sets for test, POCs, and other uses in Databricks environments including in Delta Live Tables pipelines
+https://github.com/databrickslabs/tempo # API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
+https://github.com/databrickslabs/mosaic # An extension to the Apache Spark framework that allows easy and fast processing of very large geospatial datasets.
+https://github.com/databrickslabs/ucx # Automated migrations to Unity Catalog
+https://github.com/databrickslabs/overwatch # Capture deep metrics on one or all assets within a Databricks workspace
+https://github.com/databrickslabs/migrate # Old scripts for one-off ST-to-E2 migrations. Use "terraform exporter" linked in the readme.
+https://github.com/databrickslabs/dlt-meta # Metadata driven Databricks Delta Live Tables framework for bronze/silver pipelines
+https://github.com/databrickslabs/dataframe-rules-engine # Extensible Rules Engine for custom Dataframe / Dataset validation
+https://github.com/databrickslabs/discoverx # A Swiss-Army-knife for your Data Intelligence platform administration.
+https://github.com/databrickslabs/geoscan # Geospatial clustering at massive scale
+https://github.com/databrickslabs/smolder # HL7 Apache Spark Datasource
+https://github.com/databrickslabs/feature-factory # Accelerator to rapidly deploy customized features for your business
+https://github.com/databrickslabs/pytester # Python Testing for Databricks
+https://github.com/databrickslabs/brickster # R Toolkit for Databricks
+https://github.com/databrickslabs/remorph # Accelerates migrations to Databricks by automating code conversion and migration validation
+https://github.com/databrickslabs/databricks-sync # An experimental tool to synchronize source Databricks deployment with a target Databricks deployment.
+https://github.com/databrickslabs/doc-qa #
+https://github.com/databrickslabs/transpiler # SIEM-to-Spark Transpiler
+https://github.com/databrickslabs/delta-oms # DeltaOMS is a solution that help build a centralized repository of Delta Transaction logs and associated operational metrics/statistics for your Delta Lakehouse.
+https://github.com/databrickslabs/dbignite #
+https://github.com/databrickslabs/splunk-integration # Databricks Add-on for Splunk
+https://github.com/databrickslabs/sandbox # Experimental labs projects
+https://github.com/databrickslabs/arcuate # Delta Sharing + MLflow for ML model & experiment exchange (arcuate delta - a fan shaped river delta)
+https://github.com/databrickslabs/databricks-sdk-r # Databricks SDK for R (Experimental)
+https://github.com/databrickslabs/blueprint # Baseline for Databricks Labs projects written in Python
+https://github.com/databrickslabs/tika-ocr #
+https://github.com/databrickslabs/lsql # Lightweight SQL execution wrapper only on top of Databricks SDK
+https://github.com/databrickslabs/delta-sharing-java-connector # A Java connector for delta.io/sharing/ that allows you to easily ingest data on any JVM.
+https://github.com/databrickslabs/pylint-plugin # Databricks Plugin for PyLint
+https://github.com/databrickslabs/partner-connect-api #
+https://github.com/databrickslabs/waterbear # Automated provisioning of an industry Lakehouse with enterprise data model

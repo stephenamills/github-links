@@ -1,0 +1,28 @@
+https://github.com/alexxx-db/mlops-end-to-end # Databricks ML & MLops end-to-end solution accelerator
+https://github.com/alexxx-db/dlt-hands-on-workshop # Delta Live Tables Hands-on Workshop Resources
+https://github.com/alexxx-db/daiwt-mlops # MLOps on the Databricks Lakehouse
+https://github.com/alexxx-db/labelspark # This library makes it easy to take unstructured data in your Data Lake and prepare it for analysis an
+d AI work in Databricks. The Labelbox Connector for Apache Spark takes in a Spark DataFrame to create a dataset in Labelbox, and it also brings labeled, structured data back into Databricks also as a Spark DataFrame. Resources https://github.com/alexxx-db/mlflow-recipes-examples # MLflow Recipes Examples
+https://github.com/alexxx-db/e2e-mlops-azure-databricks # MLOps using Azure ML service with the Python SDK and Databricks for model training
+https://github.com/alexxx-db/e2e-ml-workshop # End-to-End ML on Databricks workshop
+https://github.com/alexxx-db/dais-2023 # Data & AI Summit 2023 major announcements
+https://github.com/alexxx-db/cybersecurity-ml-solacc # Machine learning notebooks using cybersecurity data
+https://github.com/alexxx-db/titanic-eda # Exploratory Data Analysis with Databricks
+https://github.com/alexxx-db/pytorch-lightning-horovod-petastorm # Databricks DL with PyTorch Lightning and Petastorm
+https://github.com/alexxx-db/autoenoder-anomaly-detection # Build an auto-encoder for anomaly detection, with distributed training and distributed inference
+https://github.com/alexxx-db/dais-2024 # Training/demo materials for DAIS 2024
+https://github.com/alexxx-db/mlops-world-end-to-end # End to end MLops pipeline on Databricks MLR
+https://github.com/alexxx-db/databricks-iot-demo # IoT demo on Databricks
+https://github.com/alexxx-db/databricks-for-public-sector # Lakehouse for the Public Sector
+https://github.com/alexxx-db/dbx-scala-demo # Sample project for Scala applications with dbx and CI/CD setup based on Github actions.
+https://github.com/alexxx-db/e2e-mlops-azure # Demo repository implementing an end-to-end MLOps workflow on Databricks, using Azure DevOps for CICD orchestration. Project derived from dbx basic python template Resources https://github.com/alexxx-db/dais2022-mlops-how-to-guide # Demo assets for DAIS 2022 'Databricks MLops a How-To Guide' Talk
+https://github.com/alexxx-db/ml-model-monitoring # Model Monitoring in Databricks MLR
+https://github.com/alexxx-db/alexxx-db #
+https://github.com/alexxx-db/object-detection-at-scale # Object Detection at Scale with Databricks and YOLO
+https://github.com/alexxx-db/hls-llm-doc-qa # Build a question answering system based on a given collection of documents with open-source LLMs
+https://github.com/alexxx-db/unified-ml-monitoring-on-databricks # Unified ML Monitoring on Databricks Workshop
+https://github.com/alexxx-db/mlops-azure-databricks # MLOps using Azure Databricks, Azure DevOps and Azure ML Services
+https://github.com/alexxx-db/distributed-dl-workshop # Distributed deep learning on Databricks workshop
+https://github.com/alexxx-db/gnn-lvdr-pytorch # GNNs on Databricks with PyTorch and GraphSAGE
+https://github.com/alexxx-db/dbx-kafka-protobuf-demo # Sample code for working with Kafka & Protobuf in Databricks
+https://github.com/alexxx-db/mlops-slack-demo # ML project based on the default Databricks MLOps Stack, defining a production-grade ML pipeline for automated retraining and batch inference of an ML model on tabular data.

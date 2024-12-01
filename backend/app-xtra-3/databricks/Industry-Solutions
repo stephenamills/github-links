@@ -1,0 +1,138 @@
+https://github.com/databricks-industry-solutions/security-analysis-tool # Security Analysis Tool (SAT) analyzes customer's Databricks account a
+nd workspace security configurations and provides recommendations that help them follow Databrick's security best practices. When a customer runs SAT, it will compare their workspace configurations against a set of security best practices and delivers a report. https://github.com/databricks-industry-solutions/diy-llm-qa-bot # Driving a Large Language Model Revolution in Customer Service and Support
+https://github.com/databricks-industry-solutions/esg-scoring # In this solution, we offer a novel approach to sustainable finance by combining
+NLP techniques and news analytics to extract key strategic ESG initiatives and learn companies' commitments to corporate responsibility https://github.com/databricks-industry-solutions/hls-llm-doc-qa # Build a question answering system based on a given collection of documents wi
+th open-source LLMs https://github.com/databricks-industry-solutions/auto-data-linkage # Low effort linking and easy de-duplication. Databricks ARC provides a simp
+le, automated, lakehouse integrated entity resolution solution for intra and inter data linking. https://github.com/databricks-industry-solutions/many-model-forecasting # Bootstrap your large scale forecasting solution on Databricks with Ma
+ny Models Forecasting (MMF) Project. https://github.com/databricks-industry-solutions/product-search # Semantic product search on Databricks
+https://github.com/databricks-industry-solutions/pixels # Facilitates simple large scale processing of HLS Medical images, documents, zip files
+. Previously at https://github.com/dmoore247/pixels https://github.com/databricks-industry-solutions/causal-incentive # Accelerator for customer incentive investment using causal inference techni
+ques https://github.com/databricks-industry-solutions/customer-er # Translating text attributes (like name, address, phone number) into quantifiable
+numerical representations Training ML models to determine if these numerical labels form a match Scoring the confidence of each match https://github.com/databricks-industry-solutions/apollomed-ncqa-hedis # HEDIS Score Solution Accelerator with Apollomed
+https://github.com/databricks-industry-solutions/industry-solutions-blueprints #
+https://github.com/databricks-industry-solutions/omop-cdm # Unlocking the Power of Health Data With a Modern Data Lakehouse
+https://github.com/databricks-industry-solutions/context-graph-analytics # Time series knowledge graphs for cybersecurity
+https://github.com/databricks-industry-solutions/smart-claims # Use Databricks to improve the Claims Management process for faster claims settl
+ement, lower claims processing costs and quicker identification of possible fraud https://github.com/databricks-industry-solutions/mfg-llm-qa-bot #
+https://github.com/databricks-industry-solutions/digital-pathology # Help augment diagnostic workflows with this Databricks Solution Accelerato
+r for pathology image analysis. Now you can rapidly process thousands of whole slide images in minutes and use machine learning to automate the detection of metastasis. https://github.com/databricks-industry-solutions/ioc-matching # IOC matching for incident responders, threat hunters, detection engineers, and
+security engineers. https://github.com/databricks-industry-solutions/hls-payer-mrf-sparkstreaming # Spark Structured Streaming for Payer MRF use case
+https://github.com/databricks-industry-solutions/customer-lifetime-value # Ingest sample retail data, build visualizations to explore past purc
+hase behavior and use machine learning to predict the likelihood of future purchases https://github.com/databricks-industry-solutions/fine-grained-demand-forecasting # Perform fine-grained forecasting at the store-item level in
+an efficient manner, leveraging the distributed computational power of the Databricks Lakehouse Platform. https://github.com/databricks-industry-solutions/dns-analytics # Leverage the Databricks Solution Accelerator for DNS analytics to accelerate t
+ime to detection and response across petabytes of data. Tap into DNS traffic logs, enrich streaming threat intelligence, and apply advanced analytics to detect DNS abnormalities and prevent malicious attacks. https://github.com/databricks-industry-solutions/interop # From FHIR ingestion to patient outcomes analysis
+https://github.com/databricks-industry-solutions/multi-touch-attribution # Connect the impact of marketing and your ad spend to sales. Efficien
+tly pinpoint the impact of various revenue-generating marketing activities to understand what works best. Focus on the best-performing channels to optimize media mix and drive revenue. https://github.com/databricks-industry-solutions/glow-solution-accelerator # Genome-wide association studies identify genetic variations associ
+ated with a target disease or trait. Researchers and clinicians can use this information to better detect, treat and prevent chronic health conditions. This Solution Accelerator notebook builds on top of Glow https://github.com/databricks-industry-solutions/review-summarisation # Automated Analysis of Product Reviews Using Large Language Models
+https://github.com/databricks-industry-solutions/slack-bot-rag # Spring boot application to create a slack bot, interfacing with RAG models on
+mlflow https://github.com/databricks-industry-solutions/value-at-risk # Shows how banks can modernize their risk management practices by back-testing,
+aggregating and scaling simulations by using a unified approach to data analytics with the Lakehouse. https://github.com/databricks-industry-solutions/supply-chain-optimization # Supply Chain Optimization
+https://github.com/databricks-industry-solutions/factory-optimization # Overall Equipment Effectiveness: Performant and Scalable End-to-End Equ
+ipment Monitoring https://github.com/databricks-industry-solutions/media-mix-modeling #
+https://github.com/databricks-industry-solutions/quant-beta-capm # Equity Beta Calculation and CAPM
+https://github.com/databricks-industry-solutions/digital-twin # Digital twins are created using data derived from sensors (often IoT or IIoT) t
+hat are attached to or embedded in the original object. This data provides both structural and operational views of what happens to the object in real time, allowing engineers to monitor systems and model systems dynamics. https://github.com/databricks-industry-solutions/image-recipe-recommender # Holiday recipe recommendation app built with Databricks
+https://github.com/databricks-industry-solutions/x12-edi-parser # Used for reading & writing X12 messages
+https://github.com/databricks-industry-solutions/segmentation # Create advanced customer segments to drive better purchasing predictions based
+on behaviors. Using sales data, campaigns and promotions systems, this solution helps derive a number of features that capture the behavior of various households. Build useful customer clusters to target with different promos and offers. https://github.com/databricks-industry-solutions/json2spark-schema # Converting a json schema to a spark schema (struct) representation
+https://github.com/databricks-industry-solutions/digitization-documents # Using Apache tika and tesseract to extact text from any document
+https://github.com/databricks-industry-solutions/fuzzy-item-matching # Use machine learning and the Databricks Lakehouse Platform for product m
+atching that can be used by marketplaces and suppliers for various purposes. Resolve differences between product definitions and descriptions and determine which items are likely pairs and which are distinct across disparate data sets. https://github.com/databricks-industry-solutions/transformer_forecasting #
+https://github.com/databricks-industry-solutions/fraud-orchestration # Preempt fraud with rule-based patterns and select ML algorithms for reli
+able fraud detection. Use anomaly detection and fraud prediction to respond to bad actors rapidly. https://github.com/databricks-industry-solutions/hls-patient-risk # Patient-Level Risk Scoring Based on Condition History
+https://github.com/databricks-industry-solutions/rare-event-inspection # Kakapo (KAH-kə-poh) implements a standard set of APIs for outlier dete
+ction at scale on Databricks. It provides an integration of the vast PyOD library of outlier detection algorithms with MLFlow for tracking and packaging of models and hyperopt for exploring vast, complex and heterogeneous search spaces. https://github.com/databricks-industry-solutions/ocr-phi-masking # Our joint Solution Accelerator with John Snow Labs automates the detection o
+f sensitive information contained within unstructured data using NLP models for healthcare. Extracted data is stored within the Lakehouse, where teams can use the pre-trained models to easily remove, obfuscate or mask data for downstream analytics at massive scale. https://github.com/databricks-industry-solutions/ocsf # Schema mappings in SQL and PySpark for ELT pipelines to normalize data to OCSF
+https://github.com/databricks-industry-solutions/semantic-caching # This project implements a caching system for Databricks, designed to improv
+e response times and reduce cost for frequently asked questions or similar queries. https://github.com/databricks-industry-solutions/geoscan-fraud # In this series of notebooks centered around geospatial analytics, we demonstra
+te how Lakehouse enables organizations to better understand customers behaviours, no longer based on who they are, but how they bank, no longer using a one-size-fits-all rule but a truly personalized AI https://github.com/databricks-industry-solutions/oncology # Generate oncology insights from real-world data using NLP. Once extracted, oncology
+data is enriched with useful information like ICD-10 codes and used to build powerful visualizations https://github.com/databricks-industry-solutions/edge-ml-for-manufacturing # Deploying and Maintaining Models on the Edge in Manufacturing
+https://github.com/databricks-industry-solutions/radiology-llm-classifier # Radiology LLM Labeling
+https://github.com/databricks-industry-solutions/cluster-policy #
+https://github.com/databricks-industry-solutions/comtrade-accelerator # Fault detection streaming pipeline for electric utilities
+https://github.com/databricks-industry-solutions/intermittent-forecasting # Intermittent Demand Forecasting With Nixtla on Databricks
+https://github.com/databricks-industry-solutions/adverse-drug-events # To ensure ongoing drug safety, pharma companies need to monitor and repo
+rt adverse drug events post-market launch. This accelerator extracts, processes and analyzes adverse drug events from real-world text data using NLP https://github.com/databricks-industry-solutions/parts-demand-forecasting # Perform demand forecasting at the part level rather than the aggreg
+ate level to minimize disruptions in your supply chain and increase sales. Manage material shortages and predict overplanning https://github.com/databricks-industry-solutions/routing # Get started with our Solution Accelerator for Scalable Route Generation to optimize
+delivery routes and increase profitability https://github.com/databricks-industry-solutions/merchant-classification # This series of notebooks shows how the Lakehouse for Financial Servi
+ces enables banks, open banking aggregators and payment processors to address the challenge of merchant classification https://github.com/databricks-industry-solutions/social-determinants-of-health # Using Delta Sharing to Democratize Insights Into Social Determ
+inants of Health https://github.com/databricks-industry-solutions/toxicity-detection-in-gaming # Build a lakehouse for all your gamer data and use natural langu
+age processing techniques to flag questionable comments for moderation. https://github.com/databricks-industry-solutions/survival-analysis # Survival analysis is a collection of statistical methods used to examine a
+nd predict the time until an event of interest occurs. In this Solution Accelerator, learn how to use different survival analysis techniques for predicting churn and calculating lifetime value. https://github.com/databricks-industry-solutions/fsi-mrm-generation # Automated generation of MRM documentation
+https://github.com/databricks-industry-solutions/wscb-kg # Solution accelerator for data fusion and building knowledge graphs
+https://github.com/databricks-industry-solutions/propensity # Get started with our Solution Accelerator for Propensity Scoring to build effecti
+ve propensity scoring pipelines that: Enable the persistence, discovery and sharing of features across various model training exercises Quickly generate models by leveraging industry best practices Track and analyze the various model iterations generated https://github.com/databricks-industry-solutions/wide-and-deep # Build a wide-and-deep recommender with collaborative filters that takes advant
+age of patterns of repeat purchases to suggest both previously purchased and related products. https://github.com/databricks-industry-solutions/jsl-medical-text-summarization #
+https://github.com/databricks-industry-solutions/safety-stock # Create fine-grained and viable estimates of buffer stock for raw material, work
+-in-progress or finished goods inventory items that can be scaled across the supply chain. Free up working capital that would be tied up in inventory and reallocate to more productive uses. https://github.com/databricks-industry-solutions/product-er-with-images # Zingg fuzzy matching for products using metadata and images
+https://github.com/databricks-industry-solutions/cybersecurity-ml-tutorials # Machine learning notebooks using cybersecurity data
+https://github.com/databricks-industry-solutions/predicting-implied-volatility #
+https://github.com/databricks-industry-solutions/als-recommender # Products We Think You Might Like: Generating Personalized Recommendations Us
+ing Matrix Factorization https://github.com/databricks-industry-solutions/geospatial-neighborhood-searches # Implementing geospatial searches at Scale on a distributed
+platform https://github.com/databricks-industry-solutions/on-shelf-availability # This Solution Accelerator shows how OOS can be solved with real-time d
+ata and analytics by using the Databricks Lakehouse Platform to solve on-shelf availability in real time to increase retail sales. The accelerator can also be used for supply chain solutions. https://github.com/databricks-industry-solutions/reg-reporting # In this regulatory reporting solution accelerator, we demonstrate how Delta Li
+ve Tables can guarantee the acquisition and processing of regulatory data in real time to accommodate regulatory SLAs. With Delta Sharing and Delta Live Tables combined, analysts gain real-time confidence in the quality of regulatory data being transmitted. https://github.com/databricks-industry-solutions/csrd_assistant # In this solution accelerator, we demonstrate how generative AI, retrieval aug
+mented generation (RAG) and multi stage reasoning can be used to better navigate through the complexities of regulatory filings, bringing more transparency for companies to disclose their societal and environmental impacts. https://github.com/databricks-industry-solutions/jsl-kg-cohorts # Building Patient Cohorts with NLP and Knowledge Graphs
+https://github.com/databricks-industry-solutions/computer-vision-foundations # Enabling Computer Vision Applications With the Data Lakehouse
+https://github.com/databricks-industry-solutions/real-time-bidding # From display to video, the value of an impression can only be realized if
+an ad is viewed by a user. Therefore, when using programmatic advertising to buy inventory, it’s important to take viewability into account. In this Solution Accelerator, learn how to predict ad viewability to optimize your real-time bidding strategy. https://github.com/databricks-industry-solutions/churn # Develop an understanding of how a customer lifetime should progress and examine where
+in that lifetime journey customers are likely to churn so you can effectively manage retention and reduce your churn rate. https://github.com/databricks-industry-solutions/notebook-solution-companion #
+https://github.com/databricks-industry-solutions/clickstream-analytics # Clickstream Analytics [Blog] https://www.databricks.com/blog/2023/03/2
+1/using-real-time-propensity-estimation-drive-online-sales.html https://github.com/databricks-industry-solutions/campaign-effectiveness # Identifying Campaign Effectiveness For Forecasting Foot Traffic
+https://github.com/databricks-industry-solutions/personalized_image_gen # Use personalized images to enhance the output of an image generating
+model https://github.com/databricks-industry-solutions/insider-threat-risk #
+https://github.com/databricks-industry-solutions/graph-analytics-churn-prediction #
+https://github.com/databricks-industry-solutions/scientific-computing-ray-on-spark #
+https://github.com/databricks-industry-solutions/incident-investigation-using-graphistry # Visual analytics using Databricks & Graphistry for c
+ybersecurity investigations https://github.com/databricks-industry-solutions/iot-anomaly-detection #
+https://github.com/databricks-industry-solutions/db-omics #
+https://github.com/databricks-industry-solutions/rwd-survival-analysis #
+https://github.com/databricks-industry-solutions/dlt-insurance-claims # This repository provides sample data and source code for performing a d
+emo with auto insurance claims data flowing into the Databricks Lakehouse. https://github.com/databricks-industry-solutions/regular-payments # In this solution accelerator, we demonstrate a novel approach to consumer a
+nalytics by combining core mathematical concepts with engineering best practices and state of the art optimizations techniques to better model customers' behaviors and provide millions of customers with personalized insights https://github.com/databricks-industry-solutions/hls-tcga #
+https://github.com/databricks-industry-solutions/image-based-recommendations # Build a similarity-based image recommendation system for e-comme
+rce that takes into account the visual similarity of items as an input for making product recommendations. https://github.com/databricks-industry-solutions/transaction-embedding # In this solution accelerator, we build a data asset that captures a fu
+ll picture of the consumer and goes beyond traditional demographics, income, product and services (who you are) and extends to transactional behavior and shopping preferences (how you bank) https://github.com/databricks-industry-solutions/game-review-nlp #
+https://github.com/databricks-industry-solutions/iot_time_series_analysis # Time series analysis of IOT data on Databricks using DLT and Tempo
+https://github.com/databricks-industry-solutions/car-classification # By applying transfer learning on pre-trained neural networks, we demonstr
+ate how Databricks helps insurance companies kickstart their AI/Computer Vision journey towards claim assessment and damage estimation. https://github.com/databricks-industry-solutions/nasdaq-crypto # Nasdaq Data Link Digital Assets is a part of Nasdaq's Investment Intelligence
+suite of products, designed to provide significant value to customers in making informed decisions. As the creator of the world's first electronic stock market, Nasdaq technology powers more than 70 marketplaces in 50 countries, and one in ten of the world's securities tr https://github.com/databricks-industry-solutions/propensity-workflows #
+https://github.com/databricks-industry-solutions/guidewire # Interpreting Guidewire CDA as delta table
+https://github.com/databricks-industry-solutions/optimized-picking # Get started with our Solution Accelerator for Order Picking to apply optim
+ization logic to each order to: Avoid unexpected delivery outcomes and assess the impact of small variations on order picking Minimize total store travel time to increase profitability https://github.com/databricks-industry-solutions/dbignite-forked # Forking for internal development
+https://github.com/databricks-industry-solutions/carecost-compass #
+https://github.com/databricks-industry-solutions/geospatial-kanonymity # We demonstrate how FSI can leverage geospatial and graph analytics to
+anonymize card transaction data and monetize their assets to potential clients securely via delta sharing capability https://github.com/databricks-industry-solutions/legend-getting-started #
+https://github.com/databricks-industry-solutions/telco-reliability #
+https://github.com/databricks-industry-solutions/xgboost-serving-enabler #
+https://github.com/databricks-industry-solutions/anti-money-laundering # AML Solutions at Scale Using Databricks Lakehouse Platform
+https://github.com/databricks-industry-solutions/data-modeling-with-monad #
+https://github.com/databricks-industry-solutions/llm_recommender # LLM-based product recommender
+https://github.com/databricks-industry-solutions/sfdc-byom #
+https://github.com/databricks-industry-solutions/video-streaming-qoe # Increase viewer retention through data-driven engagement strategies: ana
+lyze both streaming and batch data sets to ensure a performant streaming content experience that drives engagement and loyalty. https://github.com/databricks-industry-solutions/utilities-cv #
+https://github.com/databricks-industry-solutions/chf-care-quality # Calculating quality metrics for congestive heart failure, including MS-DRGs
+creation https://github.com/databricks-industry-solutions/telco-monetization #
+https://github.com/databricks-industry-solutions/amperity-sfmc-tracking #
+https://github.com/databricks-industry-solutions/responsible-gaming #
+https://github.com/databricks-industry-solutions/next-best-action-hls # Next Best Action Demonstration on Databricks for Pharmaceutical Sales U
+se-cases https://github.com/databricks-industry-solutions/gdpr-normalization #
+https://github.com/databricks-industry-solutions/call-center-analytics #
+https://github.com/databricks-industry-solutions/cv-quality-inspection # Product Quality Inspection of Printed Circuit Board (PCB) using Comput
+er Vision and Real-time Serverless Inference https://github.com/databricks-industry-solutions/email-customer-support # This repo is for email customer support automation using LLM
+https://github.com/databricks-industry-solutions/games #
+https://github.com/databricks-industry-solutions/gamer-lifecycle #
+https://github.com/databricks-industry-solutions/amperity-cdp-rec #
+https://github.com/databricks-industry-solutions/user-behavior-analytics-for-cloud-services #
+https://github.com/databricks-industry-solutions/.github #
+https://github.com/databricks-industry-solutions/redkite-pricing #
+https://github.com/databricks-industry-solutions/cleanlab-improving-llms #
+https://github.com/databricks-industry-solutions/ibc-ccdp-demo #
+https://github.com/databricks-industry-solutions/rfm-segmentation # How an RFM segmentation can be performed and operationalized to enable pers
+onalized workflows https://github.com/databricks-industry-solutions/genie_portfolio_manager # Demo of project genie data room for a portfolio manager, leveraging
+text to sql capabilities for stock and news events https://github.com/databricks-industry-solutions/jsl-sdoh-ner #
+https://github.com/databricks-industry-solutions/iot_distributed_ml # Walkthrough of how to scale out existing ML code and skillsets for IOT de
+fect detection on Databricks https://github.com/databricks-industry-solutions/emailcustomersupportautomation #
+https://github.com/databricks-industry-solutions/industry-solutions-release # Release process for solution accelerators
+https://github.com/databricks-industry-solutions/product_copy_genai # Use generative AI to create product copy
+https://github.com/databricks-industry-solutions/lr-recommender #

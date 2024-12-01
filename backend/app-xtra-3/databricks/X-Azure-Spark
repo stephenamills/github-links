@@ -1,0 +1,123 @@
+https://github.com/mspnp/spark-monitoring # Monitoring Azure Databricks jobs
+https://github.com/mspnp/azure-databricks-streaming-analytics # Stream processing with Azure Databricks
+https://github.com/azure-samples/synapse # Samples for Azure Synapse Analytics
+https://github.com/azure-samples/hdinsight-spark-scala-kafka # A basic example of how to read and write streaming data using Apache Spark and Kafka on HDInsight
+https://github.com/azure-samples/confidential-container-samples # Repo of sample implementations leveraging Azure Confidential Computing for container deployments
+https://github.com/azure-samples/hdinsight-spark-scala-kafka-cosmosdb # An example of using Spark Structured Streaming to read data from Kafka on HDInsight and store it into Azure Cosmos DB
+https://github.com/azure-samples/databricks-observability # OpenTelemetry Demo with Azure Databricks and Azure Monitor
+https://github.com/azure-samples/hdinsight-aks # Sample code repo for HDInsight on AKS
+https://github.com/azure-samples/spark-on-aks-benchmark # Testing of Spark on AKS
+https://github.com/azure-samples/azure-sql-db-import-data # Samples on how to import data (Flat Files, CSV, JSON) in Azure SQL
+https://github.com/azure-samples/cassandra-migrator # Sample for migrating and validating data between Cassandra wire protocol systems using Apache Spark, while preserving writetime values.
+https://github.com/azure-samples/azure-sql-db-databricks # Azure SQL and Databricks samples and best practices for loading data quickly and efficiently
+https://github.com/azure-samples/azure-sparkcruise-samples # Docs for Azure HDInsight
+https://github.com/azure-samples/hdinsight-python-sdk-samples # Learn how to use the HDInsight Python SDK with these samples
+https://github.com/azure-samples/sample-mdw-serverless #
+https://github.com/azure-samples/cassandra-proxy # A dual write proxy for Apache Cassandra
+https://github.com/azure-samples/spark-3-cosmos-db-connector #
+https://github.com/azure-samples/iot-telemetry-simulator # The IoT Telemetry Simulator allows you to test Azure IoT Hub or Eventhub ingestion at scale. The implementation is communicating with Azure IoT Hub using multiplexed AMQP connections. An automation library allows you to run it as load test as part of a CI/CD pipeline.
+https://github.com/azure-samples/sparkplugb-edge-module #
+https://github.com/azure-samples/azure-sql-spark-connector-notebook-sample #
+https://github.com/azure-samples/azure-openai-sdk-samples # Samples and code snippets showcasing the usage of the Azure OpenAI SDKs
+https://github.com/azure/azure-event-hubs-spark # Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
+https://github.com/azure/azure-cosmosdb-spark # Apache Spark Connector for Azure Cosmos DB
+https://github.com/azure/test-drive-azure-synapse-with-a-1-click-poc #
+https://github.com/azure/azure-kusto-spark # Apache Spark Connector for Azure Kusto
+https://github.com/azure/azure-event-hubs # ☁️ Cloud-scale telemetry ingestion from any stream of data with Azure Event Hubs
+https://github.com/azure/spark-cdm-connector #
+https://github.com/azure/analyticsinabox # FTA Toolkit - Analytics in a Box
+https://github.com/azure/test-drive-synapse-link-for-dataverse #
+https://github.com/azure/azure-data-labs-modules # A list of Terraform modules to build your Azure Data IaC templates.
+https://github.com/azure/test-drive-synapse-link-for-cosmosdb-with-1-click # Deploy Azure CosmosDB and Synapse Link with 1 Click
+https://github.com/azure/azure-event-hubs-java # ☁️ Java client library for Azure Event Hubs
+https://github.com/azure/config-driven-data-pipeline #
+https://github.com/azure/azure-event-hubs-dotnet # ☁️ .NET Standard client library for Azure Event Hubs
+https://github.com/azure/azure-synapse-analytics-end2end # Azure Analytics End to End with Azure Synapse - Deployment Accelerator
+https://github.com/azure/batch # Microsoft Azure Batch
+https://github.com/azure/ace_azure_ml # This repository contains training material related to Azure and Machine Learning
+https://github.com/azure/kdd2017r # Tutorial on Scaling R at KDD 2017
+https://github.com/azure/cosmos # Hub for Azure Cosmos DB content on GitHub
+https://github.com/azure/inferenceschema # Schema decoration for inference code
+https://github.com/azure/dataverse-to-sql # Repository of the DataverseToSql tool for the incremental copy of data between Synapse Link for Dataverse and Azure SQL Database
+https://github.com/azure/hadoop-migrations # Hadoop Migrations to Azure
+https://github.com/azure/optimized-pytorch-on-databricks-and-fabric # Sample code for running optimized training of Hugging Face models with PyTorch FSDP on Azure Databricks and optimized inference with BetterTransformer on Microsoft Fabric
+https://github.com/azure/carml-learn # This repository hosts the CARML lab for the upcoming SPARK event
+https://github.com/azure/feast-azure # Azure plugins for Feast (FEAture STore)
+https://github.com/azure/microsoft-data-encryption-sdk # The Microsoft Data Encryption SDK provides encryption support to applications.
+https://github.com/azure/terraform-azurerm-naming #
+https://github.com/azure/azure-sentinel-notebooks # Interactive Azure Sentinel Notebooks provides security insights and actions to investigate anomalies and hunt for malicious behaviors.
+https://github.com/azure/hdinsight #
+https://github.com/azure/azure-data-pipelines #
+https://github.com/azure/huggingface-on-azure-databricks # Sample notebooks for optimized training and inference of Hugging Face models on Azure Databricks
+https://github.com/azure/develop-streaming-analytics # Guidance and examples on developing high performing streaming analytics application in Azure
+https://github.com/azure/test-drive-synapse-link-for-sqldb-with-1-click #
+https://github.com/azure/parquet-modular-encryption-keyvault-kms # A sample class for using Azure Key Vault for parquet modular encryption.
+https://github.com/azure/spark-azure-encryption # A set of example Java classes for handling encrypting and decrypting data via Spark UDFs
+https://github.com/azure/synapse-lake-databases-synthetic-data-generator # Main purpose of this repo is to generate fake data to support demos, tests and sandboxes. This repo contains open source code in python, designed to work inside a Synapse workspace. It is built inside a Synapse notebook which fills all the tables of any industry database model.
+https://github.com/azure/azure-ai-camp # Azure AI Camp - 2 day workshop on Databricks and Azure ML
+https://github.com/azure/azure-schema-registry-for-spark #
+https://github.com/azure/terraform-azurerm-avm-res-machinelearningservices-workspace # AVM Module for Azure Machine learning workspaces.
+https://github.com/azure/azure-kusto-splunk # Splunk Connector for Azure Data Explorer Sink
+https://github.com/azure/hdinsight-on-aks # HDInsight on AKS is a modern, reliable, secure, and fully managed Platform as a Service (PaaS) that runs on Azure Kubernetes Service (AKS).
+https://github.com/azure/aml-deploy # GitHub Action that allows you to deploy machine learning models in Azure Machine Learning.
+https://github.com/azure/eol # Azure End of life
+https://github.com/microsoft/synapseml # Simple and Distributed Machine Learning
+https://github.com/microsoft/mobius # C# and F# language binding and extensions to Apache Spark
+https://github.com/microsoft/sql-spark-connector # Apache Spark Connector for SQL Server and Azure SQL
+https://github.com/microsoft/data-accelerator # Data Accelerator for Apache Spark simplifies onboarding to Streaming of Big Data. It offers a rich, easy to use experience to help with creation, editing and management of Spark jobs on Azure HDInsights or Databricks while enabling the full power of the Spark engine.
+https://github.com/microsoft/azure-databricks-nyc-taxi-workshop # An Azure Databricks workshop leveraging the New York Taxi and Limousine Commission Trip Records dataset
+https://github.com/microsoft/dotnet # This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
+https://github.com/microsoft/ai # Microsoft AI
+https://github.com/microsoft/mlops # MLOps examples
+https://github.com/microsoft/purview-adb-lineage-solution-accelerator # A connector to ingest Azure Databricks lineage into Microsoft Purview
+https://github.com/microsoft/lst-bench # LST-Bench is a framework that allows users to run benchmarks specifically designed for evaluating Log-Structured Tables (LSTs) such as Delta Lake, Apache Hudi, and Apache Iceberg.
+https://github.com/microsoft/dlworkspace # Deep Learning Workspace
+https://github.com/microsoft/spark-images # Support for operating on images via Apache Spark
+https://github.com/microsoft/lightgbm # A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+https://github.com/microsoft/synapsegenie # Genie Framework improves Spark Pool utilization by executing multiple Synapse notebooks on the same spark pool instance
+https://github.com/microsoft/freeflow # High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application code/binary.
+https://github.com/microsoft/azure-synapse-spark-metrics # Azure Synapse Spark Metrics provides easy metrics monitoring functions for Synapse services, especially, Apache Spark pool instances, by leveraging Prometheus, Grafana and Azure APIs.
+https://github.com/microsoft/sqlworkshops-bdc #
+https://github.com/microsoft/azure_synapse_toolbox # Repository of tools/queries for managing and monitoring Azure Synapse.
+https://github.com/microsoft/charts # A Helm Chart Repository for Microsoft Projects
+https://github.com/microsoft/data-quality-rule-engine #
+https://github.com/microsoft/fabric-migration # Scripts and tooling to migrate DW and Spark workloads to Fabric.
+https://github.com/microsoft/data-discovery-toolkit # A data discovery and manipulation toolset for unstructured data
+https://github.com/microsoft/azure-maven-archetypes # Maven Archetypes for Microsoft Azure Services
+https://github.com/microsoft/genstudio # A website for exploring the Metropolitan Museum of Art's collection with Generative Adversarial Networks
+https://github.com/microsoft/synapse-spark-runtime # Release notes for Apache Spark based Runtime for Azure Synapse Analytics and Microsoft Fabric
+https://github.com/microsoft/build20acceleratedspark # Repo for accelerated Spark demo at //build 20.
+https://github.com/microsoft/sqlworkshops-k8stobdc # Kubernetes Course for SQL Server Big Data Clusters
+https://github.com/microsoft/sqlworkshops-sql2019workshop # SQL Server 2019 Workshop
+https://github.com/microsoft/spark-sql-deployment-manager # This project aims to create a way to deploy spark sql tables using CI/CD and focus just on table schema changes rather than how to deploy the changes.
+https://github.com/microsoft/dbt-fabricspark #
+https://github.com/microsoft/a-tale-of-three-cities # Analyzing the safety (311) dataset published by Azure Open Datasets for Chicago, Boston and New York City using SparkR, SParkSQL, Azure Databricks, visualization using ggplot2 and leaflet. Focus is on descriptive analytics, visualization, clustering, time series forecasting and anomaly detection.
+https://github.com/microsoft/python-package-template # Template for Python Projects
+https://github.com/microsoft/fhir-analytics-pipelines #
+https://github.com/microsoft/purview-custom-connector-solution-accelerator # Solution Accelerator to help build Purview custom connectors
+https://github.com/microsoft/vs-tools-for-ai # Visual Studio Tools for AI is a free Visual Studio extension to build, test, and deploy deep learning / AI solutions. It seamlessly integrates with Azure Machine Learning for robust experimentation capabilities, including but not limited to submitting data preparation and model training jobs transparently to different compute targets. Additionally, it provides support for custom metrics and run history tracking, enabling data science reproducibility and auditing. Enterprise ready collaboration, allow to securely work on project with other people.
+https://github.com/microsoft/machine-learning-collection # machine learning tech collections at Microsoft and subsidiaries.
+https://github.com/microsoft/functional-validation-testing-spark-sql # Business Validation Testing in Spark SQL
+https://github.com/microsoft/azure-synapse-content-recommendations-solution-accelerator # This is a solution accelerator for creating personalized content recommendations based on user activity.
+https://github.com/microsoft/c9-dev-intro-data-science # Sample code for Channel 9 Python for Beginners course
+https://github.com/microsoft/datalineage # Data Lineage for Spark components and PowerBI/AAS showing up in Azure Purview
+https://github.com/microsoft/blob-inventory-report-analytics #
+https://github.com/microsoft/purview-machine-learning-lineage-solution-accelerator # Solution accelerator to help build Machine Learning Lineage
+https://github.com/microsoft/datafactory #
+https://github.com/microsoft/azureml-observability # Scalable solution for ML Observability
+https://github.com/microsoft/fabricbqsync #
+https://github.com/microsoft/globalmlbuildingfootprints # Worldwide building footprints derived from satellite imagery
+https://github.com/microsoft/early-access-engineering # Solution accelerators from @Microsoft Early Access Engineering
+https://github.com/microsoft/adb2spark #
+https://github.com/microsoft/sarplus # pronounced sUrplus as it's simply better if not best!
+https://github.com/microsoft/startups # Guidance, information, and resources to get your startup up and running on Azure
+https://github.com/microsoft/onnx-protobuf #
+https://github.com/microsoft/icse2019 # Class materials for the ICSE tutorial on scalable machine learning
+https://github.com/microsoft/azure-solution-accelerator-to-automate-covid-19-vaccination-proof-and-test-verification-forms #
+https://github.com/microsoft/differentially-private-ngram-extraction # Implementation of Differentially Private n-gram Extraction (DPNE) paper
+https://github.com/microsoft/dstoolkit-time-series-forecasting # A flexible, extensible framework for training and evaluating time-series forecasting models.
+https://github.com/microsoft/dstoolkit-corporate-financial-forecasting # Template for using the finnts package on Azure Synapse for scalable time series forecasting within corporate finance.
+https://github.com/microsoft/dstoolkit-data-rafting-kit # A declarative pipeline framework that automatically makes PySpark pipelines.
+https://github.com/microsoft/historian-query # This Python library helps query regularized time series based on raw historian data with irregular time intervals (due to compression, deadband, outages etc.) on Spark.
+https://github.com/microsoft/cassandra-java-driver # Java Driver for Apache Cassandra®to support Azure services
+https://github.com/microsoft/logparse # Parser for Cassandra Logs to support Azure services

@@ -1,0 +1,30 @@
+https://github.com/databricks/learning-spark # Example code from Learning Spark book
+https://github.com/databricks/koalas # Koalas: pandas API on Apache Spark
+https://github.com/databricks/spark-the-definitive-guide # Spark: The Definitive Guide's Code Repository
+https://github.com/databricks/scala-style-guide # Databricks Scala Coding Style Guide
+https://github.com/databricks/dbrx # Code examples and resources for DBRX, a large language model developed by Databricks
+https://github.com/databricks/spark-deep-learning # Deep Learning Pipelines for Apache Spark
+https://github.com/databricks/click # The "Command Line Interactive Controller for Kubernetes"
+https://github.com/databricks/megablocks #
+https://github.com/databricks/learningsparkv2 # This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition]
+https://github.com/databricks/spark-csv # CSV Data Source for Apache Spark 1.x
+https://github.com/databricks/lilac # Curate better data for LLMs
+https://github.com/databricks/tensorframes # [DEPRECATED] Tensorflow wrapper for DataFrames on Apache Spark
+https://github.com/databricks/devrel # This repository contains the notebooks and presentations we use for our Databricks Tech Talks
+https://github.com/databricks/reference-apps # Spark reference applications
+https://github.com/databricks/spark-redshift # Redshift data source for Apache Spark
+https://github.com/databricks/spark-sql-perf #
+https://github.com/databricks/spark-xml # XML data source for Spark SQL and DataFrames
+https://github.com/databricks/mlops-stacks # This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box.
+https://github.com/databricks/terraform-provider-databricks # Databricks Terraform Provider
+https://github.com/databricks/spark-corenlp # Stanford CoreNLP wrapper for Apache Spark
+https://github.com/databricks/databricks-cli # (Legacy) Command Line Interface for Databricks
+https://github.com/databricks/spark-perf # Performance tests for Apache Spark
+https://github.com/databricks/databricks-sdk-py # Databricks SDK for Python (Beta)
+https://github.com/databricks/delta-live-tables-notebooks #
+https://github.com/databricks/databricks-ml-examples #
+https://github.com/databricks/spark-knowledgebase # Spark Knowledge Base
+https://github.com/databricks/sjsonnet #
+https://github.com/databricks/docker-spark-iceberg #
+https://github.com/databricks/dbt-databricks # A dbt adapter for Databricks.
+https://github.com/databricks/jsonnet-style-guide # Databricks Jsonnet Coding Style Guide

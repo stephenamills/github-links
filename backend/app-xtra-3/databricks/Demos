@@ -1,0 +1,14 @@
+https://github.com/databricks-demos/dbdemos # Demos to implement your Databricks Lakehouse
+https://github.com/databricks-demos/cloud-lakehouse-labs #
+https://github.com/databricks-demos/dbdemos-notebooks # Dbdemos notebook source as packaged in dbdemos toolkit
+https://github.com/databricks-demos/dbconnect-examples # Build data apps with Databricks dbconnect
+https://github.com/databricks-demos/dbconnect-plotly # dbconnect demo with Plotly
+https://github.com/databricks-demos/dbsql-rest-api # Databricks SQL Execution Statement API
+https://github.com/databricks-demos/dbt-databricks-c360 # Demo running DBT as a Databricks Workflow task
+https://github.com/databricks-demos/dbdemos-dataset # dataset used by dbdemos
+https://github.com/databricks-demos/dbx-demo # DBX demo
+https://github.com/databricks-demos/dbdemos-resources # Public repo to host notebook images within our demos
+https://github.com/databricks-demos/live-streaming-demo #
+https://github.com/databricks-demos/.github # Github organization description
+https://github.com/databricks-demos/partners # Demo for partners connection and integration
+https://github.com/databricks-demos/databricks-aws-demos #
