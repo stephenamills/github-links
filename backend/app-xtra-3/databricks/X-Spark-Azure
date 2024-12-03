@@ -1,3 +1,41 @@
+Databricks
+https://github.com/mspnp/spark-monitoring # Monitoring Azure Databricks jobs
+https://github.com/mspnp/azure-databricks-streaming-analytics # Stream processing with Azure Databricks
+
+https://github.com/azure-samples/azure-databricks-mlops-mlflow # Azure Databricks MLOps sample for Python based source code using MLflow without using MLflow Project.
+https://github.com/azure-samples/azure-sql-db-databricks # Azure SQL and Databricks samples and best practices for loading data quickly and efficiently
+https://github.com/azure-samples/databricks-observability # OpenTelemetry Demo with Azure Databricks and Azure Monitor
+https://github.com/azure-samples/data-factory-to-databricks #
+https://github.com/azure-samples/aml-adb-managed-endpoints # A Solution Accelerator to deploy models from Azure Databricks to Azure Machine Learning using Managed Online Endpoints to real-time inference
+
+https://github.com/azure/azure-databricks-client # Client library for Azure Databricks
+https://github.com/azure/azuredatabricksbestpractices # Version 1 of Technical Best Practices of Azure Databricks based on real world Customer and Technical SME inputs
+https://github.com/azure/databricks360 # Databricks Guidance
+https://github.com/azure/azure-ai-camp # Azure AI Camp - 2 day workshop on Databricks and Azure ML
+https://github.com/azure/huggingface-on-azure-databricks # Sample notebooks for optimized training and inference of Hugging Face models on Azure Databricks
+https://github.com/azure/employee-retention-databricks-kubernetes-poc # End-to-end proof of concept showing core MLOps practices to develop, deploy and monitor a machine learning model for an employee retention workload using Databricks and Kubernetes on Microsoft Azure.
+https://github.com/azure/databricks-sdk-golang # This is a Golang SDK for Azure DataBricks REST API 2.0
+https://github.com/azure/optimized-pytorch-on-databricks-and-fabric # Sample code for running optimized training of Hugging Face models with PyTorch FSDP on Azure Databricks and optimized inference with BetterTransformer on MIcrosoft Fabric
+https://github.com/azure/terraform-azurerm-avm-res-databricks-workspace #
+https://github.com/azure/db-dsc-jobs # A mechanism to ensure a series of configured jobs are loaded into an Azure Databricks instance
+https://github.com/azure/xstore-dais2024 # Content from our session at Databricks' Data and AI Summit 2024, including Demos
+
+https://github.com/microsoft/nutter # Testing framework for Databricks notebooks
+https://github.com/microsoft/dstoolkit-mlops-databricks # ML Ops Accelerator: Databricks & Azure Machine Learning Unification
+https://github.com/microsoft/purview-adb-lineage-solution-accelerator # A connector to ingest Azure Databricks lineage into Microsoft Purview
+https://github.com/microsoft/azure-databricks-nyc-taxi-workshop # An Azure Databricks workshop leveraging the New York Taxi and Limousine Commission Trip Records dataset
+https://github.com/microsoft/databricks-import-notebook # GitHub Action that imports Databricks notebooks from a local path into the Databricks worspace
+https://github.com/microsoft/data-accelerator # Data Accelerator for Apache Spark simplifies onboarding to Streaming of Big Data. It offers a rich, easy to use experience to help with creation, editing and management of Spark jobs on Azure HDInsights or Databricks while enabling the full power of the Spark engine.
+https://github.com/microsoft/dstoolkit-ml-ops-for-databricks # this is a python framework that helps to build any data engineering and data science solutions in Databricks
+https://github.com/microsoft/techexcel-fabric-with-databricks-for-data-analytics # To gain access, please finish setting up this repository now at:
+https://github.com/microsoft/a-tale-of-three-cities # Analyzing the safety (311) dataset published by Azure Open Datasets for Chicago, Boston and New York City using SparkR, SParkSQL, Azure Databricks, visualization using ggplot2 and leaflet. Focus is on descriptive analytics, visualization, clustering, time series forecasting and anomaly detection.
+https://github.com/microsoft/azure-databricks-solution-accelerator-financial-analytics-customer-revenue-growth-factor #
+https://github.com/microsoft/install-databricks-cli # GitHub Action that installs Databricks CLI
+https://github.com/microsoft/techboost-fabric-with-databricks-for-data-analytics #
+https://github.com/microsoft/whatthehack-advanced-databricks-ml-workshop # Presented at Ready FY19 , refreshed for BUILD 2019 and Ready FY20, this repo follows the WhatTheHack workshop format
+https://github.com/microsoft/generic-query-framework # Build Generic Framework which support querying data on any databases? Like ADLS Delta Files / Azure Databricks / Microsoft Fabric (Lakehouse, Data Warehouse). Current support is Azure SQL/PostgreSQL Leverage Database Description for generating Prompt
+
+Spark
 https://github.com/mspnp/spark-monitoring # Monitoring Azure Databricks jobs
 https://github.com/mspnp/azure-databricks-streaming-analytics # Stream processing with Azure Databricks
 https://github.com/azure-samples/synapse # Samples for Azure Synapse Analytics
