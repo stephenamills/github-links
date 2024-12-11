@@ -1,0 +1,9 @@
+https://github.com/allenai/olmo # Modeling, training, eval, and inference code for OLMo
+https://github.com/allenai/open-instruct #
+https://github.com/allenai/dolma # Data and tools for generating and inspecting OLMo pre-training data.
+https://github.com/allenai/olmoe # OLMoE: Open Mixture-of-Experts Language Models
+https://github.com/allenai/ir_datasets # Provides a common interface to many IR ranking datasets.
+https://github.com/allenai/olmo-eval # Evaluation suite for LLMs
+https://github.com/allenai/fm-cheatsheet # Website for hosting the Open Foundation Models Cheat Sheet.
+https://github.com/allenai/olmes # Reproducible, flexible LLM evaluations
+
