@@ -1,0 +1,23 @@
+https://github.com/dispatchrun/coroutine # Durable coroutines for Go
+
+https://github.com/dispatchrun/dispatch-examples # Runnable code snippets demonstrating how to use Dispatch
+https://github.com/dispatchrun/dispatch-templates #
+
+https://github.com/dispatchrun/wzprof # WebAssembly Profiler based on Wazero
+https://github.com/dispatchrun/net # Go package implementing WASI socket extensions
+https://github.com/dispatchrun/wasi-go # A Go implementation of the WebAssembly System Interface (WASI)
+https://github.com/dispatchrun/dispatch-py # Python package to develop applications with Dispatch.
+https://github.com/dispatchrun/wazergo # Library of generic types intended to help create WebAssembly host modules for wazero
+https://github.com/dispatchrun/netjail # Go library providing network access controls for dial functions and http transports
+https://github.com/dispatchrun/dispatch # Entrypoint of the Dispatch ecosystem.
+https://github.com/dispatchrun/tarfs # Go package bridging between tarballs and fs.FS file systems
+https://github.com/dispatchrun/human # Go library of types for parsing and formatting value in human-friendly representations
+https://github.com/dispatchrun/dispatch-go # Go library to develop Dispatch applications.
+https://github.com/dispatchrun/fspath # Go library with functions for performing path lookups in fs.FS file systems
+https://github.com/dispatchrun/dispatch-proto # Protobuf definitions for the Dispatch SDK
+https://github.com/dispatchrun/wasm-benchmarks # Benchmarks to compare the performance of wasm compilers
+https://github.com/dispatchrun/ocifs # Go package with implementation of a file system based on the layers of OCI images
+https://github.com/dispatchrun/fsinfo # Go library intended to help programs consume file information from a fs.FileInfo
+https://github.com/dispatchrun/fstest # Go library extending functionalities of the standard fs/fstest package
+https://github.com/dispatchrun/fslink # Implementation of the proposal to add fs.ReadLinkFS: https://github.com/golang/go/issues/49580
+https://github.com/dispatchrun/ssa #

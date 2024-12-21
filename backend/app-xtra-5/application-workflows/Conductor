@@ -1,0 +1,9 @@
+https://github.com/conductor-oss/conductor # Conductor is an event driven orchestration platform
+
+https://github.com/conductor-oss/payment-processing-app # Sample payment processing app that uses Conductor
+https://github.com/conductor-oss/conductor-apps # Sample applications built with Conductor
+
+https://github.com/conductor-oss/conductor-cli #
+https://github.com/conductor-oss/python-worker-container # Base container for the python workers
+https://github.com/conductor-oss/grpcbin # gRPC test services
+

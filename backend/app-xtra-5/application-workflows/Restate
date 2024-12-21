@@ -1,0 +1,29 @@
+https://github.com/restatedev/restate # Restate is the platform for building resilient applications that tolerate all infrastructure faults.
+
+https://github.com/restatedev/examples # Restate examples
+https://github.com/restatedev/restate-holiday # Simplified Step Function workflow example based on Restate using the Saga pattern.
+https://github.com/restatedev/scala-2-sbt-zio-example #
+https://github.com/restatedev/nextjs-example #
+https://github.com/restatedev/rag-ingestion-example #
+https://github.com/restatedev/java-workshop #
+
+https://github.com/restatedev/sdk-typescript # Restate SDK for JavaScript/Typescript
+https://github.com/restatedev/sdk-java # Restate SDK for JVM Languages
+https://github.com/restatedev/sdk-go # Restate SDK for Go
+https://github.com/restatedev/sdk-rust # Rust SDK for restate.dev
+https://github.com/restatedev/sdk-python # Restate SDK for Python
+https://github.com/restatedev/xstate # Run XState state machines on Restate
+https://github.com/restatedev/restate-operator # Deploy Restate clusters easily on Kubernetes
+https://github.com/restatedev/node-template-generator # Template generator for Restate TypeScript/NodeJS SDK: `npx @restatedev/create-app`
+https://github.com/restatedev/documentation # Restate documentation
+https://github.com/restatedev/cdk #
+https://github.com/restatedev/service-protocol #
+https://github.com/restatedev/restate-web-ui # Restate Web UI
+https://github.com/restatedev/e2e # E2E tests for Restate
+https://github.com/restatedev/sdk-shared-core # Shared core to build SDKs
+https://github.com/restatedev/dev-tools # Repository for development tools used by Restate
+https://github.com/restatedev/lambdaconf-hackathon # Hackathon repository for the Lambda Conf
+https://github.com/restatedev/e2e-verification-runner # This repository contains the e2e verification runner
+https://github.com/restatedev/homebrew-tap #
+https://github.com/restatedev/sdk-test-suite #
+https://github.com/restatedev/.github # This repository generates the Restate organization profile that users see at github.com/restatedev

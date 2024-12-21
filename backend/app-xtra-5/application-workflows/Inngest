@@ -1,0 +1,45 @@
+https://github.com/inngest/inngest # The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
+
+https://github.com/inngest/next-pxci-starter # Boilerplate Next.js project (Xata, Prisma, Inngest, Clerk) applications.
+https://github.com/inngest/inngest-demo # Explore Inngest use cases with this interactive demo.
+https://github.com/inngest/olotl # Add temporary pull request threads to Discord for faster merging
+https://github.com/inngest/inngestabot # Create Inngest SDK example code with OpenAI
+https://github.com/inngest/inngest-demo-app # The app that powers our demo account
+https://github.com/inngest/sdk-example-express # An example repo using Inngest with Express.js
+https://github.com/inngest/multi-tenant-rag-example # Multi-tenant RAG: the key to secure and scalable production AI
+https://github.com/inngest/inngest-multi-lang # Example of Node and Python apps communicating via Inngest.
+https://github.com/inngest/sdk-example-aws-lambda #
+https://github.com/inngest/agentkit-render-tutorial # Get briefed about the discussion happening on Hacker news on favorite topics!
+https://github.com/inngest/sdk-example-redwoodjs-vercel #
+https://github.com/inngest/sdk-example-nextjs-netlify #
+https://github.com/inngest/example-monorepo # How to structure your monorepo to re-use existing code with Inngest functions
+https://github.com/inngest/inngest-squiggle-conf-workshop # Squiggle Conference 2024 Workshop
+https://github.com/inngest/sdk-example-fresh-deno-deploy #
+https://github.com/inngest/ai-hack-night-paris-nov-2024 #
+https://github.com/inngest/deno-step-example # An example of a Deno step while it's experimental
+https://github.com/inngest/sdk-example-nextjs-vercel #
+https://github.com/inngest/webhook-transform-sync # An example repo on how to test and sync Inngest webhook transforms from your codebase.
+https://github.com/inngest/inngest-concurrency-demo #
+https://github.com/inngest/inngest-nestjs-workflow #
+https://github.com/inngest/sdk-example-gcp-cloud-function #
+
+https://github.com/inngest/inngest-js # The developer platform for easily building reliable workflows with zero infrastructure for TypeScript & JavaScript
+https://github.com/inngest/typedwebhook.tools # A webhook testing tool for checking payloads, with automatic type generation
+https://github.com/inngest/workflow-kit # The quickest and easiest way to add a Zapier-like workflow UI experience to your product. Define actions in your backend and expose a Workflow UI using pre-built React components.
+https://github.com/inngest/inngest-py # Python SDK for Inngest: Durable functions and workflows in Python, hosted anywhere
+https://github.com/inngest/agent-kit # AgentKit is a framework for creating and orchestrating AI Agents, from single model inference calls to multi-agent systems which use tools.
+https://github.com/inngest/inngestgo # Durable execution in Go with the Golang Inngest SDK. Write durable functions in your existing app.
+https://github.com/inngest/expr #
+https://github.com/inngest/event-schemas # Event Schema definitions for common events on the Inngest platform
+
+https://github.com/inngest/envelop-plugin-inngest # An envelop plugin that sends GraphQL response data to Inngest to help build event-driven ap
+https://github.com/inngest/inngest-rs #
+https://github.com/inngest/website # Website and Documentation for Inngest
+https://github.com/inngest/dbcap #
+https://github.com/inngest/inngest-kt # Kotlin/Java SDK for Inngest
+https://github.com/inngest/bqb # bqb -- A query builder for BigQuery
+https://github.com/inngest/netlify-plugin-inngest #
+https://github.com/inngest/sdk-common #
+https://github.com/inngest/action-test-functions # A GitHub Action to install the Inngest CLI and test actions against generated or real data.
+https://github.com/inngest/.github #
+

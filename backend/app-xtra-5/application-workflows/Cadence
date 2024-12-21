@@ -1,0 +1,10 @@
+https://github.com/cadence-workflow/cadence # Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+
+https://github.com/cadence-workflow/cadence-samples #
+https://github.com/cadence-workflow/cadence-java-samples #
+
+https://github.com/cadence-workflow/cadence-web # Web UI for visualizing workflows on Cadence
+https://github.com/cadence-workflow/cadence-go-client # Framework for authoring workflows and activities running on top of the Cadence orchestration engine.
+https://github.com/cadence-workflow/cadence-java-client # Java framework for Cadence Workflow Service
+https://github.com/cadence-workflow/cadence-idl # Cadence IDL repo, shared by server / clients
+https://github.com/cadence-workflow/cadence-charts # Official repository for Cadence Helm Chart
