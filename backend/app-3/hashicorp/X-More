@@ -12,8 +12,8 @@ https://github.com/hashicorp-guides/jenkins # Jenkins Integration Guide with the
 https://github.com/hashicorp-guides/vault-approle-chef # Some integration patterns using Vault AppRole authentication and Chef
 https://github.com/hashicorp-guides/vault-operations #
 https://github.com/hashicorp-guides/hashistack # Config to build the Hashi Stack.
-https://github.com/hashicorp-guides/vault-aws-auth # Example usage of HashiCorp Vault using AWS authentication backend for secure i
-ntroduction https://github.com/hashicorp-guides/lambda-api-gateway-stack # An example Terraform Stack that provisions an AWS S3 bucket, an AWS
+https://github.com/hashicorp-guides/vault-aws-auth # Example usage of HashiCorp Vault using AWS authentication backend for secure introduction
+https://github.com/hashicorp-guides/lambda-api-gateway-stack # An example Terraform Stack that provisions an AWS S3 bucket, an AWS
 Lambda function served from that bucket, and an AWS API Gateway to invoke that function at a URL
 https://github.com/hashicorp-guides/consul-api-gateway-on-nomad # Deploying Consul API Gateway on nomad
 https://github.com/hashicorp-guides/vault-radar-demo # A repository for vault-radar CLI demo content and documentation
@@ -25,19 +25,15 @@ https://github.com/hashicorp-guides/gcp-stacks-example #
 https://github.com/hashicorp-guides/eks-deferred-stack #
 https://github.com/hashicorp-guides/nomad-spark # Integration Guide for running Spark on top of Nomad
 https://github.com/hashicorp-guides/azure-stacks-example #
-https://github.com/hashicorp-guides/github-via-vault-stack # An example Terraform Stack which uses Vault JWT Auth to fetch a static
-credential for GitHub, provisioning an example GitHub repository
+https://github.com/hashicorp-guides/github-via-vault-stack # An example Terraform Stack which uses Vault JWT Auth to fetch a static credential for GitHub, provisioning an example GitHub repository
 https://github.com/hashicorp-guides/nomad-vault-aws #
 https://github.com/hashicorp-guides/terraform-stacks-identity-tokens #
-https://github.com/hashicorp-guides/vpc-ec2-stack # This stack provisions an AWS virtual private cloud (VPC) using three availabili
-ty zones and with six subnets using the popular AWS VPC Terraform module. An EC2 instance running the latest Ubuntu AMI is then provisioned within each subnet.
-https://github.com/hashicorp-guides/pet-nulls-stack # A Terraform Stack using two components, two environments, and the random_pet
-and null_resource resources. The purpose is a no-authentication, state-only test of the stacks concepts.
+https://github.com/hashicorp-guides/vpc-ec2-stack # This stack provisions an AWS virtual private cloud (VPC) using three availability zones and with six subnets using the popular AWS VPC Terraform module. An EC2 instance running the latest Ubuntu AMI is then provisioned within each subnet.
+https://github.com/hashicorp-guides/pet-nulls-stack # A Terraform Stack using two components, two environments, and the random_pet and null_resource resources. The purpose is a no-authentication, state-only test of the stacks concepts.
 https://github.com/hashicorp-guides/vault-staticsecrets # A quick guide on CRUD operations on Static Secrets
 https://github.com/hashicorp-guides/consul-enterprise-automated-upgrades # A recorded demo of the Automated Upgrades feature of HashiCorp's Consul Enterprise
 https://github.com/hashicorp-guides/lambda-component-expansion-stack #
-https://github.com/hashicorp-guides/github-via-vault-secrets-stack # An example Terraform Stack that uses a datasource to fetch a s
-tatic GitHub token from HCP Vault Secrets (using OIDC authentication to Vault) and passes the token to another component for provisioning resources with the GitHub provider (in this case, a respository).
+https://github.com/hashicorp-guides/github-via-vault-secrets-stack # An example Terraform Stack that uses a datasource to fetch a static GitHub token from HCP Vault Secrets (using OIDC authentication to Vault) and passes the token to another component for provisioning resources with the GitHub provider (in this case, a respository).
 https://github.com/hashicorp-guides/.github #
 
 https://github.com/hashicorp-forge/hermes # A document management system
@@ -77,40 +73,6 @@ https://github.com/hashicorp-modules/nomad-client-ports-aws #
 https://github.com/hashicorp-modules/hashistack-lb-azure #
 https://github.com/hashicorp-modules/consul-lb-aws #
 
-https://github.com/hashicorp-dev-advocates/workshop-vault-for-developers # Workshop walkthrough to teach HashiCorp Vault for develo
-pment teams https://github.com/hashicorp-dev-advocates/picasso-templates # This repository holds picasso templates that can be used to generate
-image assets. https://github.com/hashicorp-dev-advocates/demo-blueprint #
-https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint #
-https://github.com/hashicorp-dev-advocates/github-scraper #
-https://github.com/hashicorp-dev-advocates/terraform-aws-getting-into-terraform-modules #
-https://github.com/hashicorp-dev-advocates/envoy-metrics-demystified #
-https://github.com/hashicorp-dev-advocates/waypoint-client # A Go client for HashiCorp Waypoint's gRPC API
-https://github.com/hashicorp-dev-advocates/terraform-boundary-cts # This module creates a Boundary host, host set, host catalog and
-target for each service registered in Consul. https://github.com/hashicorp-dev-advocates/waypoint-go # Test Waypoint application for building on Nomad with a local registry
-https://github.com/hashicorp-dev-advocates/rift-poc # Rift is an event driven access control orchestror proof of concept tool
-https://github.com/hashicorp-dev-advocates/terraforming-minecraft #
-https://github.com/hashicorp-dev-advocates/vault-fake-api #
-https://github.com/hashicorp-dev-advocates/hashiconf-leaderboard # Leaderboard application for HashiConf activations
-https://github.com/hashicorp-dev-advocates/hug-assets #
-https://github.com/hashicorp-dev-advocates/waypoint-plugin-terraform #
-https://github.com/hashicorp-dev-advocates/nomad-falco-plugin # A HashiCorp Nomad plugin for Falco
-https://github.com/hashicorp-dev-advocates/hashitalks-assets #
-https://github.com/hashicorp-dev-advocates/stub-oidc-provider # Stub OIDC provider for demos based on https://github.com/navikt/stu
-b-oidc-provider https://github.com/hashicorp-dev-advocates/boundary-hcp-demos #
-https://github.com/hashicorp-dev-advocates/waypoint-demo-app-payments # Waypoint C# Payments application
-https://github.com/hashicorp-dev-advocates/security-field-day-8-2022-demo #
-https://github.com/hashicorp-dev-advocates/ndc-london-demo #
-https://github.com/hashicorp-dev-advocates/hashiconf-escape-room #
-https://github.com/hashicorp-dev-advocates/waypoint-plugin-access-control #
-https://github.com/hashicorp-dev-advocates/waypoint-demo-app-api # Two tier demo application for waypoint
-https://github.com/hashicorp-dev-advocates/terraform-nomad-app #
-https://github.com/hashicorp-dev-advocates/terraform-provider-marketo # A terraform provider for managing marketo
-https://github.com/hashicorp-dev-advocates/waypoint-custom-odr # Custom on-demand runner for Waypoint containing custom plugins
-https://github.com/hashicorp-dev-advocates/terraform-null-resource # Dummy terraform module with a null resource
-https://github.com/hashicorp-dev-advocates/demo-rabbitmq-summit-2022 # Demo as given by Rob Barnes at the RabbitMQ Summit 2022 on Z
-ero Trust Security implementation of a RabbitMQ and Vault aware Go application. https://github.com/hashicorp-dev-advocates/waypoint-plugin-noop # Waypoint plugin that allows you to skip a step
-https://github.com/hashicorp-dev-advocates/database-murder-she-wrote-talk #
-
 https://github.com/hashicorp-publicsector/blog-dynamic-saas-cluster-aws-vault #
 https://github.com/hashicorp-publicsector/workshops-terraform-intro-azure #
 https://github.com/hashicorp-publicsector/amer-workshops-vault-intro #
@@ -118,8 +80,8 @@ https://github.com/hashicorp-publicsector/amer-workshops-vault-intro #
 https://github.com/hashicorp-dach/tfc-azure-hashistack # HashiStack rewritten for Azure
 https://github.com/hashicorp-dach/vault-hcp-demo # Demo setup of HCP Vault with TF
 https://github.com/hashicorp-dach/vault-agent-demo #
-https://github.com/hashicorp-dach/hashicorp-stack-demoapp # HashiCorp Cloud Platform (Vault/Consul), Consul-Terraform-Sync, & Bound
-ary with Datadog and Kubernetes https://github.com/hashicorp-dach/vault-namespaces #
+https://github.com/hashicorp-dach/hashicorp-stack-demoapp # HashiCorp Cloud Platform (Vault/Consul), Consul-Terraform-Sync, & Boundary with Datadog and Kubernetes
+https://github.com/hashicorp-dach/vault-namespaces #
 https://github.com/hashicorp-dach/vault-demo-pki-ttls #
 https://github.com/hashicorp-dach/hcp_packer_tfc_demo #
 https://github.com/hashicorp-dach/vault_client_count_demo # Small Demo for Demonstrating Vault Client Count 1.9
@@ -129,10 +91,9 @@ https://github.com/hashicorp-dach/terraform-vault-dynamic-credentials #
 https://github.com/hashicorp-dach/vault-demo-versioned-static-secrets-kv2 #
 
 https://github.com/hashicorp-support/shikari # An opinionated Dev Cluster Provisioner using Lima
-https://github.com/hashicorp-support/vault-transit-load-testing # A project using the wrk testing framework to test HashiCorp Vault
-Transit Throughput
-https://github.com/hashicorp-support/terraform-aws-nomad # A Terraform Module for how to run Nomad on AWS using Terraform and Packe
-r https://github.com/hashicorp-support/terraform-aws-nomad-starter # Terraform Module for Provisioning Nomad on AWS
+https://github.com/hashicorp-support/vault-transit-load-testing # A project using the wrk testing framework to test HashiCorp Vault Transit Throughput
+https://github.com/hashicorp-support/terraform-aws-nomad # A Terraform Module for how to run Nomad on AWS using Terraform and Packer
+https://github.com/hashicorp-support/terraform-aws-nomad-starter # Terraform Module for Provisioning Nomad on AWS
 
 https://github.com/cdktf/cdktf-provider-aws # Prebuilt Terraform CDK (cdktf) provider for aws.
 https://github.com/cdktf/cdktf-provider-google # Prebuilt Terraform CDK (cdktf) provider for google.
@@ -238,3 +199,5 @@ https://github.com/cdktf/cdktf-provider-digitalocean-go # CDK for Terraform Go p
 https://github.com/cdktf/cdktf-provider-docker-go # CDK for Terraform Go provider bindings for docker.
 https://github.com/cdktf/cdktf-provider-tfe-go # CDK for Terraform Go provider bindings for tfe.
 https://github.com/cdktf/cdktf-provider-local-go # CDK for Terraform Go provider bindings for local.
+
+https://github.com/hashicorp-interviews/education-assignments #

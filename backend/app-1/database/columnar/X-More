@@ -1,3 +1,43 @@
+Iceberg
+https://github.com/apache/iceberg # Apache Iceberg
+https://github.com/apache/iceberg-rust # Apache Iceberg
+https://github.com/apache/iceberg-python # Apache PyIceberg
+https://github.com/apache/amoro # Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
+https://github.com/apache/paimon # Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+https://github.com/apache/gravitino # World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+https://github.com/apache/polaris # Apache Polaris, the interoperable, open source catalog for Apache Iceberg
+https://github.com/apache/iceberg-go # Apache Iceberg - Go
+
+Hive
+https://github.com/apache/hive # Apache Hive
+https://github.com/apache/orc # Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
+heus-compatible, custom monitoring and status page building capabilities.
+https://github.com/apache/orc-format # Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
+
+Hudi
+https://github.com/apache/hudi # Upserts, Deletes And Incremental Processing on Big Data.
+https://github.com/apache/incubator-xtable # Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines.
+https://github.com/apache/hudi-rs # The native Rust implementation for Apache Hudi, with Python API bindings.
+https://github.com/apache/doris # Apache Doris is an easy-to-use, high performance and unified analytics database.
+https://github.com/apache/amoro # Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
+https://github.com/apache/inlong # Apache InLong - a one-stop, full-scenario integration framework for massive data
+
+DeltaLake
+https://github.com/delta-io/delta # An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+https://github.com/delta-io/delta-rs # A native Rust library for Delta Lake, with bindings into Python
+https://github.com/delta-io/delta-sharing # An open protocol for secure data sharing
+https://github.com/delta-io/kafka-delta-ingest # A highly efficient daemon for streaming data from Kafka into Delta Lake
+https://github.com/delta-io/delta-examples # Delta Lake examples
+https://github.com/delta-io/delta-kernel-rs # A native Delta implementation for integration with any query engine
+https://github.com/delta-io/delta-docker # Official Dockerfile for Delta Lake
+https://github.com/delta-io/website # Delta Lake Website
+
+Pinot query engine
+https://github.com/apache/pinot # Apache Pinot - A realtime distributed OLAP datastore
+
+https://github.com/apache/superset # Apache Superset is a Data Visualization and Data Exploration Platform
+
+Trino query engine
 https://github.com/trinodb/trino # The distributed SQL query engine for big data, formerly known as PrestoSQL
 
 https://github.com/trinodb/trino-the-definitive-guide # Resource for the book Trino: The Definitive Guide
@@ -83,3 +123,46 @@ https://github.com/prestodb/presto-ranger #
 https://github.com/prestodb/.github # Default community health files
 
 https://dbdb.io/db/prestodb
+
+StarRocks
+https://github.com/starrocks/starrocks # Sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
+
+https://github.com/starrocks/starrocks-connector-for-apache-flink #
+https://github.com/starrocks/starrocks-kubernetes-operator # Kubernetes Operator for StarRocks
+https://github.com/starrocks/demo #
+https://github.com/starrocks/starrocks-connector-for-apache-spark #
+https://github.com/starrocks/community # Welcome to the StarRocks community!
+https://github.com/starrocks/dbt-starrocks # dbt-starrocks contains all of the code enabling dbt to work with StarRocks
+https://github.com/starrocks/stargo #
+https://github.com/starrocks/benchmarktool # Benchmark tool to test StarRocks using several benchmarks.
+https://github.com/starrocks/starrocks-connector-for-kettle #
+https://github.com/starrocks/sqltransformer #
+https://github.com/starrocks/starcache #
+https://github.com/starrocks/starrocks-connector-for-kafka #
+https://github.com/starrocks/fe-plugins-auditloader # AuditLoader plugin for FE
+https://github.com/starrocks/docker #
+https://github.com/starrocks/aws-cloudformation #
+https://github.com/starrocks/lkbot-notifier #
+https://github.com/starrocks/cboplantest #
+https://github.com/starrocks/bdb-je # bdb java edition
+https://github.com/starrocks/clucene #
+https://github.com/starrocks/fecoveragetool #
+https://github.com/starrocks/starrocks-bdb-je #
+https://github.com/starrocks/tenann #
+https://github.com/starrocks/codereview # starrocks code review
+https://github.com/starrocks/docusaurus-build #
+https://github.com/starrocks/airbyte-starrocks # Airbyte Connector for StarRocks
+
+Dremio
+https://github.com/dremio/dremio-oss # Dremio - the missing link in modern data
+https://github.com/dremio/dremio-cloud-tools # Dremio Container Tools
+https://github.com/dremio/dbt-dremio # dbt (data build tool) adapter for the Dremio
+https://github.com/dremio/flightsql-odbc #
+https://github.com/dremio/warpdrive #
+https://github.com/dremio/dremio-diagnostic-collector #
+https://github.com/dremio/arrow-build # Helper repo for doing Arrow Crossbow builds
+https://github.com/dremio/iceland #
+https://github.com/dremio/dremio-cloner # tool for migrating content from one environment (DEV, PROD) to another.
+
+Doris
+https://github.com/apache/doris # Apache Doris is an easy-to-use, high performance and unified analytics database.

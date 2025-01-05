@@ -1,0 +1,45 @@
+https://github.com/hashicorp-education/learn-terraform-pipelines-consul #
+https://github.com/hashicorp-education/learn-consul-docker # Docker Compose quick starts for Consul features.
+https://github.com/hashicorp-education/learn-consul-kubernetes #
+https://github.com/hashicorp-education/learn-consul-get-started-vms # Scripts to generate Consul agent configuration for VMs
+https://github.com/hashicorp-education/learn-consul-get-started-kubernetes #
+https://github.com/hashicorp-education/learn-consul-terraform # Terraform quick starts for Consul features.
+https://github.com/hashicorp-education/learn-hcp-consul #
+https://github.com/hashicorp-education/learn-consul-service-mesh #
+https://github.com/hashicorp-education/learn-consul-k8s-hashicups #
+https://github.com/hashicorp-education/consul-k8s-nginx-ingress-controller # An example deployment that shows using NGINX as ingress with Consu
+l on Kubernetes in transparent mode https://github.com/hashicorp-education/learn-consul-cluster-peering # A repository to help learn how Consul's Cluster Peering works
+https://github.com/hashicorp-education/learn-consul-hcs-on-azure # Take home lab for the Managed Consul digital workshop
+https://github.com/hashicorp-education/learn-consul-windows-vm # Learn Consul Windows VM
+https://github.com/hashicorp-education/learn-consul-api-gateway #
+https://github.com/hashicorp-education/learn-terraform-multicloud-kubernetes-consul #
+https://github.com/hashicorp-education/learn-consul-nomad-vm #
+https://github.com/hashicorp-education/learn-consul-cts # A repository to help learn Consul-Terraform-Sync
+https://github.com/hashicorp-education/learn-consul-service-mesh-deploy # A repository to help learn deploying Consul Service Mesh on Kubernete
+s https://github.com/hashicorp-education/learn-vault-kubernetes-consul # Used for "Vault installation to minikube via Helm with Consul" tutorial.
+https://github.com/hashicorp-education/learn-consul-template-load-balancing-vms # Learn how to use consul-template for load balancing in a VM b
+ased scenario https://github.com/hashicorp-education/consul-argo-rollouts # Using canary splitter with Consul and Argo Rollouts progressive delivery
+https://github.com/hashicorp-education/learn-consul-ecs #
+https://github.com/hashicorp-education/learn-consul-proxy-metrics #
+https://github.com/hashicorp-education/learn-consul-cluster-telemetry #
+https://github.com/hashicorp-education/learn-consul-hashiconf-2023 #
+https://github.com/hashicorp-education/learn-consul-service-separation # A repository to help learn how to separate services in Consul using ad
+min partitions and namespaces https://github.com/hashicorp-education/learn-consul-circuit-breaking # A companion repository for the 'Implement circuit breakers to improve se
+rvice resilience' tutorial https://github.com/hashicorp-education/learn-consul-disaster-recovery # A repository to help learn how to perform disaster recovery for Consul
+https://github.com/hashicorp-education/learn-consul-hashidays-2023 #
+https://github.com/hashicorp-education/learn-consul-redundancy-zones # A repository to help learn how Consul's Redundancy Zones work
+https://github.com/hashicorp-education/learn-consul-permissive-mtls #
+https://github.com/hashicorp-education/learn-consul-admin-partitions # A repostiory to help learn Consul Admin Partitions
+https://github.com/hashicorp-education/learn-consul-sameness-groups # A repository to help learn how Consul's Sameness Groups work
+https://github.com/hashicorp-education/learn-consul-audit-logs #
+https://github.com/hashicorp-education/learn-consul-canary-deployments # A companion repository for the 'Deploy seamless canary deployments wit
+h service splitters' tutorial https://github.com/hashicorp-education/learn-consul-acls-vms # Learn how to use ACLs on a VM based Consul scenario.
+https://github.com/hashicorp-education/learn-consul-intentions-vms # Learn how to use Intentions on a VM based Consul scenario.
+https://github.com/hashicorp-education/learn-consul-terminating-gateways #
+https://github.com/hashicorp-education/learn-consul-health-checks-vms # Learn how to configure health checks on a VM based Consul scenario.
+https://github.com/hashicorp-education/learn-consul-external-services-vms # Learn how to use consul-esm for external services monitorin in a VM
+based scenario https://github.com/hashicorp-education/learn-consul-proxy-access-logs #
+https://github.com/hashicorp-education/learn-consul-apigee-external-authz #
+https://github.com/hashicorp-education/learn-consul-cluster-peering-google-cloud #
+https://github.com/hashicorp-education/learn-consul-k8s-windows #
+https://github.com/hashicorp-education/learn-consul-k8s-nginx-inc-ingress-controller #

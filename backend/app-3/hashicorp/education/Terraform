@@ -1,0 +1,127 @@
+https://github.com/hashicorp-education/learn-terraform-github-actions #
+https://github.com/hashicorp-education/learn-terraform-provision-eks-cluster #
+https://github.com/hashicorp-education/learn-terraform-circleci # Supplemental repository for Learn content on CircleCI
+https://github.com/hashicorp-education/learn-terraform-enforce-policies #
+https://github.com/hashicorp-education/learn-terraform-aft-account-request #
+https://github.com/hashicorp-education/learn-terraform-aft-account-customizations #
+https://github.com/hashicorp-education/learn-terraform-aft-global-customizations #
+https://github.com/hashicorp-education/learn-terraform-provision-gke-cluster #
+https://github.com/hashicorp-education/learn-terraform-aft-account-provisioning-customizations #
+https://github.com/hashicorp-education/learn-terraform-modules # Companion module to the Advanced Modules track on learn.hashicorp.com
+https://github.com/hashicorp-education/learn-terraform-provisioning # Companion code repository for learning to provision Terraform instances with Packer & cloud-init
+https://github.com/hashicorp-education/learn-terraform #
+https://github.com/hashicorp-education/learn-terraform-no-code-provisioning #
+https://github.com/hashicorp-education/learn-terraform-provision-aks-cluster #
+https://github.com/hashicorp-education/learn-terraform-pipelines-consul #
+https://github.com/hashicorp-education/learn-terraform-pipelines-vault #
+https://github.com/hashicorp-education/learn-terraform-lambda-api-gateway #
+https://github.com/hashicorp-education/learn-terraform-versions #
+https://github.com/hashicorp-education/learn-terraform-run-triggers-network #
+https://github.com/hashicorp-education/learn-terraform-resources #
+https://github.com/hashicorp-education/learn-terraform-variables #
+https://github.com/hashicorp-education/learn-terraform-modules-create #
+https://github.com/hashicorp-education/learn-terraform-aws-control-tower-aft #
+https://github.com/hashicorp-education/learn-terraform-pipelines-k8s #
+https://github.com/hashicorp-education/learn-terraform-cost-estimation #
+https://github.com/hashicorp-education/learn-terraform-import # Learn how to import existing configuration into Terraform
+https://github.com/hashicorp-education/learn-terraform-rds #
+https://github.com/hashicorp-education/learn-terraform-run-triggers-application #
+https://github.com/hashicorp-education/learn-terraform-code-organization #
+https://github.com/hashicorp-education/learn-terraform-count-foreach #
+https://github.com/hashicorp-education/learn-terraform-modules-use #
+https://github.com/hashicorp-education/learn-terraform-advanced-deployments #
+https://github.com/hashicorp-education/learn-terraform-azure #
+https://github.com/hashicorp-education/learn-terraform-init #
+https://github.com/hashicorp-education/learn-terraform-provider-versioning #
+https://github.com/hashicorp-education/learn-terraform-outputs #
+https://github.com/hashicorp-education/learn-terraform-preview-environment #
+https://github.com/hashicorp-education/learn-terraform-dynamic-credentials #
+https://github.com/hashicorp-education/learn-terraform-multicloud-kubernetes #
+https://github.com/hashicorp-education/terraform-github-static-app #
+https://github.com/hashicorp-education/learn-terraform-sensitive-variables #
+https://github.com/hashicorp-education/learn-terraform-github-user-teams #
+https://github.com/hashicorp-education/learn-terraform-deploy-nginx-kubernetes-provider # Deploy and expose a NGINX service using the Terraform Kubernetes Provider
+https://github.com/hashicorp-education/learn-terraform-inject-secrets-aws-vault #
+https://github.com/hashicorp-education/learn-terraform-locals #
+https://github.com/hashicorp-education/learn-terraform-helm #
+https://github.com/hashicorp-education/learn-terraform-sentinel #
+https://github.com/hashicorp-education/learn-terraform-hashicups-provider # Companion repo to HashiCups Learn Guide
+https://github.com/hashicorp-education/learn-terraform-vsphere #
+https://github.com/hashicorp-education/learn-terraform-aws-asg #
+https://github.com/hashicorp-education/learn-terraform-functions #
+https://github.com/hashicorp-education/learn-terraform-cloud-agents #
+https://github.com/hashicorp-education/learn-terraform-spotify # Create a playlist on Spotify by writing it as a Terraform configuration
+https://github.com/hashicorp-education/learn-terraform-test #
+https://github.com/hashicorp-education/learn-terraform-iam-policy #
+https://github.com/hashicorp-education/learn-terraform-state #
+https://github.com/hashicorp-education/learn-terraform-preview-environment-shared #
+https://github.com/hashicorp-education/learn-terraform-troubleshooting #
+https://github.com/hashicorp-education/learn-terraform-cloudflare-static-website #
+https://github.com/hashicorp-education/learn-terraform-azure-ad #
+https://github.com/hashicorp-education/learn-terraform-data-sources-vpc #
+https://github.com/hashicorp-education/learn-terraform-microsoft-caf-enterprise-scale #
+https://github.com/hashicorp-education/learn-terraform-aws-assume-role-iam #
+https://github.com/hashicorp-education/learn-terraform-expressions #
+https://github.com/hashicorp-education/learn-terraform-move #
+https://github.com/hashicorp-education/learn-terraform-kubernetes-operator #
+https://github.com/hashicorp-education/learn-terraform-for-each #
+https://github.com/hashicorp-education/learn-terraform-cdktf-applications #
+https://github.com/hashicorp-education/learn-terraform-plan #
+https://github.com/hashicorp-education/learn-terraform-data-sources-app #
+https://github.com/hashicorp-education/learn-terraform-cloud-run-tasks-snyk #
+https://github.com/hashicorp-education/learn-terraform-google-workspace #
+https://github.com/hashicorp-education/learn-consul-terraform # Terraform quick starts for Consul features.
+https://github.com/hashicorp-education/learn-terraform-stacks-deploy #
+https://github.com/hashicorp-education/learn-terraform-drift-management #
+https://github.com/hashicorp-education/terraform-aws-route53-subdomain #
+https://github.com/hashicorp-education/learn-terraform-module-object-attributes #
+https://github.com/hashicorp-education/learn-terraform-resource-targeting #
+https://github.com/hashicorp-education/learn-terraform-refresh #
+https://github.com/hashicorp-education/learn-terraform-count #
+https://github.com/hashicorp-education/learn-terraform-digitalocean-droplet #
+https://github.com/hashicorp-education/learn-terraform-dependencies #
+https://github.com/hashicorp-education/learn-terraform-tfe-provider-run-triggers #
+https://github.com/hashicorp-education/learn-terraform-drift-and-opa #
+https://github.com/hashicorp-education/learn-terraform-datadog-local #
+https://github.com/hashicorp-education/learn-terraform-aws-assume-role-ec2 #
+https://github.com/hashicorp-education/learn-terraform-s3-remote-state # Companion repository for "Migrate from Remote S3 Backend to Terraform Cloud" Learn tutorial
+https://github.com/hashicorp-education/learn-terraform-apply #
+https://github.com/hashicorp-education/learn-terraform-rds-upgrade #
+https://github.com/hashicorp-education/learn-terraform-heroku # Learn Terraform Heroku tutorial configuraiton
+https://github.com/hashicorp-education/learn-terraform-checks #
+https://github.com/hashicorp-education/learn-terraform-conditions #
+https://github.com/hashicorp-education/learn-terraform-lifecycle-management #
+https://github.com/hashicorp-education/learn-terraform-aws-cloud-control #
+https://github.com/hashicorp-education/learn-terraform-drift-detection #
+https://github.com/hashicorp-education/learn-terraform-validation-enforcement #
+https://github.com/hashicorp-education/learn-terraform-variable-sets #
+https://github.com/hashicorp-education/learn-terraform-aws-default-tags #
+https://github.com/hashicorp-education/learn-terraform-migrate-s3-tfc # Companion repository for "Migrate from Remote S3 Backend to Terraform Cloud" Learn tutorial
+https://github.com/hashicorp-education/learn-terraform-console #
+https://github.com/hashicorp-education/learn-terraform-multicloud-kubernetes-eks #
+https://github.com/hashicorp-education/learn-terraform-aws-dynamodb-scale #
+https://github.com/hashicorp-education/terraform-aws-s3-website #
+https://github.com/hashicorp-education/learn-terraform-enterprise-metrics-prometheus # Repository for the enterprise metrics prometheus learn tutorial
+https://github.com/hashicorp-education/learn-terraform-confluent-provider #
+https://github.com/hashicorp-education/learn-terraform-vault-backed-dynamic-credentials #
+https://github.com/hashicorp-education/learn-terraform-dynamic-credentials-no-code #
+https://github.com/hashicorp-education/learn-terraform-k8s-crd-openfaas #
+https://github.com/hashicorp-education/learn-terraform-monorepo #
+https://github.com/hashicorp-education/learn-terraform-datadog #
+https://github.com/hashicorp-education/learn-terraform-hcp-vault #
+https://github.com/hashicorp-education/learn-terraform-organize-configuration # Source files for a workshop about Terraform source file organization
+https://github.com/hashicorp-education/learn-terraform-stacks-identity-tokens #
+https://github.com/hashicorp-education/learn-terraform-azure-scale-sets # Manage Azure Virtual Machine Scale Sets with Terraform
+https://github.com/hashicorp-education/learn-terraform-private-module-registry #
+https://github.com/hashicorp-education/learn-terraform-multicloud-kubernetes-consul #
+https://github.com/hashicorp-education/learn-terraform-multicloud-kubernetes-aks #
+https://github.com/hashicorp-education/terraform-aws-terramino #
+https://github.com/hashicorp-education/hcp-terraform-provider-example #
+https://github.com/hashicorp-education/learn-terraform-snow-sgc #
+https://github.com/hashicorp-education/learn-terraform-multicloud-vpn #
+https://github.com/hashicorp-education/terraform-aws-redis-ec2 #
+https://github.com/hashicorp-education/learn-terraform-drift-and-policy #
+https://github.com/hashicorp-education/learn-hcp-vault-replication-terraform # Vault tutorial assets used to for the Deploy HCP Vault Performance Replication with Terraform tutorial.
+https://github.com/hashicorp-education/learn-terraform-stacks-eks-deferred #
+https://github.com/hashicorp-education/learn-terraform-multicloud-kubernetes-counting-service #
+https://github.com/hashicorp-education/learn-manage-codified-hcp-vault-terraform # HCP Vault tutorial assets used to for the HCP Vault Operations With Terraform virtual lab from HashiConf EU 2022.

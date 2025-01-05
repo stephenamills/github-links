@@ -1,0 +1,12 @@
+https://github.com/hashicorp-education/learn-nomad-cluster-setup # Companion repo for the HashiCorp tutorial collection on Nomad cluster setup
+https://github.com/hashicorp-education/learn-nomad-getting-started # Companion repo for the HashiCorp Nomad Get Started collection of tutorials
+https://github.com/hashicorp-education/learn-nomad-edge # Learn Nomad Edge
+https://github.com/hashicorp-education/learn-nomad-features #
+https://github.com/hashicorp-education/learn-nomad-jobspec # Content to support the Nomad Job Specification tutorial collection
+https://github.com/hashicorp-education/learn-nomad-migrate-java # This is a companion repository containing resources used in the Migrate a Java Application HashiCorp Learn tutorial.
+https://github.com/hashicorp-education/learn-nomad-external-alb # Companion repo for the HashiCorp Learn guide: Manage External Traffic with Application Load Balancing
+https://github.com/hashicorp-education/learn-nomad-sd # Companion repo for the HashiCorp Learn guide: Deploy an App with Nomad Service Discovery
+https://github.com/hashicorp-education/learn-consul-nomad-vm #
+https://github.com/hashicorp-education/learn-nomad-gs-pytechco #
+https://github.com/hashicorp-education/learn-nomad-test-drive # Job Specifications to support the "Test Drive Nomad" tutorial on learn.hashicorp.com
+https://github.com/hashicorp-education/learn-nomad-workload-identity-federation # Terraform and other assets for using HashiCorp Nomad with Google Cloud Platform's Federated Identity

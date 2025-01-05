@@ -1,0 +1,42 @@
+https://github.com/hashicorp-dev-advocates/workshop-vault-for-developers # Workshop walkthrough to teach HashiCorp Vault for development teams
+https://github.com/hashicorp-dev-advocates/picasso-templates # This repository holds picasso templates that can be used to generate image assets.
+https://github.com/hashicorp-dev-advocates/demo-blueprint #
+https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint #
+https://github.com/hashicorp-dev-advocates/github-scraper #
+https://github.com/hashicorp-dev-advocates/terraform-boundary-cts # This module creates a Boundary host, host set, host catalog and target for each service registered in Consul.
+https://github.com/hashicorp-dev-advocates/terraform-aws-getting-into-terraform-modules #
+https://github.com/hashicorp-dev-advocates/envoy-metrics-demystified #
+https://github.com/hashicorp-dev-advocates/terraforming-minecraft #
+https://github.com/hashicorp-dev-advocates/boundary-api-cheat-sheet # API Cheat sheet for HashiCorp Boundary
+https://github.com/hashicorp-dev-advocates/waypoint-client # A Go client for HashiCorp Waypoint's gRPC API
+https://github.com/hashicorp-dev-advocates/waypoint-go # Test Waypoint application for building on Nomad with a local registry
+https://github.com/hashicorp-dev-advocates/rift-poc # Rift is an event driven access control orchestror proof of concept tool
+https://github.com/hashicorp-dev-advocates/vault-fake-api #
+https://github.com/hashicorp-dev-advocates/hashiconf-escape-room #
+https://github.com/hashicorp-dev-advocates/hashiconf-leaderboard # Leaderboard application for HashiConf activations
+https://github.com/hashicorp-dev-advocates/hug-assets #
+https://github.com/hashicorp-dev-advocates/waypoint-plugin-terraform #
+https://github.com/hashicorp-dev-advocates/nomad-falco-plugin # A HashiCorp Nomad plugin for Falco
+https://github.com/hashicorp-dev-advocates/hashitalks-assets #
+https://github.com/hashicorp-dev-advocates/vault-plugin-waypoint-secrets-engine # A Vault secrets engine to manage dynamic credentials for Waypoint
+https://github.com/hashicorp-dev-advocates/stub-oidc-provider # Stub OIDC provider for demos based on https://github.com/navikt/stub-oidc-provider
+https://github.com/hashicorp-dev-advocates/boundary-hcp-demos #
+https://github.com/hashicorp-dev-advocates/vault-rabbitmq-demo # Demo using vault to dynamically create credentials for rabbitmq
+https://github.com/hashicorp-dev-advocates/waypoint-demo-app-payments # Waypoint C# Payments application
+https://github.com/hashicorp-dev-advocates/waypoint-plugin-consul-release-controller # Waypoint plugin to configure Consul-Release-Controller
+https://github.com/hashicorp-dev-advocates/security-field-day-8-2022-demo #
+https://github.com/hashicorp-dev-advocates/ndc-london-demo #
+https://github.com/hashicorp-dev-advocates/workshop-spring-vault #
+https://github.com/hashicorp-dev-advocates/terraform-provider-pathfinder # Experimental Terraform Provider for the Pathfinder API.
+https://github.com/hashicorp-dev-advocates/waypoint-plugin-access-control #
+https://github.com/hashicorp-dev-advocates/waypoint-examples # Example Apps that can be deployed with Waypoint
+https://github.com/hashicorp-dev-advocates/waypoint-demo-app-api # Two tier demo application for waypoint
+https://github.com/hashicorp-dev-advocates/terraform-nomad-app #
+https://github.com/hashicorp-dev-advocates/terraform-provider-marketo # A terraform provider for managing marketo
+https://github.com/hashicorp-dev-advocates/waypoint-custom-odr # Custom on-demand runner for Waypoint containing custom plugins
+https://github.com/hashicorp-dev-advocates/terraform-provider-terracurl # A flexible Terraform provider for making API calls
+https://github.com/hashicorp-dev-advocates/terraform-null-resource # Dummy terraform module with a null resource
+https://github.com/hashicorp-dev-advocates/demo-rabbitmq-summit-2022 # Demo as given by Rob Barnes at the RabbitMQ Summit 2022 on Zero Trust Security implementation of a RabbitMQ and Vault aware Go application.
+https://github.com/hashicorp-dev-advocates/waypoint-plugin-noop # Waypoint plugin that allows you to skip a step
+https://github.com/hashicorp-dev-advocates/demo-app-vault-azure-auth # This application demonstrates how applications hosted on Azure VMs can use managed identity to authenticate with HashiCorp Vault using the Azure Auth Method.
+https://github.com/hashicorp-dev-advocates/database-murder-she-wrote-talk #
