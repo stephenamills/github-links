@@ -1,24 +1,53 @@
 https://github.com/vercel/next.js # The React Framework
 
+https://github.com/vercel-solutions/next-workshop-basics # Next.js basics workshop
+https://github.com/vercel-solutions/next-pages-to-app-router-workshop # Migrate from pages router to app router
+https://github.com/vercel-solutions/adobe-target #
+https://github.com/vercel-solutions/next-workshop-app-dir # Next.js app dir workshop
+https://github.com/vercel-solutions/next-webperf-workshop #
+https://github.com/vercel-solutions/app-dir-snippets # App dir snippets
+https://github.com/vercel-solutions/graphql-react-query #
+https://github.com/vercel-solutions/dynamic-route-repro #
+https://github.com/vercel-solutions/i18n-not-found-page #
+https://github.com/vercel-solutions/blue-green-deployments-vercel-3 #
+
+https://github.com/leerob/next-saas-starter # Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+https://github.com/leerob/site # My site built with Next.js, Tailwind, and Vercel.
+https://github.com/leerob/next-self-host # An example deploying Next / Postgres / Nginx to a Ubuntu Linux server.
+https://github.com/leerob/next-music-player # A blazing fast, information dense media player built with Next.js.
+https://github.com/leerob/next-email-client # An email client built with the Next.js App Router and Postgres.
+https://github.com/leerob/mastering-nextjs # A free video course for building static and server-side rendered applications
+https://github.com/leerob/nextjs-vercel-firebase # Next.js App Router + Firebase
+https://github.com/leerob/ncaam # Simple basketball scores and schedules.
+https://github.com/leerob/nextjs-multiple-domains # Example using SSR to handle multiple domains on the same project.
+https://github.com/leerob/linktree #
+https://github.com/leerob/nextjs-netflix # Live stream where I built netflix.com using Next.js, Tailwind, and Next Auth.
+https://github.com/leerob/hono-vercel-edge-functions # Vercel Edge Functions + Hono Router + Wasm + Rust
+https://github.com/leerob/next-static-export-example #
+https://github.com/leerob/dsmtech # Tech companies and startups in the Greater Des Moines area.
+https://github.com/leerob/hono-vercel-ai-sdk # Hono + Vercel AI SDK + OpenAI
+https://github.com/leerob/next-mdx-dynamic #
+https://github.com/leerob/next-mapbox-demo # 🌎 Creating a non-SSR map component inside a Next.js project.
+
 https://github.com/vercel/commerce # Next.js Commerce
-https://github.com/vercel/ai-chatbot # A full-featured, hackable Next.js AI chatbot built by Vercel
-https://github.com/vercel/nextjs-subscription-payments # Clone, deploy, and fully customize a SaaS subscription application with Next.js.
-https://github.com/vercel/platforms # A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
+https://github.com/vercel/ai-chatbot # A full-featured, hackable Next.js AI chatbot
+https://github.com/vercel/nextjs-subscription-payments # SaaS subscription application
+https://github.com/vercel/platforms # A full-stack Next.js app with multi-tenancy and custom domain support
 https://github.com/vercel/next-learn # Learn Next.js Starter Code
-https://github.com/vercel/examples # Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+https://github.com/vercel/examples # Curated collection of examples and solutions
 https://github.com/vercel/next-app-router-playground # https://app-router.vercel.app/
-https://github.com/vercel/virtual-event-starter-kit # Open source demo that Next.js developers can clone, deploy, and fully customize for events.
+https://github.com/vercel/virtual-event-starter-kit # Demo for events.
 https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template # Admin dashboard template.
 https://github.com/vercel/avatar # 💎 Beautiful avatars as a microservice
 https://github.com/vercel/next-react-server-components # Demo repository for Next.js + React Server Components
 https://github.com/vercel/nextjs-postgres-auth-starter # Next.js + Tailwind + Typescript + Drizzle + NextAuth + PostgreSQL starter template.
 https://github.com/vercel/nextgram # A sample Next.js app showing dynamic routing with modals as a route.
 https://github.com/vercel/on-demand-isr #
-https://github.com/vercel/server-components-notes-demo # Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
+https://github.com/vercel/server-components-notes-demo # Experimental demo of React Server Components with Next.js
 https://github.com/vercel/nextjs-portfolio-starter # Easily create a portfolio with Next.js and Markdown.
 https://github.com/vercel/static-fun # A fun demo for wildcard domains
 https://github.com/vercel/swr-site # The official website for SWR.
-https://github.com/vercel/mongodb-starter # A developer directory built on Next.js and MongoDB Atlas, deployed on Vercel with the Vercel + MongoDB integration.
+https://github.com/vercel/mongodb-starter # A developer directory built on Next.js and MongoDB Atlas
 https://github.com/vercel/hyper-site # The official website for the Hyper terminal
 https://github.com/vercel/sveltekit-commerce # SvelteKit Commerce
 https://github.com/vercel/reactions # Next.js Incremental Static Regeneration Demo
@@ -28,14 +57,14 @@ https://github.com/vercel/opentelemetry-collector-dev-setup #
 https://github.com/vercel/beginner-sveltekit # The complete course to start your journey building Svelte applications.
 https://github.com/vercel/ai-sdk-rag-starter #
 https://github.com/vercel/nuxt3-kitchen-sink # An example template showing all Nuxt 3 features on Vercel.
-https://github.com/vercel/postgres-next-starter # Get started quickly with a Postgres database and a Next.js App Router application.
+https://github.com/vercel/postgres-next-starter # Postgres database and a Next.js App Router application.
 https://github.com/vercel/example-integration #
 https://github.com/vercel/cra-to-next # An example of migrating Create React App to Next.js.
 https://github.com/vercel/aws-dsql-movies-demo # AWS DSQL Postgres with Next.js and Vercel
 https://github.com/vercel/ai-review-summary #
 https://github.com/vercel/shirt-shop # An example repository showing how to use @vercel/flags with Next.js.
 https://github.com/vercel/cert-demo #
-https://github.com/vercel/ship-content-driven-websites # Build a highly customizable and dynamic content-driven websites with Next.js and Sanity
+https://github.com/vercel/ship-content-driven-websites # Dynamic content-driven websites with Next.js and Sanity
 https://github.com/vercel/app-playground-api #
 https://github.com/vercel/loading-demos # Different behaviors of the loading.tsx file wrt Link prefetching
 
@@ -109,32 +138,3 @@ https://github.com/vercel-labs/react-spa # A React SPA with Express
 https://github.com/vercel-labs/vercel-open # The `vc open` custom command extension for the Vercel CLI.
 https://github.com/vercel-labs/ai-sdk-deployment-guide #
 https://github.com/vercel-labs/react-19-on-vercel #
-
-https://github.com/vercel-solutions/next-workshop-basics # Next.js basics workshop
-https://github.com/vercel-solutions/next-pages-to-app-router-workshop # Next.js workshop to migrate from a pages router mindset to an app router mindset
-https://github.com/vercel-solutions/adobe-target #
-https://github.com/vercel-solutions/next-workshop-app-dir # Next.js app dir workshop
-https://github.com/vercel-solutions/next-webperf-workshop #
-https://github.com/vercel-solutions/app-dir-snippets # App dir snippets
-https://github.com/vercel-solutions/graphql-react-query #
-https://github.com/vercel-solutions/dynamic-route-repro #
-https://github.com/vercel-solutions/i18n-not-found-page #
-https://github.com/vercel-solutions/blue-green-deployments-vercel-3 #
-
-https://github.com/leerob/next-saas-starter # Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-https://github.com/leerob/site # My site built with Next.js, Tailwind, and Vercel.
-https://github.com/leerob/next-self-host # An example deploying Next / Postgres / Nginx to a Ubuntu Linux server.
-https://github.com/leerob/next-music-player # A blazing fast, information dense media player built with Next.js.
-https://github.com/leerob/next-email-client # An email client built with the Next.js App Router and Postgres.
-https://github.com/leerob/mastering-nextjs # A free video course for building static and server-side rendered applications with Next.js and React.
-https://github.com/leerob/nextjs-vercel-firebase # Next.js App Router + Firebase
-https://github.com/leerob/ncaam # Simple basketball scores and schedules.
-https://github.com/leerob/nextjs-multiple-domains # Example using SSR to handle multiple domains on the same project.
-https://github.com/leerob/linktree #
-https://github.com/leerob/nextjs-netflix # Live stream where I built netflix.com using Next.js, Tailwind, and Next Auth.
-https://github.com/leerob/hono-vercel-edge-functions # Vercel Edge Functions + Hono Router + Wasm + Rust
-https://github.com/leerob/next-static-export-example #
-https://github.com/leerob/dsmtech # Tech companies and startups in the Greater Des Moines area.
-https://github.com/leerob/hono-vercel-ai-sdk # Hono + Vercel AI SDK + OpenAI
-https://github.com/leerob/next-mdx-dynamic #
-https://github.com/leerob/next-mapbox-demo # 🌎 Creating a non-SSR map component inside a Next.js project.
