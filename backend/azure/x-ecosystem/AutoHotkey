@@ -1,13 +1,66 @@
 https://github.com/autohotkey/autohotkey # AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 
+https://github.com/denolfe/autohotkeyboilerplate # boilerplate to help jumpstart a script for personal productivity
+https://github.com/camerb/ahks # My AHK library
+https://github.com/denolfe/autohotkey # shortcuts, hotstrings, hotkeys, apps/utilities
+
+https://github.com/hwayne/autohotkey-scripts # Some of my AutoHotKey scripts
+https://github.com/tdalon/ahk # Repository for AutoHotkey scripts including PowerTools
+https://github.com/jnizm/ahk-scripts-v2 # A collection of useful AutoHotkey v2 scripts and functions
+
 https://github.com/ahkscript/awesome-autohotkey # A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 https://github.com/ahkscript/ahkbook # a free online book about AutoHotkey!
-
-https://github.com/ahkscript/aspdm # AHKScript.org's Package/StdLib Distribution and Management
-https://github.com/ahkscript/iwebbrowser2 # Collection of IE automation functions and tools
-https://github.com/ahkscript/ahk-studio # Created with AHK Studio
-https://github.com/ahkscript/scripthub #
-https://github.com/autohotkey/autohotkey-v1.0 # AutoHotkey is a powerful and easy to use scripting language for desktop automation on Windows.
-https://github.com/autohotkey/ahk2exe # Official AutoHotkey script compiler - written itself in AutoHotkey
 https://github.com/autohotkey/autohotkeydocs # Documentation for AutoHotkey
+
 https://github.com/autohotkey/autohotkeyux # Installer and other scripts packaged with AutoHotkey v2, aimed at improving the overall user experience.
+https://github.com/g33kdude/chrome.ahk # Automate Google Chrome using native AutoHotkey
+https://github.com/plul/public-autohotkey-scripts # For sharing some of my AutoHotKey example scripts
+https://github.com/iseahound/imageput # A core library for images in AutoHotkey. Supports AutoHotkey v1 and v2.
+https://github.com/adampash/texter # Text replacement/substitution application written in AutoHotkey scripting language.
+https://github.com/g33kdude/neutron.ahk # AutoHotkey Web GUIs on Steroids
+https://github.com/jpginc/windows10desktopmanager # An autohotkey desktop manager
+https://github.com/juskillmeqik/poe-leveling-guide # Autohotkey overlay macro for leveling in Path of Exile
+https://github.com/adegard/ahk_scripts # MACRO RECORDER script in AutoHotKey
+https://github.com/pmb6tz/windows-desktop-switcher # An AutoHotKey script for Windows that lets a user change virtual desktops by pressing CapsLock + <num>.
+https://github.com/mgsweet/pubg-macro-assist # Some macros for PUBG coded by autohotkey.
+https://github.com/gorvgoyl/autohotkey-scripts-windows # Autohotkey scripts to make you more productive when using Windows.
+https://github.com/pprovost/autohotkey # My AHK scripts
+https://github.com/ixiko/ahk-libs-and-classes-collection # This is a collection of currently around 3600 Autohotkey libraries, classes with examples.
+https://github.com/thiojoe/thiojoe-ahk-scripts # Various AutoHotkey scripts I've made
+https://github.com/g33kdude/websocket.ahk # Connect to a WebSocket server using AutoHotkey
+https://github.com/juanmamenendez/autohotkey-script-open-show-apps # AutoHotkey script to open, restore or minimize, Windows and Chrome Apps using hotkeys
+https://github.com/uberi/yunit # Super simple testing framework for AutoHotkey.
+https://github.com/pulover/puloversmacrocreator # Automation Utility - Recorder & Script Generator
+https://github.com/septomor/ff9-jump-rope-script # AutoHotKey Script for FF9 on PS4
+https://github.com/tebayaki/autohotkeyscripts # My AutoHotkey scripts and libraries collection
+https://github.com/joshuacc/ahkpm # The AutoHotkey Package Manager
+https://github.com/thyaguster/norecoilapex # AutoHotkey No-Recoil Script for Apex Legends
+https://github.com/bennybroseph/autohotkey_scripts # AHK script used to play games similar to Diablo 3 with a controller
+https://github.com/siderealday/autohotkey # AutoHotKey scripts
+https://github.com/nathanpeck/autohotkey-windows-10-apple-magic-keyboard # AutoHotKey script that allows you to use an Apple Magic Keyboard in Windows 10 with Apple familiar keyboard shortcuts.
+https://github.com/kdalanon/llm-autohotkey-assistant # An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and interact with multiple AI models simultaneously.
+https://github.com/nigh/genshin-fishing # Genshin auto fishing
+https://github.com/patrickspemann/poeflaskscript # An autohotkey Script for using flasks in Path of Exile
+https://github.com/wolf49406/dotahk # Dota2 AutoHotkey scripts
+https://github.com/stevenilsen123/mac-keyboard-behavior-in-windows # This AutoHotKey script gets you all the MacOS keyboard shortcuts you love, in Windows!
+https://github.com/mslonik/hotstrings # AutoHotkey oriented GUI to Hotstrings
+https://github.com/valokoodari/btd6-ahk # An AutoHotkey (v2) script to automate collection events in Bloons TD 6.
+https://github.com/sebinside/hotkeylessahk # Using the power of AutoHotkey - without hotkeys!
+https://github.com/lexikos/activescript.ahk # An AutoHotkey script for hosting Active Scripting languages like VBScript and JScript.
+https://github.com/pukkandan/my-startup-script # A collection of features I use, combined into one master script
+https://github.com/cocobelgica/autohotkey-entryform # InputBox alternative for AutoHotkey
+https://github.com/overflowy/chat-key # Supercharge your productivity with ChatGPT and AutoHotkey 🚀
+https://github.com/fuckpubg/ahk # some dot AHK scripts from UC or MPGH for PUBG Game,and compiled to EXE by me
+https://github.com/thebitstick/autohotkey # Essential Scripts for Mac users stuck on Windows
+https://github.com/aviaryan/ahk-best-practices # [WIP] AutoHotkey Best Practices
+https://github.com/g33kdude/discord.ahk # Write Discord bots in AutoHotkey
+https://github.com/joedf/webapp.ahk # "AHK-Webkit" / Webapp.ahk - Library for developing web-based apps with AutoHotkey.
+https://github.com/raeleus/ahk-macro-recorder # An AutoHotkey script that allows you to record macros
+https://github.com/wielkimati/gbfr-slimepede-farm # Just some AutoHotKey scripts
+https://github.com/cfku/autohotkey # My personal collection of mostly self-made Autohotkey (ahk) scripts
+https://github.com/valleyman86/autorecordgo # Automatically Record Games in CS:GO with this AutoHotKey Script.
+https://github.com/mtsknn/autohotkey # Small yet mighty AutoHotkey v2 scripts.
+https://github.com/seanfisk/diablo2-autohotkey-lib # AutoHotkey macro library for Diablo II: Lord of Destruction
+https://github.com/mslonik/autohotkey-scripts # Autohotkey (AHK) scripts
+https://github.com/deadlydog/ahkcommandpicker # An AutoHotkey (AHK) script that allows you to easily run AHK functions. Instead of having to remember what shortcut key maps to each of your AHK scripts, this displays a list of all your AHK functions and allows you to easily run them.
+https://github.com/temoridao/ahk # AutoHotkey for use every day
