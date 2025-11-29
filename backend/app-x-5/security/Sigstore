@@ -1,0 +1,46 @@
+https://github.com/sigstore/cosign # Code signing and transparency for containers and binaries
+https://github.com/sigstore/gitsign # Keyless Git signing using Sigstore
+https://github.com/sigstore/rekor # Software Supply Chain Transparency Log
+https://github.com/sigstore/fulcio # Sigstore OIDC PKI
+
+https://github.com/sigstore/sigstore # Common go library shared across sigstore services and clients
+https://github.com/sigstore/sigstore-python # A Sigstore client written in Python
+https://github.com/sigstore/sigstore-rs # An experimental Rust crate for sigstore
+https://github.com/sigstore/sigstore-js # Code-signing for npm packages
+https://github.com/sigstore/sigstore-go # Go library for Sigstore signing and verification
+https://github.com/sigstore/sigstore-java # java clients for sigstore
+https://github.com/sigstore/sigstore-ruby # Pure-ruby implementation of sigstore verification
+
+https://github.com/sigstore/terraform-modules # Terraform modules for Sigstore cloud infrastructure
+
+https://github.com/sigstore/model-transparency # Supply chain security for ML
+https://github.com/sigstore/cosign-installer # Cosign Github Action
+https://github.com/sigstore/policy-controller # Sigstore Policy Controller - an admission controller that can be used to enforce policy on a Kubernetes cluster based on verifiable supply-chain metadata from cosign
+https://github.com/sigstore/root-signing # TUF repository for Sigstore trust root
+https://github.com/sigstore/docs # Sigstore documentation
+https://github.com/sigstore/timestamp-authority # RFC3161 Timestamp Authority
+https://github.com/sigstore/k8s-manifest-sigstore # kubectl plugin for signing Kubernetes manifest YAML files with sigstore
+https://github.com/sigstore/helm-charts # Helm charts for sigstore project
+https://github.com/sigstore/cosign-gatekeeper-provider # 🔮 ✈️ to integrate OPA Gatekeeper's new ExternalData feature with cosign to determine whether the images are valid by verifying their signatures
+https://github.com/sigstore/scaffolding # Stuff to make standing up sigstore (esp. for testing) easier for e2e/integration testing.
+https://github.com/sigstore/helm-sigstore # Plugin for Helm to integrate the sigstore ecosystem
+https://github.com/sigstore/gh-action-sigstore-python # A GitHub Action for sigstore-python
+https://github.com/sigstore/community # General sigstore community repo
+https://github.com/sigstore/rekor-search-ui # Search Rekor for entries
+https://github.com/sigstore/rekor-monitor # Log monitor for Rekor to verify immutability and monitor entries
+https://github.com/sigstore/protobuf-specs # Sigstore's Protocol Buffer specifications
+https://github.com/sigstore/friends # Sigstore user stories
+https://github.com/sigstore/sigstore-website # Codebase for sigstore.dev
+https://github.com/sigstore/model-validation-operator # Kubernetes controller to validate AI models
+https://github.com/sigstore/rekor-tiles # Signature Transparency Log designed for ease of use, low cost, and minimal maintenance
+https://github.com/sigstore/sigstore-a2a # Sigstore A2A Agent Signing
+https://github.com/sigstore/sigstore-conformance # Conformance testing for Sigstore clients
+https://github.com/sigstore/root-signing-staging # Staging TUF repository for Sigstore trust root
+https://github.com/sigstore/homebrew-tap # Sigstore Homebrew Tap
+https://github.com/sigstore/tsc # sigstore Technical Steering Committee
+https://github.com/sigstore/sigstore-rekor-types # Python models for Rekor's API types
+https://github.com/sigstore/sigstore-devops-tools # Tools & services used to help in the development flow of sigstore
+https://github.com/sigstore/sig-clients # Home of the clients SIG
+https://github.com/sigstore/github-sync # Pulumi GitHub Sync for sigstore
+https://github.com/sigstore/sigstore-probers # Probers for sigstore infrastructure
+https://github.com/sigstore/sig-public-good-operations # Home of the public good operations SIG
