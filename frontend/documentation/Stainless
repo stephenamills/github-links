@@ -1,0 +1,39 @@
+https://github.com/stainless-api/stl-api # Stainless full-stack API Framework
+https://github.com/stainless-api/upload-openapi-spec-action # A GitHub action to build Stainless SDKs.
+https://github.com/stainless-api/stl-docs-starter-template # Template repo for the Stainless Docs Platform
+
+https://github.com/stainless-api/mcp-front # Auth proxy for Model Context Protocol servers - adds authentication to MCP tools for Claude.ai, Claude Code, Cursor, Gemini
+https://github.com/stainless-api/stainless-api-cli #
+https://github.com/stainless-api/stainless-api-go #
+https://github.com/stainless-api/stainless-api-typescript #
+https://github.com/stainless-api/merge-openapi-spec-action #
+https://github.com/stainless-api/turbo-chart # visualize your turbo build times
+https://github.com/stainless-api/builds-node-api # very rough SDK for Stainless builds API (not currently meant for general use)
+https://github.com/stainless-api/vercel-mcp-template # Template for hosting a remote MCP server in Vercel.
+https://github.com/stainless-api/retrieve-github-access-token # Github Action to retrieve a github access token
+https://github.com/stainless-api/jq-web # Emscripten-compiled jq that is compatible with cloudflare workers
+https://github.com/stainless-api/vscode-stainless #
+https://github.com/stainless-api/rerereric # A custom git rerere implementation that allows fuzzy matching on conflict context
+https://github.com/stainless-api/repack-package # Repack NPM tgz files for better compression.
+https://github.com/stainless-api/sdk-assets # Shared assets for stainless-generated SDKs
+https://github.com/stainless-api/migrate-ts #
+https://github.com/stainless-api/homebrew-tap #
+
+https://github.com/stainless-sdks/todo-ninja-typescript # Staging repository for https://github.com/alexarena/todo-ninja-typescript/tree/main.
+https://github.com/stainless-sdks/py-ai-comparison #
+https://github.com/stainless-sdks/miriam-staging-example #
+https://github.com/stainless-sdks/.github #
+https://github.com/stainless-sdks/ts-ai-comparison #
+
+https://github.com/stainless-api/python-interview #
+https://github.com/stainless-api/bug-squash-go # An interview question sshh
+https://github.com/stainless-api/ruby-interview #
+https://github.com/stainless-api/java-interview #
+https://github.com/stainless-api/typescript-interview #
+https://github.com/stainless-api/kotlin-interview #
+https://github.com/stainless-api/csharp-interview #
+https://github.com/stainless-api/react-interview-boilerplate # Boilerplate project for the Stainless React Interview
+https://github.com/stainless-api/go-interview #
+https://github.com/stainless-api/lead_qualification_take_home # Repository of sample OpenAPI specs for the Lead Qualification Take Home Exercise
+
+FYI Stainless is better than the others as of 11/30/2025

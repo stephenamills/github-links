@@ -1,0 +1,18 @@
+https://github.com/redocly/redoc # 📘 OpenAPI/Swagger-generated API Reference Documentation
+
+https://github.com/redocly/redocly-cli # ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
+https://github.com/redocly/create-openapi-repo # 🤖 Generator for GH repo to help you manage the OpenAPI definition lifecycle
+https://github.com/redocly/openapi-sampler # :capital_abcd: Tool for generation samples based on OpenAPI(fka Swagger) payload/response schema
+https://github.com/redocly/openapi-starter # OpenAPI starter repository
+https://github.com/redocly/museum-openapi-example # An example OpenAPI description for an imaginary Museum API.
+https://github.com/redocly/redocly-vs-code # Redocly VS Code extension
+https://github.com/redocly/repo-file-sync-action # GitHub Action that sync's two (or more) repos.
+https://github.com/redocly/redocly-cli-cookbook # A community-created collection of configuration, plugins and techniques for getting the best from Redocly CLI in every situation.
+https://github.com/redocly/json-to-json-schema # Convert JSON examples into JSON schema (supports Swagger 2, OpenAPI 3 and 3.1)
+https://github.com/redocly/openapi-template # OpenAPI/Swagger 2.0 template, intended to be good starting point for describing your API
+https://github.com/redocly/website # Redocly marketing and docs website
+https://github.com/redocly/warp-multi-sidebars # Template with API and multiple sidebars
+https://github.com/redocly/apidocs-starter # Starter template for Redoc API reference docs projects
+https://github.com/redocly/warp-single-sidebar # Template with API and single sidebar
+https://github.com/redocly/landing-page-gallery # Explore landing pages in a Redocly project that were built with React.
+https://github.com/redocly/reunite-push-action # GitHub Action for pushing files to Redocly Reunite app

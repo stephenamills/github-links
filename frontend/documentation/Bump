@@ -1,0 +1,10 @@
+https://github.com/bump-sh/cli # Bump.sh CLI - Deploy your OpenAPI & AsyncAPI documentations from your CI
+https://github.com/bump-sh/github-action # GitHub action to deploy your API documentation on Bump
+https://github.com/bump-sh/cors-toujours # This is a lightweight HTTP proxy server built using the Sinatra framework. It acts as a pass-through proxy, allowing requests to be forwarded to a specified target URL. Additionally, it provides a JWT (JSON Web Token) verification mechanism to allow only specific requests.
+https://github.com/bump-sh/docs # Content hub for Bump.sh
+https://github.com/bump-sh/examples # A curated list of example public OpenAPI and AsyncAPI definition files
+https://github.com/bump-sh/bump-ci-example # CI integration examples for Github Action, Travis CI, CircleCI and Gitlab CI.
+https://github.com/bump-sh/laravel-api-with-documentation #
+https://github.com/bump-sh/maintenance-page # Public website maintenance page
+https://github.com/bump-sh/api-platform-demo # Bootstrap API with ApiPlatform, with API changelog
+https://github.com/bump-sh/multi-branches-demo # Multi Branches Demo: prepare GitHub workflow script for deployment on multiple branches
