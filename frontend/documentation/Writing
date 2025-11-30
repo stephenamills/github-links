@@ -1,0 +1,146 @@
+AsciiDoc
+https://gitlab.com/antora/antora # A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web. Ideally suited for users of Asciidoctor.
+
+https://gitlab.com/antora/demo/docs-site # Example playbook and content repositories.
+https://gitlab.com/antora/demo/demo-component-a # Example of a documentation component.
+https://gitlab.com/antora/demo/demo-component-b # Example of a documentation component.
+
+https://gitlab.com/antora/antora-ui-default # Produces a UI for documentation sites created using Antora.
+https://gitlab.com/antora/antora-lunr-extension # Add an in-browser search powered by Lunr to an Antora site.
+https://gitlab.com/antora/antora-assembler # An Antora add-on library and extension that assembles content from multiple pages into aggregate documents, converts them to the specified output format, and publishes them
+https://gitlab.com/antora/docs.antora.org # The playbook project that produces the documentation site for the Antora project.
+
+https://github.com/antora-for-modular-docs/antora-for-modular-docs # Guidelines and repository template to start an Antora project compatible with the Modular Documentation Initiative Guidelines
+
+https://github.com/asciidoctor/asciidoctor # :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
+
+https://github.com/asciidoctor/asciidoctor-pdf # :page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
+https://github.com/asciidoctor/asciidoctor-diagram # Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom.
+https://github.com/asciidoctor/asciidoctor-intellij-plugin # AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
+https://github.com/asciidoctor/asciidoctor-vscode # AsciiDoc support for Visual Studio Code using Asciidoctor
+https://github.com/asciidoctor/docker-asciidoctor # A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
+https://github.com/asciidoctor/asciidoctor-reveal.js # A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
+https://github.com/asciidoctor/asciidoctor-browser-extension # :white_circle: An extension for web browsers that converts AsciiDoc files to HTML using Asciidoctor.js.
+https://github.com/asciidoctor/asciidoctor-epub3 # :blue_book: Asciidoctor EPUB3 is a set of Asciidoctor extensions for converting AsciiDoc to EPUB3
+https://github.com/asciidoctor/kramdown-asciidoc # A kramdown extension for converting Markdown documents to AsciiDoc.
+https://github.com/asciidoctor/asciidoctor-kroki # Asciidoctor.js extension to convert diagrams to images using Kroki!
+https://github.com/asciidoctor/asciidoctor-extensions-lab # A lab for testing and demonstrating Asciidoctor extensions.
+https://github.com/asciidoctor/asciidoctor-confluence # Push Asciidoctor file to Confluence
+https://github.com/asciidoctor/asciidoctor-backends # Backends (i.e., templates) for Asciidoctor, a Ruby port of AsciiDoc.
+https://github.com/asciidoctor/docgist # Render AsciiDoc documents from Gists, GitHub, DropBox and other remote sources in the browser.
+https://github.com/asciidoctor/asciidoctor-bespoke # :b: An Asciidoctor converter that generates the HTML component of a Bespoke.js presentation from AsciiDoc.
+https://github.com/asciidoctor/asciidoctorj-screenshot # A set of AsciidoctorJ extensions for adding automated screenshots to an AsciiDoc document.
+https://github.com/asciidoctor/asciidoctor-reducer # :alembic: A tool to generate a single AsciiDoc document by expanding all the include directives reachable from the parent document.
+https://github.com/asciidoctor/asciidoctor-chart # A set of Asciidoctor extensions that add a chart block and block macro to AsciiDoc for including charts in your AsciiDoc document.
+https://github.com/asciidoctor/docbookrx # (An early version of) a DocBook to AsciiDoc converter written in Ruby.
+https://github.com/asciidoctor/gitbucket-asciidoctor-plugin # A GitBucket plug-in that provided AsciiDoc rendering capabilities
+https://github.com/asciidoctor/asciidoctor-leanpub-converter # A backend for AsciidoctorJ to generate Leanpub-flavoured Markdown
+https://github.com/asciidoctor/asciidoctor-cli.js # The Command Line Interface (CLI) for Asciidoctor.js
+https://github.com/asciidoctor/docs.asciidoctor.org # The Antora playbook project (i.e., site manifest) for the Asciidoctor documentation site.
+https://github.com/asciidoctor/asciidoctor-docs-ui # The project that produces the UI (theme & user interactions) for docs.asciidoctor.org.
+https://github.com/asciidoctor/guard-asciidoc # Guard::AsciiDoc monitors and automatically renders your AsciiDoc documents using Asciidoctor
+https://github.com/asciidoctor/asciidoctor-mallard # A Mallard 1.0 converter for Asciidoctor
+https://github.com/asciidoctor/brand # Brand assets and visual identity for the Asciidoctor project
+https://github.com/asciidoctor/.github # Default files for all repositories in the Asciidoctor organization on GitHub
+
+GitHub & Markdown
+https://github.com/ml-explore/mlx # Table of contents
+https://github.com/apple/corenet # Table of the directory structure
+
+https://github.com/apple/ml-hierarchical-confusion-matrix # Icons for links, hosted outside of the repository
+https://github.com/freshworks/marketplace-sample-apps # footer logo
+https://github.com/aws-samples/istio-on-amazon-eks # table of contents glyph
+https://github.com/octokatherine/readme.so # table of contents creator
+https://github.com/sindresorhus/css-in-readme-like-wat
+https://github.com/sindresorhus/github-markdown-css
+https://github.com/sindresorhus/ora # use of typography
+https://github.com/trimstray/the-book-of-secret-knowledge # decent typography with a dense long list of resources
+https://github.com/adrianhajdin/nike_landing_page # pretty badges
+https://github.com/brendandburns/designing-distributed-systems-labs # basic
+https://badgen.net # creates badges
+https://github.com/learn-co-curriculum/git-resources-readme
+https://github.com/github-linguist/linguist/vendor # supported syntax highlighting languages
+https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml # alternative language alias names
+https://github.com/kafbat # lol, cute  ༼ つ ◕_◕ ༽つ
+https://github.com/redpanda-data/gcp-psc # logo
+
+https://docs.github.com/en/get-started/writing-on-github
+
+https://en.wikipedia.org/wiki/Template:Navbox_punctuation
+
+More Stuff
+
+https://flatironschool.com #
+https://frontendmasters.com #
+https://stateofreact.com # Features section explanations
+https://stateofhtml.com # Features section
+
+https://cloud.google.com #
+https://hashicorp.com # Also, their "How Hashicorp Works" site
+https://oracle.com #
+https://redhat.com #
+
+https://jetbrains.com #
+
+https://acm.org #
+https://dzone.com #
+https://infoq.com # Also, the InfoQ Developer Marketing Blog
+
+https://books.google.com #
+https://oreilly.com #
+
+https://www.writethedocs.org
+https://assets.bbhub.io/bna/sites/18/2023/12/BLAW-2023-Stylesheet.pdf # Bloomberg Law Stylesheet
+
+O'Reilly
+https://github.com/oreillymedia/htmlbook # Let's write books in HTML!
+https://github.com/oreillymedia/thebe # Jupyter javascript plugin for static sites
+https://github.com/oreillymedia/etudes-for-erlang # Companion exercises for O'Reilly Media's "Introducing Erlang"
+https://github.com/oreillymedia/asciidoctor-htmlbook # Templates for the htmlbook backend for Asciidoctor
+https://github.com/oreillymedia/atlas-cli # A command line for building and publishing (HTML only) Atlas projects
+https://github.com/oreillymedia/htmlbook.js # html -> htmlbook parser
+https://github.com/oreillymedia/getting-started-with-atlas # A guide to using Atlas, O'Reilly's wiki-like, git-managed authoring platform.
+https://github.com/oreillymedia/atlas_tech1c_theme # A CSS stylesheet for technical books.
+https://github.com/oreillymedia/atlas_book_skeleton # Skeleton files for a new Atlas project
+https://github.com/oreillymedia/production-resources # Help and Information about O'Reilly Production
+https://github.com/oreillymedia/atlas_trade_theme # One of two default themes for O'Reilly Atlas
+https://github.com/oreillymedia/atlas_assets # Public repository with assets and design guide for the Atlas platform
+https://github.com/oreillymedia/article-template # Single chapter structure for short form writing.
+https://github.com/oreillymedia/atlas-api # Gem to interact with the O'Reilly Atlas API
+https://github.com/oreillymedia/pyxie-static # Companion repo to jupyter-kernel to show how to insert an ipython notebook code cell into a static site
+https://github.com/oreillymedia/atlas-book-html-sample #
+https://github.com/oreillymedia/atlas-book-sample # Sample Book Repo for Atlas v2
+https://github.com/oreillymedia/promptlab # A CLI for managing prompts against large corpus of text (like a book)
+https://github.com/oreillymedia/interactive_demo #
+https://github.com/oreillymedia/presentation-template #
+https://github.com/oreillymedia/lander-template #
+https://github.com/oreillymedia/atlas-p5-template # An Atlas template for making P5 projects.
+https://github.com/oreillymedia/prompt-library #
+https://github.com/oreillymedia/prompt-workshop # A playground for building prompts with wc-orm-chat
+https://github.com/oreillymedia/git-test-06252015 # A simple test of Git skillz
+https://github.com/oreillymedia/bfrank-demo-01 # Brad's demo repository.
+https://github.com/oreillymedia/atlas_theme_template # Creates the document structure and placeholder files for a new theme.
+https://github.com/oreillymedia/atlas_basic_template # A barebones template that includes the absolute minimum to get you started.
+
+https://github.com/voyage-ai/unstructured-docs
+
+https://github.com/makerpress/training_files # Training Files for Makerpress
+https://github.com/makerpress/gettingstartedguide # Getting Started with AsciiDoc
+https://github.com/makerpress/javascript_bibliography #
+https://github.com/makerpress/mintduino #
+https://github.com/makerpress/flashcards #
+https://github.com/makerpress/java_bibliography # Java Bibliography for Safari Books Online
+https://github.com/makerpress/perl_cookbook_asciidoc #
+https://github.com/makerpress/os_report #
+https://github.com/makerpress/timoreilly_nutshell #
+https://github.com/makerpress/safari_bibliography #
+https://github.com/makerpress/new_project # This is my new project
+https://github.com/makerpress/testpushfromgollum #
+https://github.com/makerpress/final_report #
+https://github.com/makerpress/vargant_base #
+https://github.com/makerpress/test_mintduino # MintDuino: Fun project for stuff
+https://github.com/makerpress/adk_gheo #
+https://github.com/makerpress/process_post_request #
+https://github.com/makerpress/gollum_wsgi_validation #
+https://github.com/makerpress/covergen # Design for cover generator
+
