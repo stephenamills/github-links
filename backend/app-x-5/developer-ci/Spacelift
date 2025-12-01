@@ -1,0 +1,114 @@
+https://github.com/spacelift-io/spacectl # Spacelift client and CLI
+
+https://github.com/spacelift-io/spacelift-intent # Intent lets you provision and manage cloud infrastructure using natural language
+https://github.com/spacelift-io/terraform-provider-spacelift # Terraform provider to interact with Spacelift
+https://github.com/spacelift-io/spacelift-policies-example-library # A library of example Spacelift policies
+https://github.com/spacelift-io/terraform-starter # Starter repository to play with Spacelift
+https://github.com/spacelift-io/spacelift-migration-kit # Helper to move from various tools to Spacelift
+https://github.com/spacelift-io/terraform-aws-spacelift-workerpool-on-ec2 # Terraform module deploying a Spacelift worker pool on AWS EC2 using an autoscaling group
+https://github.com/spacelift-io/terragrunt-starter # Starter repository to play with Spacelift + Terragrunt
+https://github.com/spacelift-io/terraform-provider-smtp # Trivial provider to send emails using the SMTP protocol
+https://github.com/spacelift-io/spacelift-helm-charts #
+https://github.com/spacelift-io/spacelift-worker-image # Building Spacelift-friendly image for private workers
+https://github.com/spacelift-io/user-documentation # Spacelift User Documentation
+https://github.com/spacelift-io/terraform-spacelift-stack # Creates a Spacelift stack and supporting resources.
+https://github.com/spacelift-io/runner-terraform # Spacelift runner image for Terraform
+https://github.com/spacelift-io/prometheus-exporter # A Prometheus exporter for scraping Spacelift metrics.
+https://github.com/spacelift-io/onboarding #
+https://github.com/spacelift-io/aws-cli-alpine # AWS CLI v2 Docker image built on Alpine 🐳
+https://github.com/spacelift-io/setup-spacectl # A GitHub Action to install spacectl 🚀
+https://github.com/spacelift-io/terraform-spacelift-msteams # Policy-based integration between Spacelift and Microsoft Teams
+https://github.com/spacelift-io/terraform-azure-spacelift-workerpool #
+https://github.com/spacelift-io/demo-preview-environments-manager #
+https://github.com/spacelift-io/runner-ansible #
+https://github.com/spacelift-io/ec2-workerpool-autoscaler # "Manual" autoscaler for the AWS EC2-based Spacelift worker pool
+https://github.com/spacelift-io/vcs-agent # Spacelift VCS Agent - a gateway to access internal VCS systems
+https://github.com/spacelift-io/terraform-google-spacelift-workerpool # Terraform module deploying a Spacelift worker pool on GCP Compute Engine using an Instance Group Manager
+https://github.com/spacelift-io/spacelift-api-examples #
+https://github.com/spacelift-io/terraform-spacelift-example # Example Module which creates a bit of Spacelift infrastructure.
+https://github.com/spacelift-io/fips-images # FIPS Enabled Base Images
+https://github.com/spacelift-io/self-hosted-v2-to-v3-kit # This repository contains a Python script that scans your existing V2 infrastructure and generate a Terraform project out of it
+https://github.com/spacelift-io/spcontext #
+https://github.com/spacelift-io/demo-preview-environments-infra #
+https://github.com/spacelift-io/pulumi-spacelift # Pulumi provider to interact with Spacelift
+https://github.com/spacelift-io/terraform-aws-spacelift-selfhosted # Terraform module deploying a basic selfhosted Spacelift infrastructure to AWS
+https://github.com/spacelift-io/kmsjwt # KMS implementation of `jwt.SigningMethod`
+https://github.com/spacelift-io/flows-app-jira # Flows app for Atlassian Jira
+https://github.com/spacelift-io/local-worker-pool # Run a worker pool locally with Docker Compose
+https://github.com/spacelift-io/terraform-spacelift-datadog # Terraform module providing a notification-based integration between Spacelift and Datadog
+https://github.com/spacelift-io/spacelift-s3-demo #
+https://github.com/spacelift-io/homework-object-storage #
+https://github.com/spacelift-io/runner-pulumi # Spacelift runner image for Pulumi
+https://github.com/spacelift-io/multimodule # Reference implementation for hosting multiple modules in a single repo
+https://github.com/spacelift-io/signed-run-reference-implementation # Reference implementation for Spacelift signed runs
+https://github.com/spacelift-io/flows-app-variables # Flows app for managing shared configuration
+https://github.com/spacelift-io/flows-app-pinecone # Spacelift Flows app for Pinecone
+https://github.com/spacelift-io/flows-app-featurebase # Spacelift Flows app for Featurebase
+https://github.com/spacelift-io/flows-app-aws-resources # Flows app managing selected AWS resources
+https://github.com/spacelift-io/flowctl #
+https://github.com/spacelift-io/update-file-action # Create/Update/Delete a file in a repository other than the current one.
+https://github.com/spacelift-io/demo-preview-environments-service #
+https://github.com/spacelift-io/flows-app-clickup # Spacelift Flows app for ClickUp
+https://github.com/spacelift-io/flows-app-ssh # Flows app for managing remote servers using SSH
+https://github.com/spacelift-io/homework-plan-builder #
+https://github.com/spacelift-io/homework-object-storage-ws #
+https://github.com/spacelift-io/flows-app-aws-api # Flows apps wrapping low-level AWS APIs
+https://github.com/spacelift-io/.github # Contains common information and guidelines for the spacelift-io organization.
+https://github.com/spacelift-io/flows-app-launchdarkly # Flows app for LaunchDarkly
+https://github.com/spacelift-io/terraform-provider-flows #
+https://github.com/spacelift-io/flows-app-anthropic # Flows app for the Anthropic API
+https://github.com/spacelift-io/terraform-aws-eks-spacelift-flows-selfhosted #
+https://github.com/spacelift-io/runner-terraform-1password # A runner image with 1Password CLI added
+https://github.com/spacelift-io/flows-app-openrouter # Spacelift Flows app for OpenRouter
+https://github.com/spacelift-io/demo-preview-environments-setup #
+https://github.com/spacelift-io/cortex-plugin # Plugin for cortex.io
+https://github.com/spacelift-io/testing-spacelift # Testing Spacelift workflows
+https://github.com/spacelift-io/flows-app-cloudflare # Flows app for the Cloudflare API
+https://github.com/spacelift-io/homebrew-spacelift # Spacelift Homebrew Tap
+https://github.com/spacelift-io/flows-app-gcp-api # Flows app wrapping Google Cloud Platform APIs
+https://github.com/spacelift-io/terraform-azure-spacelift-selfhosted # Terraform module deploying a basic selfhosted Spacelift infrastructure to Azure
+https://github.com/spacelift-io/flows-app-conversations # Spacelift Flows app to manage conversations with agents
+https://github.com/spacelift-io/self-hosted-usage-data-exporter #
+https://github.com/spacelift-io/flows-app-teams-bot # Flows app implementing Microsoft Teams bot interactions
+https://github.com/spacelift-io/terraform-spacelift-policy # Creates a Spacelift policy.
+https://github.com/spacelift-io/flows-app-confluence # Flows app for automating Atlassian Confluence
+https://github.com/spacelift-io/flows-app-template # Template repository for creating Spacelift Flows apps
+https://github.com/spacelift-io/symlinks-test-image #
+https://github.com/spacelift-io/flows-app-utilities # Flows app containing generally useful utility blocks
+https://github.com/spacelift-io/flows-app-gcp-workflow-identity-federation # Spacelift Flows app to generate short-lived tokens for use with the GCP API
+https://github.com/spacelift-io/flows-app-hcp-terraform # Spacelift Flows app for HCP Terraform
+https://github.com/spacelift-io/terraform-aws-spacelift-flows-agentpool-ec2 #
+https://github.com/spacelift-io/marcinwyszynski-test #
+https://github.com/spacelift-io/flows-app-aws-sts # Flows app exposing dynamic AWS credentials using STS
+https://github.com/spacelift-io/backstage-plugins # Backstage plugins for Spacelift
+https://github.com/spacelift-io/cloudformation-example #
+https://github.com/spacelift-io/terraform-google-spacelift-selfhosted # Terraform module deploying a basic selfhosted Spacelift infrastructure to Google Cloud Platform
+https://github.com/spacelift-io/runner-serverless # Spacelift image for serverless.
+https://github.com/spacelift-io/flows-app-slack # Flows app for Slack
+https://github.com/spacelift-io/aws-ec2-worker-pool-example #
+https://github.com/spacelift-io/flows-app-spacelift # Flows app to manage Spacelift
+https://github.com/spacelift-io/kubernetes-helm-example # An example repo used to illustrate deploying Helm charts using the Spacelift Kubernetes integration
+https://github.com/spacelift-io/terraform-aws-iam-spacelift-selfhosted #
+https://github.com/spacelift-io/celplate # Templating with Google CEL
+https://github.com/spacelift-io/spacelift-migration-kit-chilly #
+https://github.com/spacelift-io/flows-community-registry #
+https://github.com/spacelift-io/flows-app-servicenow #
+https://github.com/spacelift-io/flows-core-registry # Core Flows app registry
+https://github.com/spacelift-io/postgres-image #
+https://github.com/spacelift-io/flows-app-azure-api # Flows apps automatically built from the Azure service definitions
+https://github.com/spacelift-io/flows-app-oauth2 # Flows app abstracting an OAuth2-authenticated service
+https://github.com/spacelift-io/flows-app-teams-management # Flows app for Microsoft Office Teams
+https://github.com/spacelift-io/hook-plugins #
+https://github.com/spacelift-io/flows-app-azure-oidc # OIDC credentials provider for Microsoft Azure
+https://github.com/spacelift-io/terraform-aws-ecs-spacelift-selfhosted # Terraform module deploying a Spacelift environment to an ECS cluster
+https://github.com/spacelift-io/flows-app-statuspage # Spacelift Flows app for Atlassian Statuspage
+https://github.com/spacelift-io/flows-app-github # Flows app for GitHub
+https://github.com/spacelift-io/terraform-aws-eks-spacelift-selfhosted #
+https://github.com/spacelift-io/spacelift-operator-demo # Demo application for the spacelift operator
+https://github.com/spacelift-io/flows-app-brave-search # Spacelift Flows app for the Brave Search API
+https://github.com/spacelift-io/flows-app-segment # Spacelift Flows app for Segment
+https://github.com/spacelift-io/flows-app-oidc # Flows app for generating OIDC tokens
+https://github.com/spacelift-io/flows-app-postgresql #
+https://github.com/spacelift-io/plugins #
+https://github.com/spacelift-io/flows-app-template-core # A template repository for creating new Flows core apps with best practices and CI/CD built-in.
+https://github.com/spacelift-io/flows-app-incident-io #
