@@ -1,23 +1,44 @@
-https://github.com/baney75/myelinate
-https://github.com/HKUDS/DeepTutor
-https://github.com/lowwwbank/anything-to-course
-https://github.com/SYuan03/Skill-Anything
-https://github.com/biswarupbiswas/lecture-notes-skill # Syllabus with CO–PO articulation per NBA SAR
+01–03  |  WORK THROUGH AN ITPM SPREADSHEET LECTURE
+  --------------------------------------------------
 
-https://github.com/virgiliojr94/book-to-skill
-https://github.com/kangarooking/cangjie-skill
+  https://github.com/VatsalP117/build-interactive-study-guides # Transcript + spreadsheet screenshots → offline HTML guide. Marks inferred steps.
 
-https://github.com/janestreet/agent_skills/ # socratic
+  https://github.com/kangarooking/cangjie-skill # Kreil’s formulas and procedures → reusable agent skills. Tests when each method applies.
 
-https://github.com/VatsalP117/build-interactive-study-guides
+  https://github.com/lowwwbank/anything-to-course # Attempt first → worked example → contrasting case → retry. Good for spreadsheet drills.
 
-https://github.com/kaixiad/RetainCraft # 5 evidence-based methods in one protocol — all effect sizes from Donoghue & Hattie 2021 meta-analysis (242 studies, 169k participants). 
 
-https://gist.github.com/suvojit-0x55aa/61053bd8c0b79a1b4f208272778e0247 # Feynman-style teaching from any source
-https://github.com/mbjornson/feynman
+  04–08  |  TAKE NOTES AND REVIEW ACROSS LECTURES
+  -----------------------------------------------
 
-https://github.com/vitalysim/the-knowledge-guy
+  https://github.com/SYuan03/Skill-Anything # Quizzes every section of a long lecture. Exports Anki cards with exact source quotes.
 
-https://github.com/OnePathToFreedom/smart-notes-skill
+  https://github.com/OnePathToFreedom/smart-notes-skill # Recurring indicators merge into one Obsidian note. Flashcards test links across lectures.
 
-https://github.com/anatoledms/lecture-transcript-to-notes
+  https://github.com/baney75/myelinate # Recall before recap. Timestamped questions point straight to the clip worth replaying.
+
+  https://github.com/anatoledms/lecture-transcript-to-notes # Captions → Markdown walkthrough. Flags missing demo steps and verifies references.
+
+  https://github.com/kaixiad/RetainCraft # 5 study methods, FSRS-5 reviews. Effect sizes from Donoghue & Hattie 2021 (242 studies, ~169k participants).
+
+
+  09–12  |  QUESTION THE MATERIAL AND TEST YOUR UNDERSTANDING
+  ----------------------------------------------------------
+
+  https://github.com/HKUDS/DeepTutor # Course-wide Q&A with page citations. Graded Mastery Path questions feed a reusable question bank.
+
+  https://github.com/janestreet/agent_skills/ # Jane Street Socratic oral exam. One question at a time, 0–5 mastery map per subskill.
+
+  https://github.com/vitalysim/the-knowledge-guy # One question across several books. Chapter citations show where authors agree or disagree.
+
+  https://gist.github.com/suvojit-0x55aa/61053bd8c0b79a1b4f208272778e0247 # Four-pass Feynman prompt. Explain the source → map it → unpack it → rebuild it.
+
+
+  13–15  |  SPECIALIZED TOOLS
+  ---------------------------
+
+  https://github.com/virgiliojr94/book-to-skill # Manual lookup. Turns a technical book into on-demand chapters, a glossary, and decision tables.
+
+  https://github.com/mbjornson/feynman # Single-concept drill. Scores your teach-back 1–10 and revisits only the gaps until 9/10.
+
+  https://github.com/biswarupbiswas/lecture-notes-skill # Course design. Syllabus with CO–PO articulation per NBA SAR, plus aligned LaTeX/PDF notes and exams.
