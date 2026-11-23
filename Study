@@ -1,7 +1,7 @@
 01–03 | Learn a method and practice it
   --------------------------------------
 
-  https://github.com/VatsalP117/build-interactive-study-guides # Transcript + screenshots → offline interactive guide. Labels inferred steps in on-screen demos.
+  https://github.com/vatsalp117/build-interactive-study-guides # Transcript + screenshots → offline interactive guide. Labels inferred steps in on-screen demos.
 
   https://github.com/kangarooking/cangjie-skill # Methods from books, talks, or podcasts → reusable agent skills. Tests when each method applies.
 
@@ -11,21 +11,21 @@
   04–08 | Take notes and remember what you learn
   ----------------------------------------------
 
-  https://github.com/SYuan03/Skill-Anything # Quizzes and flashcards by section, even for long sources. Exact source quotes carry over to Anki.
+  https://github.com/syuan03/skill-anything # Quizzes and flashcards by section, even for long sources. Exact source quotes carry over to Anki.
 
-  https://github.com/OnePathToFreedom/smart-notes-skill # Merges recurring concepts into linked Obsidian notes. Flashcards test connections across lectures.
+  https://github.com/onepathtofreedom/smart-notes-skill # Merges recurring concepts into linked Obsidian notes. Flashcards test connections across lectures.
 
   https://github.com/baney75/myelinate # Video tutor that asks what you remember before recapping. Timestamped questions point to the clip worth replaying.
 
   https://github.com/anatoledms/lecture-transcript-to-notes # Captions → Markdown walkthrough. Flags missing demo steps and verifies the lecturer’s references.
 
-  https://github.com/kaixiad/RetainCraft # Five study methods with effect sizes from Donoghue & Hattie’s 2021 meta-analysis (242 studies, ~169k participants). FSRS-5 schedules reviews.
+  https://github.com/kaixiad/retaincraft # Five study methods with effect sizes from Donoghue & Hattie’s 2021 meta-analysis (242 studies, ~169k participants). FSRS-5 schedules reviews.
 
 
   09–12 | Ask better questions and test your understanding
   --------------------------------------------------------
 
-  https://github.com/HKUDS/DeepTutor # Course-wide Q&A with page citations. Graded questions from your study path become a reusable practice bank.
+  https://github.com/hkuds/deeptutor # Course-wide Q&A with page citations. Graded questions from your study path become a reusable practice bank.
 
   https://github.com/janestreet/agent_skills/ # Jane Street’s Socratic oral exam. One question at a time, with a 0–5 mastery map for each subskill.
 
