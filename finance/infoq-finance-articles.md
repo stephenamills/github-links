@@ -1,6 +1,6 @@
 # Applied Finance: InfoQ Reading List
 
-A curated collection of InfoQ articles, news, podcast transcripts and selected presentations for learning corporate finance, managerial accounting, investment decisions, business economics and profitability through real corporate and technology decisions.
+A curated collection of InfoQ articles, news, podcast transcripts and selected presentations for learning corporate finance and managerial accounting through real corporate and technology decisions.
 
 **★ = particularly high-value reading.**
 
@@ -176,4 +176,4 @@ A real option is the value of retaining the right, but not the obligation, to ma
 
 The academic subjects covered are corporate finance, managerial accounting, managerial economics, capital budgeting, and financial planning and analysis (FP&A). This collection is useful for contextualizing those subjects but is not a substitute for studying financial statements, working capital, corporate valuation and cost of capital.
 
-**Scope:** Curated from the earlier InfoQ scan, with URLs recovered where necessary. Not every previously supplied URL or underlying claim was independently rechecked during export. For a presentation-only list, see [Applied Finance: InfoQ Conference Presentations](infoq-finance-presentations.md).
+For a presentation-only list, see [Applied Finance: InfoQ Conference Presentations](infoq-finance-presentations.md).
